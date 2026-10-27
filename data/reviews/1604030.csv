@@ -1,0 +1,1706 @@
+appid,recommendationid,author_id,review,weighted_vote_score,votes_up,voted_up
+1604030,116641614,76561197999928387,"First of all, a couple things about my playthrough:
+
+- Solo, with some tweaks to the server settings to make it less grindy (boosted gather rate, refinement rate, things like that).
+- Reached Dunley Farmlands / Iron Gear so far.
+- Dipped my toe into multiplayer, didn't bother with the official servers.
+
+[i][b]The Positives[/b][/i]:
+[list]
+[*] Great gothic art style.
+[*] PvE Combat is fun and challenging, especially with large groups of mobs.
+[*] Weapon fighting styles feel unique and lend themselves to different tactics.
+[*] Spells are fairly diverse.
+[*] Interior decorating.
+[*] Plethora of server setting options to customize the experience and lessen the grind for solo play, if so desired.
+[*] Castle layout changes are mostly fairly easy, especially when you set the resource return rate to 100% (because I'm gonna reorganize my castle design and NO, I will NOT grind for it!). Free movement of objects in your castle is a god-send.
+[*] Some bosses are thrilling, nail-biting affairs with near-misses and clutch moments abound. (Bright Archer, Bandit King)
+[*] The sense of humor.
+[/list]
+
+[i][b] The Negatives [/b][/i]:
+[list]
+[*] Otherwise smooth framerate punctuated by relatively long (~0.5-1 sec) periods of stuttering, even on Medium settings.
+[*]  Castle layout changes get very fiddly in certain situations. [strike]Can't delete stray floors if they have a wall on top of them.[/strike] As of Patch 0.5.42050, you can now delete floors even if there's a wall on top of them (with a few exceptions). There's still the lack of ease in switching the position of your Castle Heart, which I just thought of now, so I'll keep the general case in.
+[*] The grid feels a bit restrictive when building gravel paths.
+[*] [strike]Weirdly difficult to make a good looking garden.[/strike]
+[*] Some bosses are a bit boring and too easy even for solo play. (That ice guard guy, the Shadow Priestess).
+[*] Server settings cannot be changed for an existing server easily, even if the server isn't running. It is technically possible to do it, but it requires fiddling with JSON files which may be intimidating for the casual user. Not so hard when you know what's up, but takes a bit too much research for what should be an easy adjustment in-game.
+[*] No apparent ability to customize servant mission lengths. Sure, I could leave my computer on overnight and plop my character in the coffin, but I really don't think that's ideal. Besides, the world's got enough computer heat output without me adding to it.
+[*] Can't pause during solo play. Should be an easy enough fix, since a similar game, Valheim, did that within the first few patches.
+[*] Solo servers should keep some world effects permanent [spoiler](blowing up the Bandit Stronghold gates)[/spoiler]
+[/list]
+
+Overall, well worth the twenty bucks I spent. Very fun, even if I'm not playing multiplayer, which seems to be the primary game mode they're concerned with. The negatives were mostly minor annoyances that don't detract that much from the overall experience.
+
+Now, for a wishlist of things I'd like them to expand upon. These are mostly big things that I'd never expect them to accomplish anytime soon.
+
+[i][b]Wishlist[/b][/i]
+[list]
+[*] Servants. For we lonesome solo players, some help in gathering local building materials would be welcome. We also should be able to tell them to do things around the castle -- feed the prisoners if food is available, kill any ghouls that pop up out of the tombs, gather materials from refinement stations and place them in a designated chest, personally fetch us some blood from the blood cabinet, etc. What else are they there for if not to make our decadent, immortal lives easier?
+[*] PvE castle sieges. The local bandits / militia / spiders should try and siege nearby castles on occasion. Should be toggleable, obviously, or limited to certain times like with PvP castle sieges.
+[*] More facial feature options. The game has an excellent variety of hairstyles, but the beard selection is paltry.
+[*] Separate eyebrow options from the face options, if possible.
+[/list]",0.9559735655784607,270,True
+1604030,140723529,76561198098901571,"[b] This is a PvE review: [/b]
+ 
+I like this game a lot, as it has many elements i personally enjoy in video games, from base building, items crafting, material farming, planning and preparing for boss fights, then unlocking new items and abilities to make yourself more powerful, and try to beat the next challenge.
+
+[h1] What I like: [/h1]
+
+[b] The blood mechanic - [/b] since you play as a vampire you rely on drinking the blood of your victims to keep yourself alive, however there are different types of blood that open up different types of buffs and bonuses for you. Say for example you wanna go farm for stones, why not drink a worker blood and increase the amount of raw material you yield. Obviously blood comes with different purity levels... so the higher purity you get, the more bonuses you unlock for that type of blood, so happy hunting.
+
+[b] The spells system - [/b] as you start the game you will have access to a limited number of spells, but from the beginning you will have a glimpse at a spell book that has a lot of hidden spell slots you need to unlock, the starting spells are useful enough to get you through the early game challenges, and you can even keep using them until the end if you enjoy them, but in order to unlock new spells you have to beat certain bosses, drinking their blood will unlock their knowledge and grants you new abilities.
+
+The game wants you to experiment with spell builds, especially when fighting specific bosses, if you find yourself struggling it wouldn't be a bad idea to try different spells.
+
+[b] The jewels system - [/b] it's your standard gem system, where you enhance spells by equipping jewels on them, to unlock modifiers or boost the spells effects, you can find these jewels as random drops, but you will have access to crafting them later on, so you can customize and fine tune your favorite spells to your liking.
+
+[b] Boss fights - [/b] for the most part they are very well designed, challenging but fair and satisfying to beat, I managed to solo everything with the right spells, blood types, and practice, again the fights can be very challenging (especially solo) but they can definitely be won (I mean, I managed lol), some even can feel easy if you know what you are doing and have the right tools. 
+
+The fights are not won by thoughtless aggression, they are designed to test your reflexes for sure, but for the most part it's more about, patience, learning the boss patterns, putting a strategy for your approach and again having the right tools and buffs.
+
+[b] Gear Score - [/b] the game has a variety of weapons, armors, and accessories to use, you start with basic stuff and unlock more advanced and powerful stuff the further you play, the total score of equipped items determines the damage output against enemies, and how much damage you receive from them.
+
+Different weapons unlock different skills to use the more advanced the weapon is. So you can go charging with a claymore, smacking and stunning your enemy, you could use something lightweight instead and be evasive and sneaky, or you could bring firearms and start blasting.
+
+[b] The servants - [/b] at one point in the game you will be able to convert strong warriors or hardworking farmers into vampires, granting them the gift of immortality, which they will wisely use to be at your service.. Forever...
+you can equip your servants with items to increase their score level as well, and then send them into hunts that could last from 2 to 23 hours, in real time.. Once the hunt is over your servants will return with a lot of goods for you, which lower the amount of time you spend grinding for stuff.. Recently there was an update which allowed the hunts timer to keep counting even when you go offline, if you are not playing on a dedicated server, so you can now use the full potentials of your servants, if you choose to play solo offline.
+
+[b] Blood hunts - [/b] as mentioned in the start, blood type plays an important part in this game, and the higher quality of blood you get the better bonuses you will unlock, it's rare to come by the highest quality of blood in the game, I don't want to spoil a lot, but let's say there is a way to get hold of individuals that have high quality blood, and have them as guest in your castle.. make sure you feed them well, and keep them happy so you don't lose them... after all they have high quality blood.
+
+[b] Base building - [/b] It's good and intricate, if you enjoy base building it's satisfying enough, you need to plan where you build and place stuff, some machinery requires specific environments to work at full efficiency.
+
+[h1] What i don't like (not much honestly): [/h1]
+
+Some bosses require more balancing, especially when it comes to adds spawning and the risk/reward ratio.
+
+Spell/Skill balancing sometimes suffer from the game having both PVE and PVP modes.
+
+Not having end game cycle with more contents/activities, which is understandable since the game is still in early access.
+
+The game got a lot of improvement when it comes to optimization in the past year, but it still needs more work, nothing unplayable, but still needs more work.
+
+[b] For me this game is a real gem, it's worth picking up and playing if you enjoy base building, skill based challenging boss fights and a lot of cool mechanics to explore and experiment with, can be played solo offline, online PvE solo or with friends, and if you are young enough you can even try PvP :P [/b]
+
+[i] Thank you for reading this!! and remember this is only a one man's opinion. [/i]",0.9536856412887573,345,True
+1604030,137743706,76561197998552188,"Host your own PvE server, remove Castle Decay and Teleport Restrictions, halve the farm needed from items, and reduce the waiting time for crafting items.
+These changes turns it into a whole different, actually fun, game!",0.9521446228027344,2491,True
+1604030,162898060,76561198001885308,"Great game that's worth the price. Your progression is based almost entirely on bosses. Want to start collecting iron? Time to go kill the boss that allows you to start smelting iron. Not only that, but the boss also gives you an ability you can use. The base building is awesome, the combat feels great, and the overall aesthetic is really appealing.
+
+The only negatives for this game are:
+- Pacing is really great until you're about 15-20 hours in and things become quite a bit Grindy.
+- Things take real-life time to be completed. Converting a villager into a vampire spawn? Okay, it will take you 5 hours. This can be changed in your own custom server if you wish
+- PVP can be a negative for some people, especially since progression is based around the bosses you need to fight. The bosses are in the open world and therefore, are free game for anyone. It can be annoying when a really high level player is in the beginner zones farming resources, because they'll just kill you while you're trying to kill a boss. It can be very frustrating. However, there are also PVE servers if you aren't a fan of PVP. I personally enjoy PVP, but I can see how it might be a negative for others",0.9484193921089172,502,True
+1604030,124477848,76561197972323182,"Great game but how is there DLC for an Early Access game? I thought Early Access meant that it wasn't a complete game, so adding extra content to an incomplete game would only bring it closer to completion, no? Maybe I'm just old-fashioned tho",0.9453675746917725,1217,True
+1604030,135586219,76561198030605607,"The central gameplay loop of V Rising is pretty interesting and satisfying: acquire resources, upgrade your gear and castle, hunt new bosses to unlock new spells, abilities, forms, and recipes, and repeat. If you're willing to tolerate a grind or want to play offline with custom settings that reduce the grind, you'll enjoy the gameplay. 
+
+Some have likened it to Diablo or PoE. Given that it's WASD, I'm not sure I really see the comparison-- the combat is a little more technical and skillful than most ARPGs. The bosses usually require good timing and footwork and a focus on mitigating your own greed if you're properly/under-leveled. It's more like a Hades or Heroes of Hammerwatch type game minus the roguelike run-based upgrades. You have abilities on cooldown, like D2 or D3, but precision and timing matter, unlike D2, D3, or the first 90 hours of PoE. I love D2, but the difficulty is much more gear-based than skill-based. Most of my buddies are struggling with the late game bosses while gently overleveled. The first several bosses will be rather easy if you're familiar with Dark Souls type patience, but the latter bosses become genuinely interesting and require some practice and planning to take down. They're easily the best part of the game.
+
+V Rising is entertaining, but you need to understand that a given playthrough (in online or on default server settings) is 90% grind and 10% gameplay.
+
+The first 10 hours of a playthrough communicate this poorly: they're consistently fun. You're upgrading your gear and abilities with solid pacing, and it takes an hour or less to acquire the resources you need to upgrade that gear once you unlock the needed recipes. Each time you acquire a new ability, it's fairly likely you'll feel significantly more powerful and more able to collect the resources you like without worrying about the ads guarding them. The most frustrating grind during this stage of play is acquiring enough stone and wood to wall in your castle to maintain a decent little workshop while keeping out the sunlight. Eventually, each tier upgrade for loot is much grindier than this.
+
+Once you're about 20 hours in, you have some of, if not THE, best abilities in the game. Bosses, at that point, essentially only guard recipes. Once you get to the second-to-last tier of weapons and armor, the resource grind slows to a halt. You have to run the most efficient routes for hours to outfit yourself, much less a team. The novelty and excitement of getting what were previously rare items totally fades by the time you finally get a tiny stat upgrade. Most of my friends lost interest here, and I was left playing the game largely solo. It's fair to say that a good number of people that would have enjoyed this game if it were setup like a roguelike became sick of the grind:boss fight ratio. When the progression still feels fun, the bosses will be a bit underwhelming. When the bosses start getting fun, the progression feels underwhelming (grind! Are you tallying how many times I've said the word yet?).
+
+I think that grindy games are fun if you spend no more than half of your playtime grinding, and if that grinding presents varied areas, enemies, and experiences that are roughly equally viable. This isn't that. There's often 1 or 2 areas that are by far the best for acquiring your most needed resource, leading either to boring repetitiveness or acceptance of subpar farming routes in a game that demands a bunch of farming. The scourgestone/dark silver grind is really frustrating, especially because the end game forge requires the equivalent of 3 tool's/weapon's worth of it before you can actually make the tools/weapons. You'll run the Haunted Forest and Dunley Monastery a dozen times to get what you need. You'll be able to farm these areas like the back of your hand. The challenge, novelty, and intrigue will be gone.
+
+On the business side, it seems Stunlock isn't really to be trusted as a developer, either. They've abandoned 2 different Early Access titles already, and they've added expensive ""supporter"" DLCs to this game without having released a major update in 10 months. This is good news in that old guides still apply if you're looking to learn the optimal routes and strategies in this game. This is bad news if you're expecting this game to become much more than it already is. At the very least, this game is already well worth $20 as it stands.
+
+Pros:
+-Satisfying combat with gradually more challenging bosses
+-Good upgrade system tied to gear instead of XP (somebody else can grind for you if you don't have time and just wanna do the fun parts)
+-Starts out feeling like a Souls title in combat
+-Ends up making you feel incredibly powerful with proper cooldown management in combat
+-New animal forms to help you navigate the map
+-Castle offers more and more functionality
+-Lets you run your own server with custom settings to tweak resource and combat difficulty
+-Servants can farm a little for you while you're offline
+
+Cons:
+-While you do unlock new mechanics to mitigate grind, perfectly using all of them still leaves you feeling slower to acquire resources than you were in the first 10 hours
+-Eventually, entire play sessions will be spent grinding. Is the combat fun enough for you to offset this?
+-Unlikely to receive many major updates
+-If your friends are reasonable, responsible, employed adults, they'll lose interest
+-Bosses are much more fun solo than with friends even though this is a multiplayer-focused game
+-Can't fast travel while carrying anything important, and you'll travel to the same areas over and over and over. Game would still be painfully grindy if you could fast travel anywhere you wanted anytime you wanted, so it adds insult to injury.
+-Game promises you a bat form only to reveal you can't use it while carrying anything important, making it worse than the teleportation network available at the beginning of the game in most scenarios
+-Failing to plan around the day/night cycle can result in boss/grinding attempts interrupted or postponed
+-Have to log on consistently to make the most of your servants
+-Ideal castle locations will be overcrowded on online. You'll have to build yours in butthole town, approximately seven years from all your ideal farming spots.
+
+My suggestion? Pick this game up. The best moments are too entertaining to pass up what it already offers for $20. But don't play online. Play a private server with custom settings with friends or solo. Make resources twice as abundant and recipes half as expensive (Honestly? Maybe even make recipes a third or fourth as expensive). Don't touch combat difficulty (make it harder if you're on a 2nd playthrough or perfectionistic: some of these bosses are so well-designed that they're worth learning to no-hit). Enable the fast travel network to be always active, even if you're carrying ""cannot be teleported"" items (maybe put this one off for a second playthrough if you love the feeling of exploration). If you really must play it in its full, grindy glory, your second playthrough will always be waiting for you.",0.9421384334564209,281,True
+1604030,115919366,76561197995325622,A fun game but also one that throws a lot of time sinks at you. If you don't have a lot of time to play you may want to give this one a pass.,0.9391010999679565,644,True
+1604030,169666270,76561198268765024,"Host your own PvE server, remove Castle Decay and Teleport Restrictions, halve the farm needed from items, and reduce the waiting time for crafting items.
+These changes turns it into a whole different, actually fun, game!
+",0.9353070259094238,562,True
+1604030,116559758,76561198136806873,"This game is awesome, lots of thought and purpose put into how the Vampire moves about and interacts with the outside world based ofc on the lore/tales behind Vampires.
+
+To think this game is in early access is mind blowing. It is super polished, way better quality than most AAA titles of late.   Do yourself a favour and get this, it's worth every cent.
+
+edit 6/8/22 - The game is very PvP focussed outside of that has little replayability, unless you just enjoy the base-building aspect of the game (which in itself can be quite the drawcard).",0.9273205995559692,338,True
+1604030,115782899,76561198049448956,"Amazing game, but the fire archers are a war crime.
+
+Edit: Still a war crime, but now you can shoot them (good)",0.9240898489952087,481,True
+1604030,115741246,76561198053642501,"It's excellent.
+
+It's a well constructed, original and rich take on the genre of Survival PvP, with an added emphasis on PvE and RPG systems.
+You can play the game without any PvP at all and still have a great time, in an experience akin to Valheim.
+You build your own vampire castle (with lots of cosmetic options), gaining new powers and knowledge for each boss you successfully hunt, while trying to navigate the different contested sources of resources to secure your development.
+
+The PvE bosses are enjoyable and well designed with varied, clear and recognizable attack patterns or AoEs to dodge.
+Most of them are accessible enough to be done solo while still providing a good challenge, which can encourage vampires to cooperate together.
+
+Servers can tweak their rules to differenciate themselves from one another, allowing for a variety of different playstyles.
+Boss health and damage, drop rates, being able to teleport items around or not, being able to raid bases or not, many things can change alongside max clan number.
+
+Lastly,  Early Access part is very generous. There is a lot of things to do, it's definitely not a ""wait until they add more content"" type of game.
+Enough content is already there.
+I would also not be scared of bugs and whatnot, as the devs have been extremely reactive already with patches and hotfixes. The two most problematic bugs I've known have lasted one day only, each.",0.9190866947174072,399,True
+1604030,216760013,76561198164159555,"You wake up naked in a crypt, immediately allergic to daylight, and within an hour you’re committing home invasion on a lumberjack to steal his blood type like some kind of gothic mosquito.
+
+V Rising in a nutshell:
+
+Be vampire
+Punch bear
+Drink construction worker
+Build evil Pinterest castle
+Get emotionally attached to crafting stations
+The gameplay loop is illegal levels of addictive.
+
+You go out saying
+“I’ll just get some copper.”
+
+Three hours later you’re:
+- redesigning your castle foyer
+- hunting a boss for a hat you don’t need
+- reorganizing your prison so the 100% scholar blood guy has better vibes
+
+Combat? Surprisingly tight on both K&M and controller. Nothing like getting vaporized by a nun with a flamethrower to remind you you’re just an undead raccoon in a cape.
+
+Base building? Dangerous. You start with “small twigs shack” and end with
+“Welcome to Castle Overcompensation, please admire the symmetrical torture wing.”
+
+Also:
+
+The sun is your real nemesis
+Trees are the second
+That one patrol that always catches you at 3% HP is third
+
+Multiplayer ranges from:
+“Let’s cooperate, fellow creatures of the night”
+to
+“Your castle location offends me. Prepare to evaporate.”
+
+And you get cool powers. Blood lasers. Purple chaos meteor shower. Undead armies. Storms. Ice beams.
+
+Just play it, fools.",0.9156721830368042,243,True
+1604030,169482046,76561198853466405,"Word of advice for new player: 
+Start the game with normal world settings n play it to getting know the mechanic, if u feel like it's tedious n don't like ur current settings, start a new world n tweak whenever u like. Day time is too long? Sure, make day time shorter n make night time longer. Cant teleport with certain item? Turn off that settings. Feels like the game is too grindy? Increase the resources gathering multipliers. Feels like the tiles limit is stupid? Increase it. Boss is too hard? Increase ur damage multipliers. 
+
+Play with whatever settings u comfortable with, enjoy guys. 
+
+
+",0.9075946807861328,213,True
+1604030,184385452,76561198130980890,"it's fun if you:
+1. Play PVE.
+2. Play with 1.5-2x loot modifier.
+3. Enable teleportation with materials.
+
+Otherwise have fun wasting half of your gametime running around the map and gringing materials more than actually doing anything meningful",0.9020898938179016,306,True
+1604030,182698393,76561198284602060,"After 150 hours, I am finally ""done"" with a singular run of the game. There is a lot of things to say about this game, the game has a lot of good points, but also some questionable aspects. 
+
+[h1]The good[/h1]
+
+[list]
+[*] The game looks great! The environment design is very well done and the graphics are stunning!
+[*] The base-building system is very competent, in particular, the base relocation system is awesome and something I haven't seen any other game do nearly as well
+[*] The bosses are very varied mechanically and are all pretty interesting to fight (although I'm not a big fan of the fact that many of them spawn minions)
+[*] The game offers visually distinct storage furniture for each category of items, I wish more games did this!
+[/list]
+
+[h1]The slightly questionable things[/h1]
+
+[h2]The combat[/h2]
+The game's combat system takes some getting used to. Your dodge option has a very long cooldown (8 seconds), while bosses attack much faster than that. The bosses are designed so that most attacks can be dodged with regular movement once you know how the bosses's moveset work, but it still makes your first fight with each boss a not very fun experience.
+
+Furthermore, the game has a weird approach to healing - as in, healing is not really a thing. For the first half of the game, your only real healing option is ""blood-mend"", except it locks you in a T-pose stance while you heal, which is sub-optimal in the middle of combat. 
+Starting the second half of the game, you do unlock enough skills and items to be able to make a build that can self-heal, however that remains limited, and there is in fact a hard cap on how much you may heal, and the workings of this cap are so unclear that I have still not figured out how it works after 150 hours.
+- To give you an idea, essentially, if you get take a full combo to the face, most of the HP you lost is unrecoverable and you just have to not get hit again. 
+I can't say I very much liked that, it made some bosses feel like a DPS race..   
+
+[h2]The PvE[/h2]
+
+I played on a PvE server with friends, we didn't want the pressure of PvP, and certainly didn't want the pressure of having to protect our bases from other players.
+After playing for a while, it became pretty clear that the game is very much designed for PvP and that PvE was an afterthought. Some of the boss/main quest rewards have no use in PvE... 
+The game also does not let you teleport if you have ""valuable"" (which is a lot of items) items in your inventory, presumably so that other players can attack you and take it from you when you're on your way home, but in PvE that just feels like an annoying, arbitrary restriction. 
+
+Another thing that is leans heavily towards PvP and has little purpose in PvE is the ""Soul Shards"", those are end-game equipment that drop from the last 4 bosses of the game, geared specifically for PvP (+15% damage to vampires, so other players). These can only be stored in their own specific (huge!) storage furniture, which appears on the map of other players (for base raiding purposes,  so completely irrelevant in PvE) and they lose durability simply by existing. After having lost all their durability (within a day or two), you can only repair them by killing the bosses of incursions, a world map invasion event (which itself isn't very fun because very repetitive). 
+Obtaining those soul shards on a PvE server left us wondering ""what the hell do we do with those...?"" 
+
+[h2]The grind curve[/h2]
+
+The grind curve gets pretty rough, it took me ~150 hours to ""complete"" (kill the final boss). You progress at a good pace until mid-game where the curve starts becoming a straight vertical line. It was rough enough that for a few weeks I was mostly just letting my servants do passive farming for me until I had enough resources to craft the equipment I needed to progress. 
+So you know what you're getting into, according to the Steam achievements, only 5.2% of players have beaten the final boss, which may suggest that a lot of players have dropped the game before finishing it (maybe also because of the final boss being a huge difficulty spike)
+
+[h2]Yeah the final boss is something alright[/h2]
+
+I'm not actually sure how I feel about it, but yeah as I stated before, the final boss is a massive difficulty spike - intentionally so, the boss was given multiple different opening voice lines amongst other things because the developers very much expect you to get shit on the handful first few times you fight him. 
+I don't know what horror this boss must be on ""brutal"" difficulty and frankly I don't want to find out :), but I do have a lot of respect for the 1.2% of players who did beat it on brutal 
+
+[h1]Where cosmetics :([/h1]
+This is a very minor thing all things considered, but I am a bit disappointed in the lack of cosmetic outfits. There is a cosmetic system which sees practically no use in the base game, it does see a bit more use with DLCs but still not so much, which feels like a bit of shame considering that the framework is there.
+
+[h1]The very questionable[/h1]
+
+[list]
+[*] The game does NOT let you pick a specific amount out of a stack of items. The game only lets you split a stack of items in half, which is incredibly frustrating.
+[*] Compounding with the above missing basic QoL feature, crafting tables are not able to take materials from nearby storage, forcing you to move around your castle a lot when crafting. This is pretty baffling as the game asks you to make specific rooms for each ""type"" of crafting (so you'll have a forge room, an alchemy room...) so it would be intuitive for the crafting tables to be able to take materials from storage that is in the same room. 
+[*] Because of the above, crafting and storing resources felt like a genuine chore and takes much longer than it should :(
+[*] I talked about how the game has distinct storage for each category of items earlier and how that was great - but it's not perfect. Some items are categorized very awkwardly; For instance, Power Cores are categorized as an ""alchemy"" item, so you put it in either alchemy storage of generic storage, but power cores do not have a single recipe in alchemy, they're only used in forging and jewelry, so they're very unintuitive to store..
+[*] The building system is overall very competent - except for stairs. The game does not let you replace staircases even if it's the same type of staircase with only a different skin, and that is despite having a feature that lets you easily change the color of furniture with multiple color options. The game does not let you remove stairs either if they're the only stairs connecting to the upper floor, so if you want to be able to change your stairs when you unlock new stairs, you NEED to build two sets of stairs for all your castle floors..
+[*] Trading with humans is practically worthless, despite it being a hassle to do in the first place. Human traders rarely have the items you're looking for, particularly when it comes to seeds, seeds are incomprehensibly hard to get...
+[*] Some of the animal forms have very little use. Rat form is useful for sneaking around, wolf form helps you get around faster, bear form lets you mine big deposits of minerals, bat form lets you fly, and... spider form lets you... dig into the ground (???) to ""hide from enemies and the sun"", except you can't move at all and enemies can still hit you anyway?? and toad form lets you jump higher but there is seemingly no benefit from being able to do so?
+[/list]
+
+[h1]Conclusion[/h1]
+
+The fact that the ""good"" section is a lot smaller than the rest of the review may be misleading, I'm nitpicking a lot, the game is overall very good, although I really don't get why would anyone play PvP? I also don't see this game being nearly as fun without friends.
+As for the replayability, ehhhh... I definitely don't feel like replaying even with the upcoming expansion, the game's progression is very linear",0.9005208611488342,198,True
+1604030,173767771,76561198114293579,"I lost my best friend before we even finished playing this game together. I can't bring myself to launch the game to see our castle right now, but in the hopefully near future, I will. Just to remember him and all the fun we had gathering resources, and (sometimes) cheesing the harder bosses so we could get better loot out of it.
+
+I'll remember to feed your horse too.
+
+I miss you man. Hope you're casting your fave blood spells somewhere in the Beyond.",0.8946961164474487,1234,True
+1604030,116354168,76561198047454533,"In official PvE servers players are able to entirely block off sections of the map from being accessible with their castles. If I was feeling petty or just being thoughtless, I could surround someone's castle and never let them leave, and there's not a thing the devs have done to stop this. From what I saw when I looked it up, their response is that it's 'legal'.
+
+In my case my late game castle is now entirely inaccessible along with everything my friends and I have worked to collect and create. I can't teleport any of the items that are there out, so it's all useless, and I can't bring any new items in. I can't even break it all down and move it. There's no recourse, and that's the kind of frustration that makes me leave my first negative review ever. It's the kind of experience where I'm forced to quit not because I don't want to play but because I can't play any more. 
+
+Should the devs fix this, I think the game's a blast. Perhaps some sort of 'you can't put a foundation here, as this would block all paths to X area' system in PvE servers?",0.8941115140914917,3180,False
+1604030,121703688,76561198179166639,"I honestly like the game, but the castle decay system sucks imo.  I get that it's a survival game, and you have to do things to survive/upkeep, but if you go on, say, vacation for 10 days, then you may as well kiss your castle and the work you put into it goodbye as it will decay and die because you couldnt login and grind for an hour or two for blood to feed the castle heart.   There's something about this system that sucks imo...not sure what they could do to change it, but fair warning, if you dont play every few days to feed your castle, it's gone.  Ultimately, this system ruined the game for me...forced login/play time just to keep the things you worked for is a bad design choice.",0.8932411670684814,2168,False
+1604030,130260556,76561198027362214,"[h1] Nice Game...But...[/h1]
+
+...I knew the castle decays after a certain amount of time...but life happens and you forget to log on...and to be fair I wasn't away that long. Lost all my stuff and couldn't be arsed to play again.",0.8906259536743164,306,True
+1604030,195851161,76561198054477457,"Vrising is a one-of-a-kind top-down survival, Melee, and magic RPG featuring PVP and PVE, with WASD movement and a spell-targeting system that makes it both fun and rewarding.
+
+If you're interested in the PVE aspect of the game it has an extensive progression that relies on killing bosses and unlocking new blueprints to make you stronger, soft interesting lore, nice visuals, and one of the best building systems that will bring the designer in you, you can decorate and design the castles in crazy details, check some of the builds on YouTube see what some people came up with.
+
+It has one map but it's carefully crafted, progression takes you from one zone to another while each zone is distinct and well-defined, has its mood, and is set up with a nice attention to detail and nice mob variety. 
+
+Now if you're interested in the PVP in short don't, spare yourself. Whereas the PVP is one of the most fun PVPs you might have it's unfortunately poorly balanced. PVP servers usually last 2 weeks before dying and you have to repeat the progression to enjoy another 2 weeks, Meta builds tend to be spammed in the open world and render the game very stale and boring, raiding mechanics haven't been optimized since forever, and feels like they gave up on them among other things. 
+
+This game isn't a live service game it's an indie game and the devs said that they don't have plans or intention for players to keep playing this game forever, so it ends, your ""endgame"" will either be PVP or decorating and because it's not constantly balanced for PVP or quite frankly, they don't know how to, that's why all these issues exist, side note Vrising is from the same devs of battlerite, you can see how that one ended up. 
+
+With all that being said Vrising till the time of this review remains maybe the only Melee and magic open-world PVP game outside of MMORPGs and it's still more unique since it has a targeting system that makes it skill-reliant 
+
+All in all it's a great game and it goes on cheap, also all the DLCs are cosmetics, you just need the base game and you have access to all the contents.",0.8897276520729065,93,True
+1604030,138204473,76561198052274962,"Incredible game. My wife and I get lost in this for days at a time. Awesome experience. Highly recommend.
+
+Don't have any gripes, but wish list would be:
+- Controller Support
+- PvE NPC raids on your castles lead by V blood units.
+- More polished UI and scaling settings.
+
+Already getting the multi-floor castles in Gloomrot update so that solves one of my wishlist items.",0.8879721164703369,181,True
+1604030,118718200,76561197995480115,"Let me preface this review by saying that [i]I really want to like this game[/i]. It has a lot of potential and is an interesting blend of well established genres that seem to work together rather well. Rather than bore you with an essay that is miles long let me list my current gripes with the game and suggest some things that, if changed could change my opinion.
+
+[h2]Positives:[/h2]
+- combat is skill based and fun to experiment with
+- world seems interesting and lore keeps me engaged
+- wide variety of spells, abilities to choose from leading to experimentation with builds
+- boss designs are fun, challenges arise in PVE though, more on that later.
+- Castle building is fun and gives a sense of progression
+
+[h2]Negatives:[/h2]
+- certain combat skills are much better than others, wasting the potential in variety
+- upgrade path is extremely linear, there  is exactly 1 type of armor per tier
+- servant mission timers are based on 'real time' meaning you need to wait a whopping 24 hours for a full, well prepared mission to complete, seeing as to how many resources you need late game this makes grinding a chore and not fun.
+- late game bosses are damage sponges, difficulty curve is widely inconsistent make certain later bosses feel easier than earlier ones.
+- locking gear progression behind bosses and making player power scale directly with said gear, can make for a frustrating experience in PVE leaving the player with no choice but finding that exact combination of skills + chugging potions to beat a boss.
+- No reason to keep playing after final boss has been defeated, no replayability in PVE
+- Bear and Toad form serve exactly 1 purpose and 1 purpose only, switching between them is slow resulting in what is thematically a cool concept into a skill that I avoid using.
+
+[h2]Suggested Fixes:[/h2]
+- introduce gear variety (3 per tier) to give greater player flexibility. Tanky gear that gives more defense buffs at the cost of speed, mage gear to boost casting, rogue gear to boost nimble DPS. This should also help with enhancing the viability of certain skills.
+
+- Gear enchantments or gem socketing for gear makes the gem station more useful, also again this can result in similar benefits as above
+
+- Merge some of the animal forms to make them more usable and interesting, keep the boss fight unlocks but power up 1 or 2 of these forms whenever you do instead of 1 trick pony forms.
+
+- Add a randomly generated dungeon system for late game that is accessed through waygates (in the vein of Path of Exile) this could greatly increase player retention",0.8859630823135376,464,False
+1604030,122206624,76561197991868713,"Dont buy this game thinking that just because you can play ""single player"" that the feature is even on the dev's mind. It was added as a last minute addition in response to outrage from the community who bought the game because single player was listed in the features and hasnt received any attention since launch. Many of the game's features run on IN GAME time and require 24 hours + to complete. In an online server, this means you come back tomorrow and your objective is complete because the server has been running the whole time you were gone. In ""single player"" this means you must leave the game RUNNING for the entire 24 hours because the game doesnt acknowledge that it is the next day in the real world. Once you shut down the game, time stops and these objectives will not complete. 
+
+Their player base has voiced this issue since the games launch only to be ignored. In 5 months since the games launch, almost nothing has been added. Only minor bug fixes. Many players report reaching the end game only to find that it doesnt exist. 
+
+I really wanted to love this game and did have fun in the early stages. But once things get more complex, the wait times increase, the obvious balance towards multiplayer becomes impossible to get past. 
+
+I understand this is EA. And things could change in the future, but at this point i would recommend not purchasing the game until more features get added or major issues are addressed.",0.8785391449928284,399,False
+1604030,129699742,76561198067059574,"The game is …… fine. Just another resource gatherer survival game with the new thing being that you’re a vampire. Why I wouldn’t recommend this game is just due to the principal of it being in early access and already selling DLC. That’s not DLC that’s stuff you made while developing the game, and decided to pull aside and charge extra money for. I’m deciding to support you by buying the game before it’s even finished, and am thanked by then having content locked behind a pay wall. That’s scummy practice.  If I could refund I would.",0.8750077486038208,2299,False
+1604030,124323843,76561198013914593,"I support early access developers who ""work on honoring its supporters"" by completing their product.
+These devs. Dont...at this point of my review... The devs have interesting project but after a while you will discover that most of your time is spent on building a castle in a dead world with no contents but RNG monster spawns with no story or end game...
+The devs havent not added any new content to finish its project in months but continue to release dlcs some ""free"" others for cash in a game this is still in development...rather just Finishing it product..
+Developers who use steam for ""early access eternity"" need to be called out by it's users! 
+You can see by my game play hours I have like other users invested time and money into backing this user...only to experience a complete server purge by this developer and yes hours gone... and for what? New contents? No another DlC... with no project end..
+They make projections but again supporters havent seen ""new"" updates to its completion. If this Developer is Done Then They Need to be Forced Out of Early Access...
+So if you want to buy and support developers like this spend your money...but IMO I do not believe its ""honest"" in keeping its promise to its backers... and users and steam should demand a clear """"road map"" from developers like many developers are now doing willing to honor its backers which holds them to account...Not an endless development stage until sales lag and then release to an incomplete project steam users have seen from many developers...",0.8735312819480896,960,False
+1604030,164997897,76561198143438915,"---{ Graphics }---
+☐ You forget what reality is
+☑ Beautiful
+☐ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{ Gameplay }---
+☑ Very good
+☐ Good
+☐ It's just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ Audio }---
+☐ Eargasm
+☐ Very good
+☑ Good
+☐ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{ Audience }---
+☐ Kids
+☑ Teens
+☑ Adults
+☑ Grandma
+
+---{ PC Requirements }---
+☐ Check if you can run paint
+☐ Potato
+☑ Decent
+☐ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{ Game Size }---
+☐ Floppy Disk
+☐ Old Fashioned
+☑ Workable
+☐ Big
+☐ Will eat 10% of your 1TB hard drive
+☐ You will want an entire hard drive to hold it
+☐ You will need to invest in a black hole to hold all the data
+
+---{ Difficulty }---
+☐ Just press 'W'
+☑ Easy
+☐ Easy to learn / Hard to master
+☐ Significant brain usage
+☐ Difficult
+☐ Dark Souls
+
+---{ Grind }---
+☐ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☐ Isn't necessary to progress
+☑ Average grind level
+☐ Too much grind
+☐ You'll need a second life for grinding
+
+---{ Story }---
+☐ No Story
+☑ Some lore
+☐ Average
+☐ Good
+☐ Lovely
+☐ It'll replace your life
+
+---{ Game Time }---
+☐ Long enough for a cup of coffee
+☐ Short
+☐ Average
+☑ Long
+☐ To infinity and beyond
+
+---{ Price }---
+☐ It's free!
+☑ Worth the price
+☐ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{ Bugs }---
+☑ Never heard of
+☐ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{ ? / 10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☐ 7
+☐ 8
+☑ 9
+☐ 10",0.872785747051239,1097,True
+1604030,193768647,76561197992341337,"One of the best Vampire games out there. 
+
+The game is a really good value for the amount of content that it has. It also has amazing gameplay.
+They capture the lore of vampires in an awesome way. There's everything from the first vampire lore to Castlevania. Also if you pay attention the world is alive. monsters fight humans bosses roam the map it is really epic once you start interacting with it. The environments change there are Easter eggs all over the map each area of the rather large map.
+
+The base building is really well implemented and even has a feature where you can move your base and everything in it to a new area with an easy move feature.  The gameplay is mostly building up a castle and exploring the land. There are lots of bosses around the map to fight and lots of endgame content with more to come. 
+
+This is also a game that is both fun to play alone or with some friends. 
+
+It is also important to note that the game is huge already and is about to get even bigger with the patch coming out with 1.1. The already great game is about to be bigger. . . and for free. Awesome devs.
+
+In a ratings system out of ten this game gets a 9.5+. I highly suggest this game. I have almost 60 hours in and I'm about to put in over 60 hours more. The nice thing is once you beat the game on regular mode there's a hardcore mode. There's also and easy mode. . but I'm not  too into easy. None the less there's a mode for everyone. IF you want to be in a friendly server there's PVE and if you want more of a challenge and want to fight other players there is PVE servers. IF none of that is quite right you can host your own server on your own computer . . it doesn't take up much resources. . and play the way you want by customising everything in the server to your liking. 
+
+An added bonus the community is pretty good and helpful overall.",0.8687291741371155,131,True
+1604030,153495068,76561198120353794,"This is a wonderful vampire fantasy adventure and base building and crafting game. There is an impressive game map, oodles of enemies and items, and lots of fun thematic elements. The music is pretty nice too. The overall soundboard is great, and there are fun voice lines for all the enemies. The game world feels alive in a way, and it's pretty immersive for a top-down game. The graphics and visuals are a somewhat unique cartoonish style that I find both lighthearted and grim at the same time. There is a day-night cycle, critical to a vampire's concerns for obvious reasons, in which you find yourself managing activities based on time. The base building is fun and role immersive, meaning you can make your castle spooky and strange, utilitarian, silly, or whatever suits you. For PvP, it's obviously more about defensive and offensive strategy. 
+
+As a small disclaimer, I enjoy this game casually, having spun up my own PvE server. I've not taken part in PvP. I hear it gets pretty intense, I just frankly don't enjoy PvP in this sort of game. I've never played on public servers!
+
+PvE is often challenging, especially all the mini-bosses you must defeat to earn various powers and crafting recipes. Combat in general is fun because it does require some effort, with each enemy type and each boss having their own mechanics to learn and play around. There are many different weapons and spells, each with their own unique abilities, flavor, and preferred enemy effectiveness. I find I have one main setup that I usually enjoy, switching to different weapons or even changing spells on occasion if a particular enemy is difficult or calls for a wildly different strategy.
+
+There are a huge number of recipes and crafted items. As you go along, you unlock more. These items range from base parts, crafting stations, storage boxes, weapons, armor, potions, and the list goes on. All of the things are interesting and unique, and you find yourself excited to craft the next new thing.
+
+I really enjoy all the transforming abilities. It's pretty fun being able to turn into a bat, bear, wolf, toad, rat, or even don a 'human disguise' for trading coin for goods with the locals. The various forms unlock the ability to traverse the landscape in new ways, or even aid in combat. I also enjoy the horse riding method of getting around the map, especially once you can 'dominate' a horse to make it into your own special spooky vampire horse hoopty.
+
+There's also an interesting facet of play involving the magical capture of NPC's. They can be taken as servants and sent on supply missions or even used to defend your base from PvP attacks. You can also capture and keep various NPCs you find in game, imprisoning them. You must feed them and balance their health and misery gauges to keep them alive. You do this because they can supply your character with blood of various types depending on whom you've imprisoned,  each NPC type is also blood type and will have a random quality percentage. These can weakened in combat and then fed upon in the field, killing them, to receive temporary relevant bonuses to your character. However, capturing them means you can choose to have an ongoing supply of a desirable bonus. While adventuring, simply identify an NPC with a blood type conferring the desired bonuses that is of high quality. You weaken them, then ""dominate"" them magically to lead them to your prison. It's a pretty interesting system in my opinion.
+
+You will eventually have legendary items and armors which confer various bonuses, as well as modifier items to 'tweak' spells in various ways. Through these, you can create custom ""builds"" to play in a way that suits you. There are so many that I couldn't begin to guess how many possibilities there are. I love that level of deep customization in any game, though at first it's a bit overwhelming perhaps. I started just using whatever I found until I got a few items which seemed to play well together or combo in fun ways.
+
+As far as end game, well that remains to be seen for me. I've got 139 hours in at the time of this review. I've build a few different bases across two character runs. I'm currently only about 3/4 of the way through the bosses I think. I do believe there are some extra hard challenge bosses at the end. I think the only real end-game beyond that is just playing around with base building, perfecting character builds, collecting the cosmetic helmets, or perhaps moving onto trying PvP- but from what I understand that really requires a team of friends to accomplish successfully and have fun doing so. There probably are solo/no-teaming servers for PvP, but as I mentioned I'm not personally interested in PvP in this sort of game.
+
+There are a couple cosmetic dlc's you can purchase. These in no way at all enhance character power or ability, nor are they required in the least to play and enjoy every item and area of the game. This is a huge plus to me, as so many other games have gone a bad direction with dlc's.
+
+Negatives?
+
+Well, it can be a bit boorish alone if you aren't into this sort of base-building/crafting/harvesting game. Best to play with a few friends, as is often the case for many games. Controls are a bit hard to master at first, with mouse cursor position dictating attack direction independent of WASD, all while using right mouse button to rotate the camera around. And it can be a bit hard for some- I wouldn't let the cartoonish graphics fool you, this game can be brutal. Steering the horse was a pain at first too, but eventually you'll get the hang of it. (not sure if there's controller support or not, I use keyboard/mouse) And lastly, I feel that while the character creation options are mostly sufficient, the armor 'looks' cannot be changed. This bothers me. You can customize the character, and collect dozens of different capes and hats, but you cannot currently change your armor appearance or color. The armor just is what it is. Not that it looks bad, but I really feel they missed the bar by not creating a customization option for the armor colors. It's not a deal breaker, but it does bug me. A role-playing game of any sort in 2023 should have all kinds of character customization! Maybe they'll add that in the future? Let's hope. ** EDIT** 2024 now, and there is customization for outfits, and they've added Castlevania items and boss! AMAZING!
+
+I hope you enjoyed my review! It's not very in depth, but I feel you can watch gameplay on youtube to get a better sense of the visuals, combat, and crafting. I do highly recommend this game overall, and especially so if you enjoyed Valheim, 7-days, Ark, or other base builders.
+
+
+
+Cheers,
+Luckymod13",0.8671088814735413,64,True
+1604030,176838574,76561198016097884,"I recommend this game due to multiple aspects:
++ Unique Combat Style
++ Can be played competitively or casually
++ PvP enthusiasts can enjoy it as well as sims addicts by creating your dream vampire castle
++ They added fashion with 1.0 (RP content woo)
++ They made the spell concept look more complex, however it is simpler then before
+
+Boss fights are fun, fighting is fun. Game is more enjoyable if you have a team. If you want to enjoy this game solo, you have to either be a tryhard and flex for PvP servers OR you have to enjoy sandbox and creating your dream castle. Apart from that the PvE aspect of the game won't take long to finish even with the new added content. You can find yourself a server that is to your liking OR you can create one. Aesthetics of the game is on point. There's enough RNG on this game for you to grind but not burn out. Progress feels like a progress. You grow out of areas which feels like a progress, however also feels like you are losing content as you are continue growing.
+
+Bads:
+- This game has no end game content. PvP is the only content. PvE content is too straight forward and when it ends, it ends. There's no reason to continue playing PvE after killing the final boss. Let me get this straight: PvE and sandbox are not the same. You can build you dream castle in different spots etc. However if you are looking for a long term PvE content, there isn't one in this game. PvE is there to gate keep some stuff that's all. No PvE raid, no PvE ambushes etc. You can add those with mods, however main game is too banal after finishing the PvE content. Which doesn't take long by the way. As a long time player (700h or so) it took my team and I less than 1 day to finish our first -blind- 1.0 playthrough in a PvP server.
+
+All in all, I do recommend the game. There's no other game like that around in my opinion.",0.8654448390007019,73,True
+1604030,122890458,76561198072395680,"There should be a ""It Depends"" option for whether or not I'd recommend this game. For those of you who find fulfillment in beating nine kinds of hell out of each other, I'm not in a position to speak for you. 
+
+I prefer to play single player. If you do too, this game is probably not for you, and isn't being designed for you.
+
+Don't get me wrong, it's got a lot to recommend it; interesting mechanics, decent combat, cool artwork, elaborate setting, promising but limited castle building... but ultimately, nothing that fulfills the RPG enthusiast, at least not at this stage of its development. You get the hint of a vast backstory, but never more than a hint. You get some interesting bosses, but no real connection between them and you, and no storyline to compel you to pursue them other than that they're next in line. 
+
+I actually put hundreds of hours into the game, though given some of the server mechanics, it's hard to tell how many of those hours were spent playing, and how many were just leaving my game up overnight to accomplish real time processes. That isn't a complaint, just an explanation of ""time spent."" 
+
+But I did play through to the last boss, and had to adjust server setting (and restart from the beginning) to get that far, since combat is designed around multi-player. And once done, I ended up looking back and thinking ""why did i spend so much time on this game?""
+
+That may sound contradictory, but what I mean is, while the mechanics can be compelling, and keep you moving forward, looking for more, ultimately you never find it. You have a lot of combat. You craft a lot of stuff, you do a lot of building, you meet a lot of seemingly interesting characters. But you never get a reason why you did all that. 
+
+So if you prefer playing single-player games that offer a fulfilling single-player experience, this is not it, and isn't intended to be it.",0.8647279143333435,459,False
+1604030,223948105,76561197973099999,"I found V Rising to be a surprisingly good game. Why surprising? Well, I wasn't expecting much. I never heard of Stunlock Studios before, and only bought it because it was going cheap and a friend recommended it (for the base building).
+
+The graphics are the first thing that struck me. They're pretty simple, but the style the devs used is very effective and the result looks stunning. The appearance of this game will age well.
+
+The combat is a lot of fun. There's a large variety of weapons, and they all perform differently, and have their own special moves/attacks. Initially this can be overwhelming, but as you learn what each weapon does then it becomes obvious that the range and versatility means you can take many approaches to combat. There's something for everyone here. Combat is expanded by the huge number of spells which also have many different effects. Both weapons and spells can be modified and tailored to your liking. Several sets of armour are available at each tier, catering for various styles of play (tank, mobility, magic), along with a range of buffs (via potions, elixirs, and ""blood types""). It's a comprehensive and well balanced system.
+
+When it comes to fighting bosses and combat in general, some of the bosses and packs of mobs roam around. This can be used to your advantage if you engineer a situation where you kite a boss into a bad situation, but sometimes you might get ambushed by mobs or even another boss. Personally I found this highly entertaining, and spent hours stalking bosses who might otherwise be too difficult, waiting for a scenario that could swing the battle my way. If fighting where you may be interrupted then it pays to be aware of your surroundings.
+
+Base building is straightforward yet impressive. You can build a massive castle without much effort, and the range of devices and decorations is vast. If you enjoy pottering around with bases then there's a lot to keep you occupied, but if you just want something quick and easy then the V Rising provides that too.
+
+The game loop revolves around killing (about 65) bosses to unlock more machines, abilities, weapons, etc, and exploring the large map to obtain the resources to make what you need. There's a good variety of zones, and plenty of places to explore, from wealthy cities to creepy forests. Travel is interesting given you can shapeshift into many different forms, and horses can be ridden (and trained/improved).
+
+You can obtain servants to help you gather resources as the game progresses, so you're spending more time fighting and exploring rather than having to farm materials.
+
+Optimisation is good, and with all settings maxed playing at 4k/120Hz my rig (RTX 4090/7800X3D) was barely tested. I imagine players with older machines can expect decent performance given how well the game ran on my machine.
+
+I did not purchase the DLC as it's strictly cosmetic, and there are so many options with the base game that I didn't feel the need. Although it was nice to know that sections of the game aren't gated behind DLC. I felt that this was a fair and responsible approach to DLC, and appreciate the devs' attitude with respect to this often problematic area.
+
+Basically if you like this kind of game (beating bosses to progress, experimenting with combat, exploring, and base building), then you're likely to enjoy V Rising. The game looks great, plays great, and there's a lot to keep you busy. The whole package comes across as very polished.
+
+I literally don't have a bad thing to say about the game, which is unusual, as I'm a pretty picky gamer and it doesn't take much to set me off. I'll definitely be checking out what Stunlock Studios come up with next.",0.8646689653396606,62,True
+1604030,148435185,76561197971007852,"I mostly like this game.  I have a few gripes about the single player part of it, but they're minor and I found some work arounds.  For example there are some missions you send your minions on that are like 24 hours long.  On a server, that's ok, you sleep, go to work, come back, missions almost done.  But on single player you turn the game off and come back 23 hours later and 0 time has gone by in game, so there's 23 1/2 hours left on the mission.  Same with leaving a bunch of stuff to craft.  Solution for me was to make a dedicated server, and just leave it running all the time.  Works, but sort of janky.  I also find the difficulty to be maybe a smidge high for me, and when you need to kill a certain boss to get the item to progress, I've been just stuck a few times.  can't go farm up to get stronger and then fight them, the gear progression is jammed up until you beat them.  Probably my low skill level :-/, but the balance is just a bit off for me.  I do eventually break though, but it's always just a little on the frustrating side.  At any rate, I do recommend the game, just you know not like a super strong recommendation.",0.8633356094360352,86,True
+1604030,115637936,76561198013396833,"Warning. If you want to play this game because you like Valheim and want a similar experience?
+Forget this game.
+
+Anyone trying to sell you that this is Valheim with Vampires is full of it.
+
+It's a very good game, but one that mainly focuses on Combat, PvE and specially PvP. With a lot of crafting.
+
+However, if you are edging to experience something similar to Valheim, you will be be disappointed.
+
+- The Exploration aspect in V Rising is lacking. Yes the map is very big, but because it's not proceduraly generated, there just isn't this sense of exploration and discovery. The Top down aRPG view also hinders in this regard.
+
+- The base building. Is a thing. But it's very basic. Don't get me wrong, you will be spending a LOT of time building and expanding your castle in V Rizing. But that's main to increase it's size, unlock new things and maybe decorate the rooms.  The game however offers very little creative freedom to create your own pieces of art in that regard. Your castle is essentially a set of tiles and walls, with added wallpapers and decoration. That's about the extend of it. So if you are interested in buidling amazing structures? Forget, this ain't the game for you.
+
+This game is for those who want a survival game with solid combat, which offer both PvE and PvP (the later being the best experience I think). And while you can play it solo, it will feel tedious very fast, so it's a game that is best played with a group of friends. It also has a very solid crafting system and for an EA access game, it's honestly worth the 20 bucks.
+
+But know what your buying. Don't be fooled by the review calling this ""Valheim with Vampires"" because that's definitely not the case.",0.862571656703949,622,True
+1604030,192235974,76561197979554492,"Its a great game, Its great with friends on private server, just building the castle and doing all the bosses, ended up soloing the last bosses on brutal difficulty for a nice challenge. So many ways to play.
+
+Though a very big con. Why do the servers need to be reset for the new content, if valheim can add it, im sure a game without random generation should have an easier time...",0.8599137663841248,142,True
+1604030,115695190,76561198025386746,"A lot of people are referring to this as ""Vampheim"" and it's a nice buzz word, but I don't think it adequately gets across the actual core of what this game is. 
+
+Yes, you need to eat (feed) to survive
+Yes, you craft and build
+Yes, there are bosses to fight that give you increasing power gains as you beat them
+Yes, those bosses are farmable
+
+But
+
+The combat is way better
+The game has PvP as a core design element (but you still have the option to play on a PvE only server)
+The building is NOT as good as in valheim, specifically it isn't as open and customizable. The buildings do LOOK very nice but that's because they remove a lot of the freedom from Valheim. This also removes a lot of the stress of building. 
+
+Overall I think this game is incredible and it's the best ""I am a Vampire"" experience available in modern gaming, in my opinion.
+
+Update: I want to address the large number of people who are complaining about the game ""still"" being in early access 5 months later, and lacking content updates.
+
+Both of those are true statements, and if that alone is enough to deter you so be it. I won't bother trying to defend the studio or anything, I know they have a history. But the reason I'm still recommending the game is that you can easily get 200 hours or more out of this game IN IT'S CURRENT STATE, and it's $20 at full price (Yes I only have 121 hours currently, but I have almost 900 games in my steam library and I have a problem). Most of these negative reviews come from the free weekend and HAVE over 200 hours played, but they don't recommend it because ""Devs Bad"". 
+
+My reviews are not based on some perceived place of morality, nor on some utopian ideal of how things ""Should be"". If you like Survival games, games with fluid combat, games with PvP, or just games that make you feel like a vampire then this will be some of the best $20 you ever spent.",0.8598267436027527,127,True
+1604030,225283217,76561198024882473,"I genuinely loved V Rising.
+The combat, castle building, progression, PvP — all of it is incredibly well made, and I put hundreds of hours into the game because I truly enjoyed it.
+
+Which is exactly why this feels so awful.
+
+I was permanently banned from official servers, not for cheating myself, but because another random player I happened to interact with was apparently cheating. Someone I never played with before or after. According to support, simply continuing to play around that situation counted as “benefiting” from cheats.
+
+What frustrates me most is that there seems to be no room for context, nuance, or intent. Competitive PvP servers are chaotic. People accuse each other of cheating constantly, joke around in chat constantly, and temporary alliances or interactions happen all the time — especially when entire servers are dominated by massive groups teaming together.
+
+I never used ESP or any cheat software. Not once.
+
+Yet I ended up permanently banned across all official servers anyway.
+
+What hurts is that I actually respected the game and the time I invested into it. I even tried communicating respectfully with support throughout the process because I genuinely wanted to resolve it fairly.
+
+I still think V Rising is an amazing game mechanically. But after this experience, I honestly feel discouraged from investing time into official PvP again if association alone can lead to a permanent ban without clear proof of direct cheating.
+
+I’m not writing this out of hatred for the game. I’m writing it because I genuinely cared about it, and this whole situation has been incredibly frustrating and disappointing.",0.8583794236183167,1759,False
+1604030,116658672,76561197976043137,"A really fun, really great core concept held back slightly (for me) by some annoyances, most of which are just down to personal preference. 
+
+The core gameplay loop is fun -- unlock technology, improve vampire, tackle boss to unlock technology/combat abilities, improve vampire, all whilst building up a proper gothic castle to live in -- but it can be a bit uneven. There have been a few points at which I've been bottlenecked overly-long by the difficulty of acquiring a single material (lookin at you, greater blood essences), or because the trajectory of improvements that propels you to new bosses has a significant gap in it (60-ish, a gear level that isn't comfortable for the new areas I have to venture into in order to continue progressing). 
+
+I like the way they've done the combat a lot, in particular the way you can change your loadout on the fly. Combined with the blood types/potencies, there's a lot of room here to create fun builds. Some bosses have felt undertuned, some overtuned, but there are some great fights -- and a couple that felt sorta cheap. Increasingly as I level I find myself getting annoyed by the approach to increasing the difficulty: either 'overwhelming numbers of enemies' or 'roaming baddies in each zone of a level high enough that you absolutely cannot do anything about them other than run away until you've outleveled the zone.' 
+
+I'm not a fan of that method of difficulty increase, I guess; I prefer a skill-surmountable kind (like a boss with a complex move-set). It's an approach that punishes solo play in particular, since numbers and especially tough enemies can both be tackled easily by groups...but a lot of the game's other choices suggest that, although it does offer a solo mode, it's really not meant to be played that way. 
+
+This set-up leads to a lot of moments that feel senselessly punishing to me, or at best arbitrarily frustrating. You will want to collect prisoners with a high-potency blood of each type, and you will often watch helplessly as a bafflingly tanky longbow archer repeatedly sets all of her friends on fire and the high-% individual you spotted melts in puddles of fire you can do nothing about. You will go to a specific location to harvest something you absolutely need in great quantities in order to progress, and then find yourself chased away from it, losing an entire night of game-time, by wandering baddies you're literally not equipped to deal with -- and won't be until you've obtained those materials in those quantities. You'll have to come back the next evening...but maybe they'll still be there, and you won't get your materials then, either. Or maybe you'll get surprised by a skull-difficulty patrol (or two, or three) as you're fighting your way there, and have to turn back before you even get there.
+
+For me, stuff like this doesn't make a game 'harder,' it just makes it sort of irritating/time-consuming/tedious in those areas. But as I've said, that's just me; you may feel differently about it. I think it would be less annoying if you could travel more reliably between points without having to dump your inventory, but I expect that's not on the table because the game is intended to be a PVP game, and they want to force people to be out on the map.
+
+It obviously hasn't kept me from sinking 73 hours into the game, and that number will probably continue to climb until I hit the end of the content available now, so that's a pretty strong endorsement.
+
+I hope they do something about items becoming unlootable whenever they fall down next to tent walls or other static objects, though. Lost like 3 books that way.",0.8581767082214355,137,True
+1604030,198564213,76561199079073326,"Played this in early access a few years ago and had a great time, but there were a few issues. 
+
+Playing through it again I noticed that many problems I had were fixed and several quality of life features were added to make it even more enjoyable (Base moving, better menus, and more balanced weapons).
+
+I just beat the game on Brutal difficulty, getting all achievements in the process, and can now say for certain that V Rising was worth my time and money. If you like RPG's, souls-likes, survival games, and vampires (or even just one of those) you will have a lot of fun.
+
+Note: I'm a solo PVE player, so I can't speak on COOP or PvP.",0.8554649353027344,85,True
+1604030,235595458,76561199261293051,"I started this expecting a basic vampire survival game. In truth, it is a vampire real estate simulator with over 60 unique bosses. You spend your time dodging the sun, hunting specific blood types, and farming materials to expand your base.
+
+The castle design system is excellent. It gives you full control to build a massive gothic mansion. The different vampire abilities you unlock from bosses will feel lore friendly
+
+Then there is the drip. Man, the drip. Even the early tier 2 armor is impeccablly tasteful to the point u will feel like ur the count himself..
+
+You can tell the developers put their heart and soul into this. Kudos to them for designing such a beautiful game.",0.8432842493057251,49,True
+1604030,206864375,76561198056470964,"The devs focus on balance for PVP and completely ignore the PVE players. It's a shame because I thoroughly enjoyed the game, but with constant nerfs because of PVP players I can't recommend it. Especially when the developers ignore the PVE players complaints about the nerfs.
+
+This game would have benefited greatly from more PVE and RPG elements, not PVP which frankly, is terribly un-enjoyable regardless of buffs or nerfs.",0.8382960557937622,190,False
+1604030,115680510,76561197990439551,"I've played this game for 26 hours in the past two days. 
+
+[u][b]TL;DR; It's good.[/b][/u]
+
+[b]A bit of background on how I am currently playing the game:[/b]
+
+I am currently playing it on a solo-duo official PVP server. When you die you lose all the resources you had on you but not the gear, I understand that there's a full loot drop mode as well, maybe not available for solo-duo server, i've only seen that option for the 4 man group servers. PVE servers are also available for those not interested in PVP.
+
+[b]Who am I?[/b]
+I'm Alex and I love survival games. I have around 4.5k hours in Rust and have dabbled in Albion, Last Oasis, Valheim, Conan Exiles and Subnautica. If you like survival games, this review is for you.
+
+[b]What kind of game is it?[/b]
+A top down RPG survival game with building/raiding mechanics. You are a Vampire that grows in power by improving the gear you are wearing - there is no EXP bar and your level is dictated by your gear score. From what I've observed, gear score is not that important in PVP but is important in PVE.
+
+In order to advance through the game you have to unlock knowledge either by getting books, random research (it's not as bad as it sounds) or tracking bosses, fighting them and then absorbing their powers.
+
+[b]Character build variety:[/b]
+There's plenty and since the game just came out there is currently no meta that I have observed.
+
+Depending on the type of weapon you have (sword, axes, mace, spear, reaper, slashers/dual blades or crossbow) and the material the weapon is made out of (bone, copper, iron - and i don't know what comes next) you will have between 0 and 2 abilities that you can cast with it. Cooldowns are shared but you can cast ability 1 with one weapon, swap to another and cast ability 2.
+
+As you defeat more bosses you will unlock vampiric abilities or spells. You can equip a type of dash, two spells and one ultimate at any given time. You can swap these out freely but you can't do so while in combat.
+
+There are currently 5 schools of magic: Blood, Unholy, Illusion, Chaos and Frost. Each offer 5 unique spells, a type of dash and an ultimate ability.
+
+Equipment doesn't seem to vary a lot, you can wear items on chest, hands, legs, feet, trinket and cloak. There's an extra slot for a cosmetic head item, I have yet to find head pieces that grant stats. The only place where you have some wiggle room in terms of build is your jewelry slot, there are items geared towards survival, sustain, damage and spell power.
+
+In addition to this, there's blood. Each living mob on the map has a type: Creature, Rogue, Warrior, Brute, Scholar and Worker. Depending on the blood type and blood level (this is randomized per mob from 1 to 100% and the deeper you go into the map the more common it is to find higher blood levels), you will get between 1 and 5 different bonuses. You can factor this in to your build. As time goes by your blood level will go down and you will have to find a new target to feed on. You can also use this blood to heal - this makes you immobile and vulnerable to attacks.
+
+[b]PVP:[/b]
+It's phenomenal. Getting ganked is usually a death sentence but there are ways of avoiding combat while outnumbered. Later on you might be able to win 1v2 fights but at the start it's a bit hard.
+
+You can't really heal while in combat, the amount of health you can fully heal goes down as you take damage and while in combat you are flagged and can't heal above that threshold.
+
+Fighting feels very responsive and most spells need to be targeted and therefore can be dodged.
+
+[b]PVE:[/b]
+Awesome! Mobs don't seem to be re-skinned versions and the higher their level, the more abilities they have. You will be killing NPCs a lot and honestly, running into a village and slaughtering all the innocent civilians running around and screaming ""VAMPIRE!"" is very satisfying.
+
+[b]Building:[/b]
+You're fairly limited in creativity but there are a lot of cosmetic items that make up for the fact that you can't build vertically. Depending on what type of player you are (you know, RUST PTSD or PVE expert) you'll either build a ""Fuck you, here's a door on each tile base"" or ""Look at my magnificent castle"".
+
+[b]Raiding:[/b]
+To be honest, I have not yet found it rewarding. It's expensive and if you want someone out for good it will cost a lot of resources as each castle has a heart and to take over that heart you will have to pay a big amount of resources.
+
+On official servers there's a raiding window in place, you can only raid in the afternoon (4pm to 10pm GMT).
+
+[b]Wrapping things up.[/b]
+Is it Valheim? No. Is it a Hack&Slash? Maybe. Is it Albion? No.
+
+The game has a unique setting and for an Early Access title it's totally worth the money as there is plenty of content and tech to unlock.",0.887424886226654,177,True
+1604030,129028219,76561199151193969,"One of my favorite games this year and one of the best survival games ever made. It cuts away all of the things that make survival games a tedious slog. Don't let the early access stamp fool you. This game is polished to a brilliant sheen. 
+
+There is literally only 1 thing I can't stand about the game. The castle decay system desperately needs to be revamped. I completed all of the content the game has to offer a few months ago and now I still have to log in to feed the castle heart once a week. Which means I have to go farm enemies for blood and bring it back to the castle, feed the heart, then log off. If you don't the castle decays and you can be easily raided at any time by other players while you are offline.",0.8369417786598206,108,True
+1604030,221800901,76561198056687719,"Game is great, lots of content, you can be a rat and prank peasants with bowl cuts
+
+It is a complete, finished game with a lot of things to do; if anyone tells you it's ""abandoned,"" then they don't know what that word means, and they need to stop thinking of everything like a perpetual live service game",0.833165168762207,65,True
+1604030,232955689,76561199107888635,"[h1]A survival RPG with its own characteristics and a true understanding of vampires[/h1]
+
+[hr][/hr]
+
+[h2]★ 8.5/10 — The vampire gameplay is well done, and the survival process is indeed time-consuming[/h2]
+
+[b]⊕ BEST FOR:[/b] Players who like vampire themes, castle construction, top-down combat, cooperative survival, fixed maps, open-world PvP, and custom Private Games.
+
+[b]⊖ NOT FOR:[/b] Players who are unwilling to collect repeatedly, prefer random maps and story-driven RPGs, want to freely advance the process, permanently retain the progress of the Official Servers, or are ready to play single-player with the default settings.
+
+[b]▣ Media Benchmarks:[/b] Metacritic PC 83/100 · OpenCritic 83/100 · IGN 9/10 · PC Gamer 89/100.
+
+[hr][/hr]
+
+[h2]◆ Opening[/h2]
+
+As of Update 1.1: Invaders of Oakveil, new areas, bosses, weapons, and main features have been added through free updates, and paid DLC only involves cosmetic packs and soundtrack content.
+
+[h2]◆ Strengths[/h2]
+
+[b]⊕ The identity of a vampire does affect how you play[/b]
+The sun will burn in a few seconds, and you have to find shadows on the way during the day, but the shadows will move over time. The blood pool has been consumed, and the bonuses provided by different Blood Types are also different. Shapeshifting can help rush, sneak, and explore, and some special areas must also be entered by it. Silver, garlic, and human settlements have their own places to pay attention to.
+
+You will choose to hunt at night and go back before dawn. You will also detour because of the sun, the enemies on the road, or the blood type you are looking for.
+
+Production, research, production of equipment, arrangement of Servants, and detention of Prisoners reserved as blood sources are all carried out in their own Gothic castles. At first it was just a place to stay, but slowly a decent vampire palace could be built. The Advanced Game Settings of Private Games can also adjust resource output, crafting time, enemy strength, blood drain, sunlight, and death penalties.
+
+[b]⊕ The combat is excellent in the survival game, and the fixed map also makes value[/b]
+The combat uses a top-down angle, WASD movement, mouse aiming, and movement abilities (Veils), weapon skills, and spells. With another weapon, the basic attack, skill, and attack range will all change; the spell school and equipment also support different builds such as melee, ranged, summoning, control, and damage over time.
+
+It is not as complicated as a dedicated action game, but the movement, combat feedback, and build options are already better than most survival games. Many V Bloods have their own moves, arena mechanics, and phase changes, and they need to be familiar with them before they can deal with them. Brutal will increase skills and change combat behavior, not just increase health and damage.
+
+The factions, resources, enemies and patrol routes in each area are different, and different factions can be encountered in the wild to fight each other. You can take the opportunity to pick up a bargain, or you may bump into a patrol that can't be beaten at all when you are on your way. After you are familiar with the map, the fun of exploring comes more from your understanding of the environment: where is it dangerous, which way to transport materials, and where to find suitable prey. These experiences are useful in collecting, castle site selection, and PvP.
+
+[h2]◆ Weaknesses[/h2]
+
+[b]⊖ The upgrading of the production chain makes the upgrade feel fulfilling, and it is really abrasive[/b]
+The problem is that the later, the more steps will be taken to collect, refine, transport, and make a string. Many early materials have to continue to be collected in the later stage, because they still have to be used for advanced materials.
+
+Version 1.1 reduces some chores in the castle. The Treasury allows the crafting and construction to directly use the territory inventory, and the Redistribution Engine can transfer items between production facilities, but it is relatively late to get it.
+
+Private Games can increase resource output and shorten crafting time, but the steps to take are still those. To play alone, you have to fight monsters, collect, ship goods, arrange production, and maintain the castle by yourself. Two or more people divide the labor, and the rhythm will be much better.
+
+Room and flooring bonuses will also affect the layout. If you want to build a castle beautifully, you have to consider production efficiency.
+
+[b]⊖ Although the growth route is very clear, there is less freshness when replaying[/b]
+Following the Journal, you basically know what to do next: defeat the V Blood boss, get the unlocked content (V Blood Unlocks), get new equipment, Spell Points and recipes, and then go to the back area until the final boss. Weapons and skills can be selected, and some bosses can also be played in a different order, but many tools necessary to advance the process still have to defeat the designated boss to get them.
+
+If you start another game, it will still be those areas, roads and resource points, and the growth route will be much the same. Compared with survival games with randomly generated maps, after the first round is played, the next round can bring a lot less freshness of exploration.
+
+[b]⊖ The castle needs to be reopened for large-scale updates, and the built castle will inevitably make people reluctant[/b]
+As of version 1.1, large-scale content updates have made changes to maps, units, and systems, and players have been asked to reopen the save. The old local saves, Private Games, and self-hosted servers can be left in the corresponding old version to continue playing, but they cannot be brought into the updated world. The Official Servers will be reset during large-scale updates, or they may be cleared in a fixed cycle, and the characters, resources, and castles cannot be left forever.
+
+If you can save the blueprint or building layout, at least you don't have to build it from scratch every time. Of course, map changes and server balance must also be considered, and it will not be as simple as directly importing the old save.
+
+[b]⊖ Even if you have to fight for PvP, you have to fight for who has time[/b]
+If players want to fight for territory and find each other's castle, they must also consider whether their layout is convenient for production or more resistant to Castle Raiding.
+
+However, in a server that opens castle raids and wipes regularly, the amount of resources, clan size, online time, progression speed, and raid hours will all affect the results. Organized clans can collect, produce, and guard their homes separately, and it is much harder for small teams and people who enter the service late.
+
+It's really exciting when the competition is fierce, but if you can't follow the server's schedule and want to stay competitive, you may have to invest more time than expected.
+
+[h2]◆ Conclusion[/h2]
+
+From the first time I played it in 2024 to the present, what I admire most is that ""V Rising"" has added so many things and still retains its original characteristics.
+
+If you can accept fixed maps, linear growth, and are willing to spend time collecting and operating, the vampire survival experience it provides is indeed worth a try.
+
+[hr][/hr]
+
+[url=https://store.steampowered.com/curator/43837750-Just-Game-Curator/]Follow my curator to get the latest review push![/url]
+Your support is my greatest motivation!",0.8827176690101624,105,True
+1604030,160944041,76561198157132109,I wish this had controller support so I can play on steamdeck or just use controller on pc,0.9304630756378174,210,True
+1604030,120970631,76561198029584875,"Do you like Valheim? Do you like vampires? If so, this game is absolutely for you! 
+
+(Because tl;dr that's what this is: a top-down Vamp-heim with some really cool and unique mechanics.)
+
+Would you enjoy exploring a hand-crafted open world with no procedural generation? Do you enjoy harvesting resources and working your way up technology tiers?  Then this game is for you!
+
+Do you love base building? Does it warm your heart to chose the right location, design a layout, and build a base to facilitate your crafting, getting all the bonuses for your crafting stations that you can with your design? Does it please you to decorate your abode using a delicious variety of options to show your sense of style? Then you should already be playing this game!
+
+Are you interested in traversing the land, hunting for boss monsters, each one a unique fight? Do you enjoy the challenge of taking down opponents to gain advantages, abilities and crafting unlocks? Then V Rising is a game for you!
+
+Do you like to do all the above solo in a PvE environment, or in a small-scale multiplayer server with just you and your friends? Or would you prefer to do all those things on a PvP server so you can also enjoy the stresses and tribulations of PvP, including a cutthroat PvP endgame? Either way, this game has got you covered.
+
+Do you appreciate detailed server setup options like making enemies tougher, allowing teleporting with resources, or increasing stack sizes? Do you appreciate an apparent complete lack of bugs? Do you like guiding quests that start as an effective tutorial but rapidly become milestones few and far between, letting you learn and play your own way? Look no further.
+
+Are you okay with abandoning your first castle (or possibly your first playthrough) early on when you begin to realize just what a castle will need and what to look for in a location -- and realize you made all the wrong choices? How about having your character shout ""HEH!"" or ""YA!"" every third swing while cutting down a tree? Are you pleased when a game includes fishing. Because vampires fish. Sure they do!
+
+Have you answered ""yes"" to many (or even all!) of the above?
+[b]Yes. Yes, this absolutely amazing game is for you![/b]
+
+On the other fang, if you like none of the above, this game is not for you. Maybe try Mario Kart?",0.8282380700111389,161,True
+1604030,117704390,76561198052272059,"On one hand, I love this game. The gameplay is awesome, I  got more than my money's worth. I would love to recommend it, but I also have a lot of really bad feelings about this game. This game is early access, so if they fix the crippling problems then I will change this.
+
+The castle building is much deeper than I wouldve anticipated and you can make some beautiful creations. The combat loop is satisfying, rewarding, twitchy enough, and fairly strategic. I never got tired of the combat/farming or the castle building before I quit. I did almost everything I wanted to aside from keep playing. Finally, the game is incredibly polished for early release (aside from unintended abuse of the bat/frog forms to cheese into peoples bases.)
+
+Why did I quit? for the same reason I can't recommend the title. There are some easy solutions to my problem such as don't play on a castle raiding pvp server, don't play pvp at all, or just always be online. This doesn't work for me, because the PVP IS fun when it's fair, and the only endgame content this game has is, in fact, pvp and castle raiding. Unfortunately if you work or can't be online during pvp times, your castle will get destroyed 100 percent and everything you've worked to farm will be taken. You could say, ""well you'll still have your gear or you'll still have your abilities."" But when you've farmed for hours and hours to make a perfect, beautiful creation and everything is taken the second you arent online for the pvp window, it's pretty defeating.
+
+If you aren't careful, people can use some of the really cool abilities to just enter your castle no matter what you do and destroy/take things. That can be prevented to a degree if you're careful, but never entirely. There are a large number of decorations/fences that you wouldn't want to use because this makes your base weaker, not that it matters a whole lot in the end. If you aren't online, no matter what you did to build up, castle raiding is the equivalent of punching a baby and stealing its candy. There is nothing you can do about it.
+
+What makes this a little more sad is you can charm servants and use them to defend your base, but that is basically pointless anyways. The mechanic is really cool, but if you arent there, they are the equivalent of a mosquito regardless of how hard you worked to find the most powerful servants and put the best gear on them. It takes a LOT, and i do mean a TON of resources to gear your servants, but its pointless in the end. I even went so far as to make my castle look ugly and silly by building layer after layer of honey-combed walls and doors that were a nuisance to go in and out. I put traps down via unintented mechanics by summoning NPC minions into the main entry choke-points of my walls. Things I had to navigate around to get in and out and it was a pain. But in the end it didn't matter.
+
+If you piss someone off for any reason and they come from a better clan and have more free time than you, the first time you aren't on for the ENTIRE infinitely long pvp window, you've lost everything you made. There is an exception, a dinky lockbox that can contain a few items, but it is nowhere near enough to replace everything you lost and all the time you spent. You may be thinking, ""ok, ill just wait until the next pvp window and destroy the guy that took me out and take everything back."" Well, unfortunately, if they are online, you won't win.
+
+There is only incentive to raid castles when another player is offline. Basically there is no end-game pvp. PVP is the end-game, so the loop is simply wait until person A is offline, walk into base with a very cheap golem, loot everything, walk away. So basically everything you work for will be taken by someone with infinite time. The first time this happened to me and everything was taken, I thought, ""ill jump servers and start over. it'll be fun!"" Well I did that, I was careful not to upset anyone via PVP, and it didn't matter. Eventually someone is going to want to get you. You make a big castle, you build it up, people with endless time will take and destroy everything the second you're offline.
+
+This could be fixed if servants were powerful enough that the enemy actually had to contend with them. Or if you could set traps. Hell if the enemy couldnt just go bat-form and see inside your entire castle no matter what you did so they can plan an attack, that would help loads! Or if they couldnt go bat form and just drop into the cliff of your castle, walk in, and take stuff/scout/kill your npcs.
+
+My advice is to wait until they make it so you can't raid castles with the castle host offline, or implement some sort of insurance system, or some paid defense system, or the ability to set traps. Another needed fix is that the enemy cant just know where your castle is the first time they go bat form, or drop anywhere near your castle, or see inside your entire base just by flying by with your name highlighted so they can instantly scout you out.
+
+They can literally sit in bat form next to your castle, wait until you go offline because it shows them that you've gone offline, and then destroy and take everything from you. You cant stop them. Or if they had some actual endgame other than pvp, but the game was build around pvp as the end-game.
+
+pretty disatisfied with the game in general after learning how it works.",0.8265447616577148,287,False
+1604030,124407075,76561197965940511,"Do I recommend V Rising? 
+Yes, if you have a reliable Co-Op 2-6 person group. 
+Solo? Well...I don't know.
+
+It has a lot of fun weapons and spells, but much of the time, when you're solo, you have to use the same ""best"" weapons and spells over and over, since everything relies on you alone. Co-Op you can be more relaxed and do fun stuff. But dying in this game solo is suuuch a huge pain and inconvenience that I've basically stopped late-game.
+
+Grinding some of the later elements is very tedious, from simply transporting materials farmed, to crafting potions, repairing items, and researching new ones. Lots of grinding, and the tedium is just too much solo.
+
+It doesn't help that while the combat is very fun, it's VERY difficult.. even just single enemies sometimes mid-to-late game, killed me repeatedly with ease. It's VERY difficult to recover health in combat, and even worse that non-boss ones chase you FOREVER.
+
+It has a lot of fun things going for it, combat usually, building castles, and resource management, but it's SO much better with friends.",0.8245909214019775,69,True
+1604030,172414136,76561198260693519,"I never liked the grinding part of the survival/craft games but apart from that this is a %100 banger. It is challenging when it needs to be, it is fun to progress, fun to build and it also has cool-looking structures, a few different builds to go, fun weapons and most importantly smooth co-op. As far as survival/craft games go, this is 9/10.",0.8227158784866333,78,True
+1604030,125680227,76561197993707420,"I played 228 hours, but am still recommending ""No"".
+
+The good parts: it's a fun game, you collect all the mats, build your gear and kill all the bosses. The standard crafting game loop. The combat is good and diverse. The graphics and sounds are great, the action smooth.
+
+The bad parts.
+
+Most of all, the terribly forced multiplayer. This is one of those games where if you don't play all the time, you loose. Meaning, people will destroy your base when you are offline and that's that. You lost now, you won't be able to build up again.
+
+Now, I was playing on a PvE server, so this doesn't happen. However, what happens when you don't play for a few days because, I don't know, maybe you have a life? Or playing some other game? Well guess what. All your progress is gone. Your mats, your end-game power pilars, your 100% scholar blood prisoner, your gold bars, your perfect castle (s), your fully geared power level 700+ servants. All you have is your gear, who's durability won't last you long enough to build all the way up to having access to the mats and crafting stations required to repair them.
+
+There is no single-player mode, because all the things you have to wait for (we're talking 2-24 hours of wait times for missions and high level crafting) require the game to run for time to pass. The developers didn't think to just check the system clock. Because, you know, PvP! You can run a private server with adjusted settings which helps enough but it is a bit of a hassle with scripts and config files.
+
+The sun mechanic is interesting at first (you're a vampire so the sun kills you), but it get's old quick. There is no real challenge here to overcome. If you plan to fight some boss out in the open, you're forced to wait until dusk (a boss fight typically takes around half the night in game time). So the sun mechanic is just a waste of time.
+
+When you're just starting, you can choose an official server or a non-official. On official servers, you'll find it real hard to create a base or even get around in the world, because every buildable area in the starting zone is completely blocked off by idiots showing off their max rank castles. On unofficial servers, you might suddenly find that they went offline and you lost your character and castle,
+
+For a multiplayer game, the multiplayer aspect is pretty shitty. First of all, performance is bad. It's starts lagging like mad even with one other player near. Secondly, the social aspect is bad. Chatting while doing combat or other things is clumsy because of how the key binds work. At the very least, they should allow easy toggle between global and local and have escape cancel the chat. You cannot make friends. You cannot communicate when people are offline, there's no way to send an email or anything.
+
+There's no interesting interaction between the structures people build and the environment, it's all just max 2 castles per person.
+
+The game offers a load of decoration options for your castles, you can make beautiful interiors, gardens etc but guess what? Nobody will ever see them, because everyone seems to simply but a big wall around their castles. So now every castle looks the same. Just a big wall blocking off what would be an interesting bit of scenery in the map.
+
+If you still plan to play this game, here's my advise: pick an official server. Build your castle as close to the next zone as possible. Get servants as soon as possible to farm mats for you. And keep playing every day until you finished the game, then delete it and move on.",0.8197935819625854,723,False
+1604030,138563964,76561198005291988,"Do you like vampires? 
+Do you like survival games? 
+Do you like survival games where you can be a vampire?
+Well then do I have the game for you!
+
+BUT WAIT, THERE’S MORE!
+
+In this era of poor ports, Day One DLC, lockbox gambling, FOMO exploitation, Pay-2-Win mechanics, and predatory publishers, it’s incredibly important to have a developer who actually shows they give a shit not only about the quality of their product, but about their customers. 
+
+Enter Stunlock Studios, a lovely group of folks who have developed a very simple premise into a game which was already quite enjoyable (eating up over 100 hours of my time) before the latest update. If they had never added anything else to it I would have still called it a game well worth my time and money, but then they announced their first major expansion.  
+
+A lot of people asked “How can you have an expansion in an early access game?”  We all feared we were about to be charged an arm and a leg for some new DLC when the game wasn’t even officially released. Then the information arrived, this was a true EXPANSION OF THE GAME, not a DLC, not new content at a price, no, it was updated maps, updated weapons, an overhaul of systems under the hood, an entirely new method of building castles, a whole new string of bosses and a whole new area of the world, and it would cost us all… Nothing!  Nothing? NOTHING!
+
+A free expansion of much needed Quality of Life updates alongside amazing new additions to the game play and aesthetic designs of the game. Then came the launch day for the new expansion and… It worked.  No server crashes. No hiccups. No false starts.  It worked from the word go!  It’s an S-Tier expansion with the devs being johnny on the spot whenever we players found bugs or issues. They’ve already done their first QoL patch for little snafus just two days later.
+
+I cannot express how wonderful it is to have a dev team that’s response, cares about their player base, and was willing to take as much time as they needed to deliver an top notch expansion update to their game with as few bugs on release as humanly possible. 
+
+Cheers to StunLock, cheers to V Rising, and cheers to proper commerce and interactions between product maker and product consumer. 
+
+Go buy V Rising, you will have a wonderful time, and you’ll be buying a quality game at a reasonable price!",0.8657315969467163,135,True
+1604030,115679715,76561198022142449,"The level of customization you can apply to a dedicated server is insane. It's like they took features that are MODS in other games and added it as a configurable option for the dedicated server. There are many, many exposed options for tailoring your experience how you want it to from that perspective because of this.
+
+Want a sun that is active for 1 hr per day and burns vampires into a crisp as soon as they start taking damage from it?
+Configure it and launch. Enjoy burning.
+Want to pick up 3 rats from a single one and compress 50 of them them into the same slot in your inventory?
+Configure it and launch. Enjoy rat kings in your vampire backpack.
+Destroyed as soon as silver touches you? Do it.
+Garlic so strong it makes you cry irl? We got it.
+Research/Crafting/etc. time modifiers shorter than the time it takes for a vampire hunter to put you on a milk bottle? Just one numerical change away.
+
+It's awesome. And it makes me feel awesome that I can create experiences without needing to Bepinex my way through the games code to tweak the experience.
+
+Oh yeah the game is cool as heck too, not just the ability to make awesome experiences via the dedicated servers hahaha. Should give it a try, you'll probably like it!",0.8153627514839172,55,True
+1604030,196421188,76561197970897684,"V Rising is an amazing open world survival game. You gather resources, kill enemies and build an elaborate castle, which you can also decorate. The map is large with several different areas you'll be going to throughout the game. There is a large array of weapons/spells and skills to let you have some variety if how you play. The game has a lot of bosses, each with their own mechanics. Playing on Brutal difficulty gives them even more mechanics. These bosses are fun to fight and some can be pretty challenging and feel very satisfying to beat. They don't feel impossible to beat and it's more about learning the mechanics and adjusting your strategies to beat them.
+
+You need to drink blood and there is an in-depth blood mechanic with different blood types and percentages that give you bonuses depending on the type and percentage. Later in the game you are able to combine blood types. You are also able to capture enemies to collect their blood or make them your servants and send them out on missions to farm resources and components for you to build/craft which will make farming resources a lot easier.
+
+You can play online on PvE or PVP servers or you can play solo or co-op on your own server. You can adjust a whole range of settings to customize the game how you want. If you don't enjoy grinding you can set resource gathering to 3x for example.
+
+The gameplay loop is enjoyable. You kill bosses to unlock new armor/crafting stations/spells etc which then make you stronger and ready to take on the next boss. 
+
+There is a lot to V Rising and it is a fantastic game. I highly recommend checking it out.",0.81353360414505,53,True
+1604030,116193216,76561198096518831,"A very well-developed and refined survival game with RPG elements, a developed building and crafting system, collecting resources is so well balanced that we do not have to spend many hours collecting so we have more time for raids to villages or killing bosses who give us V blood which gives us new skills and unlocks the ability to build new structures, our lvl depends on what equipment we have on, we have several types, each weapon gives us different attacks, e.g. with we can make a whirlwind with a sword, and with axes we can jump forward and deal damage within a radius of 180 degrees, in addition, each weapon gives us a different type of damage and gives us boosts to resources, we will use axes to collect wood better and faster than with a sword, although we can do it is any type of weapon;) which is interesting because thanks to this it does not stop our progress, because when we unlock a copper weapon, we will be able to improve it and only an improved one we will be able to collect iron.
+There are a lot of raw materials, so crafting and building gives us a lot of possibilities, we can build our character whatever we want, spell power or movment speed everything depends on us, plus the blood mechanics, each character has its own blood type and blood quality, so when we will drink the blood of a warrior with 80% quality, we will get very good boosts to fight and resistance to damage, but there are many other types of blood that give us other boosts, which in combination with the weapons we use creates a very good composition, and from time to time there is a blood moon that gives us 20% more boosts from our blood and we move 10% faster.
+We can also create our own character
+
+In addition, the combat system, the game is from Stunlock Studio, they have such a game as battelrite - generally an arena where it was just about killing the enemy, the combat system was really great there, only that the game itself could become boring. In V Rising we have exactly the same combat system which makes the fight here great, practically all skills are what we could see in battelrite, both games are graphically similar to each other, but most importantly this combat system is very skillful so we can have worse equipment, but if we can fight, we will defeat a more difficult opponent. 
+
+Edit: 
+Fight with Dracula is amazing, sadly after him is nothing to do, well some events what they added are cool but its not the same, some rift or dungeon with boss on the end, maybe not same like dracula but similar, was be aweosme 
+this game is what I missed in battelrite, great comabt system but there was only arena and here in V Rising all this fights with this combat system is great, I have hope we will get more xD but its already amazing game",0.8634259700775146,79,True
+1604030,116342447,76561198018739243,"it is crazy how much Content you get for 20 bucks (in comparison to AAA Title for way more money)
+
+We played with 4 People on our own Server, it’s kind of grindy sometimes but as a Duo+ no big deal at all. 
+Until yet, no bugs spotted except 1 small graphic bug. Building your own castle with servants and sending them on missions is a lot of fun too. The Survival and combat aspect is well balanced.
+
+TLDR: you should try it, a lot of fun for 20 bucks :)!
+",0.8122749328613281,109,True
+1604030,220718452,76561197974182714,"I thought V Rising was a fantasy game. 
+But apparently it's just my daily routine.
+
+Sunlight? Avoid.
+Go outside? No thanks.
+Active at night? Yes.
+
+This game didn’t let me roleplay a vampire. 
+It just confirmed that I already am one.
+
+10/10
+Most relatable game I've ever played!",0.8087282776832581,95,True
+1604030,115864873,76561198014916388,"Big takeaway is that if you're looking for a singleplayer experience, avoid this game.
+
+This game is SPECIFICALLY designed to be a co-op PVE or PVP experience.
+
+Thematically, the game is about being a supervillain vampire who is gaining power after the vampires return from hibernation.
+
+Mechanically, the game is really about exploration and unlocking the next set of gear and buildings via relatively well-done boss fights. The skills are well done because they all scale with your overall power level, making even the starting skills useful later in the game, and you definitely have to switch out active skills depending on what boss you are fighting.
+
+The big catch is that if you're stuck on a boss, progression is often very hard because the next tier of equipment is locked behind the rewards for beating that boss. I haven't gotten permanently stuck on a boss yet, but I can see it happening.
+
+You don't really get permanent rewards like XP from fighting enemies that don't give you worthwhile rewards - there's no combat grinding in this game (but there is a lot of resource grinding). I like this, however, as it really rewards stealth and picking your battles. There's no reason to fight if you don't get something from it. In addition, in-combat healing is really limited. Your level is entirely based off of your gear which is directly based off of what bosses you have fought.
+
+I wish the game had a lot more social elements and a real society to deal with. Vampires in fiction are able to disguise themselves and seduce or corrupt the living, and that would be really exciting and fun to do. I think I'm about 40% of the way through the current content and there's not a shred of that to be seen yet. Disappointing in that regard.
+
+EDIT: Turns out one of the bosses gives you a human disguise which is fun to sneak around in, so I was wrong on this one. I literally wrote this review right before I got to that content. It's just a disguise, though, there's still not a lot of ""social"" aspects of the game - it's pretty much entirely a combat game.
+
+The basebuilding is fairly fun and really lets you make your spooky vampire castle.",0.8076963424682617,242,True
+1604030,178400087,76561199163610345,"🎮 1,600+ Hours in V Rising – Is It Worth It?
+🌟 Short answer: [b]YES![/b] on Hood, no Cap, fr fr
+
+💰 [b]Worth the money?[/b] Definitely
+🧩 [b]DLCs[/b]? Optional, no rush
+🎨 [b]Graphics?[/b] Gorgeous, detailed, and immersive
+🎶 [b]Soundtrack?[/b] Top-tier, perfect for the vampire vibes
+🕹️ [b]Gameplay?[/b] Deep and incredibly fun, whether you’re a builder, fighter, or explorer
+
+⚔️ [b]PvP or PvE: Which Should You Choose?[/b]
+When starting [i]V Rising[/i], one of the first major decisions you'll face is whether to play on a PvP or PvE server. This choice will shape your experience significantly. Here's a breakdown of the two modes to help you decide:
+🛡️ [b]PvE: Chill and Steady[/b]
+PvE servers focus on cooperative gameplay, allowing you to explore the world, build castles, and hunt NPC enemies without worrying about other players raiding/killing you(well they can when your castle heart is out-fed which is called decayed castle, other players can either disable to get the loot or destroy everything in one click)
+[b]Pros:[/b]
+ - 🕊️ [b]Ideal for learning the game mechanics[/b] at your own pace
+ - 🛡️ [b]No stress over offline raiders[/b] or surprise attacks
+ - 🌟 [b]Great for casual or inconsistent players[/b] who prefer a relaxed environment
+[b]Cons:[/b]
+ - 💤 [b]Servers can lose activity[/b] quickly once players finish building their castles
+ - ⚔️ [b]Limited challenge[/b] compared to PvP interactions
+If you're new to [i]V Rising[/i], we recommend starting with PvE to get comfortable with the mechanics before diving into the chaos of PvP
+🗡️ [b]PvP: The Real Action[/b]
+PvP servers add a layer of intensity to the game, where you can engage in battles with other vampires, raid castles, and steal resources
+[b]Pros:[/b]
+ - 🔥 [b]Unpredictable and thrilling gameplay[/b] that keeps you on edge
+ - 🎯 [b]Encourages creative strategies[/b] for defense and raids
+ - 🏆 [b]Offers a satisfying competitive experience[/b] for those who enjoy player-vs-player combat
+[b]Cons:[/b]
+ - 💔 [b]Can be ruthless,[/b] especially for solo players or beginners
+ - ⏳ [b]Requires a lot of time and effort[/b] to maintain your castle and resources
+For those who thrive on adrenaline and competition, PvP is the way to go. However, teaming up with friends or joining a clan is highly recommended to survive and succeed
+🧛‍♂️ [b]Tips for Choosing[/b]
+- 🛡️ [b]New players:[/b] Start with PvE to learn the rules and mechanics before trying PvP
+- 🗡️ [b]Experienced players:[/b] Jump into PvP with friends or a clan for the full vampire experience
+
+🔥 [b]Builds That Slap[/b]
+[b]Best Melee Build on Earth🩸[/b]
+[b](Use good tier-4 gems)[/b]
+✨[b]Abilities:[/b]
+🌩️ [Storm Magic tab] Veil of Storm (+20% attack speed after dashing)
+🔥 [Chaos Magic tab] Power Surge (+15% movement speed, +20% attack speed)
+🩸 [Blood Magic tab] Blood Rage (+10% movement speed, +25% attack speed)
+🚀 [b]Total Buffs:[/b] +35% movement speed, [b]+65% attack speed. INSANE[/b]
+😈 [i](Axe’s Q ability with all buffs active is a heavy-damage monster! Legendary static slashers too, that's the best weapon with this build for clearing waves, overall any heavy hitters.)[/i] 
+
+🏹 [b]Weapons:[/b] Heavy hitters like Greatsword, Reaper, and Axe make this build unstoppable
+[b]My personal favorites:[/b] Greatsword and Reaper—powerful, fast, and satisfying
+
+✨ [b]Mage Build:[/b]
+🌌 [Chaos Magic tab] Void, 💎 [Frost Magic tab] Ice Nova
+[b]Pro Tip:[/b] Landing both spells wipes most enemies clean!
+
+[b]My Hotbar Favorites[/b]
+(all legendary; if not, use near-perfect substitutes like Static/Ignite Reaper or Ignite Pistols):
+💜 [b]Melee PvE:[/b]
+1️⃣ Great Sword | 2️⃣ Spear | 3️⃣ Reaper | 4️⃣ Blood Potions | 5️⃣ Slashers
+
+💛 [b]Melee PvP:[/b]
+1️⃣ Mace | 4️⃣ Blood Potions
+
+🤍 [b]Mage PvE:[/b]
+1️⃣ Whip | 2️⃣ Pistols | 4️⃣ Blood Potions
+
+🖤 [b]Mage PvP:[/b]
+1️⃣ Whip or Pistols (only one) | 4️⃣ Blood Potions
+
+🌟 [b]Extra Tips[/b]
+🛡️ [b]Shields Are OP:[/b] Master using Shield(specially Frost Barrier, the most powerful shield in the game)
+🏃🏼‍♀️🏃🏼‍♂️ [b]Dodge Like a Pro:[/b] Keep moving to avoid damage and set up devastating counterattacks
+⚡🩸✨🧊 [b]Combo Skills:[/b] Chain abilities and weapons for massive damage—learn your combos
+
+💯 [b]Craft Smart:[/b] Build the right armors based on stats that suit your style
+
+👛 How to turn [b]Copper Coins[/b] to [b]Silver Coins[/b](you don't need to shift into human form for this one cause its copper market and they are cool with vampires until you attack them)?
+1️⃣ Grab your copper coins
+2️⃣ Go to [b]Copper-Market(Shady merchant camp)[/b] at Farbane(one at east, another one at west), check em both
+3️⃣ You need to buy as much [b]Tools[/b] as you can([b]Lumberjack's Axes[/b], [b]Miner's Mace[/b])
+4️⃣ Go to your Devourer(the box with big-tongue out for salvaging items), and drop your [b]Lumberjack's Axes[/b], and [b]Miner's Mace[/b] to get [b]12 Silver Coins[/b] for each [b]Tool[/b]
+
+🎨 Hold [b]Shift[/b] key to paint all the walls of that closed/opened(same floor) room with your favorite [b]wallpaper[/b]
+
+🐻 Shift into [b]Bear Form[/b] to recover a lot of your hp(gone) in short time and also for safely farming iron at [b]Iron Cave[/b](regular attacks)
+
+[b]💤 Log Off Safely:[/b]
+- [b]Always log off inside your coffin![/b] Otherwise, you risk waking up dead and losing your inventory😴🔴
+
+[b]🐴 Get the Best Horse:[/b]
+- Horses have [b]3 stats[/b]:
+ - [b]Max Speed:[/b] How fast your horse runs (max  11)
+ - [b]Acceleration:[/b] How quickly it reaches max speed (max  7)
+ - [b]Rotation Speed:[/b] How fast it turns (max 14)
+- Add a [b]Saddle[/b] (8x Thick Leather, 4x Iron Ingot) to boost Max Speed and Acceleration by 1
+- Hunt for horses at [b]stables[/b] or the [b]Horse Track[/b] in Dunley (southwest). Kill weak horses to force respawns until you find top-tier ones🏇🏼
+
+👷🏼‍♀️👷🏼‍♂️ [b]Servants:[/b]
+- Equip them with broken gear (default: 8 servants) for max loot efficiency
+- Plan missions based on your schedule:
+  💥 2-hour runs while you’re online
+  💥 1-day runs before sleeping for max rewards
+
+💎 [b]Optimize Farming:[/b]
+- Hunt for high-quality servants (98%+ is ideal for me)
+- Example: Need [b]glasses[/b]? Farm Dunley ""Quartz Quarry"" workers(kill-wipe) until a high-blood spawns(you need 2), make them prisoners and try to get them to 100%, then convert them into servants, for more loot-from-hunts based on their [b]Expertise[/b] stat(for example, i need a lot of glasses at end-game, so i get 2 max expertise servants and send them to quartz quarry to get as much quartz as possible, they will come back with so much more quarts/glasses based on their expertise number, that's why i say [b]higher expertise= more loot[/b] from that [b]specific region/area[/b] which leads to one/multiple item crazy number boost)
+
+💪🏼 [b]Defend Your Castle in PvP:[/b]
+- Place Banshees near entrances for brutal defense
+- Pick plots with one main entrance and fewer jumping paths (like Frog Form shortcuts)
+- Watch for red-eyed rats—they’re humans in disguise (door campers)
+- Spend loot to get better items—don’t let low-tier junk clutter your storage
+
+🍄 [b]Trippy Mushrooms[/b]
+[b]2 Witch Hunts at south-west of Cursed Forest[/b], [b]Nest of the Cursed Weaver[/b](area)/[b]Matka[/b](boss) at north-east of Cursed Forest, [b]Lair of the Behemoth[/b](cave) at south-east of Cursed Forest, [b]Bear Cave[/b] at east of [b]Farbane[/b], [b]Bandit Copper Mine[/b] at center-a little to west of Farbane, and at the end, Gleaming Meadows(area)/Polara(boss) at north-west of Farbane or same as below entrance of [b]Silverlight[/b] from Farbane
+
+How to have most fun(challenge)?
+1️⃣Beat all bosses on [b]normal mode[/b]([b]Private servers are Da Goats[/b])
+2️⃣Then do a [b]No-Hit[/b] run on last bosses([b]normal[/b] mode: [b]Solarus, Adam, and Dracula[/b] are most important ones with most fun)
+3️⃣Now do [b]Brutal mode[/b]
+4️⃣At the end, do [b]Brutal[/b] mode with [b]No-Hit[/b] run(most fun of all time, and challenging like hell as well😘)",0.8569329380989075,152,True
+1604030,228614233,76561198014149228,"Aggressive EULA
+You’re renting access, not buying ownership. (You don't own the game)
+Your purchases can be changed or removed.
+You can’t sue them in court.
+They can change the rules at any time.
+They own any ""content creator"" content.
+Data collection can still happen whether the game is still installed on your device or not.",0.8031461238861084,784,False
+1604030,115879278,76561198142647792,"V Rising is a FANTASTIC game with a lot to do and a lot of fun to be had. There is one mechanic that makes me rate this game poorly. My group got to the end game and were gearing up to go grab the three soul stones. We had a beautiful base with lots of materials and all types of gear and servants. When we logged in the next day, someone had built their base overnight to completely block off the entrance to our own base. Since you can't teleport or use bat form with resources, you have to go on foot. So because our base's entrance was blocked off, we could no longer get into our base. 
+We built a new location so we could make the siege golem and the castle keys so we could destroy that person's walls and get back to our own base. After fighting the other team, we successfully breached the castle after breaking through countless 1x1 rooms set up to block us from the heart. We accessed the heart and were told that hostile actions may only be taken against hearts in decay. That meant that we had to squat on their base and protect it from them for a week before it would go into decay. We were on a partial PvP server, because full loot PvP is a bit insane for my play style. We didn't read the fine print, and we got totally duped. I can imagine that this is a problem for PvE players as well.
+Individual servers have the option to change that, but it is a default setting. This is such a game-breaking flaw because it allowed people to grief and it completely protected them. It truly ruined the whole experience for my entire group. How would we know to look for such an obscure setting if we are just starting the game? It was an official server, so it really felt like the devs slapped us in the face by making standard settings protect griefing. There were keys made specifically to destroy or take over someone's base, so why make those items obsolete on official servers?
+I really did love this game and I spent so much time on it every day since it released, but I just can't get behind something like this. We were duped because we didn't choose full loot PvP.",0.8024730682373047,2019,False
+1604030,184192693,76561198112832615,"Its kind of like 7 days to die mechanics in a diablo like game, Works pretty well. I suggest you make a private server and modify some of the settings to be less tedious.",0.7960963845252991,47,True
+1604030,205978429,76561197983852484,"I have no interest in the PvP scene so can't comment there, but for a co-op vampire survival game this is nothing but fun. 
+
+It can definitely take up some time between exploring/building/gathering/crafting but if you multi-task then crafting being a bit slow is  really not an issue since you can just go out and do other things when waiting- you don't need to stare at the crafting tables.
+
+The difficulty ramps up in parts but I think every fight is fair even on brutal, it will just take a few attempts to learn patterns.
+
+And graphically the game is very beautiful, plus you can make some fairly intricate castle designs.",0.7948719263076782,57,True
+1604030,115708377,76561198380869259,me and my buddy adam play this game together. we enjoy ourselves and we believe that you and your buddy will to.,0.7881191968917847,75,True
+1604030,212181165,76561198377428647,I spend more time building castles than progressing the game 10/10,0.7869868278503418,44,True
+1604030,226938540,76561199193925812,"V Rising honestly is one of the best survival experiences out there, in my opinion. It kind of builds on the usual foundations you already know from the genre but it also has this strong identity, the atmosphere, and a very clear dedication to the vampire fantasy so it never really feels like yet another copy, in a sea of overcrowded releases. In a genre where a lot of titles blend together, V Rising kind of slips through and finds its own spot, and it does it in a way that leaves a mark, for real.
+[hr][/hr]
+[h2]Atmosphere & Identity[/h2]
+
+What really, like instantly drew me into V Rising was the atmosphere. The game kind of fully commits to its gothic vampire vibe, building a world that feels elegant, dark, and honestly pretty immersive. Even the way the architecture sits, the environments look, and how the enemies are designed, it all adds up. Like, every little part helps the fantasy of being a rising vampire lord, not just another survivor wandering through some harsh world. Every region, every castle, even the enemies they all stack up into that fantasy of becoming a rising vampire lord, not merely another survivor running around, grabbing resources in some hostile place. And more, it really seems to understand who it is. A lot of survival games talk about freedom, but then they end up making you feel kinda aimless, like ok…now what?. V Rising goes another route, because it keeps throwing you a clear sense of purpose and steady progression, almost all the time.
+[hr][/hr]
+[h2]Progression & Systems[/h2]
+
+The progression system is honestly one of the stronger parts, like it really keeps pulling you forward. Each boss isn’t just… you know, another obstacle on the way. when you beat them you get worthwhile rewards that expand what you can do right away, and also push you into new directions. So it feels like this steady loop where every win matters, every little advance feels earned, not like it was handed to you. More importantly, most players almost always know what they’re supposed to do next and how to get there. So instead of spending all day digging through guides, and wikis, you can actually spend your time playing the game.
+Also, the boss lineup is a great. They each bring their own vibe themes, mechanics, and combat rhythm, so progression doesn’t turn into the same routine over and over. The game keeps dropping fresh kinds of trouble, which means the whole experience stays interesting from beginning till the end, even when you think you’ve seen it all. And beyond fighting, the systems for prisoners and servants really add to the vampire fantasy. It’s not only about surviving anymore. You’re building influence, organizing power, and setting control over what’s happening around you. That makes you feel like an actual vampire ruler, which is basically exactly the goal the game is aiming for. Then there’s the building system, which honestly deserves credit too. Sure, it’s simpler than a lot of other survival games, but that simplicity works in its favor. It’s smooth to use, efficient, and it doesn’t usually turn into some annoying grind of frustration. 
+[hr][/hr]
+[h2]Boss Design & Endgame Frustrations[/h2]
+
+That said, the game is not without a few flaws, it kind of shows. Some of the endgame bosses felt frustrating though, not really because they were straight up difficult. It was more that a number of these encounters seem to lean on mechanics, and odd little gimmicks that occasionally feel kind of disconnected from the boss overall design. Instead of actually testing mastery of the game combat systems, those moments sometimes manufacture frustration for reasons that feel… sort of artificial. Not the nice kind of challenge, the kind that you can’t quite tie back to anything. A tough boss can be incredibly satisfying, no question. But a frustrating boss leaves, a totally different, impression in your head.
+[hr][/hr]
+[h2]The Endgame Grind[/h2]
+
+My biggest criticism, however, kinda lies with the endgame grind. I get that resource gathering is a basic part of the survival genre , and I dont really mind grinding when it feels meaningful. The issue is that a lot of the endgame asks players to keep repeatedly gathering resources they have already farmed like a hundred times throughout the whole game . At that point it stops feeling like real progression and starts feeling more like a chore , you know? What used to be engaging slowly turns into something repetitive, and then the pacing kinda suffers because of it.
+[hr][/hr]
+[h2]Music[/h2]
+
+One small thing I kinda wish the game had done differently is how it handles major boss themes. The soundtrack is fine, but honestly I would have loved unique musical themes for the most important encounters, like not just the same overall vibe. At the very least, the final boss of each act could have had its own signature track. Memorable music has this weird way to elevate the fights and stick in your head long after the battle ends. A special theme for those key moments could have made several of the great bosses feel truly unforgettable, like Simon Belmont, for example.
+[hr][/hr]
+[h2]Final Thoughts[/h2]
+
+Despite a few frustrations with some boss mechanics, and the sheer amount of grinding that keeps popping up in the later parts of the game, V Rising stays a pretty exceptional experience.  
+The whole atmosphere is captivating, the progression feels consistently rewarding, and the systems somehow just fit together like they belong there, to deliver one of the best survival experince out there. Very few survival games manage to balance approachability, real depth, and a clear identity, and as far as I can tell V Rising does.
+9.5/10",0.7864952683448792,40,True
+1604030,116610214,76561199006885006,Basically if ARK: Survival Evolved and Diablo had a baby and that baby was big into Anne Rice novels,0.9364096522331238,1135,True
+1604030,196733222,76561198267705347,"I really like the game, but...
+Whenever the game has a new update, the map doesn't update and forces me to create a new world. It's super discouraging when I discover that I have more than 100 hours and need to create a new world, losing everything I built.",0.782771110534668,254,False
+1604030,217631684,76561198290991386,The storyline could be better. The gameplay is great and I didn't run into any bugs. Building your castle is a cool feature. I am enjoying the game and I have almost beat it in about 50 hours of gameplay.,0.782456636428833,33,True
+1604030,179306564,76561198036554552,"The best Dracula Castle Dream Decorator out there. Also some bosses idk, still busy building exact copy of grand epic Castlevania citadel-palace.",0.7821620106697083,43,True
+1604030,166102900,76561197998873734,"[h1]Disclaimer[/h1]
+I finished it solo. I did not and will not engage in PvP. Look for a different review if you intend to play PvP.
+EDIT: Summary after completing the game solo on Brutal in comments
+
+[h1]TL;DR[/h1]
+Judging by first 30-ish hours this game would be almost a 10/10.
+
+Endgame it can become an unrewarding slog and some bosses are an insane difficulty spike.
+
+I still recommend it.
+
+[h1]Description[/h1]
+It's a semi-survival build/craft/combat game.
+
+You play as a vampire and your goal is to increase your powers through crafting, killing bosses and building a sick castle.
+
+You can select 3 spells from a pretty large assortment of different schools of magic + you get up to 2 skills attached to your weapon type. All skills and spells are cooldowns, there is no mana here. You can dodge and hit things with a basic attack. Low HP enemies can be drained of blood.
+
+Draining enemies of blood will turn your class into that of the target. Each class has it's own passive bonuses and quality. For example a Rogue with 50% blood quality will give you about half of available stat bonuses of the Rogue class. Your blood depletes passively and more through automatic or active healing, so from time to time you need to snack. This will always change your class and blood quality, so hunting for tasty targets can be rewarding.
+
+You can craft basic equipment through a menu. For more advanced stuff you need to build a castle and some crafting facilities first.
+
+Castle has a core that you can plop down at any of unclaimed territories. Then you build castle around the core. You start off without being able to build actual castle walls, but you can place some wooden palisades. Unlocking new craft/build options is mostly done through killing bosses.
+
+These bosses are unique enemies, usually present in special areas withing the game. You can track them through a menu, which will give you a trail to follow. Bosses have special attacks that you may need to learn how to deal with to fight them efficiently.
+
+Materials for building/crafting are obtained by mining/logging or from enemy NPC camps. Each camp has different resources that are common in it. Mines may be filled with copper, while graveyards are good source of bone. You can also trade for some items with merchants if you find money for it.
+
+As you advance through the crafting tree you will gain access to more and more bosses and more and more upgrades.
+
+[h1]Pros:[/h1]
+[b]+ Neat presentation[/b]
+Graphics are clean and readable while containing enough detail to be interesting.
+
+[b]+ Variety[/b]
+There is a good variety of different spell schools, each one with it's own gimmick. Blood school lets you life leech on spell hits, while undead school lets you summon skeletons for example. Coupled with decent weapon variety and 2 skills for each of those weapon types as well as equipment modifiers there's enough stuff to try for anybody to find something that works for their playstyle.
+
+[b]+ Combat[/b]
+It's quick without feeling spammy. Different bosses encourage different playstyles or spell/weapon combos. Your dodge move has 8 second cooldown so you can't always rely on that to get you out of way of big moves and some enemies can hurt you a lot if you have no way to mitigate. Spells that provide shielding or counter-skills are helpful in those situations, but you can also just keep your distance and spam projectiles if you build around it.
+
+[b]+ Bosses[/b]
+While most early bosses are pretty boring and generic, that changes quickly. Some bosses are really fun to fight and all of them reward you with new crafting/building plans so it's always exciting to fight them. There's enough variety in boss design too - you get your badass beasts or monsters as well as elite bandit lords or crusaders or even vampire hunters. It can get crazy when your fight gets interrupted by a fking Simon Belmont (yes, he is in this game). I also like their audio design as most of them speak, taunting you at the start of the fight, etc.
+
+Unfortunately there are also some very bad bosses too.
+
+[b]+ Castle management[/b]
+It's fun to build up your base and upgrade stuff. Later on you can also convert enemies to your cause by making them vampire thralls or put some in cells to act as your blood source. There's enough variety of clutter items to make your castle cozy.
+
+[b]+ Progression[/b]
+Between crafting, building, boss hunting and material farming there's always something to do and you will always have at least 1 clear goal in order to advance in the tech tree. For example you may find armor plans that require cotton, but you can't grow it yourself, so you can invade one of the NPC cotton farms and take it.
+
+[h1]Cons:[/h1]
+[b]- Travel[/b]
+By default you cannot teleport using unlockable waypoints if you have any resources. Later on you will get access to some other forms of transportation, but travel times can still be very tedious.
+
+Suffice to say that I ended up modifying my default game settings to allow myself to teleport with resources.
+
+Worst thing is charming enemies and having them follow you to your castle as you cannot switch to a different form if you have someone charmed. Have fun walking several kilometers home while avoiding enemies so that your follower doesn't get squished. It's especially painful when you happen to find a 100% blood quality enemy and just want to get him home, but some bomb-throwing a-hole decides to blow everything up, including his charmed buddy.
+
+[b]- Bad bosses[/b]
+Several starter bosses are unremarkable, but that's ok.
+
+Pre-ultimate boss is unreasonably difficult even compared to the last one. I had to lower the difficulty because learning to beat him on normal would probably take me another 4-5h and by that time I was done with the game and just wanted to see the end.
+
+Losing to bosses drains your blood and lets you respawn at any teleport, meaning you will have to walk back to boss arena to retry. It also depletes some of your gear's durability and repairing endgame gear takes a ton of rare resources that you may have to spend hours on obtaining.
+
+This makes those bosses not exciting to learn like in souls games, but actually discouraging and needlessly punishing. One should not be forced to grind for hours just to keep trying at a boss, this is insane.
+
+There are 2 bosses in this game that I would categorize as unreasonable, I was able to beat 1 of them on normal through persistence, but the pre-ultimate one broke me.
+
+[b]- Some resources hard to get[/b]
+Parts can be tricky to obtain because they only appear in specific enemy camps as resource you can mine. Grease is similar, but at least you can use some grease and mid-tier materials to generate more grease. Pristine and Bat leather drops in specific zones and you will have to commit significant amount of time to farm for them.
+
+Gold can also be a pain, because only one type of enemies drop resources for it, unlike other metals which can be obtained in plenty amounts from mines.
+
+[b]- Lots of farming[/b]
+Especially near the end of the game. Endgame gear will not only cost rarer resources, but also more of them than early game stuff.
+
+Amount of farming is fine in first 3 acts, but act 4 and endgame becomes unreasonable.
+
+[b]- Ending[/b]
+Beating last boss doesn't really end in any interesting event or anything which was disappointing.
+
+[h1]Lowdown[/h1]
+It's probably in top 5 games I played this year. Honestly when I play something for this long and I STILL want more when it ends - this has to mean the game is good. I enjoyed almost every mechanic this game has and when I was done this game has left a hole similar to when I finished Subnautica. Even comparing this game to the masterpiece that first Subnautica is means that it's a worthwhile purchase, even full-price.
+
+V Rising would be a 9/10 game, but given endgame drag and some boss issues I knock it down to an
+[h1]8/10[/h1]
+Which still means I thoroughly recommend playing it.",0.8306974172592163,53,True
+1604030,116546690,76561198043082465,"This game is not good for people that take breaks between their gaming sessions.  You need to pay upkeep in order to keep your base alive, and if you are offline for too long, your base decays and is destroyed.  This happens on PvE and PvP servers alike.  As a result, you find yourself logging back in only to find everything gone.  You can refarm to rebuild your base, but it feels like a big waste of investment.",0.7800152897834778,355,False
+1604030,156543427,76561198184084278,"I liked the game so goddamn much. I usually get bored in survival games, but this one is different, the things that were the best for me are: 
+- The gameplay doesn't require you to defeat every boss, and so you can have pretty fast runs
+- The bosses of the game all feel unique
+- You're not forced to play ""meta"" spells, because all of them have their pros and cons, and I often found myself switching before engaging in combat, to best suit my needs.
+- Building a castle in the game feels pretty damn awesome, and it's not that lengthy if you have your resources. 
+- All weapons feel unique, allthough I think there should be more, just for the fun of it
+- With 71 hours in the game, I still didn't get to the final boss, because there is so much content to explore
+- PvP feels great, even if you're on a massive server or if you just gang up with friends in a 1v1v1v1
+- Each area has it's unique hardships, and unique mobs
+- The zones progressively get harder and harder, but not as hard as to feel annoying
+- World creation options are pretty cool, but if you want to change them, well, that's a bit complicated
+
+The cons: 
+
+- Not all spells feel unique, even tho they have their strengths
+- Resource gathering is painfully slow, even in the late game (on the base settings, might I add)
+- Resource processing is SLOOOOOOOOOW, like from just one are to the other it's almost tripled in length (base settings) 
+- There are not many exterior designs in the game to better customize your castle, there's only the gothic style
+- Exterior design lacks some elements, to it, it feels a bit barren for some reason
+- You can't sit in chairs that you put down, so the ""roleplay"" aspect of the game isn't as good, although still okay
+- More plants in the garden (?), it feels a bit barren 
+
+I hope this review helps new players join the game, because it's a lot of fun. Additionally, it's still in early access, so there's a lot more content to come ;)
+
+",0.7789899706840515,36,True
+1604030,194943532,76561198011294431,I will change the review to positive when save files are no longer made obsolete with each update. Dozens of hours spent on a save should not be invalidated. They are not deleted but you cannot access new content on those saves. So if you start playing and create the perfect castle(s) that world and everything you have done becomes obsolete after a major patch. This game is fully released. This is unacceptable.,0.7764610648155212,254,False
+1604030,189625694,76561198016884143,"I played this solo, so my experience might differ. Its fun for a while. Kind of difficult, at least for me. But I thought the progression system could have used more creativity. its kind of boring to progress in a game only to have the exact same items for the next tier except with higher stats. It takes the fun and suspense out things when you already know whats next. It would have been better if the game had held back some significant rewards and made them involve more than just boosted numbers and a new look.
+
+Also, really wished it had a story to go along with it.",0.776441216468811,35,True
+1604030,117987030,76561198119404184,playing this as a gathering / vampire castle decorating game. 10/10,0.8262945413589478,97,True
+1604030,175472249,76561198112810429,"V Rising at the first glance looks pretty much a typical isometric action-RPG, like Path of Exile, Van Helsing, Grim Dawn, and many more. However, there is a catch and a twist, turning everything upside down. 
+
+You're playing for an ever-bloodthirsty and power hungry, monster vampire, who, at least in theory, dominates over all other lifeforms, slaying, bending, robbing and reshaping this given world as it pleases.
+
+The game is rogue-like, to the point that mobs are resurrecting faster than you clear the given locations. Meaning, you can get in the loop in some scenarios, forced to kill or run from the very same bosses that you've already downed 5 minutes ago. 
+
+Also, and that's a major issue actually, the game is server-action type. Thus, even if you want to play it solo, you can't pause the process, and also, that all your main progress stored not in the local save file, but on the server, which will turn it all down eventually. So, if you are, like me, not a regular player, and can spend time to games maybe on the monthly basis, be prepared to the problem that you'll need to start it over and over again.
+
+Finally, with all those dozens of different bosses, all that variety of biomes and regular hazards, the main theme of the game is not about fighting. It's about grinding more and more resources, to build and enhance your base and equipment, to be able [b][url=https://www.youtube.com/watch?v=oSPT27XyY1U]to do more killing, looting and crafting[/url][/b]... Et cetera.
+
+Now, when we're done with naming things that can be relatively called the downsides, let's say why it's a great game. The first thing coming to my mind is about seamlessness of all things involved. 
+
+Different locations, biomes, all are tightly wrapped together, and you can travel between them almost freely... If you're powerful enough to run through the patrolling mobs. And with that, the game constantly creates intermedia between those different world parts, some presumably generic episodes of different mobs travelling just like you in this world, and starting some local mayhems here and there... Okay, one story, to provide you a typical experience.
+
+Once upon a time, I was shuffling in the central region, and crossed paths with the dangerous vampire hunter, a real tough nut case, with a powerful stunning, distance controlling and AOE attacks. I was not able to kill him fast, or run away, so, our struggle kinda burned out a massive piece of land, along with all light mobs usually walking around. And then, a stranger comes by the road, and takes a hit from some AOE attack. Turns out, it is one more travelling boss, who's hostile both to me AND vampire hunter, so, [b][url=https://www.youtube.com/watch?v=5PgAKzmWmuk]a Mexican three-way duel[/url][/b] starts now. Apparently, that third guy was weaker, so he felt first. But, since there's a special effect for consuming every boss, a life restoring power ups, and a powerful blast, once I've finished that second boss, the blast took out the vampire hunter, who could last much longer any other way... Just a one, almost regular, near to generic situation...
+
+Your base, your castle, that emphasizes yours progress, adding more and more new mechanics, possibilities, and interrelations between your actions and abilities, is really fun to build. You're starting with the main idea to have a roof above your head, which quickly evolves into the factory-type constellation of rooms and mechanisms, that recycles, refines and build anew more and more complicated power enhancers and aesthetic improvements... 
+
+You can spend dozens of hours in that game, not fighting enemies or grinding materials, but purely modelling and reformatting your castle. And maybe even your appearance, if you need it.
+
+V Rising provides a proper gameplay experience for all the adorers of vampires aesthetic, and also, many fun and challenging battles with tough enemies, and hundreds of ways to remade your castle, any way you like. All in all, it's a great indie title, respectful to his players, and providing a somewhat unique, by the combination of different patterns, gameplay, which I liked, after trying it in that free weekend event, which was certainly [b][url=https://www.youtube.com/watch?v=1VM2eLhvsSM]a good promotion idea[/url][/b]. Despite all my personal displease with the idea of playing villains. My mark is 8/10.
+
+PS: You don't need DLCs to get a complete with achievements, which is also a point to like and recommend the game. Can't say that DLCs are worthless, if you're a fan, but, yeah, you'll be good without them.",0.7761143445968628,44,True
+1604030,129748747,76561198059724281,"TLDR: Diablo-like combat with a very robust base building and player crafting system. Fantastic gamerule settings system, as well as a very full PvE content, Early/Mid game was fast paced and very fun, End game slowed down for gear progression since I was in a party of friends, but overall it was very fun. Bosses in this game are the highlight.
+
+This game mainly utilizes a Castle system, in which all your processing, refinement and other such machines can be placed and utilized. There's a lot of different types of systems in this game to learn, and almost all the youtube videos about some of them suck (looking at you servant system). There is a degradation system in this game, where you castle requires blood, however you can turn them way lower in the game settings.
+
+Good things:
+-Combat was amazing! Very fluid and very impactful feeling in everything you do, being resourceful can make a huge difference in your success in fights.
+-Bosses were fun and required strategy. I found myself switching spells and trying different ideas a lot to take down certain challenges. However with friends though, it's a lot more of a damage rush, not mindlessly fighting obviously but was definitely noticeably easier for the vast majority of bosses.
+-Base Building and Crafting was well thought out for a lot of it, and didn't appear to have any issues or confusion. If you love building your own custom castles, this is the game to do it.
+
+Bad things:
+-Farming materials. In a group of 3, farming materials was a constant issue. This was obviously expected (this is a open world survival craft for crying out loud) but there was some things in particular that definitely stood out to us as being... excessive. 
+For example, gold ingots. To get your best neck piece, you need 6 of them, which is made with 8 jewelry per. This can be lowered down to 6 with the right castle bonuses, but this still meant we had to farm 108 of them.. not to mention the repairs. That's a lot of grinding just for 1 neck piece. Roughly 1 city run gets you about 20-40 of them depending on your luck, and that takes an hour or 2.
+-Transporting materials. A huge downside in this game is, there is a LOT of materials in this game that can't be teleported with you between waygates. The world is pretty big, and dangerous to boot. This might not sound big to you, but in a game with friends this ended up being an artificial time gate just because of the sheer amount of materials we needed. After a day of playing with this, we decided to just turn it off, which can be done through a dedicated server, or modding the game.
+-Servants and everything about them. Don't get me wrong they are very useful, but it's explained very poorly by the game and how traits work. It also doesn't help that you have to gear them like your characters, and in a bigger group of friends it ends up going on the way side very quickly... until you realize you can send them on missions to get gold jewelry, then you mad dash to gear them. Other than that, 90% of the missions are useless to send them on in the first place.
+
+Overall, I think i'll give this game a 8/10. There's a LOT of great things in this game I loved to do. So much customization and ability interactions you can utilize to do a lot of different things. Bosses were definitely my favorite thing to do, going out and around with my 2 friends and killing every boss, I even ended up solo'ing most of them just for the experience of it. A lot of them are well built and fair but there really isn't much point killing them more than once to unlock their powers. Definitely worth it's price point 100% though.",0.7755540609359741,42,True
+1604030,147566281,76561197983501051,"This game has a great combination of discovery / base building / farming and boss fights.
+
+And in each respects it is fun to play.
+
+I like the graphics style and the overall quality of the map and design. The crafting is not exaggerated and the inventory space is still enough.
+
+The basebuilding has great design.
+
+The boss fights, are fun for most of the time but are quite difficult.
+
+I will say that the sun period can be frustrating sometimes. When you are exposed to the sunlight too long you will take heavy damage and then die. This can be frustrating when you are in areas where there are almost no shadows. 
+
+Also the game cannot be paused even when in single player. Because the sun and therefore the shadows in the game shift slowly and constantly it can happen that you are killed by the sun if you are going afk for a few minutes. A option to pause the game while playing solo should be added.
+
+The game is very difficult when you are entering a new region. The same is true for bossfights. However there it is a good kind of difficulty. Every time I died I either had not paid attention to the combos of the bosses or have not drunk my potions.
+
+There is a lot of different spells and weapons variety. However I find that most of the time ranged weapons ( especially crossbow) and skills with movement speed are better then everything else, which takes the variety away somewhat.
+
+Regarding Bugs I have not found a lot. I would consider this game not to be early access. Fair amount of content to play.
+
+9/10 recommened even when not in sale",0.7755524516105652,38,True
+1604030,183676844,76561199480092769,"25 December 2024
+--------------------------
+i would have said yes, but they completely removed the ability to change all the settings of the game, now i have to do some hacker stuff and open weird files in the bowels of the games files and manually change them with weird names and figures, its like they specifically said ""hey, how can we make this game less user friendly?"" what is the point in removing these settings from inside the game? why did you remove easy buttons and sliders to have me go change save file codes myself, why was this even done?? why was this a thing who thought this was something we wanted? in what way does this make this game ANY better? just why? why remove something so easy and simple to use??
+
+26 January 2025
+-----------------------
+Due to the recent comment by TurboRetcon, I have to stress the part of  ""removed the ability to change ALL settings of the game"" yes yes you can still change some basic stuff but not ALL, for example they removed the blood loss factor where you could set it to 0 and never lose your blood unless you die. mind you they never removed this setting, it is still available to change if you change the base game files of the world settings. They've also removed resistance rates (garlic, sun, silver, etc.) also i believe the item durability modifier, where your weapons wouldn't break no matter how much you use it, and given the incredibly grindy aspect of the game i do not want my end game weapons to break. And now i'm not even allowed to set what time the sun gets up, and what time it goes down, now i have to bend over and take the 4 hours that is minimum on a 24 hour period. all of these were easily done and changed when setting your world, but now you have to go into .json files and edit them - good job stunlock, this is exactly what we wanted in the game",0.7755321264266968,274,False
+1604030,234185978,76561199207686585,"Graphics: 10/10 (Atmospheric gothic art style and lighting)
+
+Combat: 10/10 (Fast-paced, responsive WASD ARPG mechanics)
+
+Base Building: 10/10 (Detailed multi-floor castle creation)
+
+Boss Fights: 10/10 (Each V Blood boss has unique mechanics)
+
+Easily the best survival craft game I’ve played on Steam. The daylight mechanic keeps you on edge, and the progression loop is addictive from start to endgame. I love it so much that I've played through it on two separate accounts.
+
+A must-play for ARPG and survival fans alike. 10/10 🧛🏻🦇",0.7720164060592651,30,True
+1604030,223153121,76561198079861457,"One of the best games of its genre, mixing easily an A tier basebuilding mechanic, good combat (for the most part), satisfying resource collection, interesting exploration, and a good mix of bosses. 8/10.
+
+---
+
+V Rising is an exceedingly solid experience, especially with a little tweaking of the settings. The game consists of a relatively standard progression system through a pre-designed world with several biomes with a small degree of randomization to keep things a little fresh.  You move upwards through various tool and armor tiers by variously harvesting, chopping, mining, looting, and killing things in the world around you, bringing your spoils to your castle. 
+
+There is a day/night cycle, but as this is a game about vampires, the ""safe"" period is the night, and the ""unsafe"" period is the day. This wouldn't be terribly interesting by itself other the novelty, but, critically, it is still possible to go outside during the day by literally sticking to the shadows - manuevering from the shadow of a tree, to a wall, to a boulder, to inside a hut or house, and so on, which makes the decisionmaking about when you decide to go out raiding or harvesting a little more nuanced.
+
+The basebuilding admirably refuses to get bogged down in the tedious lists of components like ""Platform 1x2"" and ""Inverted Corner Stair 2x2""s that afflict other games, opting instead for an initially simple set of castle components. Additionally, your castle can only be built in certain ""plots"". There a good ~140 or so castle plots throughout the map, and these aren't separate instances; they are part of the map itself as traversable land and contain resources to harvest when not in use (and almost all of them won't be in use because you can have up to 5 castles) and take a variety of shapes and sizes, which will act to govern how your castle layout ends up forming. While there can be an initial reaction of dislike to the size limits, I very quickly began to appreciate how it prevented me from just creating the vampire equivalent of the Minecraft dirt block house. If you want a good castle, you (usually) can't just build a big cube filled with all your stuff, especially because you are rewarded for having distinct rooms for e.g. forging, workshopping, imprisoning captives, etc. You are also gradually given many cosmetics to make your castle look aesthetically pleasing and detailed, but even within the first ~5 hours or so, you can make a base that looks pretty snazzy.
+
+The combat in this game is, I think, its weakest aspect, but it isn't ""bad"" by any means. You can make a selection of weapons - e.g. a sword, axes, a mace, a spear, etc - and you unlock more options as your progress through the game, such as bows, crossbows, daggers, and whips, to name but a few. There is also a selection of six overarching spell schools (Blood, Chaos, Frost, Storm, Illusion, Unholy) in which you can more-or-less freely switch between spells you unlock through the game depending on the situation you find yourself in. Most builds will opt for a combination of spells and weapons. This is the great part of the combat system - there's a good array of possible builds and weapon-spell combinations. 
+
+Where the combat begins to flag a little is when this is actually brought in the vicinity of enemies. The balancing of enemy stats against your own is fairly lopsided in favor of the enemy unless you outlevel them, resulting in most on-level encounters being quite close. A large part of the reason why this occurs is twofold: healing in combat is difficult to impossible, and your dodges are on a longish (~6-8 second) cooldown. This combination means that it's hard to ever feel like you're outskilling and outplaying enemies through great dodging and taking the correct moments to heal, and instead can often feel like you're just seeing whether or not ""my effective health - enemy damage"" is a positive number over the course of an encounter. This dynamic is only further amplified in bossfights, which are otherwise usually fun and creative encounters. I say ""usually"" because there are some real stinkers out there, especially towards lategame, where getting repeatedly stunned/frozen/incapacitated without being able to do much about it, as well as drowned in bullethells and summoned enemy hordes becomes more common than not. 
+
+I found that in a majority of boss fights, I would begin with a bold melee strategy, my healthbar would rapidly deteriorate because the bosses attack more frequently than you can dodge making it mathematically impossible to avoid taking damage at close range (and the dodges also seem to have minimal i-frames and perhaps none at all). I would then be forced to switch to a much more boring and time-consuming ranged strategy where I just ran away all the time and spammed spells and bowshots at long range - repeat until the boss dies. Certain bosses can be found roaming the roads, which presents an additional problem as you not only get mostly killed by the mobs surrounding them before you can even attack the boss, but being forced to resort to the aforementioned ranged strategy means that them losing aggro and rapidly regenerating their health becomes a serious and annoying problem. So in all, while the bosses were usually engaging and creative, they are also the single worst part of the game, and I frequently found myself actively procrastinating moving onwards in progression because I was loathing what this next round of boss fights might have in store for me.
+
+The only other major factor to note is the resource gathering systems. I found this pretty good, with perhaps its greatest sin being its inability to break free of the relative tedium that so many other games in its genre suffer from. To V Rising's credit, the proportion of resources you gain and can carry can be adjusted in settings (so you can still plenty enjoy this game if you happen to have one of those ""job"" things I've heard so much about), as can other options like whether some resources cannot be teleported. Not being able to teleport certain resources strongly encourages you to actually engage in non-teleport transportation methods like horses, which I think is *generally* fine, but traversing half the map back to your castle after a resource collection run does get pretty monotonous after a while, and I think the game could perhaps offer better scaling to traversal speeds or alternative methods for the lategame. The speed at which resources craft also leaves a lot to be desired, but it does at least prompt you to make bigger castles with more machines running in parallel, so I understand the idea there. You can also create ""servants"" which effectively gather resources for you over time, and I recommend fully engaging with this system as it cuts down on a considerable amount of the grinding time.
+
+I have no complaints about the music or graphics. Neither of them absolutely blew me away, but both are appropriately stylized and of a consistently great quality. I also have nothing to say about the PvP aspects of the game, as I didn't engage with them (I have played in both pure coop and solo), but I can at least say that I never felt like I was playing an inferior product for not playing on a server, which is always nice for a game's longevity once updates inevitably cease and new games come out.",0.7715898156166077,30,True
+1604030,193795530,76561197970492219,"Its a fun game, but every major update requires starting a new game in order to experience the new content. If you like PvP then periodic resets might be just the thing to keep the game fresh and competitive. But if you want a PvE game where you can invest hundreds of hours building up a base, having to restart every update is just tedious.",0.7708466649055481,124,False
+1604030,191085926,76561199683582555,"I lost so much sleep from this game. It is such a hidden gem with everything a modern Castlevania game should be. Simply put, It's literally a Castlevania game with Simon Belmont out there in the world hunting monsters and you role playing as a customize Alucard.
+I can't say enough about this game. In my opinion V Rising is a flawless Game.",0.7700963020324707,59,True
+1604030,129187222,76561199103290854,"Solo pve Player here. My thoughts is this is addicting. Progression is set up in a way you find yourself grinding out for the next set or item in order to progress a little bit further. Before you know it, its time for dinner.",0.8189278841018677,68,True
+1604030,199180131,76561198864121927,"This game is one of the most well designed games I've ever played.
+
+It's well worth your time and money, even alone, even if you're someone who doesn't enjoy isometric games or survival crafters at all.
+
+The combat is best in class. Base building is meaningful to progression and has interesting twists. The atmosphere/exploration/environmental story telling are awesome.
+
+Progression feels much more dynamic than just ""mine X to make new tool to mine X+1"" like so so many other mediocre titles.
+
+This game is worth more than its full price. I'd recommend it to anyone.
+
+10/10",0.7665637135505676,61,True
+1604030,138934559,76561199097821024,"---{ Graphics }---
+☐ You forget what reality is
+☑ Beautiful
+☐ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{ Gameplay }---
+☐ Very good
+☑ Good
+☐ It's just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ Audio }---
+☐ Eargasm
+☑ Very good
+☐ Good
+☐ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{ Audience }---
+☐ Kids
+☐ Teens
+☑ Adults
+☐ Grandma
+
+---{ PC Requirements }---
+☐ Check if you can run paint
+☐ Potato
+☑  Decent
+☐ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{ Difficulty }---
+☐ Just press 'W'
+☐ Easy
+☐ Easy to learn / Hard to master
+☐ Significant brain usage
+☑ Difficult
+☐ Dark Souls
+
+---{ Grind }---
+☐ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☐ Isn't necessary to progress
+☑ Average grind level
+☐ Too much grind
+☐ You'll need a second live for grinding
+
+---{ Story }---
+☐ No Story
+☑ Some lore
+☐ Average
+☐ Good
+☐ Lovely
+☐ It'll replace your life
+
+---{ Game Time }---
+☐ Long enough for a cup of coffee
+☐ Short
+☑ Average
+☐ Long
+☐ To infinity and beyond
+
+---{ Price }---
+☐ It's free!
+☑ Worth the price
+☐ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{ Bugs }---
+☑ Never heard of
+☐ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{ 8 / 10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☐ 7
+☑ 8
+☐ 9
+☐ 10",0.8646039366722107,146,True
+1604030,170365231,76561198020188593,"Absolutely BRILLIANT. TL:DR:
+If you like ARPGs, if you like MMO style boss fights, and you like crafting/base building, this game SHOULD be on your ""Must Own"" list.
+
+(Quick note, I never engaged with the bigger online servers, or the PVP elements which seem to be a potentially large part of this game, I ONLY played it with friends on a private run server).
+
+At almost every turn I found a mechanic where I went ""Damn, any other dev would've made this painful and tedious"" but these guys just never did, it truly felt like the game was made by gamers that have felt the pain of the Triple A industry's choices to ""keep players playing more"".
+
+The Bosses:
+Very VERY few of the bosses felt annoying, I'd say maybe 5-10% were annoying/bad, 20-40% were ""filler bosses"" (Somewhat simple mechanics, but could be deadly in their own right if you mess up), 15-20% were ""spectacle bosses"" (not too difficult, more about the theme or the experience) 20-30%  were ABSOLUTELY AMAZING fights, and then there was the last boss.. Truly felt like a final mythic raidboss in a WoW raid, some mechanics felt a liiiittle bs, but overall the fight was super good, and really hard. (Played through on the Normal Difficulty mode, and I plan to try Brutal at some point).
+
+There are lore sections about each boss you're going out to hunt, if you wanna read them to immerse yourself even more in the world they are there, but you don't really need them if you're the type of player that just likes the mechanical/gameplay focused aspect.
+
+The crafting/building system:
+There are some parts that feel a little annoying or tedious here, but guess what, you can customize almost EVERY SINGLE MECHANIC IN THE GAME down to a minute degree.
+Don't like durability burn? Turn it down by 25-50-75% or even clompletely off.
+Don't like the mechanic that blockes you from using teleporters while carrying resources? Turn it off!
+Want to reduce the amount of materials needed to craft because it feels too grindy? You can do it!
+Want to reduce the amount of materials (or increase) you get from nodes so it becomes more (or less) grindy? Sure, why not!
+
+One minor  gripe, when building you cannot turn off snapping, and sometimes even if you do a perfect run around your castle area with hedges or walls, something random from the environment will still block it or the like.
+I found workarounds for most of it, but it's still a bit annoying and messed that experience up a little bit for me, at least until I found workarounds.
+
+The world/Exploration:
+Quest markers? That sounds lame! Go explore the world!
+Need to find the next boss? Follow the trail! 
+It's a simple work around to having a quest marker on your hud, but it makes the game so much more engaging, without making it tedious in any way.
+The world zones are  varied and beautiful, you end up in some really cool locations, and the campaign will send you all over the map to find things you need, so slowly you'll explore everything as time goes.
+
+Music/graphics:
+The music is amazing, really great soundtrack, loved every second of it, super fitting.
+Graphics, aside from the bit annoying ""behind the character, arpg/mmo"" style camera, the graphics themselves are pretty.
+
+IMO, without a single doubt, one of the best ARPGs ever made.
+I applaud these developers for several of the things they've done, absolutely puts most AAA Arpgs to shame!
+9.8/10",0.7630010843276978,26,True
+1604030,115636219,76561198054807464,"Best survival game that comes to mind in recent years. even just the small things like a dev checking in on the server the first hour after launch and asking if everyone was having a smooth experience. Those small things make me feel like the devs care about their craft and want it to succeed, which gives me high hopes for the future. Great game, respectful of your time, easy to play hard to master combat, with a rewarding castle progression mechanic. 10/10",0.7627962827682495,44,True
+1604030,141824186,76561198871828170,"---{ Graphics }---
+☐ You forget what reality is
+☑ Beautiful
+☐ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{ Gameplay }---
+☑ Very good
+☐ Good
+☐ It's just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ Audio }---
+☐ Eargasm
+☑ Very good
+☐ Good
+☐ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{ Audience }---
+☐ Kids
+☑ Teens
+☑ Adults
+☐ Grandma
+
+---{ PC Requirements }---
+☐ Check if you can run paint
+☐ Potato
+☑ Decent
+☐ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{ Difficulty }---
+☐ Just press 'W'
+☐ Easy
+☑ Easy to learn / Hard to master
+☐ Significant brain usage
+☐ Difficult
+☐ Dark Souls
+
+---{ Grind }---
+☐ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☐ Isn't necessary to progress
+☑ Average grind level
+☐ Too much grind
+☐ You'll need a second life for grinding
+*Using servants to do the grind for you helps a lot
+
+---{ Story }---
+☐ No Story
+☐ Some lore
+☑ Average
+☐ Good
+☐ Lovely
+☐ It'll replace your life
+
+---{ Game Time }---
+☐ Long enough for a cup of coffee
+☐ Short
+☐ Average
+☐ Long
+☑ To infinity and beyond
+*for both pvp lovers and chilling with your friend in a pve server
+
+---{ Price }---
+☐ It's free!
+☑ Worth the price
+☐ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{ Bugs }---
+☑ Never heard of
+☐ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{ ? / 10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☐ 7
+☐ 8
+☐ 9
+☑ 10",0.7612158060073853,159,True
+1604030,116298956,76561198096208196,"So far i have spent 211 hours in the world Vardoran, and oh boy where do i even start..
+
+For me, it captures the idea of an immortal vampire perfectly, from right after you awaken in the crypts, your nature is clear. You feast on mortals to savour the benefits of their blood, be it a worker to boost your gathering, a scholar to vastly empower your spellcasting, a brute to relish in the melee slaughter - you get the idea.
+
+But, perhaps a boss ruins your day, or maybe the pesky sunlight leaves your great undead ruler-to-be a tad charred, in which case, get back to your grand castle. (Some of you might chose to just live with wooden walls, i suppose, to each their own.)
+
+You could hunt for some good humans, scouring the streets for high end blood to bring back to your castle for your dark delights, be it imprisoning them in your own personal wineyard, or turning them into a vampire spawn/servant to roam your halls, guarding your castle or heading out on missions.
+
+Not to mention the combat, which is the greatest i have had the pleasure to immerse myself in. Hunting powerful V-bloods to progress through the different tech stages, and unlocking powerful new spells that will allow you to greatly mix up your playstyle.
+
+There is so much more that can be said about the game, so many fun things to do,  Yet i think i have said all that need to be said.
+
+If you are still reading this review, give it a try. It is a fresh take on the survival setting, and it has completely consumed my free time. 
+
+I cant wait for updates, if this is only the early access, the launched product is going to be a sight to behold.  If for some reason you do not feel it is worth the current cost, keep track of the game updates, the game is already a steal for the current cost.",0.810127317905426,60,True
+1604030,115611631,76561198046311327,"Amazing game. How is it only $20?
+
+This game combines the polished (tried-and-true) combat mechanics from Battlerite with a full loot open world environment. 
+What's not to love?
+Enemies and NPC's are dynamic and at odds with each other. 
+Bosses are challenging, fun, and rewarding to beat. 
+Castle building is very satisfying.
+Shapeshifting, human dominance, servants, fishing. 
+Team sizes are limited to dissuade ""zerging"" (as is common in the genre).
+
+10/10",0.7562776803970337,79,True
+1604030,198530943,76561197972798622,"What a breath of fresh air. Every single boss fight is completely unique. 
+This was suggested to me by a friend and since then I have roped in a few more friend to join in the fun.
+We are enjoying every min of it.
+
+",0.7560259699821472,40,True
+1604030,115633863,76561198038820071,"Fun surviving as a vampire in an open world fill with the living that ready to hunt you down.
+
+If you want vampire games where you play as vampire, build your very own castle and experience the life of vampire in the land of the living. V Rising is what you been looking for. 
+
+Not many vampire games that would take you to experience the survival aspect of the vampire, where you have to escape from the sun as the morning come, or hunt for blood to keep you alive. This game have a very fun concept on that and it make you feel vulnerable as a vampire rather than immortal powerful creature like in many other vampire games. It quite unique in survival/crafting genre. 
+
+You can also playing with other vampires (PvE) in open world up to 40 players, survive in the living world together, build together and help each other thrive and get stronger. I have so much fun in this game and love every minutes of it so far. (except when the sun come up :P). Recommend to check it out, in Early Access, yet have huge contents for you to explore.",0.7542393803596497,42,True
+1604030,115761719,76561198128160159,"V Rising has to be one of my favorite survival games this year.  Valheim meets Vampires. 
+-20 hours in and have yet to see an end to content
+-No boss feels the exact same
+-Good Character Growth
+-Good Choice of Character Builds
+-Map doesn't feel empty, always a camp or something close by
+-Servant system is pretty cool
+-Personally I have only seen one bug
+Overall for 20 bucks? Absolutely. If you can get into a bit of a grind and don't mind putting a lot of time into a game. I bet you can easily get 100 hours into this game.  If you aren't interested in a rust experience with PVP they are making an offline mode but its a great game to play with friends.",0.7536781430244446,117,True
+1604030,121564687,76561197999097442,"Absolutely fantastic open-world (ish) survival game.  It's like if Ark: Survival Evolved and Diablo II had a vampiric baby.  
+
+POSITIVES
+* Combat is largely dependent on skill and not on RNG (very much a good thing in my opinion).  Meaty and satisfying.
+* Building castles is great fun, as is sending minions on missions
+* Your character feels powerful but not invincible - bosses are challenging but persistence and practice will get you through eventually.
+*PVE - cooperative play is an absolute blast.  Share victory, share defeat, share that story of how your friend got absolutely mauled by a golem that one time...
+* Vampires are just cool, alright.  I just think they're neat!
+
+NEGATIVES
+* Endgame content is somewhat lacking - once you've defeated the last of the V-Blood characters, there's really not much more to do as everything else feeds into levelling up in order to beat the next boss.  I'm assuming that this will be expanded on as the game proceeds through development, it's still in early access after all.
+* PVP is not great.  Castles are forced to build ""honeycomb"" defences to slow down attackers which just result in every castle looking the same - a checkerboard of empty rooms.  Pretty boring.
+
+OVERALL
+I had a lot of fun with this title.  A LOT of fun.  But I'm not sure I'll play another SOLO run until some more content comes out.",0.7535987496376038,27,True
+1604030,202884492,76561197970324956,"It's a good game, but at the end of the day, it's the progression system that seriously needs some improvement. It makes a great game just... okay.
+
+I'm going to start with the frustration so you can rage quit my review and then write paragraphs of how I ""shud git gud"" and how I'm too busy eating paste to L2P. While it's true, I do eat paste, I don't eat that cheap ultra-processed Elm*r's brand. I only eat organic, locally-sourced paste, so I'm pretty sure I'm ""gucci"" ([i]as the kids like to say[/i]).
+
+The progression in this game--both weapons and skills--are gated behind killing bosses. Which means that weapons and ability points are arbitrarily allocated across the multiple Acts in the game. You want to use guns and lightning abilities? ENJOY A FORTY HOUR GRIND JUST TO UNLOCK 'EM.
+
+You see, the [i]V Rising[/i] developers give you a myriad of spell styles and weapon types that they allocate over the entire multi-Act structure of the game, but nothing is really more powerful than the other. It's just different play styles and magic styles, so at the end of the day, meting them out over 80 hours isn't really giving you any sense of real power progression, just more [i]options[/i]. And worse, the stair-step progression of the [i]actual[/i] power lacks any semblance of nuance as it is gated two-fold behind bosses and then resources, while the bosses in your power range actually step up significantly.
+
+So what does this mean in practice?
+
+Simple: The two-tier power unlock system ([i]kill a boss to get a partial gear unlock > find rarer mats to craft them[/i]) puts you in a system where the boss scaling starts as a ""oh I can sorta feel that upgrade"" to very rapidly an absolute slog to kill any bosses from the mid-tier onward in that power step. And by the way, the game has a LOT of bosses--which seems dope AF at first, until you realize that 40% - 60% of the bosses you're going to fight are going to be in the plateau of any given power curve.
+
+This means that most fights aren't fun because you're only doing tiny bits of damage to massive health bars while you just dodge, dodge, dodge hoping that the jankass hitboxes don't screw you over--and let me tell you, those hitboxes are sloppy as hell. OH THE VFX ON AN ENEMY SKILL IS 1/4 INCH WIDE? COOLCOOOLCOOOL, ADD A FEW MILLIMETERS ON EACH SIDE OF IT AND NOW YOU'VE GOT THE ACTUAL HITBOX ([i]Much like my lack of skills, I also lack the ability to use consistent units of measurement. It's okay. I'm American, I'm allowed to be bad at that.[/i]).
+
+[i]""Oh, but ninjadan you organic paste-eating boomer""[/i], I hear you saying, [i]""this game is meant to be played in 4-player with sick PvP, ur reviewing it wrong, U CAPPIN DAWG!""[/i]
+
+Dang, you got me, son. Except for the boomer part, I'm solidly Gen-X.
+
+Okay, the progression is fine and [i]V Rising[/i] is totally peak.
+
+Look, this game is super stylish and there's a ton of content, and for the price, it's actually legit. I have a ton of respect for what Stunlock is trying to do here, but they SERIOUSLY need to smooth out some of the progression here. I PERSONALLY think that part of the answer here is to make the magic skill points a bit more agnostic and make the base weapons all available at the start. Let the players find their playstyle early and invest in it. I think you could smooth out some of the itemization by adding more options and improve magic scaling so that abilities actually feel like they're growing with you as opposed to feeling like they taper off at the end of each Act.
+
+This really could be a solid 9/10 sorta game, but right now the progression just keeps it sitting at a solid 7 for me.
+
+You may now complain about me in the comments.
+
+
+Just kidding. I unchecked ""Allow Comments"".",0.750765323638916,94,True
+1604030,164950913,76561198070319773,"I don't personnaly like the game due to the main gameplay.
+
+Fighting like diablo with survival gameplay where you build your own homes like most sandbox. everything is solid
+
+I just personnally can't play games like diablo anymore. I just don't like it.
+
+Good game just not for me
+
+Edit 
+
+I tried playing with controler because of oath of exile 2 beeing a game I know my group of friends will play. I was hating it untill my friend said ""maybe try with a controler instead of a keyboard if it is how the controls feels."" 
+
+And gosh dang I had fun. So I went back and enjoyed it a bit. I do need to play more but this is my recommendation. If you don't enjoy how a game feels to control. Try a different controler.",0.7504971027374268,652,True
+1604030,116712053,76561197986090780,"Decent survival action game with a flavouring of RPG combat, although somewhat under-cooked in each aspects of its undertaking.
+
+The game's presentation is great. Although the setting itself isn't unique, featuring very standard fantasy genre trope creatures, set pieces and designs. There isn't anything here that you haven't seen in other fantasy games, but this time you are playing as a vampire, so your castle exudes very Gothic styles and furniture. The graphics are nice, the lighting works well and night and day are remarkably different experiences visually. The only major dissonance here is really the use of low poly character models for the bosses and enemies, visually clashing with the detailed world assets.
+
+There is a decent amount of foliage and clutter, and each biome feels distinct enough from one another to encourage exploration and provide diversity. Sound design is decent, although nothing too memorable.
+
+Moving on to gameplay, the strengths and weaknesses are more pronounced. You play as a vampire with explicit goals of hunting down special bosses that award you new blueprints and powers on defeat. Similar to other genre staples, you can either use an altar at your castle to create a tracking trail that leads to the boss, or you can simply head to the area and find them as they are either always in an arena or have a set patrol route.
+
+The bosses are varied enough to feel fun, although the first half of the bosses are simply just enhanced mobs, and the last few bosses are where it gets more interesting and challenging. There is a need to plan the time you engage these bosses, as the game's day night cycle means that in the day when the sun is out you can possibly be caught in an arena basked in sunlight, which casts a deadly ray on your vampire that can quickly finish you off.
+
+The castle building is decent, and utilizes a gridbased expansion and construction system. This means that you can quickly build structures and alignment is easy, though it also means that the more avid builder might feel limited. There are a decent amount of crafting stations with your standard forge, woodwork, chemistry and sawmill, and a few other specific stations that involve blood refinement. Where the base building gets unique is the introduction of prison cells that allow you to lure charmed NPCs with a high blood quality back, imprisoning them and turning them into livestock. There are a number of farming stations available, although the steep material costs involved to even begin production of other materials can be off-putting. 
+
+Crafting is one of the weakest points here, and while its generic tiered weapon crafting system is serviceable, the problem of the material acquisition rate rears its ugly head often. As an example, the mid game to late game crafting utilizes a lot of scourgestone in almost any high end crafting materials. Scourgestone is either found in graveyard areas, or crafted with a set of lesser materials that are still specific to find. Almost the entirety of your progression will be locked by scourgestone production rates, while other materials accumulate well into excess stacks. After the scourgestone drought ends, you will run into the next issue, scrolls, which are needed to randomly unlock a blueprint on your research desk, hoping for armor and weapon unlocks even as the RNG decides to unlock a furniture blueprint instead.
+
+All these crafting woes lead to a massive grind for resources, one that can only countered by playing in larger coop parties or if PVP, raiding other castles. There needs to be more loot spots or more enemies and loot drops per spot for some materials, especially ones that bleed into multiple recipes.
+
+The combat is quite engaging, it allows you to pick two spells, an ultimate and you have three weapon skills preset based on what weapon you are using. There are some neat combos here, and the telegraphing and real time evasion of attacks provide for a rather fun combat system that you can get better at with play. Much of the spell options are however, locked behind boss kills, and there is no other customisation which means that most players you encounter would be running similar builds that lack variety. You can select a class in essence by drinking blood from a creature or human of a particular class, and the quality of the blood determines how much buffs you receive. While interesting, it turns into a micromanagement game that can become annoying later on.
+
+Loot is mostly restricted to more materials for crafting, and bosses do not drop unique gear outside of the one or two that do early game. Gear scales upwards with pure stats, so a higher level sword does nothing but increase your damage, and adds nothing else. This bland tiered gearing system can rear its ugly head later on when you begin to feel like there is a lack of motivation to earn new gear.
+
+The game does have a lot of potential and is a blast to play with friends, but at the end of the day it feels like a lacking title that only slightly innovates from the standard genre tropes and then completely stops and doesn't take the game further. The systems work well together, but they do not work at the levels needed to make the game stand out. 
+
+Early Access, keep an eye, decent for its price.",0.749971330165863,29,True
+1604030,151691010,76561198045898389,"Fantastic Game.
+
+The combat and core mechanics feel solid. You can get a sense of genuinely improving your skill and doing better against bosses. Castle building is intuitive and you can do a lot with a simple to grasp system. It's good to see updates bringing quality of life improvements along with more content. Looking forward to where it goes in the future.",0.7458633780479431,28,True
+1604030,155670112,76561198030554853,"I have some major complaints about this game. It's a great experience in nearly all aspects across the board throughout first half of the game - really enjoyable, no matter if you're playing PVP or PVE. However, after playing the game for 20-30-something hours it becomes monotone and just... lazily designed. 
+
+
+The entire game resolves around the simple paradygm of: 
+- Kill X.
+- Get recipe from killing X.
+- Grind resources.
+- Craft newly unlocked items, increase your gear level.
+- You can now kill X2, rinse and repeat. 
+
+And to noone's surprise - the whole cycle gets boring around 30 hours into the game. Especially since you can only come up with so many ideas for bosses, after that they just get annoying / repetetive. I swear to god, 80% of late game bosses revolve around shitty-area-denial-fuck-you-for-standing-there mechanics. Expect for the Old Wanderer, who's Micolash from Bloodborne incarnated - he causes psychological damage by making you chase him around an entire forest, filled with enemies while your vision is obscured to the point of not seeing your dick when you look down. Oh. And his health bar regenerates if you dare to stop for 5 seconds and he gets sufficiently far away.
+ 
+And the fact that 95% of recipes for items / structures are randomized and you gotta hope for getting what you need / what you want doesn't help at all. Especially since this game gets really tough really quickly if you are undergeared. Which is also a sign of a bad game design - you are expected to follow a linear progression route, with nothing exciting ever happening. 
+
+Another problem with this game for me was the terrible, terrible balancing for single player playthroughs. You are expected to play this game in co-op, with friends. If you want to play this game alone you're in for quite a challenging experience, since bosses will kick your ass if you are ever so slightly underleveled. Like, seriously. Devs came up with a fun servant system, where you can recruit enemies to serve you and venture on hunts, defend your castle etc. They couldn't add a function of using those servants to aid you in boss battles if playing solo? They could at least be a meat-shield or could pick you up when downed.
+
+Overall it's a good game (and a great castle builder btw) with some annoying flaws.
+
+
+@EDIT
+Some people come here and call me out for accusing the game of getting boring after 20-30 hours of gameplay. My brothers in christ, I specified that boss hunting design gets boring. I've spent 90% of that playtime building castles. And so did / will you. The game requires you to kill repetitive bosses to progress the game without any chances of making a unique build - *this* gets boring, not the barbieland building aspect.",0.7950192093849182,77,True

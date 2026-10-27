@@ -1,0 +1,1784 @@
+appid,recommendationid,author_id,review,weighted_vote_score,votes_up,voted_up
+962130,122934950,76561198127769181,"Game is really fun and i recommend it however the depth of field is way too aggressive, Luckily were on pc and can turn that off
+go to: C:\Users\*yourusername*\AppData\Local\Maine\Saved\Config\WindowsNoEditor and open the Engine.ini
+Add these lines at the bottom
+ [/script/engine.renderersettings]
+r.DepthOfFieldQuality=0
+r.DefaultFeature.MotionBlur=0
+
+Game will now look  much better and wont have a console like apperance.",0.9536957740783691,1691,True
+962130,136347250,76561198134058201,"Grounded on its surface may seem like a cute sandbox building game where you're shrunk to the size of an ant and have to survive in the wilds, but believe me, this is one game where looks can be deceiving. On the surface, Grounded contains all the normal elements of your everyday survival game. Manage hunger and hydration whilst you venture around the backyard, gathering resources to build your own camp whilst fighting off all manner of creatures that want to eat you. But it is so so much more than just this. Let's get into all the awesome things you can expect.
+
+1. Biomes
+On the surface of things, one may think ""How could you turn a backyard into a set of distinct and unique biomes?"" Well, Grounded does ALL of that, and so much more. Explore the undergrowth in the Grasslands, dive into the depths of a massive Koi Pond, navigate your way through the surprisingly labyrinthine branches of the Hedge, or try to survive the blistering heat of the Sandbox on your hunt for buried treasure. There are 16 unique biomes in the backyard, as well as many tunnels and dungeons to delve through, from anthills, spider nests, and long forgotten ruins of tiny human activities.
+
+2. Creatures
+Grounded will pitch you against many different type of creature, each with their own character, style, and attack preferences. Fight your way through hordes of ants and termites to plunder their food stores, sneak past the spiders and try to avoid getting yourself trapped in their confounded webbing, or test your mettle against the mighty black ox beetles that roam the jungles of the Upper Yard. But don't think the bugs aren't taking notice of your actions. If you bother them too much, you might find they pay you a visit when you return home...
+
+3. Character Progression
+As well as having survival and combat elements, Grounded also gives your character many ways to progress in the game, from crafting better tools and weapons from the remains of slain foes, to infusing your character with the power of Yoked Girth Milk Molars. You will uncover character perks as your explore, known as Mutations, which you can activate or deactivate at any time to give yourself advantages in many different situations. Weapons and armor can also be upgraded and imbued with special properties, take advantage of creature weaknesses with elemental weapon upgrades, or give your armor hidden properties with sleek upgrades.
+
+4. Story
+Grounded has a fully playable story that will have you exploring the backyard in its entirety. It all starts when trying to reactivate the Mysterious Machine to grow back to your normal size - which unfortunately for you, ends in cataclysmic failure, causing explosive damage to a nearby oak tree and its unassuming robotic resident, BURG.L - Acting Science Manager for Dr Wendell Tully. But it will soon be revealed that the explosion corrupted BURG.Ls memory banks, and he can't remember how to fix the Mysterious Machine. But he does know he has backup files on Super Chips scattered throughout the backyard. It is your mission, brave adventurer, to retrieve them, return them to BURG.L, and try to piece together how you got so small, where Wendell has gone, and most importantly, how to get you home.
+
+5. Exploration
+As well as exploring the backyard to help BURG.L recover his memories, there are tons of optional areas to explore as well, all having their own secrets and rewards. Discover the story of past long lost adventurers from Ominent, brought here and tasked with the documentation and classification of Wendell's research and his whereabouts, or discover what happens when you activate all of the MIX.Rs located throughout the backyard. Or follow the stories of the four BIG BUG BOSSES and make it your quest to rid the backyard of these tyrannical creatures... After finding just the right thing to lure them out of hiding. What in the world could enjoy the taste of a Mouldy Haogie!?
+
+6. Base Building
+The base building in Grounded is extensive and comprises of several tiers of building structures, starting at grass plank and weed stem buildings, all the way through to mushroom brick and cement structures as the game progresses. As well as having many building options, you can decorate your base with all manner of furniture, crafting stations, lighting and trophies of all the creatures you've killed on your adventures. You can build in most parts of the backyard, and even connect bases with ziplines for fast travel across the backyard.  You will also have access to traps and turrets to defend your base when the bugs come knocking, because believe me, they will, and you'll need to be prepared for the onslaught!
+
+As of the 1.2 Super Duper update, building bases now becomes even more important. As you get a better base, you get higher levels of Coziness, and that gives you new buffs whilst you're in your base, even unlocking more build pieces for you to use. Some of these build pieces also have extra uses when interacted with, like bug wall trophies giving you attack buffs against that particular type of creature, the stuffed bug statues giving you extra chances for rare loot, and the new Petal Bed giving the Comfy Stamina and Comfy Defense buffs to anyone who sleeps in it for the entire next day.
+
+7. Bosses
+Grounded has a mixture of required and optional bosses to complete the story. Without giving too much away, there are 2 main story bosses and 5 extra, completely optional bosses that you can fight. All story and optional bosses give you a special mutation upon their defeat, so even if the other five are not required to complete the story, the experience is worth it and the things you can craft from their parts are definitely worth it too.
+
+8. Replayability
+Do you love the story and want more of it? Do you also feel a bit daring? Well, with the final 1.4 Fully Yoked update, you can now re-experience the game in NewGame+ using the REMIX.R station, taking you to an alternate dimension where things are randomized! Where you find it and how you activate it is a not so secret mystery, but in NG+ some of the bugs (including all bosses) are infused with Raw Science, giving them special abilities like the player can have. The world features are different and locations of collectables are random. You also get to get Tier IV weapons in NG+ as well as new trinkets and equipment. Best of all you can stack NG+ again and again to give you even more challenges!
+
+9. Playgrounds
+Do you want to make your own maps and challenges in the world of Grounded? With the 1.3 update, you can now create your very own Playgrounds and custom interactions between objects! Place most terrain pieces and points of interest, down to each individual blade of grass, spawn bugs anywhere including bosses, make parkour maps and arenas, the only limit is your creativity!
+
+Now we have some other things to talk about that will make themselves more apparent after a playthrough or two.
+
+1. Late game creatures
+Some of the late game creatures are reskins of the early game ones, with maybe one different type of attack. Whilst not a dealbreaker, things may feel repetitive. But there is enough variety to keep you on your toes, so the overall significance is minor.
+
+2. No mod support
+It is unlikely Grounded will ever see mod support due to release on consoles including Switch and PS5. But, there's enough in the game that you could enjoy it for hours, and most things we've wanted to mod in have been added by the developers anyway.
+
+Overall, I can highly recommend Grounded. Grounded 2 is confirmed to launch on June 29 2025, so now is a perfect time to get into it! This is a complete and polished experience and I've had nothing but fun and laughs playing this solo or with friends.",0.9344151020050049,304,True
+962130,73597456,76561198001606612,"A game that plays very similarly to the forest, except instead of cannibals, there are horrific giant spiders that i hate very very very very very very very very very much",0.9306594133377075,906,True
+962130,122989470,76561198391382772,"Best game I've played in a while. I'm getting kinda old (39), so I don't have much time for games. When I do play them, I usually get bored and quit after a while. This game is different. I played for 5 hours straight after buying it, only stopping because I have IRL work to get done. Responsibilities...I know. But anyway, the developers did a great job. Play this game!",0.9256489872932434,257,True
+962130,77814842,76561197984888832,"When I first bought this game, I came into it with fairly low expectations. I figured, ""7 Days to Die meets Honey I Shrunk the Kids, sure, why not?"" and I eagerly punched my ticket on the train to capture a little childhood nostalgia. What I got was SO much better, and flat-out impressive for a game that still purports to be on Version 0.3 in an environment where that actually MEANS something (sorry 7DTD, I love you, but 3 years of alpha is silly). 
+
+Negatives first, just to get it out of the way: 
+1) Steam client doesn't seem to shut the game down properly when it's over. As I write this, it claims that I have 23 hours play time, but I really only have 45 minutes or so in. It only acknowledges the shut down when I completely exit and restart the steam client. So if you're evaluating it against the 2 hour return clock, be VERY aware of this. 
+
+2) As other reviewers have pointed out, you do need XBox Live for multiplayer. I don't know if that means you need a paid subscription or not - I happen to be on the 3 month free pass for Discord Nitro. If it does that would be a SERIOUS problem, as multiplayer is where this game's value mostly resides for me. 
+
+3) A few more character options would be nice. Mind you, the characters are fully voice acted with unique and endearing personalities, so I understand that's a HUGE ask, but it's my hope that they'll get it up to like 6-8 minimum (12 ideally) before coming to full release. It would be particularly cool if each kid had unique advantages/disadvantages in approaching puzzles and crafting (think old-school Maniac Mansion, for those of you familiar with that game).
+
+That's about all I have to say in terms of critique. The positives are myriad and amazing by comparison. 
+
+1) There's an Engaging Storyline - this was a super welcome surprise and intrigued me almost out of the gate. Without spoiling too much, the characters have no idea how/why they've been miniaturized, and finding out seems to be the main plot. VERY cool. 
+
+2) A Robust Quest System - Objectives are auto-accepted and very well tracked. Easy peasy. 
+
+3) Engaging Map - Of course I'm only 45 minutes in, so there may come a time when this particular map gets boring/predictable, and hopefully they'll add procedurally generated ones in the future. But what a delight! It feels very wide open and three dimensional, lots of underground tunnels and omnidirectional exploration potential. 
+
+4) It's HARD - Medium difficulty is challenging and unforgiving, and the ants will mess you up if you venture into the wrong area before you're ready. I love the challenge. 
+
+5) Immersive, delightful art style - Maybe it's being a 7DTD veteran that makes this stand out, but the cartoonish, vibrant and sunny backyard is such a welcome change from the drab motif of the apocalypse. ;) 
+
+6) Familiar but Strange - Overall, they really captured the idea of how scale changes the look and feel of otherwise familiar objects and surroundings. They took it way beyond its conceptual roots into new and awesome places. 
+
+I'm very happy with the game, and I'm glad I supported it while in early access. I hope the team is responsive to tweak and change requests, because this already good game has the potential to be truly amazing.",0.9216705560684204,257,True
+962130,78906045,76561198032365977,"I love this game. I originally bought it for my dad for a birthday present. I wanted to play it too, so I got it for myself too. Then after playing multiplayer with my dad, my niece and nephew saw the game and spent their hard earned money because they wanted to play so bad. 
+It's so worth it. We play together in multiplayer every day for an hour or so before supper, and it's loads of fun. It's easy enough for kids to play, and it's complex and challenging enough for adults to enjoy. It's rare to find a game this fun, and big. It builds our relationships even while playing the game, which is a huge plus for me. Updates are coming out faster than we can explore the map, and the map is huge! We love it!",0.9191708564758301,224,True
+962130,95793133,76561198046565705,"Hey, 
+The game is clearly full of bugs, but at least you get to kill them. ;)",0.9122112989425659,616,True
+962130,208513523,76561198158509655,"When my dad was still alive we would play this game day after day building base after base across the map and finding story piece after story piece, and falling in love with willow and hoops' entertaining banter with eachother as we played , and though we never got to finish the story together this game still created countless fond memories, would highly recommend for groups or familys <3",0.9107328057289124,149,True
+962130,95312702,76561198045042497,"If you grew up wondering what it would be like to be the Szalinski children, well now's your chance.  Sure it may not be your lovable Canadian father who made you 1 inch tall, but the outcome is the same.  Dodge spiders and stink bugs as you try to scratch out a corner of your very own in this gorgeous survival game.  It is made by obsidian, so I expect a lot, and have been Exactly pleased with their offering.",0.9088841676712036,223,True
+962130,138359887,76561198045927669,"I highly recommend this game if you’re a fan of survival games.
+
+Grounded doesn’t do a lot new, besides its setting. But it manages to make a lot of what it does better than every other competitor. Grounded’s biggest achievement is managing to streamline the actual crafting to the point where its never tedious and doesn’t get in your way almost at all. You don’t have to go sifting through inventories, trying to remember all the components of the thing you need to make. Grounded makes everything in the storage around the workbench accessible, it automatically pulls out what you need when you craft something. Building is streamlined in the same way. Building materials are pulled from nearby storage. Even better, after a long day of wandering around gathering materials and hunting bugs, you can “hot deposit” all your materials with one button. And not just into the closest storage, Grounded automatically puts items with others of its type. So if you have some plant fibers in one crate and ant parts in another, it will put the ant parts and plant fibers together. Overall Grounded does a lot to get out of the way of the player having fun, something a lot of survival games could learn from.
+
+I could talk about the rest of the game being fun, exploration being heavily rewarded. The charm of the visual direction, the sense of achievement from taking down the hardest bugs... But other reviews have all talked about that. In my opinion Grounded might have taken over Subnautica as being the best single player survival game. And thats probably the highest praise I can give a game.",0.9062589406967163,152,True
+962130,114856746,76561198257359632,"Look I don't really do reviews like this but this game is ******* amazing.  I payed thirty bucks for this game and my wife and I have been playing it for 3 days straight.  The amount of sheer content in an UNFINISHED game is mind-blowing.  The fact that I've only experienced ONE bug in the game is staggering (And it's a mild audio bug that's corrected by logging out and logging back in).  I haven't clipped through the world, gotten stuck, glitched out, or otherwise experienced a single issue that isn't an intended game mechanic.
+
+The Map is humongous and will take you between 8-10 minutes to sprint across, longer if you walk and sprinting across the map isn't really possible because of the nourishment requirements.  
+
+The enemies are a challenge.  Some are annoying, some are just cute, some are a serious challenge that take real life days to prepare for and some are the stuff of nightmares that you won't ever want to mess with.  (Think reaper leviathan from subnautica but they're giant insects) 
+
+The crafting is in depth, systematic, methodical, tiered, upgrade compatible and is mostly linear.  
+
+The building mechanics are simple but will let your imagination work without many boundaries.  
+
+Multiplayer - This is where the game has challenges but they're not the challenges that most multiplayer games have.  I haven't experienced a single connection issue, desync, sudden disconnection, server error, or otherwise problem that keeps me and my wife from playing together.  The multi-player issue is that the game requires you to have a microsoft xbox account (No subscription required) and you have to connect to friends through the xbox friend's list to play together.  It's not so much of an issue as it is a mild irritation that you'll overcome if you have someone you specifically want to play with.  Otherwise I'm not aware of a public search option for playing with other people.  Have some friends in mind to play with before you purchase this game.
+
+The graphics are very good, they're not amazing or mind-blowing but I have no issues playing the game with max visual settings.  There's some blur that happens when trying to look at things far away but I'm almost certain the game's designed that way.  
+
+Half of the game you'll find yourself stopping and saying out loud ""Whoa, what is that""?!
+
+The other half of the game you'll find yourself twitching the camera quickly and saying quietly ""What the f#@! is that""!?",0.9057215452194214,163,True
+962130,215677312,76561199174778999,"Day 1 made a base.
+Day 3 spiders took it over.
+Day 6 made new base spiders can have it (died 7 times) 
+Day 7 put game on easy
+Day 11 new base one lab down.
+Day 25 made 2nd base upper yard.
+Day 37 love this game decided to 100% the game and go all the way.
+Day 112 Beat new game plus and got all achievements..
+
+I would totally recommend, if you need help add me..
+
+",0.9044103026390076,147,True
+962130,128359773,76561198202022263,"[h1] Grounded [/h1] ⭐️⭐️⭐️⭐️⭐️
+
+=== ( 🎯 Difficulty ) ===
+☐ No Difficulty
+☐ Easy
+☑ Standard (With a team) 
+☐ Big Learning Curve
+☑ Hard (On your own)
+☐ Impossible
+
+=== ( 👪 Audience ) ===
+☐ Everyone
+☐ Kids
+☑ Teens
+☑ Adults
+☐ Mature
+
+=== ( 👀 Graphics ) ===
+☐ What Is This?
+☐ Bad
+☐ Acceptable
+☐ Good
+☐ Great
+☐ Stylistic
+☑ Beautiful
+☐ Masterpiece
+
+=== ( Sound/Music ) ===
+☐ Bad
+☐ Nothing Special
+☐ Okay
+☑ Great
+☐ Beautiful
+☐ I´m Gonna Cry
+
+=== ( 🌏 Story ) ===
+☐ This Game Has No Story
+☐ Nothing Special
+☑ It´s Alright 
+☐ Well Written
+☐ Epic Story
+☐ Thinking About It, When I Sleep
+
+=== ( Grinding ) ===
+☐ Nothing To Grind
+☐ Isn't Necessary To Progress
+☐ Average Grind Level
+☑ A Lot Of Grinding
+☐ You‘ll Need A Second Life For Grinding
+
+=== ( 💎 Price ) ===
+☐ Free
+☐ Underpriced
+☑ Perfect Price
+☐ Could Be Cheaper
+☐ Overpriced
+
+=== ( ☣ Requirments ) ===
+☐ A Toaster Could Run This
+☐ Low
+☑ Average
+☐ Above Average
+☐ High End
+☐ NASA Computer
+
+=== ( ⏰ Game time/length ) ===
+☐ Really short ( 0 - 4 hours)
+☐ Short ( 4 - 12 hours)
+☐ Average ( 12 - 24 hours)
+☐ Long ( 24+ hours)
+☑ Multiplayer/Neverending
+
+=== ( 🐞 Bugs ) ===
+☐ Game itself is a bug
+☑ Lot of bugs (This is obviously a joke)
+☐ Few Bugs
+☑ Nothing
+
+=== ( Controller Support ) ===
+☑ Yes
+☐ no
+
+=== ( Enjoyment ) ===
+☐ I´d Rather Watch Grass Grow
+☐ Hard To Enjoy
+☐ Repetitive
+☐ It's Okay
+☑ Fun To Be Had For Sure
+☐ The Kind Of Fun You Will Remember
+☐ Life Changing
+
+=== ( Replayability ) ===
+☐ One-Time Experience
+☐ Only For Achievements
+☐ If You Wait A Few Months/Years
+☑ Definitely
+☐ Infinitely Replayable/Multiplayer
+
+=== ( Worth Playing ) ===
+☐ No
+☐ Wait For A Sale
+☑ Yes
+☐ I Can´t Recommend It Enough
+
+TOP FUN THINGS TO DO:
+⭐️Crafting bug like tools and armour.
+⭐️Building furniture/structures from grass, weeds, ect.
+⭐️Fighting giant spiders!
+
+THE UNIQUES:
+💎Shrunk down world.
+💎Surviving in a back garden.
+
+PLAYER GAMING REQUIREMENTS:
+💼Survival.
+💼Base Building.
+💼Co-op.
+
+VERDICT:
+Grounded is a very unique survival game, with all the elements to do whatever you want with this back garden (As long as you have the materials). It's very thought out with how all bugs are scaled, along with the different lengths of grass, plants and weeds, it's all so realistic to what you would see in a garden.
+
+It's a beautiful but scary world, the simplicity of some of the bugs can look the most horrifying up close. But the garden is so detailed and it's only growing with each passing update, even the pond has a magical world underneath. 
+
+Grounded can be played solo but exploring this garden by yourself is very challenging and certain things will take a lot of time and effort to achieve on your own, playing with other players is the best way to survive and definitely the most enjoyable. 
+
+If you suffer from Arachnophobia, there is a option to make the spiders less.... spidery, so even you guys can enjoy this game. It's well worth the asking price, just make sure you have someone to travel this garden with you.
+Total Score = 89/100.
+
+GAMEPLAY:
+Grounded is a survival game that can be played either in first-person or a third-person. In the game, the protagonist is shrunk to the size of an ant and must strive to survive in a garden. In the game, the player character (Max, Willow, Pete or Hoops) needs to consume an adequate amount of food and water, or they will lose health due to starvation or dehydration. The garden is filled with various bugs and insects, such as spiders, bees, dust mites, and ladybugs.
+
+As players progress in the game, they will visit new areas in the backyard. The game's difficulty would slowly increase and enemies that are more dangerous would be introduced. Throughout the game, players need to scavenge resources in the world in order to construct a base so as to defend themselves from hostile enemies, in particular during nighttime as some of the insects become more aggressive. The resources can also be used to craft different tools, traps and weapons, such as axes, spears and bows and arrows, to defeat enemies. Players also need to manage their stamina as the playable character may become exhausted in sustained combat The game can be played solo, though it also has a four-player cooperative multiplayer mode.
+
+SIMILAR GAME LIKE THIS? / REVIEWER PREVIOUS EXPERIENCE:
+Ark, Rust, The Forest
+
+■■■■■■■■□□ 8 / 10
+Honey, I've shrunk the kids.
+
+RECOMMEDED SPECS
+OS: Windows 10
+Processor: Intel Core i3-3225
+Memory: 4 GB RAM
+Graphics: Nvidia GTX 650 Ti
+Storage: 8 GB available space",0.9024558067321777,734,True
+962130,198064082,76561198072952734,"I absolutely love this game! Grounded helped me conquer my Arachnophobia - I kid you not. At first I screamed and panicked, but the more I played, the better it got. And then came the day when I fell into a cave with a Wolf Spider at the entrance. I had no choice but confrontatiin, and since then I learned to cope with spiders in real life. I owe you many thanks, dear devs.",0.8929417729377747,124,True
+962130,129450897,76561198044004536,"This is one of the best 'Casual' survival experiences out there and well worth your time, as it certainly respects your time. 
+
+At the time of writing I have about 17 hours and have played a little solo and a little with friends, I am about halfway through the game (or so it would have me believe). This game is a survival game, so you know, managing stats and inventories, building and upgrading to do the next tier of thing until you 'complete' the game. 
+
+BUT the thing that's great about this game is it doesn't make things inconvenient for the sake of trying to add more 'gameplay'. It has some amazing systems that put the player first. You can move something you've built without having to grind out the materials again, crafting pulls from nearby containers, you can deposit similar items with a single button. You can switch up your 'build' at a whim, you aren't locked into playing any one way and even online is super straight forward. No having to set up servers, you can just share a world with friends and they can load it up and host it at any point and vice a versa. It respects your time and instead of bloating your play hours with grind, it actually focuses on the player experience.
+
+The map is really well crafted, no areas of copy paste or nothingness and there's a load to explore, each area has a really distinct feel and some great gimmicks/mechanics. Resources have their own flavour and are all fun to gather, the crafting is pretty well balanced and therefore going to gather materials is actually fun. You do have to consider what you are collecting and gear appropriately but it's not going to take hours to craft one weapon or add something to your base. The enemies are all their own thing too and the difficulty is just right, you never feel OP but you don't feel frustrated by having to run from certain things.
+
+But the best thing about this game and what I consider makes it a real gem is that anyone could play this. Be a first time survival player, someone new to gaming, a younger sibling or child, a seasoned survival player, there is really something for everyone here. It doesn't rely on lots of lore, lots of gore or lots of grind, it's a very straight forward concept that is frankly, just fun. 
+",0.8859182000160217,98,True
+962130,188314556,76561198027867551,"This is the best video game I have ever played through. We played as  Mom, Dad, Son (11) and daughter (9) and it was absolutely perfect. 
+
+The story was great, the adventure was great, the setting was spectacular. 
+
+The survival aspects were light enough that it wasn't a burden, the progression/gathering wasn't punishing, but also felt very rewarding when you came up with something clever to get resources faster.
+
+The building was really fun and creative and we built multiple homes and multiple outposts throughout the yard. 
+
+The ending was great (there are two potential endings) and the Marc Rebillet loop daddy ending song during the credits was just a completely unexpected cherry on top!  
+
+I can't recommend this game enough to any and everyone. 
+
+",0.8847439289093018,125,True
+962130,178585728,76561198003257756,"[h3]Having played a lot of survival/crafting games, this one stands out for its environment, combat, and progression.[/h3]
+
+[b]Arachnophobia warning - skip if you don't care[/b]
+I've always been a bit unsettled by spiders, but also found them fascinating from a distance. I don't like them on or too near me, but I didn't know I had arachnophobia until I played this game. There are several different types of spiders in this game and I'm pretty sure it would be impossible to complete without fighting at least some of them. You are going to encounter many of them that will chase you regardless. Most of them are bigger than you, some significantly. There is a setting to change their appearance, but it breaks immersion pretty bad because they become absurd looking. I had a REALLY hard time getting through the game for this reason alone as it turned it into a horror jump scare game at times and I would have to take a break after some of the encounters. That said, once I learned all of their attack patterns and how to kill them, they became less of a high threat and I was able to manage my fear a bit better. Playing with friends also helped, but I wasn't always playing with friends.
+
+[b]Environment[/b]
+The environment in this game is obviously very unique as you are in a backyard, shrunken down to about the size of a common ant. For me, the novelty of this never really wears off and it's always neat to run into standard household items at a massive scale. The game world is built around this, and there are different 'biomes' represented by common back yard fixtures that require proper gear similar to Zelda temples (water is a koi pond, desert is a sandbox, volcano is an overturned charcoal grill, etc).
+
+The graphics have a bit of a cartoony feel to them, but everything is crisp, the lighting is nice, and the art style is consistent across all of the biomes and creatures. I personally find the game to be quite pretty compared to some others in the genre.
+
+[b]Building and Crafting[/b]
+The building system is solid, not amazing. I would describe it as a hybrid between ARK where there are predefined pieces you snap together, and the forest where the pieces you place create a ghost version of your structure, and you have to fill it in with materials to complete the construction. Similar to the forest, there is an aspect to it that involves manually hauling materials in your hands (not inventory), but they give you tools to help with this such as pallets for grass planks and weed stems. As long as the pallets are close enough to where you are trying to build, you will automatically build from them and save yourself some running back and forth. A big tip is that the pallets can be relocated with material on them, so you can move your pallets back and forth between where you gather materials and where you are building. Also notable is that there is not really a stability mechanic in that you can build as many things off of a single point of contact as you want, but each link in the structure supports the next, so if the one point of contact gets destroyed, the whole thing comes down. This also means when you build your ghost structure, you have to complete the point of contact first, then the next thing, then the next. You can't fill in unsupported pieces in the middle.
+
+Similar to building, crafting is set up to work out of containers in a radius. As long as you place all of your chests and workbenches near each other, you never have to grab items out of your chests to use them for crafting, this extends to crafting from your character inventory. The radius is also pretty generous so you don't have to be too careful about your placement of everything. If you craft something from your inventory or the workbench, it is instant and the product is placed in your inventory. For other stations that process materials, they take time but have their own inventories so you can go about your business while they work and retrieve your materials later.
+
+[b]Combat[/b]
+The combat is good. Armor is varied and offers different perks (run faster, attack boost, carry more, draw more aggro in a group, etc). There are weapons with different damage types that are more or less effective depending on the bug. 1H, 2H, Bows, Shields, Magic Staves. You can parry (for the souls-like fans, you can take down a wolf spider with the first tool you make if you're good enough), and there are augments that can be applied to the weapons (poison, cold, fire, etc). There are also consumables you can craft that grant temporary buffs.
+
+There are several bosses that have different themes, mechanics, and move-sets. I didn't find any of them to be particularly frustrating, but some are more difficult than others. Having the right weapons, armor, and buffs to exploit their weaknesses and mitigate their strengths makes the job easier, and patience is key. If you take your time and learn their moves you can beat them, trying to ham-fist your way through and stat check them isn't going to work. Bear in mind this game is not Dark Souls/Elden Ring so don't let this scare you off, but it does require a level of coordination and engagement with the combat that might turn some people off.
+
+There is also a neat mutation (perk) system, where typically if you do something enough you end up with a mutation to help you do that thing better or easier. E.g. cut down enough grass for planks, and you get a mutation to cut down grass in less swings. Kill enough wolf spiders and you get a perk that makes you immune to their powerful poison bite. You start with 2 but can unlock up to 5 mutation slots and swap the mutations you are using to approach different tasks, similar to swapping different armors, weapons, and tools. This adds another layer of complexity to how you kit yourself that keeps things fresh.
+
+[b]Progression[/b]
+The story is serviceable, nothing special but it is fun and complete so there is a soft end to the game despite it being a sandbox. A decent amount of the story has to be found on cassette tapes that you pick up, so it is possible to miss some finer details or musings of the scientist that is responsible for your predicament, but you'll get the meat and potatoes regardless.
+
+Progression is mainly achieved via completing quests and scanning every new material you find at designated stations. Each time you scan a new item or complete a quest, you will earn the game's main currency 'raw science', which you can also find deposits of hidden across the map. Scanning new materials will sometimes unlock new recipes. Other recipes and some perks must be purchased with raw science. Generally speaking, the different areas of the map are gated by obstacles, hazards, and enemies that you are not ready to deal with until you collect materials and unlock recipes from elsewhere that allow you to properly gear for the challenge.
+
+[b]Conclusion:[/b]
+This game is one of my favorite survival crafting games. I don't think there is any one thing it does better than all other survival games, but I think as a package it is one of the most well rounded and polished of the games I've played. For reference, said games in no particular order of preference would be be: 7D2D, Valheim, ARK, Sunkenlands, Enshrouded, Icarus, Nightingale, Stranded Deep, The Forest 1&2, Green Hell, Raft, Smalland, and of course Minecraft.",0.884247362613678,101,True
+962130,190034357,76561198070316379,"I cannot begin to describe just how epic Grounded is. 
+It's probably one of my favorite games ever, and I own a lot of games. 
+While I adore the visual style, don't let the cartoony graphics fool you, this game is serious.
+It has so much depth, so unbelievably complex yet so simple, it's rich at every corner, and oozes top quality in every department. 
+
+The main plot is fantastic and is loosely based off of the movie ""Honey I shrunk the kids"", where a group of teenagers, one of which you play, is miniaturized in the backyard and need to find their way back to regular size. 
+There is a gigantic amount of fantastic enemies, some of which you cook, others you fight and major ones representing bosses, all with different mechanics and weaknesses. All of which give you materials for a slew of things, ranging from upgrades to weapon and armor, decoration for your base, food and potion mats etc.
+The world building is incredible, the base building is also incredible.
+And best of all the exploration is impeccable. There is so much to discover, so many secrets to unravel, and each of those gives you great rewards in terms of developing the story, your base, and gear, so you can be ready for the what comes next.
+
+It's all optimized and balanced to perfection. This is a gigantic feat by Obsidian. 
+
+This game does not waste a second of your time. In fact, It's a game where 5 hours feel like 20 minutes, you simply cannot get enough of it and there's always something exciting waiting to be done. 
+At the time of writing I'm at about 208 hours, and I haven't felt a second of fatigue which I usually do rather quickly. It's pure excitement every time I boot it up. I will be playing for many hours to come. I seriously cannot find one bad thing to say about it, and hope more than anything for a sequel to this gem. 
+
+It is infinitely playable, repayable while community as well as dev content flows at a constant rate. 
+It's the best survival-lite, crafting, combat, story based exploration game on the market, it's like no other.
+And while it's really fun playing it solo, Coop is so much better. 
+
+As a matter of fact,  it is the ultimate coop game to play with your friends, partner, son, or father. 
+This is it, it doesn't get any better. 
+
+As much as this game is praised already, it isn't praised nearly enough. Easiest 10/10 ever.",0.8789296746253967,90,True
+962130,86251766,76561198076340527,"Reeeeeaaaaallly awesome! Got this game close to when it came out for me and my son to play. Loved the whole ""honey I shrunk the kids"" theme. I will admit I was worried at first because we kept dying early in the game (darn soldier ants). But as you learn the mechanics of the game and how the bugs act, it becomes much easier and enjoyable to play. Definitely a sandbox game, collect items, identify recipes, craft whatever you can wherever you want almost. We've already set up several bases on the map. It does have a bit of a story that is still evolving via updates. Burgl (?name) the bot is awesome. Controls, animation, and collision detection is really smooth. Has some intense moments in the game and some cool bug battles. We are still waiting for a ""Scorpion"" update, that would be insane. Bug pets to ride and/or fly on would be good too. Keep up the good work!",0.8748107552528381,84,True
+962130,85164769,76561198066552986,"I would rate this game at its current state in early access around a 7.5/10
+
+I would rate higher, but as its early access there are a few very noticeable bugs and kinks in the game that need to be worked out.
+
+[b][u]++++ PROS +++++[/u][/b]
+[b]GAMEPLAY CHARACTER CONTROL [8/10]:[/b] Just like any other survival game of EAT/DRINK/SURVIVE/SHELTER/SLEEP/ETC. > this game satisfies all of those needs in a very eccentric and new way. The being shrunk and having to fight in a backyard is appealing. Basebuilding in this game is pretty phenonemal as well as the crafting system. Both were easy to navigate through and learn. Thus far, the crafting aspects in this game are plentiful and NOT repetitive feeling as there is a lot to do with the resources in the game. I had a lot of fun crafting things. For the base, I could also put up blueprint plans as well as for the [Cooking]/[Beds]/etc. and my boyfriend could help me build them. So it allowed for teamwork in the aspect of [I set up the peremiters and plans] and we both harvested resources and delivered them into the spots I planned. It was a lot of fun, and let me know that we both were taking part to build and set up everything unlike a lot of other crafters where I usually am doing solo-basebuilding and my boyfriend is doing a more redudant job of harvesting and storing the resources so I can. This aspect made us both feel more equally involved.
+
+The difficulty of fighting enemies seems for bigger creatures like [spiders/ladybugs] that seem integral for certain resources that pertain to mainly your [Thirst/Drinking Needs] seems to be the harder curve than [Eating/Sleeping/Shelter.] Even on Mild - despite only playing only Mild/Medium difficulty modes thus far.
+
+Spiders once developing some mutations and having help in multiplayer still however feels appropriately scaled.
+
+As I have stated in a later part of this review, the ability to climb [unless somehow I didn't ever unlock it] seems neccessary to a point in this world, in my personal opinion. This is where my reduction of points comes from. 
+
+[b]GRAPHICS: [9.5/10][/b] - the creation of the 'world' is wonderful. The graphics ran very well with my 1080 GTX and i5 Intel Processor and despite still having Windows 7 OS. I rarely experienced lag whatsoever to my surprise and essentially had no issues of dropping frames. The world itself and its creatures and the science machines are all pretty well detailed and done. Very good also for an xBox game seemingly ported into PC.  The art style and the character design is also a great aspect of this game that should be noted.
+
+[b]MUSIC: [9/10][/b] I can't really ever complain about music unless it's horrendous. There could be more tracks, however. Otherwise if not, still wonderful. At times it feels like I'm in a Cyber weird science movie or Lab.
+
+[b]STORY: [8.5/10][/b] The story and quests definitely are one of the aspects that reel you into this game as the characters try to unveil what has happened, how/why they were shrunk, and who caused this and how you connect to it. For most of the gameplay me and my boyfriend were definitely trying to figure out why these things and unlock tapes scattered through out the world. I do think there could be more guided gameplay of the story > however for early access thus far the story progress despite only getting what I feel like was 1/10+ chunks of the story was still satisfying and leads me to want to play more. 
+
+[b]OTHER NOTEABLE ASPECTS:[/b] HONEY, I SHRUNK THE KIDS!!!!! 
+
+[do i say more?]
+
+[b][u]++++ CONS +++++[/u][/b]
+
+[b]BUGS:[/b]
+I bought this game and have been playing it with my boyfriend. While I have had to weirdly deal with less bugs [despite out of the 2 of us, my computer despite being custom built is much older and still operates on Windows 7 OS], my boyfriend experienced a few more bugs that made his game play quite a hindrance.
+
+The bugs he experienced caused his menus to mess up entirely and freeze him and he had to exit out of our session to relog back into it, at times causing him to lose many things in his inventory.
+
+The bugs I experienced were friction between having to navigate the menus with both my controller and my keyboard despite wanting to test out more game play fully with my controller. If I played with keyboard and mouse, I had no issues fully navigating through the game. 
+
+There was a bug we both experienced in the oak tree with a Wolf Spider that caused the spider to not attack and just sit there. We didn't complain much as it was early in the game and helped us get spider web resources more easily. lol. At times some of the mites would also bug out like this and kind of sit in place whilst doing nothing. On a solo session, I also expierenced the Wolf Spider in the Oak tree not attacking which leads me to believe the spider spawn in that area is busted.
+
+As it's still an early access game, the bugs are understandable and didn't, for the most part, cause any real damage to playing the game as the game is still forgiving in respawning pretty much what seems to be endless resources but with a difficulty curve even on Medium level not seem so awful.... 
+
+The only other complaint I have about the gameplay itself as far as cons is the ability to NOT BE ABLE TO CLIMB. You can jump, and you can certainly in a way ""Parkour"" but I dropped into a part of the map that did not allow me whatsoever the ability to climb out and didn't seem like it was meant for someone to drop into. Leaving me to have to manually ""Give Up"" which allows you to essentially ""seppuku"" so you can respawn and start over.
+
+[b]XBOX LIVE ISSUES:[/b]
+
+The next thing I have to complain about which more of has to do with the actual Platform of this game.
+
+You DO have to have an Xbox Live Account to play this game. Whether you make a new one or not- is up to you.
+However, as far as the Steam version goes [as I can't speak of the XBox Market Platform itself as I don't own the game there], you do NOT have to be an active paying Xbox Live [GOLD/ULTIMATE] subscriber to play with your friends. I wanted to make this clear as NO REVIEWS NOR ONLINE GOOGLE SEARCHES had originally answered this question that people have been asking. Whether this changes in the future or not, I don't know - but currently at the time of me writing this review you do NOT.
+
+I did have to download the app on my phone [ I can't download their market platform on my computer as it requires Windows 10] in order to [MAKE MYSELF APPEAR ONLINE] in order to play multiplayer as it wouldn't register me online through the chrome/firefox webpage on their website.
+
+[b]RAW SCIENCE:[/b] [might be spoiler]
+[spoiler]
+Raw science is a currency in game that you unlock in a way similar to I guess [SKILL POINTS] or Unlock points essentially to either BUFF yourself, get more recipes, other unlocks, etc. 
+
+There is a perk supposedly that helps you unlock the ability to find floating chunks of pure raw science through out the world *more easily*, that works similarly to the way you find more of the outdoor science HUD tents. Finding both of these things is cumbersome as their lacks to be a minimap, and your 'scanner/alerter/thingy' is realllllllly REALLY wonky in helping direct you to either of these things- especially pure raw science clusters that are harder to see and more hidden. I feel like the scanner needs to be made radial/directional- because thus far in an open world the only indicator is a flash and a beep from the HUD. [/spoiler]",0.8727744221687317,115,True
+962130,73684958,76561198077067213,"Probably going to draw quite a bit of flak for this ""not recommended"" review but hear me out.. 
+
+Scores (at its current state):
+Atmosphere: 9/10
+Graphics: 9/10
+Content: 3/10
+Replayability: 2/10
+
+The good:
+Concept is unique and one that surprisingly hasn't been explored by any dev so far despite its obvious entertainment value (Honey I Shrunk The Kids meets ever-increasingly popular gaming genre of survival). Realistically brutal, as it would be in a bug's life (in this case yours, in their size). The lack of handholding pushes the player to think on their feet, which fits well into the mystery of this situation you are thrown into (unnecessary handholding would've taken away from immersion otherwise).
+
+The bad:
+The release of this game at this price point is a little unjustified. Survival games that had an early access (for e.g. The Long Dark) usually come with a decently fleshed out sandbox with the promise of an eventual story, or a decently fleshed out story with a promise of an eventual sandbox. In grounded, we have little of either. The story comes to a very quick end as it is still being created (perfectly understandable). However, there is not much content in the sandbox department as the ceiling of craftables are quite quickly reached (which the exception of tier 2 tools). With a very familiar and simple trope of only having to manage hunger and thirst, there is little to do in the sandbox other than basic base building. Most survival games so far (even on early access release) have had decent enough distractions for your character to manage (Cold, Thirst, Hunger, Fatigue in The Long Dark) or endless base building possibilities (Minecraft). 
+
+Many would argue that this is still early access, and there's much more to come. I agree, and I would expect no less from a dedicated dev like Obsidian. However, this release should've been either:
+
+(1) A larger story on release at this current price
+(2) A better sandbox on release at this current price
+(3) Based on the current content, at half its price
+
+On some closing thoughts, my ""not recommended"" review is specifically on a cost benefit analysis of getting this game in its current state at this price. My position will change (knowing Obsidian, highly likely for the better) based on price of the game after some of its more larger content updates are released.",0.8663707375526428,2852,False
+962130,73485770,76561198212392432,"While the ""Story"" is rather short, there's still quests and building to do. YES, you need an Xbox Live Account but PC Players DO NOT have to pay to play, You literally log in once and it remembers you the next time around, no annoying window prompts or anything. People are review bombing because they lack common sense. It's an EARLY ACCESS game, just because you ""beat it"" in 20mins or something doesn't mean that's all there's gonna be, you're buying the game to support the devs and development.
+
+EDIT: Release review, the game has came a LONG way. You can no longer ""beat"" the game in 20 mins and there's tons more content.",0.9077329635620117,748,True
+962130,99650047,76561198079234235,"***FULL OF BUGS***
+
+Bugs include but not limited to:
+   - Mosquito
+   - Ladybug
+   - Variety of ants
+   - Stinkbug
+   - Firefly
+   - Gnat
+   - SPIDERS (multiple types but not technically a bug)
+
+There are many more bugs than this list! Super fun game and highly recommend!",0.8575782179832458,112,True
+962130,200132147,76561198138805577,"With Grounded 2 coming out, this game has genuinely become one of my top 10 games in the world as someone obsessed with base building.  I play with a boyfriend who goes on killing sprees and harvesting rampages and he seems well entertained as well lol. Even with the next game coming I still say run through this game!!! The lore is amazing and there's so much to explore. Next game is 3X bigger so start with the shallows here then you can start the next with some experience. This game is legit a love letter to gamers.
+⸜(｡˃ ᵕ ˂ )⸝♡
+(Pls fix the tiny issue with Roof Interior Corner in the second game though pls, with love)",0.856680691242218,105,True
+962130,195766383,76561198044062287,Great game filled with feel good 80's music and themes. the perfect honey i shrunk the kids adventure,0.8538695573806763,120,True
+962130,129206235,76561198440547260,"I've been playing solo and having a blast. The early '90s nostalgia (Honey I Shrunk The Kids + Beakman's World + Bill Nye flavor) in a beautifully designed and deeply interactive atmosphere is contrasted well with danger when considering how close I came to shitting my pants the first time I heard an orb weaver behind me. No worries though; if you just want to chill, explore, and build without dealing with the hassle of enemies or scary spiders, the creative and arachnophobia modes are a great solution that keeps the game as fun and comfortable as you want it to be.
+Ironically, this game, as new as it is, seems pretty... bug-free. I heartily recommend it.",0.8521066904067993,68,True
+962130,216832856,76561198835013861,wasps and mosquitos are horrid and satanic beasts just like in real life so A+ for a level of realism no other survival game has achieved,0.8517827391624451,60,True
+962130,161388007,76561198377775359,"
+---{ Graphics }---
+☐ You forget what reality is
+☑ Beautiful
+☐ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{ Gameplay }---
+☑ Very good
+☐ Good
+☐ It's just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ Audio }---
+☐ Eargasm
+☑ Very good
+☐ Good
+☐ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{ Audience }---
+☑ Kids
+☑ Teens
+☑ Adults
+☐ Grandma
+
+---{ PC Requirements }---
+☐ Check if you can run paint
+☐ Potato
+☐ Decent
+☑ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{ Game Size }---
+☐ Floppy Disk
+☐ Old Fashioned
+☑ Workable
+☐ Big
+☐ Will eat 10% of your 1TB hard drive
+☐ You will want an entire hard drive to hold it
+☐ You will need to invest in a black hole to hold all the data
+
+---{ Difficulty }---
+☐ Just press 'W'
+☐ Easy
+☐ Easy to learn / Hard to master
+☐ Significant brain usage
+☑ Difficult
+☐ Dark Souls
+
+---{ Grind }---
+☐ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☐ Isn't necessary to progress
+☑ Average grind level
+☐ Too much grind
+☐ You'll need a second life for grinding
+
+---{ Story }---
+☐ No Story
+☐ Some lore
+☐ Average
+☐ Good
+☑ Lovely
+☐ It'll replace your life
+
+---{ Game Time }---
+☐ Long enough for a cup of coffee
+☐ Short
+☐ Average
+☑ Long
+☐ To infinity and beyond
+
+---{ Price }---
+☐ It's free!
+☐ Worth the price
+☑ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{ Bugs }---
+☐ Never heard of
+☐ Minor bugs
+☑ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{ ? / 10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☐ 7
+☐ 8
+☑ 9
+☐ 10",0.8503915071487427,419,True
+962130,74698633,76561198054756090,"---{Graphics}---
+☐ You forget what reality is
+☑ Beautiful
+☐ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{Gameplay}---
+☑ Very good
+☐ Good
+☐ It‘s just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{Audio}---
+☑ Eargasm
+☐ Very good
+☐ Good
+☐ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{Audience}---
+☐ Kids
+☐ Teens
+☐ Adults
+☑ All
+
+---{PC Requirements}---
+☐ Check if you can run paint
+☐ Potato
+☑ Decent
+☑ Fast
+☑ Rich boi
+ ☐ Ask NASA if they have a spare computer
+
+---{Difficulity}---
+☐ Just press 'W'
+☐ Easy
+☑ Significant brain usage
+☑ Easy to learn / Hard to master
+☐ Difficult
+☐ Dark Souls
+
+---{Grind}---
+☐ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☐ Isnt necessary to progress
+☑ Average grind level
+☐ Too much grind
+☐ You‘ll need a second life for grinding
+
+---{Story}---
+☐ No Story
+☐ Some lore
+☐ Average
+☐ Good
+☑ Lovely (There isn't alot of the story yet but what they do have combined with the lore is excellent!)
+☐ It‘ll replace your life
+
+---{Game Time}---
+☐ Long enough for a cup of coffee
+☐ Short
+☐ Average
+☐ Long
+☑ To infinity and beyond
+
+---{Price}---
+☐ It’s free!
+☑ Worth the price
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{Bugs}---
+☐ Never heard of
+☐ Minor bugs
+☑ Can get annoying ( It's early access so the bugs are understandable and they don't ruin the game at all. Just a couple crafting and building bugs get annoying but you learn to find work arounds until a fix is produced.)
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+Overall: One of the most beautiful, fun, creative games I've played in a long time. It makes me feel like a kid again and almost feels nostalgic for some reason. GET IT.",0.8500591516494751,630,True
+962130,204500477,76561198191112607,"Thank you Obsidian for this masterpiece. We played with my daughter (on one PC playing for one character) and had an amazing time together. She was a gatherer and a scout, I was a hunter and a fighter. Together we made a perfect team to beat the game. We loved the premise, graphics, mechanics, fights, everything. We won't be looking at spiders in the real world like before :-). 
+I was suprised only 6.9% of the players made it to the end. Probably a lot of people get an impression this is cute game for kids, but don't be fooled, it takes a lot of thinking, exploration and hard fighting to make it to the end. 
+And now I can't get rid of the ending music playing in my mind. :-)
+One advice - start using ziplines as soon as you get them. It will save you a lot of time.",0.8492383360862732,59,True
+962130,196165216,76561197973720595,"Does your kid want to play Minecraft with you, but you find the crafting, exploration, and building to be a little tedious after a while?  
+
+Absolutely the best survival-craft  game on the market right now.  The setting, the ease of moving buildings, creating armor and weapons out of bug parts, the polish... it is a solid game.  If you have the ability to play with someone else, it is worth every penny. (Venture Jr plays it on the xbox, while I stay on the PC). You can also adjust the settings to make it as difficult or as easy as you want- it's pretty unforgiving on default at the start, so I would recommend adjusting a few things to fit your playstyle.  It's a game that puts FUN over sweat, and has cross-generation appeal. 
+
+❤ Audience ❤
+☐  Beginner
+☑ Casual Gamer
+☑ Normal Gamer
+☑ Expert
+
+☼ Graphics ☼
+☐ Bad
+☐ Alright
+☐ Good
+☑ Beautiful
+☐ Fantastic
+
+♬ Music ♬
+☐ Bad
+☐ Alright
+☐ Good
+☐ Beautiful
+☑ Fantastic
+
+☠ Difficulty ☠
+☐ Easy
+☐ Average
+☑ Easy to learn / Hard to master
+☐ Hard
+☐ Unfair
+
+§ Bugs §
+☐ Bugs destroy the game
+☐ Lots of bugs
+☐ Few Bugs
+☑  Nothing encountered
+
+☯ Story ☯
+☐ There is none
+☐ Bad
+☐ Alright
+☑ Good
+☐ Fantastic
+
+⚔ Gameplay ⚔
+☐ Frustrating
+☐ Sleepy
+☐ Boring
+☑ Fun
+☑ Challenging
+
+۞ Game time / Length ۞
+☐ Really short (0 - 3 hours)
+☐ Short (4 - 8 hours)
+☐ Few hours (10 - 20 hours) [if you focus on the main story]
+☑ Long (40-60 hours) [if you complete everything]
+☑Very Long (61-100 hours)
+☐ Extremely Long (101+ hours)
+
+$ Price / Quality $
+☑ Full price
+☐ Wait for Sale
+☐ Don't buy
+☐ Refund it if you can
+",0.8479456305503845,123,True
+962130,123701130,76561197985833158,"An absolute amazing game that is very nearly ruined by absolutely horrific balancing, bugs (no pun intended), and bad collision.
+
+The Good 
+
+There is an amazing amount of content to see and do. When you first start playing the game, it can be quite horrifying. Virtually every bug is incredibly strong, especially at the start of the game, and it definitely adds to the overall vibe of the game. Some of the bugs are honestly terrifying, and towards the start of the game I jumped several times (looking at you wolf spiders).
+
+The level design is fantastic. You can tell they put a lot of thought into where to place objects to let you traverse the map better. This is especially highlighted when you start building zip lines and other objects to help you traverse the map better. 
+
+This is one the best survival games for player progression. There are mutations that are unlocked by using specific types of weapons, or doing specific events. There are also ""milk molars"" that can be used to upgrade stats like HP, Stamina, food consumption, etc. In addition to the armor / weapon systems, you can end up creating a reasonably unique character, this is especially true for a survival game. 
+
+The base building is also amazing. I spent hours building, rebuilding, and adjusting my base. You unlock new building materials as the game progresses, and the base building mechanics are fun enough that it had be wanting to tear down my base just to make a new one out of the material I just unlocked. There is also a fairly basic base defense mechanic that can have some fun. Though, this is one of the areas that I hope they flush out further. 
+
+The Bad
+
+The game biggest issues is that there is basically no scaling for solo vs. group play. The game is very obviously balanced around group play. Different people will have different opinions on this, but the game is also extremely long. I just can't imagine finding the time to play this game with friends from start to finish. The game can be soloed on the hardest difficulty, but you won't want to. The game needs to scale differently based on the number of players, AND also have a difficulty setting. 
+
+You WILL be cheesing some of the more difficult enemies. Yes yes, I know you're all very awesome at this game and you don't need to cheese but the game can be so incredibly tedious that you will really want to. Gear decays WAY too fast. You will be farming the same parts over and over just to repair the gear you're currently wearing before you end up getting to the end game. Shields can never be repaired with glue, so for most of the game, you will be constantly farming shields parts. This will make the player constantly want to use ranged weapons, because at least your gear isn't breaking every 5 fights. 
+
+On that point, some weapons are just obviously better than others. The greatsword always felt the weakest, shields and bows always felt strong, and maces were somewhere in between. There are different elements that you can imbue your weapons with, and different enemies have different resistances. This seems awesome at first, but then you swiftly realize it becomes a rather tedious and cumbersome mechanic  because you are limited on inventory space. This probably works better with a group of players, but it just ends up being a PITA for solo players. 
+
+Upgrades almost seem worthless as equal tier enemies will basically always two shot you. Once you've upgraded your equipment all the way, which takes a very very long time, you might be able to withstand a couple more hits.
+
+Bosses especially have just absolutely horrible balancing. Some bosses don't have any cool downs on summoning adds. If you get bad RNG, they will literally sit there and spam adds over and over. At one point I had 8 spiders in the room with a boss. Its clear the bosses were also designed for group play. 
+
+Finally, the number one thing that frustrated me the most in this game was the collision and the bugs that came along with it. I was constantly stuck on EVERYTHING in this game. I would have to crouch and bunny hop constantly in this game. When jumping my character would the smallest of obstacles above me and it would send me 10 feet to the left or right. I get that they wanted you to feel like you're in a jungle.  They do a fantastic job at that at making you feel like you're shrunk in someones backyard.  However after 60 hours or so, getting stuck on a tiny pebble while running from a bug, or failing a jump for the 20th time because the game decided to launch me 10 feet, is just insanely frustrating. 
+
+Most enemies also don't follow the same collision rules. Most bugs have a specific attacks that will nearly almost land no matter how far you've run, or what obstacle you've put between you since they started the animation. They clip right through objects and land the attack. Lady bugs and Larvae will literally charge right through solid boulders and hit you. They probably did this in an attempt to mitigate cheesing, but its a very lazy solution. Balancing the game appropriately would have been the better decision. 
+
+Overall If you're a fan of survival games, this one is a no brainer. IMO,  Its definitely in the top 5 games within the survival genre, and  I could see it easily be considered the best once they iron the rest of the kinks.  
+
+
+
+",0.8473992347717285,89,True
+962130,74179171,76561197974616273,"For the moment, fellow gamer, I'm not going to recommend you pay 30.00 for this game.
+
+Grounded is a visual triumph with tremendous possibility. At best in its current form, you complete the storyline in an hour or less. One making what should have been an epic breakthrough, you are greeted with a prompt telling you that this is as far as they've gone so far in development, but promises there will be more in the future. 
+
+Grounded is like having the very best pringle ever created with perfect flavor and texture, but there's only one in the can. It succeeds in leaving you wanting more- I would have eve bought new region unlocks it is that immersive- but, the game just ends. You can continue to build, explore and hunt, but this is simply a demo- and prior to playing 30 dollars, be aware it is a demo and that while the experience is an an amazing, albeit short-lived one, it is not a fully developed game in early access for polish, it has the opening chapter of the story, and you're done. It is not worth more than 10 dollars in it's current state. 
+
+I am really frustrated with developers releasing demos at full retail cost. The concept of Early Access has become a fierce cash grab and enables developers to produce minimal content on their own terms, usually very slowly while they harvest money from the hopeful expectations of players. for may gamers, the cost of this game costs two hours of work- and from investment, they get an hour of content. 
+
+ When the game is beyond a demo phase, I wil likely change this review, but I can't in good faith justify 30 dollars for an unfinished game- even leverage the all-to-common ""Early Access"" excuse often used. However, this is will most certainly be a phenomenal game when finished.",0.8449942469596863,2029,False
+962130,196934499,76561199082292805,"as an ant in real life, while this game is very fun, it is not much different than my real life. 7 ants out of 5 spiders",0.8449587821960449,218,True
+962130,73445600,76561198005655932,"So Grounded is amazing and terrifying at the same time. Game needs some difficulty adjustment, but its cool to see a new environment i've never seen in video games.
+Kinda jarring.
+ALSO FUCK SPIDERS
+Was legit screaming at times.
+
+Here are my thoughts after 7 hours of gameplay.
+
+- Base building is frustrating and bugged. making a roof was mind fumblingly difficult. you definitely need foundations.
+
+- Spiders are cool, but there are way to many of them (especially given that they can one shot you) and they are super buggy. I also find that even if you dont engage them, they passively walk slowly towards your position for quite some time and for some distance. Spiders need an overhaul ASAP
+
+- I would love more items to improve the single player experience. Like maybe a shield or maybe the ability to tame an ant to use as a distraction
+
+- I was TERRIFIED to get to the robot section because it was near the spider filled tree. It adds integral gameplay and should be easier to get to (especially as a tutorial quest)
+
+- Water and food deplete to quickly for me to reasonably explore. Same with food spoiling way to quickly.
+
+- The base building section needs way more stuff to build. I found that once was base was large and done... it was super barren without building the same things over and over.
+
+- The night portion of the game seems... not scary or different. Besides running into spiders I expected something to happen, but nothing did.
+
+- Once I had everything analyzed the analyzing stations seemed pointless. they cant protect from spiders and most of them dont have any special goods. I loved finding the underground one with granola bars. Made it feel special and unique.
+
+- Exploring certain sections definitely showed how much left is in the game. It feels a lot like Raft right now with the chapters coming out over time.
+
+- Multiplayer is bad right now, but I will wait. Just get rid of the XBOX live garbage and let us connect via steam.
+
+- Let us place or throw torches on the ground so we can fight in dark areas with 2 handed weapons. please.
+
+- I really wish some of the quest stuff was slightly highlighted. I completely missed the first chip near the robot and also missed the button near the first machine. Even a small glow around them wouldve been useful. Or even an arrow at the top of the screen pointing to them.
+
+These are the ones that were at the top of my head. All in all still had fun.",0.8890071511268616,307,True
+962130,165738510,76561198016046767,Awesome survival game and a great time with a buddy. I love the Honey I Shrunk The Kids vibe this game has going on. Lots of fun content and well worth a try. If you enjoy survival games you will love this one!,0.8376836776733398,82,True
+962130,115008018,76561199036563094,"Clearly from the amount of hours I have played this game already it is one of my absolute favorite games. My 11 yr old wanted me to get it and play it with him. When he first showed me a youtube video of it my initial thoughts were that it was a ""childs game that would be completed easily"". I am happy to say I was very wrong. I consider myself and nook and cranny gamer that loves strategy and puzzles, planning ahead and survival. I'm having a blast and play it with and without my sons. So no matter your age you will love it. At least this 37 year old mom of 3 boy gamers loves it!",0.8851181864738464,115,True
+962130,194772525,76561199588389666,"This game has everything, adventure, puzzles, survival, combat, building, teamwork or solo this game is a blast that you can pick up and put down at your leisure.  No annoying dailies, or constant begging for more money, this game is just happy to be played, it doesn't require your every waking second.",0.8336524367332458,59,True
+962130,73544838,76561198259487984,"List of fun things in this game:
+1.  Honey I Shrunk the Kids style
+2.  You can float on dandelions.
+3.  You can make smoothies.
+4.  Grub hunting is fun.
+5.  You can climb up lawn lights.
+6.  Being chased by spiders (which is actually very scary)
+7.  Collecting and building in this game is so much more fun than most survival games.
+8.  Cool aesthetic
+9.  Climbing abandoned baseballs.
+10.  Hopping from clover leaf to blades of grass.
+
+Chill, fun game.  I really can't wait to see what they do with the game.",0.8816794753074646,310,True
+962130,233341725,76561198120266497,"10/10 Game. You can easily get 100+ hours out of this game and that is not including the new game+ 1, 2, and 3+ editions to the game. 
+
+The story is good. The combat is rewarding and great. Exploration is good. The building mechanics are solid. The progression feels right. OMFG PETS!
+
+Let me put it this way, I played this with my wife. We beat it around 100 hours (taking our time and not researching anything). We enjoyed it so much that we decided this will be our first 100%'d game. It kicked off our, ""games we enjoy we 100%."" Even after 100% there is still more content through NG+!!! Each NG+ adds a twist, or item(s), or feature. 
+
+Just scroll the reviews, you'll see a lot of people with 100+ hours for a STORY game no less! 
+
+DO IT!",0.831612765789032,50,True
+962130,125083863,76561198020313592,"[h1]Sum-Up[/h1]
+[h3]In-depth analysis further down.[/h3]
+
+[table]
+[tr]
+[th]🟩 [b]Pros[/b][/th]
+[th]🟥 [b]Cons[/b][/th]
+[/tr]
+[tr]
+[td]
+- Enormous map filled to the brim with secondary locations, lore and secrets; it proves compelling and interesting to explore at all times.
+
+- Superb base-building and management systems, each with an impressive level of polishing, ease of use and quality-of-life features.
+
+- Excellent variety of weapons, accessories, tools and item sets that cater to a wide array of specialized character builds.
+
+- Engaging combat system that not only has a surprising level of depth for this genre, but also emphasizes gear level and player skill in a balanced way.
+
+- Well-designed progression system that encourages thorough exploration and feels rewarding with every new discovery.
+
+- High variety of enemies, most of which have unique behaviors, attack patterns, abilities and weaknesses to research and exploit.
+[/td]
+[td]
+- Lack of proper guidance / hints to discover both main and side content in some cases, the latter being especially obscure at times.
+
+- Balance issues in late-game phases: most weapons (except 2-handed) prove underpowered or gimmicky against high tier foes.
+[/td]
+[/tr]
+[/table]
+
+[table]
+[tr]
+[th]🟨 [b]Bugs & Issues[/b][/th]
+[th]🔧 [b]Specs[/b][/th]
+[/tr]
+[tr]
+[td]
+- Lobbies need to be closed and re-done each time to load a save in multiplayer.
+- A few enemy attacks have an oversized hitbox or may hit without an animation.
+- Rarely, voice-lines may repeat multiple times in a row.
+[/td]
+[td]
+- 3900X
+- 2080Ti
+- 32GB RAM
+- SSD
+- 1440p
+[/td]
+[/tr]
+[/table]
+
+[table]
+[tr]
+[td][b]Content & Replay Value:[/b][/td]
+[td]It took me, alongside a friend, around 70 hours to complete Grounded on the Standard difficulty, taking extra time to explore the map thoroughly, clear all locations, build a complete base and defeat all the bosses we could find. There isn’t really a point in replaying once finished, as the content will be the same.[/td]
+[/tr]
+[tr]
+[td][b]Is it worth buying?[/b][/td]
+[td]Absolutely. The standard price of 40€ is more than fair for this content amount and excellent quality, even without any discount.[/td]
+[/tr]
+[tr]
+[td][h3]Verdict: Excellent[/h3]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2548409603]Rating Chart Here[/url][/td]
+[td]Without a doubt, one of the best and brightest entries in the open-world survival genre. Obsidian got back on track and delivered once again.[/td]
+[/tr]
+[/table]
+
+[quote]Follow our Curator page, [url=https://store.steampowered.com/curator/41449676/]Summit Reviews[/url], to see more high-quality reviews regularly.[/quote]
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=2879981289
+
+[h1]In-Depth[/h1]
+[h3]Setting & Writing[/h3]
+After Dr. Wendell Tully discovers a technology that allows resizing people to minute scale, an experiment goes wrong and four teenagers become reduced to insect-size. Grounded is entirely set in a garden backyard, that from your newfound perspective is an expansive grass-bladed jungle filled with once-cute insects, now acting as mortal predators. The level of detail is remarkable with each environment, be it a labyrinthine anthill, the dark depths of a fish pond or a secret, half-wrecked laboratory all crafted with minute attention to detail.
+
+The story clearly isn’t the main focus, and is narrated in a generally-goofy way that however has its more serious or dramatic moments. Between fully-voiced dialogues and dozens of lore entries in the form of files, recordings and data, you’ll put the pieces together and discover many interesting insights not only on the events but also the locations and bizarre places present in the Backyard.
+
+[h3]Exploration & Survival[/h3]
+The world is nothing short of massive and is mainly divided in upper and lower backyard, plus a whole series of standalone dungeons be them main-quest related or secondary. You’ll be able to go as you please, although multiple areas will need specialized equipment to make passage feasible, or will simply have too powerful foes for a long time. Between free building, parkour options and several traversal tools like dandelion tufts or ladders, you’ll have many options on how to reach the next unexplored area. All points of interest will be permanently marked on your map, and custom markers are there too for keeping track of places. 
+
+Hunger and thirst will be your main concerns, both entirely manageable and, while a constant concern, never frustrating or annoying, but instead well-balanced, especially when you learn all the sources and tricks to get the most out of your surroundings, like kicking water drops out of grass blades. In case of death, you’ll respawn at your bed, lose all the inventory except armor and a few other things, but you’ll recover everything if you go back where you died. Items like Molars act as upgrade points when found: you can spend them in the Lab, once unlocked, to improve your character’s stats and learn powerful passive advantages.
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=2882104599
+
+[h3]Crafting & Base Building[/h3]
+The system in place to handle progression and research is quite unique. As you find new materials from natural sources, killed enemies and so on, you’ll be able to use one of the several Research Stations around the map to analyze them, gaining insight on what you can build with them and also Raw Science points - used to buy even more recipes and perks from the trader once unlocked. Raw Science may also be found in the world, gained from quests and from some special defense event zones. For the rest, crafting is handed as any other survival game, using specialized workbenches to craft certain resources.
+
+Weapons and armors may also be enhanced up to +8, using rarer materials to increase attack, defense and passive perks in the process. Performing specific actions many times like mining, killing specific enemy categories and so on will unlock Mutations that can be freely enabled on the go to give passive advantages, for instance Ant-Nihilator gives bonus damage against ants, to name one.
+
+Bases can be built almost anywhere, with a powerful yet easy-to-use system that allows complex architectures if one wants to. Better get fortified though, as enemies act as factions that will get progressively angry as you inevitably face them in battle while exploring, and attack your base with the intent of destroying it from time to time. A whole array of defenses can be built to help you, like mines, spikes, turrets and more. 
+
+[h3]Combat System & Bosses[/h3]
+The combat plays out mainly in melee, though ranged options and even magic exist, later on. All enemies have repeated attack patterns you should learn to attack and block at the right times, with perfect parrying being the highlight that, when mastered, can stagger any foe. Manage your stamina wisely and make sure to analyze each enemy’s data card, unlocked by spotting them, to learn their weaknesses and resistances to the many types of damage, and bring the appropriate tool for the job. 
+
+Boss fights are challenging and really feel like endeavors that require the best gear available at that point, and the right strategy to beat. Some optional bosses, very obscure to locate, will truly challenge even combat veterans, and award unique materials and items as a reward.
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=2880244400
+
+[h3]Quests & Secondary Activities[/h3]
+Quests are given by the various terminals in the world, tasking you with scouting places, killing specific enemies or crafting certain items in exchange for Raw Science. The main and side missions may also unlock new recipes, so they are definitely worth doing. Other activities include MIXR defenses, high-stakes sieges against huge hordes of enemies, in return for unique perks and tons of raw science, and also optional or secret dungeons that usually host hidden recipes or unique items.",0.9301300048828125,604,True
+962130,92441362,76561197999920365,"Grounded is a very memorable childhood movie, Honey I Shrunk the Kids turned into a game.  It starts with a nice mystery to  how you ended in your current predicament.  You wake up from a suitcase with 5 perfectly human sized cut outs with some form of breathing apparatus but there's only 4 of you currently (you and 3 other coop players) shoved underground.
+
+As you explore, discover many landmarks and biomes along with the dangers, wonders and new materials that come with it.  The crafting is quite extensive for structures with some miner hiccups here and there.  You're mostly building similar the shapes of Fortnite but with a more whimsical Lilliput style construction.  There's a lot of potential here from what I can see with the early access.  Armor sets have stat bonuses so mixing and matching might not be the best but some individual pieces also have innate bonuses as well.  If they have a diverse range of armors, there is potential for a lot of different builds.
+
+Combat is fairly tight and timing is important for blocking.  Dodging is not as active as you can outrun most enemies or at least weave through terrain or use vertical movement to your advantage.
+
+Only con so far that I can think of is there is in-game currency called raw science.  You can acquire them through playing the game, exploration or doing daily quest but it is quite the grind for it and learning new recipes and blueprints are quite expensive for a few.  I hope they reduce the price down a bit as I didn't even bother to unlock ladders for example because it was priced at 3500 RS, the daily quest pays between 100-500 and take quite some time to do.",0.8284581899642944,53,True
+962130,192595686,76561198096743506,"So what we have here is one of those non-gridded sandbox survival games. You know the ones: games like Sea of Thieves and Fallout 4 where you're able to build houses in a more free-form design, usually in a world that isn't procedurally-generated. And in this game, those are both very true, but with a fun twist.
+
+Here's the rundown: this is one of those games, except it takes place in the movie Honey I Shrunk the Kids. You're a tiny teenager in the 1990's, scrambling to both stay alive and figure out what the hell is going on. You spend most of this game building houses with blades of grass, twigs, and bug parts. You fight ants and spiders, and you explore the wonders of a back yard scattered with toys and abandoned junkfood packaging. Then, deep within the confines of this now-giant yard, you begin to find hidden labs, where Dr. Tully and his robot companion BURG-L help you to piece together the backstory and return to normal size.
+
+What this game excels at is the idea of letting you as a player have more fun. You can craft basketball courts and play basketball anywhere in the world, your fastest form of travel is custom-made ziplines, and you can even do goofy things like adopt a pet weevil or fly around on a gnat. It's not overly-concerned with balance or practicality, but still provides a good challenge and gameplay flow.
+
+The building in this game is superb, with the only issue being that more people don't know about it. It's hard to find cool builds online, which is unfortunate, as that becomes a driving force for me enjoying these kinds of games continually. 
+
+Overall, great game. Check it out!
+
+And because you might be concerned, this game has cross-platform play, so don't hesitate if your friends have it on console, you can still play together.",0.8276042938232422,119,True
+962130,75783440,76561198273036305,"Everyone used to have this type of imagination when we were kids, you have to admit that! I know it's just a game and still have a lot of bugs but I feel like a part of my imagination came true :D you know that feeling? There are still a lot of things they can put into the game that I am really looking forward to seeing ~ Anyway, it's fun! that's all it takes",0.8742005228996277,121,True
+962130,124782154,76561198058107729,"Don't let the art style fool you, this game is scary.
+
+Imagine a 12 foot tall wolf spider staring you down through a fence you built to keep your tiny home safe. You're proud of your fence, you're confident it will hold, so you start pelting the spider with arrows. The giant, hairy, eight-legged beast shrieks at you, and raises its front legs high above your head. You think to yourself, easy-kill. Then, without warning, the beast leaps over your fence and one-shots you, leaving you shaking in terror. Did... it... just jump? Yes mother f*cker, that spider had your ticket, and it just punched it with two, giant fangs.
+
+As someone who loves the unscripted adventure of open world survival games, this is one of my new favorites. I've spent more than 500 hours playing DayZ, and I'm exited to put as much time into this gem.
+
+Play with a friend if you can. Controller support is good. Minor netcode ""bugs"" here and there. Crafting is amazing. Base building is even better.",0.8727195858955383,123,True
+962130,192966141,76561198283118705,"Quite literally the best survival game available on the market, it has everything. most survivals have good building, bad survival and combat, or good combat but bad in the other areas this game has it all. 
+
+for me the combat almost feels like a first person Sekiro timing your parrys to match the fast attacks on the enemy and then hitting on their downtimes.
+
+the survival building is similar to the forest where you place blueprints and fill them in with planks chopped down the building has been refined and it very intuitive and has lots of pieces for making very cool and complex builds.
+
+the approach of ""fast travel"", or mobility of this game is different to other, other survivals will introduce vehicles or something this game allows you to build zip lines, so you can create outposts or a simple zip line anchor allowing you to quickly zip on over to different sections on the map, this is an awesome system of exploring really far and taking the journey back home progressing to you zipin' on over and zipin' back. (TIP: you can even send your planks down zip lines allowing you to send materials for building back to base from resource heavy area's)
+
+the game as a tier system allowing you to, at the surface, know what gear is better than other, with the best tier 3 gear being found in the later sections of the map and or from bosses. the bosses of this game are very fun and are very rewarding. and a tiered axe and hammer meaning you need to work you way up the tiers to mine the high tiered resources.
+
+it also features a new game plus, something I've never experienced in a traditional survival game before allowing you to keep all your builds, equipment and resetting the story, because of the survival aspect and you getting to keep your builds, it feels more like a ""reset the story button"" than a newgame plus, until you see all the new unlocks that just don't stop after you start advancing through the remixing levels(new game+1 +2 +3 etc.)
+
+the game really does have it all and couldn't suggest it more to people who have enjoyed games like subnautica, the forest. subnautica was my favourite for a long time but it lacked combat just like the forest's combat also felt lacklustre but those games had amazing survival and overall progression elements to them, grounded has it all.
+
+I've played this game for hundreds of hours total since it was in early access, i was on xbox back then and the devs have done nothing but improve and innovate since then, i truly hope we get a grounded 2
+
+i can seriously give this game a 11/10",0.8223204612731934,66,True
+962130,86476412,76561197997783474,"GREAT game with a lot of potential. Honey, I Shrunk the Kids: The Game!!!  Hopefully we can domesticate the insects at some point. That would be fun.
+
+I also would love for the developers to add the following:
+
+- Craftable Raft for Koi Pond
+- Fishing Pole
+- Bug Nets to trap bugs
+- Expandable Backpack
+- Centipedes, Roaches, Snakes, Birds, Mice, Squirrels
+- Lawn Mowing Humans.
+- Sprinkler Activation at random times (Get to the high ground!!!)
+- Slingshot
+- Weather
+- Hot Days, Cold Days
+- Pitfall Traps for bugs
+",0.8698732852935791,76,True
+962130,116562973,76561198216830009,"bro spoilers (i think so)
+u are smol and getting chased by the force of nature. I like the game because; 
+
+1.) First of all, you can commit several war crimes by stealing ant babies to make bombs and wage war with the ants by bombing  the ants.
+2.) Annoying mosquito ppl that chases u for countless inches.
+3.) Treasure hunts!
+4.) literally my childhood imagination 
+5.) A literal Antbully simulator
+6.) Secret and Mysterious labs just like the forest
+7.) Has lots of content and adventure
+8.) You can spend 10 hours of base building because idk about architecture
+9.) Has lots of biomes, i recommend the sandbox biome lots of chaos
+
+The game updated so imma just update this
+first off let me say OMG WHAT THE HELL THEY ADDED HARRY POTTER!? Nah kidding its just pete with the sorting hat. So, I like the update because; 
+ 
+1.)  I hate ants and i will continue to hate them by crafting an exploding fire staff and decimating all ants on sight.
+2)  literally have me sitting for like 60 hours a day because of this update
+3.) ITS NOT TULLY'S FAULT GODDAMN IT (except for his family)
+4.) the LoRe, thE lORe, the lorE
+5.) Me sobbing at the end
+6.) a literal mantis 
+7.) burg.L is so annoying i love it.
+8.) they literally added 2 heroes from avengers (one from lore and one as a bug)
+9.) brand new items, like a LOT.
+10.) a brand new area to explore, to die to and to create monstrous bases too.
+
+*Obsidian pls i need a dlc rn T_T
+fr this game is peak survival game, pleaaaase i need more updates.
+
+omg. forget about the dlc and take my money for grounded 2",0.8190255761146545,76,True
+962130,105844304,76561198093595566,"The game started out WAY too kid based for me at first, but over time it has matured into an extremely fun and polished game....and it still isn't anywhere near finished. The team working on this game seem to be an amazing group and REALLY listen to their players and make compromises to keep as many people happy as possible without sacrificing their vision of what it should be. I'm in for the long haul on this one :)",0.8177917003631592,61,True
+962130,104480889,76561198441094049,"This game is an extremely immersive for a sandbox survival.
+
+It's like being in Honey I shrunk the kids but looks better.
+
+Sound effects are on point, the chase/battle music is intense.
+Night time is very dark until the moon comes out. 
+  
+For a kid friendly looking game, it has a lot of fear induced adrenaline moments.
+
+Great graphics, solid building interface for early access. 
+Game physics and atmosphere are impressive. 
+
+Fun game to play, I highly recommend it.",0.8161935806274414,48,True
+962130,183084974,76561199175377671,it's good.  Kind of a crafting survival game.  Gives Subnautica vibes... but in a backyard.,0.8154407739639282,57,True
+962130,145237299,76561197995204011,"Worth a buy. Fun game either solo or with friends.
+
+Unless you are scared of spiders/bugs. Then stay away at all costs.
+
+Graphics are good. 
+Combat is good.
+Building is good.
+Lots of Quality of Life items that other crafting/survival games should include. Area deposit. Build from storage.
+
+Story is good enough.
+Exploring the yard is fun.",0.8141334652900696,55,True
+962130,226178105,76561198113099945,"Easily the best survival game I've played since Valheim. I regret sleeping on this title for so long even though the premise interested me when it first launched. A part of me is glad I waited because now I get to enjoy it as a complete package rather than waiting for content to release over time. I haven't been this excited to play a game in a while and I really can't wait to play Grounded 2 once I'm finished with this game completely. 
+
+I bought this game hoping for an open world survival game with a fairly linear story so I could choose whether or not I wanted to advance the plot and have some level of guidance or spend time exploring the world. This game nailed that balance perfectly. There's always some objective to do if that's what you want but otherwise the game often encourages you to sprawl out across the lawn and discover things organically. The exploration harkens back to the Obsidian days of old. If you are curious and care to explore the world you will be rewarded. Every. Damn. Time. The game has so much stuff to see and do. I could rave about all the various features and mechanics that make me surprised newer survival titles haven't borrowed from Grounded but I will say that the game is very thoughtful in making the boring elements of base building and resource management as painless as possible so you can spend more time in the world doing what you enjoy. 
+
+I will also say this is a game that does difficulty right which seems very rare nowadays. Our friend group started on Whoa (Hard) difficulty and it genuinely makes you fearful of some of the larger foes in the game. You learn to become avoidant and plan out your trek away from your base. You also learn when you're starting out as a new player where the safer spots are and where to avoid. It gives you a sense that you're actually surviving in the world and eventually you learn to adapt and conquer these challenges. That being said, the game also does a great job of never making you too comfortable. Just when you feel confident in your ability to fight something like Bombadier Beetles, Stinkbugs, and Orb Weaver Spiders, the story progression introduces new threats and challenges to humble you.  Another nice touch is the game tends to scale enemy damage and health with the amount of players actively on the server so it's not just a complete cakewalk when you get your friends involved. If you are unprepared for a fight you walk into and you choose to aggro a large insect anyways there's a strong chance you will die even with a group. You still have to play smart and help each other out in fights and the emphasis on teamwork and planning makes the co-op that much more fun to me. 
+
+I bought this on sale but having played it I would say it's very easily worth the $40 asking price. Over 70+ hours into the game and there's still tons of content, places to explore, and things to do. It's a great game I would recommend to anyone.",0.8116175532341003,46,True
+962130,186199177,76561199116257104,"It's one of those games that once you get in the flow of it, you look down at the clock and it's 5 am and you don't know what happened. It's so good, nothing scratches that itch in terms of survival/craft. It feels the most polished of the genre. The different biomes are fun to explore, the enemies are terrifying, playing with friends is a blast.i love it",0.8112064003944397,43,True
+962130,132858331,76561198242876034,"403 hours and counting.
+
+Hands down one of the best games I've ever played.
+
+[EDIT]: 519.5 hours later , 100% finished with all achievements unlocked , STILL one of the best games I've ever played.
+
+Would I recommend it ? HELL YES!!!
+Would I play it again ? Yep - I'm actually sad it's ended , but doesn't mean I can't continue or start over again.
+
+Thanks devs , for an amazing game!
+
+[Edit]: 530 hours in , first time playing since completing it just to check out the new additions and bits and bobs added since playing last. I still really love the game , and still feel it's hands down one of the best games I've ever played and for many reasons , but .... A change has been made that is really bad ... The dandelion fluffs don't last nearly as long as they used to , and that can be very bad for many reasons. 
+
+The wasps are just like real wasps... a$$holes.  I've been busy rebuilding my beautiful base because I just wasn't expecting an instant raid from them.
+Also - another bit broken - can't replace something I already had there. Tells me location is blocked when it's not. 
+Other than those few things , and odd bugs ( not the insect kind ) no complaints. Still flows smoothly.",0.8111072778701782,40,True
+962130,106390985,76561198091035382,"This is a great game. It still has a long way to go to reach the finish line, but it is coming along rather nicely. If you're into base building survival games, and you aren't afraid of spiders, give it a try. The price tag is a bit steep for a game still in development, but over time it _will_ be worth it.",0.8086458444595337,44,True
+962130,151237204,76561198299956440,"[table]
+[tr]
+[th] [b]✔️ The Good [/b][/th]
+[/tr]
+[tr]
+[td]
+• Grounded has evolved significantly from its early access period, fulfilling the potential of its ""Honey, I Shrunk the Kids"" survival premise and exceeding expectations.
+[/td]
+[/tr]
+[tr]
+[td]
+• Draws inspiration from Obsidian's RPG history, offering a blend of survival and roleplaying elements, including character progression, enemy weaknesses, and resistances.
+[/td]
+[/tr]
+[tr]
+[td]
+• Memorable characters and a hilariously ridiculous story add a unique charm to the game, with quirky NPCs and laugh-out-loud funny moments.
+[/td]
+[/tr]
+[tr]
+[td]
+• The backyard setting is beautifully designed, oozing personality with diverse environments, challenges, and creative details.
+[/td]
+[/tr]
+[tr]
+[td]
+• Immensely addictive sandbox gameplay, with excellent building and resource management, exploration, and challenging combat mechanics.
+[/td]
+[/tr]
+[tr]
+[td]
+• The game's vast world provides endless opportunities for exploration, quests, and activities, ensuring players never run out of things to do.
+[/td]
+[/tr]
+[/table]
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=3091634998
+
+[table]
+[tr]
+[th] [b]❌ The Bad [/b][/th]
+[/tr]
+[tr]
+[td]
+• Limited inventory space becomes a frustrating constraint, forcing difficult decisions on what to bring and leaving little room for expansion.
+[/td]
+[/tr]
+[tr]
+[td]
+• Some design choices, like enemies knocking weapons out of hands without easy retrieval, can lead to loss of valuable items.
+[/td]
+[/tr]
+[tr]
+[td]
+• Technical issues persist, including crashes, co-op connection problems, and bugs that, while not game-breaking, impact stability.
+[/td]
+[/tr]
+[/table]
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=3092451442
+
+[table]
+[tr]
+[th] ⚠️ The Ugly [/th]
+[/tr]
+[tr]
+[td]
+• Technical roughness remains a significant issue, with regular crashes, camera misalignment, and insects/items getting stuck in the environment.
+[/td]
+[/tr]
+[tr]
+[td]
+• Lack of significant progress in stability despite two years of early access development is disappointing.
+[/td]
+[/tr]
+[tr]
+[td]
+• Inventory space constraints and occasional lost treasures disrupt the flow of an otherwise fantastic experience.
+[/td]
+[/tr]
+[/table]
+
+[hr][/hr]
+[h1]Overall Score: [/h1]
+[h3] 8.9/10 [/h3]",0.8079845905303955,44,True
+962130,174307664,76561198079189897,"---{ Graphics }---
+☐ You forget what reality is
+☑ Beautiful
+☐ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{ Gameplay }---
+☐ Very good
+☑ Good
+☐ It's just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ Audio }---
+☐ Eargasm
+☑ Very good
+☐ Good
+☐ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{ Audience }---
+☐ Kids
+☑ Teens
+☑ Adults
+☐ Grandma
+
+---{ PC Requirements }---
+☐ Check if you can run paint
+☐ Potato
+☑ Decent
+☐ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{ Game Size }---
+☐ Floppy Disk
+☐ Old Fashioned
+☑ Workable
+☐ Big
+☐ Will eat 10% of your 1TB hard drive
+☐ You will want an entire hard drive to hold it
+☐ You will need to invest in a black hole to hold all the data
+
+---{ Difficulty }---
+☐ Just press 'W'
+☐ Easy
+☑ Easy to learn / Hard to master
+☐ Significant brain usage
+☐ Difficult
+☐ Dark Souls
+
+---{ Grind }---
+☐ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☐ Isn't necessary to progress
+☑ Average grind level
+☐ Too much grind
+☐ You'll need a second life for grinding
+
+---{ Story }---
+☐ No Story
+☐ Some lore
+☑ Average
+☐ Good
+☐ Lovely
+☐ It'll replace your life
+
+---{ Game Time }---
+☐ Long enough for a cup of coffee
+☐ Short
+☑ Average
+☐ Long
+☐ To infinity and beyond
+
+---{ Price }---
+☐ It's free!
+☑ Worth the price
+☐ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{ Bugs }---
+☐ Never heard of
+☑ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{ ? / 10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☐ 7
+☐ 8
+☑ 9
+☐ 10",0.8079331517219543,208,True
+962130,74672062,76561197989406743,"Updated review:
+
+Finally got around to coming back to this after playing the very early alpha now that it is finished.  
+
+It's good.  Very good even.  Falls short of great, but only just.  
+
+When I play a game like this, the game ends when I lose the ability to continue improving my living condition.  I never play to really ""win"" just to get to a point where I've built all the things, experienced all the content, killed all the things.  Don't care about seeing the credits, went 1500hrs in Rimworld before launching the ship.  
+
+And that's where the game still falls a bit flat for me.  I want to LIVE here.  I want to rig my house with electricity and have a fridge and some creature comforts like a shower that provides temporary stat boosts or something.   I want to tame a bee or ant and ride it around.  I want to have a pen filled with aphids I can collect honeydew from every day.  
+
+So what happens in the game is that you can build everything fairly quickly, realize that certain things are gated behind plot advancement, run through the story... but then there's just not much left after that.  It's just not terribly deep.  
+
+Fun game, would recommend.  Bit difficult in a couple spots, sometimes it's incredibly hard to find things (looking at you, Mossy Key).  Looking forward to the expansion pack ""Enter the House"" with a house cat that you have to avoid, kind of like the koi in the pool but more dangerous.  
+
+Old review:
+
+Reviewed on version 0.1.1.
+
+This game is very, VERY alpha.  There is very little content, and is barely more than a working ""proof of concept"" build.  That said, the framework that they have built is pretty fucking good.  The aesthetic of this game is spot on and I'm very much looking forward to seeing it fleshed out.  
+
+I'm hitting the Thumbs Up button, but remember, VERY ALPHA, VERY UNFINISHED.  Tons of bugs(not the insect type) and very little content, but still an incredible beginning.",0.806449830532074,71,True
+962130,76414790,76561198982165416,"If you ever wanted ""Honey I've Shrunk the Kids"" in real life as a kid, this is your game. Fulfilling one of my childhood dreams, I forgot i had.",0.9060399532318115,135,True
+962130,149853125,76561198053516798,"""Bug's Life"" meets ""Honey, I Shrunk the Kids""... THE VIDEO GAME
+
+I started playing this game pretty much with all cheats enabled, because I wanted to get a feel for it. Within 10 minutes however, I started a new save that was MUCH more survival-based, simply because the world was so fun to explore and I wanted to get the full experience. 
+
+This game feels a lot like ARK: Survival Evolved at first, with one of your first goals being the crafting of tools and establishment of a shelter, then figuring out how to stop AVOIDING all of the scary insects and spiders, and actually take them on (on purpose). The story of the game is pretty fun, and while a certain NPC can get pretty annoying at times, it's still a fun ride.
+
+The thrill you get from your first spider take-down (and there are several varieties, meaning you get said thrill several times!) is unbelievable, like taking down a Souls boss for the first time. The combat can get a bit repetitive at times, and by the end of the game your inventory will likely remain constantly half-full of various weapons, simply because so many insects/creatures have very different weaknesses. The combat system has modifiers for basic things (piercing damage, blunt damage, chopping damage, etc.), in addition to 'elemental' damage types (think fire and ice damage, but with much more comical in-game implementation), so you can only be so-prepared to face various threats unless you account for a lot of possible encounters. 
+
+The building aspect of the game is a lot of fun. If you want a relatively easy/fast progression, enabling and using your Handy Gnat can let you teleport your possessions AND yourself (claim a bedroll, move it somewhere else with your Gnat, enable 'keep-inventory', die, then respawn wherever your Gnat put the bedroll, even across the map) and you can cheese some pretty tough enemies if you're clever by building, but in the end the game is as hard as you want it to be. I really enjoy all of the customization options, though there are several missing construction shapes that would be really nice to have. Base construction absolutely takes up a good chunk of my play-time, because that's part of the game I really enjoy (Fallout 4, ARK: SE, Return to Moria, Satisfactory, Minecraft, base-building is fun!).
+
+This game has actually made me more likely to take in my surroundings. I've started noticing the small details on the ground a lot more often since diving into this game, such as seeing an interesting mushroom formation and thinking about how a 1cm-tall person could parkour it. Taking walks with my dog has an additional fun aspect because of that!
+
+As for difficulty, as mentioned earlier it's pretty much as hard as you want it to be. Now there are a few things that likely will take a few tries to get through (yes, there is an 'underwater level'), but in the end you can make it as easy or as hard as you want. And if your parkour skills aren't fantastic, well probably start practicing. 
+Disclaimer: I have only ever played solo.",0.8059743642807007,52,True
+962130,73530351,76561198410200336,"Haven't noticed many glitches or anything like that. The games fun and creative but base building is a little wonky, but hey, its VERY early access. We're pretty much beta testers. That paid for the game. Yeah.
+Anyway, I've been having a lot of fun playing solo. Once more content gets added to the game, I can easily see this being a blast with friends. For parents looking for a clean game for their kids, this game is a home run. No cursing, strong language or lewd imagery, just good old fashioned fun in the theme of Honey I shrunk the Kids. The stories very short because its early access, but lets be real: who REALLY plays these games for the story? Most of us play these games to fight stuff, build bases and play with friends. The story always comes second. Its basically The Forest for kids. I recommend it.",0.8535696864128113,172,True
+962130,94276691,76561198331950906,"
+- DIFFICULTY -
+
+🔲 My 90 year old grandma could play it
+🔲 Easy
+☑️ Normal
+🔲 Hard
+🔲 ""Dark Souls""
+
+- GRAPHICS -
+
+🔲 ""MS Paint""
+🔲 Bad
+🔲 Meh
+🔲 Graphics don't matter in this game
+🔲 Good
+🔲 Classic is always better
+☑️ Beautiful
+🔲 Masterpiece
+
+- MUSIC -
+
+🔲 Bad
+🔲 Not special
+☑️ Good
+🔲 Beautiful
+
+- STORY -
+
+🔲 This game has no story
+🔲 Like playing ""Temple Runners"" for the story
+🔲 It's there for the people who want it
+☑️ Umm Good?
+🔲 Well written
+🔲 Epic story
+
+- PRICE -
+
+🔲 Free
+🔲 Underpriced
+🔲 Perfect price
+☑️ Could be cheaper
+🔲 Overpriced
+🔲 Complete waste of money
+
+- REQUIREMENTS -
+
+🔲 You can run it on a microwave
+🔲 Potato
+☑️ Average
+🔲 High end
+🔲 ""NASA"" computer
+
+- LENGTH -
+
+🔲 Very short (0 - 3 hours)
+☑️ Short (3 - 15 hours)
+🔲 Average (15 - 50 hours)
+🔲 Long (50 - 90 hours)
+🔲 Extremely long (90 - 110 hours)
+🔲 More than 1 week (170+)
+🔲 No ending
+
+- FUN -
+
+🔲 I'd rather watch paint dry
+🔲 Hard to enjoy
+☑️ Repetitive
+🔲 Actually pretty amusing
+🔲 Ride of your life
+
+- REPLAYABILITY -
+
+🔲 It's a one - time experience
+🔲 Only for achievements
+☑️ If you wait a few months / years
+🔲 Definitely
+🔲 Infinitely replayable
+
+- WORTH BUYING -
+🔲 It's Free
+🔲 No
+☑️ Wait for sale
+🔲 Yes",0.852557897567749,340,True
+962130,88937197,76561198389998118,"Base building mechanics is quite simple. I love their idea wherein you can actually place your building plans, exposed to everyone. You can easily participate building it by slowly gathering the remaining missing mats shown therein. Also, you can't proceed building it if there's not enough support. Recycling/disassembling building structures is quite realistic too - you wont get the exact mats you pour in to building it. Resources scarcity depends on game difficulty.
+
+Hunger and thirst mechanics is quite realistic too. You have to eat cooked food or drink clean water else there's a consequence.
+
+Game mechanics is a bit based on teamwork, and would be more fun and easy to have someone to back you up. Enemy smashing-dodging is quite fun too. Just be careful since not only humans know how to do teamwork.
+
+Its quite interesting also how the developer considers those people who have phobia in insects such as spiders - they have some remedy on it if you explore the game settings.
+
+Overall, its an entry level of playing a survival game. It gives me the nostalgia of the Disney movie entitled ""Honey I Shrunk the kids."" 🖤",0.8019480109214783,64,True
+962130,190579233,76561199096444573,"The grind is real. I was a child when I watched Honey I Shrunk the Kids and I used to  imagine the whole experience through my own lens for years even until I was a teenager. After playing this game I got all my old fond imaginations and stories back. It made me feel like a child again and it thank obsidian for that. The game in general is great as it features a ton of enemies that have their own attack mechanisms and weakness. The insects can create an aura of distress which makes your heart jump while you do get subsequent upgrades after a while to sway away that fear as well. Anyhow the game is worth buying if you wanna play alone or with your friends, the most fun part for me was building a huge base at the Oak tree. The building mechanics are great as well and help you out a lot if used wisely. The game also got me wondering about how spoiled the earth is getting after coming in contact with human created waste, while I knew about it theoretically the whole experience of looking at the whole backyard of a house closely made be understand the  problem from a ""small"" perspective.  Its a great game overall.
+
+9/10",0.8005900979042053,34,True
+962130,139858002,76561198287206827,"I'm old enough to remember when Honey I Shrunk the Kids came out. If you've seen this movie, that's pretty much what this game is like.",0.9491474628448486,415,True
+962130,85169569,76561198218449065,"This game is a lot of fun.  A lot of gasps and downright screams of fear but once you get the hang of it and the higher tiered weapons, it's really satisfying.  They do updates frequently and really listen to the players and have made many changes we have requested.  Great game and caring devs, what more could we ask for?  :D",0.7950639724731445,39,True
+962130,96521888,76561199030487968,"The game is very nice animated and have very good graphics. Grounded have a bit of bugs but its still very interissting and funny. You can play with 4 friends. The game gets bigger and bigger everytime, they make a lot of new items and 
+insects in the game. Very good :)
+
+
+
+Ps: Sorry for my writing",0.7945075631141663,55,True
+962130,201008240,76561198106273607,"https://steamcommunity.com/sharedfiles/filedetails/?id=3628589208
+
+[h1]WHAT A JOURNEY!![/h1]
+
+a quality, thoughtfully crafted game with unexpected depth, made for the purpose of having fun. The story, the setting, exploration, building- , crafting mechanics, design decisions, sounds, and other aspects of this game are beautifully wrapped in a unique (and a unified) style, giving you an experience you won’t forget. An absolute labor of love.
+
+Something that I appreciate a lot is that you can play it the way you want: go strictly with the story line or go explore freely and return to the story later (although some important recipes and items will require you to finish a story mission to get unlocked). 
+
+If you are more of an independent explorer type, AND if you enjoy squeezing the maximum from games and want to see everything they offer,  I highly encourage playing on the highest difficulty. It will teach you to pay more attention to the game mechanics, such as timings, resistances, synergies etc., and to understand the logic behind some secrets and puzzles.
+
+If you are more of a casual type, the game offers an easy difficulty and a custom mode too, where you can tailor the experience to your liking (for example, disabling hostility).
+
+the game has a friendly, cartoonish look and overall I'd call it an inviting family-friendly experience, except for one aspect: you often have to take the lives of creatures (sometimes, neutral ones, who won't attack you unless provoked) to gather resources for [i]your[/i] needs.
+
+Overall, I really appreciate that the game feels like it was made for your enjoyment, rather than to tick off game design checkboxes or rely on typical gaming hooks that keep you logging in daily solely to satisfy [strike]investors[/strike] your inner ape. That was a big surprise, especially for an AAA title.
+
+This is one of those games I wish I could forget and re-experience.
+Recommended, worth full price.",0.7921225428581238,38,True
+962130,81503304,76561198038612527,"I'm not a huge fan of resource gathering survival games, but I'm really loving the chill feel and backyard feel of Grounded.
+
+- Map is massive with distinct areas, such as the pond, the juniper bush, the toxic area, etc. Lots of interesting loot unique to each area.
+- Discovering massive objects, even if it's just a tin of mints or doll's head, is always fun.
+- Exploring is rewarded! Raw science is all over the map, and you can use it as a currency to unlock new recipes or buffs.
+- Combat feels good, if a bit sluggish to get out of animations when you're panicking in front of a spider.
+- Item durability feels pretty good too, and even if you disagree, the resources to create essential items like tools are all around you most of the time.
+- The pond is everything I hoped & dreamed it would be. There's a number of aquatic creatures and a bunch of things to find, including a biodome in which you can sit and admire the pond from within. It's so nice and honestly makes me want to brush up on limnology!
+
+I think the only thing I'm not liking so far is that harvesting berries is pretty tedious. There's a bunch in one spot but there's also 3 or 4 spiders in that spot, and I don't know how I, a solo player, am going to clear the area. In fact the only way I've managed to kill anything larger than an ant is because it got stuck on grass. Maybe tweak health/damage of enemies so they scale to player count.",0.7904185652732849,37,True
+962130,213544649,76561198072557193,"Step 1: Die
+Step 2: Set the game to easiest difficulty
+Step 3: Die
+
+Game is surprisingly difficult which is a good thing imo, but I strongly recommend playing on easiest difficulty while you learn the ropes.
+
+ALL the ropes. The crude ropes, the silk ropes, the lint ropes, you'll be doing a lot of crafting in this game. The survival aspects are trivial but this makes them more fun as you don't have to constantly worry about it. 
+
+Exploration is a huge plus, always something interesting with several hidden areas that often lead to great rewards, and unique locations or boss fights. 
+
+If you're not a fan of crafting games or survival, I honestly think this really is the one exception among that genre, speaking as someone who does not like this genre typically. This game has so much to see and do, lots of charm and that ever-escaping sense of child-like wonder that really makes this game special. 
+
+If you are looking for a relaxing, cozy, go at your own pace game, this could be it. 
+If you are looking for a challenging, intense action packed survival/crafting game, this could also be it. 
+
+Only thing I will say is that playing solo is likely to be a bit less fun because of the inevitable grind, so if you can, playing with friends not only lessens the resource burden but also just simply makes the game much more fun. 
+
+Last thing I will say is that it's an absolute marvel of game-development, how they can render so many objects and textures while letting you build effectively with no limit (?????? seriously how did they make this game??) it is simply unbelievable. 
+
+I ran this game on a 10 year old PC (**i7 4790k and gtx1060 6gb**) at a solid 60fps and it still looks amazing and plays amazing even on low/mid settings. Cannot emphasize enough how incredible this game is from a game-dev perspective! Huge kudos to the devs, you guys are wizards. 
+
+Final Score: 9/10",0.7890190482139587,40,True
+962130,73621223,76561197967766756,"Warning: At the time of writing, it is *clearly* early access (as advertised). If you get annoyed by missing content, bugs, and crashes, then you might want to wait for a more complete experience.
+
+It's the well-known genre of basebuilding/survival, where you can build a base, explore, and gradually get better resources and equipment. It works well. Both alone and with friends.
+
+What I think makes it stand out is the visuals. It is a unique setting – and it also looks great!
+
+Pros:
+* Looks great
+* Plays well
+* Original setting
+* Fun both alone and with friends
+* A ton of potential here. There is so much fun things they can easily implement and build on this.
+* Scary spiders, but they have an arachnophobia-setting you can use to dial back their appearance to something less scary!
+
+Cons:
+* Very Early Access. It just released. This means there is a chance you will run into frequent crashes or gamebreaking bugs requiring you to start over or reload an older save – although it has not been a major issue for me.
+* A LOT of content still missing. It is clear more is planned. There are locked doors to several bases/labs that you can't enter, and several areas are literally marked in-game as ""under construction"". Missing enemy types. Missing story.
+* Bad pathfinding for the Ai enemies. It is often trivial to make them get stuck somewhere silly so you can just slowly take them down with a ton of weak arrows from a safe distance. I hope they improve this, as it makes some things a bit easier than it should be.
+
+My recommendation is based on the assumption that they will actively keep building and improving on the game; especially adding more content and story.
+
+Update November 2020:  
+There has been a major update filling in one more area of the map (the pond). A whole bunch of other smaller improvements to the game, so it is gradually improving.
+
+Update after 1.0:
+Game is done. They delivered. If you might like this genre of game, this is a safe purchase. :)",0.8385878801345825,117,True
+962130,197868392,76561198105265250,"I really recommend this game if you love being on adventures. Very nostalgic as it reminds me of me and my mom's favorite movie before. Honey, I shrunk the kids. And also my childhood animated movie ant bully and a bugs life. Enjoying it so far. Hopefully more updates to come.",0.7867127060890198,33,True
+962130,179663392,76561198869857396,"I picked this game up on a whim not knowing any thing about it, and it has been absolute treasure since day one, i have been hooked. I recommend this to anyone looking for a good base builder / story line game that will keep you busy tell the end.",0.7853434681892395,37,True
+962130,208797553,76561199229959209,"I really love this game! 
+
+My boyfriend and I prefer different types of games - I like RPGs and he likes survivalist games - so we generally don't play together. I asked him if he wanted to try this one because I was scared to play it alone lol, and it became a fast favourite. It's a fun premise, with interesting challenges and a cool world. It's a good middle ground for the both of us.",0.7830209136009216,33,True
+962130,91036471,76561199068950872,"Grounded isn't just a game, it's an experience.  For anyone who has ever imagined what a survival scenario as a tiny person would be like, this game nails it.",0.7818472981452942,49,True
+962130,101126375,76561198401315094,"Super fun game, combat is enjoyable and skill-ish based, survival aspect isn't crazy hard but definitely isnt ignorable. enemy AI can be a little goofy i.e. enemies getting stuck on your constructs and certain inclines making AI completely piss off in the other direction, makes fighting the harder enemies really easy. though on the terrain the enemies are built for they can be an absolute menace if you are unskilled or under geared.
+atmosphere feels very good no empty parts to the world  (with the exception of under construction areas). Music isn't intrusive but has some memorable elements. sound effects are very nice and do a good job of giving feedback. overall controls feel solid though jumping can be a little floaty and sometimes hit range on weapons can seem shorter than it should be. overall game is currently an 8.5 for me with allowance for change on the future updates. absolutely recommend if you like games liked the forest!
+
+edit
+
+ai has been massively improved, bugs can now jump and stuff which adds a new element of terror. combat is both improved and worsened. i love all the new weapons and the improved mutations as well as the general improvements to the level up system as a whole. i've not been a fan of the three hit combo system (that being the damage being done in order of 50% 100% 150% in order of hits) since it was introduced. personally if i could have it changed it would be 100 100 200. regardless it doesn't seem to be going away. atmosphere is still great and the new areas are no exceptions. a little disappointed that a lot of the later enemies are just re-skinned earlier enemies though they all have new attacks which helps change things up. i kinda feel like the inner furnishings of bases is a little scant but i'm also just an ass designer so i don't feel i have the right to make serious comment on that front. all the good things i said about the game in the previous review minus the changed stuff in this review are still true.
+
+overall the game is a 9 for me the three hit combo thing still really bothers me but in the endgame its much less noticable especially if you are taking advantage of creature weaknesses.",0.7804990410804749,36,True
+962130,95573253,76561199021359320,"Haven't noticed many glitches or anything like that. The games fun and creative but base building is a little wonky, but hey, its VERY early access. We're pretty much beta testers. That paid for the game. Yeah.
+Anyway, I've been having a lot of fun playing solo. Once more content gets added to the game, I can easily see this being a blast with friends. For parents looking for a clean game for their kids, this game is a home run. No cursing, strong language or lewd imagery, just good old fashioned fun in the theme of Honey I shrunk the Kids. The stories very short because its early access, but lets be real: who REALLY plays these games for the story? Most of us play these games to fight stuff, build bases and play with friends. The story always comes second. Its basically The Forest for kids. I recommend it.",0.780458390712738,47,True
+962130,114222042,76561198848342789,"I don't get why XBOX pushes the workshop so hard. ts not that good.
+
+Apart from that I have no complains, one of the best games I have ever played. Fun in coop and solo, great story and gameplay
+
+
+---{ Graphics }---
+☐ You forget what reality is
+☐ Beautiful
+☑ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{ Gameplay }---
+☐ Very good
+☑ Good
+☐ It's just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ Audio }---
+☐ Eargasm
+☐ Very good
+☑ Good
+☐ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{ Audience }---
+☑ Kids
+☑ Teens
+☐ Adults
+☐ Grandma
+
+---{ PC Requirements }---
+☐ Check if you can run paint
+☐ Potato
+☑ Decent
+☐ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{ Difficulty }---
+☐ Just press 'W'
+☐ Easy
+☐ Easy to learn / Hard to master
+☑ Significant brain usage
+☐ Difficult
+☐ Dark Souls
+
+---{ Grind }---
+☐ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☐ Isn't necessary to progress
+☑ Average grind level
+☐ Too much grind
+☐ You'll need a second life for grinding
+
+---{ Story }---
+☐ No Story
+☐ Some lore
+☐ Average
+☑ Good
+☐ Lovely
+☐ It'll replace your life
+
+---{ Game Time }---
+☐ Long enough for a cup of coffee
+☐ Short
+☐ Average
+☑ Long
+☐ To infinity and beyond
+
+---{ Price }---
+☐ It's free!
+☐ Worth the price
+☑ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{ Bugs }---
+☐ Never heard of
+☐ Minor bugs
+☑ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{ ? / 10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☐ 7
+☐ 8
+☐ 9
+☑ 10",0.7794503569602966,34,True
+962130,109361781,76561197973581774,"The game started promising and fun, but the recent ""into the woods' update.. just ruined everything.
+First lets talk about the need to log into microsoft account - it not logging in, and not saving, keeping you in 'offline' mode, which means you can't even give proper feedback.  That is just bad.
+
+Now let's get into game problems:
+the new combat system is horrible, your first attack is PUNISHED only doing 50% damage, and then you have to drain nearly all your stamina just to do a 3 hit combo to do ""decent"" damage.  Meanwhile, you need to block attacks - which ruins your combo.  It makes every fight tedious.
+
+Secondly. Since all weapons do less damage AND rely on combo now to do good damage, the durability drops rather fast, the only way around this is to upgrade them, but the upgrade cost is way too much, you basically run around gathering supplies for hours just to repair and upgrade your weapons, without any fun to it.  Tedious.  One of the achievements requires you to upgrade it fully, and the last few steps consume SO MUCH MATERIAL you feel like something went wrong in the calculation. (and the gains, aren't worth it)
+
+New areas are a let down honestly, mostly just 'more spiders' - sure there is some new bugs and it's fun the first time, but once you go through the termite mound, you get all the termite parts you will ever need. (because there are just so many of them attacking you) so you really have no reason to go back.   Splinters need more uses, walls, floors, whatever - but as they are you get all you need.
+
+Things that need done:
+base raids, with purpose (special resources, etc)
+change in upgrade so they are easier/less costly (using 500+ quartize is insane)
+change resource gathering to put the resource in backpack - unless your full (then it can explode into the world)
+change combat to do 100% , 100%, 200% damage so combos feel rewarding instead of punishment.
+Increase base health by material. (because they all break too fast with things attacking)
+
+cut the useless bugs, or at least give them 'same parts, different texture' to make unique variants of gear. Ladybirds drop ladybug parts... just make it drop ladybird parts, and the armor can be nearly the same as ladybug, but look different.
+
+Get rid of Ant Eggs all together.  They just seem to cause problems.  Instead of needing them for recipe, use Bug Rubber , which has very little other uses.  For the food - just use more ant parts.
+
+Also for food - change food.  the cooked food spoils too fast, doesn't stack, and so is a massive inventory problem on a timer.  Make buffs stronger and meals last longer, or, make meals stack with shorter buffs but never spoil. (like advanced jerky)  Getting the recipe, getting the parts, taking the time to prepare it, and then using inventory space to it - should be more rewarding than they currently are.
+
+
+and lastly.. do something about the spiders.  As it is, it seems wolf spiders respawn daily, and there are SO MANY of them now I always end up in combat with them, and they are no longer a threat as I have upgraded gear, so they are just annoying.  The yard should fluctuate with how players handle it, grass removed, spiders dying, other things moving in etc.  Instead I feel every game day is the same - I have to eat and drink immediately, then go out and gather stuff to repair, then gather a TON of resources to attempt any upgrades and all the while fight THE SAME bugs over and over, of which I no longer need parts of (and in some cases have chests FULL of their parts)",0.7776190042495728,899,False
+962130,136652547,76561199144577926,"If you are arachnophobic, underneath the oak tree is the only safe place from the spiders. Thank me later.",0.8744221925735474,327,True
+962130,87436592,76561198139971563,"Easily one of the best survival games out there, and one of my favorite multiplayer experiences. IGNORE the reviews complaining about the need for an Xbox Live account. You only need a free Microsoft account--no subscription and it's a one-time sign-in.",0.7741701602935791,55,True
+962130,73502972,76561198084458940,"Day 1 review
+
+With over 2k hours between ark, conan, rust, 7days, etc - all the big survival games this is comparable to. I believe I'm well placed to place an accurate review. 
+
+Pixar-esc graphics, childish character models, and cheesy dialogue seems to be a strange design choice in a game which is as truly terrifying as this. This differs to its competitors by having no PVP I'm aware of at this stage, but it's the only game I can recall that made me scream out loud. If your arachniphobic (and an adult) just roll with the game as it's designed, even with its seemingly childish art style it is genuinely terrifying, and full of flavour, and after 10 mins the design manages to walk the fine line and come across as rather endearing. I hope the story gets expanded on quickly as 30-60 mins of content actually got me invested which is impressive in a game like this. But as with all survival games, the main content is in just that, survival.
+
+I can honestly say this seems more polished than any of its main competitors after years of development on day one of its EA. I encountered no glitches (hundreds of bugs but of a different kind) and had a seamless 10hour first experience, couldent stop myself playing.",0.8239341974258423,134,True
+962130,154348914,76561198170101055,"You ever go in an ant hole thinking you're safe because there's no possible way anything bigger can fit through said hole just for a giant wolf spider to jump into your screen fueling your arachnophobia to a point where you can't even think or speak? ...Do you want to?
+
+Based on a true story",0.8233717679977417,88,True
+962130,174329271,76561198343221659,"This game is fantastic and charming, it just takes a bit of an investment of effort and time to really get going. I played with my partner and we really struggled the first 10 hours or so because its so easy to get ganked by a crew of spiders and spend 10 or 15 frustrating minutes trying to get our stuff back. The difficulty scaling is designed to make the game very challenging. We started on medium and then switched to easy and had a significantly better time because it got to a stage where we couldn't travel somewhere without having a death-defying encounter. So I'd strongly recommend a ''mild"" difficulty playthrough despite the harm to your ego. The crafting and exploring is fantastic, super satisfying. You could definitely spend less time or far more time than I took to complete the game (around 50 hours). Overall 7/10 great with other people, expect to play a horror game in some sections",0.7732993364334106,34,True
+962130,73513343,76561198066092226,"I have to write this review for all those bad reviews that are not true. 
+
+Firstly anyone who says they completed the story is lying. The first initial quest does take maybe 30 mins if you focus on it but that is NOT the complete story and just the tutorial. You have to collect better resources and kill stronger bugs to be able to unlock more areas where you will find more quests and learn more about the story. This all requires better tier tools that requires time to get.
+
+Secondly those who are saying multiplayer does not work is also lying. Currently there is no way to join other servers but you can join your friends who host a multiplayer game. You must do this through Xbox friend list which is free to make an account and join them that way. This Is not ideal and with time I see it being fixed however being an early access we are lucky we have multiplayer. Also note there is in game voice chat which again is lucky to have for a early access game. 
+
+If either of those reasons are holding you back from getting the game, don't let it. There is a lot of game play for being a early access game. I have 7 hours on the game and have yet to scratch the surface it seems with so many hidden quests and mysterious doors that you need to find a way to open. Also remember this is a early access game so the game will not run as a full released game and there will be more content added guaranteed. If you can get a couple of friends to play the game with you then it will be even better and much more enjoyable.",0.821182370185852,152,True
+962130,73699433,76561198016585254,"First off I wouldn't think this would be a game I would like but I was sure wrong about that
+
+Amazing Graphics
+Amazing Gameplay
+Amazing Base building
+Amazing Combat
+Amazing jump scare by a Wolf spider 10/10
+
+Can see this game being a huge success if it carry's on going in the same direction",0.8205459713935852,70,True
+962130,170659339,76561198199387810,"Grounded is one of the better survival experiences I've had over the years. I initially played the game in it's early preview stages when a lot was broken. And I still enjoyed the experience albeit it being less than stellar from a quality of life perspective. 
+
+Having completed all achievements on the game I want to break down why I recommend the game and the good and the bad.
+
+The Good: The map design in Grounded is immaculate. So many survival games lean on auto generation and while that works amazingly for games like Terraria with a lot of games it can feel stale. Or resources can spawn in the most inaccessible seemingly broken areas. Grounded's map is hand crafted and you can feel the love and care put into it. From the Sandbox to the Termite Mound every area feels unique and contains some new resource or enemy for the player to experience. The progression loop is satisfying and snappy and the amount of grinding needed to get new armor sets is relatively small in the grand scheme. The combat systems are simple but fun with mastering the parry being a highlight for me. Enemy combos are short and learning them is not overly challenging but still gives a sense of mastery. 
+
+I would give the game prior to the optional content and post-game material an 8.5/10 in it's current form. While I did experience technical issues and multiplayer connection problems while playing it was infrequent enough to not be too upsetting. 
+
+The Bad: The usefulness of enemy drops is extremely questionable. Outside of their directly associated weapons and armor there is little to no use in killing bugs at a certain point. For example the Fire Ants. Their parts are hardly used in anything outside of the club, armor, and shield associated with them. Why are there not more weapons and ones that require a mish mash of bug parts? It feels useless even hoarding materials sometimes. 
+
+The Infected Broodmother is just not fun to fight in her current state. She has so much health that it feels rather boring in phase 1 and 2 and in phase 3 she becomes so fast that all those parry skills the game trained into you feel less useful than they should be (though I did manage to parry almost everything). The amount of debuffs she stacks combined with how small her arena is make this fight very tedious and a test of consistency more than skill. 
+
+Finally new game plus is horrendously unbalanced. There is no way to increase your defense above what you had in the base game so enemies will punish you harder than ever for missing parries. Which would not be as painful if it wasn't for every other enemy having explosive damage due to being infused. Which cannot be parried or easily avoided. It's a massive grind and frankly not fun to play. 
+
+Conclusion: For all my issues with the post-game and especially the Infected Broodmother I still find Grounded to be an enjoyable survival experience that I would highly recommend. It's super fun with friends and it's hard to say I didn't enjoy the majority of my time with it.",0.7689103484153748,37,True
+962130,222114181,76561198065829131,"This game went from great to shit, when they removed dedicated servers...
+
+You've ruined a game I loved when you removed this feature... I'm making a stink about this, because I use to run a server with friends... and now none of us can play together... due to issues bouncing between unstable connections, with the host... and port forwarding, and a laundry list that lead to dropping it from the diet. It makes no sense that you had this option... and removed it. Either its a money grab like Minecraft Realms or pure laziness... either... I'm pissed off that I am unable to enjoy this game with friends due to being unable to have a server host and handle the net and system resource demands it requires. When you bring back servers... I'll remove this review... as for Grounded 2. Won't play until the same option is there as well... side note, it feels personal for me as I truly loved hosting a running a server for this game.",0.7684743404388428,160,False
+962130,226000134,76561198983185189,"its getting more and more obvious, i can deny it no longer, i am small",0.7678272128105164,34,True
+962130,116324288,76561198207986369,"---{ Graphics }---
+☐ You forget what reality is
+☑ Beautiful
+☐ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{ Gameplay }---
+☐ Very good
+☑ Good
+☐ It's just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ Audio }---
+☐ Eargasm
+☐ Very good
+☑ Good
+☐ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{ Audience }---
+☐ Kids
+☑ Teens
+☑ Adults
+☐ Grandma
+
+---{ PC Requirements }---
+☐ Check if you can run paint
+☐ Potato
+☑ Decent
+☐ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{ Difficulty }---
+☐ Just press 'W'
+☑ Easy
+☐ Easy to learn / Hard to master
+☐ Significant brain usage
+☐ Difficult
+☐ Dark Souls
+
+---{ Grind }---
+☐ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☐ Isn't necessary to progress
+☑ Average grind level
+☐ Too much grind
+☐ You'll need a second life for grinding
+
+---{ Story }---
+☐ No Story
+☑ Some lore
+☐ Average
+☐ Good
+☐ Lovely
+☐ It'll replace your life
+
+---{ Game Time }---
+☐ Long enough for a cup of coffee
+☐ Short
+☐ Average
+☑ Long
+☐ To infinity and beyond
+
+---{ Price }---
+☐ It's free!
+☐ Worth the price
+☑ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{ Bugs }---
+☐ Never heard of
+☑ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{ ? / 10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☐ 7
+☑ 8
+☐ 9
+☐ 10",0.8665040731430054,264,True
+962130,134856113,76561198003518140,"I have had my eye on this one since it came out last Autumn but something else always ended up getting my cash first.  Maybe I thought it looked over playful and not serious, but I doubt that was it because I play enough games that really ride the fence in that regard, (looking at you JRPGs in general),
+
+I like open world, survival, base building games.  I own pretty much everyone that I can get my hands on.  So this sale I decided to grab Grounded finally.   After a bit over four hours in, I can say that so far the game has been far more of a blast that I thought it would be.
+
+While I had seen Honey, I shrunk the kids in my late teen years I wasn't a huge fan.  Pretty much the same reason it is best not to discuss superheroes like Antman or The Atom with me, scientifically speaking there are just so many thinks wrong with the premise that I find it hard to pause my mind and just enjoy with the escapism for a bit.   I know we are just talking science-fiction movies and in this case a game, but I wanted to explain another reason that I held off play for such a while playing.   Yes I am not a lot of fun about ten minutes after watching a film once I start breaking down why this or that would not be possible.  That's just who I am.  Let's put that aside for the purposes of this review.
+
+First off as usual I like to give the stats of the machine i played on, an i5-7400 @ 3Ghz, 16 GB RAM, SSD, GeForce 1060 GTX.  So lower end rig these days.  Still capable of playing the latest games, but not without compromises in a lot of cases.   I ran pretty much middle of the road graphics wise and do not think I ever dipped below 60 frames per second at 1080p.  I am old and don't care for resolutions over 1080p, when you grew up on monochrome monitors then CGA for a while, you don't fuss too much on trying to get over 60FPS at 4k or such.  Well at least this grey haired man doesn't.
+
+So for the game, and why I mentioned Honey, I Shrunk The Kids.  Without spoilers (I haven't gotten far enough to spoil anything the Steam page doesn't already clue you in on), you and if you are playing co-op up to three friends mysteriously crawl out of  a briefcase to learn that you are in a strange environment.  Quickly you figure you said environment appears to be the a suburban backyard.  Within a short period of time you find a mysterious base that will start allowing you to unlock clues, crafting recipes and missions. 
+
+You can wonder on your own, but the further you get away from the mysterious base the bigger the threats.  Just to name a few I ran into when I got a distance but not long distance from the base camp were Banana Spiders, Stink Bugs, and various other mutated bugs.  Along the way you find various landmarks to help navigate by such as a tictac like mint box, a baseball, etc.   There are a few other things I have already came across that dive into the mystery of what has happened to you and who is behind it, which you originally find in the form or cassette tapes.  Much like Honey, I Shrunk The Kids, the game is set around turn of the decade between 80-90 so tapes were still very much a thing.
+
+Pros:
+         * The game is very addictive, 4 hours flew by before I knew it.  You don't level by killing things directly, but occasionally something you kill or find, or find you will be able to analyze back at the base and it will reward you X number of IQ or Brain Points (or something similar, I can't quite recall).  Along the way, some items will unlock new recipes while others just unlock higher IQ which roughly translates to a higher level.
+         * The game has a great day and night cycle.  Night cycles can get somewhat unnerving even more so if you are caught out without a torch in an unknown area and start hearing strange new sounds all around you.
+         * To quote Starship Troopers you will start to feel that the only bug is a dead bug.  There are some that are harmless but the majority would as soon as eat you as not.
+         * While I don't get the feeling the overall map is very huge, the cramped environment of the grass and such makes it feel far larger as it is easy to get turned around and lost, even more so if you don't setup markers to go by.
+         * There is gear to unlock both in amour and weapons, you want to do such when you can.  Also while at first you may not think a base is really needed, you will quickly learn that there is a reason this is a base building game.
+        * It might take you a bit to figure out water source, but once you do you will be like, duh.   And while I may have not unlocked some crafting to make it simpler it's an easy source once you figure it out.  Not going to spoil it here.
+
+ Cons: 
+         * Because it is open world, it is very easy to go in a direction and get your booty handed quickly too you.
+         * Even near the base camp there are certain places that you can end up depending on the time of the day that you can easily be out numbered.  If you play co-op this might not be nearly as bad.
+        
+All in all I am giving this game a high thumbs up.  I will come back and re-review later on but I also like to do an early impression review and this is one game that deserves thumbs up.",0.7664319276809692,65,True
+962130,73429915,76561198044287892,"Great fun so far with friends, played smoothly with 3 other people, 2 on xbox 1 on pc and had no issues until it crashed and now we're having trouble getting back in together. Despite this it seems like a fantastic co-op game and people are over reacting as usual in the reviews. 
+
+UPDATE: 
+
+After some initial trouble rejoining each other, me and my friends had a good 5 hour session with no issues. Base building, fighting bugs, exploring etc. Seems like a great little game so far and very excited to keep finding new things! 
+
+Although the current story isn't long at all, which did surprise us, there is still plenty to discover, long after you get to the current story ""end"" and you can really tell how good the story will be once more has been added. 
+
+- Would highly recommend for people looking to have co-op fun. Still imagine it would be enjoyable in single player but definitely better with friends at least from my experience.
+
+p.s it looks amazing too.",0.9135223031044006,397,True
+962130,193513484,76561198142043257,"This is a high quality survival base building game. I've played basically every game in the genre, and the thing I was most impressed with in Grounded is the polish. This game feels complete, with very few technical errors. After playing games like Ark and Conan, it's a breath of fresh air to have a game that works fully. In early access they followed an update schedule and stuck to it, and delivered way beyond what they needed to. I would absolutely play Grounded 2, or any other survival game they develop.
+
+Things I liked the most:
+>Great exploration, the map is really unique and looks very neat from the small perspective.
+>Missions and story line to keep you exploring new areas and unlocking new things.
+>Good to great base building, not very many crazy shapes or anything, but you can do a lot with what is provided.
+>Different biomes keep game play fresh.
+>Combat is medium difficulty. Figure out perfect blocks and you are good to go.
+>Tons of really neat spots to build bases, you'll want to build everywhere!
+
+Overall, I think this game is 100% worth the full price. I've played through 3 times now, and I'll probably play again in a few years! 
+",0.7628262042999268,35,True
+962130,135977317,76561198028963746,"I would recommend if the game didn't rely on MS XBox sign-on for multiplayer. That kills it on Steam Deck, which is where I need to play multiplayer. Single Player is limited entertainment. I bought to play with my daughter.",0.7607914209365845,303,False
+962130,145244244,76561198288320285,"Words aren't enough to describe how I feel about this game but I'll try. Definitely one of, if not, the best survival game I have ever played. Fantastic progression and surprisingly fun combat for how simple it is. Building can be a bit tedious but it's well worth it. The world is beautiful to look at, has lots of charm and for a game with a lot of literal bugs, there aren't actually that many technical issues (at least not any I've encountered 200 hours in). 10/10",0.7604277729988098,37,True
+962130,107744290,76561198050545849,"I've really enjoyed this game, it's really good. The animation is beautiful, even the bug and spiders. I'm an arachnophobe and the spiders are so well done they scare the crap out of me. I have run from my computer when they've snuck up on me.",0.7600588202476501,42,True
+962130,73427265,76561198154084702,"Alright, After going through the full tutorial of learning the controls of the Game. I will say this is like Ark...but its Microsoft's touch on it with a ""Honey, I shrunk the kids"" movie theme. REALLY pretty game, but it will feel stiff every now on then on gameplay. To put it this way, the survival reminds me of ark (collect resources, everything has physics, raw/cooked (bug)meat can spoil, etc.). The map, Which is a backyard, looks great, it may feel small at first but considering its open world with physics, you can actually parkour from grass tip to tip (warning, flies are annoying bastards). So uh...before i like start like going ""I RECOMMEND THIS GAME!"", please be noted this IS ON EARLY ACCESS, expect updates. 2ND THING, spiders...there's a legit personal option on how goofy/terrifying a spider can look from your perspective in game, cause you know arachnophobia is NO JOKE. Last thing, I have not personally touched on the Multiplayer aspect of the game, its a microsoft game...which means you need a microsoft account to gain access to it. (plus I don't have any friends I know of that be willing to make a microsoft account to try it out with me anyways T3T)",0.8091394305229187,373,True
+962130,176140906,76561197965380574,"You didn't lose your save files!
+Option -> Game -> Enable crossplay.
+""Oh it works! Thank you so much!!!!""
+Read the update next time and stop giving negative reviews right away.",0.8087108135223389,76,True
+962130,127223590,76561197990267662,Beautiful and innovative survival game with good exploration and building elements. Story goals make you explore different environments and open new features in a rewarding manner. Only down side is that usually there is a very specific solution to story missions and unless you find it the challenge curve seems to hit a wall.,0.7584388852119446,28,True

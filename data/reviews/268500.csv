@@ -1,0 +1,1393 @@
+appid,recommendationid,author_id,review,weighted_vote_score,votes_up,voted_up
+268500,109994131,76561198083231820,"This game is amazing and improves upon Xcom enemy Unknown in every way however a word of caution:
+DONT USE THE SHITTY 2K LAUNCHER it breaks all the time it sucks instead go into the games local files D:\SteamLibrary\steamapps\common\XCOM 2\Binaries\Win64\Launcher (this is my example yourss may be in a different directory) but go to the launcher folder in Win64 and make a shortcut of the launcher, put it on your desktop right click and then go into properties under the target section go past \ModLauncherWPF.exe"" put in a space then after that type -noRedScreens -review
+
+should look like this \ModLauncherWPF.exe"" -noRedScreens -review
+
+launch the game from this shortcut and enjoy it how it should be.",0.962052583694458,555,True
+268500,102528740,76561197997246328,"The game is good, but all of a sudden the obligatory 2K launcher had stopped recognizing that I owned the game. Same happened to a lot of people who posted before me, I could only see the ""buy"" option instead of ""play"" and added this review to attract attention to the problem.
+This issue was resolved in one or two days.
+However, unlike other people, I will not change the review to positive as long as 2K launcher is there at all. When the game was sold, it launched directly from Steam, and only later was the 2K launcher added on top of it. So it was not part of the deal, and this situation shows that it is a risk factor. Therefore, I cannot take it upon myself to recommend buying this game on Steam as long as that risk is there.
+(edited to reflect the fact that the original issue was fixed)",0.9386681318283081,504,False
+268500,109025796,76561198082772409,"Thumbs down, the inclusion of an awful always-online launcher just so they can gather data on users and advertise other games is extremely unsatisfactory. I should not have to install that crap to play the game I purchased, which at the time did not have this type of launcher. This sucks, I will not be buying more games from 2K",0.9181393384933472,957,False
+268500,100867762,76561197983304579,"2K's new launcher disables modding, which is supported by Steam Workshop, entirely. They refuse to listen to community feedback and are blocking reviews that point this using by abusing Steam's terrible anti-review bomb system. I loved this game so much, and mods made it perfect. The vanilla game is boring and has many glaring personal taste issues that I can't overlook, but I USED TO be able to fix with mods.
+
+I won't be changing my review until 2K listens to the community and fixes the mod support.",0.9179320931434631,318,False
+268500,221772195,76561198165288163,"I adore this game, flaws and all, but the EULA is straight-up spyware. Access to device IDs and activity on all devices linked to the same wifi as the device running the game???
+
+The EULA is disgusting, and by itself disqualifies the morality of getting this game in ways that don't force you to sign; if you catch my drift. 
+
+If they get rid of the literal spyware (Because, seriously, you're already getting my money with sales. Why the **** would I let you profit off of me indefinitely by selling my info just for the pleasure of playing your game??) then this game is absolutely fantastic. There's just no other game with this incredible mix of 4x and tactical sci-fi combat.",0.9092006087303162,217,False
+268500,93780306,76561198102543144,"This is an amazing game, but one I cannot recommend on its current state, as of June 2021. 
+
+Basically, the publisher made a client, it forces you to launch the game through their client, and said client CRASHES when you have a heavily modded setup like I used to. 244 hours invested into the game, and 2k decided to remove my ability to enjoy their product based on greed. Their client has LESS functionality than community-coded solutions (like the AML XCom launcher) and made the game unplayable for me.
+
+2021. This game is 5 years old. I used to play it on a daily basis. And now I can't because some dumb-ass greedy executive decided it would be neat to force another middleman launcher buggy as all hell.
+
+If it is not broken ffs don't fix it.",0.9077601432800293,259,False
+268500,85949571,76561198020574642,"After 4400 hours, I finally feel qualified to render an opinion:
+
+I like XCOM 2!
+
+(particularly Ironman/Commander/Beta Strike with WoTC installed)",0.9063153266906738,415,True
+268500,93907834,76561197961800671,"For WotC:
+Select Games > Add a Non-Steam Game to My Library... Choose the new binary, e.g.: C:\Program Files\Steam\steamapps\common\XCOM 2\XCom2-WarOfTheChosen\Binaries\Win64\XCom2.exe
+
+Right click the new Xcom2 entry, select Properties... and add LAUNCH OPTIONS: -NoRedScreens -Review
+
+[Profit] Bypasses the launcher and is still recognised as running by Steam, so achievements are good.
+
+
+[Base game] Bypass the crappy 2K launcher (modified Civ forums post):
+
+1. In your Steam library, right-click on XCOM 2
+2. On the context menu, select Properties
+3. In the Launch Options box add the following with the right custom path for you (keep the speech marks and %command%):
+""C:\Program Files\Steam\steamapps\common\XCOM 2\Binaries\Win64\XCom2.exe"" %command%",0.9507834315299988,334,True
+268500,32214556,76561198000216949,"Play it normally, beat it. 
+
+Take a break, play witcher 3 or something for a while.
+
+Come back, install Long War 2 mod, fall in love again.",0.8986243009567261,2285,True
+268500,84215267,76561198056623147,"XCOM 2 is the supreme turn-based tactical role-playing game, and deservedly so. It is graphically perfect, story-rich, full of entertaining, believable characters, and is emotionally captivating. It is also one of the hardest games I’ve played. The developer, Firaxis, excelled at creating the ultimate challenge but made some inexplicable decisions that detract from the game and turn enjoyment into frustration, even for experienced game players. Despite this, it is possible to win the game. I have included some hints below:
+Play as a ‘Rookie’ first time through – you will fail at the ‘Veteran’ level
+Do not lose soldiers – extra skills and health are gained with promotions that come from killing multiple aliens over several missions. Your soldiers must survive
+Improve weapons before armour – a dead alien can’t do any damage
+Manage resources carefully – in the early stages, you need to do everything at once but have limited resources. Choose carefully
+Choose Engineers over Scientists – Engineers are essential to progress, whereas scientific research goes faster than you can cope with 
+Build a Workshop in a central location to get four Staffing Gremlins (net +2 engineers)
+Build a ‘Guerrilla Tactics School’ as soon as possible - increase the number of soldiers in your squad from four to five, and eventually six
+Reduce recovery time with an ‘Advanced Warfare Centre’ when you can
+Rangers are winners – Rangers do twice as much damage as everyone but Sharpshooters. You need multiple experienced Rangers
+Focus Specialist soldiers on healing – a properly equipped Specialist is needed on every mission; the higher the rank, the better
+Use Psionic soldiers – build a Psi Lab when you can, as Psi operatives have uniquely powerful capabilities
+Place Sharpshooters on elevated ground to get an accuracy boost
+Mechanical fighters are optional – Sparks are strong but vulnerable, fun but unnecessary. Grenadiers with armour shredding are more versatile
+A grapple is surprisingly useful, especially for Rangers, to increase their range
+Mindshields are essential for every soldier, especially in the early stages
+Hold off weapon modifications – more powerful weapons become available later, and enhancements cannot be swapped over
+Break new ground with the first squad member – breaking new ground when no soldier has any moves left is a total disaster
+Deal with a group of enemies before moving forward and encountering another group
+Save at every mission start – if things go badly, you need to replay the mission. Autosaves get overwritten
+Save regularly – the randomness of accuracy, critical hits and dodging can be partially overcome by trying a risky manoeuvre, and if it fails, reloading the game and doing something different
+Don’t let the Avatar Project red dots fill completely, as this ends the game
+Good luck, and try not to stress out.",0.897594153881073,183,True
+268500,143238703,76561198215389911,"Aftermarket proprietary 2K launcher added after-sale, disrupts performance and killed some of the best mods in the workshop. Developers felt the need to add this just to verify their jobs as legit, despite it adding nothing to the game, and actually screw ing the customer.",0.8968778848648071,179,False
+268500,109987636,76561197973407154,They force you onto a different launcher made by 2k... IT BREAKS ALL UR MODS and is 10000% unnecessary,0.8921560645103455,297,False
+268500,91096682,76561198156448814,"Work around for the launcher (Don't tell 2K)
+
+[b]1) [/b]Go to your steam Local Files
+
+[b]2) [/b]Head here:   C:\Program Files (x86)\Steam\steamapps\common\XCOM 2\Binaries\Win64\Launcher
+
+[b]3) [/b]Create a Shortcut of ModLauncherWPF.exe
+
+[b]4) [/b]Go to the ""Add a game"" menu in the Bottom left & Select ""Add Non-Steam Game""
+
+[b]5) [/b]Navigate to the Location above, Select the shortcut.
+
+[b]6) [/b]Then click it on the ""Add a game"" Browser. [/b]
+
+You should now be able to directly launch the old launcher from Steam.
+
+_________________________________________________________________
+
+When installing mods you may encounter [i] Red Screen errors [/i] These can be fixed by adding theses lines to [b]advance Launch Options [/b] On ModLauncherWPF:
+
+-allowconsole -noredscreens -review 
+
+Should help.",0.9420856237411499,197,True
+268500,32699273,76561198010933253,"       So this game is quite an interesting one. I played and attempted it several times since I own and love X-Com Enemy Within. It bested me each time and left me in quite a seething rage at points. I decided to give it another go with the War of The Chosen expansion coming and I have to say that this game did finally win me over. This game can be brutally hard to you. It really expects you to take your time and think about your moves for the first half of the game. You get a little more leeway once you get to the second half and you have some vetern soldiers and their abilities. Let me address the most controversial topic first, the mission timers. 
+
+       Coming from EW I hated them and it felt like they were everywhere. Having finally beaten the game I can say that it's roughly 50% of the missions are timed and I really came to enjoy them. They change up the primary tactic of move, overwatch and they make sense thematically.  I only lost one mission with them and that was my fault of not planning properly. There are mods on the workshop that alter them but I think you should give them a go as the developers intended first. They create a great sense of tension and you really have to evaluate your moves each turn. I love optimizing stuff and this really became great fun once I got the hang of them. Just expect to lose a few times while you learn how those missions play out.
+
+       For those of you new to the Xcom series just know that these games run a reverse difficulty curve, they are hard in the beginning and get easier as the game progresses. Most the difficulty also comes from not knowing really where to begin. The game does not do a great job of making things clear to you. I did have to watch some videos and do some reading to really get a good grasp of the game. Also it doesn't make it clear what negative effects come from not attempting missions. I got a mission for a supply raid which I didn't attempt and the aliens ended up recapturing that territory. I didn't expect that and it wasn't communicated to me that that would be the result. The game likes to omit other valuable tacital data as well so I highly recommend the following mods:
+
+Stop Wasting My Time
+Show Health Values
+Patrol When Revealed
+Perfect Information
+Gotcha
+
+They save time in game but reducing certain animations and they really help you make informed moves each turn. I feel like Gotcha is a must have and something the developers should've included in the game to begin with. I'd also recommend some the communties mod map packs so you avoid getting 'familiar' maps. I also personally like It's Just A Scratch just because I think armor should actually protect you not just increase your health.
+
+          This game ran smooth as butter the entire time with a couple of exceptions. When I destroyed lots of objects all at once and a couple times in the final mission. Otherwise I got a steady 60 fps and load times were between 5-30 seconds. It does have some minor bugs. The most frequent one I would get is where I would click on an ability and the character would instantly do it. Very annoying when I needed my last grenade for something useful. Also sometimes the character models can get inside of each other. Visually jarring but the game still treats them as being on seperate squares so not game breaking.
+
+          Would I recommend you buy it? Absolutely, so long as you are ok losing a few times to learn the game. It's a fantastic strategy game and one of my personal favorites. What really got me with this game was how truly fair it actually did seem. Even in the face of overwhelming odds, smart tactical play saved me many times and it felt very rewarding. Honestly this game reminds me of dark souls a lot. It isn't just about the stats of your in game characters, it's about the knowledge you gain as well. I hope to see you out there Commander.",0.9394295811653137,235,True
+268500,32665909,76561198027583066,"A sequel to the amazing XCOM: Enemy Unknown. XCOM 2 expands on it's predecesor in nearly every fashion. Strategy is deeper, the customization is deeper, and the layers of story that you build with your squad is as great as well have come to expect from the series. 
+
+One of the biggest complaints that I hear are the mission timers. Thankfully, the developers at Firaxis have intergrated their own mod tools into the game to support modding, something the last game lacked. With these mods, you can disable those pesky timers, add customization options, or take yourself for a ride in the thrilling Long War 2",0.9342878460884094,433,True
+268500,194188882,76561198072542853,"Xcom 2 story continues after Xcom 1,  and it offers one the best experience as turn-based tactical games.  Commander difficulty and above are challenging even for experienced players, especially on Ironman.  There are a lot of replay value and very fun to try different team combinations.   
+
+The achievements requires 4-5 runs to complete.  The most difficult one in my opinion is the Ironman Commander+ achievement.  Legendary difficulty,  Speedruns Commander+ and Ironman Commander+ runs are better to be in separate runs to avoid unnecessary stress.  Every run takes about 20-50 hours. 
+
+DLCs are essential for the full experience as the WOTC expansion add quite a lot of contents.  Gold medals in legacy operations are more obtainable on the nightmare difficulty.  WOTC and legacy operations DLCs are required for all achievements.
+
+Special thanks to Robin again for helping with the multiplayer achievement.  The multiplayer achievement is still obtainable today using the beta version and Robin has a guide on this.
+
+The base game can freeze or crash at times.  Enable the ZIP mode helps to reduce the issue but won't eliminate it.  When playing with WOTC DLC, I never encountered similar issues. 
+
+The game is not recommended on Steam deck.  It draws battery and burns the deck even on the lowest graphic setting.  The freeze and crash happens as well.   
+",0.8840242028236389,92,True
+268500,41821838,76561197961062455,"So, if you read the negative reviews before you read the positive reviews, or if you are considering reading the negative reviews before you buy, I have the following thing to tell you (because there are a lot of whining people in the negative reviews):
+
+- If you can't handle bad luck, don't play this game.
+- If you don't think about positioning in strategy games, don't play this game.
+- If you don't like taking risks, don't play this game.
+- If you don't care about your soldiers, don't play this game.
+- Half-cover isn't cover.
+- 90% isn't 100%. 99% isn't 100%. RNG is king.
+
+You LOST in Enemy Unknown, what makes you think XCOM2 will be easy? 
+
+BUT!
+- Almost all bad luck can be countered by good strategic positioning. Or simply pulling back. It is simply a mission, it's not a battle, and certainly not the war.
+- You have to take risks when the clock is ticking.
+- Care about your soldiers, make them yours, and suddenly they will conquer all.
+- Half-cover still isn't cover. But a flanked enemy is even better.
+- RNG is still king, and in times of need, 40% might be 100%.
+
+We trust in you commander.",0.8839091658592224,478,True
+268500,120680219,76561198080353387,"The game is great. Let me make this very clear, The GAME is GREAT!
+The problem is, someone felt the need to require the 2k launcher, which is buggy, and annoying.
+Why would I EVER want to be required to use some other launcher for the game?!??!!
+If a game has its own launcher, think fallout, its got options and file managers etc, that's fine. (WHICH THIS GAME HAD THAT PRIOR TO THIS CHANGE) The 2k launcher, is that but worse in every possible way.  Incredibly annoying to use.
+I cannot fathom the reason for this change, the game worked just fine. This did not add anything, this did not improve the experience. It made it worse.",0.878156840801239,114,False
+268500,196502989,76561198327754859,"Take-Two and 2K games have updated all their games Terms of Service, turning this game as well as all of their other games into literal spyware.
+
+Collected Data Types:
+• Identifiers / Contact Information: Name, user name, gamertag, postal and email address, phone number, unique IDs, mobile device ID, platform ID, gaming service ID, advertising ID (IDFA, Android ID) and IP address
+• Protected Characteristics: Age and gender
+• Commercial Information: Purchase and usage history and preferences, including gameplay information
+• Billing Information: Payment information (credit / debit card information) and shipping address
+• Internet / Electronic Activity: Web / app browsing and gameplay information related to the Services; information about your online interaction(s) with the Services or our advertising; and details about the games and platforms you use and other information related to installed applications
+• Device and Usage Data: Device type, software and hardware details, language settings, browser type and version, operating system, and information about how users use and interact with the Services (e.g., content viewed, pages visited, clicks, scrolls)
+• Profile Inferences: Inferences made from your information and web activity to help create a personalized profile so we can identify goods and services that may be of interest
+• Audio / Visual Information: Account photos, images, and avatars, audio information via chat features and functionality, and gameplay recordings and video footage (such as when you participate in playtesting)
+• Sensitive Information: Precise location information (if you allow the Services to collect your location), account credentials (user name and password), and contents of communications via chat features and functionality.",0.8741210103034973,296,False
+268500,234265387,76561198149897930,"JOHN XCOM’S LEGENDARY GUIDE
+
+LISTEN UP, MAGGOTS!
+
+John XCOM here. You want 4 soldiers, Legendary difficulty, zero deaths, before July?
+
+Here’s what the game won’t tell you:
+
+Legendary will humble you!
+70% is basically a coin toss. XCOM maths.
+One misclick = funeral. Congratulations, Commander.
+You WILL leave people behind. It's called tactical retirement.
+AP Ammo > Bluescreen. Don't ask questions. Just accept it.
+You are NOT special. That soldier you spent 20 minutes customising? first to be headshot next mission.
+Gatecrasher is the hardest mission. Nothing like losing the campaign before you've even made it to the ship.
+Stun Lancers are annoying. MECs are the actual a55 collectors.
+Never trust the percentages. XCOM has a personal vendetta against mathematics.
+Never dash into unexplored territory. That's not movement. That's pod roulette.
+Flanking sounds great until the flank activates another pod. Congratulations, you've flanked yourself.
+You will spend more time looking for the Skyranger on the overview map than I care to say.
+Turn off the DLC. Nobody has time for the Chosen or Rulers
+Grenades don't miss
+
+
+Central: “Commander, we need to—”
+CENTRAL, I am on my 57th run, SIT DOWN
+
+
+— John XCOM",0.8525452613830566,88,True
+268500,20996631,76561197968514473,"[h1] ""Never was so much owed by so many to so few. This was their finest hour."" [/h1]
+
+XCOM 2 is a turn-based strategy game with emphasis on tactical combat. It represents the eighth entry in the XCOM game series, and has been developed by the company Firaxis Games and published by the company 2K.
+
+[i] Pro & contra: [/i]
+
+++ Campaign playthrough is engaging and provides diversified side quests, with different mission goals and winning conditions. Excellent soundtrack keeps up the mood. Detail put into level design and environmental effects is impressive. Offers very high replayability.
+
+++ The game encourages to recruit and build a highly specialised army, and the mechanics put in place for doing so are sophisticated. Base building and economics add another layer of challenge to the game. 
+
++ The narrative is well-delivered, with an even pace and solid character development. The player is likely to develop emotional attachment to some of the soldiers, increasing the immersion into the game. 
+
+o Steep learning curve may deter casual gamers. In comparison with its predecessor the general level of difficulty is higher. For masochistic hardcore gamers the legendary ‘ironman’ mode is available.
+
+o Missions are rng-based (random number generator), which could result in a lot of timed missions or almost no timed missions. [Thanks to Athena for mentioning this point.]
+
+- Quite a few bugs and glitches, ranging from minor clipping issues to opponents shooting through obstacles. [Thanks to Volvox Globator for highlighting these points.]
+
+- Occasional in-game slowdowns during certain events, e.g. pause between rounds, or calculation of burning effects. No optimization for 4K resolution causing irregular fps drops.
+
+[i] Summary: [/i]
+
+XCOM 2 offers a superb strategy experience, which manages to improve the original XCOM formula on every level.
+
+[i] Achievements: [/i]
+
+Estimated time for 100% completion: +250 hours
+
+Singleplayer achievements: 87
+Multiplayer achievements: 1",0.8407120704650879,433,True
+268500,173576566,76561198813544562,"If you're playing XCOM 2 without the DLC, which is still an excellent game with a great story, I recommend installing these mods which greatly improve the Quality of Life, sometimes importing features present in the DLC.
+
+[list]
+
+    [*]No Rank Up Throttling: Removes the limit that prevents soldiers from ranking up multiple times after a single mission, even though they earned enough Kills / XP.
+
+    [*]Show Enemies on Mission Planning: This mod shows the enemy types and quantity that have been detected by the Shadow Chamber in the Mission Planning screen. It saves you from having to remember it or to go back to the Geo screen to examine the expected enemies. It will only show the information if you have the Shadow Chamber constructed.
+
+    [*]Upgrade Reminder: Adds icons to soldiers in the squad loadout screen if there are available weapon or PCS upgrades and that soldier has available slots for these items. I am a bear of very little brain and usually forget to actually use the stuff I find on missions. If you do too, this might be for you.
+
+    [*]ShowMeTheSkills: Shows soldiers perks in the squad selection menu, no more hide and seek to find that one grenadier whom AWC gave serial AND phantom. Also capable of displaying your soldier stat on the same screen without clutering the U.I too bad.
+
+    [*]Free Camera Rotation:  Enables free camera rotation.
+
+    [*]Rogue Class Mod + Long War SMG Pack: Inspired by the Scout from Long War and a new Ghost archetype, previously unseen in XCom.
+
+    [*]All Soldiers Gain XP: This mod gives soldiers in the barracks a small amount of XP after each mission.
+
+    [*]More Maps Pack [Non WOTC]: This mod adds new level plots, parcels and pcp's to the map pool for greater variation in level layouts!
+
+    [*]Stop Wasting My Time: Speeds up the game by removing pointless pauses and other time-wasters. All changes are purely cosmetic.
+
+    [*]Gotcha (Flank Preview Evolved): Gotcha expands on XCOM 2's Line Of Sight indicator, adding the ability to anticipate if a move will flank an enemy, if they are visible through squadsight, and when mission objectives will be in view to either hack or shoot at.
+
+    [*]Show Health Values: Shows the value of HP next to the cover icon, no more counting sectopod's HP.
+
+    [*]Overwatch All/Others: Adds the ability to put all/other units with action points on Overwatch.
+
+    [*]Evac All: This mod adds an ""Evac All"" ability to soldier ability bars when they are in an active evac zone. Clicking this button will evac all soldiers currently in the evac zone instead of needing to click the evac button on each individual soldier.
+
+    [*]Long War Leader Pack: This mod adds a development path for XCOM soldiers in the Guerrilla Training School, allowing them to train special perks that benefit the entire squad. But only one leader at a time can go on a mission, so be careful whom you select for the training!
+
+    [*]Blackmarket Usage: Displays possible usage of items on the blackmarket sell screen. No more wondering whether you still need Advent Trooper Corpses.
+
+[/list]",0.8307685852050781,54,True
+268500,200030603,76561198025664125,"I didn't end up playing a lot of X-Com 2 so initially I didn't review it out of fairness.  But I'm giving it a thumbs down in July 2025 because their EULA/TOS changes grant 2K (and associates) access to parts of my PC that are not okay, such as social media history, web browser history, payment and passwords, and more.  These go beyond privacy invasion and the excuse of wanting market data doesn't fly.
+
+So by all means, if the EULA/TOS changes in the future, get and enjoy this game.  But it's effectively a dead product to me until then.",0.8215648531913757,164,False
+268500,156060760,76561198170203261,"Actually spyware, great game but they updated ToS a while back. You can't play the game unless you agree to the *NEW* ToS and the ToS makes you agree to download spyware. Actually buyer beware. Great game, bought it on launch and loved it at the time. BUT STAY FAR FAR AWAY NOW. This is actually scumy and I'm surprised its legal they can do this. They updated ToS years after release and now you just can't play the game unless you agree to it.
+
+(game is going on sale for dirt cheap, reread review cause I fricken love this game and the franchise, but ya no, it still comes bundles with spyware, and open admits data they collect is shared with 3rd parties that may operate in countries that ""may have lower standards of privacy protection"" with 0 details. Seriously this is some of the most invasive spyware I've ever seen come bundled with a game, and its a shame to see that as of 2025 its only gotten worse since I last read the terms and conditions.)",0.8206283450126648,125,False
+268500,195351971,76561198839467017,"Take-Two and 2K games have updated all their games Terms of Service, this extends beyond the Borderlands franchise.
+
+Important Info in Terms of Service:
+• Mods are a bannable offense
+• Display of Cheats/Exploits is bannable
+• Forced arbitration clause and a waiver of class action and jury trial rights for all users residing in the United States and any other territory other than Australia, Switzerland, The United Kingdom, or The Territories of The European Economic Area
+• You can be banned for using a VPN while connecting to online servers
+• Cannot access game content on a Virtual PC
+• Best for last, they reserve the right to modify this Agreement, in whole or in part, at any time
+
+i will be uninstalling this game till take-two changes this BS!",0.868319034576416,400,False
+268500,168951946,76561197981056690,"Do not buy games that make you pay them so that they can steal from you.
+
+""By installing and using the Software, you consent to the information collection and usage terms set forth in this section and Licensor's Privacy Policy, including (where applicable) (i) the transfer of any personal information and other information to Licensor, its affiliates, vendors, and business partners, and to certain other third parties""",0.8147420287132263,211,False
+268500,178335839,76561198043355969,"XCOM 2 with the mod 'Long War of the Chosen' is a grand monolith of a complex of turn-based game, with incredible strategic depth this is a theorycrafters dream. If you've never played before, I recommend jumping straight in with one the below LWOTC collections (on the easiest difficulty) and expect to have your ass handed to you for a few hundred hours in the most entertaining way.
+
+Mod Jam Collection:
+https://steamcommunity.com/sharedfiles/filedetails/?id=2370003018
+The 'Alternative Mod Launcher' is essential:
+https://github.com/X2CommunityCore/xcom2-launcher
+Or you can use the 'Work in Progress' (perfectly stable and balanced) successor to Mod Jam; Ted Jam:
+https://steamcommunity.com/workshop/filedetails/?id=3310020642",0.8130468130111694,52,True
+268500,168657252,76561198340458347,"I absolutely love this game, I accidentally played it for over 100 hours in the first week of getting it. 
+I dream of XCOM every now and then, it is like my brain is roleplaying XCOM levels as I sleep.
+I need help. 
+
+Great game!",0.812531590461731,43,True
+268500,50573165,76561198024676201,"I played Xcom 2 now 1000 hours - so you all know what this means:
+It´s review-time ! ^^
+
+The game changes a lot with the difficulty you choose at the start of the campaign, your choice to enable or disable ironman-mode and the mods you installed.
+
+So I write three shorties to rate the game properly. 
+
+1. Game difficulty Recruit or Veteran
+Only choose Recruit if you never played X-Com before and Veteran if you never played Wotc/Xcom 2 before. This difficulties are very easy and not challenging for players who understood the basic mechanics of the game already.
+
+2. Commander
+Choose this difficulty after you finished one Veteran-run. If you enable ironman-mode, this is exactly the gamestyle I recommend to play: It is challenging but fair. Unfair situations are a rare sight, so mostly only the player mistakes set the path for his downfall. You will fail a few times, but if you build up a deeper understanding of the game mechanics, you will succeed in the end. And it feels really good. 
+
+3. Legendary
+This difficulty seems to be broken for me. Sometimes you made no mistake in the whole mission and still got team wiped. And Xcom 2 have still some bugs. These bugs are no big deal on the first three difficulties. But on Legendary difficulty, which is already designed to be unfair sometimes, every bug is a game changer.
+
+A list of the most annoying bugs:
+a) Line of sight bug - Aliens can sometimes see throw walls and discover your concealed units.
+
+b) Enemy occupies your rescue area with reaction fire or just a marker:
+Normally if an enemy ENTERS your rescue area on a rescue mission, this area should be moved to another location. If an enemy with the marker ability marks one of your soldiers and you enter with this marked unit the rescue area, it also moves. Even if you enter the rescue area with a soldier who got shoot under reaction fire, the area moves.
+
+c) Ice grenade:
+If you use the ice grenade on an enemy, it is frozen for a few turns. If you somehow must use your ice grenade on an ally which is mind controlled, this ally is frozen forever.
+
+-----------------------
+I recommend the game on Commander/Ironman - this is a perfect experience. Only the very late game is easy because in the very end you should be overpowered.
+-----------------------
+
+Top positive aspects:
+1. The presentation:
+This game is wonderfully presented: It is like playing ""Independence Day"" as a six man special footsoldier squad. It is like playing a triple A blockbuster. I love it !
+
+2. The gameplay:
+The 7 different unit classes and options to customise your units give the game much of variety. Also there are lots of different enemys and mission types and modifiers for missions. So even without mods the game has a huge replayability. 
+
+3. The feeling that mankind works together
+What I love most about Xcom and ""Independence Day"" is the feeling, that the whole mankind works together to overcome the alien invasion. Mankind sadly never worked together in real life. Xcom recruits top soldiers from every nation. Skincolor and religion are no criteria for the recruitment.
+
+4. The community and mod support
+The community - and especially the modders - they are awesome ! Great guides, great tutorials and wonderful mods !
+With mods you can play this game at least 1000 hours - like i did <3
+
+Top negative aspects:
+1. The bugs - see above
+
+2. Legendary Ironman feels unfair and is more frustrating than joyful
+
+Summary:
+I bought the game at full prize and every DLC at full price and it was worth every cent. The best single player game I ever played with the most replayability. 
+
+Can´t write anymore, my squad needs his commander !",0.8584921956062317,91,True
+268500,57842452,76561198072586617,"Listen, there are three ways to play this game. Way #1 is to actually behave like a commander of a nearly-defunct resistance force, carefully scrutinizing the strengths and weaknesses of your enemies and creating units whose gear and abilities make them highly specialized for combating specific types of enemy, and thus giving your organization a chance at survival and victory Way #2 is to go full American military on it and get as many soldiers, guns, and gear as possible and brute force the aliens into submission, giving your soldiers the abilities and skills that make them as heavy damage dealing as possible.
+
+Then there's way #3, the way I play, in which you're a blend of middle manager and dad. Every class of soldier can get subdivided into two general roles, denoted by colour-coded armor—and no, those roles don't always align with the dichotomy of the ability paths—which you begin associating with the soldiers, especially if you save their appearances for later games. When your soldiers are high enough rank to get nicknames, you give them a nickname based on what they do in their next mission, thereby giving them an identity and personality in your head beyond just their code. You start making headcanons of which soldiers get along with which others, why they got involved in this sort of thing, and so on. Eventually, you start cheering for them, berating them when they screw up, and being actively impressed when they pull off risky maneuvers. In short: you invest emotionally in your soldiers, and play the game in such a way to bring out their perceived talents. And boy howdy are you happy when you start a new game and a familiar face appears in the recruitment window.
+
+Could I tell you about gameplay? Story? Sure, I could, but I personally find that the replay value of this game comes down to the memories you have of this soldier or that one doing something incredible. So if you like turn-based strategy, sci-fi, and unit management, you'll find this game to be a timesink. If not, but you still love to micromanage a cast of characters, you'll probably still get a kick out of this. Bottom line: game good.",0.8571006059646606,105,True
+268500,159414294,76561198030169081,99% chance of success has never felt so low until you play this game,0.902030885219574,111,True
+268500,169481181,76561198006013734,"They removed the multiplayer and added a data-collecting launcher that does nothing but spy on you. It's like they actually want people to pirate the game. You can get it for free, AND you aren't forced to install spyware.
+*This is not an endorsement of piracy.* :)",0.7983226180076599,96,False
+268500,21028726,76561198042872946,"Aside from optimization issues at launch (then again who doesn't these days?), this game is fantastic.
+
+The difficulty is hitting alot of XCOM players in the face, and there seems to be negativity regarding the turn limits. People saying it limits decision making, or forces run and gun. It doesn't. What it does do is remove the old ""victory through overwatch"" strategy that was so popular (read: OP) in XCOM EU & EW. Yeah, I did it too. Did a run through right before XCOM 2 came out and only lost one soldier. Because I decided to (lazy/didn't care at that point). No challenge at all if you really took your time and especially if had two snipers. Given that this is a guerilla operation in XCOM 2, it is true that your team simply does not have all the time in the world. This does not limit options one bit, rather it punishes mistakes brutally. You do NOT have an extra four turns to screw around on the wrong end of the map ""cleaning up"" safely. You have to be accomplishing something at all times. You end up having to put people in harm's way, and make decisions that are based on the situation at hand as opposed to being able to armchair general your way through by-the-book and not lose a soul.
+
+If you enjoy challenge and learning from failure as you would in a roguelike, buy this game. If you are looking to have your hand held and succeed without breaking a sweat, look elsewhere.",0.8457742929458618,661,True
+268500,217625399,76561197987632617,"Okay let me be totally upfront.  I bought this game when it came out, played it once, and didn't really like it.  Then, years later, I was really wanting a Star Wars game to play, looked at the amount of Star Wars mods that were on the workshop for X-COM 2 and downloaded a collection (not sure whos as it was a while back, but was one set in the original Star Wars era) played it and fell in love with the game.
+
+Now to be clear the game is amazing even without mods, but with the fact you can also mod it with reasonable ease and have a totally unique experiance makes this game something you can can play over and over and still come away with a playthrough that feels different each time.
+
+The amount of times this game goes on sale is criminal for how much fun you can have with it, next time you see it I highly reccommend picking it up with its DLC since most mod collections require the DLCs, you really can't go wrong even if you buy it at full price, but like I say it goes on sale a lot so just add it to your wishlist so Steam alerts you when it's on sale if you are on a budget.
+
+
+I'd give XCOM2 (unmodded) a solid 7/10
+However with mods it's easily a 10/10 game!",0.7952288389205933,37,True
+268500,39754610,76561198097860060,"I laughed. I cried. (Oh, did I cry.) I lost fifteen pounds. Then I gained them back from all the stress eating. The base campaign is supposedly 20 hours long the first time you play, and yet somehow it's never gotten old for me after 1,200+ hours of laughing, crying, and weight loss.
+
+I mean, maybe there's someone out there who doesn't find appealing the sheer thrill of running a true resistance movement to overthrow alien oppressors as you grow your ragtag crew of thieves, mercs, and misfits—each starting out with nothing more than a GED, an assault rifle, and a give-'em-hell attitude—into the most fearsome team of unqualified badasses the planet has ever seen. Maybe there's someone out there who isn't even a little inspired by the idea that these levels of unparalleled badassery could spring forth from all of us when we need it to. 
+
+But I doubt it.
+
+Buy this game.",0.8438842296600342,108,True
+268500,176368380,76561197960320032,"Im an old man that lost the ability to sit down and play games without loosing interest. This one though, Ive really become fond of. Even though its exciting in its way you can lean back and control almost all of it with only the mouse and when the family comes by to disturb you nothing will happen while you attend to them.
+
+Five out of five old man farts",0.7919575572013855,62,True
+268500,198231409,76561198302335596,Take Two is a bad company that is only capable of doing bad things. Like updating to a creepy EULA in an old game.,0.7918850779533386,108,False
+268500,113352139,76561198081274154,"To anyone having trouble with running mods or just the game in general due to the new shitty ass launcher
+
+1. Locate your game folder (easier way is to go to your steam library, go to XCOM 2, right click it, go to properties, local files, and click browse
+
+2. From there, go to binaries, win64, then launcher.
+
+3. There’ll be an icon called ‘ModLauncherWPF’, right click on it and create a shortcut
+
+4. Drag the shortcut onto your desktop, right click it, and head to properties 
+
+5. You should be on a tab called ‘shortcut’ and below, there’s a label called ‘target’
+
+6. Next to target, (don’t delete anything, all you’re gonna do is add something in) you’re gonna press space after those quotation marks, and add -noRedScreens (space again) -review
+
+7. Click apply and OK
+
+8. Run the shortcut, and the old launcher should pop up
+
+Congrats, your game and mods work!",0.9408283233642578,253,True
+268500,31841018,76561198059740220,"Look this is not a game. Its a lifestyle. I*t's gonna take a lot of time to mod the game to your liking. The base game is REALLY easy for vets. So you mod it up to your liking. Is it brutal, HECK yes! Like in the original x-com...sometimes you are going to fail. Your soldiers can and will DIE! Today's gamer tend to rage quit at this. Play on...let it be part of your story. The motive for revenge will be very real to you in your next outing against the Aliens. And also be aware you may not win the game. Take a break, give it another go later. I for one do not understand people who talk about a rewarding investment of time. I did not sign on to this game for warm fuzzies because of accomplishment. I signed on to enter a world against superior alien forces and fight a guerrilla war. War sucks, war is hell, war is also fun (fake war that is). For me and what i signed up for + the 159 mods running at the same time....9/10.
+
+Edit 202 mods now... :
+
+Edit 11/25/19  I am so happy with this game I even wrote Firaxis a letter thanking them for its creation. I own everything XCOM, from the 95 original UFO defense to open xcom to open apoc as well as all the current content,
+
+Mod currently running = 502, but that is split roughly between Long War 2 version, and wotc version. so about 250 mods per version :) 
+
+My personal opinion only: The best game ever created. 11/10. That being said I buy everything on sale and this can be expensive non-sale.",0.8387479186058044,189,True
+268500,202448656,76561198064946030,"There is no game on the planet like Xcom 2
+
+there may never be another
+
+Nostalgia is a trap, but Xcom 2 lives in each and every one of us.
+Cherish it, hold it tight, until time pulls your interest toward the sweeter fruits that modern game-making has to offer.
+
+The bar has been set, now lets see what can meet it.",0.7820481061935425,43,True
+268500,26360748,76561198005776643,"The game is fantasitc, same flavor as XCOM 1, even bigger and better.
+
+However the performance is sooooooooooooo bad. I don't know why this game requires so much computing power with graphics like this. 
+
+I understand that Firaxis was busying with CIV 6. Since now CIV is released, would you kindly look into this issue and release a new patch?",0.8319061994552612,100,True
+268500,160816640,76561198022341644,"We don't need another launcher. Stop. Get help. I downloaded to try to give this game another go after a couple of years and why do you add a launcher to old games. Bad
+
+Edit 14/4/24: Looks like some people don't know that Steam itself has launch options. You don't need a launcher to choose mods or not. This is not about the quality of launcher, the use, or if it's acceptable or not. We don't need it. Period. We don't need EA's Launcher, we don't need ubisoft's launcher. If you let this slide and let companies start adding launchers to past games that didn't have it then where will you draw the line? Yes I may be over reacting, yes I may be going overboard but someone has to react first and someone has to draw a line.
+
+Let me press play and play.",0.7799100875854492,174,False
+268500,209680173,76561198951973609,"98% chance to land a shot. *Misses*
+Get's one shotted by Aliens.
+
+This game makes me want to watch Hentai.",0.7784423232078552,58,True
+268500,67873289,76561198269337011,"~ DIFFICULTY ~
+🔲 My grandma could play it
+🔲Easy
+🔲 Normal
+✅ Hard
+🔲 A challenge to be reckoned
+🔲 In the heat of confrontation, treat your opponent with respect
+
+
+~ GRAPHICS ~
+🔲 MS Paint
+🔲 Bad
+🔲 Meh
+🔲 Graphics don't matter for this game
+✅  Good (nothing special)
+🔲 An original artistic direction
+🔲 Beautiful
+🔲 Masterpiece
+
+
+~ STORY ~
+🔲 This game has no story
+🔲 Basic element of the contractual requirements
+🔲 It's there for people who want it
+✅ Well written
+🔲 Leading to more in-depth researches/thoughts
+🔲 A model to get inspired by
+
+
+~ LENGTH ~
+🔲 Long enough for a cup of tea
+🔲 Short
+🔲 Average
+✅ Long
+🔲 To infinity and beyond
+
+
+~ MUSIC ~
+🔲 Just filling noises/No music
+🔲 Trivial and uneventful
+✅ Good and/or fitting the game's artistic dispositions
+🔲 Memorable
+🔲 Transcending whispers of a forgotten world
+
+
+~ INTEREST ~
+🔲 I would rather watch paint dry
+🔲 Hard to enjoy
+🔲 Repetitive and/or uninspired
+🔲 A good moment
+✅ Sticking out of the pack
+🔲 You will remember it long after
+
+
+~ REPLAYABILITY ~
+🔲 A one-time experience
+🔲 Only for achievements
+🔲 If you wait a few months/years (or with mods)
+✅ Definitely
+🔲 Infinitely replayable (or almost)
+
+
+~ BUGS ~
+🔲 Never heard of
+🔲 Minor bugs
+✅ Can get annoying
+🔲 Impacts the player's experience
+🔲 The game itself is a big terrarium for bugs
+
+
+~ REQUIREMENTS ~
+🔲 You can run it on a microwave
+🔲 Low
+✅ Average
+🔲 High end
+🔲 NASA computer
+
+
+~ PRICE ~
+🔲 Free
+🔲 Underpriced
+🔲 Perfect Price
+✅ Could be cheaper
+🔲 Overpriced
+🔲 Complete waste of money
+
+
+~ WORTH BUYING ~
+🔲 No
+🔲 If you have nothing else to play
+🔲 Wait for sale
+✅ Yes",0.8267585039138794,426,True
+268500,118028077,76561198047487421,"Finally, the Elders are with their backs against the wall. I have invaded their sanctum. I have already taken out 2 of their avatars, only 1 remaining. My positioning is perfect, my firepower immense, victory is close! 
+Their 3rd avatar aproaches, he gets destroyed, barely remaining alive. Yet the bastard mind controls my medic. He will pay. I send my ranger in to finish him and free my friend.
+ i h a v e m a d e a h o r r i b l e m i s t a k e.
+The medic was on overwatch when he was mind controlled. He still is. As my ranger rushes to her target she feels the plasma burning her back. A critical hit. She is down to half health. Then the impossible happens. The medic fires again. Another critical hit. The ranger I had kept since the very first missions falls dead before reaching her target. The partner that was with her for all this time murdered her, blinded by the influence of the monsters before me.
+And I remain blinded too, by shock and anger of what just happened. I send my psychic in position to kill the avatar. She is in range of the medic. A third, massive, critical hit anihilates another sister. 
+It is impossible, this can't be happening. 
+In my mind I am defeated. Should I kill my medic? A man that had saved the lives of his brothers and sisters countless times. So close to the end.
+No. There is no way that he can still fire for a 4th time.
+I move my hacker in dread. Finally, the medic remains dormant in the prison of his mind. 
+The hacker is in position. He kills the last avatar. The medic is released, but not free. While the elders scream in defeat, he feels the blood of his sisters on his hands. 
+As he walks through the gate to return home he is not the same man. Victory at last, but at what cost?",0.8191490769386292,49,True
+268500,77948112,76561198004744143,"---{Graphics}---
+☐ You forget what reality is
+☐ Beautiful
+☑ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{Gameplay}---
+☑ Very good
+☐ Good
+☐ It‘s just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{Audio}---
+☐ Eargasm
+☐ Very good
+☑ Good
+☐ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{Audience}---
+☐ Kids
+☑ Teens
+☑ Adults
+☐ All
+
+---{PC Requirements}---
+☐ Check if you can run paint
+☐ Potato
+☐ Decent
+☑ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{Difficulity}---
+☐ Just press 'W'
+☐ Easy
+☐ Significant brain usage
+☑ Easy to learn / Hard to master
+☐ Difficult
+☐ Dark Souls
+
+---{Grind}---
+☐ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☐ Isn't necessary to progress
+☑ Average grind level
+☐ Too much grind
+☐ You‘ll need a second live for grinding
+
+---{Story}---
+☐ No Story
+☐ Some lore
+☐ Average
+☑ Good
+☐ Lovely
+☐ It‘ll replace your life
+
+---{Game Time}---
+☐ Long enough for a cup of coffee
+☐ Short
+☐ Average
+☑ Long
+☐ To infinity and beyond
+
+---{Price}---
+☐ It’s free!
+☑ Worth the price
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{Bugs}---
+☐ Never heard of
+☑ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{Microtransactions}---
+☐ None
+☑ Some Optional DLC
+☐ Moderate DLC
+☐ Annoying Amounts of DLC
+☐ Time-gated Mobile game level DLC
+☐ EA Level
+
+---{Character Creation}---
+☐ Non-Existant
+☐ Premade Cookiecutter
+☐ Limited (i.e. one gender only, or few slots)
+☑ Decent
+☐ Amazing
+☐ You can make a clone of anyone you know.",0.7690001130104065,64,True
+268500,22898287,76561198023479215,"There are a lot of things about this game that bug the crap out of me. The timed missions, the Avatar project which basically puts a timer on the campaign itself, the scarcity of elerium cores which makes outfitting your squad kind of hard, the same old six person squad size, the needless delays that make the game seem to grind to a halt at the worst possible times...the list goes on and on...
+
+But there is a mod for every one of those complaints. Every. Single. One.
+
+For everything about this game I din't like, someone else didn't like it either and made a mod to fix it. Then all of these truly amazing modders came along and created wonderful content that took an already impressively open game and expanded it even further. I have no idea how many mods I am currently subscribed to at this point, but every complaint I had about the game when I first bought it has been addressed by the community and my games are much more diverse due to all of the options unlocked through user created content. I'd also like to add that despite having an absurd number of mods active the game is VERY stable. This many mods on something like Fallout New Vegas? Forget about it.
+
+So if you enjoyed XCOM and were on the fence about this one you should consider giving it a try. If there is something you heard about it that made you hesitant about picking it up, wait for it to go on sale. I am glad I bought it, though, and it is even better than the previous iteration.",0.8167308568954468,141,True
+268500,32730100,76561197960802490,"So I waited awhile for this game to go on sale to buy and I kind of wish I didn't but I'm probably more satisfied with 23.99$ spent than I ever have been before. This game is amazing and gets so many things right. After some time in vanilla and I do mean some time you can start to install the mods which will turn it into a whole new game again. Final Opinion: Great strategy game, great graphics, great mods, unbelievable replay value. Even Co-Op mod to play with friends. Buy it on Summer Sale now and enjoy sleeping easy knowing you got this great game for a great price! Deadpool is calling me back now to throw more nades, toodles! (Deadpool Voice Mod)",0.8153799772262573,54,True
+268500,206167784,76561198055563250,"This was my first game in the genre of ""send small squads of your OCs to die in horrific circumstances"" and and as a certified OC torturer, I'm quite satisfied.
+
+I would recommend playing the game once without War of the Chosen enabled, then doing a playthrough with it. The base game is good on its own, but WotC overhauls enough systems that you'll appreciate it more if you play without it first. Do note that most mods are designed to work with either the base game or WotC, not both -- keep an eye on that in the Steam workshop. If you are downloading a lot of mods or are unsure which mods are for which version of the game, consider using AML2 (""Alternative Mod Launcher"") which you can find on GitHub. That being said, the in-game mod manager is good enough for most people.
+
+This game previously suffered from Crappy Publisher-Specific Launcher Syndrome, but the 2K launcher has since been removed.",0.7651439309120178,35,True
+268500,51020693,76561198139507059,"I'm currently on my third try with this game. I beat xcom EW and xcom EU multiple times. I beat the long war on normal difficulty. And that was a feat for a stay at home mom of three. 
+
+With this game I am constantly challenged and have had to keep starting over. It's incredibly frustrating because some DLCs break the core game mechanics. It's a love/hate relationship at this point. I'm reduced to save scumming now to take the utter stress out of a game I enjoy in my spare time while all the kids are sleeping. With limited time I have, I want to feel challenged and accomplish against all odds on tough missions. Like the rulers, don't get me started on those guys, (YIKES). Talk about having to make sacrifices in order to win.
+Anyways, suffice it to say, xcom 2 is worth my time. I'm heading in each time like I'm living in an all out alien apocalypse. It's my own alien survival movie. I'm having fun, but veteran difficulty is making my head explode with frustration. 
+
+I might have to start all over again. That damn DooOoomsday clock of DoOOOooom. 
+
+I hate the Avatar project.....meh. I wish I had more time and more freedom to build up my team without so many squad wipes. Trust me, I have 1000's of hours played in the other xcom between the xbox 360 versions and modded long war playthroughs on PC. I know how to play xcom. 
+
+I don't want spoilers, or youtube demonstrations, or walkthroughs because I haven't yet beat this game. I like the pain, cuz that's xcom baby. I recommend this game to any fans of xcom that want a true challenge. 
+
+I tried my first two playthroughs with mods. The mods broke the interface and the game so bad it was too late before I saw their flaws. I am playing vanilla xcom2 now and still hate the dlcs. I played war of the chosen right out of the gate and it tips the balance and flow of xcom2 so bad I got more angry at the rulers that I do at anything else.
+
+9/10 Will keep trying because I love a challenge. Even if it takes a million nap times. 
+With two toddlers and a five month old my time is limited. But I like learning from my mistakes. And I've only scratched the surface. Game on, game on. :) I have a busy life and my time here is worth it. After beating some truly tough missions on my first try with moderate casualties I am starting to understand this undertaking. In a perfect world the perfect game exists. Until then I'll play this. :)",0.815044641494751,70,True
+268500,21029134,76561198117535360,"The game has many significant improvements over XCOM: Enemy Unknown, including.
+
+- A new Character Pool feature which lets you make characters from the main menu, which then can be used in your campaign.
+
+- You can now freely move around on the world map, it is now more than just a ""scan button.""
+
+- There are a lot more character customization options, you can now change the color of your weapon, name it, and many more new features.
+
+- XCOM 2 provides more of a challenge than XCOM: Enemy Unknown did.
+
+- The story is actually pretty good, (in comparison to XCOM: Enemy Unknown.)
+
+- The graphics are significantly better.
+
+- You can now customize your soldiers names and appearances in multiplayer.
+
+- XCOM 2 officially has mod support.
+
+Overall, i would definitely recommend this game to anyone that enjoyed XCOM: Enemy Unknown.",0.8097959756851196,242,True
+268500,204506908,76561198812829400,"Saw this game on steam sale, played a few hours as repacked, then played the same time again but this time after buying. Absolutely hooked - 18hrs in 2 days
+
+AND YOU ARE TELLING ME THIS WAS RELEASED TEN YEARS AGO ?!?!?!?!?! 
+GONNA FEEL NOSTALGIC ABOUT THIS TEN YEARS FROM NOW.
+Absolutely timeless !!",0.7596992254257202,30,True
+268500,30891671,76561198197517446,"Okay. So i played the crap out of this game. As you can see at my play hours.
+I understood and learned a bunch of things about it, so let's get started:
+
+The game takes place 20 years after the Defeat of XCOM in the original game, going from a timeline where they lost their base at the hands on the alien Invasion. From there, they now work at a salvaged Alien Ship, from the looks of it seems to be one of the Heavy class ship of old. Earth is now subjugated and you are the leader of the resistance forces who fight against their rule. You, the Commander, must fight back against a new and sinister enemy know as ADVENT, an governemnt organization created by the Coalition between humans and the Alien Elders, while trying to stop a secret project that could be the end of mankind.
+
+GAMEPLAY ASPECTS and thoughts on it:
+
+> The RNG and POSITIONING
+-Tactical based gameplay similar to the original game, but improved. More organized than the previous titles.
+It requires not only strategic thinking to turn odds to your favor, but also a little bit of luck in a RNG dice roll. That said, the RNG is heavily influenced by how you are positioned and protected. 
+You will not hit every shot, and the aliens can hit you with some lucky shots, however both of you are governed by the same rules, with the veteran difficulty balancing the tip towards your favor with ""Miss Streaks"" and ""Aim Assists"" for your soldiers. At higher difficulties, those differences cease, you and the aliens obey the same odds.
+A bad positioning effectively means your defeat, and a strong positioning can lead you to victory. Keep that in mind while playing and you will find yourself depending less on luck and more in how you place your troops. (It may happen the hilarious 95% chance miss, it's not frequent and quite rare, unless the game really decided to hate you all of a sudden).
+
+> SKILLS and ABILITIES
+-Abilities are important, as they can bless you with guaranteed hits you will definetly need in some situations. It can turn the tide of battles very quickly to your favor. That said, the enemy can do the very same things with their abilities should the circunstances present themselves. Two units close to each may result in a grenade flying towards you. Or one of the powerful abilities the aliens have may be used against you.
+With that in mind you will understand that some aliens must be taken out first, or that will result in one of your troopers being dragged across the map or half of your squad poisoned.
+Different Aliens mean different aproach and different strategies, learn your enemy in order to defeat them.
+
+> CLASSES and PROGRESS
+- There are effectively 4 default classes for your troops with 1 special class divided in two ability trees that give them different roles in combat, the abilities can be mixed, so you are not stuck with just one role or the other, and given the proper infrastructure, you can retrain them (although you cannot change their class)
+
+- The Aliens do have different types of enemies with different abilities, however their upgrades are based around the progression know as ""force level"" and ""Dark Events"". 
+-> The force level effectively defines the type of alien you will face, as well as the upgrades towards aliens you already encounter. A common trooper will become and Advanced trooper as the time moves forward, and later in the game you will be facing Elite level troopers and more powerful Aliens.
+-> Dark Events are strategic elements that rule over your campaign, they can last 1 to 2 months depending on the Event, or add points to their secret project. They can range from adding poison coated ammo to your enemies, or sent a UFO to hunt your SHIP.
+
+>RESEARCH:
+The research element is straight to the point, have a material, research it. Have a corpse, autopsy it. Have a thing, do this thing. You can improve your research time with more scientists.
+
+>ENGINEERING:
+Also straight to the point. You research a thing, you acquired a blueprint on that thing, you build that thing.
+With the exception on the proving grounds, where takes time to construct an armor or make said blueprint. Experimental item blueprints give you a random item that can make a hell of a difference in your performance. Or building an more advanced armor that is not the default medium choice.
+
+-TIP-
+Research and Engineering can save you if you had your star squad wiped by a couple of bad decisions, however, losing missions over and over may result in campaign victory for the aliens, and you falling behind in force level category, where there's simply no way for you to face them anymore without you effectively turning a simple encounter into an epic struggle between untrained troops and powerful alien overlords. 
+Which most of the time will result in Death if you are not of the most experienced XCOM player.
+
+That said, these elements make an realistic representation in technology gap, if you don't keep up with your enemy, you will get steam rolled across the battlefield. It also means that if you manage to get the Early advantage in boosting your crew Engineers and Scientist staff, you will effectively do the same thing to them, although it all comes down in how you manage your squad into battle. Once you get the hang of it, you will rarely lose a mission, maybe a soldier or two.
+
+>STORYLINE MISSIONS and OBJECTIVES:
+- There are a couple of missions that represent the Storyline progression, which are required to complete in order to reach the end and win the game. Some have the term of ""catasthropical failure"", which results in instant victory for the aliens should you lose it. Missions with that term allow you to restart it and try again, or restart the game with a new campaign. One of the two.
+
+--------- In regards to DLC -----------
+
+Alien Hunters:
+- This DLC adds four new powerful itens and three new powerful aliens for you to face along your campaign. With a story element should you decide to have the complete.
+-> Having the story mode selected you will have a mission that starts the scenario, the enemies will not appear until you decide to.
+-> Not having the story mode selected results in the enemies appearing normaly in the campaign and the weapons appearing in the engineering section for you to build them.
+
+Shen's last gift:
+- This DLC adds a MEC to your squad. An early game useless unit but a late game monster with the technological improvements. Like the Alien Hunters, it does have an story element that allows you to start the DLC. If not selected, you will be able to build it as soon as you get the Proving grounds.
+
+Anarchy's Children:
+- A cosmetic DLC, it adds anarchy themed cosmetics to the game for you soldiers customization. The flavour is not for everyone and honestly, you can find better mods for your cosmetics. Although it has a cool piece here and there, it doesn't justify a DLC.
+
+Resistance warrior pack:
+- Another cosmetic DLC, that in it's size, doesn't justify a DLC. And for some reason is not included in the reinforcement pack.
+
+------- Personal suggestion for developers --------
+
+If you are planning on making a DLC for the game, i would suggest one where we could play as the Aliens in their Storyline, it seems that it has a room for expansion and will allow for a different perspective. It would introduce an different aspect to the game since the we would be playing on the Aliens Side. and will allow for some player to have a choice to subjugate humanity, or not, depending what the aliens are really thinking.
+It seems like a silly suggestion but it has room for potential if done correctly.
+
+------- Overall ---------
+
+It's a game that is supposed to be Brutal and unforgiving on combat side, any early mistake can lead to a defeat. It does get easier over time as you progress, but even so, it's not for casual or newbies that can't learn from their mistakes. Although Veterans can have a very casual experience.
+Overall.
+8 / 10 for Gameplay. 7 / 10 for Strategy. 4 / 10 for DLC. 7 / 10 for Story.",0.8077630996704102,47,True
+268500,67936652,76561198056556511,"XCOM 2 is my favorite game of all-time.  I've logged more hours playing it, and its various iterations (War of the Chosen, Long War, etc.) than any other PC game save maybe Mount and Blade: Warband.   I've always touted it as a great game, but now that I'm playing yet another WoTC campaign (probably my 6th) after losing steam on more recent purchases (Phoenix Point, Mount and Blade: Bannerlord, Broken Lines) I'm beginning to realize just how transcendent it really is!
+
+The gameplay itself is undoubtedly fun, but what sets it apart is an attention to detail and heart I've not seen in many games.  I tired of guiding faceless troops through bland maps in Phoenix Point very quickly (I know, I know, it's still in 'early access.'), but multiple plays in and XCOM 2 still surprises me.  I still hear new broadcasts on the resistance radio, or bits of dialogue from troops and central characters.  And the gameplay, for the most part, is ever-evolving. You may think you have things figured out, then a Chosen drops in on one of your guerrilla ops, or a resistance ring mission gets ambushed, and you're suddenly swearing and scrambling like a rookie.
+
+Seriously, I could go on forever, but most of the reviews here have already covered its genius.  XCOM 2 is an essential title for any gamer.  Buy it!",0.8069412708282471,40,True
+268500,34374667,76561198041756379,"There's simply nothing quite like XCOM. No other game I've played, in my something like twenty years of playing video games has had me screaming, crying, taunting, cheering and biting my fist with the frequency and ferocity of XCOM. Every campaign is deeply personal, full of organic moments and stories. Every time a soldier falls, you become more and more determined to smash ADVENT. Every mistake, every bruise, every loss makes you a better commander. You start off as the underdog; outnumbered, outgunned and outmatched by ADVENT. As you research new tech, as your staff and soldiers become battle-hardened and experience, and as you learn and adapt, you become an unstoppable force. 
+
+XCOM2 is quite simply one of the best games produced in recent history, an absolutely fantastic and engrossing example of why games are a uniquely brillant art form. Yes, art. XCOM is f'ing art man.",0.8049308061599731,97,True
+268500,40758984,76561198115584529,"When I tried this game for the first time on normal difficulty with saving enabled, I found that I had really disliked it after I'd beaten it.  I eventually determined that the first reason I disliked it was that I was no where near experienced enough for even normal mode, which made me very frustrated with the shot percentage system.  Secondly, I found that having saving enabled made me constantly ""save scum"" or spam save, which made none of my actions really matter.  Finally, I determined that I was far too attached to soldiers...if you are a new player, expect them to die and be ok with it...you are learning and it will happen.
+     The way I went from disliking the game to absolutely loving it was setting the gamemode to ROOKIE and IRONMAN.  This still presented a challenge without being infuriating as a new player.  Ironman (which disables save spamming) also made my moves matter, which made things more intense and made me think more. I eventually bought War of the Chosen and played it on rookie ironman, as well, and still lost 3 or 4 soldiers.
+     To summarize, if you are not an expert at Xcom, then set it on rookie and possibly ironman for a fun game for people who enjoy strategy games and even consider themselves good at them.  Anything above rookie will not only kick your butt, but do so in a way that will make you hate the game.  This is not dark souls where dying does not detract from the experience. This game can make you very angry and stressed out. So do not be discouraged by the label of ""rookie,"" even it can leave you with your entire squad wiped if you are not very careful.
+  
+  *As a final note, I really do not know if my first playthrough with saving enabled allowed me to finally enjoy the game when I replayed on rookie ironman.  The reason I say this is that there are many enemies that if you have not experienced, will destroy you in seemingly unfair ways.  If I had been bound and killed by a Viper on rookie ironman without knowing about them, I may have been very upset. However, I still lost my first Reaper unit to a Viper on my second rookie ironman playthrough with War of the Chosen, and continued to have fun and beat that playthrough.  The save-enabled playthrough simply let me learn to use tactics like attacking the Vipers before they can bind you, which I could then use on ironman without being confused as to how to handle them.
+
+**To enable IRONMAN, you must disable the tuturial (at least in War of the Chosen).  This may be detrimental to new players, so you may want to play the tuturial level then restart the game if you are determined to try ironman right away.",0.8048021793365479,46,True
+268500,138544469,76561198110486973,"Fantastic turn based tactics and strategy game but the swap to the 2K launcher broke modding which is going to seriously hurt your long term potential enjoyment factor. If you're looking to grab the game and want to use the Steam Workshop mods follow these steps:
+
+>Open your XCOM 2 Install folder
+>Open the Binaries folder, then the Win64 folder
+>Copy ModLauncherWPF and paste a shortcut in a location of your choosing
+>On the ModLauncherWPF shortcut, right click, then open properties
+>On the target bar, add -noRedscreens and -review after \ModLauncherWPF.exe"", then hit apply.
+>Run the launcher from the shortcut, check the mods you want to use, then hit play.
+>Once in the main menu, click options, then gameplay to check if mods have been loaded
+>If mods haven't been loaded, don't worry. Exit game, run the launcher from the shortcut again, then run over the mods you want on, then hit play.
+>Mods should be loaded properly now. Mods should be loaded off the bat now.
+
+That should be all. As long as you run the game from the ModLauncherWPF shortcut, mods should work as they did at launch.
+
+Good luck, commander.",0.8541461825370789,60,True
+268500,29537458,76561198152071092,"Hit chance in this game is:
++10% luck
++20% skill
++15% concentrated power of will
+-5% defense
++50% aim
+and a 100% chance to miss that F*cking shotgun shot at pointblank again.....",0.8031235337257385,192,True
+268500,32777720,76561198148665090,"I missed a 99% shot that resulted in the surviving heavy mech blowing up a car a wiping half my squad.
+
+Oh XCOM you cruel master.
+
+[spoiler]Of course I save scummed[/spoiler]
+
+Great game anyways, very fun to miss.",0.8004372715950012,109,True
+268500,33429211,76561198010217378,"XCOM2 is not flawless. It has bugs, including very unfortunate ones (isn't it fun to find out that your beloved colonel Ranger, who has recently become Death, the Destroyer of Mobs, and was knocked unconscious, can't be picked up and will have to go MIA?). It has way too much unskippable animation—even in the faster mode you'll still see ""cinematic"" overwatch triggers, and managing the base can get a bit tedious due to, once again, animations. Sometimes you can fight the cursor for a minute while trying to make your Ranger attack the enemy from the right side.
+
+But these are all extremely minor gripes, of course. The core gamplay of XCOM has long become legendary, and it's as slick and fun as ever, with clear distinctive visuals, great level design, and the ever-beloved option to design your whole extended family into not-quite-space marines and watch them die excruciating deaths due to missing three 90%-chance shots in a row.
+
+The price tag is intimidating, but if turn-based tactical games appeal to you in the slightest, you definitely should buy this.
+
+Then again, you most likely already have.",0.7993913888931274,61,True
+268500,171849249,76561198165539093,"Assaulted the Assassin's stronghold 4 months into the game.
+
+Send only the best of the best, armed with the best equipment, some of it manufactured on the spot.
+
+Two of the six are Franklin Clinton and the Scout from TF2. They're a level 2 bonded pair.
+
+The others are Jane Kelly, Dragunova, and my highest ranking sniper and grenadier.
+
+Clear first base with almost no issue.
+
+Boss fight commences, Several people are on middling health but Franklin's still got 2 medpac uses (I should've made him medic from the start tbh I've got too many hybrid builds)
+
+Double codex flanking her.
+
+Ah shit, here we go again.
+
+Hit crucial shot on her with sniper, lose sniper.
+
+Scout's hurt bad, Franklin's down one medpac.
+
+Dragunova nearly gets got by her. No more medpacs. Codex are long gone but high level ADVENT summons are making my life hell.
+
+B*tch goes down, cue healing phase.
+
+Decide most of my forces are close enough to the sarcophagus to deal lethal damage to it before she fully heals.
+
+Commit like a motherf*cker.
+
+Grenadier eats it. Dodged bullets left and right to chunk that thing. Ran out of luck.
+
+Dragunova bonded with that grenadier. Goes ballistic and kills one of the priests hiding in the backline.
+
+Most people are just barely holding on by the time it's done. Most people, except Jane.
+
+3 of the 4 ADVENT goons are history. Boss respawns at 80% health.
+
+It begins.
+
+She immediately cuts Franklin down. He's bleeding out.
+
+Scout doesn't even have time to react. Last priest has him mind controlled.
+
+Can't land a shot on the priest.
+
+Scout kamikazes Dragunova with a plasma grenade.
+
+It's just Jane.
+
+Jane blows the brains out of the priest.
+
+Survives every attack from the Assassin. It's a battle of attrition.
+
+Finally 12 gauge her back to Hell with 2 health to spare.
+
+Mfw they come back and it's just Jane limping weakly to the front, with nobody behind her.
+
+She's been promoted to Colonel.
+
+Make badass propaganda poster of her following the promotion. With her fellows dead, she's easily the highest ranking soldier left in my barracks.
+
+Memorialize each of the 5 fallen soldiers.
+
+Write 'Remember The Fallen 5!' on every memorial poster.
+
+Mfw I see the poster plastered on a nearby building during next operation.
+
+[The aliens when they learn that the indomitable human spirit wasn't just a myth]",0.7988893985748291,43,True
+268500,218025344,76561198049425979,"Very good game!
+My thumbs down is because of this new EULA where I obligated to share my data with the company.
+I don't want to share my data with any company at all.
+They are too greedy.
+Back in the day, the software was mine not some kind of subscription that they can terminate my access whenever they want.",0.7478566765785217,93,False
+268500,43552706,76561198042346171,"Used to be my favourite game, however once Firaxis started packaging their games with spyware (this one included) I've been forced to wipe my hands of the company",0.8452153205871582,673,False
+268500,148324626,76561198311086126,"---{ Graphics }---
+🔳 You forget what reality is
+✅ Beautiful
+🔳 Good
+🔳 Decent
+🔳 Bad
+🔳 Don‘t look too long at it
+🔳 MS-DOS
+
+---{ Gameplay }---
+✅ Very good
+🔳 Good
+🔳 It's just gameplay
+🔳 Mehh
+🔳 Watch paint dry instead
+🔳 Just don't
+
+---{ Audio }---
+🔳 Eargasm
+✅ Very good
+🔳 Good
+🔳 Not too bad
+🔳 Bad
+🔳 I'm now deaf
+
+---{ Audience }---
+🔳 Kids
+✅ Teens
+✅ Adults
+✅ Grandma
+
+---{ PC Requirements }---
+🔳 Check if you can run paint
+✅ Potato
+🔳 Decent
+🔳 Above average
+🔳 Rich boi
+🔳 Ask NASA if they have a spare computer
+
+---{ Difficulty }---
+🔳 Just press 'W'
+🔳 Easy
+🔳 Easy to learn / Hard to master
+✅ Significant brain usage
+🔳 Difficult
+🔳 Dark Souls
+
+---{ Grind }---
+🔳 Nothing to grind
+🔳 Only if u care about leader boards/ranks
+✅ Isn't necessary to progress
+🔳 Average grind level
+🔳 Too much grind
+🔳 You'll need a second live for grinding
+
+---{ Story }---
+🔳 No Story
+🔳 Some lore
+🔳 Average
+🔳 Good
+✅ Lovely
+🔳 It'll replace your life
+
+---{ Game Time }---
+🔳 Long enough for a cup of coffee
+🔳 Short
+🔳 Average
+🔳 Long
+✅ To infinity and beyond
+
+---{ Price }---
+🔳 It's free!
+✅ Worth every single cent & more!
+🔳 If it's on sale
+🔳 If u have some spare money left
+🔳 Not recommended
+🔳 You could also just burn your money
+
+---{ Bugs }---
+🔳 Never heard of
+✅ Minor bugs
+🔳 Can get annoying
+🔳 ARK: Survival Evolved - Have a breakdown till the next patch, then hope nothing else broke -.-
+🔳 The game itself is a big terrarium for bugs
+
+---{ 1 / 10 }---
+🔳 1
+🔳 2
+🔳 3
+🔳 4
+🔳 5
+🔳 6
+🔳 7
+🔳 8
+🔳 9
+🔳 10
+✅ Off the scales!",0.7431438565254211,41,True
+268500,121745867,76561197992514197,The way to play this game is to name all of your soldiers after your best friends,0.8398714661598206,68,True
+268500,170358243,76561198056327440,"Have been playing this game for several years--great replay-ability and a fun upgrade system to build your team for the higher challenges near the end, as well as the end-game battle which is great!
+
+BUT as others have noted...as I was coming back in for another replay, I was presented with a mortgage-length legal agreement, followed by a data/information-sharing agreement that would make Google blush. Take-two software makes you agree with both their legal terms or you can't play the game you already paid for! I understand wanting to protect your IP (could even see agreeing to that looonng ""contract""), but you lost me at asking me to give up all protection of my personal data (MY property) so you can market more stuff. For the price you're STILL asking for this game and all its DLC after many years, you'd think the money alone would suffice. Foolish move to distance fans.
+
+Uninstalled (pity). Update 11/2025 - removal of the 2K launcher and the related legal agreement eliminated the problem--reinstalled and the 2K launcher still wants to stop you, but you can now disagree to all and play without surrendering.",0.7389469146728516,33,False
+268500,144308046,76561197979932334,"65% of the time, it works every time. Except for 90% of the time.
+
+9/10.
+
+",0.7875421643257141,39,True
+268500,97099229,76561198002644898,"This is a bit of a mixed review.  I'll be concise and explain the pros and cons:
+
+Pros-
+-  Really solid combat that improves greatly on XCOM 1/Enemy Unknown.
+
+-  Good character customization which makes you invest a little in them instead of units just being placeholders.
+
+-  Good variety of missions.  WotC expansion adds a great deal more.
+
+-  WotC introduces a slew of voiceovers from Star Trek TNG alumni, which I love.
+
+-  RNG missions keep the game fresh for a long time.
+
+-  Workshop support really lets you reinvent entire portions of the game to make it more fun.  Everything from balance adjustments to new weapons models and sounds, character appearance changes, and even enemy unit changes is a welcome sight.
+
+Cons-
+-  2K launcher, which replaced the original some time ago, is a buggy mess.  As of this writing, I can't load the game at all, much less with mods.  The same launcher works for Civ VI just fine, so apparently just XCOM 2 is busted.
+
+-  Horrible performance, even on a good rig.  This might be more of a HDD versus SSD issue, as I don't have SSD space to use and must rely on old mechanical drives instead, but XCOM 2 is lucky to keep 30-50 FPS on 1440/ultra on a 3080 GPU.  The GPU and CPU aren't even remotely taxed, so the issue must be crap programming or a non-SSD storage.  The latter would be absolute nonsense given that SSDs weren't commonplace when the game launched and larger ones used for gaming storage are still moderately pricey.  The sad truth is that an excess of mods makes this FPS stutter even worse, so be warned.
+
+-  I've beaten the base game and expansion on vanilla before and recommend one solid pure playthrough, but ultimately every single replay for me involves modding the game to get more enjoyment out of diversified character appearance, weapon appearance, missions, and even enemy model replacements.  Given that the 2K launcher is busted, and the workaround involves not using mods at all, this selling point is a stopping point.  Currently I'm stuck at the end of a Legend difficulty playthrough because my cosmetic mods are enabled and the launcher won't launch period, much less enable my mods for continuity.
+
+-  Being entirely fair here, a lot of the challenge comes from the enemy units just blatantly unfair in terms of their numbers, free movement and overwatch upon discovery, and things like timed missions and the greater time on the Avatar project (which forces you to rush the endgame hard).  This scales heavily with higher difficulty, to the point where I question the game logic entirely when six out of ten  shots against a target with 63-65% accuracy fail in a row.  That's not an exaggeration and no, I didn't buy a lotto ticket that day but I perhaps should have done so.
+
+tl;dr I still love this game and I recommend it, but I advise newer players be aware of the faults it has and be prepared for the occasional frustration when something breaks because of bugs, a mod conflict, or 2k's crap launcher rendering it temporarily unplayable.",0.7372466921806335,30,True
+268500,20956169,76561198026920969,"There are a few day 1 issues going on with performance aswell as some quality of life bugs such as turns hanging on for a few seconds more then they should, but if your're willing to put up with that for a day or 2 you will be treated to one of the most compelling and deep turn based strategy game we've gotten in a  good long while and its only set to get better thanks to a HUGE commitment to mod support by the developer. 10/12 would bang agien (however if you dident like EU / EW and preferd the orignal Xcom games then this game isent for you either)
+
+EDIT: a day or 2 is starting to look like a week before we get anything more then a ""we are looking into it"" so yea. not changing the recommendation however if you despise frame drops and dealing with bugs then id hold off, i'll update this review as needed",0.7872160077095032,426,True
+268500,227916091,76561198337569560,"Ah, so this is what everybody's been trying to copy for 10 years. Apparently War of the Chosen is the full game, base game is the same campaign with less content. Plays great on Steam Deck.",0.7366313934326172,31,True
+268500,197196290,76561198015151713,"Decided to come back to the game...
+Saw a lot of negative recent reviews...
+---- ""Small"" rant ----
+People complaining about recent EULA changes, so I decided to check.
+They haven't changed XCOM 2's EULA for nearly than 6 years, since July 13, 2019 to be exact...at least on Steam.
+As soon as you open the game, you have to accept the new one from February 2025, you can opt out, but then you can't log in for multiplayer......does anyone still play multiplayer?
+Anyway, you list one EULA on the store, then a different one on the ""product""...I don't think that's legal, even in US.
+And the information they collect...I don't even provide half of it and they can't force me to, at least where I live.
+Finally, if you're worried about arbitration, the 2019 version already restricts you to it.....why worry now?
+Send them the opt-out letter sooner next time...
+---- END ----
+As for the game, it's a pretty solid XCOM title.
+I find they have a little too much ""timed"" stuff, but that's my opinion.
+Also, Steam Workshop mods and Nexus mods work just fine...",0.7350909113883972,101,True
+268500,65075366,76561198013402475,"Full of glitches, buggs, boring story, annoying voiceovers in wrong time, horrible designed UI that makes you go over whole lotta screens and animations over and over just to glance at certain stat and compare things. I've never had so many missclicks in all my other games combine as in this one alone, accidently moving when I really wanted to cancel (goes great with ironman mode). Overall this is most ragequit prone game ever made.
+
+And despite all of those things it's one of the best game I've ever played simply because there is nothing close to it on this scale. It's contagious, deep and full of replayability. It scratches that itch that needs to be scratched really bad.
+
+It's a shame this genre isn't as popular as  shooters, so they can afford to polish it as it deserves.",0.7835745215415955,53,True
+268500,203302836,76561198046018550,"Commander, the aliens continue to make progress on the avatar project If we're going to slow them down, we'll need to move fast.",0.7816956639289856,49,True
+268500,110209156,76561198041643606,"Dont recommend that you buy this right now solely because of the launcher. Until they updated the game to remove the 2K Launcher that affected the entire experience, stay away. It made the game slow to launch, laggy and needed a mouse to start the game. Yup! I played this game and the previous game using a gamepad and in Big Picture mode and I always wanted to play it that way. Too many downside for the launcher and there is no real benefits for the players",0.7314263582229614,47,False
+268500,161158283,76561198062277992,"Very popular TBS game. It's a classic. Even if it has some glitches/bugs, still a great game.
+
+---{ Graphics }---
+☐ You forget what reality is
+☐ Beautiful
+☑ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{ Gameplay }---
+☑ Very good
+☐ Good
+☐ It's just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ Audio }---
+☐ Eargasm
+☐ Very good
+☑ Good
+☐ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{ Audience }---
+☐ Kids
+☑ Teens
+☑ Adults
+☐ Grandma
+
+---{ PC Requirements }---
+☐ Check if you can run paint
+☐ Potato
+☑ Decent
+☐ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{ Game Size }---
+☐ Floppy Disk
+☐ Old Fashioned
+☐ Workable
+☑ Big
+☐ Will eat 10% of your 1TB hard drive
+☐ You will want an entire hard drive to hold it
+☐ You will need to invest in a black hole to hold all the data
+
+---{ Difficulty }---
+☐ Just press 'W'
+☐ Easy
+☐ Easy to learn / Hard to master
+☑ Significant brain usage
+☐ Difficult
+☐ Dark Souls
+
+---{ Grind }---
+☐ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☐ Isn't necessary to progress
+☑ Average grind level
+☐ Too much grind
+☐ You'll need a second life for grinding
+
+---{ Story }---
+☐ No Story
+☐ Some lore
+☐ Average
+☑ Good
+☐ Lovely
+☐ It'll replace your life
+
+---{ Game Time }---
+☐ Long enough for a cup of coffee
+☐ Short
+☑ Average
+☐ Long
+☐ To infinity and beyond
+
+---{ Price }---
+☐ It's free!
+☑ Worth the price
+☐ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{ Bugs }---
+☐ Never heard of
+☐ Minor bugs
+☑ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{ ? / 10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☐ 7
+☐ 8
+☑ 9
+☐ 10
+
+",0.7311010956764221,36,True
+268500,118194739,76561198048051972,"This game is not a game.
+It's a reality show about your soldiers.
+Almost cried when SiIvagunner died because i screwed up
+
+P.S: The new launcher is horrible. Use Alternate Mod Launcher (AML) instead. Works like a charm compare to that 2K crap",0.7298491597175598,20,True
+268500,208679417,76561198038901378,"Commander, the aliens continue to make progress on the avatar project. If we're going to slow them down, we'll need to move fast.",0.7280015349388123,33,True
+268500,36591360,76561198012783205,"I strongly dislike this game, for reasons i don't quite understand.
+
+Somehow it annoys me immensly that almost all missions have a timer, forcing me to advance very fast to complete the mission. Even the missions that don't have a timer almost invariably involves som sort of infinite-spawn mechanism forcing me to advance to avoid beeing overrun.
+
+On the strategic map, it's almost the same situaion. No matter what you are doing with the Avenger random missions will pop op on intervals, most of them urgent and/or time sensitive. This forces you to run the missions ASAP or miss them, suffering the associated penalty. No waiting 4 hours for research to complete or half a day for your best soldier to heal.
+
+These factors makes me feel like I'm constantly rushing through everything in the game, both combat and strategic decisions. Does it create a sense of urgency: Yes. Does it make the game more challenging: Yes. Does it make the game more fun to play: No - not for me at least. I detest the feeling of beeing rushed, especially when playing a turnbased game. That's just wierd and unnecessary.
+
+Also, I think the game looses a lot of appeal by gimmicking through combat with the aliens. You're 75% through the game  before the game stops throwing new wierd abilites at you. This leaves you constantly scrambling to figure out how to deal with the new enemies - but only for the first playthrough. In my mind, the makes the first playthrough very demanding and any succeeding playthrough dull. It's hard to explain properly, but there is something annoying about the games pace and/or mode of introducing new enemies.
+
+Perhaps it is because the storytelling isn't gluing the missions together in a coherent whole, that the rushing and the constant stream of new outlandish abilities feels so off. The story telling consists mostly of poorly voice-acted cutscenes and your XO screaming at you/the operatives to hurry up. (See above why I dislike the latter.) It doesn't help either that the stoy makes no sense at all.
+
+While I do enjoy the customisations available, it makes zero sense for you to be unable to duct-tape two magazines together before the enemy drops them. Come on: We're flying a high-jacked spaceship around; mouting scopes, replacing triggers and rigging magazines on rifles shouldn't be outside our reach. 
+
+Perhaps that is it then: The story and most of the mechanics makes no sense and gameplay consists mostly of ham-acted cutscenes and voicemessages telling you to hurry the f*** up.",0.7271122336387634,386,False
+268500,90768539,76561198019732240,"as it stands right now the update to the launcher was utterly and completely unnecessary.  Many friends are having to futz with whatever this heaping trash pile of a launcher is that has no reason to stay open in the background of my game.  People also suspect said launcher is collecting user data which is already shady af.  
+I love the game to death.  I do not have love for decisions made by suits who know nothing about the clientele and people who mod their games.  If they were smart, they wouldn't have replaced a working part with one cheaper and shadier than the licensed businessman who knew what he doing in the first place.  Now we got Jose Guarrez 2K launcher perma running in the background doing God knows what and has already busted half of the mods trying to load on most other people's rigs and looking through things he shouldn't.
+You don't replace a working part with one that is less qualified and capable for cheaper.  That's shady, it's cheap, and it's going to cost you money in all runs of the game.  Trusted customers trust was sold off for some cheap 2 bit change that was unnecessary and likely will not buy your product in the future.
+Get your shi[i][/i]t together.",0.8764984011650085,133,False
+268500,50458033,76561198075453716,I love this game.  I play it over and over.  I know what to expect.  I know about when the different types of aliens will show up.  There's not much unexpected about this game for me.  But I still love to play it.  There's just something so satisfying about overcoming the odds on the hardest difficulties.  There just enough randomness to keep each campain a little unique.  There are also so many wonderful  mods that change the way the game plays.  It's just a great game.,0.8237739205360413,70,True
+268500,25463749,76561197960337918,"Xcom 2 is like playing a chess with a really great looking gameboard and chess pieces. Game is slow-paced and you are supposed to lose sometimes. If you are looking for fast action and immediately results this is not the game for you.
+
+Core gameplay is solid gold. You can have up to 6 soldiers under your command per mission. Missions have different kind of goals and some require to be completed within 8 - 12 turns. Something like 3/5 missions have a turn timer but I didn't find it problematic as I nearly always had 2-3 turn ""spare time"" when I completed the mission goal. When people start dying it is often your own fault. There are total of 6 soldier classes, all with unique abilities and skills. Classes feels different with many combinations available how to assemble your squad. If you have played Xcom:EU you learn the new game mechanics within first few hours. All the enemies are new or atleast altered so you don't feel like playing Xcom: EU with a new plot.
+
+Story is interesting and revealed by tiny pieces after completing missions and specific researches. There is a nice pacing with cutscenes and reading when moving forward the main plot. There ain't that many character in the game but they are all well written, besides that annoying little Shen.
+
+In campaign map you make the big decisions: what recourses to get, what region to help, which missions to accept, where to build facilities, how to utilize your staff... You can't get everything, you usually choose what you need most at the time. Making these decions is the most rewarding part of the game. 
+
+Xcom 2 is still plagued by performance and optimize issues even the game was launched more than
+half year ago. Animations lags sometimes even with no action on the screen and they lag like hell when there are multiple fire/acid burning animations going on. Loading a mission can take up to a minute to load and returning to base takes the same. Pretty often there are 10 to 20 seconds ""pauses"" during alien turns when the game clearly think what it should do. It is also a pain to board the skyranger as in some missions you have to invidially move all units to extraction area and watch the painfully slow animation about your soldiers getting aboard. Sure this is a minor thing as almost every con in this game but when there are too many of these  annoying little things they really begin to affect your game experience. When game is turn-based = pretty slow going  you really don't like any additional issues to slow the game down.
+
+There is also one extremely frustrating bug that I have to mention here. Sometimes your soldiers and aliens can shoot through floors/roof when there is accessible multiple-floor building in the map. This line of sight bug has been in Xcom 2 since launch. Some people even argue that it is a feature because ""aliens have supernatural powers and roof has holes for you to shoot through"". No this is not the case, building can be in perfect condition and no one is outside the building to give you vision on enemies but magically you see them loud and clear.
+
+Overall game experience was not as satisfying as Xcom: EU was, still I strongly recomend to try this if you liked the predecessor. It took 30 hours to beat the game on veteran diffulty and game was enternaining right to the end. There are amazing variety of mods available so you can tweak the game to suit better your playstyle/taste. Played with no mods, Anarchy's child and Shen's last gift DLCs enabled and Alien hunter DLC disabled as I had read some horrible feedback about the second DLC.
+
+10 - Perfect game
+9 - Excelent game, best of the genre
+[h1]8 - Good game, worth your time[/h1]
+7 - Average game, nothing really special
+6 - Bad game, avoid
+5 - Painful to play, completely waste of time
+4 - Failed game, unpayable",0.7735065817832947,77,True
+268500,21110808,76561198016432675,"[b] Target Audience:[/b] [I] Tactical Combat Fans that want a challenge, and don't have beefs with the RNG gods. [/i]
+
+[u] Summary: [/u]
+The game that has everything going for it as a sequel to one of the best reborn franchises of the last 5 years.....with one huge exception. The tactical combat from the original returns with some additional units and mechanics that takes it to the next level. The small changes like additional focus on timed missions helped the game in the big picture a lot, and the improved balance/skill trees made every class a great boon in the right situation. The simulation portion of the game may have been streamlined....but it was for the better in my opinion, as it makes an impact on your combat performance directly. The visuals for the most part are nice, although it will take you out the experience as well with some bad glitches. The story makes a bit more sense this time around and while its filled with scifi tropes, it does the job. This would be a shoe-in purchase if the performance issues, load times, and glitches are taken care of, because they REALLY create a major problem in the end, as I would have stopped playing if I wasn't formal reviewing the game. If you've got a backlog: play through it first, and wait for some of the issues to be fixed. 
+
+[b] Review Video: https://www.youtube.com/watch?v=dsQH16fF9Dc [/b]
+
+[u] Lists: [/u]
+[b]Positives:[/b]
+[list]
+[*] The well known combat is still as good as ever, with incremental improvements. Difficult but smartly put together.
+[*] Class balance seems to be there a bit more this time around..Psy operatives were useful and still strong, but a great grenadier or ranger could give them a run for their money.
+[*] Simulation elements wisely refined, and seemed to make the difference in the battle in the long run.
+[*] Like the addition of more timed missions: it forces  less conservative play, and put your units more in danger, but not to the point where it was unwinnable.  
+[*] Great character customization added that makes the sting of losing a soldier that much harder, when you've put the effort in crafting them from the bottom up. Your soldiers also can have a nice in-game personality that actually shows up in the lines. 
+[*] Great move on Firaxis part to put in mod support on day one. I expect a lot to be done, as there's a lot of potential in the various weapons/units/etc. 
+[*] The secondary equipment makes a huge difference this time around, and there was actually huge reasons to take it along as opposed to another med pack. 
+[*] Improved visuals, in particular with character designs. Like the simple yet effective designs of the Viper and the Gatekeeper.
+[*] For those who really want it, Firaxis put several autosaves in there at the start of a mission and last turn. If you're a cheater. Cause it's cheating. 
+
+[/list]
+
+[b]Negatives:[/b]
+[list]
+[*] Hate, hate the new graze system. It adds an element to combat that you don't know what it directly does in terms of percent probability for it to happen, and is generally an unknown factor. It's the one thing you don't know, and it will REALLY get on your nerves.
+[*] Panic system seems to mean less then before.
+[*] Held together by glue and string, it seems. The game can run great at times, but when something goes wrong, bad things happen to not only the performance, but the in game mechanics get messed with as well. It's unstable. 
+[*] The loading times. My god the loading times. At one point, it took 3 minutes,  27 seconds to load into the next portion of the game. Unoptimized, the game is not. 
+[*] Glitch Fest 2000. Hits a wide spectrum of issues, from graphical, to camera, to in-game affecting. Takes you right of the experience. It's funny at times....but really annoying at others. Especially when the camera decides to show you a wall because it can't figure out jack shit. 
+[*] The music doesn't do the job like the original. It just doesn't have the punch, it's good....but compared to the original, it just doesn't work at ALL. 
+[/list]
+
+[b] Review Video: https://www.youtube.com/watch?v=dsQH16fF9Dc [/b]",0.7233713269233704,221,True
+268500,208524658,76561198044605858,"Am stopping playing all 2K games as now 2K games install spyware to collect deep personal user info, device info, IP address, GPS location, internet activity-browser history etc for its use/sale to third parties and potentially pass on to US/UK/EU government. F Off 2K..",0.7197502255439758,116,False
+268500,46219865,76561197984037990,"I would like to remind anyone who notices, that This game released its Mod Workshop on Day 1 of release. That's something very few money hungry devs, would ever do. When Bethesda's modding community is killed by their own devs, XCOM or Fireaxis will steal the show if they release more games.",0.719559371471405,38,True
+268500,97169181,76561198423306952,"edit: although the problem is fixed currently, the launcher itself is still very problematic.
+
+
+you can use this to bypass the launcher and open the game while waiting for devs to fix that shitty launcher.
+
+
+    Using Explorer, navigate to the location of the XCOM 2 binary, at <SteamDir>\steamapps\common\XCOM 2\Binaries\Win64\XCom2.exe.
+
+    Right-click on the executable, select ""Create Shortcut"".
+
+    Right-click on the shortcut you've just created, select ""Properties"".
+
+    In the ""Target"" input field, add the following parameters at the end: -noRedScreens -nostartupmovies -review -LANGUAGE=INT
+
+    Click OK.",0.819543719291687,64,False
+268500,189093357,76561197970132183,"It's XCOM. It's not for everyone. I can't not recommend it even if I sort of hated it because I knew what I was getting into. Victory or defeat is often just a few dice rolls. Nothing like an ambush to miss 4-5 shots at 70%+ chance to hit only for the enemy to land a 5% crit.
+
+It's just frustration, the video game. Everything you do tips the scales only slightly and your RNG inevitably drives the entire outcome.",0.7194423675537109,27,True
+268500,26022305,76561198057323808,"*Council mission appears on my screen
+*Got to do a vip rescue mission
+*Took my australian medic Eugene Davidson in the squad
+*Skyranger arrives at the LZ
+*Killing Advent
+*Wild Archon King appears
+*Archon King activates blazing pinions
+*Have to move VIP to not loose the mission
+*Eugene Davidson is hit
+*Eugene Davidson gets unconscious
+*Archon King escapes
+*Game bugs
+*Cant carry Eugene to the pick up point
+*Forced to leave Eugene Davidson behind
+*Eugene is captured by the enemy
+*I cry for the lost of Eugene
+*Start to train another medic
+*2 months have passed
+*Another Council mission appears
+*Another VIP mission
+*Eugene Davidson is the VIP
+*Launch my best squad to save their buddy
+*Find Eugene Davidson
+*Successfully rescue Eugene
+*Eugene is wounded for 24 days
+*24 days after I can deploy Eugene in missions again
+
+11/10 would send Eugene Davidson in another VIP rescue mission again",0.7654949426651001,93,True
+268500,175297208,76561198027578038,"In my opinion, XCOM2 is a masterpiece in the turn-based strategy genre. The game revolves around the classic battle against malevolent, invasive aliens. The primary focus is on creating, upgrading, and equipping a squad of fighters for combat missions while prioritizing the construction and expansion of rooms within the ""Avenger,"" an alien ship that serves as your base of operations. The missions, typical of turn-based games, require intelligent positioning and the effective use of each squad member's abilities.
+
+[h1]Story[/h1]
+The story is not particularly deep and is kept relatively short, though it does follow a coherent thread. Depending on your taste, this might seem a bit lacking, but for me, it worked well as it left more room for the action. The narrative is partially woven into the missions, which adds a nice touch to the overall experience.
+
+[h1]Combat[/h1]
+The battles are always fair and gain additional dynamism through random placements. While specific tactics generally prove effective, there are moments that demand creative solutions, which is a clear plus in my book. The difficulty level is highly customizable, and for those seeking a real challenge (like myself), the Ironman mode offers an intense and rewarding experience.
+
+[h1]Progression[/h1]
+The progression system is extremely motivating, as you earn new equipment and upgrade your squad. There isn't a vast amount of gear, which some might see as a downside, but it was fine for me. The sense of growth and improvement keeps you engaged, although the limited variety of equipment might be a minor drawback for some players.
+
+[h1]Atmosphere and Design[/h1]
+Both the design of the units and the environments are superbly executed. The atmosphere is incredibly well-crafted, immersing you deeply into the game and making each mission a thrilling experience. The detailed visuals, combined with the game's aesthetic, create a mood that keeps you engaged and excited to dive back into the action.
+
+[h1]Gameplay and Technical Performance[/h1]
+The gameplay, stability, and controls are excellent, with almost no bugs to speak of. The core mechanics are solid, and the overall experience is smooth and enjoyable, which is a testament to the game's polish.
+
+[h1]Replay Value[/h1]
+The replay value is average; while there is some potential for replaying, it can feel exhausted after a certain point—especially if you compare it to games like Civilization. However, the game offers enough content to keep you entertained for a good amount of time before this happens.
+
+[h1]Classes and Character Bonding[/h1]
+The class selection in the base game is somewhat limited, but it improves significantly with the addition of the ""War of the Chosen"" expansion. Personally, I found the bond with my characters to be very strong, although this can vary from player to player. I also enjoyed the customization options (cosmetics), which added an extra layer of fun.
+
+[h1]Conclusion[/h1]
+Overall, I would rate XCOM2 a solid [b]4.5 / 5[/b]. With the ""War of the Chosen"" expansion, it truly becomes a masterpiece, offering an even richer and more satisfying experience [b]5 / 5[/b].
+
+[i]Have fun guys[/i] 8-)",0.7647399306297302,34,True
+268500,198160685,76561199708222330,"There are roughly 20 mods that give quality-of-life and usability improvements to the base game that should be added for maximum fun times [and minimum frustration]. (That may sound intimidating or an overhaul of modification, but it isn't in this case - search online for 'essential' mods to find these.
+
+7.5/10 vanilla experience
+10/10  modded",0.7141064405441284,19,True
+268500,114279618,76561198414050206,"Replace OG characters name with your friends's name to make this game even more interesting. 
+To see you friend rise to be one of the top dogs or watch they die in front of your teary eyes. 
+It's your choice, commander!",0.7126057744026184,22,True
+268500,29728542,76561198078451206,"This game. This game is the best game I ever played. It's a well deserved sequel to XCOM: EU/EW. 
+
+The story is better, actually explaining [i] why[/i] the aliens came to earth. I still has the same feel of EU/EW if you have the right mods. I will get to that later.
+
+Look at my hours. [i] Look at them![/i] It's a testament to how entertained I am by this game. I'm [i] still [/i] playing it. I pre-ordered it, and thus played it right from the start.
+
+The customization. Oh man, the customization. Compared to EU/EW's, it's like comparing a bow to a sub machine gun. You can create bios, give their armor and weapons colors and pattern, and change their attitude, which affects how the soldiers say lines in the game, something which I found really cool. Mods add even more stuff.
+
+The mods. Mother of God, the mods. If there is any reason to buy this game, it's because of the mods. It increases the overall score of the game from 5 stars to ten stars. There are voicepacks, mods with custom voices for your characters. There are alien mods, adding more diverse aliens to the game. Cosmetic mods give your characters serious, realistic items to choose from when designing them. Like the old armors from EU/EW? There's a mod for that. Want Halo SPARTANS in your roster? There's a mod for that. Want more weapons? Multiple mods add more choices for your arsenal. want a weird, funny one? There's a mod that adds the horse mask. [i] The [/i] horse mask, the one from all the memes. There are a numerous of gameplay mods that improve the base game, eliminating its faults.
+
+On the subject of faults, there are some cons:
+
+Timers: In the vanilla missions, most of the time you have to complete your objective within a certain amount of turns. 
+
+There is also the Avatar Project. That's basically a bar that fills up as the aliens progress, and when it reaches its fullness, it usually means game over. 
+
+If you're like me, you like to take your sweet ass time playing this game, and don't like to rush. Well, there's a mod for that too. Some eliminate the Avatar Project and timers altogether, or ones that extend them. Problem solved.
+
+So, if you're a big fan of XCOM and turn based strategy games, buy this. You won't regret it. Good luck, Commander.",0.7616690993309021,43,True
+268500,47793830,76561198045745898,"Good game with excruciating negative feedback loops.
+
+If it so happens that you get unlucky and lose ONE mission, most of your units will be killed or injured for a huge amount of time, and unless you spend all your credits rebuilding a crew you will lose the next. And if you do rebuild a crew, you will have no money left for essential upgardes and you will lose the next one. And the next one. And the next one. Basically losing one mission means you are completely screwed on the long term and will have to start over or just continue playing knowing that you will NEVER get back on your feet. Because the game punishes you exponentially, for mistakes, but also for pure bad luck.
+Apparently, the game designer said they wanted the player to take risks during missions, and they implemented a time limit.
+If you want me to take risks, maybe don't make it so I have to start the game from scratch everytime something bad happens, or reload savestates endlessly. The campaign has a time limit. The missions have time limits. And my patience and available free time have limits as well.
+
+The game is still enjoyable at the core and this is a harsh critic, but some mechanics are really perplexing and frustrating. Will keep playing though, so can't say it's a bad game altogether.",0.7614216804504395,56,True
+268500,60670704,76561198038601355,"1. This game is AMAZING.
+I've been desperate to play a little more and a little more, amounting to stupid amounts of hours. The tactics, the missions, the feels (both good and bad), its all so cool. I'm always on edge and thinking about how to counter the aliens while managing the base/home ship. This game grips you, and forces you to make hard decisions. I get the same vibe as when I first played sc2 wings of liberty a long time ago. 
+
+2. This game is HARD!
+First, you don't have enough supplies, people, weapons, research, contacts or time. You really are a guerilla against the world. Aliens have more and they don't sit around waiting for some guerilla to defeat them. Also, you can't just stop all the annoying shit they throw at you, so you have to choose which hell you prefer. Lastly, your soldiers will die, and when a true veteran, highlevel soldier dies, you will feel it. 
+
+If you wanna play a game where you never lose anything permanently and just repeat missions until you win them, then this is not really for you. But if you think the victory is best when you actually risk something, try this out!",0.7598323225975037,27,True
+268500,21087762,76561197999385566,"XCOM 2 is essentially XCOM 1 with everything dialed up a notch. The short of it is that if you liked and played XCOM 1 for any significant amount of time then you are almost guaranteed to enjoy XCOM 2.
+
+[h1]Great new additions or significant improvements:[/h1]
+
+[b][u]RNG:[/u][/b] The huge role random chance played in the core mechanics of XCOM 1 was something that really bothered me and many other players. Thankfully, in this iteration, there are so many more ways of dealing guaranteeing damage that it is relatively simple to mitigate RNG almost completely with the appropriate style of play. A few things allow this: first off more abilities that are guaranteed to deal damage including combat protocol on the specialist and weapon upgrades that deal dmg on missed shots, cover is more destructible this time around which allows you to easily expose enemies for reliable shots and most importantly the way the game works now allows and even encourages aggressive flanking. It is not uncommon to get 90-100% shot success on most missions mid way through the campaign now as a result.
+
+[b][u]Aggression and overwatch spam:[/u][/b] Due to the way the maps were configured and the constant threat of activating additional groups of enemies, a very defense oriented and overwatch centered tactical play style was considered optimal in XCOM 1. This is entirely not the case in XCOM 2. The way the maps are setup now, it feels like you have much more room to maneuver around the map without fatally exposing your squad. With the concealment mechanic which lets you sneak up on the aliens and with the presence of turn limits on many more missions this time around, the game actually encourages an aggressive playstyle where you take out enemy groups with 1-2 turns of activating them through aggressive flanking and, as is my preference, heavy use of explosives. Another important aspect of this is that using explosives no longer equates to losing the loot you desperately need to fund your operations. It’s a little bit more complicated than that but generally speaking you don’t have to stress so much about not blowing up the aliens this time around.
+
+[b][u]Additional customization options:[/u][/b] I really wasn’t into tweaking the appearance of my soldiers in XCOM 1 that much but with the mind blowing amount of customization options available now, I’m really getting attached to some of my soldiers that I’ve decked out to look badass. The character pool system which lets saved soldiers randomly appear in your campaign as recruits or VIPs or scientists and engineers is also quite brilliant and unexpected allowing for favorite soldiers to effortlessly reappear in a new campaign. With the out of the box support for mods through steam workshop, the already staggering number of options will only grow.
+
+[h1]Things which are problematic:[/h1]
+
+[b][u]Unresponsiveness:[/u][/b] I had this complaint with XCOM 1 as well. What I’m talking about is how the game loves to take control away from you in the middle of the action, locking the camera and disabling input while it makes you stare at a “new” enemy that you’ve already seen before accompanied by Central or the Doctor essentially telling you what you most likely already know. There is seemingly more of that this time around and some abilities, in particular gremlin abilities on the specialist have unnecessarily long animations for you to endure. Some of this also applies to the UI in the macro game (the avenger and geoscape). Transferring from the geoscape to the armory menu for instance, take entirely too long and clicking while the animation is in progress may end up sending you to another menu accidentally which only serves to frustrate the matter more.
+
+[b][u]UI streamlining:[/u][/b] In the course of trying to make the UI less dense, a lot of useful information has been buried further down in menus. This leads to a lot of unnecessary clicking to find important bits of information and makes comparing some stats across soldiers unjustifiably painful. The biggest culprit of course, is not being able to see vital soldier stats side by side across soldiers, including their hp and what upgrades they have installed on themselves and their gear. There are several other places where the streamlined approach makes information difficult to discern or understand due to ambiguity, but all this one can get used to eventually, even though some frustration will be encountered along the way. I suspect this is once again a symptom of PC games being constrained by a UI designed for a controller. It’s not a major gripe, but it is something which should have been improved in this iteration and not the other way around as it stands now.
+",0.7576952576637268,149,True
+268500,231861121,76561198172787607,"I loved ""UFO: Enemy Unknown"" when I was but a young teen playing it on a then top-of-the-line 486 PC with VGA graphics and a SoundBlaster card. The decades rolled on and aside from the disappointment of seeing the other 'X Com' shooting game (my own reaction to it would rival Spoony's); having received the first XCOM reboot in its glory was like a gift from the gods. Then to receive another gift in this sequel and its expansions and mods and community and all that, as well as to see they improved upon it without losing the essence of the originals, was satisfying to this nostalgic gamer.",0.6985824108123779,18,True
+268500,212910120,76561198204694285,"You cannot play this game without giving away your data to 2K. It is Mandatory.
+
+Everything collects my data nowadays. Even my videogames, which are supposed to be an escape from the troubles of real life. No place is sacred. I will not be purchasing any future 2K games until this predatory policy ends.",0.6976562142372131,81,False
+268500,178858108,76561198065474399,"Incredibly harsh, but fair and equally rewarding to dominate. XCOM is a tactical strategy game where every single action counts and being caught out of position can be the difference between a resounding mission success or a catastrophic failure.
+
+Once you miss your first %95 shot, point blank, you've truly lived the XCOM experience.
+
+Also, I extremely recommend to play the game with the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2165341111]Core Collection Mod Pack[/url]. Massive improvements to UX and QoL features, tried the game with and without and was night and day.",0.6951022744178772,19,True
+268500,193868751,76561198214739381,4th play-through with Long War 2 modpack. I have easily spent 1000+ hours on this game and will probably comeback again for a 5th run. XCOM 2 is easily top 3 games of all time for me. Buy this if this genre is your forte.,0.6944513320922852,16,True
+268500,47623475,76561198096390656,"I'm an XCOM veteran player and by that I mean I started my XCOM journey with the original 1994's ""UFO Enemy Unknown"". I was just a wee child back then and because of that I will be forever biased and look at my XCOM experience through rose-tinted glasses. On the other hand, this makes me more sensitive and critical to changes to the core XCOM experience. Through the years I have played most of the consecutive titles as well.
+
+With all that said, XCOM 2 is a game worth playing whether you have history with the franchise or you're a newcomer. For a modern iteration of a classic you get a great mix of the core experience with new features that enhance the experience. I think more could have been done still, especially in respect to the main storyline and progress. My biggest gripe with the game is the repetitiveness of its missions. I felt like there was not enough variety in the levels and by the end of the game I only played the missions I had to. I would also appreciate an Easter egg here and there, but that is just a sentiment.
+
+Overall this is an excellent game and a good remake of a true classic. I enjoyed my time with it and will be playing the DLC during the Holidays.
+
+/ edit: I should add that I had massive issues with my saves not loading. I had to replay some missions and even that was often not a guarantee of successfully progressing through. The game simply froze after a mission and it was quite random, therefore I couldn't observe any sort of pattern to the freezes. Contacting the support didn't help though they did try hard to help me resolve the issue. What I tried then was to lower the graphics settings so my GPU memory usage sat comfortably at around 70%. That was all it took to have a flawless experience. Not a single freeze after that.",0.6943389177322388,18,True
+268500,109825130,76561197997599089,"XCOM 2 is a strategy game with two distinct modes: a global view where you move around and interact with features, and a combat mode where you battle aliens. The combat mode uses a bird's eye view 3D/isometric hybrid, and is turn-based!
+
+I played with all the DLC except War of the Chosen (see my last comment for why...)
+
+THE GOOD:
+- Good variety of mission types
+- The story missions are well-integrated into the more ordinary missions, creating a very immersive feeling
+- The King/Queen monsters were ridiculously tough but a fun challenge to overcome
+- The graphics are really nice
+- I found it really fun to play (when I wasn't feeling frustrated because of the issues mentioned later)
+- Very challenging game that puts you into difficult positions. It feels satisfying to fight your way out of them successfully. Expect to always feel like you're losing the game, but the final victory is very satisfying.
+
+THE BAD:
+- The beginning of the game, with all the DLC included, has an overwhelming amount of stuff going on.
+- There was a point in the game where I started falling behind the aliens in terms of advancement, and I either would have had to restart (wasting 20 hours of play time) or save scum. I chose save scumming, but it did break immersion somewhat.
+- The great graphics are marred by clipping issues. E.g. I've a seen soldier shoot their friend through the head to hit an alien on the other side (without injuring their friend), a soldier walk off a cliff to take a shot (floating in mid-air) and then return, and soldiers routinely move their guns through obstacles and fire bullets through impossible obstacles like concrete or the lengths of cars.
+- The font is too small for anyone over 40 to read. I found a workaround online, but the enlarged font is still pretty small, and it causes the text to scroll (very slowly). A scrollbar I could control would have been nice.
+- The UI for assigning equipment before battle is cumbersome. If you have multiples of an object type to assign, when you try to assign them to soldiers the soldiers end up fighting over 1 object instead. This is very frustrating.
+
+THE UGLY:
+- The game crashed on me once
+- There was a time when the camera bugged out and started shaking uncontrollably. It gave me motion sickness. I had to restart the game.
+- I bought the game with all the DLC, including War of the Chosen. However, I didn't understand that War of the Chosen was an enhancement of the same game. So I played through the base game with only the other DLC and *not* War of the Chosen. Then I only realized my mistake when I started playing War of the Chosen and saw the intro sequence was almost identical... <sigh>  The developers could have made this more clear.",0.8441505432128906,68,True

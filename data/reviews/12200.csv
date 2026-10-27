@@ -1,0 +1,951 @@
+appid,recommendationid,author_id,review,weighted_vote_score,votes_up,voted_up
+12200,184183530,76561198994375435,"masterpiece, nostalgia for the PS 2 era. playing it again now is really fun
+
+note: this PC port is bad, crashes and can only 30fps. you have to install a mod called [b] BullySilentPatch [/b](https://github.com/CookiePLMonster/SilentPatchBully/releases) to unlock the fps and fix crash issue.
+
+how to install the mod:
+1. extract all the file to Bully.exe file location
+2. open ""SilentPatchBully.ini"" file with notepad
+3. change ""FPSLimit=30"" to ""FPSLimit=0"", then save
+4. just like that, simple :)",0.9734858870506287,646,True
+12200,116365194,76561198009740261,"In the state downloaded from steam the game is very unstable and runs like garbage on Windows 10. Luckily it can be made very playable easily by doing the following:
+1) Install Widescreen Fix by ThirteenAG. Overwrite any files
+2) Launch and configure game at correct resolution
+3) Install SilentPatch (Build 3 BETA) by CookiePLMonster. Overwrite any files 
+Done!
+Optional Steps for Optimal Experience
+4) Update SilentPatch.ini FPSLimit =60.*There are ~4 missions where 60fps breaks the game. To complete these you will need to set FPSLimit=30, beat the mission, and set it back to 60 again.
+5) Install Bully -Extended Draw Distance mod by Jessica Natalia on ModDB
+6) Install Bully -Anniversary Edition HUD by AuraShadow on ModDB
+
+Tutorials can be found on Youtube but make sure to install SilentPatch AFTER installing & configuring widescreen fix. Game is much more stable this way.
+",0.9521058797836304,278,True
+12200,56464131,76561198160257433,"Crashes, crashes, and more crashes. Annoying, right? Let's fix that.
+
+1. Right click on Bully: Scholarship Edition in Steam Library.
+2. Hover over Manage in the drop down menu.
+3. Click Browse local files.
+4. Find the program named Bully. It will have a B icon next to it.
+5. Right click on Bully, and in the drop down menu that pops up, click Properties.
+6. Another menu will open. On the top section of this menu, click on Compatibility.
+7. Check the box that says ""Run this program in compatibility mode for:""
+8. Click on the text box under the checked box.
+9. Select Windows 7 from the drop down menu that pops up.
+10. Click Apply at the bottom right of the menu.
+11. Start Bully: Scholarship Edition. 
+12. NO MORE CRASHES!!!",0.9467659592628479,229,True
+12200,168139518,76561198142247081,I love this game. Why Rockstar hasn't done another one yet is truly baffling. This was an actual masterpiece and does deserve a remake and a sequel.,0.9443374276161194,212,True
+12200,44284382,76561198101369184,"favorite rockstar game give it a shot
+remember to get the patch if you are in win 10 
+https://github.com/CookiePLMonster/SilentPatchBully/releases",0.9433361887931824,193,True
+12200,129138332,76561199064438494,"This game never fails to amuse me. 
+
+Bully was for all the kids who couldn't convince their parents to buy them GTA.  Before long, we realized that this game was possibly much better.",0.9315165281295776,221,True
+12200,192491879,76561198730184972,"this game is peak however note this game needs to be patched with the 3.0 silent patch of github to work i love the game but rockstar is selling a broken product and it really sucks for people who haven't played the game.
+
+how to fix it:
+download the silent patch from github 
+unzip to main directory of the bully files 
+change settings in the github config i recommend changing the memory release
+then play the game 
+
+its a simple fix but one that shouldnt even be required after buying a game that says requires windows 10 but the ost in this game alone makes it worth it.
+
+you can dm if you need help with the files and installation if required
+
+also play the game OG first then try mods some really good ones such as the online and zombie mod this game has it all",0.918704092502594,111,True
+12200,216520007,76561198292914642,this game is awesome but now it's also kinda sad bc you know rockstar's greedy asses aren't ever making games like this ever again,0.9161946773529053,185,True
+12200,61241602,76561198926311775,"This is a great game, but it is a little bugged. To fix it, just install ""SilentPatchBully"" and it will fix all of your issues.
+
+Guide: https://www.youtube.com/watch?v=k5L5np3IauQ
+(It also auto updates which is very nice)",0.9119829535484314,173,True
+12200,231815545,76561198405909473,"this is my first time playing Bully and, god*amn, this game is fun.
+BUTT, a big one you need mods and fixes to be able to enjoy the game.
+The best mods to download if you want to just remaster the game are 
+(mods can be found on NexusMods)
+1- Reshade 
+2- Better Sounds 
+3- Silent Patch (edit frame rate to 60)
+4- derpy script loader
+5- Balls of Snow mission fix
+6- Extended Draw Distance 
+7- No Blur No Fog 
+8- Bully Anniversary Edition HUD
+9- True Autosave
+And that's it your game will be great.
+Overall it would be 10/10 if it was just install and play, no modding required But no you must download mods 
+
+[b] Overall 7/10 [/b]",0.9014269113540649,119,True
+12200,214868400,76561197973445221,"I waited too long to play this game. apparently it sucks on windows, but on linux I have no problems or crashes what so ever.
+
+Highly enjoyable game, especially if you like gta, saints row and the likes.
+
+When on sale, one of the best three fiddy (eur) one can spend.",0.8988550901412964,107,True
+12200,222117711,76561198798955304,rockstar. rockstar i love this game. fix it. fix the game. you can't sell a decade plus old game for $15 USD and have it NOT WORK. love the game. run the patch. devs please make functional games i beg. if you can optimize rdr1 for netflix you can fix bully's crashes.,0.8930550217628479,91,False
+12200,185172135,76561198028571493,"I want to preface this by saying: Bully is an absolutely PHENOMENAL game that I highly recommend anyone to play, especially if you're already a fan of open world GTA-style games. This review is not for the game Bully itself, but instead for specifically the PC port of the game that's available for purchase on Steam. 
+
+Visually and gameplay-wise, this is a pretty damn good port for an older title in my opinion. It definitely feels like the lighting and textures got a bit of an upgrade since the PS2 era, and there's little to no issues with glitches in the gameplay itself other than the camera getting stuck here and there. The main issue with this port, and the reason why I struggle to recommend it for purchase, is because this game is VERY unstable. The PC port of Bully is infamous in the community for almost being unplayable due to its instability, as the game WILL crash with little to no warning at any point while you're playing, and it will be FREQUENT. The game may crash while loading a new area, while you're loading into a mission, while you're finishing a mission, or even just when you're walking around in the overworld minding your own business trying to get from point A to point B. It's almost impossible to play this game for any amount of time over an hour, if you can even play for that long without it crashing, that's how unstable this build is.
+
+A big part of why the game is unstable as hell is no doubt because it doesn't play with with Windows 10/11, but there's not much that can be done about that since Steam doesn't work on older OS's anymore. There's an avid community of people that have been tirelessly trying to figure out how to keep the game working for longer on a modern OS, which involves a LOT of modding, but even with all the bugfix community made patches and mods the game STILL won't run properly for longer than an hour at best. And, the worst part of all, because the game is so unstable if you attempt to run it in compatibility mode for an OS older than Windows Vista and/or run it in admin mode to assist its stability, the game will refuse to allow you to register any controllers plugged into the computer, which is far and away the optimal way to experience this game as the keyboard and mouse controls are absolutely ATROCIOUS, especially when you're using vehicles like the skateboard and bike.
+
+TLDR: Bully is a GREAT game, with great gameplay, fun characters, a banger soundtrack, and a fantastic story. Unfortunately, the PC port (especially on newer machines) is absolutely awful. If you can find another way to play this game that doesn't involve playing it on steam, I recommend doing that instead, because this port simply does not work without it crashing every 15 minutes.",0.8906641006469727,202,False
+12200,165538700,76561198006673932,"This game would never, ever get made now.
+
+We need a sequel to this way more than we need GTA6. 
+
+I would go as far as to say this is one of the most original games ever made. It's not as crazy as games like Postal, but it walks the line between a reasonable mainstream release and one of the most surreal gaming experiences you will have in your life. 
+
+Where the Red Dead series is incredibly grounded and the GTA series is occasionally obscene, Bully steers more into the anarchic insanity sometimes found in the worlds or the latter. 
+
+People who state that you are a ""Bully"" in this title have never played it. The world is far more complex than that, for all it's comical rhetoric on issues with educational system in western countries. You are simply an individual who is caught up in a world of problems, which you are not responsible for. The player, should they choose to Bully anyone, can do so. However, the protagonist (Jimmy) is a neutral party with an often rational way of approaching each situation.
+
+You are an observer in a world that is a parody of real issues we have all faced. 
+
+Returning to this title, in adulthood, allows for cathartic reflection. If anything, this title is a positive challenge which playfully puts widely ignored issues under a magnifying glass.",0.8870512843132019,95,True
+12200,179533236,76561198144166395,"BUYERS BEWARE.
+
+Is the game good? 
+Absolutely. It has been ever since I first played it. In fact I will stand by the fact that Hogwarts Legacy absolutely fails where this game succeeds: You feel like an ACTUAL student.
+
+But does it run good? No. No it does not.
+It runs like an old man falling down the stairs. You should mod this game immediately after running it at least once.
+
+If you are wanting to buy this game for the sake of having it on the Steam Library, go right ahead, but don't feel bad for emulating this game, because Rockstar did the bare ass minimum to support it.
+
+Had I known it was in the state that it was, I might not have given my lunch money to Rockstar, but what's done is done.
+
+5 out of 5 stars game, but this pc port runs like Algie with a wedgie",0.8794041872024536,77,True
+12200,209894894,76561198970286322,"I graduated from high school back in 1978 and I got bullied a lot then, unfortunately I still have terrible dreams of those experiences. However, this game made me get over those experiences and it made me feel better about myself. Thank you Jimmy Hopkins.",0.875425398349762,130,True
+12200,85571821,76561198071162637,"[b]***First off I need to stress that without the Silent Patch for this game you will have frequent crashes on Windows 10. With the Silent Patch the game runs fine.***[/b]
+The patch can be found [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1323609222] here. [/url]
+
+ Bully: Scholarship Edition is a slightly updated version of the original 2006 Bully game. Scholarship Edition was released in 2008 on the next gen platforms at the time (PS3, Xbox 360, Wii) and adds some additional content and fixed some bugs as well. Bully, in essence, is the Grand Theft Auto games but if you were a kid. You play as Jimmy a new student at Bullworth Academy, a private boarding school. From here the antics ensue as you work your way from new student to king of the school, earning respect from the various cliques along the way. There are around 75 or so missions to complete throughout the open world and what I found entertaining with this game was the day/night cycle and the aspects related to it. Every day you have 2 classes to attend or not attend it's up to you (though I do recommend getting a few classes under your belt early on as passing each class gives you special perks/abilities that come in handy throughout the game). This along with the repercussion of staying out too late at night (you pass out after 2am and lose all your items) adds a nice wrinkle to the gameplay that I wasn't used to, having only played a few GTA games before this where the day/night cycle doesn't have too much of an affect on the player or gameplay. Being able to fulfill the fantasy of being the bully at school, causing chaos, running rampant throughout the halls, pushing kids in lockers, spraying paint on the walls, running from authority is what this game is all about. As the main story progresses the town of Bullworth gradually opens up to you and you can fully explore the open world Rockstar North created. This game may show it's age graphically and in certain gameplay moments, but overall it was definitely a fun experience.
+
+7.5/10",0.8739825487136841,72,True
+12200,120944040,76561198071487317,"The greatest game ever made in history.
+Every time I open this game and hear the tracks I feel like I want to cry. I used to be so happy and positive when I was a kid, where did the years go...
+
+Nostalgia is truly a beautiful feeling, yet, it remains very sad when you realize you can never live that time again.",0.8720123171806335,83,True
+12200,117885195,76561199166372807,"A timeless classic, played and completed this game years ago on Xbox 360. Only issue with the PC version is that you need to download a few patches before the game will run as intended on PC... Here is the link https://www.youtube.com/watch?v=k5L5np3IauQ",0.870410144329071,62,True
+12200,80970605,76561198112945978,"Crash fix and how to unlock 30fps:
+
+For those who have been playing on Windows 10 and suffering to crash at all times and/or want to unlock the 30 fps limit, just write on google /exactly/ like that: ""SilentPatchBully"". The first github link must be the correct one, from CookiePLMonster. Download SilentPatchBully.zip and unzip it in your game folder, after that, open the .ini that came in the files and change the value of ""FPSLimit"" to 0, it will disable the 30 fps lock and it will run smoothly.
+
+
+Pt-br:
+Recomendo pra krl, zerei varias vezes no PS2 e no PC e ainda continua f0da. Não tem época pra se jogar, assim como GTA San Andreas, sempre vai ser divertido.
+Só vai!
+
+Pra quem tiver jogando no Windows 10 e sofrendo com crash a todo momento e/ou quer destravar o limite de 30 fps, é só jogar no google /exatamente/ dessa forma: ""SilentPatchBully"". O primeiro link do github deve ser o correto, do CookiePLMonster. Baixa o SilentPatchBully.zip e descompacta ele na pasta do seu jogo, depois disso abre o .ini que veio nos arquivos e altera o valor do ""FPSLimit"" pra 0, assim vai desativar o 30 fps lock e vai rodar liso.",0.8701563477516174,78,True
+12200,12736040,76561198076711420,"I love Bully. It is my favorite open-world game and is my favorite game of all time. I love Red Dead and GTA, but not everyone has been a cowboy or a criminal, but most everyone's gone to school. You may not relate excatly to Jimmy but you will relate to him more than John Marston or any GTA character. Also the level of customization is something I havent really seen in any other Rockstar games, making Jimmy your Jimmy and interesting. I have played this to death, and you should too.",0.9193715453147888,552,True
+12200,109181031,76561197973161949,"Went to school
+Uppercutted a Hobo
+kicked a Dwarf in the nuts
+went to gym
+
+then came home and played bully",0.9173067808151245,217,True
+12200,197393516,76561199704858368,"If you don't want as many crashes, get rid of anti-aliasing. You also have to use a low resolution that works for the game. Though if you go into file explorer, and right click Bully, check properties and go to compatibility mode and use Windows 7, then you can use anti-aliasing. This is easier than using Silent Patch",0.8626065850257874,64,True
+12200,212910812,76561197984631696,"One of the rockstars finest creations. Shame that the port is so garbage that this is unplayable. There should be laws written to make it illegal to sell product this badly optimized. This  game crashes every 30 minutes and without autosave you will lose your progress.
+
+Most of the bugs are fixable with mods but it should not be die hard fans responsibility to fix their subpar product.",0.8615542054176331,135,False
+12200,88801387,76561198347585356,"Brings back good old memories. :')
+
+Fell in love with the game when I had it back on my PlayStation 2. It is still worth playing. 
+Just completed the game again and I am planning to play it again in the coming months. I just can't get bored of this game. 
+
+Wish they made a sequel or a remaster of this game.
+
+Note: For those who are having trouble playing this game because of frequent crashes,
+install SilentPatchBully by CookiePLMonster 
+
+https://github.com/CookiePLMonster/SilentPatchBully/releases
+
+and find Bully.exe in the steam folder then right click and click the compatibility tab. 
+Check off the compatibility mode and set it so Windows XP Service Pack 3. Then, in the same tab, check the run as adminstrator option and save those settings.",0.8559418320655823,61,True
+12200,11775810,76561198041148098,"One of the best sandbox-style games I've ever played! Bully beautifully weaves tweaked Grand Theft Auto gameplay with the universally relatable life story of young Jimmy Hopkins. The setting of a fictional New England boarding school and the nearby town of Bullworth are perfect for this kind of story, following Jimmy as he faces the same challenges that every kid faces growing up, like keeping up with schoolwork, fighting back against bullies, experiencing your first kiss, causing chaos through pranks and hijinks, and finding acceptance between various cliques and social groups.
+
+The writing is brilliant, supplying a colorful cast of characters, missions, and story arcs. Including Jimmy himself, all of the NPCs seem practically handcrafted with the amount of personality and detail put into them. Each character has a unique model, and their own unique set of dialogues and animations. On top of these fantastically created characters, the plot is just as good. I was immersed into a world that I could have sworn was from an 80's Hollywood flick, drawing inspiration from coming-of-age tales like those of Sixteen Candles, The Breakfast Club, and Catcher in the Rye. With such a wonderfully realistic world full of jocks, preps, nerds, and other odd townfolk, I almost wish that my own school days growing up were as interesting as those of Bullworth Academy.
+
+The gameplay is just as entertaining, using similar mechanics to GTA, such as a wanted system (called Truancy, of course), a combat system filled with a diverse array of punches, throws, and weapons at your disposal, different vehicles, mini-games, and other various activities and collectibles for completionists. As usual, there are missions given by various NPCs, some advancing the main story, and others being small side activities. Camera angles can be strange at times, but I've never experienced any gamebreaking issues with it. Overall, the gameplay has enough variance where it doesn't get too repetitive, and it strikes a nice balance that makes it both interesting and easy to pick up.
+
+Compared to other open-world games, Bully is by far my favorite. One of the few titles I've been compelled to complete 100%. If you're looking for something different in the same vein of games such as Grand Theft Auto, Saints Row, and the like, I highly recommend looking into Bully: Scholarship Edition. You won't be disappointed.",0.9056016206741333,188,True
+12200,94571075,76561198328076669,"[h1]DISCLAIMER[/h1]
+[b]You should only purchase Bully: Scholarship Edition if the following statements apply to you:[/b]
+
+1. You already have a controller or can buy one. Playing this game with mouse and keyboard is the most suitable definition of the word [i]""chore""[/i] – and that's coming from a lifelong mouse-and-keyboard player. Controlling the camera and aiming with a mouse will feel horribly unresponsive, and the button layout is so confusing at first that you'll need to spend half an hour setting everything up. Moreover, if you don't have an Xbox gamepad, be ready to perform a little shaman dance and tinker with different settings to get the game to register your controller inputs. Don't worry though – if [i]I[/i] could do it, you can, too.
+
+2. You're okay with downloading and installing third-party software to prevent the game from crashing every five minutes and erasing your progress. Link: [url=https://github.com/CookiePLMonster/SilentPatchBully/r..]Silent Patch.[/url] Setup instructions are located in [b]ReadMe.txt[/b] and are pretty straightforward; your grandma could do it even without her glasses. I would strongly advise against playing Bully without this patch unless for whatever reason you think you deserve to suffer and want to mentally torture yourself, in which case I'd recommend seeing a specialist.
+
+[h1] Too Long; Didn't Read [/h1]
+> A large game deserves a large review. For those who want a quick description without delving too deeply into details: Bully is up there with Saints Row and (maybe) Sleeping Dogs; it has all the breakneck fun of the GTA series that you're so familiar with minus the trademark starchy seriousness of a convoluted criminal drama.
+
+[h1] Completion Time [/h1]
+> Finishing the main story will take you about 15 hours, and almost twice as long if you're planning to go for [b]100%[/b]. I'm not the fastest player in the world and I like exploring every nook and cranny, not necessarily doing something that contributes to the completion percentage, and I was done with the game in 33 hours. About forty minutes were spent grinding the same repetitive jobs to get the money to buy some fancy clothes, but this is what we do in real life every single day, so you should be okay with that. The rest of playtime is quite varied, exciting and rarely gets old.
+https://steamcommunity.com/sharedfiles/filedetails/?id=2528057948
+[h1] Cutscenes | Missions | Classes [/h1]
+> When I saw the first cutscene, I immediately fell in love with the characters. Most of them [spoiler](all of them)[/spoiler] are douchebags, yes, but the dialogues, the animation and the voice acting are such treats that you can't help but put your controller down, sit back and enjoy each cutscene like a great 30-second movie.
+
+> There are 52 Story Missions, 24 Side Missions and 50 Errands. They are usually awesome, but some are questionable to say the least. For instance, you'll be delivering what looks like drugs to different people around the area, taking pictures of showering girls for a horny teenager, or, worst of all, collecting dirty laundry from the girls' dorm for an old pervert who will obviously use it for his own nefarious purposes. You can also participate in sedating a clueless Chemistry teacher. He is then [spoiler][i]raped by the school's cooking lady[/i][/spoiler] who promises to show him everything she knows about chemistry... and biology. Enjoy your wicked adventures.
+
+> You can attend classes twice a day; they are small mini-games which are pretty cool: dissecting animals, making words from jumbled letters, playing percussion instruments, painting naughty pictures of your art teacher, Ms Philips, and so on. You should never skip classes because they give pretty cool rewards; for instance, you'll be able to see all collectibles on your map after finishing the Geography course.
+https://steamcommunity.com/sharedfiles/filedetails/?id=2519323348
+[h1] Soundtrack | Sound Quality [/h1]
+> I loved most songs, they fit the game's atmosphere pretty well, but there is one big issue – most of them feel like they are 15-second loops, and if a mission is particularly long, the music can just stop and you'll be left finishing your exciting bike race in deafening silence.
+
+> The first time I played Bully in my headphones, I was taken aback by the poor sound quality that was not noticeable before. You get used to it pretty quickly though, so no worries. What you will never get used to are shrill, maddening car horns that [u]pierce your eardrums[/u] and most likely give you cancer. I have never heard such annoying noises in my entire life; imagine a toddler screaming at the top of their lungs – it's like Beethoven's Moonlight Sonata compared to the car horns in this game. I was genuinely afraid of riding my bike in the road because of this, and I can't fathom how anyone thought it was a good idea to put a secret state-of-the-art CIA torture device in a videogame.
+
+[h1] Graphics [/h1]
+> Most things are quite pleasant to look at, except for Edna the cook – you'll understand. Overall, the visuals in Bully have this special charm of an oldish childhood game you used to play with your brother, but now you don't talk that much anymore and he lives in another city with his wife and two kids. 
+https://steamcommunity.com/sharedfiles/filedetails/?id=2521358322
+[h1] Carnival | Races | Jobs [/h1]
+These are the three main activities you can engage in apart from completing missions and errands.
+
+> The travelling carnival is one of the coolest things in Bully. There's a shooting range, a couple of rides and other standard carnival diversions. You can win tickets and use them to buy awesome things like room decorations or a scooter to zoom around town. 
+  
+> Speaking of [i]zooming[/i], there are 14 bike races and 8 go-cart races to complete. Most of them are boring, many follow the same path with very minor variations. Your opponents are very easy to overtake, but they're scripted to be tailgating you for the entirety of the race, never letting you relax even for a brief moment. A certain jankiness is present when driving a scooter or a go-cart; your vehicle will constantly jitter back and forth just a little as if having a seizure. This is not the case with bikes, and not a problem when you get used to it, but it does spoil the overall impression a bit.
+
+> Unfortunately, jobs offer very little variation as well – it's either delivering papers or lawn mowing. Each job has 3 stages, but they're all the same – the only difference is in the requirements. This is pure tedium, but you'll be doing it anyway because you need the money; which, once again, should be nothing new for most of us. 
+
+[h1] Clothes, Haircuts and Tattoos [/h1]
+> There are 4 clothes shops in Bully, and you'll need upwards of $3000 to buy everything, which is a lot of money in the game where you get $30 on average for completing a mission. You can also give Jimmy (the protagonist) different haircuts and he can even have tattoos; the latter are very hard to actually see while playing or during cutscenes. The customisation options are pretty nice and varied though, and I enjoyed shopping a lot.
+
+[h1] Collectibles [/h1]
+> [b]75[/b] rubber bands, [b]40[/b] Grottos & Gremlins cards, [b]25[/b] garden gnomes and [b]6[/b] transistors – have fun collecting them all! Most are in plain view, but some are tucked away or located in areas where you'll only be able to go near the end of the game. That's why you shouldn't trust a midget lady who tasks you with destroying 25 garden gnomes, [i]saying that they're all located in Old Bullworth Vale[/i] – one of the starting areas. This is simply not true. She's trying to bamboozle you and promises to pay as well, but you won't get any money actually, so don't get your hopes up. 
+
+[b]In conclusion, Bully was great, even with its little flaws. Try it out![/b] 
+
+[table]
+    [tr]
+        [th]Final verdict[/th]
+        [th]❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ✘ ✘[/th]
+[th]8/10[/th]
+    [/tr]
+[/table]",0.902858555316925,125,True
+12200,82224897,76561198114586751,"[b]Bully: Scholarship Edition | ★★★★★[/b]
+
+I don't think this game really needs a remastered or remake, just a better port. Granted the aged graphics, It still holds up to the standard of gameplay Rockstar produced. There's a lot of origin formula here that somehow makes it to their future game and many that didn't. In my opinion, this is their most interactive game they make up to date.
+
+The OST just hits different, one of the most catchy instrumental sets of music I've heard. Especially the ones on free roams. Whenever those bass hits, you're just gonna find yourself enjoying it.
+
+For all those years that I've played these bits by bits, I thought Jimmy Hopkins is just a sarcastic person but man he was just really dumb. Script writing for this is really cheeky, there's a lot of jokes that's hidden behind an innocent delivery that it would just make me laugh whenever I caught it.
+
+Overall, This port is garbage, but the game is tremendous. The scope of it is just unparalleled for a 2006 released game. Just writing this short review makes me remembered the time when I am watching a lot of Easter Egg mystery of it on YouTube around 2011. Damn, what a time.",0.8514569401741028,77,True
+12200,215624490,76561197983971513,"Certified hood classic. 
+
+Need a patch to get it working on modern PCs so be wary of that before buying. 
+Make sure you read a guide/watch a youtube video about patching this game for newer systems it's pretty simple. 
+",0.8507993817329407,56,True
+12200,205735888,76561199674591355,if u want to  fix the crash just find the Bully.exe then right click and click the compatibility tab. Check off the compatibility mode and set it so Windows XP Service Pack 3 check the run as adminstrator then apply but once u do it u cant play controller(great game btw),0.8399105668067932,53,True
+12200,211055060,76561198692451077,"The ultimate masterpiece, the one game I could play forever and forever. I wish there was a Bully 2.
+Also to fix the crash problem, open task manager and right click, go to details, then right click on Bully exe and set affinity, choose only 2 CPUs and it won't crash anymore.",0.8878628611564636,88,True
+12200,113142259,76561198075648709,"Janky as hell, capped at 30fps and terrible audio equalization. Still a fun game and worth playing through. Definitely deserves a sequel and/or a faithful AND WELL DONE/NOT RUSHED remaster or remake.
+
+Some people in the reviews are saying this isn't playable ""even with fixes"" which is NOT true. All you need to do to play the game at a stable 1080p30fps with ZERO issues is to download ""Silent Patch"". (You can also download Widescreen Fix along with Silent Patch if you have a bigger screen). I have played the entire game from start to finish with [b][i]ZERO[/i][/b] crashes on Windows 10.",0.8369046449661255,58,True
+12200,204391486,76561198080064268,"Such a fun and witty game. A very Rockstar game with interesting characters, great humour and engaging gameplay. This game is not a masterpiece, and it's not trying to be, it's just a solid fun experience.
+
+Play it with a controller. The keyboard/mouse controls suck.
+
+Possible fixes for people experiencing issues:
+- [url=https://cookieplmonster.github.io/mods/bully/]SilentPatch[/url] by CookiePLMonster
+- [url=https://fusionfix.io/wfp#bully]Widescreen Fix[/url] by ThirteenAG
+- [url=https://imgur.com/a/bully-dpi-fix-5H1v81M]Change DPI scaling[/url]: Right click Bully.exe > Change high DPI settings > Check [i]Override high DPI scaling behaviour[/i] and set it to ""Application""",0.8357380628585815,47,True
+12200,215056160,76561199131447877,Great crash simulator. The actual game shows up briefly between crashes.,0.835525631904602,126,False
+12200,232867492,76561198045776524,"The best Rockstar game to date.
+
+To all the people complaining about crashes, literally look at the top guide and follow the instructions and it will work perfectly, it took like 2 minutes.",0.8352992534637451,54,True
+12200,189904558,76561198080516501,"This port is pretty much unplayable without downloading a third party patch from silent and alerting a .txt file to get it to run at 60 FPS instead of the default 30 FPS. Otherwise it will crash randomly, audio files will play over each other and shaders will just pop in and out of existence. It's honesty shocking that this is even for sale on steam because after all the issues I had with this version, I got my hands on another port from an abandonware site that plays beautifully. So I have no clue why rockstar is even selling this.",0.8350952863693237,81,False
+12200,219520482,76561198074057615,You have to play with the silent patch mod to play this game nowadays due to it fixing the constant crashing on modern windows os but it pays off once you get it running. Easily the most creative rockstar game they have ever made,0.8311178684234619,48,True
+12200,13897269,76561198019205444,"Welcome to Bullworth Academy. You play as a 15 year old thug of a kid named Jimmy Hopkins in this third person open world beat-em-up. Sure you get plenty of weapons like the slingshot, eggs, stink bombs that prevent enemies from attacking, firecrackers, a potato cannon and even a bottle rocket launcher, but you'll be spending most of your time brawling. The game is Bully, but you're more of an avenging angel. Sticking up for the weak, but following missions from pervert teachers, and the local crazies. Its the characters in Bully that really make the game stand shoulder to shoulder with Grand Theft Auto games. There is also plenty to do outside of the story missions. Bike races, collect-a-thons, arcade games that are worthy of their own games, classes that are really mini games that will unlock things for you and even a camera so you can take photos of every dumb thing you'll see. Instead of mayhem and murder like the GTA franchise, Bully is more of criminal mischief and knocking people unconscious. You don't even brutally win fights, enemies just fall over. You can finish them off with a childish noogie, putting them in a headlock and spitting on them or one of the many other silly ways.
+
+The game plays similar to Grand Theft Auto: San Andreas meets the Warriors. You have jump and run buttons. An attack that you can hold for a strong attack. A target lock on for projectile weapons. If you don't have one equipped, it becomes a block button when you're not attacking. A free aim button for your sling shots, eggs and so on. A grapple button for when enemies block. You can shove someone when grappled. A taunt button that you can also take them down if grappled. Its a nice simple combat system. A local bum will teach you better attacks when you find and bring him radio parts. Your wrestling coach will teach you grapples in class. The items in your inventory are easy to select on the fly. You can also pick up things like bats and bricks to use and throw. You can even make peace by talking or bribing your way out of things. When you need health, just drink a soda or find some food.
+
+The game is broken up into chapters, the first chapter takes place exclusively in the academy, but chapter two opens the gates and lets you into the rich side of town. Chapter three unlocks the poor side of town and chapter five unlocks a large industrial side of town. There's not only a sense of progression from parts of the town opening up, but the game takes place over a year and you'll see the seasons change. You'll participate in Halloween, slide around in the winter and see spring return.
+
+Each chapter focuses on a faction and there are plenty of them. Nerds in green, bullies in white, greasers in leather jackets, preps in aqua berry and jocks in blue. Each faction has their own turf at the academy, and outside the academy as well. There are even factions outside of academy that will rise against you. All factions have a respect level for you. The less respect, the more likely the members will chase after you wanting a fight! Story missions will always change a faction's respect for you. Sometimes a little, sometimes a lot.
+
+Since this is an open world game you'll be doing a lot of traveling. The main way is by foot. You need to mash the run button to go fast. The enemies all run as fast as you do, but luckily they have stamina and Jimmy doesn't. You quickly unlock a skateboard that sits in your inventory. Its much quicker, but can't go upstairs without a sweet jump or over muddy terrain. There are also bikes, but the bikes feel few and far between. You can throw someone off a bike and steal it, or you can buy a bike, but then it sits in a garage, making it useless when you need to visit a garage in town when you're at the school most of the time. Other than that, you can ride lawn mowers and mopeds. It all feels like a balance. To get speed you button mash. If you're on a lawn mower you're stuck going slower than walking. If you're on a moped you need a helmet or the cops will be after you.
+
+Speaking of laws, there are plenty. You have typical laws against violence, but there are also truancy and curfew laws too. The game lets you know what your offense is on a three step 'wanted' level. When your wanted level hits red, then you can't struggle against the authorities. When they catch you that's it. On campus there are perfects, that act like the police. They'll bring you to class if you're truant, chase you for a dress code violation like wearing a chicken head and stop you from bullying. Sometimes them bringing you to class is more efficient than running to it. When you're in violation, you'll see not only the authorities highlighted on the mini map, but their vision cones. The game makes use of stealth on some missions, but for the most part, its just avoiding the gaze of the cops and perfects. You can even hide in lockers, the trash or dressers in the girl's dorm.
+
+The game is really set to a timetable that can sometimes break the flow. You wake up in the morning and have two classes in the day. You need to find a bed to sleep and if it gets too late, Jimmy will fall asleep where he is and wake up the next day. You can skip classes, but then the authorities will be after you. I felt stuck and forced to partake in the mini games. I want to point out that the class mini games are entertaining and some are educational, but having them forced upon you when I'm trying to do a mission seems a bit much. You can learn things from the game. Such as the flags to different countries in geography, a boggle like make a word with letters in English and even how to dissect animals in biology. I'm not saying this will replace schools by any means. There are also typical timed button press mini games that are less impressive. The game offers a wide array of mini games, even games that parody other games, such as Paperboy, Punch Out and dodge ball! There are even random people that will give you side jobs, like throw 3 nerds in lockers, deliver 3 fries, collect 5 crabs, and so on. All fluff.
+
+The money feels useless. You can spend it on weapons, but why bother when he has an arsenal in his dorm room from completing mini games? There are expensive clothes to buy and tattoos, but why bother other than for cosmetic reasons? Sometimes the game forces you to dress a certain way or get your hair done at the barber shop. You can't buy real estate, even if you can clear out a gang hideout to make it a new save point safe house.
+
+There are dozens of characters in the game. In fact every random person has a name and schedule. You can even take pictures of all of them for the yearbook. Most of the characters are downright evil with a few exceptions. Garry, the over the top villain with an eye scar that lies to cause trouble. Petey, the short effeminate best friend. The drunk Santa. The alcoholic English teacher. The two timing dame that uses men. Russell the big dullard so dumb he calls himself Russell. Its all done in a tongue in cheek 1950s stereotype. The game feels very 1950s even with its awful happy beach guitar riffs. It didn't take me long to turn turn the music down to 10%.
+
+I managed to sink around 17 hours into this game, but I've gotta be honest, I wanted to be done a long time ago. I just spend too much time traveling and wasting too much time doing mini games. At some point I stopped going to class just so I could grind through the missions efficiently. Then the missions started getting further and further. Consuming more precious time that Jimmy is awake during the day. Doing missions back to back so late just means that Jimmy would fall asleep on the street. There are also a few game breaking bugs that would cause the game to freeze or downright crash. Not frequent, but at specific points. I still recommend the game for an open world mischief sandbox that lets you do wedgies, throw firecrackers in toilet and slap kick me signs on people, then watch them get beat to a pulp.",0.8804383277893066,153,True
+12200,65424818,76561198163619911,"~ DIFFICULTY ~
+
+🔲 My 90 year old grandma could play it
+✅ Easy
+🔲Normal
+🔲 Hard
+🔲 Dark Souls
+
+~ GRAPHICS ~
+
+🔲 MS Paint
+🔲 Bad
+🔲 Meh
+✅ Graphics don't matter in this game
+🔲 Good
+🔲 Beautiful
+🔲 Masterpiece
+/this game is was released in 2008 the graphics are not that great/
+
+~ MUSIC ~
+
+🔲 Bad
+🔲 Not special
+✅ Good
+🔲 Beautiful
+
+~ STORY ~
+
+🔲 This game has no story
+🔲 Like playing Temple Runners for the story
+🔲 It's there for the people who want it
+✅ Well written
+🔲 Epic story
+🔲 Imagine Kingdom Hearts but on crack
+
+~ PRICE ~
+
+🔲 Free
+🔲 Underpriced
+✅ Perfect Price
+🔲 Could be cheaper
+🔲 Overpriced
+🔲 Complete waste of money
+
+~ REQUIREMENTS ~
+
+✅ You can run it on a microwave
+🔲 Average
+🔲 High end
+🔲 NASA computer
+
+~ LENGTH ~
+
+🔲 Very Short (0 - 2 hours)
+🔲 Short (2 - 15 hours)
+✅ Average (15-50 hours)
+🔲 Long (50-90 hours)
+🔲 Extremely long (90-110 hours)
+🔲 No ending
+
+~ FUN ~
+
+🔲 I'd rather watch paint dry
+🔲 Hard to enjoy
+🔲 Repetitive
+✅ Actually pretty amusing
+🔲 The kind of fun you'll remember
+🔲 Ride of your life
+
+~ REPLAYABILITY~
+
+🔲 It's a one-time experience
+🔲 Only for achievements
+✅ If you wait a few months/years
+🔲 Definitely
+🔲 Infinitely replayable
+
+~ WORTH BUYING ~
+
+🔲 No
+🔲 Wait for sale
+✅ Yes
+",0.8803422451019287,131,True
+12200,16828445,76561198124146005,"I love this game! Probably the best Rockstar game I have ever owned and played. I played when it came out on PS2 and was happy to know that this game was on Steam.  This game has brought so much enjoyment and nostalgia, and can definitely say that I'll keep coming back to this amazing game. 
+
+This game takes place mostly in Bullworth Academy. Playing as the main character, Jimmy Hopkins, a 15-year old teen who fights the bullies, and saves the weaks. Taking over cliques and bringing peace into Bullworth. 
+
+Now these are my Pros and Cons:
+
+Pros: 
+Amazing Game play
+-Nice Funny weapons (Slingshot, Fire Crackers, Stink Bomb, Eggs, etc).
+-Saving Locations (easy access anywhere in the game)
+-Hilarious Characters (voice lines)
+-Good Story Plot  (good morals, etc)
+-Dialogue = Awesome (Cheesy Puns and References)
+
+Cons: (OPINION)
+-Crashes once in a while
+-Stuttering/Freezing
+-Games would not save (this would happen rarely, but would be annoying).
+-A tiny bit of a delay in dialogue
+
+Anyway, I would definitely recommend this game! :D
+~Kibbles",0.8747639060020447,122,True
+12200,216615548,76561199888205965,"The only problem with this game is the PC port. I believe it's memory issues conflicting with newer hardware, but there's a patch for this problem called SilentPatchBully. Before that it'd crash pretty often but runs smooth so far!
+
+As for the game, if you somehow haven't played it, it's a must play. Idk what it is about this game, maybe it's for nostalgia reasons, but I come back every year or couple months to replay the whole story. Great game and isn't anything like it. I'm not sure how Rockstar Games would go about it but a Bully 2 would be phenomenal.",0.8208550810813904,41,True
+12200,78180545,76561198155865675,"Virgin GTA V:
+[list]
+[*]Pay to win
+[*]Economy is a fucking joke
+[*]Constant frame drops
+[*]You play as a psychopath which isn't relatable at all
+[*]NPCs and most secondary characters are one-dimensional and models are repeated often
+[*]Missions are repetitive
+[*]Riddled with hackers
+[/list]
+
+THE CHAD Bully Scholarship Edition:
+[list]
+[*]You pay once and have the whole game
+[*]Economy isn't a joke since you get a lot of money for missions
+[*]You play as a teenager in high school which you can relate to
+[*]NPCs and secondary characters have real lives and personalities, plus there are only unique models throughout the map
+[*]Missions take advantage of setting and are unique
+[*]No Multiplayer without mods, so no hackers
+[/list]
+In all seriousness, this is the best Rockstar game ever made, but the worst port of it. Try to find a mod that stabilizes the game a little and you should be good to go.",0.8700541257858276,98,True
+12200,229026631,76561198110250988,"What the fuck is wrong with this port? It crashes constantly, the audio is bitcrushed to hell and the first cutscene wouldn't even load. Rockstar is one of the largest game companies on the planet and they're entirely content selling a broken product. Any other platform would pull a game from the store if it was this non functional but somehow on steam it gets away with a Very Positive. It's disappointing to see one of their best games treated like this, and it shows complete disrespect to the customer to sell a product that doesn't work. Play the PS2 version until the executives stop fingering their colon on the job and get their shit together.",0.8187998533248901,83,False
+12200,156940421,76561199245080170,"The game itself is great, few changes from when i played it on the PS2. Sad thing is that the crashes and it basically becomes unplayable. 
+Recommended, but not on PC.",0.8168120980262756,105,False
+12200,153740034,76561198400418872,"One of the most underrated Rockstar title, but damn PC version of this game sucks. The game crashes constantly and there is no autosave, if you don't save after completing the mission you are screwed! These issues aside, you should definitely play this gem.",0.8152279853820801,54,True
+12200,190058503,76561199115738451,"Rockstar continues to show their laziness by not fixing this game, it is unplayable since it always crashes. I could not get past the very first mission because the game kept crashing at the same point of the mission. If you want to play this game you need to install a silent patch or it is really not possible to play.",0.8138765692710876,56,False
+12200,115290064,76561199100372103,"This is a great game but don't buy this on Steam. Play this on the 360 or something else, it crashes often and your progress will be lost unless you save in your dormitory or auto save.",0.8123476505279541,70,False
+12200,212718761,76561199635808372,"please fix the bugs, the videogames crashes a lot and you have to restart it over and over again",0.8112207651138306,48,True
+12200,19785766,76561198067505253,"I have played this game fully on the PS2, Xbox 360 and I now bought it on PC.
+
+As far as the differences here, the graphics, load times, and overall enjoyment on the game are quite higher than 360 and Ps2 for obvious reasons. However, that being said, this game is capped off at 30 FPS unless some modding is involved. From a game back in 2006-2008 days it's not surprising though.
+
+This game is very fun, it's refereshing compared to GTA, imagine GTA instead of Guns you have sling shots and stink bombs, and instead of car jacking you have bikes and skate boards.
+
+The game is rich and very open world later on in the seasons of the game.
+
+There are many fun interesting missions in the game just like GTA.
+
+The premise of the game is a troubled kid was sent to a reeform school and is forced to take over and unite the school, removing all the ""Clicks"". 
+
+Each season involves a click, from the bulies to nerds, to preps, its a long fun game that is well worth the money.
+
+This falls under the old GTA system that requires a save after the missions no check points are really there, so failing a mission at the end means re-doing the entire mission.
+
+Music used is fitting along with the sound effects.
+
+This has controller support for the 360 and Xbox One as well.
+
+Graphically speaking this is the best version but its still aged, however pretty good for its time.
+
+Overall I would say definitely worth the money. An A+ rating from me.",0.8589653968811035,108,True
+12200,186041773,76561198255759578,"I love this game. I have since it was originally released...however...the crashing...honestly...
+
+I have the crash patch, but for some reason, the game keeps crashing. I'm too lazy to go in and tweak things because I purchased the game and don't feel I should have to program something because I don't work for Steam...that being said, this is my second purchase of the game, years apart, and I'm a little disappointed that this hasn't been fixed yet.
+
+I don't usually rant, but I just finished a go-kart race, and completed the date with Pinky at the Carnival and I have to do that over again, because the game froze and died. 
+
+Steam: fix this!",0.8059821724891663,102,False
+12200,186212310,76561198966569682,Sucks at first because it crashes every 5 - 10 minutes and loses all unsaved progress. Luckily there's a patch you can easily download (silent patch) which makes the game actually work. Lots of fun now.,0.8049269914627075,44,True
+12200,20255909,76561198206823421,"[b]There are games that entertain and then there are games that leave a mark on your gaming soul, Bully: Scholarship Edition is one of those games.
+I first played Bully back in the PS2 days, and even then, it was a one-of-a-kind experience. Rockstar, the masters of open-world storytelling, gave us something truly unique, a high school adventure filled with mischief, humor, and unforgettable moments.[/b]
+
+[h1]A School Like No Other[/h1]
+[b]Forget your usual crime-ridden cities, Bullworth Academy is your playground. You step into the shoes of Jimmy Hopkins, a rebellious teenager trying to survive the chaos of bullies, jocks, nerds, teachers, and everything in between. Instead of guns and crime, you have slingshots, stink bombs, and the classic schoolyard fights, and trust me, it’s just as thrilling![/b]
+
+[h1]A Rockstar Classic with a Unique Twist[/h1]
+[b]Rockstar didn’t just give us a school-themed GTA, they created something entirely fresh. The mission variety, hilarious dialogue, and the freedom to roam the school and town made this game stand out. Whether you’re attending classes, pulling pranks, or taking on rival cliques, there’s always something fun to do.[/b]
+
+[h1]Nostalgic & Timeless[/h1]
+[b]Even after all these years, Bully: Scholarship Edition remains an absolute gem. The humor, characters, and world-building are as engaging as ever. It’s a game that makes you miss the golden era of Rockstar’s creativity.[/b]
+
+[h1]Pros:[/h1]
+[list]
+[*]One of Rockstar’s most unique games: High school setting done right.
+[*]Hilarious & engaging story: Schoolyard politics, humor, and mischief.
+[*]Tons of side activities: Classes, mini-games, and secrets to uncover.
+[*]Memorable characters: Bullworth Academy is full of personality.
+[*]Holds up well even today: A true nostalgic masterpiece.
+[/list]
+[h1]Cons:[/h1]
+[list]
+[*]Dated graphics: But the charm of the game makes up for it.
+[*]No sequel: Rockstar, we are still waiting!
+[/list]
+
+[h1]Conclusion: A True Rockstar Classic[/h1]
+[b]Bully: Scholarship Edition is one of the greatest and most unique games Rockstar has ever made. If you haven’t played it yet, you’re missing out on a masterpiece that has no replacement. The Best Classic Masterpiece of Rockstar. There will be no such game that will take the place of this game. This Game is Highly RECOMMENDED.[/b]",0.7988449335098267,34,True
+12200,150746459,76561198277819971,"Another Rockstar Games Classic, Bully! 
+
+I'll keep this one short & sweet, In it's present unmodified / unpatched state I can't simply recommend the PC version of Bully. First off, to even consider about running this on your present day rig, you'll need to download user created fixes, Now this isn't the end of the world & rather simple for anyone to install but not something that's really professional on the developers end to have to make users do straight after downloading. 
+
+You can possibly get away with playing this as I did for a short period of time unpatched but most definitely be prepared to deal with crashes, glitches, bugs, framerate issues and more!  Download Silentpatch for Bully by googling it, it'll fix most if not all issues that will get this title back to a playable state & put those nasty crashes to bed. 
+
+After patching, the game does run a lot better on my Computer so I know that Silentpatch has done it's job and resolved the glitches in the Unpatched version of the game.  If you want to run Bully, GET SILENTPATCH, do not run it without it, just don't. 
+
+My recommendation against this Port (Not the game itself) stems primarily from its current state. Priced at $20+ outside of Steam sales, it is unreasonable to expect consumers to have to resolve compatibility issues for a title that is still being sold by the developers themselves. If Rockstar had dedicated a small team to ensuring compatibility with modern PCs and fixing the game's core technical issues, I would wholeheartedly recommend this PC edition. 
+
+In other words, I recommend Bully, Great game and timeless classic from Rockstar, Just that I don't recommend this buggy PC port.",0.7925035953521729,70,False
+12200,100402753,76561199081580358,"The only game where you can do a five-hit combo on a little kid.
+
+10/10.",0.8924056887626648,101,True
+12200,220358784,76561199129990365,A classic game that will probably never get a sequel or a spinoff. A Certified Hood Classic.,0.7874550819396973,31,True
+12200,219143141,76561199544205332,"The PC port Is a joke, Its 2026 and Rockstar cannot even be asked to keep their games running smoothly, crash free on modern OS. 
+
+Windows Compatibility Mode set to XP SP2 + SilentPatch
+
+Crash 1 - Occurred a few hours In after starting a mission.
+
+Crash 2 - Changed custommemorymgr from 0 to 1, lasted 20mins before crashing again, at mission start ""Carnival Date"".
+
+Crash 3 - Changed custommemorymgr from 0 to 2, lasted 10mins before crashing again, at mission start ""Carnival Date"".
+
+I cannot recommend you buy this game on PC, you should seek alternative ways of playing this.",0.7862317562103271,33,False
+12200,17316950,76561198085565502,"-Kicked a midget
+-Gave an 8foot football player a swirly
+-Made a fat kid piss himself
+-Shot a christmas elf in the balls with a metal slingshot
+-Threw a rotten egg at santa
+-Ran over a young child with a go kart
+-Beat down a cheerleader with a baseball bat
+
+After such a stressful day I can come home and play a game like Bully to unwind and ignore all the backlash I'll have to deal with tomorrow.
+
+11/9 ""Its Ok""",0.7861484885215759,325,True
+12200,181507115,76561198992580481,"Nothing against the game , but the crashes and frame rate issues i faced during this made it difficult to play for me. Only way to play it is using the mods. 
+Thats why i dont recommend it. Because if you pay for something , it should work well. I should not have to go on internet and download mods just to run it.
+Any how i refunded and bought GTA IV for that. :)",0.7849485278129578,71,False
+12200,167716125,76561198950702761,"love this game but the steam version is unplayable. crashes every 20 min or so, so if you do try and play this here, save often.",0.7813971042633057,41,False
+12200,124113628,76561197992121541,"Just completed this original masterpiece from Rockstar's golden era. After reading comments about game performance and constant crashes on windows 10, I hesitated to play it on PC. I was thinking to play on PS2 Emulator in order not to waste my time and saves. But then I took the risk and chosed to play on PC and completed without a single crash. 
+
+I just set Windows XP compatibility on game exe and fixed the game 30 fps via my graphic cards control panel. I didn't mess with silent patch or try to run the game on 60 fps. As far as I know this game was not designed to run above 30 fps originally and if you exceed this limit game engine causes bugs and crashes. By doing this, I didn't encounter any game breaking bugs. It worked flawlessly. (Maybe I was lucky, ıdk). 
+
+Just don't try to fix, if it works guys. Don't try to play at 60 FPS.",0.7813420295715332,31,True
+12200,54755663,76561198024377353,"Gameplay- 
+☑ Very good
+☐ Good
+☐ Nothing special
+☐ Okay
+☐ Bad
+
+Graphics-
+☐ Masterpiece
+☐ Beautiful
+☑ Good
+☐ Will do
+☐ Bad
+☐ Awful
+
+Audio-
+☐ Amazing
+☑ Very good
+☐ Good
+☐ Decent
+☐ Not too bad
+☐ Bad
+
+Audience-
+☐ Kids
+☑ Teens
+☑ Adults
+☐ Everyone
+
+Story-
+☐ Lovely
+☑ Good
+☐ Average
+☐ Not great
+☐ None
+
+Difficulty-
+☐ Just press a bunch of buttons
+☐ Easy
+☑ Significant brain usage 
+☐ Easy to learn / Hard to master
+☐ Not so easy
+☐ Difficult
+☐ Dark Souls
+
+Grind-
+☑ Nothing
+☐ Only if you care about leaderboards/ranks
+☐ Isnt necessary to progress
+☐ A bit grindy sometimes
+☐ Average grind level
+☐ Too much grind
+☐ Insanity
+
+Bugs-
+☐ Broken
+☐ A lot of bugs
+☐ An iffy amount
+☑ Only a couple
+☐ None 
+
+Game Time-
+☐ Short
+☐ Average
+☑ Long
+☐ Depends on you
+☐ Endless
+
+Price-
+☑ Just buy it
+☐ Worth the price
+☐ Wait for sale
+☐ Maybe if you have some spare money left
+☐ Not recommended
+☐ It's Free!
+
+Where the hell is Bully 2??",0.8306800127029419,78,True
+12200,197754149,76561198926110868,"Runs, but crashes like crazy. Would recommend this game if you understand how to add mods/patches.
+
+Patch list & installations to make the game run correctly: 
+https://steamcommunity.com/sharedfiles/filedetails/?l=german&id=1590230151 
+
+^I didnt have any crashes after adding the 'silentpatch'
+
+fun classic nostalgic game. get to do whatever you want really, very linear story. tons of hidden minigames and extra content like collectibles and ways to better your player. 
+
+[spoiler]kiss girls, kiss guys, beat up the teachers, sneak into the girls dorm, beat up girls, get arrested, steal a scooter, throw eggs at the rich kids, go to class, race gokarts, race bicyces, become a boxing champion, pass out due to sleep, buy a soda, befriend the factions, get girls to like you, etc. [/spoiler]
+
+ one of rockstars best games, IMO . Back when big game companies took risks with new projects.",0.7794556617736816,29,True
+12200,107122946,76561198241824888,"played the original on ps2 and the xbox 360 version of Scholarship Edition back in the day wonderful memories, p.s to fix the crashing and resolution  get silent patch and widescreen fix",0.7796826958656311,36,True
+12200,201094305,76561199075729808,Played a lot more on console but I wanted to have this game on pc. Best part is kissing dudes and punching children,0.7773998975753784,40,True
+12200,115371783,76561198058339856,"*When ever I see someone make fun of Bully: Get off my little buddy!!!!*
+
+In all seriousness, this game is a classic. What a shame we never got a sequel and might never get one. Give us Bully 2 you cowards!",0.776389479637146,41,True
+12200,133285994,76561198259534342,"A Rockstar classic that I like coming back to from time to time. I really like the atmosphere, music and the characters of the game.
+
+Yeah there are some bugs but they can be easily fixed with patches (Silent Patch and Widescreen Fix) so it's definitely playable even in 2023. The game ran without any issues for me.",0.7757200002670288,32,True
+12200,213031390,76561198220530397,"Rockstar, please please PLEASE....fix this lost gem, this game still has a thriving community. i have windows 11 and even with the Silent Patch it still crashes. please don't let this game go to hell. i love this game and many other people do. come on its literally better to play this game on a Xbox 360 emulator than it is to play the steam version. it has no crashing better sound effects and more, so why can't the pc version do it?",0.7747973203659058,41,False
+12200,208055035,76561199590029701,"This has always been one of my favorite games since it came out. I'm playing on Steam Deck OLED and it runs flawlessly. 
+
+The atmosphere of the towns, especially during the holiday segments is great. I find myself just riding a bike around without doing any missions just to take it in. A game that needed a sequel for sure.",0.773650586605072,36,True
+12200,69965944,76561198041575890,"NEW BUYERS PLEASE NOTE- Game barely runs on Win10, HOWEVER there is a patch by Silent that fixes the game. Before I would crash every 20 mins, now, ive yet to have any crash at all.  (Just google Bully Silent Patch)
+
+The only other complaint is that the controller sensitivity is WAY low almost unplayable. Try to aim with controller and its a nightmare.",0.8722923994064331,93,True
+12200,47256830,76561198144137528,"Bully. It's GTA, but without blood and deadly weapons, and instead of playing as an adult man, you play as Jimmy Hopkins. A 15 year old kid who's aggressive and a fighter, but not truly malicious. He only gives people what they have coming to them.
+
+Bully takes place in Bullworth, a town in New England. Your mom, well, Jimmy's mom, drops you off at Bullworth Academy. A boarding school. The school is full of bullies and corrupt teachers and it's up to you to put a stop to it.
+
+The game's storyline will guide you through six chapters. Each of them takes place in a different weather season. The missions vary, it's never the same. One time you're cleaning a rat infested library and the next time you're helping a teacher escape from a psychiatric hospital. As Jimmy, your main goal is to bring peace to the school by helping and befriending the four school cliques: the Nerds, the Jocks, the Bullies, the Preppies and the Greasers.
+
+Of course you'll have to go to class. These classes are: English, gym, geography, math (yuck), music, shop, art, photography and biology. They are simple mini-games which become noticeably harder every time you attend them and make progress. You'll also have to deal with a time schedule. You can skip class, but you won't get any rewards if you do so and prefects will chase you down and send you back to class if they catch you.
+
+Jimmy, your character, is highly customizable. You can buy clothes, change your hairstyle and more. You can even buy a bike, a go-kart or a scooter if you save up enough cash. Money can be earned by either taking a paper route, doing missions for townies or students or by completing storyline missions. 
+
+You've got weapons. No, they are not guns and no you can't kill people. There's a slingshot, you can use firecrackers, stink bombs, eggs, a bag of marbles, a bottle rocket launcher and so much more. You can also pick up one of the many objects around you (umbrella's, vases, bottles) and use them as a weapon.
+
+Interacting with your fellow students is fun too. You can talk to them, give cute presents, put them in trash bins or lockers, steal their books, take their pictures for the yearbook, punch them in their faces and if you feel like it you can make out with a girl or a guy. 
+
+The game has a very impressive map size. You can explore the entire school, the school grounds, the town, a fully functional theme park, an industrial park and a many more awesome places. There are many collectables scattered around the map too.
+
+'Bully' takes place in the town of Bullworth (Which actually exists in the same universe as the 3D 'Grand Theft Auto' games and even 'Manhunt' 1 & 2). Unlike the dull and almost lifeless streets of Liberty City in GTA IV, the town of Bullworth is full of personality and a great deal of variety. You'll experience different seasons as you progress through the story, allowing the player to see Bullworth in the autumn, winter, spring and summer. Even Halloween makes an appearance at one point. Each area is easily distinguishable from the other, and so are the characters. Which brings me to my next point.
+
+What makes the storyline work so well is the witty and likeable nature of all the characters, including the main protagonist. This clever writing even extends to most of the background characters. Hell, even the main antagonist has his moments.
+
+And just like GTA, the further you get into the storyline the more areas and features you unlock.
+This is why patience is key when playing through the first chapter. There are 6 chapters. Each Chapter consists of roughly 8 - 15 missions, excluding the 6th chapter because it's basically the ""You have completed all of the story related missions, so now you can do any remaining optional sidequests you want""-mode.
+
+The more chapters you complete, the more freedom you're given.
+The reason I point this out is because I've seen several people give up halfway through Chapter 1 due to their impatience and an eagerness to explore the environment. Take it easy. Get to know the environment and the characters. I guarantee that you will grow to like the game more if you simply give it time to familiarize yourself with it.
+
+Even the soundtrack is superb. Music composer Shawn Lee's talent really shines here as he shows off a range of different genres and influences.
+Don't be surprised if you find yourself humming the 'Walking Tune' when roaming around. My personal favorite song from the soundtrack would be: [url=https://www.youtube.com/watch?v=x1XGLtV3Jmo]""Cheating Time.""[/url]
+
+I could go on and on about why this game is so likeable, but I think it's about time that we dive into some of the things that don't work so well.
+
+First and foremost, this game performs very poorly on Windows 10. I've seen tons of people come up with all kinds of solutions and compromises to make the game playable, but I've yet to try any of them myself. Some claim that certain fixes work for them, others say they don't. Unfortunately, it seems as though Rockstar has no plans on patching the game for Windows 10.
+
+The game also runs on a 30 fps limit, but there is a mod which removes the framerate cap.
+I would suggest installing this mod if you have the game. And while you're at it, why not check out some of the other mods people have made for the game. There are dozens.
+
+Bully may be pretty good, but it's not perfect. The graphics are rather outdated, the sound effects aren't that amazing, the controls are a bit clunky at first (you can tweak them to your liking, luckily enough) and there are some bugs. But don't worry! It doesn't kill the fun. Bully is an amazing game and there's much to do. And for only $14.99 - £9.99 - €9.99, it's certainly worth it. 
+
+
+Pros:
++ Beautiful and unforgettable soundtrack.
++ Likeable characters.
++ Interesting storyline.
++ Comfy environment.
++ Fun missions.
++ Clever writing.
++ Replay value.
++ Lots of customization.
++ Plenty hours worth of playtime.
+
+Cons:
+- Terrible Windows 10 support. (However, the issues are fixable.)
+- 30 fps cap.
+- Somewhat slow beginning.
+
+Final score: 9/10
+It's not perfect, and it hasn't aged very well on PC. But it still has a strong and active fanbase for several good reasons.",0.8210675716400146,48,True
+12200,15037870,76561198024451265,"[h1]A Classic For a Reason // Perfect For Rounding Out Your Rockstar Collection[/h1]
+
++ Open-ended nature of character development allows for a firm hold of the manner in which your story progresses
++ Going to class is fun, yet optional; classes are defined by a set of minigames that are enjoyable and rewarding, in that they offer significant perks upon completion
++ Targeting system meshes well with the control-scheme and works fluidly in practice
++ Voice-acting (though it's of sub-par quality, overall) and sterotype portrayal is intentionally over-the-top, and fits snugly with the overall charm of the game
++ Factions system works very well; if you're in a fight, nearby students may defend you, or aid your tormentors, depending on your respective stance
++ City of Bullworth is surprisingly expansive and populated
++ There are myriad unlockables and minigames to get your hands on, further increasing the replay value
++ Very easy to mod, with an expansive community dedicated to keeping the game fresh and ridiculous
+
+- Limited and repetitive ambient soundtrack
+- Camera is mediocre at best, and can often becomes frustrating (particularly indoors)
+- Stiff animations and poor visuals that haven't aged well (though much of this can be remedied via modding)
+
+[h1]LockeProposal's Big Day Out[/h1]
+
+[url=http://steamcommunity.com/groups/bigdayout#]Community Group[/url]
+[url=http://store.steampowered.com/curator/7611703/]Curator Page[/url]
+[url=https://www.reddit.com/r/SeriousSteamReviews/]Serious Steam Reviews subReddit[/url]",0.8195090293884277,97,True
+12200,130793585,76561198926178111,"After years of being bullied at private school I finally got to take revenge. That’s right, now IM the bully! Game stops crashing after you successfully kiss every boy at Bullworth Academy, easy fix.",0.8691407442092896,145,True
+12200,225288430,76561199229345093,"I played this game on my Steam Deck and it worked great I’ve had no crashes. But on a regular pc the game keeps on crashing and is unplayable. So it’s better to play on the Steam Deck.
+Note: The game only runs at 30fps on the Steam Deck",0.7686225771903992,29,True
+12200,194466688,76561197991876593,This game is unplayable without community patches. Horrible port,0.7679266929626465,41,False
+12200,75316500,76561198169477203,"This game allows you to do everything that you wanted to do when you were in high school but didn't.
+Maybe only this game has this feature: if you want the character to have more possibilities, you need to learn some subjects very well.
+P.S. I played this game in another launcher. Here I bought it for the collection.",0.8167784214019775,86,True
+12200,148328079,76561198074660874,"I played this on the xbox 360 many years ago. It is one of those rockstar side projects that worked really well but unfortunately kinda died, much like Manhunt and Max Payne.
+
+After revisiting this game all these years later, I can say that the graphics are holding up surprisingly well and so does the music and voice acting. So, if you like open world games with humor and a certain uniqueness, you should play Bully. It is a classic. 
+
+Unrelated to the game itself. I heard that there used to be a good online mod for this game, that was really fun, but it seems to have been taken down by TakeTwo. Not much of a surprise really, it seems to be in line with what they have done in the past, I guess we know who the real bully is. But maybe this could turn out positively, by convincing them that a sequel to Bully might be a good idea?
+—————————————————————————————
+[url=https://store.steampowered.com/curator/45534557/]Help me out by following my Curator, I’d really appreciate it!![/url]",0.7654338479042053,31,True
+12200,214620547,76561198964052466,"I had really high hopes to enjoy this game like I did when i was young, but it crashed three times in the first 30 minutes i played it. No autosave, or a way to save from the menu is awful. Requested a refund unfortunately.",0.7639484405517578,45,False
+12200,117622403,76561198057475308,I punched a guy in the nuts and then the game crashed.,0.9605322480201721,295,True
+12200,106895661,76561198213738740,"Its a great game, but dont buy it if your on Windows 10, it crashes constantly",0.8101392984390259,60,False
+12200,193902977,76561198340800824,"I really like this game, but I CANNOT recommend the steam/pc version at all.
+
+This game is buggy as hell. Crashing, random freezing and cutscenes bugging out, making me lose progress are some of the reasons why this game is really getting on my nerves. I just lost 3 hours of progress, because a cutscene bugged out, essentially soft locking me (I wasn't able to do anything, couldn't move. I just had to watch Jimmy stand there.)
+
+Yes, that's totally on me for not saving every single time I finished something...  But that shouldn't even happen in the first place. And yes, I have the Silent Patch installed.
+
+If you want to play Bully, play it on ANYTHING else other than pc, please.
+[P.S. the keyboard and mouse controls are horrid as well...]",0.7598522305488586,37,False
+12200,174883761,76561199442512814,"Imagine Bart Simpson stumbling into simple version of [i]Hogwarts[/i] without a trace of magic, all wrapped in the gritty vibes of Mark Millar’s [i]Kingston[/i]. That’s roughly how [b]Bully[/b] plays out.
+
+The game truly finds its rhythm in the second part, with a more expansive world, new mechanics, and vehicles. [i]Rockstar’s[/i] signature style is unmistakable—charismatic characters, sharp humor, and the kind of biting dialogue that will undoubtedly expand your personal lexicon of insults. Missions are typically short, so even though it’s often a formula of ""beat, chase, escape,"" it never overstays its welcome. The brutal guitar-laden soundtrack is superb—no wonder it’s available for download, as the game’s description eagerly points out.
+
+The atmosphere of a small town and a cloistered school is pitch-perfect. The addition of a theme park and the ability to swim felt like a revelation—the world suddenly opened up beyond the school walls, adding fresh layers to the experience.
+
+Notice to save your game after every mission. This Steam version has a habit of crashing unexpectedly.",0.7598272562026978,25,True
+12200,187849548,76561198060094997,"Great old game, really a classic. 
+You absolutely HAVE to download the silent patch if you want to play it though - otherwise it'll crash so often it's really unplayable.",0.759232759475708,27,True
+12200,218214794,76561199823096201,"Ever since my days in high school ive always took great pleasure in hurting children.
+When i reached my twenties i kept getting arrested for this very reason.
+Then i found BULLY. 
+I could finally indulge in my favorite passtime without fear of being arrested or punished for my actions.
+Wedgies, Swirlies, Punching, Kicking and exploding kids with firecrackers, This game is the only thing and the everything in my life and i simply couldn't live without it.
+Thank you rockstar games for creating this masterpiece of a game
+
+10/10",0.757551908493042,23,True
+12200,177711628,76561198117625253,This almost 20 years old game is better than every modern triple A game. The attention to detail and the atmosphere are way ahead of its time.,0.7570093274116516,43,True
+12200,62251512,76561198071567735,"A fun experience into what it is like to be at a delinquent school with social classes clashing with each other. Nerds, Jocks, Greasers, Preps, Teachers, etc. Even town hooligans can even pick a fight.
+Although the game is old, it still holds up in providing a fun experience in what a boy's life is in a school that is full of mayhem. Betrayal, social advantages, respect bonuses, etc are interesting parts of the story. 
+
+Pros:
+-Fun story
+-Big map. As expected of Rockstar games. Town, amusement park, school, etc.
+-Lots of npcs and lots of interactions
+-You get to be  a piece of crap and pick fights with anyone. Just make sure not to accidentally hit women or children. Instant chase from authorities.
+-Seasonal changes. Halloween, Christmas, etc
+-Lots of sidejobs or people asking for help
+-Some hilarious characters
+-Combat is pretty fun and not that hard. It will be challenging first playthrough during the story.
+-Multiple ways to travel. Bicycle, Go Kart, Skateboard, etc. You can also skitch a ride with your skateboard too.
+
+Cons:
+-Buggy. Make sure to install the Silent Bullypatch provided from some generous modder online. You can change the ini file to play in 60fps. NOTE: Some missions will be bugged with 60fps. Just go back to ini file. Change to 30. It will work. Then you can save and switch back again.
+-Kinda wish the quests are shown as ones that progress the main storyline and the other ones are side quests. There is no difference in symbols.
+
+There are rumors of Bully 2 in development so great to hear.",0.8067107200622559,43,True
+12200,18101650,76561198066545687,"I learnt a phrase from this game, and it goes like this:
+
+""Make sure you're dressed nicely or girls won't want to kiss you"" 
+
+-went to school with suit
+-gave flowers to a cute girl
+-girl threw the flowers on me and called me a creep
+
+~10/10 would cry again",0.8064755797386169,634,True
+12200,101982809,76561198052426486,"I come back to this game every year, it's really fun and unique, I wish Rockstar would still make games like this",0.7555447220802307,30,True
+12200,198512301,76561199087714937,"This is not a cheap game, Its rockstar responsability to ensure that this game does not crash. It crashes every time between 30mins. I feel scamed",0.7547675371170044,48,False
+12200,229518806,76561198156117750,"People mention silentpatch for a reason. Running the game without it is unplayable sadly. Game will crash for any little thing. After several crashes I tried ailentpatch and had no more crashes until I got to the Balls of Snow mission. Which apparently is pretty common glitch if you set the game to 60 FPS. Though once you switch down to 30, the mission works and can go back to 60 afterwards. Sucks that you have to jump through hoops to get the game to work right but I love this game still. Can't recommend it if you have zero intentions to use silentpatch though. If you are willing to download it then go for it. Still funny game with a variety of things to do.",0.7546866536140442,27,True
+12200,190767624,76561199098862293,"---{ Graphics }---
+☐ You forget what reality is
+☐ Beautiful
+☐ Good
+☑ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{ Gameplay }---
+☐ Very good
+☑ Good
+☐ It's just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ Audio }---
+☐ Eargasm
+☐ Very good
+☐ Good
+☐ Not too bad
+☑ Bad (Music slaps, but some sounds are distorted (?) for whatever reason)
+☐ I'm now deaf
+
+---{ Audience }---
+☐ Kids
+☑ Teens
+☑ Adults
+☐ Grandma
+
+---{ PC Requirements }---
+☑ Check if you can run paint
+☐ Potato
+☐ Decent
+☐ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{ Game Size }---
+☐ Floppy Disk
+☑ Old Fashioned
+☐ Workable
+☐ Big
+☐ Will eat 10% of your 1TB hard drive
+☐ You will want an entire hard drive to hold it
+☐ You will need to invest in a black hole to hold all the data
+
+---{ Difficulty }---
+☐ Just press 'W'
+☑ Easy
+☐ Easy to learn / Hard to master
+☐ Significant brain usage
+☐ Difficult
+☐ Dark Souls 
+
+---{ Grind }---
+☑ Nothing to grind (The carnaval prizes require slight grinding, and nothing else)
+☐ Only if u care about leaderboards/ranks
+☐ Isn't necessary to progress
+☐ Average grind level
+☐ Too much grind
+☐ You'll need a second life for grinding
+
+---{ Story }---
+☐ No Story
+☐ Some lore
+☐ Average
+☐ Good
+☑ Lovely
+☐ It'll replace your life
+
+---{ Game Time }---
+☐ Long enough for a cup of coffee
+☑ Short (Maybe try to enjoy each chapter so it takes at least 20 hours to complete)
+☐ Average
+☐ Long
+☐ To infinity and beyond
+
+---{ Price }---
+☐ It's free!
+☐ Worth the price
+☑ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{ Bugs }---
+☐ Never heard of
+☑ Minor bugs (There are crash errors for this game but after installing the Silent Patch I had only 1 crash, and it never happened again. Be careful either way)
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{ ? / 10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☐ 7
+☐ 8
+☑ 9
+☐ 10",0.754187822341919,43,True
+12200,123035879,76561198203408456,"Although it isn't fully verified on the store this game runs fantastic on the Steam Deck. There's an official controller profile so it controls great. Other than that I've really been enjoying this game, would definitely recommend playing it this way if you've been meaning to get to it like I have.",0.7537400126457214,27,True
+12200,173487688,76561198044841743,"This game has definitely shown its age, but that aside, I wish Rockstar put more love into the Bully series. There's something hilarious about living the life of a delinquent highschool student, a good formula for dumb stuff to happen. One of my favourite parts is getting one or two sucker punches on a hall monitor before triggering a cutscene to avoid being chased down by the rest of security XD
+
+Edit: Don't be surprised if you are experiencing instability issues, especially on Windows 11. It would be recommended to search up some workarounds to get this game working properly.",0.75208979845047,24,True
+12200,157621903,76561198421700243,"DO NOT BUY!!!
+
+Amazing game, legendary story, 100% worth a playthrough. Unfortunately this game does not function. Neither of my 2 PC's can even get this game to boot past the loading screen. Tried every fix I could find, tried the Rockstar launcher version as well as this Steam version with no luck. Download PCSX2 and get yourself a rom and enjoy a masterpeice that's just been disrespected by its creators.",0.7505912780761719,134,False
+12200,216806557,76561198392625582,"-Kicked a midget
+-Gave an 8foot football player a swirly
+-Made a fat kid piss himself
+-Shot a christmas elf in the balls with a metal slingshot
+-Threw a rotten egg at santa
+-Ran over a young child with a go kart
+-Beat down a cheerleader with a baseball bat
+
+After such a stressful day I can come home and play a game like Bully to unwind and ignore all the backlash I'll have to deal with tomorrow...",0.7502638697624207,25,True
+12200,142921874,76561199119002032,"Best game ever to me when i was child , use silent patch to avoid crashes",0.7973307967185974,41,True
+12200,214854985,76561198367248697,"This was my GTA as a kid as I wasn't allowed to play them. Story is charming and gameplay is solid. 100% is fun and simple. The sequel to this needs to become a reality as its been rumoured for years, I know i'll be there day 1.",0.7465950846672058,33,True
+12200,36427272,76561197986360343,"[b]Rockstar's View On Life In School[/b]
+
+Jimmy is dropped off at a prestigious academy by his mom and the foster dad he despises very much. Our objective, initially, is to try to fit in at the school while the parents are off on their honeymoon. While Jimmy looks like a bully he is in fact bullied by other groups of students so he soon learns there are various factions who all have their own territory. By allying himself with one group he can eliminate another. Divide et impera.
+
+[b]GTA Featherweight Edition[/b]
+
+If you have played at least one GTA game you'll find Bully's gameplay familiar. Shining beacons indicate you can launch a story or secondary mission that is introduced by a cutscene. Voice acting, as usual, is superb. Throughout the story we get to know all the relevant parties at the school: nerds who are afraid of everybody and hide in the library, greasers who show off by oiling their hair and wearing an outdated black jacket, preppies who are the future ""fat cats of the town"", the athletic jocks who are extremely short on IQ and of course the bullies who are led by Russell, a guy who could easily be called Hulk if his skin colour was just a little closer to green.
+
+If you don't want to do any missions you can just walk around and do pranks on students, try to kiss girls (make sure you have a box of chocolate or a bouquet of flowers at hand), participate in sports activities and, of course, attend classes. These sometimes require you to pick the right answer (math), do some QTE (chemistry, music or shop classes) or go to town and take photos of the local scenery or known monuments (photography). As you progress in your studies the game slowly reveals all collectibles on the map and you are provided with different perks that ease the gameplay.
+
+[b]Open World Done Right[/b]
+
+Exploring the school and its surroundings with the dormitories, the garage, the library and the gym hall is already quite exciting, however, the game goes further and gives Jimmy the opportunity to visit the local town. You know you have reached a new chapter in the game when a new district becomes accessible. Missions are expanded upon: teachers ask you to go to town and buy stuff for them and you meet a new faction (the townies) that represents an even bigger challenge.
+
+You can do chores in the more posh areas of the town (such as becoming the paper boy or mowing the lawn) and participate in bike races. Shops are available for you to buy a better, faster bike and you can also purchase clothes and have your hair cut. Some of these activities are very similar to the ones encountered in San Andreas. By completing challenges you can acquire a building - a place where saving, sleeping and recharging your weapons are a good opportunity. 
+
+[b]Day-Night Cycle Matters[/b]
+
+At 9 AM and 1 PM your classes begin. I do not believe they are mandatory to be attended, however, I liked these minigames so much that I never missed one. As time progresses you soon realise its nightfall and you notice some new missions have become available. Late in the evening the prefects keep searching the school and its areas to see who's violating curfew. Unlike fellow students, you cannot beat up the prefects (the same goes for townsfolk), so unnecessary violence leads to the principal's office. It doesn't mean game over - actually, it's fun mowing the lawn at school as a punishment. Hitting girls is also severely punished (while hitting on them is encouraged and it yields us a health bonus).
+
+Make sure you keep track of time otherwise you'll miss out on missions and fail to attend classes. Also, staying up late for too long (around 2 AM) results in Jimmy's collapsing. Going to sleep is a must in this game. 
+
+[b]Activities At Large[/b]
+
+Numerous activities are available for you as you stroll around on the campus. It's fun looking for collectibles in the girls' dormitories as you know you are trespassing and you'll be kicked out immediately if caught. You can play dodgeball and beat the jocks you hate so much. Students often run up to you and request you to run some errands: this means, for instance, egging the building of a faction or lock picking some of the lockers at school. Even teachers give you tasks - one is a drunkard who wants you to collect all bottles of alcohol at school while the other wants you to fix a date for her.
+
+Riding a bike or skateboarding both allow for faster travel especially when you go to town. At bus stations you can basically fast travel back to campus. I liked how I could do skitching while skateboarding just like Marty McFly. Our favourite gun will include an accurate slingshot with indefinite ammunition and a bottle rocket launcher for swiftly eliminating a group of bullies. The spud gun is basically Bully's equivalent of a pump-action shotgun. We can also use a lot of melee weapons (such as baseball bats) when the going gets tough.
+
+[b]Heaps of Fun, No Gore[/b]
+
+There is a reason why I used the term ""Featherweight Edition"" above. Bully includes no gore, no extreme violence and is toned down when it comes to cursing. Considering the dialogues and the gameplay it is still a game meant for grown-ups, though. Just because it is a toned-down version of GTA it doesn't mean it's not fun. Quite the contrary! Some of the missions are creative and a joy to play - since driving is replaced by skateboarding and riding a bike I did miss the opportunity to listening to the radio.
+
+[b]Crashes, Crashes Everywhere[/b]
+
+Unfortunately, Bully crashes a lot on modern PCs with particular emphasis on Windows 10. I was 15 hours in the game when completing the mission ""Defender of The Castle"" the game started crashing in every 15 minutes or so. I noticed launching it in compatibility mode (Windows XP SP 3) helped tremendously. The last 5 hours or so were done without one single crash. Still, reading on this topic in the forums does not confirm that this is a solution for everybody.
+
+[b]A Great Addition To The GTA Roster[/b]
+
+Bully is a great game. It has lots of missions and playing a GTA-like game from a student's perspective is just great fun. It wouldn't be a proper Rockstar game if it hadn't had its fair share of controversial moments. Upon its release roughly 10 years ago not everybody liked the fact that the game included a lot of bullying and kissing your own gender was a possibility. The Scholarship Edition of the game is basically a revamped version of it. If discounted this is a great purchase if you like GTA and / or sandbox games and searching for solutions for crashes is not a deterrent factor for you.",0.7964054346084595,48,True
+12200,229897226,76561198306008445,"REQUIRES A THIRD-PARTY PATCH!
+
+Don't let that discourage you.
+
+Bully isn't a bad game. It's simply a different experience from Grand Theft Auto or Red Dead Redemption. In many ways, it laid the groundwork for mechanics Rockstar would later expand on in future GTA titles. The game also features a surprisingly large variety of fun mini-games tied to school subjects like English, Math, Chemistry, Art, and Gym, which help give it its own identity.
+
+Yes, you'll likely need a community patch to run the game properly on modern PCs. Thankfully, it's incredibly easy to install. Just download the patch, extract the contents, and place them in the game's root folder.
+
+I understand why some people view this as a negative, but I don't think it's fair to recommend against the game because of it. Plenty of older PC games require community fixes to work reliably on modern hardware. Bully: Scholarship Edition released on Steam in 2008, and expecting Rockstar to continuously update a game that's nearly two decades old for every major Windows and hardware change isn't particularly realistic.
+
+If you're willing to spend two minutes installing a patch, you'll get one of Rockstar's most unique and memorable games. Don't let a simple compatibility fix keep you from experiencing it.",0.7450209856033325,26,True
+12200,166628061,76561198011995068,"I was an English major, and I failed English in this game.
+
+I tore off my shirt and ran running into the woods, never to be heard from again. Except to come back and write this review.",0.844687283039093,57,True
+12200,102220096,76561198061384044,"I love this game. The humour is spot-on. Doesn't work on Windows 10 though. Tried running it in admin mode, in xp compability mode and tried deactivating two cores of my quadcore. Still crashing every 15 minutes. The community made ""Silent mod"" greatly reduces crashing but does not cancel it out completely so saving whenever possible is advised. Also the port is bad (e. g. the ""ok"" button is mapped to ""Alt"" or ""Alt Gr"" as default - seriously?) but that's kind of a thing with even the latest games from Rockstar.
+
+tl;dr: great game - I thouroughly enjoyed it - but bad port and only playable with external mods.",0.7437765598297119,25,False

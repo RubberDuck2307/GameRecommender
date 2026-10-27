@@ -1,0 +1,1118 @@
+appid,recommendationid,author_id,review,weighted_vote_score,votes_up,voted_up
+10180,128474030,76561199119002743,"The singleplayer in this game is very good, however the multiplayer has vulnerabilities which allow hackers to gain full access to your pc. If you are buying this game for the single player, it is good. but please do not play the multiplayer
+https://www.cvedetails.com/cve/CVE-2018-10718/
+https://www.cvedetails.com/cve/CVE-2019-20893/
+
+Apparently this extends to the following games (to what extent I don't know but best to avoid):
+Call of Duty: Modern Warfare 3
+Call of Duty: Ghosts
+Call of Duty: Advanced Warfare
+Call of Duty: Black Ops 1
+Call of Duty: Black Ops 2.
+
+If you play multiplayer you are opening yourself up to literally anything, hackers are able to run code on your PC, they can delete your files, steal your info, install a rat, anything.
+
+Please if you have any sense at all do not play this game online no matter how badly you want to. You have been warned.",0.9438433051109314,977,False
+10180,69012942,76561198115044628,"This is one of my absolute favorite FPS games of all time, incredible campaign, coop, and multiplayer, and it is very painful to give it a negative review but this needs to get attention.  DO NOT JOIN A MULTIPLAYER MATCH! There is a SERIOUS UNPATCHED VULNERABILITY that allows anyone in online lobbies to connect and completely take over your computer, steal any data you have on it, install ransomware, or anything they want. I hope this gets attention soon so I can change my review",0.936058521270752,650,False
+10180,144803861,76561198271173510,"Dont open any old COD's anymore. Learned this the hard way, yes it is still happening. No it has not been patched, regardless of what Activision claims. Heres a long explanation written by some guy.
+
+POSTED: JUNE 26
+Good game, one of the best in the series but I can not recommend.
+DO NOT BUY.
+While it is still possible to play zombies safely with the use of community patches you can not play public servers safely and activision are actively removing safe ways of playing the game.
+
+*DO NOT OPEN ANY COD PRIOR TO IW*
+They took away Xlabs, Sm2, and soon will take away Plutonium which are all the ONLY safe way to play these older CoDs.
+Opening any CoD prior to IW will result in a chance for people to gain access to your pc. 2 security breaches are known:
+CVE-2018-20817
+(SV_SteamAuthClient in various Activision Infinity Ward Call of Duty games before 2015-08-11 is missing a size check when reading authBlob data into a buffer, which allows one to execute code on the remote target machine when sending a steam authentication request. This affects Call of Duty: Modern Warfare 2, Call of Duty: Modern Warfare 3, Call of Duty: Ghosts, Call of Duty: Advanced Warfare, Call of Duty: Black Ops 1, and Call of Duty: Black Ops 2.)
+CVE-2018-10718
+(Stack-based buffer overflow in Activision Infinity Ward Call of Duty Modern Warfare 2 before 2018-04-26 allows remote attackers to execute arbitrary code via crafted packets)
+These are some things they can do even if you just boot up the game and get to the menu:
+Hidden Remote System Access
+System Information
+File Manager
+Hidden Desktop Usage
+Monitor on/off
+Hidden Browser Usage
+Open/close CD
+Hidden Chrome Usage
+Show/Hide taskbar
+Start Up Manager
+Hidden Firefox Usage
+Show/Hide Start Button
+Task Manager
+Hidden Edge Usage
+Show/Hide Explorer
+Remote Shell Usage
+Show/Hide Clock
+TCP Connection
+Show/Hide Tray
+Reverse Proxy
+Show/Hide Mouse
+Registry Editor
+Hidden Explorer
+Enable/Disable TaskMgr
+UAC Exploit
+Enable/Disable Regedit
+Disable WD
+Disable UAC
+Format All Drives
+DDOS attack
+Audio recording
+Webcam recording
+Device information
+Process hollowing
+Credential stealing
+Discord token stealing
+
+Report every older CoD as harmful and put those 2 CVE's under the description why.
+Write negative reviews to warn others not to spend any money on these CoDs (which are mostly overpriced for how old they are as it is)
+We need to take these CoDs from ""Positive"" or ""Mostly Positive"" to mixed or mostly negative",0.9318118095397949,498,False
+10180,198128319,76561198080974580,"Great game back in the day. Fantastic campaign and fun multiplayer experience (unsure of present-day server activity).
+
+Most importantly: the game is possibly not secure. There is a security vulnerability described below.
+
+Opening any CoD made prior to 2015 and connecting to the internet will result in a chance for people to gain access to your pc. 2 security breaches are known:
+CVE-2018-20817
+(SV_SteamAuthClient in various Activision Infinity Ward Call of Duty games before 2015-08-11 is missing a size check when reading authBlob data into a buffer, which allows one to execute code on the remote target machine when sending a steam authentication request. This affects Call of Duty: Modern Warfare 2, Call of Duty: Modern Warfare 3, Call of Duty: Ghosts, Call of Duty: Advanced Warfare, Call of Duty: Black Ops 1, and Call of Duty: Black Ops 2.)
+CVE-2018-10718
+(Stack-based buffer overflow in Activision Infinity Ward Call of Duty Modern Warfare 2 before 2018-04-26 allows remote attackers to execute arbitrary code via crafted packets)
+These are some things they can do even if you just boot up the game and get to the menu:
+Hidden Remote System Access
+System Information
+File Manager
+Hidden Desktop Usage
+Monitor on/off
+Hidden Browser Usage
+Open/close CD
+Hidden Chrome Usage
+Show/Hide taskbar
+Start Up Manager
+Hidden Firefox Usage
+Show/Hide Start Button
+Task Manager
+Hidden Edge Usage
+Show/Hide Explorer
+Remote Shell Usage
+Show/Hide Clock
+TCP Connection
+Show/Hide Tray
+Reverse Proxy
+Show/Hide Mouse
+Registry Editor
+Hidden Explorer
+Enable/Disable TaskMgr
+UAC Exploit
+Enable/Disable Regedit
+Disable WD
+Disable UAC
+Format All Drives
+DDOS attack
+Audio recording
+Webcam recording
+Device information
+Process hollowing
+Credential stealing
+Discord token stealing
+
+I have reviewed every CoD I own that is older than 2015 with these vulnerabilities as harmful and put those 2 CVE's under the description why. This is to warn others about the issues, as I am not a networking or security expert and can't advise on how to mitigate the risk other than to not install the game at all.
+It's my slim hope that by leaving this review, the issue might be noticed by Activision/IW and action may be taken.
+
+Update: note that a similar RCE exploit was found in Black Ops III and appears to have been fixed in a 2023 update. I have not found reliable information indicating a fix for this game, however.",0.9295268058776855,250,False
+10180,226819329,76561199170379787,"1. Installed game
+2. started campaign
+3. finished
+4. cried
+5. started playing multiplayer
+6. died for the first t ime
+7. got called the N word by my teammate
+such a nice community",0.9098517298698425,102,True
+10180,98841338,76561198865753910,"This is one of the best multiplayer and singleplayer FPS games of all time! BUT DO NOT JOIN A MULTIPLAYER MATCH! AS I'M SURE YOU HEARD, THERE IS A PATCH THAT CAUSES HACKERS TO NOT ONLY CHEAT IN THE GAME, BUT HACK INTO YOUR COMPUTER, PUTTING VIRUSES, SPYWARE AND MORE! PLEASE LIKE THIS REVIEW SO IT CAN BE SEEN. THIS IS A PROBLEM THAT WILL MOST LIKELY HAPPEN TO YOU IF YOU PLAY THE MULTIPLAYER NOW. ACTIVISION NEEDS TO FIX THIS! ONE OF THE BEST GAMES EVER BEING RUINED BY ONE PATCH VULNERABILITY!",0.9577322602272034,936,False
+10180,220889712,76561198059065962,"I love this game even to this day, but hey, any friends who read this: PLEASE PLEASE PLEASE PLEASE do not try to play the multiplayer through Steam without an external client (i.e. Eye W 4 X, can't type the name properly, blame Steam), because the base multiplayer has RCE vulnerabilites that cheaters can freely exploit to hack your PC.",0.9063538312911987,109,True
+10180,97540164,76561198169086114,"Before I say anything I need to tell you to NOT JOIN A MULTIPLAYER MATCH! There are many negative reviews I've read up on saying that the hackers in this don't only cheat in game but with how the servers were made they have access to your PC. They can steal data, install ransomware or essentially anything they want. I'm making this review to try and get the message across so hopefully it will get fixed (even though it most likely will not)",0.9010633230209351,237,False
+10180,213957170,76561198000539087,"Rest in Peace Vince Zampella, thank you for your contributions to Medal of Honor, Call of Duty, Titanfall and Battlefield 6. You are an uncontested King of shooters.
+
+No one can come close to what you have given us for over 20yrs.",0.8985271453857422,131,True
+10180,109076283,76561199107888635,"[h1] 9.5/10 [/h1]
+
+Despite being a game released in 2009, the game is still considered the pinnacle of the Call Of Duty franchise to this day. And even if this game is played now, its performance does not live up to its reputation.
+
+There weren't many first-person shooters describing modern warfare at the time. Under the aura of Modern Warfare's success in the previous game, Modern Warfare 2 goes a step further and tells a more wonderful story, and even now, its story is very excellent too. 
+
+The grand battlefield, the magnificent plot, the exciting battlefield performance, and the passionate music. All of this makes for Call of Duty 6: Modern Warfare 2, a shooter that has never been seen before or since, and a game that will never let you down.
+
+At the same time, this game is also the first attempt to add a special operation mode to the Call of Duty series. Fast, unique multiple challenges allow players to invest the time at their leisure for quick play. Even in 2022, Modern Warfare 2's multiplayer servers still have a certain base of players, and now you can still try the multiplayer experience of Modern Warfare 2 that year.
+
+For shooter fans and fans of the Call of Duty franchise, I believe that I don't need to say more, they all know this game is a must-try masterpiece. But given that this is a 2009 game, it's inevitable that there will be some bugs or glitches.",0.892601490020752,145,True
+10180,209788574,76561198149141810,"There are known RCE and RAT exploits for this game. It's a good game but it isn't good enough to justify the risk of your computer getting compromised. This isn't the only title affected. Other titles include:
+
+-Call of Duty: Modern Warfare 3
+-Call of Duty: Ghosts
+-Call of Duty: Advanced Warfare
+-Call of Duty: Black Ops 1
+-Call of Duty: Black Ops 2
+-Call of Duty: WW2
+
+and Hackers can:
+-Gain access to your PC, even if you're not in a lobby
+-Execute arbitrary code, steal personal data, and compromise system security
+-Utilize your device for malicious activities, such as DDOS attacks, audio/video recording, and credential theft
+
+Take with that knowledge what you will and be warned. If you do choose to buy this, DO NOT play online for your own personal safety.
+
+Here's a thread detailing it much further: https://steamcommunity.com/app/202970/discussions/0/6741412150954273795/",0.8876110911369324,76,False
+10180,224796997,76561198070869192,Game runs like it should but this and just about every cod on steam is Rat compromised meaning a hacker can just bypass your normal firewalls thru the game if they feel like it.,0.8838570713996887,178,False
+10180,202352912,76561198034232975,"In 2025, a worm is spreading that injects malware that resides on compromised servers that you automatically log into. (Multiplayer only).",0.8748574256896973,104,False
+10180,95599492,76561199035417743,"!!!IMPORTANT!!!
+Before the main review starts i just wanna warn people DO NOT play multiplayer online only with friends. IT IS UNSAFE there are exploits where people can take control of your PC. Multiplayer is also full of hackers who ruin the game and DOX PEOPLE. This is not Infinity Wards fault though because this game hasn't been updated for years. so DO NOT play with randoms but play private games with your friends if you wanna play multiplayer. Anyway now that that is out of the way now to the review.
+
+
+Overview:
+Call of Duty: Modern Warfare 2 is a very action packed first person shooter released in 2009 it has 3 main modes to play. The Campaign, a very intense story about what is basically world war 30 happening. It is riddled with memorable and monumental moments and one of the best cod campaign stories. With great level design and greatly executed gimmicks. Special Ops, a new mode to the call of duty series. featuring areas from the mw2 and cod 4 campaigns but with extra challenges added to the mix. some examples include completing areas in a certain amount of time, fighting waves of enemies and snowmobile racing. and finally multiplayer, a mode where you can fight random people from around the world in deathmatches like team deathmatch, free for all, capture the flag, kill confirmed and much more. with crazy killstreaks and weapons.
+
+Now i'm gonna go to the checklist!
+
+Price:
+☐ Buy it full
+☑ Wait for sale
+☐ Don't buy it
+☑ Overpriced
+☐ Free
+
+Graphics:
+☐ Amazing
+☐ Very Good
+☑ Good
+☐ Average
+☐ Bad
+☐ Very Bad
+☐ Awful
+
+Gameplay:
+☐ Amazing
+☑ Very Fun
+☐ Fun
+☐ Meh
+☐ Boring
+☐ Bad
+☐ Awful
+
+Grind Level:
+☐ Intense
+☐ A Lot
+☐ Average
+☐ Little
+☐ Almost None
+☐ None
+☑ Depends on Player
+
+Music:
+☐ Amazing
+☑ Good
+☐ Average
+☐ Meh
+☐ Bad
+☐ Terrible
+☐ Atmospheric
+☐ None
+
+Overall
+8/10",0.8727431893348694,84,True
+10180,194379562,76561199285911493,"1. Open the game
+2. Admire my childhood
+3. Help Afghans with training
+4. Shoot that old wrinkly fuck in his head 12 times for each year that passed after seeing ghost killed
+5. Beat the Campaign
+6. Load into Museum
+7. Shoot the same old wrinkly fuck with every gun i can.",0.8692198991775513,64,True
+10180,234476030,76561198305285315,!!DO NOT PLAY!!! Even with the x64 update that just dropped RCE is still a thing. These products need threat of removal from the Steam Store until Activision actually fixes these exploits. VALVE needs to force them to make these games safe.,0.86873859167099,251,False
+10180,115600929,76561198020277065,"It's Mw2, of course it's good! WARNING!!!!: I'm just leaving this review to warn you of the hackers in the steam lobby gaining access to your PC and private information! Do NOT play in Steam multiplayer! Download a 3rd parrty program called Xlabs or Plutonium for ALL your older CoD's that you play on PC!
+
+Campaign and Spec Ops with a friend works perfect with no risks!
+Multiplayer works fine, but you run the risk of being hacked.",0.9093524217605591,124,True
+10180,66997696,76561198073064444,"[Extreme Cyber Security Risks]
+
+I love the game itself and I've spent hundreds of hours playing online. However, multiplayer is a mess. With the way servers work, it is not worth the risk.  Hackers are everywhere, and they are not just trying to cheat the game. There have been many reports (and it has happened to me as well) of hackers RATting players. By doing this, they have complete remote control of the user's computer. I discovered this when I joined a lobby only to have my game suddenly minimized, an internet browser opened, and someone on the other end started searching images online from my computer. If the hacker wished, they could break the computer. It's an absolute mess. If you search ""MW2 hacker controlling computer"", you can see more people talking about this problem. Even if this game is old, it is no excuse for such critical vulnerabilities to exist without giving players a massive red alert button informing them of the inherent risks. 
+
+If, however, you just care about the campaign, that is fun.",0.902555525302887,146,False
+10180,234607355,76561198037920209,Glad I grew up being betrayed by Shepherd instead of getting scammed for skins.,0.8983820080757141,92,True
+10180,209169388,76561198321114785,"How I wish to be a kid with no understanding of the world again. Good times.
+
+
+Always happy to boot this up and defend Burgertown. But its the Whiskey Hotel/Washington level that always stuck with me. The music, the radio chatter. I'm Canadian, and that shit made me a goddamn patriot for its whole runtime.
+
+Kudos to all of you out there, keep your heads up. I hope we all get the chance to enjoy these games over drinks with friends again :)",0.8466798067092896,57,True
+10180,91843581,76561198967399025,"Still the king even after all these years. The campaign is amazing and you will finish it in one sitting. The missions are pure excitement, Let's defend burger town. 4.5/5",0.8460208177566528,68,True
+10180,206198030,76561198310468045,Old cod is like looking at old pictures of a old friend and remembering all the good times you had and wondering where did it all go wrong,0.842525064945221,50,True
+10180,19317909,76561198042409053,"Still a populated community so don't worry about not finding a game because you will.
+
+UPDATED MAY 08, 2016: You can still find people in multiplayer.",0.9393612146377563,367,True
+10180,229819240,76561198081365970,"Call of Duty MW2 is actually a great game. Great singleplayer, great multiplayer etc. But this game should either be patched or not be sold on Steam due to the glaring and common RCE exploits which can screw up your computer when you play with other people over the game's multiplayer peer-to-peer. 
+
+Avoid this version of the game. And do not touch the multiplayer.",0.8388240933418274,86,False
+10180,186581854,76561197991372070,"It is a sad day when multiplayer leads to you getting hacked. You WILL lose access to your keyboard. Use Iw4x or some other software but don't play vanilla. Stay safe out there. Activision, you had better patch these games IMMEDIATELY! Stop adding content to warzone and FIX THIS MESS!",0.8382688760757446,77,False
+10180,120912513,76561198132398908,I love the game but why is it that when I flash somebody its like I just slapped them in the face with a napkin from a little kids birthday party but when I get flashed its like some big brollic black dude named Requis pulls a bedsheet up and around my head and just proceed to skull fuck me?,0.8350168466567993,103,True
+10180,172200429,76561198162777544,Activision took down a non-profit passion project mod to remaster Modern Warfare 2 that required you to purchase Modern Warfare remastered. Don't support them. Don't buy this game.,0.8338161706924438,118,False
+10180,136045269,76561198953490715,"I want to put this as a definitely positive so bad, however the amount of issues from multiplayer are the reason why i cant recommend this (vanilla)
+
+If you didn't know, its a serious risk playing multiplayer in mw2, and for most old cod games on steam, this is because activision has not put proper security for this game, it is so easy to get into a lobby with a hacker that can take control of your pc and start adding files/deleting them. this also applies to these COD games.
+
+Call of Duty 4: Modern Warfare
+Call of Duty: World at War
+Call of Duty: Black Ops
+Call of Duty: Modern Warfare 3
+Call of Duty: Black Ops 2
+Call of Duty: Ghosts
+Call of Duty: Advanced Warfare
+(Maybe, not for sure) Call of Duty: Black Ops 3
+
+There may be more games that belong on this list of dangerous COD games.
+
+However, if you still want to play the OG MW2, i recommend buying this, BUT, downloading a certain client of the game. You can find many tutorials (even one made by merk music) that show how to get this client
+
+TLDR: get 1w4 x if you get this game",0.8236246109008789,74,False
+10180,101527198,76561198947340059,"I am yet to get into a game without hackers. The campaign is amazing and I love it, but I mainly bought this game for the multiplayer, and my third game somebody leaked all of the players' Ip addresses, so that's nice",0.8167650699615479,82,False
+10180,64078869,76561198085010080,"WARNING: Word has spread that this game's multiplayer has big hacking problem. And no, I'm not just talking about losers using things like wall hacks and aimbot, but people actually using lobbies to install malware on your PC. I found this out on this game's community thread title ""RCE Exploits are Back."" It's your final decision, but you're taking a risk if you decide to play on multiplayer.
+
+Okay, since that's out of the way, this game does have great singleplayer. The campaign is great fun. Nothing much to say about an old school CoD game, since just about everyone knows what to expect from CoD, but it's definitely a lot better than what Activision puts out now. Shoot your gun, throw grenades, what more could you ask for? 
+
+As for my brief experience with multiplayer, it would be great if it wasn't filled with hackers and pathetic losers who own modded lobbies. I've seen people using aimbot, wallhacks, or both, and no action is taken against them. Then you've got pathetic, sore losers who have modded lobbies and design them so that everyone has the same gun except them. A lot of lobby owners rig their mod so only they get to pick their own weapons and builds. If you think that wasn't bad enough, then get this; they also hijack online traffic so that anyone in matchmaking ends up stuck in their garbage lobby. 
+
+Get this game for singleplayer. Multiplayer is unsafe, and it's also garbage. If it wasn't filled with pathetic hackers then it'd be great.",0.8648074865341187,64,True
+10180,200387456,76561198087673583,"~ DIFFICULTY ~
+🔲 My 90 year old grandma could play it
+🔲 Easy
+✅ Normal
+🔲 Hard
+🔲 Dark Souls
+
+~ GRAPHICS ~
+🔲 MS Paint
+🔲 Bad
+🔲 Meh
+🔲 Graphics dont matter in this game
+✅ Good
+🔲 Beautiful
+
+~ MUSIC ~
+🔲 Bad
+🔲 Not special
+✅ Good
+🔲 Eargasm
+
+~ STORY ~
+🔲 This game has no story
+🔲 Like playing Temple Runners for the story
+🔲 It's there for the people who want it
+🔲 Well written
+✅ Epic story
+
+~ PRICE ~
+🔲 Free
+🔲 Underpriced
+🔲 Perfect Price
+🔲 Could be cheaper
+✅ Overpriced
+🔲 Complete waste of money
+
+~ REQUIREMENTS ~
+🔲 You can run it on a microwave
+✅ Average
+🔲 High end
+🔲 NASA computer
+
+~ LENGTH ~
+🔲 Very Short (0 - 3 hours)
+✅ Short (3 - 15 hours)
+🔲 Average (15-50 hours)
+🔲 Long (50-90 hours)
+🔲 Extremely long (90-110 hours)
+🔲 No ending
+
+~ FUN ~
+🔲 I'd rather watch paint dry
+🔲 Hard to enjoy
+🔲 Repetitive
+🔲 Actually pretty amusing
+✅ Ride of your life
+
+~ REPLAYABILITY~
+🔲 It's a one-time experience
+🔲 Only for achievements
+🔲 If you wait a few months/years
+🔲 Definitely
+✅ Infinitely replayable
+
+~ WORTH BUYING ~
+🔲 No
+✅ Wait for sale
+🔲 Yes
+
+----------------
+
+Call of Duty: Modern Warfare 2 delivers a gripping and cinematic first-person shooter experience that builds on the legacy of its predecessor. Set against the backdrop of global conflict, the game presents a refined and action-packed campaign that hooks players from the opening moments. Its high-stakes narrative and expertly crafted set pieces maintain a constant sense of urgency, keeping the adrenaline flowing throughout the experience. Whether playing solo or venturing into its robust multiplayer modes, the game consistently delivers fast-paced, high-intensity engagements.
+The story follows Task Force 141 and their relentless pursuit of an international terrorist threat, blending espionage and military action into a tightly woven narrative. The plot evolves through a series of memorable missions across a variety of global locations, showcasing both the personal and geopolitical stakes involved. Characters like Ghost and Captain Price are given substantial narrative weight, and the script balances drama and tension with just the right amount of emotional impact. The pacing remains sharp, ensuring that each story beat feels impactful and relevant.
+Gameplay in Modern Warfare 2 is polished and responsive, offering a fine-tuned shooting mechanic that feels both weighty and satisfying. A wide array of customizable weapons and equipment gives players the flexibility to tailor their approach across campaign, co-op, and multiplayer modes. Multiplayer introduces various modes and a progression system that rewards strategy and skill, while also incorporating updated mechanics like weapon tuning and perk packages. Tactical play is encouraged, but the game remains accessible for newcomers as well.
+Visually, the game impresses with its realistic environments, high-fidelity character models, and dramatic lighting effects. Each level is meticulously designed to enhance immersion, whether navigating through a dense urban landscape or infiltrating enemy compounds in remote regions. Animations are fluid, and visual cues are intuitive, aiding in gameplay clarity while enhancing the cinematic presentation. The attention to detail across all visual elements reinforces the game’s commitment to quality.
+Overall, Call of Duty: Modern Warfare 2 succeeds in delivering a top-tier shooter experience with a compelling narrative, engaging mechanics, and visually stunning presentation. The game demonstrates refinement in every area, from storytelling and pacing to technical performance and multiplayer depth. It stands as a strong entry in the Call of Duty franchise, satisfying long-time fans while remaining approachable for new players. Its ability to balance spectacle with substance makes it a standout title in the genre.
+Call of Duty: Modern Warfare 2 gets a 9/10.
+
+For more reviews check my Steam profile
+Hope you enjoyed my review, god bless you",0.813435435295105,45,True
+10180,96585723,76561199050796923,"I bought the game because I am young and never experienced it like my dad did, (fly high dad), and I want to live up to him, so I decided to buy it, relive spec ops, and beat him in the pit. I recommend this game, as no internet needed to play.",0.8600003123283386,83,True
+10180,157540334,76561198161860645,childhood memories this game. when me and my cousin played split screen at his dad house and we just had a really good time together. i miss those days..,0.8096463084220886,42,True
+10180,172237670,76561198087537741,"Great game. 
+Shame it's full of RCE exploits, which Activision doesn't care to fix.
+DO NOT BUY",0.8083778619766235,57,True
+10180,220368243,76561199037850092,"Do not buy the new COD games, buy this:
+- Graphics are good enough and have aged like fine wine
+- You can play this on a literal MAC laptop so you're graphics should be fine
+- Gameplay is the best out of all of the COD games
+- Its very grounded and sometimes even dark (No Russian, Invasion of U.S)
+- The music i listen to when i exercise
+Conclusion: Yes 10/10",0.8053374290466309,52,True
+10180,134080266,76561198222087752,The superior Modern Warfare 2. No questions asked.,0.901494562625885,106,True
+10180,32168154,76561198056282140,Best CoD game ever created. Still playing it in 2017 and planning to still play in for the next few years. So much more fun when you have custom launchers like IW4-x and Rocket v2. Too bad Activison shut down 4d1... rip 4d1... best custom client.,0.8509634733200073,124,True
+10180,225122419,76561199482530534,"Peak game, ts is better than whatever kind of stupid ass COD we have now, (09 Ghost and Soap are better)",0.7933295369148254,34,True
+10180,206802318,76561198062506049,"""Remember No Russian.""
+
+It’s hard for me to approach this title without bias it was the first multiplayer game I ever played back in the golden days of the Xbox 360 era, surrounded by some of the most chaotic, unhinged, and downright hilarious people I’ve ever met online. There was something raw and unforgettable about that experience, and it’s bittersweet knowing that future generations won’t get to feel that same kind of magic. Multiplayer is still available today, and while it’s great that it’s even alive at all, it just doesn’t have that same spark on PC that it did back in the day though that’s probably my nostalgia talking. The campaign is solid, packed with cinematic set pieces and some of the most iconic missions in the entire franchise, lets not forget the impact the mission No Russian had on social commentary/video games on a global scale, I dont think we will ever see anything like that again. It definitely leans a bit too hard into the over the top action for my taste. I always preferred the tighter, more balanced tone of the original Modern Warfare. Spec Ops remains a blast still one of the most enjoyable cooperative modes Call of Duty has ever done. Playing it again with friends, especially with mods, makes for some truly god tier fun. Looking back, what really stands out to me is the way it defined an entire era of online gaming. For anyone who hasn’t experienced the classics from the very first Call of Duty through to this one it’s worth diving in just to see how quickly the series evolved and carved out a new identity, before it became what it is today.",0.7909663319587708,36,True
+10180,142567462,76561198073778753,"I come back to this game once every 2-4 years and play through the story on a rainy weekend. It really brings back the childhood memory's. If you have never played this one, get ready for a COD with a real story. Be prepared to understand why COD became popular.",0.7885462641716003,37,True
+10180,79557490,76561198016247995,"Whether you prefer Single Player, CO-OP or Multiplayer, this game has all three of them. I have reviewed all three parts of the game if you are considering buying this.
+
+CAMPAIGN REVIEW (Single Player):
+
+The campaign is about 6 hours long roughly. It can be shorter or longer depending on your selected difficulty. The story itself is very good and is set 5 years on from Call of Duty 4: Modern Warfare. It is not a Hollywood Blockbuster but at the same time it is not some random quickly written story that was put together in a few hours. Every mission has different objectives and you can feel the climax building up to the finale of the game. Every level is action filled and there is never a dull moment in the campaign. As you progress you will play in different locations in the world such as: Afghanistan, Brazil, Russia, the Atlantic Ocean and the United States. Even after completing the story there are Intel collectables to find and of course Steam achievements. There are also quite a few Easter Eggs in the campaign levels. The story for this then continues on into Call of Duty: Modern Warfare 3
+
+SPEC OPS REVIEW (Single Player / CO-OP):
+
+The Special Op missions are mostly the campaign levels but switched the other way round and with different objectives in the level. There are a total of 23 spec ops missions in MW2. 21/23 of these can be done on your own or with a friend. There are 2 Spec Ops missions that can only be done with a 2nd player. The missions get harder and harder as they go on. Some of the levels in this have been re-used from COD4. There is no matchmaking for the Spec Ops so the only way to find another player is to invite / join a friend and begin playing. There are also quite a few Steam achivements for this like with the Campaign.
+
+MULTIPLAYER REVIEW (Multiplayer):
+
+The Multiplayer is what is considered the strongest part of Call of Duty: Modern Warfare 2. Unlike COD4 this time the game uses Steam Cloud, so your rank will all be stored online and will sync every time you close MW2. The highest level you can reach is level 70 with the addition of 10 prestige levels. When you reach Rank 4 you will have the ability to create your own classes where you can choose your main weapon, secondary weapon, perks and equipment. You can also stick attachments to pretty much all of your weapons on here. You can also unlock weapon camos for your main firearms, which some look very cool when placed on. You have the ability to join friends in a session and vice versa (provided there is space) and host your own private matches for this.
+
+
+Conclusion: I highly recommend buying this game if you are reading this out of personal interest or if the game has gone up for sale. I recommend playing the Campaign before going to Multiplayer to get a feel of the game, but it is of course entirely your decision.
+
+Things to be aware of -
+
+There is no direct controller support for this game.
+
+If you are considering the DLCs, it should be noted that there are less players than that of 2009 - 2010, so the only two main playlists are the base game and those who own both of the DLCs. If you only buy 1 DLC, you will find literally 0 games on there.
+
+MW2 Multiplayer has no dedicated servers. It uses a matchmaking system that will pair you up with other players in the same playlist and game mode as you.
+
+This game uses VAC. So if you are banned for cheating / modding the game, your ban will be permanent. There is no way to lift a ban. You have been warned.
+
+At the time of posting the Multiplayer peak for this is around 10,000 players which is more than enough to find a game and play. Campaign / Spec Ops population doesn't go above 5,000.
+
+If you have any questions or concerns with the game feel free to leave a comment.
+
+Single Player / Spec Ops Hub - http://steamcommunity.com/app/10180
+Multiplayer Hub - http://steamcommunity.com/app/10190
+
+Thank you for reading and enjoy the game if you decide to purchase!",0.7812405824661255,33,True
+10180,152515087,76561198848613577,"---{Graphics}---
+☐ Paint.exe
+☐ Don‘t look too long at it
+☐ Bad
+☐ Average
+☐ Decent
+☑ Good
+☐ Beautiful
+☐ You forget what reality is
+
+---{Gameplay}---
+☐ Just don‘t
+☐ Starring at walls is better
+☐ Meh
+☐ It‘s just gameplay
+☑ Good
+☐ Very good
+
+---{Audio}---
+☐ Ear rape
+☐ Bad
+☐ Average
+☑ Good
+☐ Very good
+☐ Eargasm
+
+---{Audience}---
+☐ Kids
+☐ Teens
+☑ Adults
+☐ Human
+
+---{PC Requirements}---
+☐ Check if you can run paint
+☑ Potato
+☐ Decent
+☐ High Tech
+☐ Ask NASA if they have a spare computer
+
+---{Difficulty}---
+☐ Just press ‚A‘
+☑ Easy
+☐ Easy to learn / Hard to master
+☐ Difficult
+☐ Significant brain usage
+☐ Dark Souls
+
+---{Grind}---
+☐ Nothing to grind
+☑ Only if you care about leaderboards/ranks/achievements
+☐ Isn't necessary to progress
+☐ Average grind level
+☐ Too much grind
+☐ You‘ll need a second live for grinding
+
+---{Story}---
+☐ Story?
+☐ Text or Audio floating around
+☐ Bad
+☐ Average
+☐ Good
+☑ Lovely
+☐ It will replace your life
+
+---{Game Time}---
+☐ Long enough for a cup of tea
+☑ Short
+☐ Average
+☐ Long
+☐ To infinity and beyond
+
+---{Price}---
+☐ You could also just burn your money
+☐ Not recommended
+☐ If you have some spare money left
+☑ Wait for discounts
+☐ Worth the price
+☐ It’s free!
+
+---{Bugs}---
+☐ The game itself is a big terrarium for bugs
+☐ FIFA 23
+☐ Can get annoying
+☑ Minor bugs
+☐ Never heard of
+
+---{ ? / 10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☐ 7
+☑ 8
+☐ 9
+☐ 10",0.7785500288009644,38,True
+10180,191603501,76561198157845432,"I doubt there will ever again be a mainstream game with a storyline this subversive and suspenseful. Even more than ten years later, this game feels like playing a blockbuster action movie. Lightning in a bottle.",0.7782835960388184,29,True
+10180,179008159,76561198392725283,"The best one in MW series and even all CODs. You will never forget old friends in this game: Roach, soap, price, and Sheffield of course. I played this game as a child in 2009, and I am still playing this game in 2024, this game makes me relaxed and bring me back to that childhood time, the only easy day, was yesterday...
+Spec ops is another great invention in this game, you can team up with your friend and face against dozens of enemies include cheater - Juggernauts.
+Don't think my English is good enough to express how much I like this game.",0.7778060436248779,31,True
+10180,213320078,76561198307698853,"MW2 is still one of the best CODs in 2025, would 100% it again 👍
+
+(P.S. don't play MP, it's not safe)",0.7771269083023071,38,True
+10180,68851808,76561198296896064,"Love this game. By far my favorite cod of all time.
+But do not get this game if you plan to play multiplayer.
+There are hackers in almost every match just ruining the game completely,
+and as some other comments reiterate, their not just hacking the game. Somehow Activision's oblivious development
+of this game allows other people to backdoor your computer and completely destroy it if they want to.
+This kind of oversight fro a AAA developer is crazy. Whats worse is they will NEVER fix this. Once a cod has hits 2-3 years of age, Activision completely checks out and never does anything about any hacking. Ever. They don't care. So hackers have free roam to do WHATEVER they want with absolutely zero implications. 
+Activision, pull your head out of your ass, ban some people and fix your anticheat.",0.8250066041946411,170,False
+10180,42785359,76561198379433965,"Good game despite its minor bugs. I game from work mostly as the connection is top quality there. When the game selects me as host it allows me to clear the game of the things that make it unplayable such as cheaters and lag. (Most players claim to be a good host or have a good connection, this is what I game on: http://www.speedtest.net/result/6887526429 )
+
+Overall, MW2 is the best cod imo (under the right circumstances)
+
+
+-----
+ -> Cheaters (aimbot [player aimlock], wallhacking [seeing through the wall], texture hack [manipulated textures in-game which give you a viewing advantage])
+
+ -> Lag and poor host selection (Lag means failing to keep up with another or others in movement or development).
+
+
+To a player:
+•	lag can cause your aim to seem `off` and result in a lot of hitmarkers
+•	lag will cause your shots and explosions to appear late (delayed) on your screen - you may think you knifed someone and then a few moments later, you`re dead and you think BS. Either you, the other player or both of you had a lag which resulted in what you saw.
+•	lag can cause rubberbanding (warping) and or player teleporting
+•	lag can cause your players position to reset (while it appears as if you ran half a mile to a building, you could find yourself back where you were a few moments later, as if you did nothing)
+
+
+So if you have a slow internet connection, it`s not a good idea to run background downloads or uploads while you play, or stream music or watch video content. If your internet is slow, downloads/uploads could be done overnight or during the day when you`re out. Music could be downloaded to your PC and played locally. Videos could be watched from another device like a laptop, tablet or phone (preferably on another network e.g. mobile data, neighbours wifi etc).
+
+To summarise, lag is annoying and players should do all they can to reduce their chances of ping spikes as it`s possible to lag in any and every online game no matter how good the `server` is.
+
+Some guides you may find useful:
+How to identify a good host - https://steamcommunity.com/groups/mw2gamingnederland/discussions/0/1696048879948788239/
+Workaround solution for Mac users - https://steamcommunity.com/groups/mw2gamingnederland/discussions/0/1727575977559594974/",0.8199729919433594,51,True
+10180,65323413,76561198420200341,"---{Graphics}---
+☐ You forget what reality 
+☑ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ Paint.exe
+
+---{Gameplay}---
+☐ Very 
+☑ Good
+☐ It‘s just gameplay
+☐ Mehh
+☐ Starring at walls is better
+☐ Just don‘t
+
+---{Audio}---
+☐ Eargasm
+☑ Very good
+☐ Good
+☐ Not too bad
+☐ Bad
+☐ Earrape
+
+---{Audience}---
+☐ Kids
+☐ Teens
+☑ Adults
+☐ Human
+☐ Lizards
+
+---{PC Requirements}---
+☐ Check if you can run paint
+☐ Potato
+☑ Decent
+☐ Fast
+☐ Rich boiiiiii
+☐ Ask NASA if they have a spare computer
+
+---{Difficulity}---
+☐ Just press ‚A‘
+☐ Easy
+☑ Significant brain usage
+☐ Easy to learn / Hard to master
+☐ Difficult
+☐ Dark Souls
+
+---{Grind}---
+☑ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☐ Isnt necessary to progress
+☐ Average grind level
+☐ Too much grind
+☐ You‘ll need a second live for grinding
+
+---{Story}---
+☐ Story?
+☐ Text or Audio floating around
+☐ Average
+☑ Lovely
+☐ It‘ll replace your life
+
+---{Game Time}---
+☐ Long enough for a cup of coffee
+☐ Short
+☑ Average
+☐ Long
+☐ To infinity and beyond
+
+---{Price}---
+☐ It’s free!
+☑ Worth the price
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{Bugs}---
+☐ Never heard of
+☑ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+",0.8183448910713196,140,True
+10180,74143416,76561198273174271,"[b]Call of Duty: Modern Warfare 2[/b] is one of the most iconic COD game in the franchise.
+
+[h1]The game as a whole[/h1]
+[b][u]Pros:[/u][/b]
+- Many weapons
+- Weapon handling is good
+- Soundtrack is great
+
+[b][u]Cons:[/u][/b]
+- Bit outdated graphics [i](The game is from 2009 so it's obvious)[/i]
+- Some bugs
+
+[h1]Campaign[/h1]
+[b][u]Pros:[/u][/b]
+- Great Story, one of the best in the franchise
+- Memorable Characters
+- Memorable missions
+
+[b][u]Cons:[/u][/b]
+- Stealth missions are very scripted
+- Veteran Difficulty is way too frustrating, but I think that's the point of it
+
+[h1]Multiplayer[/h1]
+[b][u]Pros:[/u][/b]
+- Solid playerbase even to this day
+- Great maps, some of them are really iconic
+- Custom loadouts
+- Killstreak bonuses
+- Player progression
+
+[b][u]Cons:[/u][/b]
+- Toxic Players
+- Blatant cheaters
+
+[h1]Spec Ops[/h1]
+[b][u]Pros:[/u][/b]
+- Co-op missions
+- Great missions
+
+[b][u]Cons:[/u][/b]
+- [i]None[/i]
+
+A solid [b]10/10[/b], pick it up, no regrets.",0.8172531723976135,60,True
+10180,102748552,76561198122248263,"In my opinion, Modern Warfare 2 was the pinnacle of fps multiplayer fun. The story was great as well. Unfortunately, most people have moved on to newer renditions and left this CoD to collect dust. Multiplayer servers are dead, but if you search ""mw2 bots mod"", you will find the bot warfare mod. Bot warfare has allowed me to relive my high school years of playing online. It allows you to play against bots of various difficulties, while also allowing you to rank up and unlock titles, emblems, and guns, as if you were playing online. This mod is the reason I keep coming back to this game and refuse to give it up. I still can't get over the nostalgia this game brings me. Wake up bro, it's 2009!",0.7652128338813782,31,True
+10180,62111009,76561198167306677,"[spoiler]Ghost, come in! This is Price! We’re under attack by Shepherd’s men in the boneyard! (Soap, hold the left flank!)”...“Do not trust Shepherd! I say again, do not trust Shepherd!(Soap, get down!)...[/spoiler]",0.8138481974601746,80,True
+10180,197061305,76561199545395640,"""The healthy human mind doesn't wake up in the morning thinking this is its last day on Earth. But I think that's a luxury, not a curse. To know you're close to the end is a kind of freedom...""
+Amazing gameplay. Amazing story. 10/10",0.75913006067276,24,True
+10180,115059601,76561198120242946,do not play multiplayer. you will either get nsfw tabs opened on your chrome page or your bank accounts wiped. be warned. everything else works perfectly fine.,0.806420087814331,134,False
+10180,33178996,76561198002608541,"This is the game that famously created a huge controversy back in 2009. In the 4th Level, ""No Russian"", the player has the option to shoot innocent bystanders with no in-game penalty. Understandably, this created a huge protest among the police and the general public. But I feel that because of this controversial level, the developers were able to rise into instant fame and the game broke a couple of sales record back in 2009.
+
+Setting this aside, this has to be one of the best Call of Duty games ever created by the developers. The graphics looks great even in 2017 and the gameplay is superb. Highly recommended for all FPS fans.",0.8060007095336914,89,True
+10180,175172304,76561198867958726,"[h3][b]Good Old COD[/b][/h3]
+[quote][b] Rating: 9/10 [/b][/quote]
+I found it way easier than MW remaster after finishing both on Veteran difficulty. But I had ton of fun in campaign. I highly recommend to follow the Modern Warfare release order to understand characters and some story references. Good game. MP isn't dead either.
+
+[b]Just bring the damn remastered version here, activision mofks[/b]",0.7536917328834534,25,True
+10180,211403262,76561197989940409,Best CoD ever but not safe to play on Steam because of lot of hackers and they can infect your PC and steal your data through this game,0.7496281266212463,35,False
+10180,215211956,76561198308984772,This game is full of hackers that can enter your PC! It's really sad that the game creators don't fix the issues on such a good and classic game like MW2!,0.7488529682159424,54,False
+10180,71962006,76561198134071760,"[h1] Story [/h1]
+Call of Duty: Modern Warfare 2 is a first person shooter video game developed by Infinity Ward and published by Activision also it has the biggest budget for a game to this day.MW2 continuous the storyline of Modern Warfare 1.After the events from MW1, Ultranationalists seize control of the Russian Federation, even with best efforts of US Marine Corps and SAS to stop them, and make Imran Zakhaev (villain from previous COD) a martyr, which also ruins the diplomatic relations with USA. Vladimir Makarov, Zakhaev's right hand man, starts a campaign of revenge against the West, and five years later, commits a mass murder and leaves American body on the scene, sparking a war between Russian and USA.
+You will follow the story from 2 perspectives of a Task Force 141, special forces unit that is hunting down Makarov, and United States Army Rangers, who try to defend their country from invasion.
+
+[table]
+    [tr]
+        [th]Game[/th]
+        [th]Developer[/th]
+        [th]Total cost (million US$)[/th]
+    [/tr]
+    [tr]
+        [td]Call of Duty: Modern Warfare 2[/td]
+        [td]Infinity Ward[/td]
+        [td]298[/td]
+    [/tr]
+    [tr]
+        [td]Grand Theft Auto V[/td]
+        [td]Rockstar North[/td]
+        [td]291[/td]
+    [/tr]
+    [tr]
+        [td]Star Citizen[/td]
+        [td]Cloud Imperium Games[/td]
+        [td]250[/td]
+    [/tr]
+[/table]
+
+[h1] Gameplay [/h1]
+It has the most fluid gameplay of fps games, guided the fps games that came after it it still is a linear shooter with interactive and action sequences, from vehicle combat, to slow mo door breaching a room filled with enemies. You will jump, sprint, crouch, and kill baddies like in every other Call Of Duty, while trying to stay behind a cover if shot, to regenerate your health. If you die, you get a lovely quote and you start from a checkpoint. To complete the level, just follow and do your objectives! Pretty self explanatory, not much to discuss. On the start of each level you get two weapons, but you can always switch them if they don't fit your style. Game, just like previous entry, has a wide variety of weapons and attachments to choose from. From obvious different type of crosshair, to more fancy ones, such as weapons with heartbeat sensors, or attached weapon under a weapon! Because there is no such thing as enough weapons. Some levels will even give you special equipment, like night vision goggles, or a laser designator. Normal equipment involves grenades, flashbangs, C4 and claymore mines. And as always, a combat knife if in real need to kill an enemy, yet with no ammo or time to reload.
+
+[h1] Music [/h1]
+Best soundtrack from COD's, that's for sure. Main theme composed by Hans Zimmer himself, while rest of the score was crafted by Lorne Bafle. It's just fantastic and there is nothing else to say about it. Voice actors also did a great job, both newly introduced ones, and the ones that simply changed a character they voice over.
+https://www.youtube.com/watch?v=q_kLFPIo2eE
+https://youtu.be/_qhsp3dsSlk?t=44
+
+[h1] Summary [/h1]
+Simple yet action and variety packed gameplay, super storyline with well written characters combined with fantastic soundtrack plus two additional gamemodes, Modern Warfare 2 has everything you need from a FPS, and continuous great story on MW1.
+
+Have to trust someone to be betrayed. I never did. -Captain Price",0.7986477613449097,75,True
+10180,179627439,76561199053276914,"
+---{ Graphics }---
+☐ You forget what reality is
+☐ Beautiful
+☑ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{ Gameplay }---
+☑ Very good
+☐ Good
+☐ It's just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ Audio }---
+☐ Eargasm
+☐ Very good
+☑ Good
+☐ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{ Audience }---
+☐ Kids
+☑ Teens
+☑ Adults
+☐ Grandma
+
+---{ PC Requirements }---
+☐ Check if you can run paint
+☐ Potato
+☑ Decent
+☐ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{ Game Size }---
+☐ Floppy Disk
+☑ Old Fashioned
+☐ Workable
+☐ Big
+☐ Will eat 10% of your 1TB hard drive
+☐ You will want an entire hard drive to hold it
+☐ You will need to invest in a black hole to hold all the data
+
+---{ Difficulty }---
+☐ Just press 'W'
+☐ Easy
+☑ Easy to learn / Hard to master
+☐ Significant brain usage
+☐ Difficult
+☐ Dark Souls
+
+---{ Grind }---
+☐ Nothing to grind
+☑ Only if u care about leaderboards/ranks
+☐ Isn't necessary to progress
+☐ Average grind level
+☐ Too much grind
+☐ You'll need a second life for grinding
+
+---{ Story }---
+☐ No Story
+☐ Some lore
+☐ Average
+☐ Good
+☑ Lovely
+☐ It'll replace your life
+
+---{ Game Time }---
+☐ Long enough for a cup of coffee
+☐ Short
+☐ Average
+☑ Long
+☐ To infinity and beyond
+
+---{ Price }---
+☐ It's free!
+☑ Worth the price
+☐ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{ Bugs }---
+☑ Never heard of
+☐ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{ ? / 10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☐ 7
+☐ 8
+☐ 9
+☑ 10
+
+---{ Author }---
+☑ https://vojtastruhar.github.io/steam-review-template 
+",0.7479153275489807,27,True
+10180,86172773,76561198967326131,"The BEST call of duty hands down from the campaign to the multiplayer, to spec ops.",0.8448542356491089,71,True
+10180,209596883,76561198977260070,"I lost 30,000 men in the blink of an eye. And the world just fuckin' watched. Best COD campaign out there.",0.7447500228881836,26,True
+10180,121979876,76561198449250524,"(+) points
+1. Damn Good Story , Just Mind Blowing.
+2. Very Good Action
+3. Iconic Villains
+4. Spec Ops are just Awesome.
+5. Optimized for Low Specs PC
+6. Game Graphics are Too Good according to game release date time.
+
+(-) Points
+1. Multiplayer is Dead. If any chance get to play a match , Full of Hackers.
+
+Verdict : This Game is totally awesome action packed FPS game. Don't miss this game. Don't need to play multiplayer.
+
+Rating : 10 / 10",0.744713544845581,30,True
+10180,188007827,76561198155967826,"Completed the campaign for the first time since 2010. If you want to replay the campaign or play it for the first time, this is a good option. It's hands down the best COD game of all time.",0.7446891069412231,25,True
+10180,184109408,76561199013289406,"---{ Graphics }---
+☐ You forget what reality is
+☐ Beautiful
+☑ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{ Gameplay }---
+☑ Very good
+☐ Good
+☐ It's just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ Audio }---
+☐ Eargasm
+☑ Very good
+☐ Good
+☐ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{ Audience }---
+☐ Kids
+☑ Teens
+☑ Adults
+☐ Grandma
+
+---{ PC Requirements }---
+☐ Check if you can run paint
+☑ Potato
+☐ Decent
+☐ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{ Game Size }---
+☐ Floppy Disk
+☐ Old Fashioned
+☑ Workable
+☐ Big
+☐ Will eat 10% of your 1TB hard drive
+☐ You will want an entire hard drive to hold it
+☐ You will need to invest in a black hole to hold all the data
+
+---{ Difficulty }---
+☐ Just press 'W'
+☐ Easy
+☑ Easy to learn / Hard to master
+☐ Significant brain usage
+☐ Difficult
+☐ Dark Souls
+
+---{ Grind }---
+☐ Nothing to grind
+☑ Only if u care about leaderboards/ranks
+☐ Isn't necessary to progress
+☐ Average grind level
+☐ Too much grind
+☐ You'll need a second life for grinding
+
+---{ Story }---
+☐ No Story
+☐ Some lore
+☐ Average
+☐ Good
+☐ Lovely
+☑ It'll replace your life
+
+---{ Game Time }---
+☐ Long enough for a cup of coffee
+☐ Short
+☑ Average
+☐ Long
+☐ To infinity and beyond
+
+---{ Price }---
+☐ It's free!
+☑ Worth the price
+☐ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{ Bugs }---
+☐ Never heard of
+☑ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{ ? / 10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☐ 7
+☐ 8
+☐ 9
+☑ 10",0.7430450916290283,23,True
+10180,146728999,76561198377242033,"I remember back in the day we used to get DDoS-ed, PC riddled with malicious software and our informations stolen free of charge.
+Now, it costs 20-40$. Times have really changed.",0.7912135124206543,47,True
+10180,196138941,76561198813303312,"i open the game, do my 999,999th quick run of hornet's nest veteran, and close the game. it's indicative of a deep sickness i think.",0.7409992814064026,21,True
+10180,40633131,76561198056046060,"[i]I was sniped by a guy named ♥♥♥♥snipers. I asked him to explain this hypocrisy. So he said ''He who snipes snipers, runs the risk of becoming a sniper himself. If you gaze into the scope, the scope gazes back''
+
+10/10.
+
+Anyway, worth it. Best CoD there is including CoD 2 and Bo2. Wish it was like back in the days. 
+Worth it 100%.",0.7901933193206787,323,True
+10180,39527554,76561198289483198,"downloaded bots mod due to lack of players put bots on expert and your playing a real game ladies and gentlemen
+
+plus this game is a gold pit for nostalgia",0.7898243069648743,44,True
+10180,223000940,76561199124030908,"This is my first Call Of Duty game that I have played campaign wise and all I have to say is this....WHY THE FUCK DID I NOT PLAY THIS MASTERPEICE EARLIER!!!!!!!! I am so jealous of those who played this as kids because despite knowing some of the stuff near the end this game was extreimly fun and emotional. 
+
+For any of you considering buying this 100% do it is entirely worth your money.
+
+And finally for those of us who are in the know remember ""NO RUSSIAN""",0.7368287444114685,30,True
+10180,204852799,76561198288392330,"campaign is fine but the multiplayer is notorious for its security flaws, if you play this multiplayer you are gambling your computer.
+
+there are third-party clients out there that solve these issues, but honestly you shouldn't have to do that in order to play a video game safely. this is something that should be fixed for all cod games that have the problem. if you want to the play the campaign you're good but if you want to play multiplayer just play it on console, the matchmaking actually works and has a decent population all these years later, and you aren't gambling your bank details when you play. same goes for every cod made before mw19 (to my knowledge)
+
+a while ago there was a patch that fixed a worm in the servers, but I don't think that fixes the fundemental issues with the backend, it just is not secure at all.  honestly its such a security risk i think steam should have a giant red sign plastered on the store page that says ""THIS GAME HAS MASSIVE SECURITY FLAWS, DO NOT PLAY ITS MULTIPLAYER COMPONENT."" Here's to hoping one day IW or whoever fixes it but I'm doubtful, and even if some magic patch comes out i'd be wary.",0.7367940545082092,25,False
+10180,117821964,76561198138917780,"The one and only: The true Modern Warfare® 2.
+People now days wouldn't survive this games lobbies and toxicity.
+Along with the trickshotters, feeders, noob tubers etc.
+Thank you all for the friends, memories and laughs I made along the way.
+This game will forever be a part of me. <3",0.7362151145935059,64,True
+10180,218540435,76561198154299239,"The greatest campaign of Modern Warfare series, i rate this game as 10 out of 10.
+Also its pretty easy to 100% achievements what im down for atm",0.7822279930114746,43,True
+10180,55603832,76561198821514755,Fun as hell. Made me feel like I was back in 2009 on my cousin's Xbox 360 playing it at 1 A.M. when I was supposed to be asleep. Now I just have to wait for Halo: Reach to come out on PC and then I can truly be a kid again.,0.827880859375,63,True
+10180,48507985,76561198064573344, Play this if you want that 2009 experience back again. You may need a CRT TV and a semi-broken Xbox 360 controller for the full immersion and nostalgia that this will bring you.,0.827857255935669,54,True
+10180,176186899,76561199771738148,Amazingly attractive character design. Soap's ass alone carries this game. 10/10 would recommend!,0.7264232635498047,20,True
+10180,229125966,76561198128448931,"I wish I could play this campaign for the first time again.
+
+Back then, I never expected a Call of Duty game to make me care so much about its characters.
+
+Ghost deserved better.
+
+RIP, legend.
+",0.7202835083007812,17,True
+10180,101568441,76561198346877187,"Worth the price but some multiplayer servers can quite literally download and launch malware on your computer and they have no plans of fixing it. Play the campaign, Stay away from the multiplayer, unless your hosting it yourself and have the server whitelisted so only your friends can join.",0.7201188802719116,23,True
+10180,220981784,76561198129491717,"Great for the campaign but be warned the steam version of this game's multiplayer is vulnerable to a pretty nasty exploit that lets hackers take over your PC. I'm playing this only on my old computer that has nothing else installed or logged in, and if I notice anything fishy I plan to just reformat Windows. I recommend you find a similar solution if you want to play this game safely",0.7196744680404663,18,True
+10180,160872762,76561198242909146,"While my total playtime on Steam may look short, believe me when I say I've put in hundreds of hours into this ABSOLUTE BEAST of a game back in my early teenage years from 2010-2013 on my Xbox 360 and PS3, or as I like to call it ""The Golden Age of Gaming.""
+
+Where do I even start with Modern Warfare 2, this game, along with Black Ops 1 were GIGANTIC to the gaming industry back in a time when flip phones were still relevant, midnight releases for games at a local Gamestop had long lines that stretched to the end of their shopping centers, and YouTube was a place to watch prerecorded videos of people playing MW2, Halo 3, or Battlefield Bad Company 2 on ole' Machinima (Seananners, Hutch, ONLYUSEmeBLADE, WoodysGamertag etc.). Back when all the kids in school wouldn't shut up for days about their KDs and quickscope trickshots and everybody wanting to be like Ghost.
+
+Fast forward to present day 2022, MW2 may be a shell of its old self online with all the hackers on all platforms and the infamous RCE exploit on PC that LITERALLY LETS PEOPLE BACKDOOR HACK INTO YOUR PC (DO NOT PLAY THIS GAME ONLINE WITHOUT USING A CERTAIN PROGRAM WITH A ""4"" IN ITS NAME OR YOUR PC IS IN HUGE DANGER). Campaign and Spec Ops wise though, MW2 is very much playable, and still as good as it was almost 13 years ago.
+
+The campaign holds up beautifully, continuing 5 years after the events of Call of Duty 4 and throwing you into a world even more riddled with terrorists and traitors at every corner than in CoD 4. Now you've got the added bonus of a war between Russia and America over a massacre at a Moscow airport perpetrated by the main villain of Modern Warfare, Makarov who made it look like it was an attack by Americans. The whole game revolves around Soap MacTavish and later Captain Price, returning faces from CoD 4, to find and kill Makarov and end the war, all while also experiencing the game from the perspective of American troops fighting for their lives in a Washington D.C. mid Russian invasion. It's a short campaign compared to other Call of Dutys, but it's a campaign that's so memorable people still remember moments like General Shepherds betrayal, storming the White House, the No Russian mission, and RAMIREZ WE HAVE TO DEFEND THE BURGER TOWN!!!!! to this day.
+
+Spec ops is an entertaining bunch of missions that can be done solo or coop with a friend, that have you completing objectives during certain moments from the campaign. For each mission you do well on you get 1-3 stars that let you unlock more missions until you reach the max of 69 (noice) stars. While it was a welcome addition to Call of Duty, and MW2 developer Infinity Wards response to Treyarchs World at Wars zombies mode and the MASSIVE success that was, it still pales in comparison to Zombies in my opinion, but Infinity Ward would go on to perfect spec ops in Modern Warfare 3.
+
+Now comes MW2s main attraction, the multiplayer, back in MW2s heyday the game had thousands of lobbies littered with its infamous mic chats (you can see some of them on Youtube) where dudes with names like XxeL1TePu55ySlayXx, 420SnipezZz, or Goldbrain/Goldbrain2000 (my old PSN and XBL gamertags) would go release our pent up stress of the day by insulting each other nonstop through our cheap mics while flexing our ability to quickscope and ""not"" use noob tubes and commando knives. God forbid you were considered a noob or had a high pitched voice because dudes with deeper voices in middle of nowhere Michigan would have an open season on your ass in the lobbies. If you had beef with someone you would settle your differences in a 1v1 match on Rust snipers only. It was a place where a 12 year old and a 33 year old could insult each other in a lobby by claiming they banged the others mom or had a family member working for Microsoft or whatever. It was toxic, it was aggressive, it would make a Twitter users head explode these days, but it was our favorite pastime in America during a time when many of us were struggling during the great recession, and I wish I could relive those days again T_T
+
+Today MW2 multiplayer on consoles is a hacker infested mess that's no longer updated or monitored by Activision (a future Microsoft developer who knows). On PC the game is also a hacked broken mess, but with the added RCE problem I mentioned earlier. Don't bother getting the DLC for this game if you haven't already, you wont find anyone to play with and you'll just get your PC hacked. If you do wish to experience MW2 multiplayer on PC with some level of ACTUAL security go find the lovely mod with the ""4"" in its name online and install that (No, you wont get VAC banned for playing that, quit saying it will those of you who know what it's called). Playing with that will allow you to play MW2 multiplayer in a more PC friendly way by allowing you to customize your FOV and other settings that you couldn't before all while giving you custom maps and weapons for your classes. Sometimes you may run into a hacked lobby, but you wont run the risk of getting you PC hacked if using the mod. When you find a good game (not hard to find) you're treated to the closest thing you could get to the old MW2 multiplayer experience from back in the day.
+
+Call of Duty Modern Warfare 2 is one of those games where the saying ""You just had to be there"" can be easily applied to. If you were there in its glory days then you'll probably cry tears of nostalgia like I did seeing this game and any videos about it on YouTube or even hearing the background music from the main menu on an endless loop. No battle royale, no lootboxes, no microtransactions, no always online, no goofy dances, no silly camos or attachments, no season passes. The only game to make a night owl like me become an early bird and wake up at 7am on a Saturday in 2011 to grind xp for another prestige level. To those of you who remember all this, I salute you.
+
+Oh, and one more thing...
+
+QUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD!!!!!!!!!!!!!!!!!!!!!",0.8180593848228455,61,True
+10180,207066379,76561198119682401,"This game has serious security vulnerabilities (REC, RAT exploits) so I would advise against buying it.",0.7125970125198364,42,False
+10180,157587336,76561199092777775,Great game ruined by hackers the multiplayer is a safety hazard because of these hackers as they have made a away to get remote access to anybodies computer and its not unsafe this is not really going to be worth 20$ considering that a major thing to cod games (Multiplayer) is unsafe I wouldn't take the risk and its most likely you'll get booted (game will crash) and these hackers can open up random stuff and download more malware also grabbing access to all these files. I've played this game on the 360 but I wanted to play on PC but multiplayer is unsafe. Activison and steam need to get there stuff together and work on this is screwing up the great game.,0.711409330368042,22,True
+10180,39002400,76561198115428964,"I have over 750 hours on the multiplayer for this game on PC during 2017 alone, not to mention my time on Xbox 360 and PS3 in 2009 and beyond.  The meager playtime you see is just for single-player.  I realize that this is an absurd amount of time spent on a game like this -- but if anyone's qualified to review this, it's this guy here.  Clearly, this review will be mostly multiplayer oriented.  However, I did finally check out the story mode in 2018, so here goes.
+
+Here's my impression of the single-player story: SENSORY OVERLOAD.  This game has no pacing whatsoever, in that there is literally no downtime to kind of recollect yourself.  There are explosions non-stop, motion blur and shellshock effects everywhere, enemies swarming all over the place like the story itself, and so on.  From start to finish, it is non-stop action.  The levels are mostly decent, albeit the psychic enemies with perfect aim (along with the absurd viewkick) on harder difficulties can frustrate.  The only level I truly despised was the first favela mission, as dealing with the infinite enemies was a chore.  The optimization is mostly fine, except this is a straight console port.  No FOV slider, no PC specific adjustments, etc.  This game also seems to be CPU focused, so anyone with a weaker CPU (or especially streaming on 1 PC with OBS Studio) may face challenges.  However, this game's single-player is perfect for those who just want an obscene amount of mindless action.  I dig it.
+
+This review's focus is on the multiplayer, though, as that seems to be what most people are curious about.  And after wading through the highest of the highs MW2 offers with the lowest of the lows, there are things people should know about this game in 2018, should they consider buying it.
+
+I've played most other CoDs, and personally, this game's gunplay feels the best out of all the games in the series.  Guns shoot where you aim, even on most lag, and the player can use a lot of different guns and perk combinations while still being functional.  It really is true in this game that, ""If every gun is OP, nothing is OP.""  There are, say, only a few guns and perks I would advise against using, although the UMP/Famas/Intervention is king.  The former is true if you're like me, and staunchly refuse to use the dirtbag One Man Army/Grenade Launcher/Danger Close exploit.
+
+This is the perfect segway to speak about the playerbase that still plays this game.  Let's get this out of the way.  Yes, there are a lot of players that will use the noobtube nonsense 100% of the time.  Couple with that, there are quite a lot of cheaters in this game, too.  They only serve to frustrate and get reactions from others players, who are just looking to have fun.  However, fortunately, there are also a lot of players just looking to play and get a few games in for that 2009 nostalgia.  The lobbies in this game truly are run by jungle law, as Activision (unsurprisingly, since they don't even seem to care about CoD WW2) doesn't moderate cheating in MW2.  Therefore, your experience in this game will be based simply on the other players in your game.  If they're not cheating, not tubing, and the host isn't on Dollar Tree internet, this game is still fantastic online.
+
+Keep in mind -- this is a straight-up console port.  The optimization here is quite a mixed bag.  On one hand, the framerate is capped at 90fps, no FOV slider, ONE slider for audio, and so on.   However, the game does still run smooth on max settings (i7 CPU and a 1080ti), and I've only encountered a handful of crashes.  Not necessarily exclusive to console games, but just as important to mention, MW2 IS P2P-CONNECTION BASED.  This is a deal breaker for a lot of PC gamers, sometimes moreso than the 90fps cap.  If anyone is looking for a CoD with dedicated servers, MW2 isn't your game.  For others not put off by this, though, this game runs smooth enough.
+
+The only other complaint I have is the DLC, which completely fragments the playerbase.  I truly wish Activision would do what they did with CoD4 and World at War, and package in the 10 DLC maps with the base game.  I happen to like playing the DLC maps, but the playerbase expectedly drops off significantly.  The silver lining here is that there aren't nearly as many cheaters that play in DLC lobbies, but at the expense of proportionately more noobtubers.  The dilemma here is this: do I play in regular lobbies with more players but more cheaters, or do I play in DLC lobbies with less people but less cheaters?  I ultimately have been choosing to take my chances with the regular lobbies, so I cannot recommend the DLC at this point in time.
+
+But, really, this game is just so much fun online when everything breaks right.  MW2 comes with 16 maps in the base game (almost double what CoD WW2 gave us at launch!), tons of guns to unlock, perks to improve, classes to experiment with, and so on.  Although it's a mystery that people don't play Ground War on PC (unlike on Xbox 360, where there's usually a full lobby up), as well as some other modes, there still are many games with TDM, some Domination, and even some S&D too.  There's three conditions to having a fantastic time in MW2 multiplayer, in my opinion: no cheaters, no tubers, and no bad hosts.  Should these conditions be met, I can absolutely still recommend this game.
+
+One disclaimer: I have not played the Spec Ops portion of this game, although I guess it's a good co-op diversion to sink some time into.  I guess.  I have no idea, so I would look elsewhere for opinions for this game mode.
+
+Although I really love this game, I realize that MW2 isn't for absolutely everyone.  The player may need to have the patience of a buddhist monk at times to await the right lobby to actually play the game on fair terms.  However, when that happens, MW2 is FPS nirvana online.  And if the player doesn't care about multiplayer, then their experience gets a whole lot more reliable with the over-the-top single-player story.  Either way, MW2 is a flawed classic, but it's still a classic.",0.7609544992446899,32,True
+10180,165561343,76561198081321047,"This game is very fun.
+
+I played this when I was a child on Playstation 3 and it still holds up well on PC. 
+My only complaints are on the price, lack of controller integration, the hacking, and the remakes. (and activision as a whole but thats for more of a blog post than a review) 
+
+Things this game can change:
+
+- The Price. This game should not be 49.99$. 
+
+- The Lack of Controller Integration. This game supports controllers on all other platforms. WHY NOT ON STEAM TOO? Some people prefer to play with controller rather than Mouse and Keyboard. 
+
+- The Hackers. I know this game is old but it still has a pretty dedicated fanbase on its servers and Hackers are very irritating to deal with when you are trying to make a fair multiplayer match. 
+
+- The Remake. This game holds up very well on its own as the original. Why not promote it or add new stuff to it instead of doing a shitty remake as a cash grab? the remake i hear is pretty bad too overall and has a lot of stupid microtransactions. Dedicated fans like it but OG's like the original just fine. 
+
+Activision, please do better.",0.7095860838890076,22,True
+10180,91794319,76561198107454358,"Good game, sadly i'm giving a thumbs down because all CODs are hugely overpriced in steam (the old ones).
+This nonsense led by activision is ruining the franchise life, i hope people don't buy older COD games at least until ACTIVISON changes the prices because this is an insult to intelligence.
+This was written by someone who played all the games of the franchise until black ops 3.",0.7075051665306091,27,False
+10180,85323162,76561198833880370,"An old typical meme: 30,000 years ago, i lost 5 men in the blink of an eye. And the world just fuckin' watched. -Sheperal Genherd",0.757192850112915,36,True
+10180,234572351,76561198137998403,activision released a patch within the last day of me writing this review but unfortunately it doesn't seem to have fixed anything; this game is NOT SAFE to play online. DO NOT PURCHASE this call of duty or any other released before infinite warfare until they've made them safe to play online.,0.705558717250824,32,False
+10180,44717499,76561198280074427,"[b]Be cautious when playing this game. Seriously.[/b]
+
+I loved Call of Duty: Modern Warfare 2 and still do, however this... this isn't the same. Oh how much fun I have had on this game from when it was first released up to now but this it's a complete different story. Multiplayer is full of hackers and cheaters and this saddens me because there are still decent people who play this game. People say ""MW2 is dead"" and things like that but rarely you will see the same people you were playing with the day before so that says something. :) 
+
+Anyway, on the day I am writing this review, it is the day where I completely had enough with it all as I got hacked. Cheaters... okay fine, I can leave the lobby and join a new one but being hacked is a whole other thing. Those damned modded lobbies... it's a plague. Getting put to 10th prestige lvl 1 instantly slightly annoyed me as I wanted to get there the proper way but alas, I kept playing. Although, only did I realsie a few matches later, that I was leveling up normally but not unlocking any new weapons and attachments. Now this really annoyed me. And no, this wasn't someone doing me and the other people in the lobby a favour that went wrong, it was a malicious act and to top it off... the person in question didn't even have a proper steam profile, it wasn't even level 0.
+
+ So, with my rant over, I am not saying ""do not buy this game"". What I am saying is, it is not how it used to be so do not expect that nostalgic feeling. True, you will find lobbies full with decent people who just want to play some CoD but you will also find modded lobbies full with hackers and cheaters and fake FaZe wannabes and all it takes is for you to randomly join one of those and your CoD profile is messed up forever. So just play cautiosly and if you select Team Deathmatch and get put into Ground War Domination... save yourself and leave.
+
+[b]Disclaimer:[/b] The time played shows how long I have played single player. I have played multiplayer for much longer.",0.75396728515625,50,False
+10180,217530173,76561198055029791,"I have never, in my entire life, fully completed any CoD single-player campaigns and after finishing MW 1 and MW 2 I can see now why these games are so loved.
+Peak missions, peak story, peak locations, everything in this game is peak. 
+Can't believe this game is 16 years old, because it's extremely enjoyable even today, at the time of writing this review in 2026.
+
+CoD MW 2 quickly became one of my favourite single-player FPS games, on a par with Titanfall 2, if you still haven't played the campaign, I highly recommend buying MW 2 on sales.",0.7031634449958801,18,True
+10180,119754898,76561199072065274,"i like the part where the guy says ""its time to call duty"" and duty came and dutyied all over those guys!",0.8012460470199585,82,True
+10180,110876296,76561197975982599,Stress relief shooting at a russian invasion force after what's happening today with Ukraine. Godspeed to all the Ukranians out there.,0.7510799169540405,206,True
+10180,25283332,76561197972843674,This is where the CoD franshise ends for me. I played the jesus out of this one. The ones that follow are garbage.,0.8009340167045593,132,True
+10180,42362660,76561198255340624,"Got called a fagoot while being shot in the head by a guy who was hacking his game. 
+
+10/10 - Great for making friends.",0.800764262676239,62,True
+10180,187127230,76561198140151364,"Campaign was goated, shepard was best villain, multiplayer lobbies were peak especially over the mic",0.6997576355934143,21,True
+10180,132299844,76561198092575441,"It is 10:09PM, Feb 5th 2023. The first time I played this game was when it released, which would be 14 years ago. The nostalgia of this game is unreal, I have been playing Modern Warfare 2 on PS5, the multiplayer is still Call of Duty (adding operators was a terrible idea), the campaign is garbage, it is nothing compared to this game. The airport mission, the invasion of America, this game had consequence in the story, it showed what could happen in war, what does happen. This new Modern Warfare in name only has no deep story, it's more of a joke, some ""elite"" A-Team action hero drama with the current trend of ""America bad!"". It is everything that is modern and wrong with our society, it's void of passion and story telling. MW2 2009 will never be forgotten, not because it is nostalgia for many of us, but because it had depth. MW2 2022 will not be remembered, it will fade away into irrelevance, being just another cash grab pump out that Activision and Infinity Ward used a once great title to make a quick buck.
+Gaming is no longer for the gamer, but for the corporate man, for the dull of thought, lacking in everything that once made gaming great.",0.6969142556190491,18,True
+10180,222606728,76561199230912981,"How does one start a review for a game like this? 
+
+One of, if not THE, best FPS campaign ever. So many people have said that to me that I started to think that it was overhyped and therefore not good. I was pleasantly wrong. The story is short, sweet, and so incredibly fun. Each mission feels like it has a purpose. There is little to no ""filler episode"" type missions. Every time you complete a mission, it feels like you have actually DONE something instead of just following some dude and killing random people for 20 minutes. It is up there with Titanfall 2 for me in terms of FPS story games. Highly recommend.",0.6961958408355713,17,True
+10180,78737414,76561198271791685,Some of the greatest insults on the planet were said here o7,0.7946162819862366,51,True
+10180,49206211,76561198066494885,"Everyone has that game that defined their childhood, and Modern Warfare 2 is that game for me. It released when I was only twelve years old in 2009.  I have played this game on PS3, Xbox 360 and now PC. I love the PC version of this game. The PC version was able to make this almost decade-old game feel brand new again and for that, I really appreciate it. The multiplayer is still thriving on PC compared to the console versions.",0.7436328530311584,28,True
+10180,219484367,76561197967435763,"100% COMPLETION REVIEW
+
+I'm glad I went back and 100%-ed COD MW2 (the original 2009 edition).  It is worth playing once if you've never played the game before just to experience the sheer impact the early COD games had on the industry and on a whole generation of youth.
+
+MW2 campaign is iconic and in particular how controversial the ""No Russian"" episode was back then (you can skip it if it's triggering) but the Spec Ops mode is where the game truly shines bright.  It was so much fun getting all 69 Spec Ops stars (highest difficulty level).  That's the ultimate achievement in the game.  This definitely gave me a sense of satisfaction once the last Spec Ops said ""Mission Successful.""
+
+Note that there are 2 Spec Ops missions that require Co-op play.  I solo-ed these two where I bought another COD MW2 license on a separate Steam account (yea I know... but I didn't want to have that risk of getting hacked as other reviewers pointed out).  I have to say, multi-tasking two mice and keyboards to get those last two was a thrill.  Brutal but achievable.
+
+Estimated time: about 22-30 hours for 100% depending on skill level and how efficiently you stack achievements.
+
+Campaign - 7 to 8/10 difficulty on Veteran.  Moderate most of the time, with some pockets of brutal combat but very achievable.
+
+Spec Ops - 8-9/10 difficulty on Veteran.  Spec Ops is broken into 5 tiers (Alpha, Bravo, Charlie, Delta, and Echo).  Delta and Echo are by far the most difficult.  The two required Co-op missions are in Bravo (Overwatch and Big Brother).  The 3 toughest Spec Ops for me were hands down 1) High Explosive (Echo) 2) Overwatch (Bravo) playing solo and 3) Estate Takedown (Delta).  High Explosive alone was 10+ difficulty for me.
+
+Collectibles (pieces called Intel) - 3/10 difficulty with guide.  I used THE intel guide on the community page to get them all to speed up the process.  There are a few that are really well placed and while it would be painful to find them all without assistance, the maps are linear and there is an intel tracker for each mission so you can use the mission select menu to go back and hunt.
+
+In summary, COD MW2 has always been a thrill to play but even more of a thrill going after 100%.  I guarantee you will feel the same sense of dread hearing the Juggernaut spawn sound effect come in and feel the impulse to alt-f4 seeing 3 Juggernauts barreling towards you.",0.6912536025047302,16,True
+10180,32708377,76561198190640137,"never forget playing this on my Modern Warfare 2 Edition Xbox 360
+
+oh how times have changed. yet the more things change, the more they stay the same.",0.7909560203552246,54,True
+10180,51174960,76561198115847063,"I wanted to give this a positive review because of what the game used to be but I can't recommend this game in its current state. The multiplayer is completely broken on steam to the point where any game I was able to connect to was just me being killed by hackers. Wait for the eventual remaster if you want to play this game again or for the first time. 
+
+It's a shame what happened to this game because in my opinion this was by far the best Call of Duty ever made",0.7391339540481567,160,False

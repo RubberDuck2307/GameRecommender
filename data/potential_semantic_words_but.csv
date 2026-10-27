@@ -1,0 +1,879 @@
+word,positive_count,negative_count,total_associations,review_count,positive_share,suggested_polarity,positive_seeds,negative_seeds
+there,85,24,109,109,0.7798165137614679,positive,"{""fun"": 29, ""great"": 18, ""beautiful"": 1, ""amazing"": 6, ""good"": 23, ""enjoyable"": 3, ""responsive"": 1, ""excellent"": 1, ""satisfying"": 1, ""engaging"": 1, ""love"": 1}","{""terrible"": 2, ""annoying"": 2, ""poor"": 1, ""repetitive"": 3, ""bad"": 10, ""boring"": 1, ""buggy"": 2, ""tedious"": 2, ""disappointing"": 1}"
+simple,97,3,100,95,0.97,positive,"{""fun"": 42, ""satisfying"": 23, ""excellent"": 3, ""beautiful"": 1, ""good"": 9, ""enjoyable"": 9, ""polished"": 2, ""great"": 2, ""engaging"": 4, ""brilliant"": 1, ""compelling"": 1}","{""annoying"": 1, ""boring"": 1, ""tedious"": 1}"
+if,62,20,82,82,0.7560975609756098,positive,"{""compelling"": 1, ""amazing"": 3, ""fun"": 24, ""good"": 19, ""brilliant"": 1, ""fantastic"": 2, ""excellent"": 3, ""great"": 7, ""enjoyable"": 1, ""love"": 1}","{""bad"": 7, ""ugly"": 2, ""frustrating"": 2, ""repetitive"": 3, ""tedious"": 1, ""disappointing"": 1, ""annoying"": 1, ""terrible"": 1, ""clunky"": 1, ""buggy"": 1}"
+also,64,17,81,81,0.7901234567901234,positive,"{""good"": 16, ""fun"": 20, ""love"": 1, ""satisfying"": 2, ""engaging"": 1, ""amazing"": 2, ""beautiful"": 7, ""smooth"": 1, ""great"": 7, ""enjoyable"": 4, ""immersive"": 1, ""loved"": 1, ""superb"": 1}","{""clunky"": 1, ""terrible"": 2, ""bad"": 3, ""repetitive"": 1, ""unfinished"": 1, ""unplayable"": 1, ""frustrating"": 3, ""hate"": 1, ""annoying"": 2, ""tedious"": 1, ""boring"": 1}"
+nothing,55,11,66,65,0.8333333333333334,positive,"{""amazing"": 4, ""fun"": 14, ""love"": 4, ""good"": 18, ""great"": 11, ""polished"": 1, ""enjoyable"": 2, ""fantastic"": 1}","{""buggy"": 1, ""awful"": 1, ""bad"": 5, ""broken"": 1, ""tedious"": 1, ""disappointing"": 1, ""annoying"": 1}"
+after,48,9,57,57,0.8421052631578947,positive,"{""fun"": 22, ""smooth"": 1, ""good"": 10, ""beautiful"": 2, ""enjoyable"": 2, ""excellent"": 1, ""great"": 5, ""amazing"": 1, ""fantastic"": 1, ""compelling"": 1, ""polished"": 1, ""wonderful"": 1}","{""clunky"": 2, ""frustrating"": 2, ""bad"": 4, ""boring"": 1}"
+short,56,1,57,56,0.9824561403508771,positive,"{""fun"": 21, ""enjoyable"": 5, ""satisfying"": 3, ""good"": 14, ""immersive"": 1, ""great"": 3, ""wonderful"": 1, ""engaging"": 3, ""amazing"": 2, ""beautiful"": 3}","{""boring"": 1}"
+still,24,28,52,52,0.46153846153846156,negative,"{""polished"": 4, ""amazing"": 1, ""great"": 3, ""good"": 6, ""fun"": 6, ""enjoyable"": 2, ""smooth"": 1, ""engaging"": 1}","{""repetitive"": 3, ""terrible"": 2, ""frustrating"": 2, ""tedious"": 2, ""clunky"": 2, ""buggy"": 4, ""boring"": 3, ""bad"": 8, ""unfinished"": 1, ""unplayable"": 1}"
+when,26,18,44,44,0.5909090909090909,positive,"{""fun"": 9, ""great"": 3, ""good"": 4, ""enjoyable"": 2, ""fantastic"": 3, ""amazing"": 4, ""compelling"": 1}","{""bad"": 11, ""clunky"": 1, ""frustrating"": 2, ""unfinished"": 1, ""boring"": 1, ""repetitive"": 1, ""terrible"": 1}"
+then,24,13,37,37,0.6486486486486487,positive,"{""great"": 3, ""fun"": 9, ""good"": 4, ""amazing"": 4, ""smooth"": 1, ""engaging"": 1, ""wonderful"": 1, ""fantastic"": 1}","{""boring"": 5, ""repetitive"": 3, ""clunky"": 2, ""annoying"": 1, ""bad"": 1, ""broken"": 1}"
+once,20,16,36,36,0.5555555555555556,positive,"{""great"": 5, ""amazing"": 1, ""fun"": 4, ""good"": 7, ""engaging"": 1, ""excellent"": 1, ""enjoyable"": 1}","{""unresponsive"": 1, ""frustrating"": 4, ""annoying"": 4, ""clunky"": 1, ""boring"": 2, ""bad"": 3, ""buggy"": 1}"
+some,25,11,36,36,0.6944444444444444,positive,"{""brilliant"": 1, ""good"": 7, ""smooth"": 1, ""great"": 7, ""engaging"": 1, ""amazing"": 1, ""enjoyable"": 1, ""fun"": 5, ""excellent"": 1}","{""clunky"": 1, ""bad"": 7, ""boring"": 1, ""terrible"": 1, ""frustrating"": 1}"
+because,12,22,34,34,0.35294117647058826,negative,"{""good"": 5, ""love"": 1, ""fun"": 3, ""great"": 1, ""fantastic"": 1, ""amazing"": 1}","{""bad"": 20, ""unplayable"": 1, ""boring"": 1}"
+game,20,13,33,33,0.6060606060606061,positive,"{""great"": 5, ""good"": 6, ""fun"": 6, ""amazing"": 1, ""love"": 2}","{""bad"": 3, ""poor"": 1, ""disappointing"": 2, ""unplayable"": 4, ""boring"": 1, ""hate"": 1, ""terrible"": 1}"
+now,27,5,32,32,0.84375,positive,"{""good"": 4, ""great"": 7, ""fantastic"": 1, ""fun"": 11, ""immersive"": 1, ""amazing"": 2, ""love"": 1}","{""annoying"": 1, ""poor"": 1, ""buggy"": 1, ""broken"": 1, ""boring"": 1}"
+what,26,4,30,30,0.8666666666666667,positive,"{""fun"": 8, ""good"": 9, ""great"": 5, ""fantastic"": 2, ""smooth"": 1, ""beautiful"": 1}","{""buggy"": 1, ""annoying"": 1, ""bad"": 2}"
+playable,0,26,26,26,0.0,negative,{},"{""bad"": 22, ""buggy"": 1, ""terrible"": 1, ""ugly"": 1, ""unfinished"": 1}"
+challenging,25,0,25,25,1.0,positive,"{""fun"": 20, ""satisfying"": 3, ""enjoyable"": 1, ""excellent"": 1}",{}
+most,18,6,24,24,0.75,positive,"{""good"": 5, ""great"": 4, ""fun"": 4, ""amazing"": 3, ""enjoyable"": 2}","{""frustrating"": 2, ""bad"": 1, ""boring"": 1, ""buggy"": 1, ""terrible"": 1}"
+only,17,7,24,24,0.7083333333333334,positive,"{""fun"": 6, ""good"": 6, ""enjoyable"": 2, ""satisfying"": 1, ""great"": 1, ""amazing"": 1}","{""awful"": 1, ""buggy"": 1, ""bad"": 2, ""repetitive"": 1, ""annoying"": 1, ""terrible"": 1}"
+just,17,6,23,23,0.7391304347826086,positive,"{""enjoyable"": 1, ""good"": 7, ""great"": 5, ""love"": 2, ""fun"": 2}","{""bad"": 3, ""annoying"": 2, ""terrible"": 1}"
+overall,8,15,23,23,0.34782608695652173,negative,"{""good"": 3, ""satisfying"": 1, ""fun"": 2, ""great"": 2}","{""frustrating"": 1, ""clunky"": 2, ""annoying"": 2, ""repetitive"": 4, ""buggy"": 5, ""disappointing"": 1}"
+sometimes,19,4,23,23,0.8260869565217391,positive,"{""good"": 5, ""fun"": 6, ""satisfying"": 1, ""enjoyable"": 1, ""great"": 2, ""love"": 2, ""fantastic"": 1, ""amazing"": 1}","{""bad"": 3, ""boring"": 1}"
+sadly,19,2,21,21,0.9047619047619048,positive,"{""fun"": 4, ""beautiful"": 1, ""satisfying"": 1, ""good"": 5, ""fantastic"": 1, ""great"": 5, ""enjoyable"": 1, ""amazing"": 1}","{""bad"": 2}"
+very,18,3,21,21,0.8571428571428571,positive,"{""good"": 4, ""beautiful"": 2, ""fun"": 9, ""fantastic"": 1, ""great"": 2}","{""annoying"": 1, ""frustrating"": 1, ""tedious"": 1}"
+unfortunately,20,0,20,20,1.0,positive,"{""good"": 5, ""great"": 5, ""enjoyable"": 1, ""fun"": 6, ""amazing"": 1, ""beautiful"": 1, ""smooth"": 1}",{}
+all,12,7,19,19,0.631578947368421,positive,"{""fun"": 7, ""great"": 3, ""good"": 2}","{""annoying"": 3, ""buggy"": 1, ""repetitive"": 1, ""frustrating"": 1, ""unplayable"": 1}"
+too,15,4,19,19,0.7894736842105263,positive,"{""good"": 7, ""amazing"": 1, ""fun"": 4, ""fantastic"": 1, ""great"": 2}","{""ugly"": 1, ""bad"": 1, ""unplayable"": 1, ""repetitive"": 1}"
+hard,15,3,18,18,0.8333333333333334,positive,"{""good"": 2, ""fun"": 9, ""enjoyable"": 1, ""great"": 1, ""wonderful"": 1, ""satisfying"": 1}","{""annoying"": 1, ""bad"": 2}"
+flawed,17,0,17,17,1.0,positive,"{""fun"": 6, ""great"": 3, ""brilliant"": 2, ""good"": 2, ""enjoyable"": 3, ""excellent"": 1}",{}
+even,10,6,16,16,0.625,positive,"{""good"": 4, ""fun"": 2, ""great"": 3, ""love"": 1}","{""bad"": 2, ""terrible"": 1, ""boring"": 1, ""buggy"": 1, ""frustrating"": 1}"
+honestly,7,7,14,14,0.5,mixed,"{""amazing"": 1, ""fun"": 2, ""good"": 2, ""fantastic"": 1, ""great"": 1}","{""bad"": 2, ""terrible"": 1, ""boring"": 1, ""repetitive"": 2, ""annoying"": 1}"
+so,9,4,13,13,0.6923076923076923,positive,"{""brilliant"": 1, ""love"": 1, ""good"": 3, ""great"": 4}","{""frustrating"": 3, ""bad"": 1}"
+everything,8,4,12,12,0.6666666666666666,positive,"{""great"": 4, ""amazing"": 2, ""polished"": 1, ""good"": 1}","{""repetitive"": 2, ""frustrating"": 1, ""awful"": 1}"
+help,9,3,12,12,0.75,positive,"{""love"": 8, ""good"": 1}","{""hate"": 3}"
+since,8,4,12,12,0.6666666666666666,positive,"{""fun"": 4, ""amazing"": 1, ""excellent"": 1, ""enjoyable"": 1, ""good"": 1}","{""bad"": 4}"
+again,8,3,11,11,0.7272727272727273,positive,"{""good"": 2, ""fun"": 3, ""great"": 2, ""beautiful"": 1}","{""bad"": 2, ""awful"": 1}"
+definitely,8,3,11,11,0.7272727272727273,positive,"{""great"": 2, ""fun"": 2, ""fantastic"": 1, ""love"": 1, ""responsive"": 1, ""good"": 1}","{""frustrating"": 2, ""terrible"": 1}"
+difficult,11,0,11,11,1.0,positive,"{""fun"": 6, ""good"": 2, ""enjoyable"": 1, ""engaging"": 1, ""satisfying"": 1}",{}
+dont,10,1,11,11,0.9090909090909091,positive,"{""fun"": 4, ""amazing"": 2, ""good"": 4}","{""bad"": 1}"
+more,8,3,11,11,0.7272727272727273,positive,"{""fun"": 2, ""good"": 1, ""great"": 2, ""engaging"": 1, ""polished"": 1, ""love"": 1}","{""bad"": 2, ""annoying"": 1}"
+other,2,9,11,11,0.18181818181818182,negative,"{""fun"": 2}","{""annoying"": 3, ""bad"": 4, ""repetitive"": 2}"
+why,10,1,11,11,0.9090909090909091,positive,"{""good"": 4, ""great"": 3, ""excellent"": 1, ""love"": 1, ""fun"": 1}","{""bad"": 1}"
+limited,10,0,10,10,1.0,positive,"{""fun"": 6, ""good"": 4}",{}
+mostly,7,3,10,10,0.7,positive,"{""fun"": 2, ""satisfying"": 1, ""good"": 3, ""compelling"": 1}","{""annoying"": 1, ""frustrating"": 1, ""repetitive"": 1}"
+rather,7,3,10,10,0.7,positive,"{""good"": 1, ""excellent"": 1, ""fun"": 4, ""great"": 1}","{""bad"": 3}"
+basic,9,0,9,9,1.0,positive,"{""good"": 4, ""enjoyable"": 2, ""great"": 1, ""fun"": 1, ""satisfying"": 1}",{}
+feels,8,1,9,9,0.8888888888888888,positive,"{""good"": 3, ""great"": 2, ""fun"": 1, ""beautiful"": 2}","{""awful"": 1}"
+gameplay,7,2,9,9,0.7777777777777778,positive,"{""satisfying"": 1, ""great"": 4, ""good"": 1, ""beautiful"": 1}","{""bad"": 1, ""boring"": 1}"
+gets,8,1,9,9,0.8888888888888888,positive,"{""fun"": 6, ""great"": 1, ""good"": 1}","{""boring"": 1}"
+lacks,8,1,9,8,0.8888888888888888,positive,"{""smooth"": 1, ""good"": 4, ""fun"": 2, ""great"": 1}","{""bad"": 1}"
+needs,9,0,9,8,1.0,positive,"{""good"": 4, ""great"": 2, ""fun"": 2, ""brilliant"": 1}",{}
+somehow,8,1,9,9,0.8888888888888888,positive,"{""amazing"": 2, ""fun"": 1, ""good"": 3, ""excellent"": 1, ""great"": 1}","{""bad"": 1}"
+every,6,2,8,8,0.75,positive,"{""fun"": 1, ""good"": 3, ""beautiful"": 1, ""great"": 1}","{""bad"": 1, ""annoying"": 1}"
+here,6,2,8,8,0.75,positive,"{""great"": 1, ""fun"": 3, ""good"": 2}","{""repetitive"": 1, ""frustrating"": 1}"
+instead,5,3,8,8,0.625,positive,"{""fun"": 1, ""great"": 2, ""good"": 1, ""amazing"": 1}","{""annoying"": 2, ""boring"": 1}"
+like,5,3,8,8,0.625,positive,"{""good"": 2, ""fun"": 3}","{""bad"": 2, ""hate"": 1}"
+old,8,0,8,8,1.0,positive,"{""great"": 2, ""good"": 2, ""beautiful"": 1, ""amazing"": 2, ""brilliant"": 1}",{}
+ubisoft,8,0,8,8,1.0,positive,"{""great"": 5, ""good"": 2, ""fantastic"": 1}",{}
+easy,4,3,7,7,0.5714285714285714,positive,"{""great"": 1, ""satisfying"": 1, ""fun"": 1, ""enjoyable"": 1}","{""boring"": 1, ""tedious"": 2}"
+eventually,6,1,7,7,0.8571428571428571,positive,"{""fun"": 3, ""amazing"": 1, ""great"": 1, ""love"": 1}","{""bad"": 1}"
+extremely,7,0,7,7,1.0,positive,"{""beautiful"": 1, ""fun"": 5, ""great"": 1}",{}
+man,5,2,7,7,0.7142857142857143,positive,"{""great"": 1, ""good"": 1, ""fun"": 2, ""amazing"": 1}","{""boring"": 1, ""terrible"": 1}"
+maybe,5,2,7,7,0.7142857142857143,positive,"{""good"": 5}","{""tedious"": 1, ""frustrating"": 1}"
+please,6,1,7,7,0.8571428571428571,positive,"{""great"": 2, ""fun"": 3, ""good"": 1}","{""bad"": 1}"
+without,7,0,7,7,1.0,positive,"{""excellent"": 1, ""fun"": 3, ""fantastic"": 1, ""good"": 2}",{}
+each,4,2,6,6,0.6666666666666666,positive,"{""good"": 3, ""fun"": 1}","{""repetitive"": 1, ""bad"": 1}"
+falls,5,1,6,6,0.8333333333333334,positive,"{""good"": 3, ""polished"": 1, ""fun"": 1}","{""bad"": 1}"
+far,5,1,6,6,0.8333333333333334,positive,"{""great"": 1, ""enjoyable"": 2, ""good"": 1, ""fun"": 1}","{""bad"": 1}"
+kinda,4,2,6,6,0.6666666666666666,positive,"{""good"": 2, ""fun"": 2}","{""bad"": 2}"
+need,5,1,6,6,0.8333333333333334,positive,"{""fun"": 3, ""great"": 1, ""good"": 1}","{""bad"": 1}"
+often,6,0,6,6,1.0,positive,"{""fun"": 2, ""great"": 2, ""good"": 1, ""satisfying"": 1}",{}
+one,5,1,6,6,0.8333333333333334,positive,"{""good"": 3, ""fun"": 2}","{""repetitive"": 1}"
+others,6,0,6,6,1.0,positive,"{""good"": 4, ""love"": 1, ""enjoyable"": 1}",{}
+otherwise,4,2,6,6,0.6666666666666666,positive,"{""great"": 1, ""polished"": 1, ""amazing"": 1, ""fun"": 1}","{""annoying"": 2}"
+over,6,0,6,6,1.0,positive,"{""fun"": 4, ""great"": 1, ""good"": 1}",{}
+people,6,0,6,6,1.0,positive,"{""good"": 1, ""great"": 1, ""fun"": 2, ""love"": 2}",{}
+perfect,6,0,6,6,1.0,positive,"{""great"": 1, ""amazing"": 1, ""good"": 2, ""fun"": 2}",{}
+playing,5,1,6,6,0.8333333333333334,positive,"{""fun"": 5}","{""hate"": 1}"
+really,5,1,6,6,0.8333333333333334,positive,"{""good"": 1, ""great"": 1, ""fun"": 2, ""fantastic"": 1}","{""bad"": 1}"
+right,6,0,6,6,1.0,positive,"{""great"": 3, ""fantastic"": 1, ""good"": 1, ""fun"": 1}",{}
+seeing,6,0,6,6,1.0,positive,"{""great"": 3, ""amazing"": 2, ""fun"": 1}",{}
+slow,4,2,6,6,0.6666666666666666,positive,"{""good"": 2, ""great"": 1, ""satisfying"": 1}","{""terrible"": 1, ""bad"": 1}"
+ultimately,4,2,6,6,0.6666666666666666,positive,"{""fun"": 2, ""amazing"": 1, ""good"": 1}","{""disappointing"": 1, ""annoying"": 1}"
+besides,3,2,5,5,0.6,positive,"{""good"": 3}","{""terrible"": 1, ""annoying"": 1}"
+complex,5,0,5,5,1.0,positive,"{""great"": 1, ""immersive"": 1, ""good"": 3}",{}
+dead,5,0,5,5,1.0,positive,"{""fun"": 5}",{}
+doesnt,5,0,5,5,1.0,positive,"{""fun"": 3, ""good"": 2}",{}
+enough,2,3,5,5,0.4,negative,"{""great"": 1, ""fun"": 1}","{""annoying"": 2, ""boring"": 1}"
+getting,3,2,5,5,0.6,positive,"{""good"": 1, ""amazing"": 1, ""great"": 1}","{""annoying"": 1, ""boring"": 1}"
+lacking,3,2,5,5,0.6,positive,"{""great"": 1, ""fun"": 2}","{""terrible"": 1, ""bad"": 1}"
+luckily,1,4,5,5,0.2,negative,"{""fun"": 1}","{""bad"": 1, ""frustrating"": 1, ""annoying"": 2}"
+many,4,1,5,5,0.8,positive,"{""good"": 3, ""great"": 1}","{""tedious"": 1}"
+okay,4,1,5,5,0.8,positive,"{""great"": 2, ""fun"": 1, ""enjoyable"": 1}","{""boring"": 1}"
+story,3,2,5,5,0.6,positive,"{""fun"": 1, ""good"": 1, ""great"": 1}","{""terrible"": 1, ""awful"": 1}"
+unnecessary,5,0,5,5,1.0,positive,"{""fun"": 5}",{}
+whatever,1,4,5,5,0.2,negative,"{""wonderful"": 1}","{""clunky"": 1, ""annoying"": 1, ""disappointing"": 1, ""frustrating"": 1}"
+anything,1,3,4,4,0.25,negative,"{""good"": 1}","{""boring"": 1, ""poor"": 1, ""repetitive"": 1}"
+back,3,1,4,4,0.75,positive,"{""good"": 1, ""amazing"": 1, ""engaging"": 1}","{""repetitive"": 1}"
+compared,4,0,4,4,1.0,positive,"{""amazing"": 2, ""good"": 2}",{}
+damn,4,0,4,4,1.0,positive,"{""good"": 2, ""fun"": 2}",{}
+ends,4,0,4,4,1.0,positive,"{""fun"": 2, ""good"": 1, ""enjoyable"": 1}",{}
+expect,4,0,4,4,1.0,positive,"{""great"": 1, ""beautiful"": 1, ""fun"": 2}",{}
+feel,4,0,4,4,1.0,positive,"{""good"": 2, ""great"": 1, ""excellent"": 1}",{}
+few,3,1,4,4,0.75,positive,"{""good"": 2, ""enjoyable"": 1}","{""annoying"": 1}"
+friends,3,1,4,4,0.75,positive,"{""good"": 2, ""fantastic"": 1}","{""broken"": 1}"
+fuck,4,0,4,4,1.0,positive,"{""fun"": 2, ""good"": 1, ""great"": 1}",{}
+im,2,2,4,4,0.5,mixed,"{""fun"": 1, ""good"": 1}","{""annoying"": 1, ""terrible"": 1}"
+interesting,1,3,4,4,0.25,negative,"{""fun"": 1}","{""frustrating"": 2, ""repetitive"": 1}"
+linear,4,0,4,4,1.0,positive,"{""fun"": 3, ""enjoyable"": 1}",{}
+long,4,0,4,4,1.0,positive,"{""enjoyable"": 1, ""good"": 1, ""satisfying"": 2}",{}
+manageable,0,4,4,4,0.0,negative,{},"{""tedious"": 1, ""clunky"": 2, ""frustrating"": 1}"
+minor,1,3,4,4,0.25,negative,"{""great"": 1}","{""annoying"": 3}"
+mods,1,3,4,4,0.25,negative,"{""fun"": 1}","{""clunky"": 1, ""buggy"": 1, ""terrible"": 1}"
+much,3,1,4,4,0.75,positive,"{""fun"": 2, ""satisfying"": 1}","{""clunky"": 1}"
+multiplayer,3,1,4,4,0.75,positive,"{""good"": 3}","{""bad"": 1}"
+oh,2,2,4,4,0.5,mixed,"{""amazing"": 1, ""fun"": 1}","{""annoying"": 1, ""frustrating"": 1}"
+probably,3,1,4,4,0.75,positive,"{""good"": 2, ""fun"": 1}","{""disappointing"": 1}"
+quickly,4,0,4,4,1.0,positive,"{""fun"": 3, ""great"": 1}",{}
+ruined,4,0,4,4,1.0,positive,"{""good"": 1, ""great"": 2, ""amazing"": 1}",{}
+serious,4,0,4,4,1.0,positive,"{""enjoyable"": 1, ""fun"": 2, ""good"": 1}",{}
+small,2,2,4,4,0.5,mixed,"{""good"": 1, ""beautiful"": 1}","{""annoying"": 2}"
+something,2,2,4,4,0.5,mixed,"{""fun"": 1, ""great"": 1}","{""terrible"": 1, ""disappointing"": 1}"
+somewhat,4,0,4,4,1.0,positive,"{""good"": 1, ""fun"": 2, ""beautiful"": 1}",{}
+super,2,2,4,4,0.5,mixed,"{""good"": 2}","{""annoying"": 1, ""clunky"": 1}"
+takes,3,1,4,4,0.75,positive,"{""good"": 2, ""enjoyable"": 1}","{""repetitive"": 1}"
+theres,4,0,4,4,1.0,positive,"{""fun"": 1, ""good"": 2, ""great"": 1}",{}
+times,4,0,4,4,1.0,positive,"{""compelling"": 1, ""good"": 1, ""great"": 2}",{}
+trust,0,4,4,4,0.0,negative,{},"{""annoying"": 2, ""boring"": 2}"
+unless,4,0,4,4,1.0,positive,"{""good"": 1, ""fun"": 1, ""great"": 2}",{}
+weird,4,0,4,4,1.0,positive,"{""fun"": 3, ""beautiful"": 1}",{}
+worth,0,4,4,4,0.0,negative,{},"{""frustrating"": 1, ""bad"": 1, ""tedious"": 1, ""annoying"": 1}"
+about,2,1,3,3,0.6666666666666666,positive,"{""enjoyable"": 1, ""good"": 1}","{""bad"": 1}"
+actually,2,1,3,3,0.6666666666666666,positive,"{""great"": 1, ""smooth"": 1}","{""terrible"": 1}"
+apart,1,2,3,3,0.3333333333333333,negative,"{""amazing"": 1}","{""boring"": 1, ""tedious"": 1}"
+bugs,3,0,3,3,1.0,positive,"{""amazing"": 1, ""good"": 1, ""fun"": 1}",{}
+ca,3,0,3,3,1.0,positive,"{""great"": 2, ""good"": 1}",{}
+certainly,1,2,3,3,0.3333333333333333,negative,"{""amazing"": 1}","{""frustrating"": 1, ""disappointing"": 1}"
+come,3,0,3,3,1.0,positive,"{""fun"": 2, ""amazing"": 1}",{}
+considering,2,1,3,3,0.6666666666666666,positive,"{""fun"": 1, ""great"": 1}","{""repetitive"": 1}"
+cool,1,2,3,3,0.3333333333333333,negative,"{""good"": 1}","{""buggy"": 1, ""bad"": 1}"
+dated,3,0,3,3,1.0,positive,"{""fun"": 2, ""excellent"": 1}",{}
+decent,1,2,3,3,0.3333333333333333,negative,"{""great"": 1}","{""repetitive"": 2}"
+devs,2,1,3,3,0.6666666666666666,positive,"{""good"": 1, ""fun"": 1}","{""bad"": 1}"
+felt,3,0,3,3,1.0,positive,"{""great"": 1, ""enjoyable"": 1, ""fun"": 1}",{}
+fine,0,3,3,3,0.0,negative,{},"{""disappointing"": 1, ""clunky"": 1, ""bad"": 1}"
+games,1,2,3,3,0.3333333333333333,negative,"{""fun"": 1}","{""poor"": 1, ""hate"": 1}"
+generic,3,0,3,3,1.0,positive,"{""enjoyable"": 2, ""fun"": 1}",{}
+go,2,1,3,3,0.6666666666666666,positive,"{""fun"": 2}","{""bad"": 1}"
+highly,3,0,3,3,1.0,positive,"{""good"": 1, ""great"": 1, ""fun"": 1}",{}
+how,3,0,3,3,1.0,positive,"{""good"": 3}",{}
+janky,3,0,3,3,1.0,positive,"{""fun"": 3}",{}
+keep,3,0,3,3,1.0,positive,"{""good"": 1, ""fun"": 1, ""amazing"": 1}",{}
+kind,1,2,3,3,0.3333333333333333,negative,"{""fun"": 1}","{""annoying"": 2}"
+know,3,0,3,3,1.0,positive,"{""fun"": 2, ""good"": 1}",{}
+later,2,1,3,3,0.6666666666666666,positive,"{""fun"": 2}","{""broken"": 1}"
+less,3,0,3,3,1.0,positive,"{""fun"": 1, ""enjoyable"": 1, ""satisfying"": 1}",{}
+make,2,1,3,3,0.6666666666666666,positive,"{""good"": 1, ""fun"": 1}","{""tedious"": 1}"
+makes,2,1,3,3,0.6666666666666666,positive,"{""good"": 1, ""great"": 1}","{""repetitive"": 1}"
+none,3,0,3,3,1.0,positive,"{""fun"": 1, ""good"": 1, ""fantastic"": 1}",{}
+overpriced,3,0,3,3,1.0,positive,"{""fun"": 2, ""good"": 1}",{}
+perhaps,2,1,3,3,0.6666666666666666,positive,"{""fun"": 2}","{""frustrating"": 1}"
+personally,1,2,3,3,0.3333333333333333,negative,"{""brilliant"": 1}","{""bad"": 1, ""hate"": 1}"
+quite,1,2,3,3,0.3333333333333333,negative,"{""fun"": 1}","{""awful"": 1, ""bad"": 1}"
+rare,0,3,3,3,0.0,negative,{},"{""annoying"": 3}"
+remember,1,2,3,3,0.3333333333333333,negative,"{""fun"": 1}","{""bad"": 1, ""repetitive"": 1}"
+requires,3,0,3,3,1.0,positive,"{""great"": 2, ""immersive"": 1}",{}
+rough,3,0,3,3,1.0,positive,"{""brilliant"": 1, ""good"": 1, ""fun"": 1}",{}
+scary,3,0,3,3,1.0,positive,"{""beautiful"": 2, ""fun"": 1}",{}
+shallow,3,0,3,3,1.0,positive,"{""polished"": 1, ""fun"": 1, ""beautiful"": 1}",{}
+silly,3,0,3,3,1.0,positive,"{""fun"": 3}",{}
+slightly,3,0,3,3,1.0,positive,"{""enjoyable"": 1, ""excellent"": 1, ""fun"": 1}",{}
+start,2,1,3,3,0.6666666666666666,positive,"{""fun"": 1, ""satisfying"": 1}","{""terrible"": 1}"
+straightforward,2,1,3,3,0.6666666666666666,positive,"{""enjoyable"": 1, ""engaging"": 1}","{""repetitive"": 1}"
+tbh,2,1,3,3,0.6666666666666666,positive,"{""responsive"": 1, ""fun"": 1}","{""bad"": 1}"
+thats,1,2,3,3,0.3333333333333333,negative,"{""enjoyable"": 1}","{""bad"": 1, ""boring"": 1}"
+things,1,2,3,3,0.3333333333333333,negative,"{""good"": 1}","{""hate"": 1, ""annoying"": 1}"
+time,2,1,3,3,0.6666666666666666,positive,"{""fun"": 2}","{""boring"": 1}"
+unlike,2,1,3,3,0.6666666666666666,positive,"{""good"": 1, ""fantastic"": 1}","{""tedious"": 1}"
+use,3,0,3,3,1.0,positive,"{""fun"": 2, ""good"": 1}",{}
+where,2,1,3,3,0.6666666666666666,positive,"{""fun"": 1, ""amazing"": 1}","{""awful"": 1}"
+who,1,2,3,3,0.3333333333333333,negative,"{""good"": 1}","{""repetitive"": 1, ""bad"": 1}"
+absolutely,2,0,2,2,1.0,positive,"{""fun"": 2}",{}
+acquire,2,0,2,2,1.0,positive,"{""excellent"": 2}",{}
+actively,1,1,2,2,0.5,mixed,"{""great"": 1}","{""unfinished"": 1}"
+activision,2,0,2,2,1.0,positive,"{""fun"": 1, ""great"": 1}",{}
+atmosphere,1,1,2,2,0.5,mixed,"{""great"": 1}","{""repetitive"": 1}"
+b,2,0,2,2,1.0,positive,"{""great"": 2}",{}
+barebones,2,0,2,2,1.0,positive,"{""fun"": 1, ""good"": 1}",{}
+battles,1,1,2,2,0.5,mixed,"{""immersive"": 1}","{""repetitive"": 1}"
+bearable,0,2,2,2,0.0,negative,{},"{""bad"": 1, ""annoying"": 1}"
+become,2,0,2,2,1.0,positive,"{""fun"": 1, ""good"": 1}",{}
+best,2,0,2,2,1.0,positive,"{""enjoyable"": 1, ""amazing"": 1}",{}
+better,2,0,2,2,1.0,positive,"{""amazing"": 1, ""good"": 1}",{}
+between,2,0,2,2,1.0,positive,"{""good"": 1, ""fun"": 1}",{}
+beware,2,0,2,2,1.0,positive,"{""fun"": 2}",{}
+boy,2,0,2,2,1.0,positive,"{""fun"": 1, ""enjoyable"": 1}",{}
+breaking,0,2,2,2,0.0,negative,{},"{""annoying"": 1, ""clunky"": 1}"
+buy,2,0,2,2,1.0,positive,"{""great"": 1, ""enjoyable"": 1}",{}
+casual,2,0,2,2,1.0,positive,"{""fun"": 1, ""engaging"": 1}",{}
+certain,1,1,2,2,0.5,mixed,"{""enjoyable"": 1}","{""bad"": 1}"
+chaotic,2,0,2,2,1.0,positive,"{""fun"": 1, ""beautiful"": 1}",{}
+character,2,0,2,2,1.0,positive,"{""good"": 1, ""love"": 1}",{}
+cheesy,2,0,2,2,1.0,positive,"{""fun"": 2}",{}
+clearly,2,0,2,2,1.0,positive,"{""fun"": 1, ""good"": 1}",{}
+combat,1,1,2,2,0.5,mixed,"{""love"": 1}","{""bad"": 1}"
+competent,1,1,2,2,0.5,mixed,"{""brilliant"": 1}","{""boring"": 1}"
+content,1,1,2,2,0.5,mixed,"{""good"": 1}","{""poor"": 1}"
+controls,2,0,2,2,1.0,positive,"{""good"": 1, ""great"": 1}",{}
+crashes,2,0,2,2,1.0,positive,"{""fun"": 2}",{}
+currently,2,0,2,2,1.0,positive,"{""fun"": 1, ""great"": 1}",{}
+dark,2,0,2,2,1.0,positive,"{""beautiful"": 2}",{}
+developers,2,0,2,2,1.0,positive,"{""fun"": 2}",{}
+different,2,0,2,2,1.0,positive,"{""fun"": 1, ""good"": 1}",{}
+doing,1,1,2,2,0.5,mixed,"{""good"": 1}","{""bad"": 1}"
+due,2,0,2,2,1.0,positive,"{""fun"": 1, ""great"": 1}",{}
+dumb,2,0,2,2,1.0,positive,"{""fun"": 2}",{}
+ea,2,0,2,2,1.0,positive,"{""amazing"": 1, ""good"": 1}",{}
+economy,1,1,2,2,0.5,mixed,"{""fun"": 1}","{""terrible"": 1}"
+enemy,2,0,2,2,1.0,positive,"{""good"": 2}",{}
+eos,2,0,2,2,1.0,positive,"{""great"": 2}",{}
+epic,0,2,2,2,0.0,negative,{},"{""buggy"": 2}"
+especially,1,1,2,2,0.5,mixed,"{""fun"": 1}","{""unplayable"": 1}"
+fails,2,0,2,2,1.0,positive,"{""great"": 1, ""fun"": 1}",{}
+fair,2,0,2,2,1.0,positive,"{""fun"": 1, ""great"": 1}",{}
+fell,2,0,2,2,1.0,positive,"{""fantastic"": 1, ""amazing"": 1}",{}
+fighting,2,0,2,2,1.0,positive,"{""great"": 1, ""fun"": 1}",{}
+fortunately,0,2,2,2,0.0,negative,{},"{""bad"": 1, ""annoying"": 1}"
+found,2,0,2,2,1.0,positive,"{""fun"": 2}",{}
+frantic,2,0,2,2,1.0,positive,"{""smooth"": 1, ""fun"": 1}",{}
+functional,0,2,2,2,0.0,negative,{},"{""bad"": 1, ""frustrating"": 1}"
+god,1,1,2,2,0.5,mixed,"{""great"": 1}","{""bad"": 1}"
+graphics,2,0,2,2,1.0,positive,"{""good"": 1, ""satisfying"": 1}",{}
+harsh,2,0,2,2,1.0,positive,"{""beautiful"": 1, ""fun"": 1}",{}
+holy,2,0,2,2,1.0,positive,"{""good"": 1, ""fun"": 1}",{}
+hopefully,2,0,2,2,1.0,positive,"{""fun"": 1, ""wonderful"": 1}",{}
+impossible,1,1,2,2,0.5,mixed,"{""fun"": 1}","{""frustrating"": 1}"
+improved,2,0,2,2,1.0,positive,"{""immersive"": 1, ""great"": 1}",{}
+incredibly,2,0,2,2,1.0,positive,"{""fun"": 1, ""good"": 1}",{}
+ive,2,0,2,2,1.0,positive,"{""good"": 1, ""great"": 1}",{}
+last,2,0,2,2,1.0,positive,"{""good"": 1, ""amazing"": 1}",{}
+lets,1,1,2,2,0.5,mixed,"{""fun"": 1}","{""awful"": 1}"
+looking,0,2,2,2,0.0,negative,{},"{""bad"": 1, ""annoying"": 1}"
+match,1,1,2,2,0.5,mixed,"{""fun"": 1}","{""bad"": 1}"
+matchmaking,2,0,2,2,1.0,positive,"{""fun"": 2}",{}
+memorable,2,0,2,2,1.0,positive,"{""fun"": 1, ""good"": 1}",{}
+missions,1,1,2,2,0.5,mixed,"{""good"": 1}","{""hated"": 1}"
+mod,1,1,2,2,0.5,mixed,"{""great"": 1}","{""awful"": 1}"
+movement,1,1,2,2,0.5,mixed,"{""great"": 1}","{""terrible"": 1}"
+music,1,1,2,2,0.5,mixed,"{""great"": 1}","{""repetitive"": 1}"
+nice,0,2,2,2,0.0,negative,{},"{""repetitive"": 1, ""frustrating"": 1}"
+nonetheless,1,1,2,2,0.5,mixed,"{""excellent"": 1}","{""buggy"": 1}"
+nowadays,2,0,2,2,1.0,positive,"{""fun"": 1, ""good"": 1}",{}
+occasionally,2,0,2,2,1.0,positive,"{""good"": 1, ""fun"": 1}",{}
+op,1,1,2,2,0.5,mixed,"{""fun"": 1}","{""hate"": 1}"
+painful,2,0,2,2,1.0,positive,"{""enjoyable"": 1, ""great"": 1}",{}
+pay,2,0,2,2,1.0,positive,"{""fun"": 2}",{}
+paying,2,0,2,2,1.0,positive,"{""fun"": 1, ""great"": 1}",{}
+planes,0,2,2,2,0.0,negative,{},"{""bad"": 2}"
+play,2,0,2,2,1.0,positive,"{""fun"": 1, ""satisfying"": 1}",{}
+poorly,2,0,2,2,1.0,positive,"{""great"": 1, ""good"": 1}",{}
+pretty,1,1,2,2,0.5,mixed,"{""good"": 1}","{""boring"": 1}"
+price,2,0,2,2,1.0,positive,"{""great"": 1, ""good"": 1}",{}
+reaching,2,0,2,2,1.0,positive,"{""fun"": 1, ""good"": 1}",{}
+relatively,1,1,2,2,0.5,mixed,"{""beautiful"": 1}","{""tedious"": 1}"
+rest,1,1,2,2,0.5,mixed,"{""good"": 1}","{""terrible"": 1}"
+rewarding,1,1,2,2,0.5,mixed,"{""fun"": 1}","{""annoying"": 1}"
+seems,2,0,2,2,1.0,positive,"{""good"": 1, ""fun"": 1}",{}
+serviceable,1,1,2,2,0.5,mixed,"{""amazing"": 1}","{""unfinished"": 1}"
+simplistic,2,0,2,2,1.0,positive,"{""beautiful"": 1, ""enjoyable"": 1}",{}
+simply,1,1,2,2,0.5,mixed,"{""fun"": 1}","{""bad"": 1}"
+smart,1,1,2,2,0.5,mixed,"{""good"": 1}","{""annoying"": 1}"
+soon,2,0,2,2,1.0,positive,"{""great"": 1, ""good"": 1}",{}
+steam,1,1,2,2,0.5,mixed,"{""great"": 1}","{""bad"": 1}"
+strange,2,0,2,2,1.0,positive,"{""wonderful"": 1, ""beautiful"": 1}",{}
+stupid,2,0,2,2,1.0,positive,"{""fun"": 2}",{}
+subtle,2,0,2,2,1.0,positive,"{""satisfying"": 2}",{}
+thankfully,1,1,2,2,0.5,mixed,"{""enjoyable"": 1}","{""tedious"": 1}"
+thing,0,2,2,2,0.0,negative,{},"{""poor"": 1, ""annoying"": 1}"
+tough,2,0,2,2,1.0,positive,"{""fun"": 2}",{}
+tries,2,0,2,2,1.0,positive,"{""excellent"": 1, ""fun"": 1}",{}
+unbalanced,2,0,2,2,1.0,positive,"{""fun"": 2}",{}
+unique,1,1,2,2,0.5,mixed,"{""good"": 1}","{""tedious"": 1}"
+unstable,2,0,2,2,1.0,positive,"{""brilliant"": 1, ""fun"": 1}",{}
+until,1,1,2,2,0.5,mixed,"{""fun"": 1}","{""broken"": 1}"
+up,2,0,2,2,1.0,positive,"{""amazing"": 1, ""excellent"": 1}",{}
+weak,2,0,2,2,1.0,positive,"{""good"": 1, ""fun"": 1}",{}
+within,2,0,2,2,1.0,positive,"{""good"": 1, ""great"": 1}",{}
+years,2,0,2,2,1.0,positive,"{""excellent"": 1, ""great"": 1}",{}
+yet,2,0,2,2,1.0,positive,"{""fun"": 1, ""immersive"": 1}",{}
+above,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+achievements,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+actors,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+add,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+addictive,0,1,1,1,0.0,negative,{},"{""repetitive"": 1}"
+adds,0,1,1,1,0.0,negative,{},"{""disappointing"": 1}"
+admittedly,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+adventure,0,1,1,1,0.0,negative,{},"{""poor"": 1}"
+af,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+affordable,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+ai,1,0,1,1,1.0,positive,"{""beautiful"": 1}",{}
+alas,1,0,1,1,1.0,positive,"{""engaging"": 1}",{}
+allot,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+almost,1,0,1,1,1.0,positive,"{""beautiful"": 1}",{}
+alot,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+alright,1,0,1,1,1.0,positive,"{""amazing"": 1}",{}
+always,0,1,1,1,0.0,negative,{},"{""frustrating"": 1}"
+ambitions,0,1,1,1,0.0,negative,{},"{""disappointing"": 1}"
+amusing,0,1,1,1,0.0,negative,{},"{""repetitive"": 1}"
+animations,1,0,1,1,1.0,positive,"{""beautiful"": 1}",{}
+another,0,1,1,1,0.0,negative,{},"{""annoying"": 1}"
+any,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+anyone,0,1,1,1,0.0,negative,{},"{""bad"": 1}"
+anyways,0,1,1,1,0.0,negative,{},"{""bad"": 1}"
+aoe,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+archaic,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+arenas,0,1,1,1,0.0,negative,{},"{""hated"": 1}"
+arma,0,1,1,1,0.0,negative,{},"{""bad"": 1}"
+art,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+artistic,1,0,1,1,1.0,positive,"{""love"": 1}",{}
+attacks,1,0,1,1,1.0,positive,"{""excellent"": 1}",{}
+audio,1,0,1,1,1.0,positive,"{""fantastic"": 1}",{}
+availability,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+available,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+average,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+avoid,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+awakens,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+awesome,0,1,1,1,0.0,negative,{},"{""terrible"": 1}"
+awhile,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+badasses,0,1,1,1,0.0,negative,{},"{""broken"": 1}"
+balancing,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+bam,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+barely,0,1,1,1,0.0,negative,{},"{""boring"": 1}"
+baron,1,0,1,1,1.0,positive,"{""beautiful"": 1}",{}
+base,1,0,1,1,1.0,positive,"{""enjoyable"": 1}",{}
+battlefield,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+beast,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+beat,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+beautifully,1,0,1,1,1.0,positive,"{""love"": 1}",{}
+becomes,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+beginners,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+beginning,0,1,1,1,0.0,negative,{},"{""terrible"": 1}"
+bemoan,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+beth,0,1,1,1,0.0,negative,{},"{""bad"": 1}"
+beyond,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+big,1,0,1,1,1.0,positive,"{""beautiful"": 1}",{}
+bigfoot,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+biggy,0,1,1,1,0.0,negative,{},"{""annoying"": 1}"
+bizzare,1,0,1,1,1.0,positive,"{""enjoyable"": 1}",{}
+blacklist,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+bleak,1,0,1,1,1.0,positive,"{""beautiful"": 1}",{}
+blends,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+blowing,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+boarding,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+bomb,1,0,1,1,1.0,positive,"{""love"": 1}",{}
+bonus,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+borderline,0,1,1,1,0.0,negative,{},"{""unplayable"": 1}"
+boss,0,1,1,1,0.0,negative,{},"{""terrible"": 1}"
+both,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+brace,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+breaks,0,1,1,1,0.0,negative,{},"{""frustrating"": 1}"
+breathtaking,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+brief,1,0,1,1,1.0,positive,"{""enjoyable"": 1}",{}
+bro,0,1,1,1,0.0,negative,{},"{""annoying"": 1}"
+brutal,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+bugged,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+burst,0,1,1,1,0.0,negative,{},"{""annoying"": 1}"
+but,0,1,1,1,0.0,negative,{},"{""hate"": 1}"
+buying,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+campaign,1,0,1,1,1.0,positive,"{""amazing"": 1}",{}
+cannot,1,0,1,1,1.0,positive,"{""enjoyable"": 1}",{}
+cant,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+capabilities,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+capturing,0,1,1,1,0.0,negative,{},"{""bad"": 1}"
+cards,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+cbt,1,0,1,1,1.0,positive,"{""satisfying"": 1}",{}
+challenges,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+change,0,1,1,1,0.0,negative,{},"{""repetitive"": 1}"
+chaos,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+characters,0,1,1,1,0.0,negative,{},"{""repetitive"": 1}"
+charm,0,1,1,1,0.0,negative,{},"{""repetitive"": 1}"
+cheap,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+cheezy,1,0,1,1,1.0,positive,"{""amazing"": 1}",{}
+claimed,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+classic,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+clean,1,0,1,1,1.0,positive,"{""smooth"": 1}",{}
+cliche,1,0,1,1,1.0,positive,"{""enjoyable"": 1}",{}
+clicks,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+cod,1,0,1,1,1.0,positive,"{""enjoyable"": 1}",{}
+combine,0,1,1,1,0.0,negative,{},"{""bad"": 1}"
+common,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+community,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+compares,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+comparing,0,1,1,1,0.0,negative,{},"{""terrible"": 1}"
+compensated,0,1,1,1,0.0,negative,{},"{""repetitive"": 1}"
+completely,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+complicated,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+connect,0,1,1,1,0.0,negative,{},"{""poor"": 1}"
+constant,0,1,1,1,0.0,negative,{},"{""annoying"": 1}"
+consuming,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+contrastingly,1,0,1,1,1.0,positive,"{""enjoyable"": 1}",{}
+controlling,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+cozy,0,1,1,1,0.0,negative,{},"{""repetitive"": 1}"
+crane,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+crazy,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+creater,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+creepy,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+critical,0,1,1,1,0.0,negative,{},"{""annoying"": 1}"
+cross,1,0,1,1,1.0,positive,"{""love"": 1}",{}
+crossover,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+cryptic,1,0,1,1,1.0,positive,"{""compelling"": 1}",{}
+cult,1,0,1,1,1.0,positive,"{""polished"": 1}",{}
+customization,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+cut,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+cutscene,1,0,1,1,1.0,positive,"{""amazing"": 1}",{}
+cutthroat,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+cutting,1,0,1,1,1.0,positive,"{""amazing"": 1}",{}
+damned,0,1,1,1,0.0,negative,{},"{""repetitive"": 1}"
+dang,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+dangerous,1,0,1,1,1.0,positive,"{""beautiful"": 1}",{}
+days,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+deadly,1,0,1,1,1.0,positive,"{""beautiful"": 1}",{}
+deal,0,1,1,1,0.0,negative,{},"{""annoying"": 1}"
+dear,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+decadent,1,0,1,1,1.0,positive,"{""beautiful"": 1}",{}
+decently,0,1,1,1,0.0,negative,{},"{""terrible"": 1}"
+deeply,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+defiantly,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+definatly,0,1,1,1,0.0,negative,{},"{""repetitive"": 1}"
+definite,0,1,1,1,0.0,negative,{},"{""bad"": 1}"
+delightfully,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+delivers,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+depending,0,1,1,1,0.0,negative,{},"{""repetitive"": 1}"
+depressing,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+depth,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+desecrating,0,1,1,1,0.0,negative,{},"{""frustrating"": 1}"
+design,1,0,1,1,1.0,positive,"{""amazing"": 1}",{}
+designing,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+despiet,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+despite,1,0,1,1,1.0,positive,"{""excellent"": 1}",{}
+destruction,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+details,0,1,1,1,0.0,negative,{},"{""poor"": 1}"
+dialogue,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+discord,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+dishonored,1,0,1,1,1.0,positive,"{""fantastic"": 1}",{}
+dlc,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+dlcs,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+doable,0,1,1,1,0.0,negative,{},"{""frustrating"": 1}"
+downloading,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+drags,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+dreary,1,0,1,1,1.0,positive,"{""beautiful"": 1}",{}
+drip,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+dungeons,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+during,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+earlier,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+early,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+economics,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+edges,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+ee,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+eeeeeeeeeeveryone,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+effective,0,1,1,1,0.0,negative,{},"{""boring"": 1}"
+efficient,0,1,1,1,0.0,negative,{},"{""poor"": 1}"
+eh,0,1,1,1,0.0,negative,{},"{""bad"": 1}"
+either,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+emotional,1,0,1,1,1.0,positive,"{""beautiful"": 1}",{}
+end,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+enemies,0,1,1,1,0.0,negative,{},"{""terrible"": 1}"
+essential,1,0,1,1,1.0,positive,"{""enjoyable"": 1}",{}
+ever,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+everybody,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+everyone,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+execute,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+execution,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+expands,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+expecting,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+expert,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+expext,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+exploring,0,1,1,1,0.0,negative,{},"{""boring"": 1}"
+faced,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+failed,1,0,1,1,1.0,positive,"{""compelling"": 1}",{}
+familiar,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+farming,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+favorite,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+features,0,1,1,1,0.0,negative,{},"{""repetitive"": 1}"
+fence,1,0,1,1,1.0,positive,"{""love"": 1}",{}
+ffs,1,0,1,1,1.0,positive,"{""amazing"": 1}",{}
+ffwd,0,1,1,1,0.0,negative,{},"{""annoying"": 1}"
+find,1,0,1,1,1.0,positive,"{""love"": 1}",{}
+finding,1,0,1,1,1.0,positive,"{""beautiful"": 1}",{}
+finishing,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+first,1,0,1,1,1.0,positive,"{""amazing"": 1}",{}
+fit,0,1,1,1,0.0,negative,{},"{""disappointing"": 1}"
+fixed,0,1,1,1,0.0,negative,{},"{""frustrating"": 1}"
+flashy,0,1,1,1,0.0,negative,{},"{""repetitive"": 1}"
+forces,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+forcing,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+forest,0,1,1,1,0.0,negative,{},"{""annoying"": 1}"
+forgettable,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+formulaic,1,0,1,1,1.0,positive,"{""polished"": 1}",{}
+frame,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+frankly,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+freejam,1,0,1,1,1.0,positive,"{""amazing"": 1}",{}
+frustratingly,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+function,1,0,1,1,1.0,positive,"{""amazing"": 1}",{}
+fundamentally,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+funny,0,1,1,1,0.0,negative,{},"{""awful"": 1}"
+gave,0,1,1,1,0.0,negative,{},"{""awful"": 1}"
+generally,0,1,1,1,0.0,negative,{},"{""annoying"": 1}"
+geralt,0,1,1,1,0.0,negative,{},"{""hate"": 1}"
+get,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+ggg,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+give,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+given,0,1,1,1,0.0,negative,{},"{""tedious"": 1}"
+gives,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+giving,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+glitches,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+goddamn,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+gorgeous,0,1,1,1,0.0,negative,{},"{""tedious"": 1}"
+got,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+graghics,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+grim,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+grind,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+grinding,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+grindy,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+gross,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+groundbreaking,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+grounded,1,0,1,1,1.0,positive,"{""satisfying"": 1}",{}
+guides,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+gun,0,1,1,1,0.0,negative,{},"{""terrible"": 1}"
+gunplay,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+guns,0,1,1,1,0.0,negative,{},"{""bad"": 1}"
+hades,1,0,1,1,1.0,positive,"{""excellent"": 1}",{}
+half,1,0,1,1,1.0,positive,"{""enjoyable"": 1}",{}
+handlling,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+hardly,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+hasty,1,0,1,1,1.0,positive,"{""satisfying"": 1}",{}
+heavily,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+hectic,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+hey,0,1,1,1,0.0,negative,{},"{""terrible"": 1}"
+hi,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+high,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+hilarious,0,1,1,1,0.0,negative,{},"{""annoying"": 1}"
+hitting,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+hoping,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+horrific,1,0,1,1,1.0,positive,"{""satisfying"": 1}",{}
+hours,1,0,1,1,1.0,positive,"{""loved"": 1}",{}
+hp,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+hugo,0,1,1,1,0.0,negative,{},"{""annoying"": 1}"
+humans,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+huuuuuge,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+iconic,0,1,1,1,0.0,negative,{},"{""bad"": 1}"
+id,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+idea,0,1,1,1,0.0,negative,{},"{""bad"": 1}"
+ideally,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+ideas,0,1,1,1,0.0,negative,{},"{""poor"": 1}"
+ii,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+imagine,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+imo,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+incomplete,1,0,1,1,1.0,positive,"{""compelling"": 1}",{}
+increasingly,1,0,1,1,1.0,positive,"{""amazing"": 1}",{}
+individual,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+informative,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+infrequent,0,1,1,1,0.0,negative,{},"{""frustrating"": 1}"
+infuriating,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+initially,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+insanely,0,1,1,1,0.0,negative,{},"{""repetitive"": 1}"
+insulting,0,1,1,1,0.0,negative,{},"{""disappointing"": 1}"
+intensive,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+intention,0,1,1,1,0.0,negative,{},"{""poor"": 1}"
+intentional,0,1,1,1,0.0,negative,{},"{""annoying"": 1}"
+investing,1,0,1,1,1.0,positive,"{""enjoyable"": 1}",{}
+irl,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+jack,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+jesus,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+jobs,1,0,1,1,1.0,positive,"{""excellent"": 1}",{}
+joyful,0,1,1,1,0.0,negative,{},"{""annoying"": 1}"
+kept,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+kill,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+knowing,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+l,1,0,1,1,1.0,positive,"{""love"": 1}",{}
+lack,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+late,0,1,1,1,0.0,negative,{},"{""repetitive"": 1}"
+launch,1,0,1,1,1.0,positive,"{""loved"": 1}",{}
+lazy,1,0,1,1,1.0,positive,"{""brilliant"": 1}",{}
+leaves,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+leaving,1,0,1,1,1.0,positive,"{""polished"": 1}",{}
+left,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+lengthy,1,0,1,1,1.0,positive,"{""enjoyable"": 1}",{}
+lesser,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+limiting,0,1,1,1,0.0,negative,{},"{""annoying"": 1}"
+literally,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+lmao,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+loading,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+loadouts,1,0,1,1,1.0,positive,"{""excellent"": 1}",{}
+locked,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+lol,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+longer,1,0,1,1,1.0,positive,"{""love"": 1}",{}
+lose,0,1,1,1,0.0,negative,{},"{""poor"": 1}"
+losing,1,0,1,1,1.0,positive,"{""beautiful"": 1}",{}
+lost,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+lots,0,1,1,1,0.0,negative,{},"{""terrible"": 1}"
+lovable,0,1,1,1,0.0,negative,{},"{""buggy"": 1}"
+low,1,0,1,1,1.0,positive,"{""enjoyable"": 1}",{}
+made,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+mainly,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+maintaining,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+making,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+managable,0,1,1,1,0.0,negative,{},"{""bad"": 1}"
+marvel,1,0,1,1,1.0,positive,"{""love"": 1}",{}
+mathematics,1,0,1,1,1.0,positive,"{""fantastic"": 1}",{}
+mean,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+mechanic,0,1,1,1,0.0,negative,{},"{""clunky"": 1}"
+mechanically,1,0,1,1,1.0,positive,"{""fantastic"": 1}",{}
+melee,0,1,1,1,0.0,negative,{},"{""bad"": 1}"
+members,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+menial,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+micropurchases,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+millions,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+mind,1,0,1,1,1.0,positive,"{""beautiful"": 1}",{}
+minimal,0,1,1,1,0.0,negative,{},"{""annoying"": 1}"
+minimalistic,0,1,1,1,0.0,negative,{},"{""clunky"": 1}"
+miserable,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+miss,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+missing,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+mission,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+mode,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+moments,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+motorcycles,0,1,1,1,0.0,negative,{},"{""bad"": 1}"
+moving,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+multiple,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+narrative,0,1,1,1,0.0,negative,{},"{""terrible"": 1}"
+natural,1,0,1,1,1.0,positive,"{""polished"": 1}",{}
+near,0,1,1,1,0.0,negative,{},"{""bad"": 1}"
+nearly,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+necessary,0,1,1,1,0.0,negative,{},"{""boring"": 1}"
+needless,0,1,1,1,0.0,negative,{},"{""annoying"": 1}"
+netflix,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+nevertheless,0,1,1,1,0.0,negative,{},"{""repetitive"": 1}"
+nexon,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+niche,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+nontheless,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+nostalgia,1,0,1,1,1.0,positive,"{""polished"": 1}",{}
+notable,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+nowhere,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+nsfw,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+objective,0,1,1,1,0.0,negative,{},"{""hate"": 1}"
+objectively,1,0,1,1,1.0,positive,"{""enjoyable"": 1}",{}
+oblivion,1,0,1,1,1.0,positive,"{""amazing"": 1}",{}
+odd,1,0,1,1,1.0,positive,"{""smooth"": 1}",{}
+offer,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+ohk,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+ok,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+older,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+ones,1,0,1,1,1.0,positive,"{""love"": 1}",{}
+online,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+open,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+operations,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+optional,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+original,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+orphaned,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+overkill,0,1,1,1,0.0,negative,{},"{""bad"": 1}"
+overused,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+paced,1,0,1,1,1.0,positive,"{""fantastic"": 1}",{}
+paradox,0,1,1,1,0.0,negative,{},"{""bad"": 1}"
+parts,0,1,1,1,0.0,negative,{},"{""disappointing"": 1}"
+past,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+pc,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+perfectly,1,0,1,1,1.0,positive,"{""amazing"": 1}",{}
+permanent,0,1,1,1,0.0,negative,{},"{""tedious"": 1}"
+pistols,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+placed,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+planetscape,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+players,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+plays,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+plenty,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+point,0,1,1,1,0.0,negative,{},"{""bad"": 1}"
+points,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+porn,0,1,1,1,0.0,negative,{},"{""annoying"": 1}"
+positive,0,1,1,1,0.0,negative,{},"{""poor"": 1}"
+possible,0,1,1,1,0.0,negative,{},"{""tedious"": 1}"
+potential,0,1,1,1,0.0,negative,{},"{""terrible"": 1}"
+potentially,1,0,1,1,1.0,positive,"{""compelling"": 1}",{}
+potentionally,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+powerful,0,1,1,1,0.0,negative,{},"{""repetitive"": 1}"
+predation,1,0,1,1,1.0,positive,"{""love"": 1}",{}
+premise,0,1,1,1,0.0,negative,{},"{""poor"": 1}"
+prepare,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+preserving,1,0,1,1,1.0,positive,"{""fantastic"": 1}",{}
+prioritizes,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+psyker,1,0,1,1,1.0,positive,"{""loved"": 1}",{}
+putting,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+quality,1,0,1,1,1.0,positive,"{""love"": 1}",{}
+quest,0,1,1,1,0.0,negative,{},"{""poor"": 1}"
+questionable,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+quiet,1,0,1,1,1.0,positive,"{""beautiful"": 1}",{}
+quirky,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+rain,1,0,1,1,1.0,positive,"{""satisfying"": 1}",{}
+rapidly,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+ready,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+real,1,0,1,1,1.0,positive,"{""amazing"": 1}",{}
+realistic,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+realkly,0,1,1,1,0.0,negative,{},"{""bad"": 1}"
+reasons,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+recently,0,1,1,1,0.0,negative,{},"{""boring"": 1}"
+regardless,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+regularly,1,0,1,1,1.0,positive,"{""fantastic"": 1}",{}
+reimagining,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+relays,0,1,1,1,0.0,negative,{},"{""frustrating"": 1}"
+released,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+reliable,0,1,1,1,0.0,negative,{},"{""repetitive"": 1}"
+repeating,0,1,1,1,0.0,negative,{},"{""bad"": 1}"
+repetetive,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+replaying,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+required,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+revolutionary,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+rewards,0,1,1,1,0.0,negative,{},"{""terrible"": 1}"
+riddled,1,0,1,1,1.0,positive,"{""excellent"": 1}",{}
+ridiculously,1,0,1,1,1.0,positive,"{""beautiful"": 1}",{}
+ringtone,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+ripping,1,0,1,1,1.0,positive,"{""amazing"": 1}",{}
+risky,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+rn,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+roc,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+rockstar,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+ruins,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+runic,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+running,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+rushed,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+sad,1,0,1,1,1.0,positive,"{""wonderful"": 1}",{}
+sadistic,1,0,1,1,1.0,positive,"{""brilliant"": 1}",{}
+safe,0,1,1,1,0.0,negative,{},"{""annoying"": 1}"
+same,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+scenes,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+schtick,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+screw,1,0,1,1,1.0,positive,"{""amazing"": 1}",{}
+scroll,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+seem,1,0,1,1,1.0,positive,"{""beautiful"": 1}",{}
+seemed,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+seemingly,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+sega,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+seller,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+seperating,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+seriously,0,1,1,1,0.0,negative,{},"{""unplayable"": 1}"
+server,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+service,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+severe,1,0,1,1,1.0,positive,"{""love"": 1}",{}
+shockingly,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+shooters,0,1,1,1,0.0,negative,{},"{""hate"": 1}"
+side,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+sieges,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+significant,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+silliness,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+sliding,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+smaller,0,1,1,1,0.0,negative,{},"{""annoying"": 1}"
+smite,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+solid,1,0,1,1,1.0,positive,"{""amazing"": 1}",{}
+soloing,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+somewhere,1,0,1,1,1.0,positive,"{""brilliant"": 1}",{}
+somthing,0,1,1,1,0.0,negative,{},"{""repetitive"": 1}"
+song,1,0,1,1,1.0,positive,"{""amazing"": 1}",{}
+soothing,0,1,1,1,0.0,negative,{},"{""repetitive"": 1}"
+sorry,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+sort,0,1,1,1,0.0,negative,{},"{""tedious"": 1}"
+special,0,1,1,1,0.0,negative,{},"{""boring"": 1}"
+spectacular,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+spiritually,1,0,1,1,1.0,positive,"{""polished"": 1}",{}
+split,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+spooky,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+stable,0,1,1,1,0.0,negative,{},"{""buggy"": 1}"
+stagnant,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+standards,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+starts,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+static,1,0,1,1,1.0,positive,"{""beautiful"": 1}",{}
+stay,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+stays,0,1,1,1,0.0,negative,{},"{""repetitive"": 1}"
+steep,1,0,1,1,1.0,positive,"{""enjoyable"": 1}",{}
+stelth,1,0,1,1,1.0,positive,"{""enjoyable"": 1}",{}
+stories,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+stressful,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+studios,0,1,1,1,0.0,negative,{},"{""terrible"": 1}"
+stuff,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+stylized,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+subsequent,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+sucks,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+support,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+surprisingly,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+survive,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+system,0,1,1,1,0.0,negative,{},"{""terrible"": 1}"
+tacticool,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+take,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+taken,0,1,1,1,0.0,negative,{},"{""bad"": 1}"
+taking,0,1,1,1,0.0,negative,{},"{""bad"": 1}"
+talent,0,1,1,1,0.0,negative,{},"{""bad"": 1}"
+talewords,1,0,1,1,1.0,positive,"{""amazing"": 1}",{}
+tea,1,0,1,1,1.0,positive,"{""enjoyable"": 1}",{}
+tense,1,0,1,1,1.0,positive,"{""enjoyable"": 1}",{}
+think,0,1,1,1,0.0,negative,{},"{""boring"": 1}"
+thought,1,0,1,1,1.0,positive,"{""brilliant"": 1}",{}
+three,0,1,1,1,0.0,negative,{},"{""terrible"": 1}"
+through,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+timers,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+titanfall,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+together,0,1,1,1,0.0,negative,{},"{""boring"": 1}"
+tolerable,0,1,1,1,0.0,negative,{},"{""annoying"": 1}"
+totally,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+towards,0,1,1,1,0.0,negative,{},"{""bad"": 1}"
+track,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+triangle,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+trio,0,1,1,1,0.0,negative,{},"{""poor"": 1}"
+tripods,1,0,1,1,1.0,positive,"{""satisfying"": 1}",{}
+true,0,1,1,1,0.0,negative,{},"{""clunky"": 1}"
+truth,0,1,1,1,0.0,negative,{},"{""frustrating"": 1}"
+trying,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+turns,0,1,1,1,0.0,negative,{},"{""clunky"": 1}"
+tutorial,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+two,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+tying,0,1,1,1,0.0,negative,{},"{""bad"": 1}"
+u,0,1,1,1,0.0,negative,{},"{""terrible"": 1}"
+undead,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+underdeveloped,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+undertale,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+uneven,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+unexciting,1,0,1,1,1.0,positive,"{""excellent"": 1}",{}
+unfamiliar,1,0,1,1,1.0,positive,"{""beautiful"": 1}",{}
+unfortunatly,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+unfortunitly,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+unoriginal,1,0,1,1,1.0,positive,"{""engaging"": 1}",{}
+unrealistic,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+unrelenting,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+unrewarding,1,0,1,1,1.0,positive,"{""engaging"": 1}",{}
+uplay,1,0,1,1,1.0,positive,"{""amazing"": 1}",{}
+upon,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+url,1,0,1,1,1.0,positive,"{""wonderful"": 1}",{}
+used,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+useless,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+users,0,1,1,1,0.0,negative,{},"{""frustrating"": 1}"
+usually,0,1,1,1,0.0,negative,{},"{""annoying"": 1}"
+valour,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+valve,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+variety,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+vehicles,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+versatile,0,1,1,1,0.0,negative,{},"{""boring"": 1}"
+veteran,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+viable,1,0,1,1,1.0,positive,"{""satisfying"": 1}",{}
+vision,0,1,1,1,0.0,negative,{},"{""poor"": 1}"
+visuals,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+vr,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+waiting,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+wall,1,0,1,1,1.0,positive,"{""smooth"": 1}",{}
+wanted,1,0,1,1,1.0,positive,"{""loved"": 1}",{}
+warlock,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+wasting,0,1,1,1,0.0,negative,{},"{""awful"": 1}"
+watch,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+watching,0,1,1,1,0.0,negative,{},"{""tedious"": 1}"
+water,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+way,1,0,1,1,1.0,positive,"{""satisfying"": 1}",{}
+weapons,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+welcome,0,1,1,1,0.0,negative,{},"{""frustrating"": 1}"
+well,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+whenever,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+which,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+while,1,0,1,1,1.0,positive,"{""beautiful"": 1}",{}
+whirl,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+whoever,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+widely,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+win,0,1,1,1,0.0,negative,{},"{""bad"": 1}"
+winds,0,1,1,1,0.0,negative,{},"{""boring"": 1}"
+winter,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+wise,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+wish,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+works,1,0,1,1,1.0,positive,"{""good"": 1}",{}
+wow,0,1,1,1,0.0,negative,{},"{""repetitive"": 1}"
+ya,0,1,1,1,0.0,negative,{},"{""bad"": 1}"
+yeah,1,0,1,1,1.0,positive,"{""amazing"": 1}",{}
+yikes,1,0,1,1,1.0,positive,"{""fun"": 1}",{}
+youtube,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+zero,1,0,1,1,1.0,positive,"{""great"": 1}",{}
+zippy,0,1,1,1,0.0,negative,{},"{""clunky"": 1}"

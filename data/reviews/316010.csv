@@ -1,0 +1,602 @@
+appid,recommendationid,author_id,review,weighted_vote_score,votes_up,voted_up
+316010,29804571,76561198042198885,"A little background, I am both a big fan of the 'free to play' model as well as the Magic The Gathering card game.
+I've been playing Magic for about four years now.
+I've owned a few of the other digital game versions as well as having a few competitive decks in real life as well.
+
+It's been no secret that many people have found the digital series to be pretty hit or miss. I don't know what Wizard's of The Coast does to miss the boat so hard. But I'll first put this review into a technical and then a business sense:
+
+What works about the game:
+-Bare bones, the game launches, plays, has a GUI and from what I've seen as of February, very little bugs. It's a smooth experience to start and once you get into the interface it's an enjoyable segue into the game.
+-The music as always is top notch. I have yet to see anyone lodge a complaint against the music
+-Fair art direction. The cards already have art that they have on file so it's hard to say that they really go out of their way with the art on the cards. However, the 3D cutscenes don't quite match the style of the cards and come off more as a Nickelodeon spinoff of Magic; which, depending on your preference, may be a good thing.
+-The deck builder that everyone's been asking for is here. People complain about it not featuring a 'search by name' function. But I truly don't care. If you can remember the picture it takes all of about two seconds. And even if you unlock all the cards, it doesn't hurt to give your other options a browse while you flip to the card you want.
+
+What doesn't work-
+Now, before I get into the blemishes, it should be said that I generally enjoy the game but a review in my book is to tell people whether or not the product is worth investing in.
+-The RNG. The point of the RNG being so poor is obviously an incentive to get you to buy more and more boosters. Hopefully with your own money. An easy way to observe this is to play the story mode decks. The 'challenge' often doesn't come from having a winnable deck and being forced to outthink your opponent's cards. It's redrawing, and restarting the duel over and over and over until you get a really good hand, (Hopefully with good draws afterward) and sometimes even then, some duels I found were almost impossible to win unless the opponent suffered from several bad draws.
+-The Free To Pay model. Now, as I said, I love Free to Play. That's an awesome step forward with games with a competitive environment. I'll talk more about that in a second. But the problem here is that in the competitive side of the game, there's a huge incentive put on buying better cards than everyone else. Keep buy buy buying and hope your RNG gets you better cards than the other guy. A little RNG isn't bad, it keeps things interesting. However, when the incentive is to force the player to spend money when they would rather play with skill, then it's a waste of development time as you'll be seeing diminishing returns on your usage of those features.
+
+What's just in the middle?
+Well, between good and bad there's a few things that just sort of fall by the wayside.
+-The free cards you earn are not very competitive.
+Grinding for better cards can be fun. However, it shouldn't be done in the multiplayer against people with better cards, or at the very least not left to RNG boosters. Not neccessarily saying that the cards offered from the story should be perfectly competitive, but at least enough (if you've completed the whole story) to be able to play against starting level duelists.
+-Lack of dynamic matchmaking
+As far as I can tell, there's not really any matchmaking algorithms in place to match you with people at your skill level. You seem to be matched with just whoever happens to be playing. This results often in playing against other players with much better or much worse cards than you rather than someone who offers a challenge and a fun game.
+-Lack of players
+I don't know how many people actually play this game. But I'm judging that not a lot do from how long it can take to matchmake. I guess many people would just rather play the hard-format card game.
+
+Ways to fix it really simply-
+1.) First fix and probably most important: specifically two modes that I think will make the game even worth installing-
+-Team battle: Basically, five players on each team (5v5) or (4v4) or (3v3) duel it out with premade competitive decks (similar to picking a hero in Dota, each deck has unique themes and abilities and once picked, can't be picked by the enemy team).
+This is going to be the main draw of the game. Teams can use game chat to speak to eachother, and make tactical decisions. Suddenly there's a team dynamic, and it's even better than just playing 1v1 with a friend.
+-Free battles: These are the current gametypes but reworked. #2 will talk about how to improve this mode. These are duels using decks that you've assembled yourself using the cards that are in the game. However, there can be certain rules applied:
+Legacy, Modern, etc.
+
+2.)Observe functioning Free to play systems: perhaps some of the best and most marketably viable free to play models are actually on Steam. Team Fortress and Dota 2 come with their own brand of users and you take them or leave them. Magic is much the same. However to make Magic work as an online game, all the content of the game needs to be free and readily available with balancing patches to control the meta game.
+The reason why this works: players can spend more time on the game getting better, and more competitive with the game. Switching the content you want to buy to cosmetic, makes the game more worth playing.
+
+3.) By switching the focus to cosmetic, people invest more time into the game. As they invest, they spend more. I hate to say it, but Dota found the magic formula. You spend X amount of hours and as X+fun=Financial investment.
+Now you may say, but that still applies to this game! However, consider that because it's also pay to win RNG, you've got to face facts and admit that you've also got, X+fun-(loss x loss conditions)=fincancial investment. The greater the amount of losses, the less likely that user is to spend money on anything in the game. Nobody except a very small handful of people with huge egos will buy boosters just to compete in a pay to win game. It's very niche. The rest of the people willing to buy are hardcore magic fans who are already likely to just buy hard copies of cards.
+
+Ultimately Wizards is in no financial trouble. However, they are walking away from a lot of money with this particular online game. By tweaking their approach by a bit, their financial rewards could be greater.
+
+Players however, if you are a huge Magic fan then you'll love that the game is free to play, but may grow tired of the monotonous grinding for boosters and long loss streaks in attempts to get better cards with less frustrating outcomes.
+If you're not a fan of Magic, but a fan of card games looking to install one on steam, then try it out.
+If you're not a fan of Magic and can take or leave a card game, then pass. There are plenty of other, (better) free to play games out there.
+
+If the game is updated to a state where it adresses some of its core issues, then I will happily update this review.",0.7453883290290833,35,False
+316010,30174329,76561198006839107,"I recently started getting back into magic after being inactive for around 15 years. However, other than standard tournaments, I don't have many opportunities to play against other players, so I figured I needed an online version of magic to practice. Magic duels is OK to get back into the mechanics and see what other people play, but other than that, it's a HUGE disappointment:
+
+- Insane grind. buying boosters as a poor kid in the 90ies (p2w in its pure form) was more fun.
+
+- Stupid deck restrictions: rares 2x, uncommons 3x (to keep serious players away or p2w low?)
+
+- Strange format: not pure standard, balance seems off ( banned smuggler's copter still being played, too many cheap removal spells...)
+
+- Terrible connectivity: Disconnects all the time, dropped players get replaced by AI and most of the time, you have to beat the AI in order to not receive a loss, alt+tab is all it takes to get disconnected, possibly lots of room for exploits. Lags are so extreme that often enough, you can't even hit the stop button to react to your opponent, which defeats the whole purpose of playing magic. 
+
+- No possibility to interact with other players. No chat, no trade, nothing. Which might be wise, because...
+
+- The duels community equals the bottom of the magic community. You won't find many good matches, real magic fans are probablly eslewhere to be found. Often enough, playing a removal spell is all that it takes for your opponent to pull the plug and let the AI take over.... which surprisingly often leads to the AI coming back hard and winning a lost match with perfect draws... and then there are these assholes stalling the match on purpose, just waiting everytime as long as the timer allows (playing a land after waiting for 1 minute) to make YOU unpatient and disconnect, giving them a default win.
+
+- Always playing against the same decks. Right now: red burn, topters, green ramp, sphinx tutelage. boring.
+
+- The campaigns are a joke. The way they try to tell stories is just unworthy of the magic universe. It's nothing but still images and written dialouge, combined with a muted 90ies-style render-cutscene at the end of each campaign. And the stories are just boring. It rather ruins the unvierse for me...
+
+- Presentation is rudimentary at best. The graphics include just the cards, a boring table, generic FX like fireballs and lightning bolts... even tablets could do better. There is only 1 music track playing throughout the whole game and it will drive you insane after the 2nd loop.
+
+I honestly can't find any reason to play this other than getting a very blurry first impression of what Magic is and that it's probably best to stay away from it lol. Do yourself a favor and play real magic or Xmage. I honestly can't understand the people giving this a thumps up. Probably the same kind of people going to McDonalds when they're hungry and liking every shit on facebook...",0.7109320163726807,38,False
+316010,29487800,76561198044135286,"[i]""Magic Duels is kinda like your hot crazy ex. She looks good and smells good, so you talk with her and start remembering why you loved her in the first place and want to try it again, and everything is great until she stabs you in the hand with a fork because you were chewing or breathing too loud. But sooner or later, you'll want to try it again.""[/i]
+
+[h1]ACTUAL REVIEW[/h1]
+
+I've invested a decent amount of time and more money than I care to admit in this game, so I feel its time to give it an honest review.
+
+[u]Pros[/u]
++ Teaches you how to play MTG, So it's a good game to pick up for new players along with returning players needing a refresher.
++ Atmospheric campaigns that introduce you to each new set while also earning you coins.
++ Game limits your collection and deck to only one mythic, 2 rares, 3 uncommon, and 4 common cards of any individual card. This creates an artificial buffer and prevents players with too much money/time from building crazy decks that will dominate the metagame. 
++ Finite amount of cards for each set, meaning eventually you will have every card in the set. With older sets going on sale every so often to help build your collection more quickly.
++ 150 coin price tag is very fair for a booster of 6 cards. Winning a multiplayer match earns you 30 coins plus any bonuses for completing weekly and daily quests means you can unlock at least one new booster every day with a decent deck.
++ Every set since Origins has been included, and they continue to add new blocks as they come out, with some card exceptions that would be too complicated to code in a vs format.
++ All the fun of FNM, minus the smell.
+
+[u]Cons[/u]
+- Mana tapping system needs work, though there is a mana tapping key, often times it either doesn't work correctly or is just too clucky to use in the limited time you have to play your turn. Nothing is more frustrating than a match going sideways because the game chose to tap the wrong mana for you.
+- Game is very buggy at times, I had to leave a match I was winning because the game refused to unzoom a card and blocked my view of the battlefield. Another time, the game froze on the ""opponent watching animations screen"" and it cost me the match. 
+- Game has been out long enough for there to be enough ""auto include"" mythics and rares between all the sets to make it frustrating to play vs battles at times. I've run out of fingers and toes for the amount of times I've seen ""Combustable Gearhulk"" in any deck that has red in it.
+- Game really favors the constructed format of the game, which can be jarring/frustrating for players that like to play limted formats like draft, sealed, and pauper. 
+- Plainswalkers dominate the game. Some are pretty benign, but you'll see the frustrating ones enough to make you walk away from the game at times. (I personally haven't liked plainswalkers when they were introduced years ago, At least back then they were reasonable being 6 drops with something along the lines of ""+1: Target creature gets +1/+1"" not 4 drops with ""+3: Make game unplayable."")
+- No In-game chat with other players. (I would probably get banned if we actually had this, I'm humble enough to know I can be a sore winner/loser.)
+-All the frustration of FNM, minus the smell.
+
+I really like Magic duels, but I also hate it just as much. I've lost count of how many times I've walked away from the game, never to play again, just to find myself back again in another duel 30 minutes later. I honestly think you need to be a little bit of a masochist to enjoy this game. 
+
+If you like MTG, you'll feed that itch with this game. If you want to learn MTG, this game is a good jumping off point. If you want to stare blankly at the screen in a silent burning rage that could fuel a thousand suns, this game is for you.",0.6730667948722839,24,True
+316010,29506924,76561198001146765,"I barely recommend this game but to be honest - it's really good for newbies like me. The Story Mode and Skil Quests are great to introduce MTG's mechanics. But some issues ruins all game:
+- Turn will complete automatically if I have nothing to play. Do you realize that it gives too much info to my opponent? Especially if I am playing control deck. 
+- UI is awful. Did you try to rename your deck? As a gamedeveloper myself I can't imagine how did you manage to hide this so good
+- UI is still awful. When a spell in a stack you can zoom it to read some information from the card. You have to right'click it and select ""Zoom in"". My God, it's the only item in this context menu! Why should I select it when I have no other options?
+
+Anyway, all this problems can be fixed and I hope you will do it, community will be thankful (just kidding, community is never thankful)",0.6002914905548096,6,True
+316010,29751995,76561198257137679,"Game constantly getting updates unlike the Duels series, tonnes of active players in PVP.
+
+My only complaint is that PVP is being really forced on people, even those who start out if you're trying to just complete dailies. Bulk of the daily quests are ""In Versus Battles"" which a newbie couldn't really stand a chance against.",0.6258218884468079,12,True
+316010,30234815,76561197965397688,"For a long time it was a fun game with a lot of little flaws; great for scratching that itch to play MtG when I hadn't for about 10 years. The one thing that finally made me quit was the introduction of daily quests with very specific requirements that only work in PvP.  Even with a daily quest refresh, this often ends up requiring you to use decks in PvP that are substandard either because they don't fit the meta or you don't have enough cards unlocked to build them.
+
+So, in short, the best way to unlock cards now often depends on already having cards unlocked. In PvP.
+
+I understand this was probably an effort to get people to buy boosters. The game does need to make money or it gets shut down, of course. And while there are things I would pay for, boosters are not one of them. I started playing Duels [i]specifically to get away from having to pay for boosters[/i]. If Stainless wanted to get money from me there are some things they could charge for:
+[list][*]Access to older blocks (i.e. ~$5-10 for a block that comes with a few boosters, then you have to unlock the rest with earned or purchased coins)
+[*]Access to alternate game modes like Sealed (where you don't keep the cards), Vanguard, Commander, etc. [/list]
+
+At any rate, it's still a better game than Hearthstone.",0.5724395513534546,4,False
+316010,30076064,76561198031957285,"Magic The Gathering is an easy game to learn and a very difficult game to master no matter what version you play (original physical collectable card game or any digital rendition that has been made over the years).
+
+MTG Duels is a free to play game, and even if you stick to playing just the story mode and completing the challenges that the current 7 stories which complement the 7 decks available in the game, it will offer you a good few hours of enjoyable gameplay.
+
+To be honest it offered just as much enjoyment and gameplay as some of the other MTG: Duels of the Planeswalkers games that you have to pay for on Steam.
+
+If you are new to MTG then this is a great way to learn the game and get to grips with the mechanics of the game, and if you are like me and have played MTG on and off for over 18 years, it was a great way to get back up to speed with some of the new abilities introduced in newer decks.  The game offers Skill Quests whenever you encounter a card with a new ability and guides you through a simple scenario where you get to see how that ability works.
+
+By playing through the story modes and completing the Skill Quests you will accumulate a reasonable number of in game coins that can be used to purchase booster packs of cards for you to build your own decks from.  You can then venture in to playing against friends or matched opponents online, solo battles against AI, and two headed giant duels.  This is where the game does encounter some issues.  Playing solo against the AI is fine and you can earn more coins depending on the difficulty level of the AI player.  The online matched duels unfortunately has issues.  The matching is very poor and novice/new players with only a few cards/boosters and relatively weak decks frequently get matched against players that have either played for a considerable time and earnt a significant amount of coins, or bought coins in game and then spent them on lots of boosters and built fast, powerful decks.
+
+Overall if you take the game at face value and view it as a free to play game that will offer several hours of enjoyable gameplay working through the story mode without having to spend a single penny then it’s well worth installing.  If you are looking for a challenging game that rewards you for spending a considerable amount of money to be able to purchase new booster packs and build powerful decks with a collection of virtual, digital cards then you may be better looking at playing MTG Online.  For me, if I am spending my money on collecting cards then I would much sooner buy the real things, sit around a table with my friends and play a real game of MTG.
+ 
+[b]Pros:[/b][list]
+[*]Free to play
+[*]Great tutorials/Skill Quests that help you learn the game and advanced abilities
+[*]Enjoyable story mode
+[/list]
+[b]Cons:[/b][list]
+[*]UI could be better
+[*]Online “matched” game very poor at finding a matched player
+[*]Some bugs still exist in the game (but sure they will gradually get ironed out with future updates)
+[/list]
+",0.5652173757553101,4,True
+316010,29908438,76561198050032952,"The game is great, the app is poor
+
+- The animation is pretty time consuming. Even if you turn off all possible animations, there are still some animations left which are really really slow. That is pretty exhausting if you play the whole evening.
+
+- It is still pay to win. The story mode gives you the illusion, that there is a possibility to earn enough good cards to create a good deck, but its still an illusion. Even if you spend some money, it will not be enough. You have to spend a lot or your money is wasted.
+
+- A booster has only 6 cards for a real price of 1.79€. Thats pretty expensive for a few virtual cards in comparison to a real card booster. The only advantage is, that you cant get cards double. Because of this, it is best to focus on one edition to get at least all good cards from one edition (if you spend tons of money).
+
+-The battle interface is poorly designed. If the developers would have spent half the time they took for animations to create a good battle interface, the gameplay experience would be much better
+
+-You even have to buy your Avatar from a limited selection. There is no possibility to personalize without paying (except you pay the little coins you get from story mode, but then it is guaranteed that you will loose fights without spending money for boosters)
+
++ It is still magic. The rules are implemented well and the cards look good",0.528118908405304,3,False
+316010,29576573,76561198078460177,"A few things I would Like to point out about this game:
+I absolutely enjoy playing magic, and getting to try out different decks is my thing. However, when I try to play with friends, it becomes extremely difficult to connect, especially in Two-Headed Giant. Until this gets fixed, I feel like the game isnt living up to expectations for such an esteemed gaming company",0.5263724327087402,4,False
+316010,29481292,76561198125363362,"Let's say until the recent update the game was ""good"", but now it's a crap.
+Let's analyse this. I'm going to win the duel. I'm cast an istant, the opponent cowardly quit, the game crashes, and I lost the duel. This happened today three time....
+What the f*ck???
+Until they don't solve this problem, the game is an unplayable sh*t.",0.5263724327087402,2,False
+316010,29630806,76561198020924055,"The game is great. I started playing magic long time ago and now I'm back enjoying it. The only problem is that for new players now you can't get enough coins for buying card boosters from old expansions and create nice decks is really hard.
+I payed like 100€ or so but still not close to get 50% of current cards. 
+Why old boosters don't get a discount? It's a pain",0.523809552192688,1,True
+316010,29472178,76561198041670863,"UPS
+
+1.- Magic Duels is an interesting Game of Magic The Gathering that also provides the excitement of opening new boosters.
+To get the boosters, you earn coins fulfilling part of the story of the Multiverse of Magic, from the Magic Origins expansion and so on.
+I really like how the game is presented, although there are several important differences between this game rules of deck building of the paper card game.
+
+2.- Except for the basic lands, you can only have 4 cards in the deck with the same name if they are Commons; 3 cards if they are Uncommons; 2 if they are Rares; and 1 if it is Mythic Rare. In the proper card game you may have 4 cards of the same name in the same deck.
+
+3.- The good thing about purchasing boosters is that you will get, at most, those many cards, so you can manage to get a collection complete if you purchase enough boosters. One booster is 150 coins. You will not get too many copies of a card and you will not get to use them. From Time to Time, there are boosters ""on sale"". So dsaving coins for those moments can be useful. They cost 1000 coins on sale.
+
+4.- The way to earn Coins is interesting: Complete the story mode.
+Then, you have several quests to do while playing games. you get a new quest each day if you have completed the ones you have, so you can play each day to get more coins.
+You can also play the computer to earn small amounts of coins.
+If you win online against another human opponent, you get more coins than against the AI; so that encourages facing people online.
+
+5.- You are usually paired with people with the same rank you have (Rank is obtained by the games you win minus the games you lose online), so you should face people with the same skill as you have. You can also play against your friends.
+
+6.- There are many cards and you can make interesting decks, although not that many. And Tribal decks are not that much supported.
+
+DOWNS
+
+1.- The bad thing about the game is the VERY HIGH requirements for a card game. It does not require that much 3D acceleration or anything, I can only play this game on my main computer, but not on my laptop. It crashes. It should require less power for this kind of game, from my point of view. Why does it need that much memory? For the AI?
+
+2.- This encourages new Deck Building skills, and that is interesting in some way.
+
+3.- It is quite slow to obtain the boosters. You have to win coins each day from the quests, you usually have too many quests if you do not play each day. The booster sale is not that often, and it does not promote getting coins more often, because you do not know when you are going to get boosters cheaper.
+
+4.- Most of the Times, quests require to play online. But you have to play in a non-optimal way to fulfill those quests.
+
+5.- The pair system only pairs you with people in the ""Win - Lose"" ratio, even if they have many cards and you are starting. So it is difficult to balance.
+You have to WIN to get coins. That does not encourage playing online. Sometimes, you get so many lost games you do not want to keep playing.
+I believe that, to encourage playing with anyone, you should get coins even when you lose. If you win, you get 30 coins. Then, if you lose, you should get at least 5 coins. That would encourage you to play with other people online, people you do not know.
+Also, playing with a friend of yours is not encouraged. You do not get any amount of coins for either wining or losing against your friend.
+I believe that you should get some coins from that, from playing with your friends. Get, at least 5 coins each. And, if you wih another 5, making a total of 10 coins. Then, you should play a game with your friends 30 Times to get a booster if you do not win any game. THIRTY TIMES. Ok, maybe that it seems that it is too much Time to get one booster... But you earn something from just playing your friends, and that encourages you to play the game, and get more friends into the game.
+
+6.- There are MANY interesting cards that have not been added to the game and that would make it more fun. Most are equipments. Some of those cards are:
+Alhammarret's Archive
+Archangel of Tithes
+Brawler's Plate
+Sword of the Animist
+Village Messenger
+Ulvenwald Captive
+Falkenrath Gorger
+Drana, Liberator of Malakir
+Clash of Wills
+Demonic Pact
+Goblin Piledriver
+Jace's Sanctum
+Managorger Hydra
+Captain's Claws
+Munda's Vanguard
+Eerie Interlude
+Markov Dreadknight
+Odric Lunarch Marshal
+Relentless Dead
+
+Maybe they are not the best, but were left out and are interesting to play with.
+They could replace other cards that are not even fun to play with. Like:
+Dauntless Cathar
+Emissary of the Sleepless
+Extricator of Sin
+Inquisitor's Ox
+Paranoid Parish-Blade
+Survive the Night
+Drownyard Explorers
+Stitched Mangler
+Crow of Dark Tidings
+Rancid Rats
+Devil's Playground
+Scourge Wolf
+Clan of the Waxing Moon
+Equestrial Skill
+Stoic Builder
+Invocation of Saint Traft
+
+Among others
+
+TO SUM UP
+
+If you want to keep in touch with Magic and have lots of Time to spare, you can use that Time opening boosters in this game
+But the pace of the game is quite slow and you cannot get your hands on the total combination of cards that you would like to (For instance, with those cards)
+The game only encourages winning, not enjoying playing the game; and enjoying any game is a must, even more than only winning.
+
+But this is only my point of view.
+
+Thank you for reading.",0.523809552192688,1,False
+316010,29664440,76561198031486819,"Could be a good game, but the bugs are fixed every 3 months...
+-IF- they are fixed, anyway :(
+
+Why don't just charge $$$ for the game and keep a dedicated team to attend 
+the bugs and servers???
+ ... I wonder...",0.523326575756073,1,False
+316010,29859426,76561198165724629,"The game as a whole is slow and frustrating. Animations take forever, card placements are glitchy (several equipment on top of each other) and the interface is confusing. There's also a pretty huge paywall as well. Diddn't enjoy at all.",0.5215311050415039,2,False
+316010,29476750,76561198059722696,"Good so far, great graphics and soundtrack.  Crappy learning a new game.
+
+What I hate is you constantly asking me to rate  your game....enough already!!
+
+I'm trying to learn the game...this phase sucks..stop diverting me to this stupid feedback page and let me play!
+
+I'm rating the 'No' recommending this game based on this.  I don't know the game yet.  Stop asking me to rate it as a new player.
+",0.5203452706336975,2,False
+316010,29412444,76561198125277887,"I WOULD recommend this game to others. I've been playing Magic The Gathering (with real world cards I mean) since 1995 or so. Going into Magic Duels I was worried that it would be too ""pay to win"". It's not. Yes you can pay real world money to get more coins to buy cards but you can also earn coins from just playing (only when you win a match of course) and the speed of coin gain isn't too slow. I'm a firm believer in not paying for microtransactions so I'm grinding away at the free path, and it's pleasently reasonable about the pace. You can play against other people or against an AI, 30 coins for beating a person or 15 for beating an AI, and 150 coins will buy you another booster pack (6 cards with 1 guarenteed rare). If your deck isn't good enough to play against real people at first you can just battle the AI until you have a good enough deck for fighting real players. It's got 7 different expansions to choose from, with each having it's specialities (I often pick the one that specializes in werewolf cards).
+   And the thing that really seperates it from earlier Magic video games is there's no end goal. In previous ones if you had unlocked every level and unlocked all 20 locked cards for each deck you were basically ""done"". No such thing here. There's no set decks (maybe there is for people who pay real world money), there's just ""build your own from the starter boxes and the cards you get from boosters"". Which is how Magic is supposed to be anyway, so it's a welcome change. But it means decks are completely open ended, you'll never feel like you're ""done"" making that deck. Or if you are there's always new decks to make (""hey I don't have an elf deck yet"").
+   One other thing: since it never feels like you're working towards completion you never feel pressed to have a marathon session of the game. This game works great as a breather between playing other games. ""Ok enough Minecraft for today, I think I'll play 2 hours of Magic, then switch to Borderlands 2"". Maybe at the start you're hard pressed to get your deck good enough to play real people but other than that you can just play for the fun of playing rather than to work towards a goal. Which, once again, is how Magic The Gathering should be.",0.5199999809265137,1,True
+316010,29454910,76561198271924896,"This is by far the most comprehensive and fun to play Magic game aside from the game in real life. Even for beginners, the guide can be accessed at any given point during a duel through the menu. Graphics are good and the story mode is fun; the online capabilities as well as the deck building will make this game last a very long time. This is the only game I will give 10/10 in its category and I highly recommend!",0.46979865431785583,0,True
+316010,29403232,76561198041918607,"I have enjoyed playing Magic The Gathering online.  I love the ease of play and everything is calculated for you.  I enjoy the updated online play which is now inline with the card play at the stores, so I can practice and play online for the in-person games. Thank you!  I will continue to play and enjoy the on-line play!",0.5192307829856873,1,True
+316010,29654721,76561198035606770,"I appreciate this game being free. I spend a LOT on physical cards and get the chance to play very little. This game helps keep me into Magic. Thanks a bunch! Would like a drop down menu to quit, nd manipulate the options without having to press escape.",0.513953447341919,1,True
+316010,29517888,76561198190921714,A great game for fans of Magic. Easy interface and great gameplay!,0.46011582016944885,0,True
+316010,29735032,76561197974438716,"The Grind.....
+
+The most you can win at a time after the campaign is a measly 30 coins per match, playing other players. Yes, you get quests to gain a bit more but these are daily and really make a small impact on coin gain. And each ""Booster pack"" costs 150 coins which only has 6 cards... yes 6.  In comparison, you get 15 when buying real packs.
+
+The main problem with this game is new players start with a very small card pool from finishing the campaign and the starter cards.This makes it VERY difficult to compete with other players who have either payed a ton of money to unlock cards or have grinded for months. The game has a ranking system on how many wins you have NOT the strength of your decks. I have been playing ranked matches against 1-7's and i'd say 90% of those ""LOW"" ranked players I'm matched against have unlocked most of the cards in sets. Because too many of them seem to have a lot Legendarys and Plainswalkers.
+
+
+So say you want to pay around how much the previous DOTP games cost including their expansions(around $40) you'll have enough to buy roughly 50 ""Booster packs"".  That's only HALF of one of the 7 sets.
+
+So final verdict:
+
+ I can't recommend this to anyone that wants to pay around the same as the last games in the series and get their moneys worth.
+
+And for those that don't want to pay: Hope you have a lot of time on your hands fiend.....
+
+Because  At the time of this review I had logged 57 hours and In that time I've only unlocked 27% of one of the 7 sets.  Good luck.",0.5078952312469482,3,False
+316010,29552387,76561198012997350,"So I beat the tutorial campaign which is supposed to reward me with 3 packs, and it just doesn't. I play the final enemy again to see if that procs it, but again it doesn't. Those packs are just gone. Then I start another campaign and it crashes just as I'm about to beat the first encounter. I saw a lot of complaints in the reviews talking about crashes, so clearly this is common. Wizards of the Coast makes plenty enough money to fix these problems, and especially for a game with a business model like this one it's way more important to fix these issues. However, a trip though Google search tells me that there were people with these same problems over a year ago. I wouldn't invest my time into this, since it doesn't look like they will invest into making it worth your time.",0.5068121552467346,2,False
+316010,29675125,76561198121773043,"Pretty decent for a free game.   Great way to learn for new players or refreshing if you have not play in a while.
+
+Only thing that is a bummer is everyone starts with the same starter deck and it's not many cards for lot's of varieties of decks.  You do unlock coins though to buy packs of cards for free.  So for a free game and a love for magic I don't mind grinding away to unlock more cards.",0.5024875402450562,1,True
+316010,29617003,76561198033281040,"This is definitely the best of the best of card games; it's a fantastic game. Well balanced compared to others (and I've played a lot) and extremely flexible with how you play. The wisdom that comes with age definitely shows in MGT.
+
+The only gripes I really have about this version of MGT is that not all card sets are complete... even if you get 100% of the cards from a set in this game, there are still many cards within sets in real life that don't appear here and I would very much like to see this to be able to make more creative decks, as well as producing improvements to current decks.
+As a direct result of this, competitive gameplay on this version of MGT is very restricted to play to a small ""meta "" and being forced to play with the recent sets, which I enjoy, but it would be nice to be able to have viable decks from previous card sets.
+Having to earn or buy the new additions the same way we buy boosters now would be absolutely fine.
+
+I would like to see the standard format introduced for ranked games, which would forbid players from entering  the ranked queue if they have any illegal card within the format, but still have a free versus mode where you can bring whichever cards you like. To allow new players to gain gold and be able to participate later in a standard ranked ladder, have the free Vs mode reward the current 30 gold upon winning, and maybe 40 gold for winning a standard ladder match.
+I mainly say this because in ranked matches, cards that have been deemed too strong for the standard format are still prevalent in the current ladder (Smuggler's Copter for example, for those familiar with the game and ban lists).
+
+Finally there are no social mechanisms in this game... the ability to speak to opponents and allies during a match (and an option to turn off this chat for those who do not wish to chat) would be great. Perhaps also introducing a friends option as well as I do not wish to flood my entire steam friends list solely with people who play Magic Duels.
+
+None of these things will stop me playing any time soon, but I feel they're essential for the longevity of this platform of MGT.",0.5024875402450562,1,True
+316010,29557229,76561197979633767,"If you love Magic, but find it too costly to keep up with their aggressive card release, then this is the option for you. Full control of deck building. You don't have access to all of the cards in any set. You can unlock all cards without spending any money, but it will take a LONG time.
+
+My biggest complaint right now is that my favorite part of the game, can only be played against real humans. 2 headed giant, or any multiplayer duels for that matter.
+
+Still a good way to get a Magic fix though.",0.5024875402450562,1,True
+316010,29536416,76561198064104967,Not as vercitile as the real card game but a close second none the less. Ive recomended friends to play this to learn the basics of the game. the skill challenges do a fantastic job teaching the mechanics of this broad game.,0.5024875402450562,1,True
+316010,29499891,76561198141331008,"I really enjoy this game. There's enough there (quests, deck building) to keep your interest day in, day out. With earlier versions, deck building was pretty basic, but that has been enhanced now to make it easier to search/filter on creature types, keywords, etc., just not a word search (like ""counter"").
+
+I have played over 1000 hours, and the only thing that bugs me is the timer in versus battles. If the other plauer is doing something, you can't do anything. Then when he's done, the game seems to jump to the next step in a matter of seconds, not giving you the chance (same length of time) that your opponent had. Lost many games due to inability to respond to opponent's action.
+
+This game keeps getting better and better (concerns keep getting addressed in new updates and I am sure these will too) and it's free!
+
+This game gas actually got me back to playing the card game again!",0.5024875402450562,1,True
+316010,29438630,76561198136835666,This game is great for those who are new and want to experience it before buying into it irl. It is also especially a good place to build and test your decks before you buy the materials for them.,0.5024875402450562,1,True
+316010,29414489,76561198032478618,"It's free. The decks in the story mode are mostly not fun and it feels a bit shattered, but there are moments that it is fun. Unless you are willing to pay, it takes a while to gather cards to make a fun deck. But again it is free. The usual iteration cost $10, so you could argue spending that on getting cards. I haven't spent any yet. The long haul method of gathering coins from wins to buy cards is more fulfilling though ultimately more boring perhaps. But it is free to try either way. Why not reccomend it on that?",0.5024875402450562,1,True
+316010,29508904,76561197975354571,"It was fun at first, when it was pretty easy to earn gold and buy boosters through the ""story"".
+
+But once you get to the online part, you'll realise the only people you can play against have been playing much longer or have spent significant real money on cards.
+
+The only way to win is to spend £50+, and frankly you'd be better off playing magic online or even IRL if you're happy to sink that.",0.501655638217926,1,False
+316010,29444546,76561198040390122,"It is really hard to rate this game; I wish there was an option to only partly recommend it but since there isn't (and the game is free after all!) I had to give it a thumbs up, eventhough I kind of feel bad doing so...
+
+Duels is a very nicely done digital version of Magic: The Gathering. The overall appearance and designs look terrific, there is a vast amount of cards to collect and the interactive tutorials provide a straightforward introduction to the sometimes very complex game mechanics. The AI seems impressive to me (eventhough I can't profoundly judge this, to be honest, since I'm no Magic veteran...) Collecting coins to buy new cards and improving your decks turns out to be extremely addictive.  
+
+I can HIGHLY recommend this game for people who:
+- Want to learn how Magic: The Gathering works
+- Enjoy single-player mode 
+- Don't mind playing dozens of hours only to get a slightly improved deck that will most of the time still not be able to keep up in multiplayer 
+- Don't want to play dozens of hours but are willing to spend quite some money to buy new cards...
+
+WARNING!!
+
+--> However I can NOT recommend it entirely because of two significant shortcomings:
+
+- It is not possible to sync different platforms! You might want to play, say, on your way to work on a mobile device, which is of course possible. However, running Duels on a platform other than your regular one, you will neither be able to use already collected cards nor to save your progress (e.g. earned coins) to your normal account which makes it rather pointless.  
+
+- Most decks you face in multiplayer are insanely overpowered. Just forget using a deck which to a large extent consists of cards from the intro pack you get for free. It is of course possible to boost your collection with new cards, but to do so you will either have play 100+ hours to get some decent decks or throw an awful lot of money at Wizards (which is of course what they intend).
+
+As my time and funds are limited, this is what kind of spoiled this game for me. However, you might still give it a try, since it's free!
+
+TL;DR: I gave a thumbs up - but on balance I still can't quite recommend Duels. As always with these kind of games you will have to spend quite some money / a lot of time to be able to really compete with other players. But if you only want to get to know Magic a little, then just go for it!",0.5010583400726318,2,True
+316010,29972815,76561198254601694,"The animation for this game looks cool, but just makes the game to finicky to play. When a creature has flying, it hovers up and down. I originally thought this was cool, but I realized that it made activated abilities on auras attached to this creature impossible to access. Matchmaking can take as long as 1 hour, and the game is filled with glitches and hackers. Half the time, it crashes. If you want to learn and play this game, I strongly recommend play the real, paper game. It is more rewarding, you make more friends, and heck, the booster packs even come with 15 cards (in Magic Duels they come with 6).",0.5010232329368591,1,False
+316010,29970187,76561198093954708,"Duels was once a very fun game for the average player. However, as more cards have been released pay to win has become the standard in the meta. Synergy used to mean something, but now people just ram the best rares into 2 or 3 colors and curb stomp anyone who hasn't unlocked/payed for the rare cards.",0.5010232329368591,1,False
+316010,30221919,76561198091125611,"Loved the game. It teaches Magic as you go, preparing you for more hardcore-ish paper Magic. Way better that Hearthstone. Occasional bug here and there, but didn't manage to spoil the game.
+
+Pretty small community, that's a shame. But i hope that problem will resolve.
+
+Resolve, he-he.",0.5,0,True
+316010,30211308,76561198132808615,"I'm an avid trading card and board game/tabletop game enthusiast. I've been playing competitive yugioh since gx era.
+I've always told myself I would start playing MTG. I never got the chance to go out and buy cards. (I'm lazy and don't often step out of my boundaries).
+Then I found this.
+I like MTG.
+I still like yugioh a bit better because it's a lot more complex and diverse. I can't compare them because they are played completely differently. Also. There are a lot of MTG clones on steam.",0.5,0,True
+316010,30208250,76561198218626735,"Definitely the best alternative if you want to play Magic online. 
+The only downside to it, is that due to the limited staff members the cards (and maybe features?) are limited to a certain extent (though quite a lot!).
+Nevertheless, great game.",0.5,0,True
+316010,30160803,76561198190471835,"I like this game alot it's really fun to play with friends, theres no real pay walls I have run into, and if you play casually then yoou can have alot of fun. I am fairly new to this game and I feel comfortable, but I can tell you can wreck other people if you know how to play this game really well. Easy to learn, fun with friends, very addictive, and it's free hard to ge much better than that.",0.5,0,True
+316010,30088386,76561198039044664,"It is too buggy to be played. You can't even use the cards' activated abilities. In any given match, for no reason they are not selectable. This makes winning the game almost impossible and you have to restart and hope bugs don't find you before you win. Horrible game.",0.5,0,False
+316010,30050532,76561197993621237,"This is a very good MTG training simulator if you are new to the game.  It does an excellent job introducing you to each new game mechanic as you first encounter them, by essentially pausing the game and launching a 'skill quest' that demonstrates the new mechanic to you in a quick puzzle before dropping you back into your match.  This game is also a great way to familiarize yourself with many of the cards as well as immerse yourself in the artwork and lore of the Magic universe (multiverse?).
+
+I cannot complain about this game feeling strongly ""pay to win"", as I feel this is very well in line with my opinion of this game as a MTG training simulator.  Let's be honest, the actual physical card game is ALSO very much pay to win so why should you expect anything different here?  The players willing to drop tons of real money for more and better cards will always have the upper hand, whether we are talking about physical cards or an online game.  My suggestion is if you DO get hooked and want to invest some money in this game, go buy some of the REAL cards instead.  If you get a Chandra, Torch of Defiance in a booster pack, that's worth $20 to you.  Try selling that Chandra, Torch of Defiance you unlocked on Magic Duels instead.  I do however very much appreciate that this game is free to play, and you can unlock more cards by just playing, albeit in an arduous and painstakingly slow manner.
+
+While a great tool to learn the game, Magic Duels definitely has some room for improvements in other areas.  For starters the deckbuilder interface is less than great.  The 'Deck Wizard' deck building assistant builds absolutely trash decks, maybe it works better when you have more cards in your library for it to choose from but this would seem counterintuitive because by the time you have that many cards you probably won't be using the Deck Wizard anyway and would be building your custom decks from scratch.  It would be nice to have the ability to trade cards with other players too, but seeing as there isn't even a basic chat function in this game at all right now, I don't really see that happening.  It would be nice if they fostered more of a player community around online play but it's clear their focus is still on the physical cards.
+
+There are a few really dumb programming or AI problems with this game that make it hard to play sometimes.  The most obvious problem I have encountered, frequently, is this game doesn't know how to shuffle a damn deck of cards.  SO many times I will go ten rounds and draw nothing BUT lands or NO lands whatsoever, with a deck that is 30% mana.  This has happened enough times in a row now to represent a serious statistical anomaly.  Something else frustrating is the timer between phases in a turn.  Sometimes you want to play an interrupt or use an ability on an opponent's turn before or during a particular phase, and this can be difficult to do because if your opponent does not have a valid card or move during a phase, it will skip the timer and move on to the opponent's next phase without giving you time to react.
+
+I can recommend this game as a good way to get into MTG, but would still suggest buying some actual cards and finding your local official Friday Night Magic venue over dropping any money to play Magic Duels online.",0.5,0,True
+316010,30021469,76561198045490521,"It is always so refreshing to play against a bot, not getting a single bloody land card for literally 10 rounds (my dead great grandmother can shuffle better than your idiotic system aparently). And of course always SUPER fun when you play against bots that have EXACTLY the cards they need to counter yours, just pure coincidence of course. Then of course if you want to play against other players you will lose instantly cos they got the super boost decks that blow your mind out. So when you are fairly new you either got the chance of playing against other players that have decks that wipe you out in the first round, or you got cheating bots, where you dont get a single land card ever. Oh no wait, of course you could always PAY to get more and better cards. So all in all just another money milking machine. Good Job.
+
+horsecrap/10 is my rating for this game.",0.5,1,False
+316010,29932374,76561198102879127,"I really really want to like this game and give it a solid review. sadly i can not. first off it is a grind like no other, you have to invest far too much time to get booster packs. this is a video game not a job. second there are no protections set up so that new players have a fighting chance at getting into the game. elite players set up stacked decks and keep their rank low just to sit and stomp out players that have not either spent tons of money or toooooons of hours grinding for the meager rewards for winning. this game is nothing more than a place for nerd bullies to finally sucker punch anyone and everyone they encounter. the basic format is grind grind grind (or break out the wallet) till you finally have the cards to build the same small handful of decks the elites use then keep your rank low so you dont play other elites getting inevitibaly frustrated by constantly seeing the same dull decks over and over. to this day i do not know why i play still other than my general love for mtg and the lack of real life people to play with. this is a very poor representation of the game in general and a terrible way to introduce new players. these are all things that harm the general enjoyment. on the technical side its so damn buggy that a nuclear can of raid would not even start to reduce the level of bugs. on a positive note there are very few cheaters and no chat so you dont have to hear the toxic chants of noob, fuk your mom or any other pubesent nonsense, so there is that going for it. if you are looking to kill a few min here and there this game is ok. if you wanna play magic and have fun....buy some cards and beg your friends to give playing in real life a chance.",0.5,0,False
+316010,29927343,76561198006608907,"You mother fuckers have got to be mother fucking joking me!!!!!!!!!! How many times have you updated this game now and you STILL HAVE NOT implimented a chat capability into the team game mode?!?!?!?!? Even in the rre occasion that I don't get a complete newb, or even better, in the event that I get a newb, I wouldn't have to pull my hair out because my teammate has no fucking clue what they are doing. Do you know how many wasted hours I have invested because I could not speak to my teammate in any way shape or form. For the love of mother fucking christ in heaven, MAKE A CHAT OPTION IN TEAM PLAY!!!! IT' FUCKING SIMPLE!!!! WHY CAN I NOT TALK TO MY TEAMMATE ON TEAM PLAY?!?!?! THE FUK?!?!?! Other than that, the game is fun. But you fuck it up by making it impossible to plan anything out at all.",0.5,1,False
+316010,29925756,76561198071546483,"I love magic but animations, attacks etc. just take FOREVER! (yes, I turned off animations in the option menu)
+
+I do recommend this game because it has lots of cards and expansion but for me the program is just too slow, which is sad because I love playing magic. 1 game of magic with this client takes ages compared to a single round of hearthstone, eternal, shadowverse etc. etc.",0.5,0,True
+316010,29769257,76561197999602800,"Great Single Player entry to mid level Magic the Gathering game. Not recommended to play if you want to collect all the cards, or play constructed with perfectly tuned decks online against other players. Can't get free single player M:tG content anywhere else, I guess the hand holded deck construction is great for beginners to the hobby.",0.5,0,True
+316010,29748053,76561198112592679,"The game does a good job introducing players to Magic the gathering. However, you will need to buy boosters if you want to play online. Of course you can have some ""starter"" cards if you finish the campaigns, but I found frustrating that you get a mediocre deck (that you can't change in campaign mode) to fight another deck that counters yours. Then it goes for luck, if you get the correct cards that fight to beat your opponent. And to get lucky, you need to play several times the same fight, and it gets annoying instead of enjoyable. That's why I don't recommend this one. If you are going to spend money, go for Magic Online or Magic 2013.",0.5,0,False
+316010,29731195,76561198104688110,"This is a fun, cheap alternative to cardboard magic, which I rarely have the time or money for nowadays. The interface is generally pretty solid, and certainly a better MTG game than MTGO (although that's quite a low bar). Now if we could just ban damage effects in VS matches...",0.5,0,True
+316010,29728383,76561198240217852,"Magic Duels is a fun and capivating game to anyone interested in playing Magic: The Gathering for free. The story, multiplayer and deck building all offer put to hundreds of hours of entertainment for anyone with the taste for strategy TCG, or just giving someone a taste of Magic: The Gathering. The primary issue with the game is that the starting card pool is too weak, and way of earning packs buy going through daily quest is too slow. For players to be given the cards they want in a satisfactory amount of time without spending money, the starting card pool must be strengthened, and players should be able to recieve boost packs more quickly. However, despite the game's primary flaw, if a player loves magic the gathering, and they have the patience to grind for packs, they will find a game they will love, and it also acts a decent entry way for someone looking to try out Magic: The Gathering. 8/10.",0.5,0,True
+316010,29706766,76561198036901919,"Good game but unfortunately ruined by unfair 1v1 where the player with the most planeswalkers wins the game.
+A planeswalkers is a special kind of card that are designed to be overpowered by wizards to increase sales.
+
+Still i recommend it since its free 2 play (pay 2 win) and once ur ranking drops low enough you might start 1v1 players without planeswalkers.",0.5,0,True
+316010,29702857,76561198043698665,"Not a bad game! User friendly but some features and rules have been simplified or are missing from ""real"" paper magic. If you want to learn magic or just have fun, this is as good as it gets with the ""real"" online magic version being very clunky (It's another game called ""Magic Online"", more similar to paper magic but not as user friendly as Magic Duels).
+
+Graphics here are better and it's much more user friendly and a good way to start learning magic and learning to build decks and more. Would recommend this to beginners or people who want to dip into magic again if they want to learn the new cards and interactions. This is not a very good game for people who know a lot of magic and wants to play certain formats, this game is battles / casual mostly. If you want to play a sealed deck or limited format or cube or some other more complex form of magic, go to Magic Online. If you are new or returning to magic after a break, this is perfect though.
+
+This being more suitable for beginners is absolutely not a bad thing, a beginner would be completely lost using Magic Online, they should absolutely play magic duels for many hours before trying magic online in my opinion.
+
+5/5 for new or returning players, 1/5 for people who has played some to a lot of magic recently and know all the rules and want to play different modes similar to paper magic (you should just go to Magic Online or to your local game store)",0.5,0,True
+316010,29700836,76561198011462454,"they need to implement codes when you buy paper to get packs in this game also, WOTC is currently trying to triple dip by making you collect 3 diff sets if you wish to play paper, duels AND MTGO. comon guys dont be greedy let your people play and have incentives for playing all your platforms",0.5,0,False
+316010,29697036,76561198063058616,"To be faire I m not sure I would recommend it if it was not free, because of a lack of ""support"".
+Still :
+- this is Magic The Gathering as you are playing it with real cards (except some bugs. Not big bugs but still it seems so easy to correct it that it's kinda weird that they don't).
+- the card sets are the same as current extensions of MTG, except some cards that were removed (for what reasons ? it is very very not clear because, hell, if last extension is playable and draftable in real life why would we have balance problems in that game ? nonsense. For example on Magic Duels you can't build an ""awaken"" deck because they removed the main reason for that deck, Halimar the tidecaller).
+- game mechanisms works pretty well (interrupt with space bar, etc) but you need to get used to it.
+- can't remap hotkeys -_-
+- playing with a tablet ? it works pretty well except two BIG things : menu (for conceding) is only available through Escape key and if you want to zoom on the card you need mouse -_-
+- nice campaigns, good for discovering the game.
+- you can play 2v2 !!! you can play with a friend !
+- free",0.5,0,True
+316010,29686685,76561197968857493,A-M-A-Z-I-N-G i was waiting for long time for a free Magic the gathering game.And this one is awsome!Amazing graphics nice effects  sounds etc :) Keep up the good work and i am expecting to see great things from a game like this!,0.5,0,True
+316010,29685382,76561198008296377,"So this game uses the magic the gathering cards and game. So its close to the card game and that's the big draw for this game. The down side is the game itself. This game has a lot of problems. The timer is very annoying. It runs through some parts too fast for you to act and so you miss chances to play. The it for some reason gives huge amounts of time to do things like look at a card, or choose what opponent you want to attack (hint the one your playing against). It can be hard to block when you hae a lot of attackers. The matching system is a joke, and you can get matched up in your first game against some guy who dumped $$$ down on the game. And that brings me to my last part the pay to win. Yes this game, like magic the gathering the card game, is pay to win, but unlike the card game you cant just get the cards you want, you have to open (buy) packs. And with about 2$ a pack 6 cards in a pack and 1000+ cards. This is the definition of a pay to win game. Now to be fair you can earn coins and each set does give you some descent starter cards, so you can get a few OK decks. Just expect to loose to most people unless you pay into the game. You can grind for it, but expect to play a very long time to be even a little competitive.
+
+I recommend the game at first. The missions are fun. It uses the magic the gathering cards and rules and even this game couldn't mess that up. I would not play after that much or put money into this, unless you want to put down a lot. The later vs games are not fun unless you put in the money. For a free game I would recommend, if you like MTG the card game.",0.5,0,True
+316010,29680120,76561198072909676,"Wizards THANK YOU SO MUCH. This is the best thing since sliced bread, but there is one thing i must pleed for with as much vigor as i can muster. Please launch this on android if possable I would love being able to play this with my friends any time anywhere and i am completely against Iphones. Other than that I LOVE IT thank you once again for making something so amazing for your player base!!!",0.5,0,True
+316010,29668874,76561198006048254,"This game is allot of fun but it has some serious flaws that make big part of the game unplayable, like little to no support or at least hard to get any support, cannot play certain card abilities due to a error in the gamaplay, otherwise, this game is fantastic if you can live with these flaws.",0.5,0,True
+316010,29663577,76561198123636859,"I enjoy this game. I'm a bit bummed that it doesn't include older sets of cards (my mill deck can't be built in here...), and it's annoying how buggy the blocking order mechanic is. Other than that, it's a great game and a great way to kill some time while familiarizing yourself with new MtG techniques and mechanics.",0.5,0,True
+316010,29639703,76561198044252427,"A very nice digital version of the MTG game. The Story mode is very well built, wiht interesting duels that change the original dynamic of the game in a fun way.       
+It adds a replay value by having daily quests as well as a ranking ladder to compete on, although they don't seem to go anywhere but up.
+One problem is that if you have too many cards, the visual clutter is unbearable and makes the game nearly unplayble, ebcause you'll be spending minutes each turn trying to snipe your cards in the table.
+Another issue are the constant crashes, which are always a nuissance.
+
+Nonetheless, it's a very fun game if you already liked the Magic The Gathering card game. You can buy boosters and cosmetics for money in the store, but it's in no way necessary to enjoy the game.
+As a casual MTG fan, I would recommend it to anyone that doesn't have too much time or money to spend on the real thing.",0.5,0,True
+316010,29638715,76561198122385012,"Definitely a good game to play if you like playing Magic, but dislike paying for digital copies of cards you already own. Since there is a way to earn decent amounts of coins in game you cn play completely free.",0.5,0,True
+316010,29637760,76561197971229876,"I really enjoy this, and play it every day, but really hate being pestered over and over to write and 'in depth' review rather than just a thumbs up, or a star rating.  It's MTG if you play the tabletop game you'll probably enjoy this, if you don't then you might find it 'weird' as a few of my friends who I've tried to get into it have.  There are a few bugs here and there, but for the most part they are kept to a minimum.  I dislike the fact that patches aren't patched out until the next content patch (4 months roughly).  However it's a Free-to-play game, and has given me hours upon hours of enjoyment so way to go.",0.5,0,True
+316010,29632093,76561198057006097,"Clunky, cheap and doesn't feel worked on at all. Full of pop ups during each step of menu / gameplay to coax you to buy coins. It's similar to that of a cheap / free low quality online TCG game. 
+
+Overall awful standards from Wizards
+
+3/10",0.5,0,False
+316010,29608223,76561198207514275,"I love playing the game but it isn't played %100 percent correctly. For example I'd like to cast spells during my opponents upkeep step and unless the player has something that triggers on upkeep I cannot cast anything at that time. Also I enjoy Magic Online over this game still because I am able to tap the lands of my choosing. In Magic Duels I cast a spell and the lands that I need become used up which I've lost games because of. I think that win/loss stats are appropiate as well. Quests don't always pop up the next day, sometimes it takes more than 2 days to get a quest. The last thing that drives my crazy is a glitch with the gold. Every now and then when I win I will be shown that I recieve gold but my amount of gold never changes. For example, I'll win my first match of the day and I will increase from 100 gold to 130 gold but the 20 that I'm supposed to get for the first match never gets added into it and then I have to play games to win more gold in which I should already have. I realy would love to see a return of Shandalar like game. To have an open world that you have to walk around and collect cards and battle different arch types would be much more appealing",0.5,0,True
+316010,29598047,76561198080280339,"Great game for free! You can AFK against AI and pick up whenever you need which is great if you have little kids. Good assortment of cards, wish they had all in each series but I understand their reasoning (they want you to play IRL). This is a great game if you don't have time to meet up and play or just want to play AI throughout the day. Not a huge fan of vehicles but that doesn't degrade the game. Smooth gameplay with few errors and glitches.",0.5,0,True
+316010,29597237,76561198012420940,"great introduction to magic the gathering for newer players. Good for experienced players as well, there are a lot of bugs in the game atm but that doesnt stop it being good fun. the iap is not massively expensive as iap goes, but thats like saying hilter killed less than stalin like it is a plus point.
+enjoying the game a lot and the inclusion of being able to get everything unlocked without paying a penny, if you have a few months to play the game 24/7 and can guarentee you will win every game, is a nice touch but the rewards could be 5-10  points higher and it would still take long enough, whilst feeling that our playing the game is actually something you want rather than a how else you gonna play? i mean are you expecting this to become the only thing i play to the point i spend all my money getting cards, IT WON'T, it is most likely i will stop playing very soon and just keep on with my paper version.
+it is a fun game, but seriously why the hell aren't you hotfixing the infinite mana game ruining glitch that means you cant play ranked for fear of your opponent having got the rares that make the glitch. doing research it seems you decided that would cost money and costs bad so yeahhhhhhh.
+would recommend to people whi dont magic, as most who do will have decided themselves by now.
+",0.5,0,True
+316010,29593394,76561197992835962,"My experience with Magic Duels:
+Online play, you see 1 of 2 people, someone new to the game who doesnt have any clue what he/she is doing, or someone using a blue white control deck that you cant beat. 
+Singleplayer(Story mode):
+Wizards of the coast really dont know how to make decks, they are all useless and you will spend many frustrating attempts trying to beat the same guy over and over again. The raven man fight for instance took me almost 4 hours... 
+The verdict: Would not recommend this game unless you have a high frustration tollerance, and a lot of time on your hands.",0.5,0,False
+316010,29592286,76561198076906470,"so wat do i think of Magic Duels.
+so far i realy like it.
+i play the game from the start of its releas and it was a broken game.
+it had a lot of bugs at the start of the game but now it got smoot out.
+so far i do not see a lot of bugs wat can loos you the game.
+if you got time you can play the game for free and get all the cards its wat i done.
+it got daly quest wat get you close to one free booster.
+and it got a ok story mode and you can do 2Vs2.
+for a free game its now not a bad game",0.5,0,True
+316010,29586903,76561198090146653,very enjoyable cant stop playing. I play magic the card game and to be able to play this is just as much fun for me. the only complaint I have is that occasionally the game will freeze in the middle of a match causing a loss.,0.5,0,True
+316010,29586520,76561198140941589,"What a disappointment.
+
+I honestly was excited for this game's release. I thought, ""Ooh, a free Magic: the Gathering game. I hope it's better than the crummy ""Duels of the Planeswalkers"" games."" I downloaded the game on launch day...and was completely let down.
+
+I was initially disappointed by the anemic tutorial which (barely) teaches you how to play...
+
+But then the AI got CHEAP.
+
+The opponent AI in the campaign mode is the single cruelest...thing ever devised. Your opponent will always manage to get their best cards before you can respond. The biggest example is the Jace vs. Alhammarret fight, where if your starting hand doesn't have the TWO Cancels that your deck runs at that point, you WILL lose to a brutal mill deck.
+
+This leads to problem number two, the premise decks SUCK. Seriously. Why did Chandra's deck have two Young Pyromancers in a deck with next to no instants or sorceries? Why does Liliana's deck have terrible creatures that can't do anything useful. No reanimator strategies?
+
+The only way you can get a decent deck is through custom building one, and the biggest problem shows here...the free-to-play business model. This game rewards players who pay lots of real-world money on packs, giving them large numbers of cards to choose from. By contrast, a completely free player has a strict collection to choose from, and a lot of these cards are unplayable. You can get lucky and pack something like a Liliana in a gift pack (Envy me, bitches.), but most people can't compete with paid players. Compare this to Hearth stone, where new players not only have a chance against more experienced ones, they actually have a shot at winning.
+
+So, no. I cannot allow this game a free pass because the concept is good. This is one game that I will never install again.",0.5,0,False
+316010,29582775,76561198027553069,"MTG:2015 + Free to Play fixed games. You get mana screwed or mana glut 9/10 games. They basiclly took the strategic gameplay of M:tG and dressed it up with a f2p algorithm so unless you pay to win by buying absurd amounts of cards, you have to play ten thousand f2p games to make the coins to buy those cards. And like I said you will be set up to lose 9 of those 10 games. Don't waste your time or money until they stop using this thing as a cheap cash grab. 
+
+TL;DR: f2p Magic with crappy forced losing.",0.5,0,False
+316010,29579242,76561198254317066,I like the collective aspect to the game and the easy to use deck building tools. There is not really a downside to this and helps you learn the rule to the new sets of games.,0.5,0,True
+316010,29577747,76561198052912443,3/5 stars. Is great for practicing mtg but the ladder system is pretty useless. There is no chat feature. And the random number generator(aka deck shuffler) is impossibly horrible. Losing match after match with two lands on the board after fifteen rounds is insane. I like that I can grind for boosters but out of ten packs I open sixty percent of the cards will be white or green.,0.5,0,True
+316010,29577196,76561197989755881,"could we have like a two headed giant cpu mode? i can do it if i play two decks one on a controller and one a mouse, but doesnt feel right! im not a fan of playing with randoms for two headed giant since i always get a partner who cant lay anythin down while the other team knows eachother and mowes us down:( i would not mind just playing against two cpus and another cpu as my partner",0.5,0,True
+316010,29575349,76561198042298539,"I was really looking forward to this, as it's been a long time since I played MtG. I remember those days fondly and hoped I would be able to enjoy that feeling again through Duels. Unfortunately, the protracted pacing and cumbersome controls hold it down too much. It's surely still the greatest TCG out there, but when time is of the essence, I just don't see the value in sitting there watching every card hop out onto the field...slowly...methodically. You can eliminate some animations and get more accustomed to the controls, but you still have to deal with the plodding, repetative and dull crawl that is
+
+every <timer>
+
+single <timer>
+
+play <timer>
+
+.
+
+No thanks, Wizards.",0.5,0,False
+316010,29574364,76561197972284935,Totally fun to build decks and play story. They seem to be getting much better at emulating what's actually going on in the physical plane with MTG. Good Job!,0.5,0,True
+316010,29573062,76561198252629112,"First the negatives -Pay to win. No reason to invest a dime since WOC has already said they are planning on a new version of online magic. Google it. Reviews you've read about farming to get all the cards were most likely early game players. AI will never have mana or creature problems and has full sets of cards (4 x each card in it's deck). Easy mode is hard at times because of this. They will play an attacking 9/13 artifact creature against you on turn 5. If you're trying to farm like me it's very frustrating because you have a patchwork deck and wins only get you 5 coins. With boosters costing 150 coins and you only get 6 cards to a booster... 
+Positives- Hey it's magic. You can learn a lot about the rules/ mechanics if your a newer player.",0.5,0,False
+316010,29570587,76561198153799957,This is terrible. It is noone near as enjoyable as the actual tabletop game. I played my first and only match against another player and they pulled out a fuck ton of legendary enchantments and plansewalkers and when i was on one health they refused to swing and to top it off they were my exact level. This game is pay to win. I have decks IRL that i have created spending no money and they can keep up with my friends red deck which he spent time and money developing into idiot proof.,0.5,0,False
+316010,29568860,76561198346637642,"Love it!! I can get great games at any hour of the day! With a busy schedule, it's almost impossible to meet up with people to play. It's also nice to get 5 or more games completed in an hour with a variety of deck styles. Testing out new cards in your decks by making duplicate decks and editing them is awesome too!",0.5,0,True
+316010,29568845,76561198026809786,"As a long time Magic the Gathering player, Magic Duels is 95% disappointment.
+
+The free to play model has broken the satisfying progression of the earlier games (Duels of the Planeswalkers).  Starting the game and playing through the various Planeswalker's stories isn't bad, and is the best part of the game.  But once you're through that you only have one-off battles against the AI or online.  The problem is these games do not net you enough coins, the currency that you use to buy booster packs to get new (and better) cards, and turn the game into nothing but a slog.  Earlier games introduced new cards through unlocks, and the balance was done well, rarely overwhelming you on the next step forward.  In Magic Duels your stuck playing inferior cards unless, here it comes, you spend real money to buy coins to buy booster packs.
+
+Of course, you can't fault them for wanting to make money.  But then then question becomes, ""If you spent as much money as the cost of one of the earlier Duels of the Planeswalkers games to get coins and then boosters, would that make Magic Duels comparable, or even enjoyable?""
+
+The answer is a pretty solid ""No.""  First of all, the card pool is not near as good, having unexciting rares and mythics.  Second of all, you'd have to spend a lot more money to obtain the entire card library where in earlier games it could be done through mostly enjoyable games.
+
+The online matching is poor, creating unbalanced games.  Perhaps that is because of a limited pool of players.
+
+And the games sports an annoying number of interruptions trying to get you to spend real money.
+
+Really, free to play might be the entire reason for this game being a bust.  And it's not free to play.  I had to spend 20 hours to find out that in the end it's a waste of time and not worth the effort.  I would have spent $50 for a good new Duels of the Planeswalkers game.  I won't spend a penny on Magic Duels.",0.5,0,False
+316010,29565351,76561198027017499,"It's a great introduction to Magic: the gathering. Especially since the game handles many of the complexities, that otherwise makes learning m:tg a harrowing task. As time, and m:tg expansions, have passed, it has also acquired a diversity, that Duels didn't have from the outset. 
+For the more experienced player, it is still magic, even if you do not get your favourite cards in your favourite amounts (commonly held to be 4). This makes deck-building a continous challenge, as it is impossible to merely copy decklists from standard.
+
+The only thing I'm missing for real, is chatting to online opponents. Not that everybody in the earlier iterations of the Duels were particularly chatty, but without it, sometimes it feels like a game with a very erratic AI.
+",0.5,0,True
+316010,29555573,76561198330632018,"Give this game a  7 out of 10 just because the play style it has set up, for example the auto timer in between spells is like 10 to 5 secs in respond time... second is booster packs only give u 8 cards if im correct dont queto me but its around that per pack... yeah i know its free and can always reup on coins but come on.. other then that i enjoy playing it its a good away to play quick and fast... i would recommed the game to a friend",0.5,0,True
+316010,29554064,76561198024090547,Love the game the only changes I would like to see added would be the ability to trade cards among other players and a tournament system that happend at least occasionaly based on current rules and formats as  experienced (as you would) in a game store.,0.5,0,True
+316010,29547536,76561198135781257,I would like to see the zoom feature back. It is kind of hard to see what is on the cards or know what the effect of a card a player plays is like an instant because you can't just scroll over the card as it is played not knowing what the card name is or the full effect till after it takes effect making it hard to counter cards.,0.5,0,True
+316010,29546188,76561198070720218,The recent update has improved the ability to build one's own deck with more complex card-filtering abilities. The game continues to improve. Definitely recommend.,0.5,0,True
+316010,29545811,76561198035391614,"As a long time MTG player, this is the best avenue of play between friends and I who live a distance away now. F2P is a great thing, though a bit slow to get started. I am a casual player anyway, win or lose it's fine. It's not perfect, but it is a good happy medium!",0.5,0,True
+316010,29521985,76561198044686347,"This is a great way to learn magic! As someone who enjoys the game but rarely gets to play in person, this is a fantastic way to introduce the basic concepts without spending hundreds on cards I'd rarely be able to use. 
+
+The deck building tool allows decks to be made from cards in your pool based around certain archetypes, which is very helpful for a beginner who would have difficulty prasing all of those cards.
+
+The implementation isn't perfect; sometimes casting instants at the proper time is cumbersome, but on the whole it's a solid recommend for anyone interested in supplementing magic experience.",0.5,0,True
+316010,29520093,76561198121383260,"This is a very good game. It is fun, the competitive mode (ranked 1 v 1) seems to work well and it is not terribly unfair.
+
+The only negative thing I found about this game is that the 2 v 2 games can be unreliable at best when trying to play with a friend. My friend told me about this game and wanted to play with me. When we started playing together we found that it would often get an error such as ""a player has quit the game"" or ""fatal error"" just before a game started.",0.5,0,True
+316010,29509723,76561198032443471,"The game is ok. (55%-60%) MTGO is 45% in my books for beginners and 65% for advanced users.
+
+This works alright. If you are new to MTG, this will not teach you the game overall. 
+In fact you will pick up really bad habits through this. 
+
++ This is a great intorduction to basic mechanics. (Some cards are stil bugged, but they are from the newer set)
++ Good battle UI
++ Good card visiblity and often refreshed
+
+- Again this is not for learning MTG, instant casting etc is realy not in line with the actual game
+- Speed is SLOW, every step has a timer, every cardplay has a flashy reveal, my AI oponnent was spawning and sacking 1 mana artifacts. (Alt+F4 I can feel my life ticking away). This is probably the worst aspect, it is tremendously boring. Probably to slow down credit grind so take that into account.
+- Buggy, new cards conflict (Pia's Revolution cancels itself if you play 2, if you zoom at an inopportune moment during muligan the UI becomes inaccessible)
+- The Deck builder is still kind of cumbersome (though much better now)
+",0.5,0,False
+316010,29509466,76561198047639060,"This game is fun if you ever played MTG, if not it might not be new player friendly because of all the new mechanics form every expansion but hey, it's a free MTG game, so totally worth it for the occasionnal urge to kill stuff with cards. A lot of room for deck building and many ways to boost your library cards with 6cards booster packs from all expansions available that you buy with gold you get from playing games vs others or vs AI or by doing the story mode. All in all its a good game, the fact that it's free makes it a great game.",0.5,0,True
+316010,29509079,76561198051081902,"The game has its ups and downs. Story mode is much too short. Matchmaking is a bit of an annoyance especially when one is placed against higher ranking players. Quests are easily completed daily.
+
+What should be considered is being able to get more Myhtic cards. I can understand limiting them to one card, but there are lots of decks that usually have two or more mythic cards.
+A Chat system for Two headed giant. When you have another player with you, it's hard to communicate to them which spell you want them to use. You have to rely on them if you want to get a good combo going. In addition, the AI that gets replaced. I've had my own AI partner counter my spell, this is a problem especially if you're going against humans.
+The card collection should be increased; primarily for the dual lands. If one wanted to create a multi-color deck, the lands given are vastly limited to allow for a less synchronization.",0.5,0,True
+316010,29508719,76561198040799961,"A more and more stable experience for the experienced player as well as beginners.
+Great for learning the basics and great for building decks. Matchmaking is fast and the rewards system is satisfiying.
+It's not gonna be your FNM deck like Magic Online but a more restrictive standard experience (more fun imo).
+Might not be possible to enjoy online matches as much without buying some cards off the bat but you can go far without spending a dollar.
+The devs very much redeemed themselves since the game's aweful launch, absolutely recommended for magic players.",0.5,0,True
+316010,29508391,76561198052849894,"I wish they would fix problems connecting, especailly with friends in 2 headed giant and bring back in game chat but the game is very fun and more balanced than paper magic because you can only use 2 of each rare, also it is a lot cheaper or even free if you play for the cards.",0.5,0,True
+316010,29505014,76561198146190017,"If you're a beginner just getting into MTG, it's awesome.
+
+If you're a seasoned veteran, maybe stay away.
+
+PROS
++ EXCELLENT for new players to learn MTG
++ Free, fast MTG fix for your daily needs
++ Free virtual cards
++ Looks nice and smooth
++ Lots of cards to get you started
++ Preview of all new editions
++ Playtest for Standard
+
+CONS
+- Gamebreaking bugs (more on this later)
+- Only Standard
+- Only latest editions
+- Kinda pay to win
+- Gold farming is a toiling task for new players
+- Ranking up is hard since there are no tiers (you can get crushed by veterans 10 games in a row and drop back to 1)
+- To enter a match you need to go through the game's ""ads"" which usually lead you back out of the menu - really frustrating
+
+There's more than one gamebreaking bug (e.g. card activated or triggered abilities bug out sometimes and are unusable)
+- Googling about this leads us to discover you CAN actually use the ability if you zoom the card and press the ability hotkey (ENTER)... usually
+Game crashes with unexplained ""Fatal Error"" occasionally.",0.5,0,True
+316010,29498008,76561198059167090,"Pros: 
+
+1. Free to play, and you can earn additional cards without paying. 
+
+Cons: 
+
+1. By far, the worst problem is the interrupt timer. Rather than letting you agree to move to the next stage or let something resolve, there's a timer that you have to interrupt if you wish to play something, and unfortunately, the timer doesn't work very well. It doesn't last very long in the first place, so looking away for a second could lose you the game, and even if you try to stop it with time left, it doesn't always stop. There also seems to be a limit to the number of times you can stop it in a row, so if you need to do multiple moves at once, you may just be out of luck.
+2. This isn't as huge a problem, but it's easy to play the wrong card from your hand. You can try to click the card that's on top, and even though you're clicking where the card is, going too far to the right or left can suddenly switch another card to being on top right as you're clicking.
+3. There are frequent connectivity issues, and long loading screens. It's like all the time you wish you had on the interrupt timer gets spent waiting for the game to work.
+4. There are so many no-brainer features and options that aren't available. Seriously, we can't name our decks? We're suck with ""Deck"", ""Deck[1]"", ""Deck[2]"", etc. if we use the editor? The filters require pulling up an entirely different screen with multiple tabs to set up. The interface feels like it's from the 90s.
+
+If you want free Magic play where you can actually build your own deck, this is it, but the gameplay issues are incredibly frustrating.",0.5,0,False
+316010,29495756,76561198060006194,"I'm not a regular player of magic, but i have found magic duels on steam or previously on PS3 quite enjoyable. This is a great intoduction to the game. I live in a remote area so playing actulal cards is difficult. The online option however is a great option in my case.",0.5,0,True
+316010,29494122,76561197996595222,"Pay to win versus mode and they force you into it because when you do the small campaign they give you heavily underpowered decks so you have to play about 40 campaign games to get one booster. Much like MTGO if you pay a lot of money you'll have fun. If you don't spend a lot of money you will enjoy countless humiliating losses to people with far less skill but bigger investments than you. 
+
+Additionally the timer system is really annoying.",0.5,0,False
+316010,29492724,76561198049992975,"With as easy as it is to get boosters, and all the cards from a set, I wish the 2 card rare, 3 card uncommon limits did not exist. It seems silly to restrict everybody like that.
+
+When zoomed into a card, it's annoying to have it automatically zoom out (a creature card comes into play, or a sorcery/instant resolves.",0.5,0,True
+316010,29492579,76561198199214551,i really like magic the only thing yall can do to make it better is toput the old sets like born of the gods. making a modern mode would really bring back good memories.,0.5,0,True
+316010,29492292,76561198336506336,I really like the new interface with filters very smooth easy to use with all the new cards coming out. This game is very fun to play again thank you for the time you have invested into making this game viable. The thing I want to know is if there is going to be a standard format to this now or not?,0.5,0,True
+316010,29492253,76561197988811584,"Better than the paid Magic 2015, 2013 etc , and its free. Has all the latest cards and plently of players any time time of the day including 1vs1 and 2 vs 2 online and offline play. Great!",0.5,0,True
+316010,29491665,76561198032650805,"Pros: 
+Free
+Consistent updates 
+Lots of freedom to create decks
+
+Cons:
+Painfully slow card unlock.
+Way to expensive to purchase coins for packs
+1.50 for six cards for a game that has no incentive to do well
+
+Mixed feelings:
+I kind of hate and love that the game limits the number of rare/ mythic rare cards you can unlock. It gives the game a little bit more of a sealed feeling to it. I'ts nice to not run in to people that have four copies of smugglers copter. but at the same time I want play sets of certain cards.
+
+I'd like maybe a more indepth ranking system or leagues or tournaments. something comparable to mtgo maybe? If wizards would just design a much more user freindly mtgo I think That would be all I need.",0.5,0,True
+316010,29491100,76561198006181297,"I like Magic Duels very much because it gives me a chance to play on an upgraded UI versus MTGO. Furthermore, it allows me to play magic whereas my schedule and lack of availability of players makes paper magic a pretty distant dream.
+Furthermore, Duels allowed me to get back into magic after some ten years of not playing so I could get used to the mechanics again. It was a great entry method and continues to peak my interest in magic again.
+The only things I dislike are the match making system and would like to see more achievements and varied rewards for playing ladder.
+
+Thanks for reading",0.5,0,True

@@ -1,0 +1,996 @@
+appid,recommendationid,author_id,review,weighted_vote_score,votes_up,voted_up
+2246340,216997428,76561197987527499,"As of 1/27/2026 I can wholeheartedly recommend this game.
+CAPCOM has made optimization improvements, and given additional CPU settings that will make this game playable to a much wider audience.
+
+The gameplay is fun and satisfying.  The weapon combos are relatively easy to chain, and the weapons genuinely all feel effective and unique.   There's a wide variety of monsters to hunt in a variety of locations to customize difficulty to what you need.  Endgame is still fun while offering a large possibility for creating builds and grinding for the perfect weapon for you (though you can do all the content without touching the engame weapon system if you don't want to grind)
+The story is acceptable.",0.9191775918006897,1011,True
+2246340,217011951,76561197995019743,Finally at a point where I can recommend the game to others. Sincerely hope they prioritize performance for the expansion to avoid another PR nightmare like Wilds had for a year.,0.9167514443397522,466,True
+2246340,189333958,76561198068249512,"I have played every monster hunter game since Tri at least twice, and I usually play to complete the HR100 or equivalent boss on every save. I also played the older live service games, Monster hunter frontier and Monster hunter online. Here are my thoughts on wilds (HR70/50 hours in game at time of writing):
+
+
+Positives-
+
+POOGIE IS BACK
+
+Monster hunter wilds is really fun, and anyone familiar with the series will like it a lot. The gameplay loop hasn't changed, and capcom has implemented a ton of quality of life changes that make it more accessible to people who want to hunt more and grind materials less.
+
+The new monsters are all really cool, along with their weapon and armor designs. Capcom does not miss when it comes to aesthetics in these games.
+
+As a veteran hunter, I was worried the combat in this game would not be as enjoyable as previous titles, and while hunts are the easiest they have ever been, the attacks and animations in this game FEEL SO GOOD you basically don't notice. I have not used seikret or mantels during combat to make it more challenging, and used un-upgraded starting armor through LR6, but throughout the whole story (both low and high rank) I only carted [died] about 3 times, and did not fail a single quest. I was planning on avoiding using focus mode and exploiting wounds as well, but honestly they are so fun and satisfying to use I would sacrifice the difficulty for the satisfaction. Despite the lack of difficulty, the gameplay loop and game feel is worth 70$ to me personally.
+
+The story in this game is... an improvement from previous entries. The characters, cutscenes, and storyline are more involved and compelling than previous installments, but to be honest, I don't think many people are playing monster hunter for a compelling story. unga bunga hammer go bonk, and all that
+
+Overall, the game feel is impeccable, and I will probably end up putting at least a couple hundred hours into it before its G/Master rank expansion releases in a couple years. Capcom has already promised half a dozen or more free title updates over the next year that will include new monsters and loads of event quests and other things to do in the game. For me at least, the $70 is worth it to satiate my addiction to this series.
+
+
+Negatives-
+
+Performance is really bad. I have a Ryzen 9 5950x and a 3090 and I am playing this game at 4k high, raytracing off and getting 45FPS. This is playable for me because I spent a decade playing on a 3ds outdoors at 20 fps, but understandably many people are not willing to play a 70$ game below 60fps or able to afford a PC capable of more than 30fps.
+
+On top of the low framerates, graphical bugs are not uncommon either. I personally have experienced the ""black triangle"" 3 or 4 times in my 45 hours of gameplay, which causes a flashing black triangle to fill about a quarter of your screen for 20 seconds or so for no apparent reason, which makes the game almost unplayable while its happening.
+I have also seen the ""PS2 graphics"" bug, where some models appear to have about 100 polygons like OG Final Fantasy 7. For me this happened once after fast travelling and it resolved itself after about 3 seconds. I personally have not experienced any game crashes (I'm on the latest version of Windows 11 with the latest graphics drivers).
+
+In classic capcom fashion, the menus in this game are heinous. 
+in particular, setting up multiplayer is particularly problematic until you figure out the system, so I will explain what you need to do to get it working the way you expect it too:
+
+Basically, you want to have your friends in a lobby AND a link party at the same time.
+The lobby is basically how you can see your friends in the overworld, while a link party allows you to go on quests together as a group. you can go on quests together using either one, but for the best experience, you want both.
+To set it up:
+1. you want one person to create a private lobby after selecting their save data on the home screen.
+2. after loading in to the game, that player should get the lobby ID by going to the member list screen (start -> tab 4, labelled ""communication"" -> member list). The lobby ID will be displayed on the right. This player should send that lobby ID to everyone they want to play with.
+3. The other players should select ""lobby search"" and then ""find a lobby based on ID"". (finding from in game or steam friends lists seems to have a 30% or less success rate, lobby ID works every time in my experience).
+4. After loading in to the lobby, one player should go back to the member list mentioned before, and go to the ""lobby"" tab, then select and invite the other players to a link party.
+5. The other players then need to accept the link party invite, either by holding the plus button on their controller after they receive the notification, or by going to start -> communication -> invites -> received invites.
+
+From here, players will be able to see eachother in the overworld (because they are in the same lobby) and will automatically be able to join quests the other players post (because of the link party). Keep in mind a private lobby can have 16 players but a link party is only 4, so your lobby can have 4 groups of 4. You can also join quests from outside a link party by talking to Alma, so you can do quests with anyone else in the lobby, its just less convenient. You can have a link party between players in different lobbies and a lobby with no link parties, but you probably want both.
+
+lastly, I personally found the music to be a little underwhelming compared to previous entries.
+
+None of the negatives are severe enough to be a deal breaker to me, especially since most of them will (hopefully) be patched out.
+
+EDIT:
+
+After thinking about it a while last night, I realized that what really sets the old world games (everything before Monster hunter world) apart from the more recent ones is the feeling that you are really in an intense fight with a monster. I cant really put my finger on what makes that difference, but it has something to do with the players ability to move more freely in current games.  Old world games required a lot more intentionality and commitment to attacks because a poorly timed or spaced attack could cost a cart. I feel like I can get through basically any hunt in Wilds by mashing buttons on my controller while wielding a sword and shield, but I do look WAY cooler doing it in wilds than in any other game.
+
+Part of what I enjoy about monster hunter is the community aspect. Joining a random quest to get materials you need and finding people spamming stickers and gestures and having fun in post game is as relevant as the combat itself to me. Those kinds of interactions aren't as accessible in old world games as they used to be (albiet not impossible to find).
+
+I'm playing with 2 different groups of friends so I am having fun helping them progress through the game while using my own time to do fashion hunting and grind materials for melding armor spheres and artian upgrades. Capcom added event quests and more weekly challenges today. Even if I don't enjoy this game the same way I did old world games, I am still having a lot of fun playing it and it still feels like there is enough for me to do (although I wish there was more).
+
+While it doesn't impact my review of this game at all, I would encourage anyone that enjoys wilds as their first monster hunter to play an old world game like Monster Hunter Generations Ultimate.
+
+
+Update as of HR100/~60 hours in game:
+I was at steam review character limit so I put it on reddit:
+https://www.reddit.com/r/MonsterHunter/comments/1j7acuo/",0.9160645604133606,1605,True
+2246340,190034181,76561197971929019,"After 60 hours, hunting every monster, and hitting HR 75, I think I can say this is a good entry into the Monster Hunter franchise. 
+
+The elephant in the room is of course being the performance and technical state of the game. Quite frankly, this launch is unacceptable. There's no reason for my new rig with a 4070ti and a Ryzen 5 7600x should be struggling to hit 60fps at 1080p. It seems like they really want you to use frame generation on your first bootup as a magic bandaid, but that's not how this works. Bad performance is bad performance. This alone would normally get me to give it a negative review.
+
+But dammit, this game is so fun. It's all I've been thinking about lately. In terms of the core gameplay, this is the best monster hunter has ever been. Everything feels good to use, every weapon is fun, every fight is cinematic, and every monster is diverse, and in my opinion, more interesting than the monsters in base world.
+
+That being said, it's not all fantastic. The other elephant in the room is the difficulty of the game, which has been a hot topic, and has been since World even. This was my experience: I played most of the game solo or with a buddy, and I honestly didn't see much issue with the difficulty. I'm not a Monster Hunter expert, but I'm not a beginner either, so I expected low rank to be a pushover and it was, no problem with that. High rank saw a boost in difficulty, primarily with the Apex Predators, that I was happy with. Not too hard (which will come in master rank I'm sure) but not brain dead. I rarely carted throughout the game, but I also played previous Monster Hunters and still had to actually fight. From my memory this is about the experience I had in World as well. 
+
+But then I decided to play some 4-player SOS missions, and the dynamic changed entirely. Most monsters rarely attacked since they were constantly getting hammered, wounded, and stunned, including late monsters. World wasn't entirely difficult either, but this slaughter wasn't as common place even with 4 other players. It feels like the game was balanced for solo and duo play and not much else, the monster health is super low and the wound status rate is too high, which just creates scenarios where 4 players wail on the monster creating perpetual wounds. A big appeal of Monster Hunter is the multiplayer, which makes this a bit of a disappointment. Teaming up in Monster Hunter usually always makes it easier, but it really shouldn't be this much of a leap to where hunts end almost as soon as you reach the monster. This WASN'T the case in World, I still felt like 4-player hunts were fun in that game even if it was a tad easier. 
+
+In general, multiplayer is the weak point of this. Needlessly complicated to even get into a game, in some cases even a downgrade from prior games in terms of accessibility. I don't see the reason for the distinction between Lobbies, Link Groups, and Environment Links. It just seems overly complicated and poorly explained. And of course, the famous communication error makes a grand return.
+
+Arena missions are missing as well, which is unfortunate. Some of my favorite memories of previous Monster Hunter games were teaming with a friend to get the best time with the pre-selected gear setups, but that aspect of the game is gone. Hopefully it makes a return in a future title update or in the Master Rank expansion. (EDIT: Confirmed for title update 1!!)
+
+And then there's some general gameplay changes, i.e. the Seikret mount, no monster tracking, easy escapes and heals. To be fair, most of these were introduced in Rise and were just brought back to this, but generally I don't think they were needed and likelycontribute to the lack of challenge veterans are experiencing. Hunters and Palicoes have more tools now than ever before, but the monsters haven't been buffed to match (yet) and it's starting to show the divide. Again, low and high rank are all that's available, so I can't say whether this is necessarily good or bad yet, but I can't deny some of the Monster Hunter identity seems to be lost. Tracking and searching may have been shallow, boring, and frustrating in the other entries, but it was a part of the charm of actually hunting the monster. You could argue with that gone you can get right to the good bit, which is the fights, but then it just ends up feeling like a boss rush game and less like a hunt, especially when ""prep-time"" feels like more of an afterthought now more than ever. 
+
+That being said, I have still thoroughly enjoyed my time with this game (and not done yet!) and think it's still some of the best gameplay the series has to offer, which at the end of the day is what draws me in. This is the perfect starting point for a new hunter and has a lot to offer. Just keep in mind Monster Hunter is famous for confusing progression and menus, and just have fun with it without getting bogged down too much. Looking forward to crown hunting (yes I'm crazy), updates, and Master Rank!",0.9135935306549072,968,True
+2246340,203528472,76561198102396336,"After 300 hours and at least 20 years of MH games under my belt... I just cannot wait any longer for the devs to fix the performance issues. 
+
+I have a 5070ti and a 7800x3d and every... single... update I have to manually delete all shaders for the game to be even remotely playable. Please fix the performance issues... Idk what else to say...
+
+
+
+UPDATE 12-16-25:
+Performance from TU4 has been significant, consistent frames and performance, no stutters. Still ridiculous that this game practically requires frame gen to feel good to play, but at least it isn't unbearable now...",0.9079979658126831,2161,False
+2246340,195254466,76561198323243086,"Preface, I'm Japanese and I played most portable games from MH2G (except 4 and 4G). I have 260+ hours (Now 599 hrs) and Hunter rank 400 (now HR 999) as of writing this. (Update: I understand I'm not an average player, but the review is for new and old players and I recommend buying it until it's at $30 or less)
+
+I would not recommend the game to new and old players, but would keep an open mind when the expansion DLC comes out.  Looking at the steam's active players, we can see a 99% drop in active player count since launch 2 months ago, the active users are people like me who have played old MH (and thus loyal to the MH title) or new people who have yet to finish the story. Also the peak hours (most active players) are from the Asian timezone. The problems in Wilds is in it's essence and it's not something that can be solved with a simple update, so I recommend waiting for the expansion DLC, where I hope the developer take their time and make big changes to the UI and mechanics. I love the franchise and I hate to write a bad review, but I wish devs would see what went well and what went bad. Overall they could have kept many system designs/decisions from previous titles cause they worked.  It's ok to be explorative with new mechanics, but when it's not made well and good mechanics from old games are removed, obviously it causes a negative response. I also understand the business side with them rushing to publish the game in the 4th quarter, but that's a shareholder issue, and not an excuse to the player. Lower the bar (difficulty) to get new players is ok, but not giving good rich content removes the core fanbase (Ex: me) and since MH is a multiplayer game (where OG hunters help new players, and new hunters growing to be the helper for newer players), if good hunters leave, then it causes a feedback loop that affects word of mouth and ends up dissuading new players. There's good parts to the game, but too many small micro issues adds up to frustration and ends with a bad taste.
+
+Here I will list good things and Bad things with Wilds:
+The good: (fairly self explanatory)
+Nice graphics, some weapons are fun to play (My OG gunlance), Story (only cutscenes, not story related travel) was good, making quests from the map is interesting (but was not necessary from a development standpoint), arkveld and the 4 apex monsters are cool.
+
+The Bad: (I'll write my explanation in full detail)
+- volume: There's not a lot of good monsters. I see comparison with rise and World, but it's how the game utilized them in the story progression. And to be honest, old players like me look at older games (before G-rank/master rank) the psp, wii, and 3DS with 45+, 45+, 50+ large monsters compared to the tiny 28 large monster in Wilds. With the monster count, the other problem is that only 6 or 7 are the high-difficulty monster, and I get that they wanted to make it easy for newcomers, but too many monsters are in the easy category. It further makes it look stale when large wyverns like diablos is not in the game and doesn't provide any challenge until re-dau or gore magla. A parallel problem with the monster count is the quest count required to complete the story. Older titles required key quests to be completed before continuing with the story, so although hour wise it's similar, but the number of hours dedicated to travel to cutscenes is disproportionately big (I liked the cutscenes, but I wanted more quests). They wanted to streamline the story so not all of the monster are involved in completing the story (gypceros, gravios, normal rathalos), there's also little to no 2 or 3 monster hunts, and there's no extra quests in-game.
+- difficulty: I'll keep it short for this one, because the devs wanted new players so they made it easy. But it's a little too easy cause I didn't know I didn't have any armor and I went all the way to Gore Magla with no issues. The problem is also with how the story is structured, usually there's wayyy more quests with optional and key quests and time given by the story to take a break and explore.
+- Accepting Quests and multiplayer: Multiplayer in this game is abysmal, there was an amazing working formula, and they removed all likeness to it and added many inconveniences and caused many players to shy away from multiplayer and play solo. Although somewhat solved with the introduction of the large gathering hub (which came too late), the removal of quest boards removed the warm-welcoming multiplayer experience. The twists and turns needed to play with friends just makes me want to play solo.
+- UI (quest counter): The quest counter should have been a separate board, Alma walking around is cool, but she should have been a secondary quest counter, adds to the frustration when you need to find alma to do any quests. There's also problems with the buttons in the UI, like how the triangle button is used to see monster's stats but triangle is mapped to the delete quest button, making it impossible to see Monster weakness in the quest info, but needing to exit and go to options.
+- Weapons/balance: Preface, I play Gunlance, Bow, HBG in Wilds and other titles, In addition I played Greatsword, dual blades, Sword and Shield, insect glave, and Charge blade (i still call it charge axe cause I played in JP) in previous titles. I'll play with other weapons in wilds when I get bored of the Gunlance.
+One problem with the weapon is also with the responsiveness and the slow, heavy movement of the player and not being able to cancel some moves. Secondly there's many new features by capcom that really narrows the options per weapon, which removed the fun out of building new sets. In most scenarios, there's no specialized builds for specific monsters, because it's going to be the same as your normal daily build. There's only a selected few options for weapons per type, for gunlance it's only one option. I'll rant about skills and decorations in the next section, so I'll hold off but that's another reason why options are limited and they should just make it so we can select from a selection of skills, or else the narrow options will stay.
+The Gunlance move set is one I'll PRAISE, whoever designed it had love and they did a fantastic job and should get a raise, but whoever did the weapon stats did a bad job because there's only one gunlance at the endgame and artillery strength is doing all the evil.
+Bow, moveset is similar to old titles so those are fine, my main problem is making pierce, spread, and rapid phial based, which limits the bow's option and why are the phial count lowered to 10 instead of 20 like old titles? I need to constantly refill the phials every combo, which adds to the frustration cause I need to cut my combo just to refill.
+LBG and HBG: OMG fix the bullet restocking for LBG and HBG. That's one indicator there's no one who test played the game with those weapon, does capcom hate people playing those weapons? Restocking is an issue, and forcing all bullets in your inventory is also a grave sin. I only want to bring specific ammo so there's less options and less opportunity for error, but I guess bowgun users don't have rights in this title.  Also removing the recoil skill and setting recoil per bullet is just plain stupid. Skills, removal of pierce elemental bullet types vs normal elemental bullet types, changes in recoil, changes in the bullet level design, the really short effective range, and many more are just problems that adds to the frustration. LBG is nonexistent bc the argument is why not do it with HBG. LBG has no guard, no perfect evasion, no parry, nothing.  
+I've seen problems with other weapons but I won't say anything cause I don't have firsthand experience yet. If the issues are still present in the next expansion DLC, I'll talk about them.
+- Decorations and skills : This is something that developers should have stopped after thinking about it a few seconds. Why did no one see the problem with this. (word limit, so I'll finish in the reply)",0.9076230525970459,2947,False
+2246340,200776756,76561198050042409,"Monster Hunter Wilds had all the hype, and on paper, it [i]should[/i] be a home run. Gorgeous monsters, new systems, a more immersive world and yet, I find myself constantly pulled out of the experience by one glaring issue:
+
+[b][u]Performance.[/u][/b]
+
+On a rig that handles most modern games at decent settings without breaking a sweat, [i]Wilds[/i] chugs. Frame drops during key monster fights, asset streaming hitches in open areas, and stutters here and there, all this while the game [i]doesn’t even look that good[/i]. Don’t get me wrong, it’s decent, but it's nowhere near justifying the resource drain it's demanding. It’s baffling. The visual fidelity feels like a half-step forward from [i]World[/i], but the performance feels like two steps back.
+
+As for the content complaints some players have raised, I personally think they’re a bit premature. This is a base game, and as is tradition with MH, the real meat usually comes in future updates. That said, [b]Capcom really needs to accelerate the title update roadmap[/b] if they want to keep players engaged long-term.
+
+There [i]is[/i] a good game in here. I can feel it. But right now, it's buried under technical issues that should not exist at launch. Fix the performance, and we’ll talk. Until then? Unless you love this game/franchise that much, play [i]World[/i] or [i]Rise[/i] instead.",0.9024497866630554,1287,False
+2246340,198359652,76561198142046753,"game itself is pretty fun.
+but the performance? yeesh.
+a game that doesn't look that much better than World while running worse than Dragon's Dogma 2 is something to be studied.",0.8997642397880554,2436,False
+2246340,201958721,76561198135457898,"Don't change proton versions too many times or else denuvo will lock you out of playing the game you paid for, for 24 hours :)",0.8952589631080627,965,False
+2246340,190904134,76561198061116718,"Edit: This month (12-2025), Title Update 4 was released, and I figured the end of the year would be a nice time to review my review.
+
+[h3]TLDR[/h3]
+The game definitely runs better compared to launch. However, better doesn't equal good. The Title Updates improved a lot of smaller issues, and at its foundation, I think Wilds is a great game.
+
+However, for me, literally all of it is undermined by how Capcom rushed the release of their game because they prioritized a good financial report over delivering a finished gameplay experience. It's mind-boggling to me that we are 4 Title Updates in, and we still have to wait another month for a proper PC-optimization patch. Part of me wants to not recommend it just for that.
+
+That being said, I can't deny that I enjoy the game a lot. If you are a dedicated fan of the series, and didn't have your trust betrayed during launch, and are willing to spend hours optimizing the game yourself, then maybe I would recommend it to you.
+
+[h3]Optimization[/h3]
+Luckily, Capcom keeps telling us how committed they are to optimizing the game. So, to show us how committed they are exactly, they delivered 0 noticeable optimization changes in the first 7 months after release (aka Title Updates 1, 2 & 3). To make things worse, we did get a patch that prevented the shaders from recompiling, with a very committed Capcom telling us to fix it ourselves.
+
+Every time we got a small optimization change, it had different outcomes for everyone. For some, the game ran slightly better; for others, it ran much worse. Title Update 4 finally implemented platform-wide improvements, but given how committed Capcom is, they won't target PC-optimization specifically until January. The only way to know for sure that your system can play the game is to buy it and test it out, which is a ludicrous proposition. Not even the benchmark is reliable at this point.
+
+A big saving grace is the modding community, which has done more for the game's optimization than a very committed Capcom has in the past 10 months combined. If you are willing to mod your game, decompress your files, fine-tune your settings, and repeat it after every update, you can play the game at a stable framerate. If not, you can hope that the game runs well enough on your system and pray that the January update doesn't make things worse for you.
+
+Another thing to keep in mind, this game was designed to push the PS5 to its limits. If your PC is worse in comparison, don't expect mods to make this game perfect. Optimization is not optimal, for sure, but you should also have realistic expectations about what your rig can handle. This game calculates A LOT of data in the background, enough to bottleneck older C/GPU's.
+
+[h3]Difficulty[/h3]
+I started with Monster Hunter Rise, and it was the same story back then. The new mechanics made the game too easy. This time, I heard similar arguments, with the Seikrets, Focus Mode, and Wound System being the get out of jail free cards.
+
+I don't think they make the game too easy, specifically for new players. Monster Hunter can be very overwhelming if it's your first entry into the series. I believe Wilds strikes a good balance between difficulty, survivability, and most importantly...fun. There is very little that stops you from playing the game.
+
+[b]Focus Mode[/b]
+Focus Mode is a good example of that. To put it simply, it allows you to redirect in the middle of your attack. Where you would previously miss your attack if the monster moved out of the way, you can now use Focus Mode to redirect your attack mid-swing. Difficulty-wise, it lets you get away with more mistakes. Then again, missing your big attacks is not fun.
+
+A lot of clunkiness has been removed in favor of this fun factor. As a consequence, you have very few openings where the monster can punish you. There is always something you can do through different skills, items, or the timing of your attacks. The more experienced you are, the easier that process becomes. Unfortunately, this also comes with the downside that monsters don't feel threatening once you have learned how to counter them. Which is why most of them delete 80% of your health bar every time they look at you.
+
+[b]Seikrets[/b]
+Your Seikret is, for all intents and purposes, your way to traverse the world. It can also pick you up if you get knocked down, getting you out of harm's way from a lethal follow-up attack.
+
+I think a lot of people understate the fact that escape mechanics like the Seikret are relatively trivial in the long run. When I started in Rise, I needed that escape to succeed in quests. As I got more experienced at hunting monsters, it started to feel like an easy escape button. After hundreds of hours, the ability became trivial since I had mastered my dodges and evades. It's the same with Seikrets.
+
+[b]Wound System[/b]
+Until Title Update 4, the game had no Elder Dragons in its Monster roster. To compensate for that, a lot of normal monsters got more difficult movesets. Unfortunately, that brings us to the wound system, which largely prevents monsters from utilizing their moveset altogether.
+
+If you know how to make optimal use of wounds, it trivializes the entire early game. Capcom also realized this, and late-game monsters are much more resilient in that regard. However, they did not apply these changes retroactively, meaning that the difficulty only ramps up after you have played through the story.
+
+[h3]Story[/h3]
+The story is alright. It actually ties into the locales you visit and the monsters you hunt. It also has some cool lore bits if you are into that. You can definitely notice that Capcom tried to write a compelling narrative, which I appreciate. All in all, it's nothing to write home about. There is still lots of room for improvement.
+
+[h3]Purpose of Monster Hunter[/h3]
+I still hear a lot of complaints about how the series has turned away from its original purpose. I can't account for that myself because this is my second Monster Hunter game. What I can account for is my own reason for why I boot up the game. It's to hunt monsters. And in my opinion, that's the most important part of a Monster Hunter game.
+
+In that regard, the monsters and fights are amazing. If you can get the game to run properly, of course. Whether that's 4 veterans absolutely destroying a monster, or just you, your weapon, and your skills. The Title Updates expanded the roster, and in my opinion, it's in a solid place now.
+
+To get to the fun part, you do need to put in some hours. Monster Hunter is notorious for feeling clunky at first (even after the aforementioned fun-factor changes). There is a flow that most people only start to appreciate after they have spent a substantial amount of time with the combat mechanics. Once you have found the weapon that fits with your flow, hunts start to feel like dances with the monsters, and it feels great. That's why I keep playing.
+
+[h3]DLC Greed[/h3]
+The best-looking armor, weapons, and pendants aren't earned in-game; they are sold as DLC. Want more background music? Buy the DLC. Want festival outfits for NPC's? Buy the DLC. Want more Seikret customization? Buy the DLC. Want to change your name or edit your character or Palico? Buy the DLC. Want more gestures and stickers? Buy the DLC. Want better optimization? Wait, what...eh, just wait 11 months, alright? We are committed after all.
+
+[h3]In Conclusion[/h3]
+The game is still optimized poorly, and how Capcom screwed over their customers still doesn't sit well with me at all.
+
+But...it is a good game if you can get it to run properly. It has a solid roster of monsters, the combat is smooth, there is plenty of challenge to be found in the late-game, and it looks gorgeous. Though aside from the actual fights, it has little else going for it.",0.8951937556266785,403,True
+2246340,189066635,76561198106660720,"Guys, I like the gameplay and all, but could you add more menus to the game? I feel like there are not enough menus in the game. I would like at least 2x more menus for each interaction. Also, I think 2-3 types of party aren't enough to play with a friend. We need at least 5-6 types. Maybe with 2-3 menus each.
+Also, could you add 2-3 submenus in the main-menu?",0.8837425708770752,956,True
+2246340,194844408,76561198088848791,"Incredible game, but it definetely needs urgent fixes to performance and server connections. I'm tired of how long it's taking to get into a server",0.8824816942214966,768,False
+2246340,207365247,76561198992848396,"I rarely leave reviews.
+
+I liked Monster Hunter World and was genuinely looking forward to this release. I even bought a copy for my friend so we could play together. The gameplay loop is a bit too simple, and my favorite weapon (sraaku) isn’t that good compared to its counterpart in Rise.
+
+However, the biggest issue I have with this game is its performance. It’s been eight months, and the company still hasn’t done anything to address it. This is the first game where I’ve actually had to undervolt my GPU because I was getting visual artifacts. That’s just bad practicea game should never be in this state at release, especially at full price. If I could refund the game now, I would have done so.
+
+If you see my comment, do not buy this game until the issues are fixed. Even if you have a very good PC, it still runs like shit and fries your components.
+
+Edit: 
+1. Sraaku is switch axe (it's the japanese name for this weapon).
+2. My gpu is RTX3080ti
+3. I heard that the FPS is fixed if you have all the DLC. This is so WILD! fcking bullshit",0.8821961283683777,631,False
+2246340,189304061,76561198057395549,"Incredible Game. After 60 and just hitting HR 100 I can say that - while I think the basegame DOES lack a bit of content compared to the release of the other Titles I played:
+
+- Investigations are insanely fun
+- Farming for Items be it Armor or Decos is incredibly fun and feels like a rewarding loop that didnt get stale for me so far
+- Outside of 2 Figths every Monster in this Game on release for me is a good and fun one. 
+
+THE PC PORT HOWEVER LEAVES A LOT TO BE DESIRED. Lots of graphical issues and the game crashes for me at least like once a day.
+To however complains about the difficulty: Yes the Game isnt that hard, but its fights are fun and imo thats what matters way more",0.8802965879440308,361,True
+2246340,194205939,76561198147493488,"Waited for like a good few months to write this review to see if there would be any attempt at reoptimizing the game. And there hasn't been any. I have a 9800X3D cpu and a RX 6700 XT with 12gb of VRAM and 32gb of DRAM
+
+Even though I am technically overqualified as per their recommendations, I still can't get the game to run at 60fps without the character models looking like something you'd see on a render farm and without the rest of the game looking bad, not to mention much of the textures still having rampant artifacting present on them (see Nata and his people's cloaks, clearly supposed to be something like a cream off-white but they have all that random crap going on over it)
+
+MH World, an almost 8 year old game produced by the same company, looks better and runs better. Capcom clearly cut corners on their optimization and its hurting them. The monsters themselves look fantastic, the sound design and animations on them are also fantastic, but the rest of the world sucks so much and the game struggles to run at 60fps even with recommended hardware and dialing the graphics setting way down.
+
+Edit: As of July 26th, I reopened the game just to test and see if anything was fixed optimization-wise, and no, even on Medium settings I can't even get 60fps ON THE TITLE SCREEN without enabling Frame Gen. This is absolute garbage and I'll be asking for a refund even though I'm far past the window Steam normally allows.
+
+And I'd like to add, for those who are already typing that I need to get a better PC, that's not the point, I am overqualified by Capcoms own recommended specs for this title and it's still struggling this much, please don't continue to lick Capcom's boots, issue refunds. When Helldivers 2 backlash was severe enough Steam started issuing refunds, it's only a matter of time if Capcom doesn't actually fix it, we're approaching half a year of being live and it's still performing this awfully with recommended specs on Medium settings.",0.8791371583938599,684,False
+2246340,189158919,76561198042526928,"Cool game, awful performance and worse optimisation. Capcom, if you do end up fixing the game and you'd like me to edit this review into a positive one it will cost you £3.49 for a ""Review edit voucher"".",0.8768443465232849,8235,False
+2246340,189282970,76561198050856944,"Performance is rough, but this is the best monster hunter has ever been. If you can run it, it is absolutely incredible.",0.8650664687156677,1334,True
+2246340,217035521,76561198099090058,"My biggest issues were performance & difficulty. Harder & harder hunts were added through the updates & the January Update fixed all my stuttering and massive frame drops on the ""busier"" areas of the game.
+I can finally give a positive rating.
+I just hope Capcom & the MH Team learns from this fiasco.
+Looking forward to the Expansion!",0.8644415736198425,253,True
+2246340,188928780,76561198037650969,"Ok, I'll say this Capcom. I love your games, I even loved this game so far, it has a lot of incredible stuff in it. I can see why people are giving it 8/10, 9/10, even 10/10. I'm even able to play it at a comfortable stable framerate with good visuals, because thankfully I'm blessed with quite a decent setup. But WHAT THE HELL is this lack of optimization and you trying to force Framegen on us? Not everyone is even able to use this tech. I saw how the game runs and looks on consoles, also not the best situation there. 
+
+You'd think that the whole situation with Dragon's Dogma 2 would change smth for the better, and instead we have this. 
+
+As of now, unless you have a beefy PC or an absolute MH fan, who'd play this game at a low locked framerate with possible sacrifices in terms of visuals, do NOT buy this game. Wait for a sale, better optimization, or whenever you have an amazing rig. This is the worst AAA product in terms of it's technical state that I've seen in a LONG time man.",0.8622967004776001,5928,False
+2246340,190708376,76561198361970794,"Monster Hunter has been my favorite franchise for a long time, and I am very excited for the new generation of Monster Hunter. 
+
+My first impression after 20 hours of game time, I feel like there are a lot of aspects that have been simplified. 
+
+There are no more hunting monster tracks. You just get on your mount, and it will carry you to your target automatically. 
+Another aspects I like in Monster Hunter is how important preparation is, but in Wild, that doesn't realy matter. You forgot to bring a warming potion, oh don't worry, the game has you covered. 
+
+I could write a lot of paragraphs complaining about how much easier this game is compared to its predecessor, but maybe people are tired of it.  
+
+However after 80 hours. I finally realized that Wild is a better game for me, at least now, since I don't have much time to play games anymore, let alone having to hunt one monster for up to 60 minutes.
+
+I hope that with so many QOL's that make hunting easier, Capcom can balance it by providing new, more challenging monsters.",0.8622963428497314,453,True
+2246340,197683192,76561199830221368,"As a veteran Monster Hunter player, Wilds sincerely worries me. The reason I fell in love with MH in the first place was the deep sense of immersion and progression present in older games. There used to exist the perfect amount of ""friction"" so to speak: quests needed to be properly prepared for. Monsters needed to be learned. Each map needed to be explored and studied, Gear needed to be earned by grinding hunts. Old Monster Hunter gameplay was a well-polished and addictive feedback loop.
+
+Wilds is an autopilot version of Monster Hunter I used to love. Optimizing gear no longer matters; the monsters die no matter what. There's no need to learn the maps; your mount automatically takes you to the monsters, which are now permanently visible on the map. Monsters just give two or three times the rewards that they used to, so no need to hunt a monster more than a few times for the weapon you want. In trying to innovate, Capcom broke the feedback loop I knew and love, and I hope that before they release the expansion, they remember that Monster Hunter was great BECAUSE of friction, not in spite of it.",0.8618324995040894,4839,False
+2246340,205944139,76561198047233348,"After loving everything about Monster Hunter World I was extremely looking forward to Monster Hunter Wilds but its a disappointing experience overall. 
+
+Its been Eight months since release and the game still suffers from heavy performance issues that plagued it since launch with no major fixes in sight it looks like Capcom are more concerned with paid content/cosmetics than actually fixing the key problems that plague the game. You only need to look at the overall reception from the fanbase to get a clear idea on how badly and rushed this game feels overall. 
+
+With Monster Hunter World I always found myself managing to play it for countless hours each session but with Monster Hunter Wilds the drive to do quests and special events just is not there anymore. A big reason for that is the streamlined gameplay choices and no real sense of progression after you finish the main story. Game could of been something amazing but instead we are left with a unfinished unfinished entry in the Monster Hunter series.",0.8591653108596802,363,False
+2246340,188915707,76561198355802567,"This game is absolutely amazing - but has the worst optimisation I've ever seen.
+
+I understand that new games are becoming more demanding and people are expected to upgrade, but this is absurd. I'm aware this isn't the first instance of new games having poor performance on launch, because the same thing happened with World, but it feels inexcusable at this point.
+
+I am by no means saying the game is bad, but in its current state, you should probably consider waiting for a more stable release.",0.8585377335548401,9065,False
+2246340,190363900,76561197998936937,"This is being written before any of the game's major updates, about three weeks after launch. And it's being written by an insane old lady who started playing this franchise on her Playstation 2 in 2005, who cares about it more than she ought to. I also had a lot of fun in my 50 hours so far. Hitting 'no' on whether I recommend it isn't really a literal 'I do not recommend the game'. It also has nothing to do with the extremely valid criticisms of the game's extremely dogwater performance. Keep all that in mind.
+
+I don't think my take on Wilds is going to be a popular one, even with as many critics as it's building up. Which is fine, I'm used to that, World is the first time I've actually agreed with majority consensus on this franchise, while before that I would have still insisted Unite was the best in the series. That isn't a popular take. But I really can't help but feel like Wilds has gone in a bad direction for the long-term health of the series. Not because of the shorter hunts or the 'lack of content' that you may have already heard complaints about, especially that latter one. I DO think there's some truth to it, I think even at launch World had a lot more to do, but zero question that perception is mostly from people remembering World in its final state.
+
+My issue is that this game feels completely frictionless. The game doesn't feel like it ever stops me, it doesn't feel like it ever trips me up. Everything is so easy to do, not just the fights but supplies and food and inventories and unlocks and layered gear and, just everything. Your mount automatically sends you to where you need to go and everything you'd ever need is put in your pocket then the big monster dies after tapping you on the wrist a couple times and that's that. Even that example I gave before, there's just as many palico gadgets and we obviously still have a mount, but you just kinda. Get them. I didn't have to explore some weirdo unmarked nook of the map to do a weirdo unmarked quest for some random unmarked cats, I just kinda got it. Everything is laid out for you, handed to you.
+
+There's good and bad to the friction being gone. I love that sharpening is actually possible to do mid-fight solo now, but I feel like it's too generous that my seikret can just pick me up to bail me out of anything at all ever. I'm not going to miss Nergigante's 'roar which stuns you for long enough that you don't have time to sheathe your weapon to superman dive away from his now undodgeable attack' garbage, but I'm not sure I like that trade if it means NOTHING feels threatening. Nobody liked the old deco drop rates but... I dunno, it feels a little hollow finishing my build 50 hours into the game. Half of this stuff wouldn't be bad on its own, and half of it is actively good, but all at once? Remove ALL the friction, good and bad, at once? It makes it feel aimless, insubstantial, braindead. The game is so devoid of ANY sort of friction that I'm sitting over here feeling nostalgic about paintballs and mid-fight combining, for gods sake. Those were NOT good mechanics, but in a room full of padded walls I'm craving something concrete, something with some weight to it.
+
+I think my biggest gripe - and I KNOW this take is going to be super unpopular - is focus mode. I just don't think I should be able to throw out attacks nonstop without thinking about them and relying on focus mode's 180s to trivialize positioning. To me, the essence of monhun is the need for commitment, for planning, the fact that having to consider so many things regarding monsters and your own movement and positioning in advance not only necessitated deeply learning monsters' behaviours, but rewarded you massively for it. Landing a TCS on a mobile monster used to be a thing of mastery and beauty and now it's just... Nothing.
+
+The game honestly kinda feels more adjacent to Helldivers than World. A party game that exists purely for small groups of friends to roll loot slot machines in. And don't get me wrong, I like those kind of games, but that's not what monhun was to me.
+
+Regardless of whether future monsters do more damage and take longer to kill, that won't change the fact that focus mode makes positioning nearly redundant, that every single weapon has get-out-of-jail-free moves, that the big moves just aren't hard to pull off anymore given they're either twice as fast or have super armour or both and even if you do screw it up completely you can roll out of it before it's even gone off, that your seikret ensures it's nearly impossible to get combo'd out, that the absolute worst the game can do is put up a Quest Failed screen and take away the 5 mega potions you used on the fight from your stash of 800.
+
+I said at the start of this that I don't necessarily not recommend the game. But, at present, I would definitely recommend you to play World first. Too many edges got sanded down, I think. It's lacking the franchise's usual weirdness, and its abrasiveness. You can give the upcoming update monsters 10 times more HP, but it won't bring back the feeling of satisfaction that overcoming those rough edges brought.
+
+In retrospect Monster Hunter Wilds is a very ironic name for something that feels so completely toothless.
+
+EDIT: I did not expect so much attention on this, let alone for it to all be positive. Thanks for that! Especially the people sharing their old hunting stories, so, lemme share one of my own nostalgic hunting stories as thanks.
+
+I still hadn't 'got' monhun when Unite came out, despite playing 1, 2 and F2. Nargacuga was the flagship monster for that game and I really liked (and still like) its design. I got the quest to hunt it, suited up with my trusty old Akantor armour, and decided on dual blades for it. One of my weaker weapons but it felt appropriate. And, like, what's the worst that could happen? I wasn't even in G Rank yet.
+
+I drastically underestimated how tough a fight it would be, and wasn't nearly good enough with DB for it. I carted twice quickly just from being blindsided. I played safer from then but was still getting knocked around.
+
+I went through my entire potion supply. I kept fighting but got low on HP and ran off to actually use the tent to heal (a lot of people didn't even know you could do that in the older games lmao), and do some old fashioned on-field procurement of potion materials, despite being unfamiliar with the new map. I hadn't had to do that since monhun 1. I thought about going home for the hammer but despite the struggle I was just... having fun. It really did feel like I'd just met something that was my match and I had to knuckle down and learn it.
+
+I somehow managed to keep surviving, but the timer was becoming an issue. I'd barely even remembered quests had a time limit. I basically had no hopes for finishing it off, I was just keeping up the fight as practice. But I kept swinging when I could. Past 45 minutes I stopped going off to gather even when I fell into fatal range. And with literally less than a minute on the clock, it died. Out of almost all my supplies, battered and broken, hanging onto my last life by a thread, but I managed it.
+
+It's still my favourite monster hunter memory. As Wilds is, it's really hard to imagine it making a story, and a feeling, like this. World gave me some similar ones with some of the nastier monsters. Most of those memories were from Iceborne, though, so I do still think there's hope for Wilds to turn out some great moments with AT patches or the inevitable expansion, but like I say in the review, patches can up the numbers but they can't make Helmsplitter satisfying again.
+
+But also like I said in the review, I didn't really like the games between Unite and World much. It's not the end of the world if Wilds still winds up mid after everything. I waited 9 years between monhuns I actually liked before and I can do it again.
+
+Happy hunting, y'all.",0.856464684009552,4803,False
+2246340,197696557,76561198992326185,"If you love this game, if seeing the reviews and it's current steam score leaves u angry, if you want to defend everything about the game PLEASE read this and keep an open mind, I quite literally beg you. This review isn't really meant for the team or capcom as one person alone is not going to do much, it's for other people to see and think about the game either, so perhaps they can agree with at least some of the issues I have and talk about them as well. And know, I love this game as well, and once I also defended a game (rise) nonstop.
+Try to keep an open mind about the things I say in this testament, even if they seem harsh, and if you want to scream at me for anything here do feel free to do so, I turned on comments on this after all... but take everything I say with an open mind, I ask that.
+
+
+Just as much as most people reviewing the game, I'm not happy about doing what I'm doing right now, doesn't feel good to hit the ""Not reccomended"" button for a review of a game with so much good and that is between being my third or second favourite monster hunter game... But for the first time in a while, toxic positivity and way too much forgiveness for capcom is not drowning out the needed critique of where Monster Hunter is going. So... Wilds:
+
+Runs like a unpeeled potato, is blurry and grainy even in best case scenario, those best cases scenarios will never happen because like every modern game it requires upscaling to run without exploding your pc so it looks as blurry as videos of alien sightings. This is not a ""games are getting harder to develop"" or ""your pc is just weak"" thing, it's a ""this industry is being pushed with optimizing less and paying more"" thing. WIlds should have been the easiest game for them to develop, RE is not a bad engine and it should have worked well for a big open game like this, people say otherwise after Dragon's Dogma 2 and Wilds but the engine is not the issue, it's the development that is the issue. World was built on a engine from the ps3 era and was a fight to even get to work at all for a next gen game at the time, and even tho it was anything but perfect, even at world's pc launch things were not this bad, just go read back yourself and you can see that (again, people say otherwise to defend wilds and... no). And for a even more in your face example... Rise was RE Engine with the same big open map format and it ran incredibly on the switch with a pretty good resolution and very consistent 30 fps.... It's not the engine that is the issue here. And I can't go without mentioning the old school games where I started, which were  really nice looking games running on portable consoles like ps2 and 3ds, with games like 4U and FU being genuinely some of the best looking games of the respective consoles.
+
+Wilds looks good but not even close to good enough to justifying how heavy it is either, most of it's prettiness comes purely from visual direction choices, and it has way too many glaring issues like a lot of very low quality textures, low quality volumetrics, constant LOD changes between high quality models and low quality models even when vram is well above the required, and more.
+
+But that's not even the only way Wilds is rushed. The game came out with undeniably little content, and the title Updates are just... sad. This is very obviously content cut from the game that left the game extremely barebones, and we have only seen a single TU with it's content being spread out over a full month for some insane reason, one smaller collab update, and a couple of patches after almost 4 months of the game being out. All while capcom pretends this is all intended instead of at least being in your face about the game being unfinished like base rise was (which even then still had more content without updates than wilds has right now).
+
+These all should just be objectively bad, no matter what ur personal tastes are, please try to see just why these are just doing bad to the franchise, why allowing this to be done will just lead to even more problems in the future.
+
+Then, there's more personal problems I have with wilds, from now on this is more subjective, but I still think a lot of this are real issues with the game.
+
+First, one I barely consider personal but I will do so for fairness, the paid dlc... is it even more personal to say this just sucks? The game has so much paid dlc already even tho it's been out for so little time when the actual game is lacking content, so much of this dlc could've been used as rewards for event quests or maybe even a couple more side quests instead of being relegated to ""how big is your wallet"".
+
+The first real personal thing, the game's story should have a slower pace and have more moments where you just hunt, as it is now it just ended up being a short roller coaster that was genuinely very enjoyable and left a big impact but barely lasted when it didn't need to be this quick, the moments where you just talk that people have critized to no one could have hunts instead, it would take away a problem while adding more meat in it's place.
+
+Then, a very closesly related issue... the difficulty. Now, I want to preface this by saying I don't want what most people want, I don't need to be one hit killed or take 20 years killing a monster. But, I think that the game should have ALL monsters pose a proper challenge, not just a couple of super lategame fights. I don't need the peaks of difficulty to be super high, but the average should be and the curve should be smoother, as right now, the curve is basically stuck to the ground until 100 hours in where u get to the end of high rank, find gore, then find Tempered 8 monsters, then find high rank final boss, then find yourself in the bath crying because it too hard.
+
+Then, there's the set building... oh good god, this one specially destroys me inside because I love set building in modern Monster Hunter so much but then Wilds... Okay let me just get to the point(s): the skills are at some of the worst they have ever been with a lot of nerfs and a general lack of unique skills, the seperation of weapon and armor skills was a horrible idea, artian weapons suck and not in the good way, and some specific resources are just annoying and too long to farm for. There's not much to even talk about for any of those, that really is it. The fact our endgame is stuff like artian weapons and farming armor spheres (one of the resources that is annoying to farm for) is just not fun.
+
+For another very personal issue, the game's live service format just... makes the game worse for me. Obviously it's not being done well in the first place since it's been 4 months and we got TU1 which had 1 new monster, but even beyond that, the way the game is just repeating world with stuff like event 
+
+And as one last issue, the UI of the game is just so conveluted while also feeling so much less useful than, direct comparison, the previous game with rise. Navigating all menus feel like fighting through a army of boxes and buttons that really damn hate you.
+
+
+I think that's it, I could go on with even more specific things but at that point I'm getting into the granular details, not what I consider big issues. If you love this game and want to defend it, yet still read all of this and kept and open mind and don't want to just murder me for not being just nice about wilds, thank you, feel free to say anything you feel like, even if that's calling me a big idiot for some of the things I said.
+At the end of the day... I just want Wilds to be better. Monster Hunter has stopped feeling like the safe place I'm used to with Wilds and it sucks, the community is in chaos because of course it is, a game like this had no way to leading to something else. Wilds is not a game I play a couple of hunts every day like most others were for me, it's a game I play once in a while and am always just bitter about even tho the game itself is so enjoyable when it's not being... wilds
+TLDR: *spontaneously combusts*",0.8559345602989197,1130,False
+2246340,196771378,76561198159293509,"Save your money. 
+
+This game needs to cook for an additional 1-2 years and get an expansion like Sunbreak or Iceborne before it's worthy of its current price. 
+
+If you really want to try out Monster Hunter, then get Monster Hunter World with Iceborne DLC instead. An absolute amazing package worth every penny.",0.8546201586723328,2697,False
+2246340,192286286,76561197999975704,"Disclaimer: I played a ton of Monster Hunter so my thoughts come from that position. I'm not a 'purist' who outright dismisses modern MonHun, there's design decisions I have problems with but my focus is mostly on the product.
+I'm mostly comparing Wilds to World considering these are ""A team"" games (stuff like rise/sunbreak is the B team).
+
+4 key points: Content, Performance, Story, Gameplay.
+
+Content Is always iffy on new Monster Hunter releases. The games are being treated like Pokemon, with an eventual big update dlc/expansion basically making the game feel complete. This is one of the more unfinished feeling experiences I've had with Monster Hunter. I don't say this just from the wealth of Monsters to fight, Tri probably had less, but there's a lot of gaps particularily in the endgame. The fact that the open beta had you fight the de-facto final boss of the game is mad to me. I genuinely had my final boss fight before the game released, it was way harder too which was super satisfying once I beat it. The game is also pushing stuff that feels like it should be basegame into content updates. The first big content update is huge but it also definitely should have been there in the first place. 
+
+Performance sucks. The game took 0 lessons from World (And the A team worked on this prior). There's just no two ways about it. You can watch someones youtube footage on a 5090 and they still get texture pop-in. World had massive performance issues at launch and the ones here feel especially eggregious considering World probably is a better looking game too. Try the benchmark.
+
+Story I'm only mentioning because of how forced it is. They definitely wanted to focus on it more this time around but the problem is that it's just not good. It's painfully formulaic and the twist in the middle actually made me laugh out loud with how silly it is. My multiplayer experience with friends was hampered multiple times by one of us having to go through a forced walk-and-talk that you cannot skip. I don't think a strong story would not work in a monster hunter, quite the opposite, but it's definitely not exploring anything interesting with the setting. 
+Your character this time is fully voiced and also a total badass during cutscenes right from the get-go. Very hard to immerse yourself that way. I cannot understate how egregious it is that your character is being treated like a newgame+++ gigachad from minute 1. Usually monster hunter treats your guy fresh meat straight outta the academy, and you earn your badass status by working your way through challenges. Nata (the kid) gets introduced as the surrogate protagonist because you need a character who is even remotely vulnerable to have some stakes. The confrontation with the final boss may as well have had linkin park playing with how badass/edgy the setup was.
+
+Gameplay. Lotta things I could talk about here. There's plenty of smaller nitpicks between a really awkward multiplayer lobby system and questionable weapon balance, but if I had to summarize the biggest issue with Wilds it would be something like this:
+This is the Monster Hunter game where they want you to feel like a badass. Hunter movesets are far too powerful, Monsters did not compensate enough for this. You are consistently overpowering monsters at every stage of the game. As others have pointed out before, the game feels like you are beating low-rank monsters with high-rank gear. Hunter movesets were made to be a lot more mobile which is definitely fun, but it also means that positioning matters less. Why reposition for a big attack when you can just press the parry/counter that is completely reaction based, on a very very easy reaction no less. Parries definitely do not come at a premium in this one. A lot of talk was made about how the Seikret was an improvement over the wirebug from rise, but I think people underestimate how powerful the Seikret is. The game doesn't outright say this but you can get knocked down and still call your bird, completely saving you with plenty of invulnerability, making it functionally impossible to die given how calling it is free. This is by far the easiest monster hunter. 
+My guess is this is also why the Story treats you like a badass from the get-go. I think this is a deliberate decision by the devs. This is the game about the power fantasy of being a monster hunter, but it feels unearned if the challenges aren't really there (or your character does something badass in a cutscene).
+
+The content and difficulty in this game are intertwined. The grind in Monster Hunter primarily functions as the endgame and replayability, giving you goals to do micro-optimizations to your gear, try different weapon loadouts, etc. Problem is they hand you everything way too quickly. An armorset can be completed in 2 hunts. Jewels you basically get shoved down your throat (and I didn't even do the farming exploit that was meta for a while). And why grind anyway if I'm already demolishing monsters. I don't really feel the improvements to my gear when fights are easy and they are still easy with better gear. Now don't get me wrong, I'm a veteran of the series, I'm not expecting to get challenged the same way here as I am with late-stage content of older games. But this is the only monster hunter where I just feel ""done"" with the game. I've seen it all.
+
+The future for this game is a little iffy. They clearly shipped the game too early and are introducing more stuff with their scheduled content updates. I'm not certain they will fix core issues with the game however. They talk about looking into balancing and I certainly hope their 'careful language' there will bring the overall powerlevel of hunters down, but I doubt it.  I'm probably coming back to it once the big ""rise2"" expansion releases, but until then, as I said, I've seen it all. I would still recommend this game as an entrypoint for newcomers if you have the PC hardware to properly run it. It's still monster hunter. It's still fun with friends and all. But after finishing wilds we went back to revisit sunbreak and had a much better time overall.",0.8537685871124268,151,True
+2246340,200449234,76561198259168649,Since the release there has not been any performance update and the performance of the game is getting worse and worse with every update. Sadly it feels unplayable after the last major TU.  Please Capcom fix your game.,0.8536590933799744,1470,False
+2246340,212903118,76561198070503345,"Unfortunately I cannot recommend this game. Released in February and the performance is still awful, arguably worse. 
+This game needed to come out a year later at the very least, but the greed of meeting the fiscal yearly earnings ruined its potential. 
+I really enjoyed this game, mostly at 30/40fps. the combat and gameplay loop is very fun. A big improvement from World, taking some ideas from Rise. 
+If they follow through with fixing the performance, I might change the review, but currently, 10 months after release, this is just a disappointment. I won't be buying Monster Hunter on release again.",0.849590539932251,751,False
+2246340,200350449,76561198271504285,"When game works, game good.
+
+When game not works, game bad.
+
+Make it works please. Thanks Capcom,",0.8493860363960266,594,True
+2246340,232087757,76561198117569209,"I bought the Premium Deluxe Edition because I wanted to support the game, only to receive around 20% of the DLC that has been released.
+
+Even though the game has always had optimization issues that made my PC struggle, and despite the muddy graphics, I continued to support it because I genuinely enjoyed the game. I never left a negative review because I believed in what the developers were building.
+
+That's why the new Gold Edition feels like a slap in the face to early supporters. New players can now buy the base game and all the DLC for a much better price, while those of us who supported the game from day one paid full price for the game and the DLC over time.
+
+What's even more disappointing is that there are no meaningful loyalty discounts for existing owners. Even after already owning the Premium Deluxe Edition and purchasing some of the DLC separately, we'd still have to pay almost full price to get everything included in the Gold Edition.
+
+Loyal players who supported the game from the beginning should be rewarded, not end up paying the most for the least value.
+
+My advice to anyone considering buying this game: don't buy it right now. Wait until it's heavily discounted or until a complete edition is available. You'll get a far better deal than the players who supported the game from day one.",0.8478317856788635,280,False
+2246340,191935978,76561197997113172,"Too hard. Too many Apex monsters use a new attack called ""GENERATE CRASH REPORT"" that can't be dodged and can't be blocked. And ends hunt, bypassing all carts.
+
+Would be a great game once this attack is nerfed.",0.8452184796333313,1829,False
+2246340,221064083,76561198136287921,"they really need to fix the crashes, I have play soo many ark temperererd arkvelds, and crash just before capturing. PLEASE FIX THE CRASHES, i love the game but cannot recommend to many players especially if you are using AMD graphics card",0.8321040272712708,257,False
+2246340,225631364,76561198427120155,"game used to run really badly, now it only runs moderately badly",0.8304222822189331,663,False
+2246340,189006148,76561198353337045,"Ignoring the glaring performance and networking issues, I don't understand how you managed to make the multiplayer so bad after publishing Rise. 
+
+When the multiplayer works, it has the same problems as World, like needing to start quests solo, find the objective, watch a cutscene, exit the quest, and join a friend to actually play the game together.
+
+Why? You already had a good system in Rise. If you're going to do sequences and cutscenes, let me at least bring a friend along.
+
+Also, link groups are a stupid mechanic. Why is progression not tied to the lobby? 
+
+For the brief minutes where I do manage to fight the monster with friends, it's a really fun experience. This game may very well have the best combat in the series. I genuinely don't know why you designed the multiplayer this way.
+
+Edit: A lot of you mentioned playing from a squad lobby, and it did make joining after the cutscene much more bearable, but I still don't like the game's singleplayer oriented design for the story quests, especially when Rise and GU story quests both work flawlessly with multiplayer. (Haven't played the older games yet)
+
+Happy to report that non-story missions work with multiplayer almost flawlessly in Wilds. I'm hoping once my group reaches high-rank things will open up a bit more.",0.8290327787399292,3390,False
+2246340,213893523,76561198049245524,"There are already many negative reviews that give very valuable feedback on the game. For whatever reason, it does not seem that anything is done to directly address issues raised by the playerbase. Rather, the devs have dealt with them peripherally, or just straight up insulted the playerbase with collaborations nobody asked for when technical issues are the most salient.
+
+There is nothing wrong with introducing new content, and it can be good when the game works. But the game barely works for most.
+
+Furthermore, its gameplay is decent, but highly overrated. There are many glaring issues with it:
+
+- The wounds mechanic. Some weapons rely more on the wounds mechanic to be effective. The wounds mechanic works in a ""zero-sum"" manner. Meaning that if one person takes the wound, everyone else in the session is deprived of it. So, for example, if you are a charged blade user and you're paired with bow users, good luck trying to activate savage axe mode. And when you can do so, you would have done so with great anxiety and at a cost to proper strategy and timing. There are other things to say about the wounds mechanic, such as the insane stunlock on monsters.
+
+- The maps are picturesque, visually stunning, but lacking in substance and/or complexity. On this note it is important to compare it with Monster Hunter World (it's predecessor). The maps in Monster Hunter World may not have been as big, but there was more ""content"" packed into its area compared to the ones in Wilds. For whatever jank it had, MHWorld had more complex maps, and interactions with the environment that seemed more organic- not just pretty but flat maps with theatrical QTEs. So the end result is you have spaces that look good but feel hollow.
+
+- The weapons don't feel great anymore. So many weapons have glaring issues, and those who main each respective one will tell you exactly what is wrong with them. Many changes to the weapons from previous titles don't make any sense on the whole. I myself stopped using the charged blade entirely in MHWilds, which was my favourite weapon in MHWorld. This is not to say that no improvements could have been made to the weapons in MHWorld, but the way they approached it in MHWilds seems to lack careful evaluation of feedback provided by fans of MHWorld and MHRise. The crux of the matter is, in their effort to streamline and ""improve"" the accessibility of the game, many weapons have a more fixed way of being played, or have simply been dumbed down in general. Some changes to the weapons render certain moves pointless altogether. MHWilds had every opportunity to take from and improve systems from its predecessors (MHWorld  and MHRise). MHRise for example allowed Hunters to customise weapon movesets, which introduced different ways to use the weapon and adds more satisfaction because of the variety and added flavour. You would think MHWilds would adapt something similar to this, considering its much bigger scope, budget, prior material, and scale, right? Nope. After all those years of development, and the insane starting price of the base game, this is how they justify it. Nothing really new or innovative has been added to the mix. No real substantial additions. No new weapons. No new ground-breaking fun ways to use already existing weapons.
+
+- Difficulty and accessibility. The Monster Hunter series has always featured the balance between preparation and execution. MHWilds undermines this balance by becoming the most forgiving entry in the series. There is often little consequence to mistakes, paired with overpowered blocking and the heavy emphasis on perfect blocks. The point of Monster Hunter was never about artificial difficulty, but rewarding mastery and deliberate play. In MHWilds, that diluted sense of mastery, alongside the overly-simplified weapon systems and rigid playstyles, makes combat feel flat and less engaging.
+
+- Loss of tension and identity. As an extension of the previous point, MHWilds lacks a genuine sense of danger- something that heavily characterises all its previous titles. Previous titles excelled at making monsters feel intimidating and memorable. First encounters with monsters like Nergigante, Bazelgeuse, etc. were tense and overwhelming. Monsters commanded more respect with their presence. But MHWilds rarely achieves this. Encounters with monsters feel a lot more choreographed and less threatening. What comes from this is a game that has monsters with superficial spectacle, but no real threat substantiating it.
+
+Aside from problems with gameplay (and I'm sure I've also missed out on many other important ones), other issues abound:
+
+- Technical issues. Ironically, while the game attempts to become ""accessible"" to players by dumbing down mechanical depth and punishment, it becomes less accessible in practice due to its technical state. MHWilds places extremely heavy demands on hardware, effectively locking out many players (and long-time fans) who use systems that don't cost you a kidney. In contrast, other modern titles (such as the free game Where Winds Meet) has both smooth gameplay and very decent graphics without requiring top-end GPUs.
+
+- The story. The Monster Hunter series was never known for having the most compelling stories, but again, with all the resources they had, whatever you see in the game is an absolute joke. For the record, there are games that cost a lot cheaper, with much smaller teams, that have way more compelling stories. Even a free game like the new Where Winds Meet has a story so much more compelling.
+
+- Monetisation. For reference, the starting price of the base game is already extremely high. It was 70 USD, 60 GBP, 100 SGD, etc. And yet there are still features you would expect to not cost anything additional... that cost additional. For example, the game charges you real money each time you edit your character after the first time you do so. There's also a sneaking suspicion that they would intentionally make ""free"" gear/layered armour unattractive, just to compel players to spend real money on cosmetics.
+
+- Messaging. Referring to updates as ""Free Title Updates"" is extremely disingenuous, as it frames essential fixes and late-arriving features as ""bonuses"" rather than necessary completions of an unfinished product. This ranges from technical to content issues (or the lack of content altogether). After almost 10 months, its players are getting late-delivered fixes (which haven't really worked at this point in time) for an extremely high-priced game that really needed more time to cook, and they market it as exciting content drops. Furthermore, capcom's fiscal year ended on 31 March 2025, while MHWilds launched on 28 February 2025. This timing allowed Capcom to record roughly 10 million unit sales in its final report. Coupled with the technical state at launch, and its severe lack of content, it would be reasonable to infer that Capcom prioritised corporate goals at the cost of severely undermining the quality of MHWilds. Gamers/Hunters lost, and the shareholders won. In July, Capcom also issued a formal policy warning that it would take legal action and pursue criminal proceedings against customers whose feedback exceeded ""socially accepted standards"". Capcom is happy to take premium prices for an unfinished product, but considers it a breach of social standards when the fans who funded that success express dissatisfaction with the result. (See also RainbowKrampus’ 12 December review for a critique of MHWilds’ PC performance)
+
+Regardless of whether the issues ultimately stem from the developers or the corporate leadership, the end result is that players were charged a premium price for a product that was neither finished nor honestly presented at launch. This conduct is predatory and exploitative. What is most disappointing, however, is not merely the presence of technical or design flaws. Capcom eroded trust- trust that was built over years and then severely undermined with this release cycle.",0.8269460797309875,553,False
+2246340,193144093,76561198042426415,"[h1]A mid game from an excellent series[/h1]
+
+[b]TLDR:[/b] If you want to experience a Monster Hunter game, this is not it. If you want a fun game for 100 hours and don't mind the price, then Wilds is for you.
+
+
+[h2]Important Backstory[/h2]
+
+There are two core groups of Monster Hunter fans regardless of what point they joined the series;
+
+1) Immersion Hunters. These player value the immersive hunting experience and are largely interested in gameplay elements that facilitate this such as tracking monster, monster behaviours and monster/endemic ecology in the maps. 
+2) Monster Fighters. These guys enjoy the series for it's unique combat and focus on positioning and commitment once you have pressed a button. Speedrunners are included in this category. They want monsters to be good, fair fights that reward matchup and weapon mastery.
+
+Usually these two groups are arguing with each other regarding which games are good, the immersive lot tend to enjoy World/Iceborne more with the Monster Fighters preferring Rise/Sunbreak, This is a simplification on my part but a useful one at that.
+
+
+[h2]MH: Wilds doesn't satisfy the two core groups of fans[/h2]
+
+When World/Iceborne was out the players who favoured immersion were happy and the more combat focused hunters from Generations Ultimate found things a little lackluster.
+When Rise/Sunbreak came out thew opposite was true.
+With Wilds release both groups of players are unsatisfied. The game is missing important immersion enhancing features such as side quests and emphasis on gathering while also missing the difficult but fair combat that made previous titles so enjoyable to replay. I think this can be demonstrated with the reception the game has received from content creators with Ratatoskr representing the immersion fans and others like Juzzi and Mahnster Hunter representing the combat enjoyers. 
+
+The amount of side missions in the game is ridiculously little and it's the 1st Monster Hunter I have come across that doesn't have an egg fetch quest, which is a staple any veteran will tell you is in every game. While the game world looks fantastic, the players interaction with the world makes it feel more like a playground instead of a wild ecologically detailed environment the hunter must survive in.
+The combat has gutted the core design and left the game easy and shallow. To give you a rough idea of how bad this is IGN detailed the game being too easy as a core criticism of MH Wilds in their review. Imagine that, the game is too easy even for games journalists. 
+
+
+[h2]Wilds being more marketable to more people isn't inherently a good thing[/h2]
+
+A game getting a larger audience is only good if it doesn't come at the cost of it's core design. The industry has seen many highly acclaimed series end in the gutter due to design decisions diluting the core design to market to a wide audience. Examples near and dear to my heart include Mass Effect, Dead Space, Halo and Rainbow Six Siege. I think this is exactly what MH Wilds has done.  It feels the least Monster Hunter out of all of the titles and I forecast the huge influx of players currently interested in the game will lose interest once another large game releases such as GTA 6, this would in theory leave behind the committed, diehard players but these players ironically have been the first to ditch Wilds since it offers none of the experiences they valued from older games. As such once the popularity dies away the remaining community will be a husk of its former glory. The old players have already returned to Rise/Sunbreak and World/Iceborne and new players will quickly ditch Wilds and explore the extensive back catalogue of games including 4 Ultimate, 3 Ultimate and Generations Ultimate.
+
+
+[h2]Title Updates and the eventual Master Rank DLC won't change things[/h2]
+
+The issues with Wilds can't be fixed with updates, side quests and monsters can be added later on but this doesn't fix the vast majority of the playerbases 1st playthrough. An egg quest isn't fun when you have already unlocked everything and have 100+ hours in the game. They worked in World and previous titles because they unlocked canteen ingredients and thus gave you a substantial reward. There is nothing worth unlocking like this in Wilds. As for the combat design issues these can not be fixed with newer harder monsters because the monsters aren't the issue. The focus system gutted the most defining feature of Monster Hunters combat. positioning, as you can now guarantee you hit every finishing move or combo. The wounds system also ruins things because it allows hunters to chain cc monsters and spam their most damaging combos. The monsters don't do anything but get cc'ed and die and the exceptions are required to be so fast and hard hitting that they simply aren't fun or engaging to fight against (Tempered Gore Magala). This can not be fixed with additional updates in the same way you can't fix a curry that has too much spice by adding a different spice. The game has overtuned the hunters and placed Capcom in a difficult space, either take away their key combat additions from Wilds or someone magically redesign monsters to account for the new combat mechanics. The former being unlikely due to marketing reasons and the latter unlikely due to financial ones. Capcom can release Giga Chad Rainbow Fatalis or Vibrating Moody Brachydios but they won't rebalance the hunter and return the core combat design that made the previous titles such deep reservoirs of content.
+
+
+[h2]Monster count and optimization[/h2]
+
+At the moment the Monster count is one of the lowest in the series and the optimization leaves much to be desired. I actually think these issues will get resolved with Title Updates and the Master Rank DLC, it sucks that the game release the way it did but thats an issue with the industry as a whole and not something the devs should be held responsible for. It's not the devs fault that Capcom forced the game to release before the end of the financial year to beef up with profit numbers and please their investors. As a side note the game was originally meant to be released before Christmas 2024 and if you look into the info gathered by r/monsterhunterleaks it's pretty evident that content from the base game was removed and placed into Title Updates. 
+
+
+[h2]Conclusion[/h2] 
+Monster Hunter Wilds is a fine game, buts its mid. It has diluted the Monster Hunter formula to become more marketable, yes the game is more accessible than previous titles and easier to get into but like most things in life, the very features that make it obtuse are in fact the very features that make it special. Monster Hunter Wilds is in fact neither Monster Hunter nor Wild. It is in fact Creature Journey: Playground.",0.8267984390258789,214,False
+2246340,191600679,76561198215263216,"Optimized mess. Modern games need to stop using new PC parts as an excuse, there are games that look 5x as better as this that released years ago and run on older computers completely fine.",0.824670135974884,233,False
+2246340,197005001,76561198083195892,"Man, I actually really like the gameplay, like I want to enjoy the game. But it’s been 4 months since release and they haven’t fixed a damn thing. I bought it and I’ve been waiting almost half a year just to be able to play it properly - and I’ve got a solid PC.
+
+Capcom, what the hell is wrong with you? Why’d you take my money for something I can’t even use? That’s straight up bullshit.
+
+Every time I launch the game, it compiles shaders. Every single f**king time. And it takes so long my monitor literally goes to sleep. On one of the fastest SSDs out there.
+
+So what now, devs? Should I sell my 4070 Super and get a 5090 just to run your game at stable 60 FPS? Or what? Y’all seriously can’t optimize your own game after nearly half a year? There’s zero optimization, and at this point it honestly feels like there never will be.
+
+Did you even test this on PC before releasing it? Doesn’t look like it.
+
+Honestly, don’t buy this game on PC. Doesn’t matter how good your rig is - you’ll still suffer because of how badly it runs. Capcom, I love your games, but this is just pathetic.",0.8246280550956726,540,False
+2246340,206081812,76561198126039779,"Monhun has always been a game about gameplay and less about graphics... But holy smokes what the fluck do I do when the game won't even load. I hate that this game that 10 million people cumulatively put a metric fuck ton of money doesn't run at 60 fps without FRAME GEN.
+
+My imagination made up for the lack of pixels in the 3DS but it's 2025 man, come on. Get your shit together capcom",0.8231392502784729,202,False
+2246340,195898892,76561198134255796,"Monster Hunter Milds.
+
+Way too short,
+too easy,
+too streamlined,
+too expensive,
+and runs like trash.",0.8225732445716858,2893,False
+2246340,198292076,76561198094905842,"Review stays negative even if they fix everything.
+Why? Because I'm tired of game companies doing this and thinking its' fine because once they fix it, people will just come back and eat it up. 
+Games should be released FUNCTIONAL AND WITH GOOD PERFORMANCE. Day 1. And especially be fixed within the first 3 months at LEAST in the worst case scenario. This game has only gotten WORSE with time. 
+So this review will forever stay negative. This game is a massive slap in the face for any actual fans of the series. It's utter garbage in 100 ways. They need to SERIOUSLY revamp the entire thing.
+4k players on Steam right now, it's DEAD.",0.8218856453895569,588,False
+2246340,208372461,76561199579207808,"Going into this game I was eagerly excited. How could hunting monsters be anything other than extraordinarily invigorating? How could one possibly fuck this up? I knew there were performance issues people complained about, but I was undaunted. I decided to support this franchise, one of the last that still sparks dopamine in me. Against common sense I bought the deluxe edition as a token of good faith to the dev team.
+
+Performance issues for me were rare, so I assumed it was just people with outdated rigs trying to squeeze performance out of their decaying GPUs. My friend had issues with his semi-old setup barely hitting 30 fps despite tweaking his settings. I got 60 fps with my 4060 TI. I’m not a max graphics kind of guy, so it was good enough for me.
+
+Where everything fell apart was in the core gameplay. I consider myself a seasoned hunter, not a speedrunner. So when I started killing monsters in five minutes flat, I thought something was wrong. I told myself it must be because it’s low rank. Surely high rank would ramp up the challenge. Right? Right?? No. It didn’t. What I found was a game on rails. Beautiful worlds, sure, but they mean nothing when your mount takes you directly to the monster every single time. I don’t even count travel time anymore because it’s automatic. The real fight starts when the laser pointer stops, and that’s about five minutes of empty motion. The fanbase calling this “rewarding” or “respectful of my limited game time” absolutely baffles the fuck out of me.
+
+I haven’t suddenly become a god-tier hunter overnight. The problem is the monsters hit like toddlers. There’s no fear, no tension, no need to respect them. You can play recklessly and win. The older games punished greed. One bad swing could send you back to camp, forcing you to think and adapt. Here, the monsters might as well have foam teeth. You can stun-lock them in half a dozen ways. You can play with your eyes closed. The game inflates everyone’s skill by making failure nearly impossible. And the fanbase cheers like cattle for being bottle-fed easy mode, insisting, “It’s just low and high rank that’s easy, wait till G rank!”
+
+I was so disappointed that I went back and replayed Rise, then World. Within an hour I realized how far the series has fallen. There’s no auto-find. My weapons have weight. I can’t greed attacks because I’ll actually get punished. I got carted several times adjusting back from Wilds’ hand-holding design and I laughed. The contrast was that stark. Rise reminded me what risk feels like. Wilds feels like a padded room where you’re not allowed to fail, not allowed to feel.
+
+In Wilds you can hunt two monsters of any type and already have everything you need to craft a full armor set. That’s about five to seven minutes per hunt, tops. Ninety-eight percent of the game is you coasting half-awake, waiting for the credits to roll. Once you’ve crafted your weapon, armor, and decorations, you’re done. There’s no drive left. God forbid the FOMO-afflicted crowd actually face something difficult. Finding the monster is automatic, fighting it is a formality, and gathering loot is guaranteed. Why stop there? In the next installment they might as well add an “auto-hunt” feature, and the fanbase will probably call it “a quality-of-life improvement.”
+
+And yeah, I’ve seen the noise about how there are no strong male characters, how the cast is full of girls and one brown kid who won’t stop whining. Sure, that’s annoying, but it’s not why this game fails. I don’t give a fuck about the story. I’m not here for politics or representation debates. I’m here to hunt monsters. I’m here to feel challenge, danger, and triumph.
+
+Instead, what I got feels hollow. The gameplay loop is soulless. The fights have no tension, no grit, no weight. Every victory feels unearned. Every monster feels defanged. And the fanbase’s defense—that “a couple of late-game monsters are hard”—is the most damning thing of all. You’re telling me I need to mindlessly wade through hours of filler just to finally experience the ghost of what Monster Hunter used to be?
+
+This isn’t evolution. It’s lobotomy. The spirit of Monster Hunter wasn’t just about the grind; it was about struggle, tension, and mastery. That’s gone. What’s left is an empty shell of a once-great series made safe for people who don’t actually like difficulty but still want to feel like they’ve conquered something.
+
+Monster Hunter Wilds doesn’t respect your time. It drains it. It flatlines your passion. It turns the hunt into a checklist and the player into a consumer. And the saddest part is that people will call this progress. I can't in good faith suggest this for anyone until they address the core gameplay loop...which won't be happening because they want to appeal to new hunters and not actual hunters.",0.8218510150909424,698,False
+2246340,227224433,76561198016046767,"It's definitely an enjoyable monster slaying action game with plenty to keep you busy for a good while. There's lots of gear to craft, items to collect, and creatures to capture. The game world is vibrant and many areas look very well done despite the somewhat washed out filtering going on throughout the game.
+
+I liked having the mounts to speed up travel time and it's neat watching them wall run and jump between obstacles. The new combat features were also pretty sweet, as a dual blade character I really enjoyed the focus strikes. 
+
+Somehow despite all of this I still find World to be the better game though I can't quite seem to put in to words why that is. I'd still say give this game a fair try though.",0.8215487003326416,163,True
+2246340,226875945,76561198048973539,"Great game, still randomly crashes in 2026, over a year after the game came out.",0.815385639667511,468,False
+2246340,232788607,76561198295379759,"It was a thrilling experience. Coming from iceborne, expectations would be pretty much higher but it justified for me to an extent. 
+
+PROS:
+I mean you can carry two weapons at a time which is a plus.
+Introduction of focus made so much sense. This mechanics is soo good but I do miss clutch claw cos bonking a monster to a wall was peak fun.
+Having a ride all the time is really helpful rather than Running always.
+You can grab anything from your ride which is really helpful.
+Getting clapped by AT Arkveld is the best.
+Smoothness in the gameplay.(It was trash people used to say but after TU 4.5 it's buttery smooth).
+The character can talk.
+You can pick up your traps once placed.
+Gog farming is good rather then wait for an event.
+Arena is good especially free arena quests.
+SOS flares will have offline NPC and online players which is a huge thing.
+
+CONS:
+If you are an iceborne player, the monsters felt way too easy.
+Seikret lives in his own world sometimes.
+Not a con but I do miss my thorny boy(Nergigante) and clap master Rajang. They should add these two.
+
+Final Review: 
+I was a bit skeptical because people were saying poor performance reported but for my case it was buttery smooth. Genuinely speaking I enjoyed the game a lot, even after endgame grinding was super fun. From getting clapped by AT monsters to successfully soloing Proof of a hero the journey was worth every penny.
+If its on sale and you are a franchise fan do buy it as it will not disappoint. 
+Can't wait for the Monster Hunter Wilds: Ascendance.
+
+Final Rating: 9/10
+
+Happy Hunting hunters.",0.813427746295929,111,True
+2246340,217376715,76561198114800347,"Monster Hunter veteran with 2,000+ hours across the series.
+Monster Hunter Wilds is an outstanding entry with some questionable design choices 
+
+The attention to detail in monster behavior, environments, and animation is genuinely next level. The world feels alive in a way the series has never achieved before. Watching monsters interact with each other and their surroundings adds a huge amount of immersion, and I don’t think this aspect is being praised enough.
+
+Monster and equipment design is fire. Some of the best in the franchise in my opinion 
+
+The story is a mixed. as a lore goblin in any game I appreciate the effort, and outside of Nata it’s actually pretty solid i think Nata’s anime style personality was cringe inducing . That said the cutscenes are really damn good, and the monster encounters in them are cinematic. every time the handler authorizes a hunt i bust a lil 
+
+I really like the Focus system and the new wound system conceptually, but they currently feel overtuned.
+Hunters are way more op than before but many monsters don’t seem to have been given enough new tools or reaction speed to compensate. Some monsters feel too slow and end up getting stun locked for large portions of the fight due to constant wound breaks 
+
+This is most noticeable in lowrank but Once the real game begins after finishing the low rank story, difficulty does improve and monsters become more threatening  but the Focus system still feels stronger than it probably should be.
+
+Good systems overall, but they need tuning.
+
+Specs: RTX 4080 / AMD 5950X 64 gigs of DDR4
+
+At launch performance was rough even on highend hardware. After the January patch, it’s a completely different experience. I’m now running at a smooth 120–140 FPS at max settings, native resolution. Major improvement.
+
+ here are some Criticisms i have 
+
+I don’t like the Seikret mount.
+
+Default controls are poorly mapped and require adjustment.
+
+Auto movement being enabled by default is ass.
+
+I dislike the removal of traditional tracking mechanics.
+
+Always seeing monster locations makes paintballs feel pointless.
+
+The pack mechanic is a good idea but feels underutilized.
+
+I haven’t reached endgame yet, so I can’t comment on that portion of the experience.
+
+Despite some questionable changes to the classic formula, Capcom has improved what they built in world/iceborne with this release. i would say Wilds improves upon Monster Hunter in most areas that matter.
+
+Highly recommended. Hyped for the next expansion",0.8129926919937134,181,True
+2246340,236116427,76561199405942292,"Personally. You should buy this game.
+Objectively. Just wait until they actually fix the performance issues and release the expansion DLC.
+
+The game itself is technically amazing and has come a far way from day one release quality however i can't recommend it due to the game performance issue. Yes it is better than before especially early days release but it still not enough to makes you atleast feels comfortable. It went from incredibly bad to just bad. An improve indeed but not enough to justify it.
+
+If you play just for the content then you'll be delight by this game beautiful world and monsters IF you can tolerate the game bad performance simultaniously. I literally bought a new PC with this particular game in mine and while it's a long and rewarding journey i do wish nobody needs to do the same. Monster Hunter has always been a game that genuinely love its community and this act of letting such a gorgeous and thoughtful game release and handed to its consumer in basically a fundamentally broken state ""for over a year"" i mind you, is really heartbraking.
+
+If you worry about the performance then no. Don't even buy it unless it's in a really deep discount or you just love this series that deeply.
+
+I do believe that the expansion will fix this issue the same way i believe it will be fixed earlier since beta test days. I was left disappointed and yet i would try to believe again since i just love this series with all my heart and it does change me and affect my live that deeply. I really wish i would come back to this review and change all this comment into ""Game is good. Best investation you would ever do in your life.""",0.8122896552085876,163,False
+2246340,189035851,76561198263414280,"Thank you Denuvo for locking me out of my own game trying to troubleshoot its poor launch optimization and play it on the one computer i own. I appreciate it! Capcom you really showed those dirty repackers and pirates a lesson by locking me out of the game I paid you close to one hundred American dollars for. You really saved me there--I don't know what i would do if were able to play with my friends for the one game we have all been excited about for half a year. You know what? You're right I don't need friends anyway. Hopefully they will all get locked out too. Then i can have friends again and we can talk about how slow the paint is drying on the walls of our homes because none of us can play the game we paid you, Capcom, close to one hundred American dollars for. So thank you Capcom and Denuvo, I appreciate it!",0.8096196055412292,2038,False
+2246340,189232548,76561198107223230,"Stop using outdated multiplayer systems. There's like 3 or 4 layers to even getting into a game, completely unexplained. Then you crash and have to start the whole process over. 
+
+Just make it
+1. Join friend's game
+2. Play the game",0.8084060549736023,2862,False
+2246340,204923016,76561198059827943,"As a die-hard Monster Hunter fan, I really wanted to like this game, but I can't recommend it.  My PC can run it relatively well, 5080 and 7800x3D, but I still think at max settings the game world looks particularly blurry and bland.  I'd much prefer some level of artistic direction, like previous games did well, over the realism this game tries to achieve yet can't.
+
+The gameplay itself is so far-removed from previous games that I can't find any more enjoyment in it.  I kept persevering until 9 star quests, but even they don't feel right to me.  Focus mode changes the series in such a fundamental way that positioning and aiming attacks is an afterthought while counters and wounds help offset most of the danger of a fight.  I want to like this, as it is a MH game, so I would often log in for whatever current limited-time event is going on, but after a hunt or two I find no desire to continue further.  
+
+Outside of combat, everything is essentially handed to you that you never need to consider farming, gathering, crafting, etc. to any meaningful degree.  It affects the overall game in such a negative way that I subconsciously felt entitled to things like the high grade armor spheres and high quality meal ingredients since everything else is ostensibly free.  Compounding on that, the difficulty doesn't really come into play for the majority of the game that these things also don't feel necessary to begin with.  The weapon swap system, which I never once used or wanted to use, also completely changed weapon/armor skills in a way that makes building a set feel entirely superfluous too.
+
+When considering the auto tracking sekret, the monsters immediately visible on the map, focus mode, sekret recovery, palico omnipotence, easily craftable weapons/armor, counters, offsets, wounds, mantles, environmental traps, and so on, it's no wonder why they needed to add 9 star monsters to maintain some semblance of difficulty.  The game is a mess of incongruent design decisions that does everything in its power to make sure you aren't frustrated at any point with all of the above, Alma constantly repeating the same lines at you, the Palico constantly telling you the same things during combat, and even the player character telling themselves things that you and they already know.
+
+I'm sure there's many people who would like what I described above, but as a fan of previous games in the series, I can not personally recommend this.  If you feel similarly, I highly recommend any of the old MH games; for as brutal as they can be, they are far more charming and far more in depth than Wilds.  They at least released with the gathering hub and arena quests present at launch.",0.8072054386138916,886,False
+2246340,189044441,76561198058055476,"[h1][b]Here's the most relevant reasons the game feels so bad until high-rank:[/b][/h1]
+
+[b]1. Performance, and fidelity.[/b] Reasonable framerates on everything but the latest GPUs come at the cost of textures that look straight out of a ps2 game half the time. Why do my scoutflies look like minecraft particle effects when I'm not 2 inches from them? Why does having more than 2 entities on screen, or rotating my camera at all, cause stuttering? The difference in quality between this and other recent AAA titles is staggering. Wilds has such good designs and animations, which get severely neutered by the absolutely broken performance.
+
+[b]2. Multiplayer cohesion.[/b] It is miserable to have to re-join a quest, only after someone has actively started the hunting portion of the quest, when you have played along the exact same questline. Not only that, even if you're playing in tandem, you have to ACTIVELY run away from the hunt you're trying to complete together in order to even re-join your friends, since the game gives you a connection error if you get hit by the monster you were immediately forced to fight. It's crazy that they managed to un-fix a problem I thought they'd resolved in other titles.
+
+[b]3. Pacing.[/b] Good lord, it's miserable. Are you going to get a cutscene that forces you to leave the area immediately after a quest? Or maybe a dialogue sequence you have to skip through one message at a time? Or an unskippable auto-walk at the slowest possible movement rate on your seikret? After 2-4 of these, randomly chosen, you will be immediately thrust into a hunt that lasts all of 5 minutes. Repeat until the credits roll.
+
+[b]4.  Difficulty.[/b] Worlds and Rise both had significantly harder monsters than anything in Wilds. They have tiny health pools that make it so you barely engage a monster before it's dead. Their attacks do negligable damage that is healed with 1 potion (or better yet by your palico which you no longer have any choices to make regarding their tools), and there's no threatening follow-ups to the monster attacks on the off-chance they even get you low enough to care. Wounds spawn constantly, and borderline stunlock monsters when you proc them. I never, ever felt anything that could qualify as a challenge, not even on the final boss, and so I felt like I had to rush the game to even have a chance at enjoying any gameplay, because HOPEFULLY high-rank is a little less trivial.
+
+[b]5. Exploration.[/b] There is literally no reason to do any exploring, at all, ever. The closest you could get to an incentive would be for pop-up camp locations. Your seikret transports you to all but two destinations automatically, and the entire map and all of it's resources are revealed. There's no gameplay-driven reason to hunt for anything, and it is so sad because the artists put tremendous work into the scope and detail of the world, and the monsters, and the environments, and it all gets wasted because you're never made to gather monster tracks, or do an expedition, or hunt for gathering spots.
+
+When you combine all of these factors, you get a game that feels like it's trying to say [b]""Hey, actually, please don't engage with me until the postgame, because every single system I'm built on is working together to make the process of getting there nothing but a chore.""[/b] It's insane how many systems they discarded that validated the entire experience of Monster Hunter. God, I hope high-rank has some challenge to it at least. It's unforgiveable how badly they designed this game in totality. Bless the artists, and the combat designers, but every director in charge of the rest of the game should be ashamed of the experience they've provided us.",0.8061448335647583,2680,False
+2246340,189861093,76561198857535350,"+ Best gameplay experience since elden ring
+
+- Worst optimization since cyberpunk 2077 (subject to change)
+- No cooking cats (door dash cats DO NOT COUNT)",0.8024141788482666,1387,False
+2246340,217037819,76561198934945421,"Great game before optimize patch, Super Smooth Great game after optimize patch",0.8001796007156372,253,True
+2246340,188992259,76561198067846600,"Giving the game a bad review because of performance problems is fair, that said, beyond the technical issues. I am absolutely loving the game. If you enjoyed world and the betas you will love this as well.",0.7995519042015076,362,True
+2246340,189640521,76561198080069580,"Great game, HOWEVER, the performance on pc is unacceptable for a $70 game.",0.7981377840042114,1159,False
+2246340,188913799,76561198849838009,"This game is a solid 10.....
+[spoiler] frames per second [/spoiler] on steam deck damn
+If you close your eyes it look nice 
+Steam Deck Terrified ✅",0.7966482639312744,2942,True
+2246340,189462918,76561198846982278,"[h1]Preface[/h1]
+Ever since our beloved series reached the eyes and ears of rest of the world, Capcom has made a valiant effort to keep Monster Hunter titles in check with various innovations to keep the series fresh and appealing to a wider audience. Remember the days when Gamespot gave Freedom Unite 5/10 for not having lock-on? Pepperidge farm remembers.
+
+In this regard, MHWilds has, for better or worse, been dumbed down so hunters - veterans and newcomers alike - can have a stress-free experience to explore, hunt, and craft as we have all done before. Overall, the changes are welcome additions that make Wilds a unique experience in its own right, but as I assume most other veterans of the series probably do already, I also have a list of complaints to address. These issues are what compels me to still recommend MHW/Iceborne as the definitive MH experience over Wilds (at least for the time being). And sorry, but I'm not even looking at you this time, Rise. You're third place no matter what.
+
+[h1]Positives[/h1]
+[b]Core Gameplay[/b]
+The core gameplay always centered around the plethora of weapon styles and their mechanics. From Greatsword to Longsword, SnS to Dual Blades, Hammer to Hunting Horn, LBG to HBG, the choices are there for you to pick up and eventually master depending on how much time and effort you invest into each of them. Wilds added many new convenient features to each weapon; in my personal experience, I've been enjoying Charge Blade more than I ever have and it has replaced Longsword as my main weapon since the days of MHW/I. This time around, the game also allows you to swap weapons on the fly to a secondary while mounting your Seikret, a feature that seems less impactful than originally intended, but a convenient feature nonetheless, especially for those who are lazy to go into their tents every half hour. The exploration, gear/build crafting, fashion hunting: it's all there. More of the same old same old, depending on how you look at it. And we're all here for it.
+
+[b]Multiplayer & Questing[/b]
+The lobbies and matchmaking in MHW/I were flawless in the first place. It wasn't hard to join up with friends in the same lobby, queue up for a quest, and hunt together. I've seen opinions about Capcom dropping the ball and making matchmaking worse somehow in Wilds, but I don't see it. The easy of access is still there, just not at first glance. The tradeoff, from what I can tell, is that they wanted us to always be roaming, always be seeing monsters everywhere we go without having to ""load in"" to an instance all the time. The quest queueing is still there, but the innovative option is easy to miss and give credit to. In terms of exploration, the only loading we have to go through is when we switch maps or queue into a quest (same as before), but we now also have the added feature of stepping out into a vast field of monsters right outside our doorstep. All in all, the tradeoff was worth it; wherever I am, I can step out onto an area of that map either on feet or on my Seikret and see a monster walking around - and I can hit. Beautiful, if you ask me. Almost - just almost - on par with Elden Ring levels of ""not taking us out of the immersion.""
+
+[b]The Monsters[/b]
+The bread and butter in some aspects of what defines a game in the series. Some may argue the monsters in Wilds aren't as appealing as they could be, but the amount of effort put into their designs and fight patterns is admirable. They don't seem as copy and pasty as I feared they would be, and we see many returning faces as well as newcomers. None of the patterns for the launch monsters seem broken or out of the ordinary either. Obviously, the community is looking forward to many more being added to the roster with updates, but the initial roster seems solid enough to keep us entertained. My only minor gripe is that some monsters lack an ""identity"" of their own, a factor which contributes to hunts feeling repetitive at times.
+
+[h1]Negatives[/h1]
+[b]Repetitive Flow - For the first time ever[/b]
+Although the weapons feature numerous ""gimmicks"" and combos, along with unique focus attacks that provide a dopamine hit equivalent to successfully honing a weapon in Lost Ark (Dual Blades, thank you for letting me fly around like Levi, literally), this is the first MH title wherein I felt the combat became actually repetitive. The longer a hunt got, the more I found myself just wailing at a monster until it tired or fell. Don't get me wrong, this feeling exists in every MH game, but it has never been more prominent than it has in Wilds. This is the primary reason I consider MHW/I to be the stronger contender for being the definitive MH experience over Wilds; in Wilds, most - if not all - hunts end up becoming a gruelfest where I hope the quest just ends soon. And what's with all the monsters running away so many times? Arkveld runs away five or six times just because it runs out of breath or had its feelings hurt...
+
+[b]Items and Builds - Unnecessary?[/b]
+I have a confession. I have not once used a Demondrug or Armordrug yet, and I'm almost done with the core game. I also have not eaten a meal before every quest. Is the game designed so hunts can be just as quick without proper preparation? I honestly miss the days when I would have the step-by-step process so engulfed into my brain as second nature: tent -> pick build loadout -> pick item loadout/restock -> eat at canteen -> load into hunt -> pop demondrug/armordrug/seeds -> choose pod -> jump down into Nergigante in Origin Isle -> rinse and repeat. These were staples in previous titles, so what happened? Slotting in decorations and optimizing builds seem fun at first, but I don't really see them contributing to cutting down my hunt times as much as they used to. Maybe this will change once elder dragons come into the picture.
+
+[b]Lack of Central Hub[/b]
+The number of times I had to google the location of a NPC I was already familiar with is proof that we need a gathering hub with all the NPCs lined up with their names and job description highlighted above their heads. That is all. Looking forward to it in the next free title update, Capcom!
+
+[b]Bland Story[/b]
+If I don't mention this category, I'm afraid I'll be misunderstood as having liked the story. No. Not at all. However, I do acknowledge that I was never a Monster Hunter fan for their storytelling or quality cutscenes showing me how many lives I changed by hunting down monsters. That being said, the only parts I enjoyed about the story in MHWilds is whenever Alma gave me authorization to hunt a monster and I would respond with ""Acknowledged"" and walked like the baddest mf on the planet. That was... cool.
+
+[h1]Conclusion[/h1]
+[b]Final Verdict: 8/10 B[/b]
+Although the core gameplay is there and the game is solid so far, MHWilds isn't a game I would recommend over MHW/I in its current state. As I mentioned in the preface, Wilds is more of the same in this humble veteran's eyes, and you can sit comfortably in front of your screen and take heart in knowing that even if you don't buy it now, the game isn't going anywhere. The $70 starting price point is also no laughing matter, so newcomers should avoid falling into the ""gotta play the new game"" trap and tackle MHW/I first if you haven't tried it yet.
+
+Better yet, when you do come to Wilds one day, the game will more than likely have all the future updates available at your whim. The only thing potentially missing will be the influx of players to hunt with, but we all know there will always be hunters at your disposal. One final note in that regard: aside from the achievement that requires online hunting, I still prefer to solo everything without any issue just because I want get those focus attacks in without interruption. Who knows? You might feel the same way, fellow hunter.",0.7945137023925781,292,True
+2246340,199840638,76561198125197006,"I don't really need pretty graphics but if you're gonna advertise that the game have it, it should not render the game bearly playable. I can forgive this if not for the overly simplified hunting... I've played since freedom unite and the way the hunting is simplified is heartbreaking.
+
+I don't want to sound like that guy but what I fell in love with this franchise was the immersive hunting, paint balls to be able to track the monster, manually running to that area....Now the seikrat is the actual hunter, we've been reduced to monster killers only which is such a shame. (Hunting is more than just killing something, the journey and strategy to corner a prey is so satisfying but in this game it's just autopilot)
+
+I understand wanting to expand this game for other people but this comes at a risk, by trying to satisfy everyone you ended up satisfying no one. Not to mention the technical problems I really don't recommend this game at least for now.
+
+If you like the action buy on sale or wait for the technical problems to be fixed, if you're an OG fan maybe just skip this.",0.7926393151283264,226,False
+2246340,189138464,76561197972493634,"I love Monster Hunter. I have 3000+ hours across the recent titles. I played World/Iceborne on Playstation and then PC over again when the PC versions launched. I did the same for Rise/Sunbreak.
+
+I want to preface that I've finished the main story & beaten every monster the game has to offer. 
+
+This game, wholeheartedly, is a downgrade in almost every aspect when compared to the previous titles. It's ""OK"" - but there's a lot of things that are just... bad decisions. They'll sell ""fixes"" through an expansion, like they did with Rise, but it's still NOT GOOD in the current state.
+
+We lost SO many quality of life changes.
+---------------------------------
+
+
+Graphical downgrade and terrible optimization. The game looks brown. Everything looks brown. There's filters/settings enabled that just makes it look *bad* - Sometimes, like in the lush forest, it looks incredible when the fog is off... but everywhere else it looks washed out. The FPS is awful (There's a typo in the config file you can fix to add a little more) and you will struggle to get over 60 FPS on average/decent computers.
+
+No idea what happened in testing.
+
+---------------------------------
+
+Multiplayer is terribly implemented. There's lobbies, link parties, environment links, and a billion other things you need to juggle just to play with people. We seriously went from >make lobby >join lobby >post quests and play... to whatever this is. Even if you're IN THE ENVIRONMENT LINK WITH FRIENDS you still get disconnected sometimes after defeating a single monster. It makes no sense. 
+
+You're forced into 'cutscene gates' where you can't do things with people until you see certain things.. something that was FIXED in World because it was SO HATED AND ANNOYING. It's back! Playing with friends is ROUGH until you're at the end of the game.
+
+---------------------------------
+
+The game is incredibly theme-parky and ACTIVELY DISCOURAGES exploration. You are tethered to certain areas while doing any story mode missions. World encouraged vertical exploration and players to go around on their own, but on here everything is listed, shown, and auto-pathed to by your mount. 
+
+There is no central hub, so it feels like you're constantly jumping around ""exhibits"" to find NPC's, quests, turn things in, and do whatever. It's very broken up, sparse, and feels incredibly clunky and jarring to navigate compared to the previous two titles (and even older ones). I guess they're adding a central hub eventually but didn't have enough time? Sucks.
+
+It feels like they took Frontiers and mutilated it, trying to have an ""MMO FEEL"" without any MMO mechanics. I cannot tell you the number of times I've had to look everywhere to find where to turn in quests. 
+
+Even things like MAP MARKERS for camps are buried by other markers IN CAMPS and they're really difficult to see/fast travel to. The way the list of camps were shown in World made it *brain dead easy* to find... How did we go to this?
+
+---------------------------------
+
+The story is very bland. I'd even say that it's awful. I won't go into spoilers or specifics, but there's absolutely no ""big catastrophe"" you're trying to avert or anything major that's being built up to. 
+
+Most of the dialogue is patronizing, condescending, or very ""life is special"" - and it just rings really hokey. There's also not even a dragonator anywhere in the entire game. I'd put it on the same level as ""base"" Rise's story, which says a lot.
+
+There's very few memorable characters, moments, or anything along those lines. Part of what makes some of the story of the previous titles so good is how extra and over the top some of the characters are. Again, no dragonator moments.
+
+It can also be completed in less than 10 hours without rushing. It just kinda.. ends.
+
+---------------------------------
+
+The experience feels soulless. I dunno how else to put it other than feeling like nothing is inspired, and more like everything was ""lets do this again"" in Wilds. It feels like there was no vision beyond ""Make another World game"" and Capcom executives yelling at the developers to do so. The phrase I've heard a LOT of friends using (who are veterans of MH far longer than I am, since the original) is that it feels *incredibly* corporate.
+
+You kinda just get it as a vibe. As you play through, the longer you play through, you'll understand what I mean.
+
+---------------------------------
+
+Monster variety is very limited, and there's nothing really ""stand out"". Even the flagship monster is uninspired compared to previous title flagship monsters. Going through the entire game, killing every single monster available, I cannot think of a single one that impressed me or made me go ""woah"" on the same level of things like Vaal Hazak, Velkhana, Malzeno, Xeno'Jiiva, etc had to offer. It feels like you're fighting three archetypes the entire game.
+
+A lot of monsters are repeats from previous games, including the movesets and skeletons (which have been used on a few of the new ones), which is a bit disappointing considering how few actually exist.
+
+I'm actually worried about future content because most of the announced monsters are just filler/mid tier monsters... and the game's already done. The escalation wont be there unless they add things like Alatreon, etc, alongside smaller threats.
+
+---------------------------------
+
+There's no endgame. You farm two or three tempered monsters at the end and that's it. There's no carrot on a stick to pursue and you'll be done as a dedicated player within a few days.  I won't go into extreme detail but yeah, nada.
+
+---------------------------------
+
+Decorations are really weird now. Most attack based ones can only be put on weapons (Such as ballistics, etc), which means only 3 slot weapons can fit them. Three slot slots on armor/etc CANNOT wear the same decorations as weapons. This severely limits builds. Most armor sets also are just *incredibly* lackluster when it comes to skills provided.
+
+I get this limits player power but.. it just feels really clunky on how they did it.
+
+---------------------------------
+
+The entire new wound system is just clutch claw from Iceborne but way more auto-pilot. You do huge amounts of damage while wounding, get free materials, and CONSTANTLY KNOCK DOWN MONSTERS from applying wounds. There's fights you're going to do later once you're geared where monsters cannot get up off of the ground. 
+
+People complained about the clutch-claw gameplay and this is just the exact thing.. but WAY more  overtuned and broken. Even the hardest monsters the game has to offer kinda get destroyed by any sort of wound mechanic.
+
+---------------------------------
+
+The food system is a downgrade. I get what they were going for but in simplifying it they've made it kinda awful. Getting materials sucks, the stores that sell/offer ingredients only seem to give you rations, and the bonuses from food are lackluster. We went from having major defense up, attack up, ammo conservation, and all these other awesome things to just basic buffs. 
+
+NOT TO MENTION THERE'S NO PALICO CUTSCENES FOR FOOD COOKING. RIP Grandma food cat.
+
+---------------------------------
+
+The camera is awful. Monsters are bigger than your screen and tracking is bad. Can't count the number of times later that bigger monsters are just 95% of your screen and you can't see what they're doing fast enough. Even at max zoom/focus it's a downgrade from World.
+
+---------------------------------
+
+I *want* this game to be better than it is and I know they'll make it better in the future, but man, I wouldn't be surprised if I see lots of people going back to play World/Iceborne after a couple of weeks of Wilds.
+
+Monster Hunter fans will still find enjoyment in the game but the entire way through you'll probably be thinking ""I miss this"" or ""This is clunky"" or ""This was done better"" - and that's just sad to me.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+",0.7855215072631836,3660,False
+2246340,228699731,76561199093512202,"i understand that the game didnt come out great and it had its problems. i recently got the game to play exclusively on steam deck. so all my hours  100% of it is on steam deck. i genuinely am enjoying the game. i havent had 1 single studder or crash or anything. the game is fun af, and i do actually recommend it to everyone still on the fence because of all the negativity on performance it use to have/still has. if my steam deck can run it just fine ... your pc can run it just fine as well.",0.7843376398086548,107,True
+2246340,189435988,76561198071996006,"500 Hours into the game and I can honestly say DO NOT buy this game until the expansion launches AND the reviews are out. 
+Honestly the game can be summed up as: Horrible optimization, boring end game, too easy.
+
+Artians are quite possibly the worst and laziest thing Capcom could come up with for an end game mechanic. Decos/Talismans are way too easy to get so the grind is basically almost reduced to nothing (Too easy of a grind is unhealthy for a game).
+Monster difficulty is a joke especially with that wound system in place.  Honestly, the difficulty of Zoh-Shia or Arch-Tempereds should have been the base difficulty of end game monsters. 8Star Gore is really the only hard fight.
+No Elder Dragons so there is no sense of spectacle or awe in a fight.  Only elder-level types are Zoh=Shia and the datamined Gogmazios which isnt even out yet.
+
+I have a 4080 and reloaded my shaders after the recent patch and even then there are still the occasional frame drops and texture pop-ins. People who have older cards than me probably have it way worse. Network Errors galore.  
+
+AND THE CAMERA SUCKS. Zooms in WAY too much sometimes and my GOD the DITHERING effect is so bad. Rise/Sunbreak and World/Iceborne had a good camera already; why the devs keep trying to reinvent that wheel I'll never know.
+
+People will keep on spouting ""Just hunt monsters for fun"" as its some sort of defense but I can tell you that only lasts so long.  Without tangible end game progression rewards (like weapon/armor enhancements and rare decos/talismans). ""Hunting for fun"" really doesn't last long for most people.",0.7832347750663757,1963,False
+2246340,222146264,76561198393758215,"Having given it some thought, and having 100%'d it, Monster Hunter Wilds might be my least favorite game.
+
+I'm an old hunter. I started with Monster Hunter Tri back on the Wii and I love that game to bits. But I'm not some jaded old gen guy who hates everything new; Monster Hunter World is another of my favorite games, and though it had its issues, namely the uninteresting story and AWFUL endgame content, the game was still Monster Hunter at its core and I still enjoy playing World to this day. I'm saying this as context when I say that Wilds was one of the worst gaming experiences I've ever had.
+
+Almost nothing about this game works. I say almost because there are legitimate improvements in Wilds worth recognizing; the ability to use your binoculars to check the sizes of monsters is something that should have been in the series years ago, as is the ability to skip the 60 second end of quest timer. These are good changes. Unfortunately, they're subsumed by a cavalcade of baffling game design choices.
+
+Let's start with the least of my issues; the pacing. To the game's credit, the pacing of the game is, at first, pretty good! Monster Hunter has always had issues with getting players into fighting big monsters and this one does it the fastest, and after the intro you're already fighting a boss. However, afterwards the game's pace rams straight into a brick wall and doesn't pick up again until the third act.
+
+Until then, you are railroaded on these truly - and I do mean this - TRULY boring walk and talk scenes where nothing happens and the characters talk about the most boring things imaginable. If these dialogue segments were written well, I wouldn't have minded so much, but almost every bit of dialogue in this game is stilted and uninteresting to listen to, much like the story. It's not the absolute worst story I've ever had the displeasure of sitting through, but it is still a boring, melodramatic mess that cuts into time I could have been spending slaughtering the local ecosystem for new boots, and while yes, the cutscenes are skippable, the frequent walk and talk scenes are not and you have to sit there on your mount as the characters around you drone on about nature or whatever. Have fun!
+
+Let's get into why this game really grinds my gears. The gameplay of Wilds was gutted from previous games. Hard. Monster Hunter's combat has always been about proper positioning; knowing where you should be to hit a monster's weakspots while not getting killed yourself. It was simple, it was engaging, it was unique and it was fun. Monster Hunter Wilds introduces new mechanics that remove all of that; Focus Mode and the wound system can effectively stunlock monsters to the point where they are a non-threat and almost laughably easy to kill. You don't need proper positioning when the answer is always aim for a wound and pop it with focus mode, which means you can basically just wail on a monster and kill it in five minutes. What made Monster Hunter's combat so unique has been replaced by hack and slash gameplay and I think that is unbelievably disappointing.
+
+Continuing from monsters being a non-threat in this game, returning monsters from older games have been slowed down significantly or gutted of their moves to the point where they're hardly the same monsters anymore. Even new monsters have attacks that just leave them wide open for several seconds, and it comes off as unnatural and video game-y, which is ironic considering the story of Wilds. This is a nitpick, but for as much as folks like to rag on Capcom for reusing assets or recoloring monsters in older titles, this is the game that feels the most like I'm just fighting the same monsters over and over with different body shapes.
+
+Wilds is also painfully easy. I was killed one time during the entire low rank campaign, and it was because of a camera issue. Monsters simply do not do enough damage to you throughout low rank to justify getting new armor past, like, the midway point, it's pathetic. Preparation, a key component in older titles, has been streamlined to the point where it's almost unnecessary. Your cat friend can heal you, buff you and cure you of all statuses the instant you get them, removing any urgency you may have getting poisoned or burned, and unlike previous games, your cat always has access to all of their tools, removing any semblance of customization for them. Luckily the cat can be turned off, but the random endemic life that does the same will always be out in the open for you to use, removing the point of half of this game's items.
+
+Connecting to friends has never been made harder. Instead of the simple act of selecting a lobby and then joining, Capcom thought that process wasn't complicated enough and introduced several friend code and friend list systems that muddle the joining process and make connecting with your friends way more difficult than it needs to be. Even once you're together, God help you if you picked the option ""environment link"" because now you're all stuck in the Windward Plains with nothing but a Chatacabra, a Balahara and absolutely no way to initiate quests. What the hell was wrong with the old system?
+
+This is the big one: Your mount will automatically take you to your quest target, removing the need to learn your environment and understand a monster's behaviours. This is one of the core components of Monster Hunter and it was completely removed: Actually HUNTING the monsters. Now you just always know where your mark is, you go to it and you hunt it. Yes, it's more convenient, yes, it's easier to get into playing the game but it removes so much nuance and charm and uniqueness the older games provided to the point where Monster Hunter Wilds doesn't even feel like Monster Hunter anymore.
+
+It feels like just another action game, its individuality and personality torn to shreds and its mechanics broadened to make Capcom as much money as possible from as many people as possible. And it worked. Capcom will never learn from this because it sold like hot cakes. They will never make another Monster Hunter game again, but they will keep making games like Wilds devoid of what made Monster Hunter, well... Monster Hunter.
+
+And I think that is a genuine shame.",0.7832329869270325,535,False
+2246340,189625009,76561197972457537,"As much as I enjoy the gameplay, I can't recommend it with the current performance issues. Remove Denuvo and work on increasing performance.
+
+Edit: 03/02/2026
+Performance has been greatly increased with recent patches.
+Could be better without Denuvo.",0.7832248210906982,365,False
+2246340,227522209,76561198262299062,I can't recommend this game given the current graphics bug with it that causes an instant crash on start. Until it's fixed no one should purchase the game even with the current sale.,0.782257616519928,284,False
+2246340,203307663,76561197993355336,"(September 2025): Great game marred by technical issues. I'd hold off buying if you don't have a high end-ish PC until they have improved the technical issues (said to be Winter 2025). If you can run it, this is a high quality monster hunter game.",0.7803552150726318,357,True
+2246340,188915753,76561198256936904,"Absolutely atrocious performance for how the game looks. Runs even worse than the beta. For reference, I could run the beta at a comfortable 60-70 FPS on High, usually higher than that. Now I'm running at less than 50 on Medium with noticeable dips. The game does not look nearly good enough to warrant this performance. Everything is covered in a grimy texture with assets that look like you straight took them out of a PS3 game. If I can run KCD2 and Cyberpunk on maxed out settings comfortably, then there is no reason this game should be running like this. Embarrassing. Wait for a sale and/or optimization updates. I've played games on my Deck that look better than this. When I was kid I couldn't believe how good MHFU looked on my PSP, an entire world in my hands. And now they release a game like this. It saddens me the mediocrity that Capcom has fallen into. But what do I know, maybe I'm just a little silly billy and my 4070 toaster is just outdated at this point. Guess I'll go back to playing better looking games on ultra.",0.7782770991325378,2661,False
+2246340,188932474,76561198166831306,Gameplay is great but the optimization is terrible. Frame gen should not be a requirement to hit 60fps. I've played games that look a lot better than Wilds and they ran so much better.,0.7778186202049255,234,False
+2246340,192319039,76561198025783534,"What's so strange about this game is, they've sanded it down with the intent of finding an even broader audience, but the result would be mystifying to me if I was a new player. The game picks a healing item for me automatically, so what is the point of the plethora of different healing items? (Because it's a vestige of when you actually had to think about it.) Sharpening my weapon just amounts to pressing a button whenever I remember it, so what is the point of the sharpening mechanic? (Because it's a vestige of when you actually had to think about it.) You can beat any fight with any equipment, so what is the point of all these complicated weapon stats? (Because it's a vestige of when you actually had to think about it.) It feels like, if Capcom were designing this game from scratch, 75% of these systems wouldn't even be in it. Because they all add friction and Capcom doesn't want there to be any friction any more. In that sense, it's kind of a mess.
+
+Beyond that, the point about the equipment sums up how Wilds has broken the loop that made previous MH games so satisfying (already an issue in Rise but absolutely terminal here). Your impetus for hunting the same monsters again and again is supposed to be that you NEED those materials to win your next fight – and you need to master your weapon for the same reason. But in Wilds none of that matters. I will admit that combat feels great. But WINNING doesn't feel great, because it's no longer the culmination of anything except mashing buttons. The reason I want a real challenge isn't to prove how skilled I am, it's because a challenge makes you engage with the game more deeply, and so gives you a richer, more sustained experience, which you think about even when you're not playing. Without that, you're left with a nicer-looking but much shallower retread of Monster Hunter World, and that hasn't been worth £60 to me. And even if they redeem it to an extent through title updates and DLC, that won't restore purpose to all these legacy mechanics that now drag behind the game like a dead limb.",0.7773156762123108,570,False
+2246340,215494129,76561198052195333,my enjoyment of the game is inversely related to the amount of exposure to Nata so it gets really good in HR,0.7695850133895874,90,True
+2246340,189318030,76561199367636361,"[h1]装备无性别锁是你的谎言 
+Gender-locked armors are back in Avena/Challenge Quest. [/h1]
+集会所挑战任务女猎锁女装。就是怪猎传统情趣内衣破洞装。
+平时玩家可以选择给女猎穿正常的衣服，但女性npc的服装锁女装。超短裙猎人什么的都是毛毛雨啦。
+当然最乐的还是玩男号的男性，不小心给自己打了个女装破洞裤，打完几架才发现露内裤，然后去找xdm哭。看完不笑的是戒过毒。
+It is the traditional sexy lingerie and hole-ridden outfit of the monster hunter. The gameplay is fun, but the real entertainment was watching male gamers playing male characters forge female leg armor and then freak out when they found creepy holes at the butt. That made my day.
+[h1]为什么女猎要乳摇？为什么男猎不屌摇？
+Why do female hunters get breast jiggle but male hunters don’t get d**k jiggle?[/h1]
+是因为线头囊肿太小了吗。
+[h1]为什么女铁匠打铁只穿抹胸不穿专业工作服？
+Why do female blacksmiths only wear tube tops instead of proper work clothes? [/h1]
+你爹在棺材里也是这么穿的
+[h1]为什么我要给小男宝当妈？
+Why do I have to play mom to a little boy? [/h1]
+卡普空你得了阳痿和绝精一病不起，大家都知道你的秘密，因为无法拥有后代伤在心底。你想做龟男给女人爆米，但没有女人理你;你想做0卖钩子赚米，但男同都被你丑到暴揍你
+[h1]优化奇差，为什么4090都会爆屏闪退？
+The optimization is so bad, even a 4090 crashes. [/h1]
+荒野之上众生平等是吧。4090+4k+24g显存+32g内存+无光追撑不住高清材质包，直接闪屏+闪退。就跟成心的似的，主线没问题（但后期也出现了纹理加载延迟），等我开始做成就立刻开摆。护雷颚龙一开始闪我的屏幕也开始闪。Instant screen flicker and crashes.
+---
+玩法还可以，大剑版本之女能捞飞怪兽很爽，集中模式很爽，最不牢的一次；铳枪终于站了起来；片手也好玩。不玩那几个特别牢的武器的话还好。
+[h1]但是很讨厌分段更新模式[/h1]
+参与了两次实在受不了了已卸载。I hate the endless monthly update strategy. Tried it twice and couldn’t stand it. Uninstalled.",0.7688949704170227,49,False
+2246340,209945510,76561198983542915,"Honestly idk where to even start with this one. I wanna love this game so bad, like 10/10 love it, but Capcom is making it SO hard right now.
+
+First off, the actual game? Absolute fire. The combat is hands down the best it's ever been. They added this ""Focus Mode"" thing that lets you target wounds and it feels so crunchy when you hit those weak spots. The new weapons movesets are sick, and being able to switch weapons on the fly with the Seikret (the bird mount thing) is a game changer. The world itself is seamless now, no loading screens between zones, and the monsters actually feel like they live there. When it works, it’s easily the most immersive MH game ever. The monster designs are terrifying in a good way.
+
+BUT. And this is a massive BUT.
+
+The performance is straight garbage. I’m not even joking. I’m running a decent rig (RTX 30 series) and this game chugs like it’s running on a toaster. The optimization is nonexistent. You walk into a busy area or get some weather effects and your frames just tank. It’s not just the FPS either, the textures are weirdly blurry? Like sometimes the ground looks like PS3 graphics until it decides to pop in five seconds later.
+
+It’s frustrating because the core gameplay loop is addictive as hell, but then you get hit with a stutter right in the middle of a combo and you wanna throw your controller. It feels like they focused 100% on gameplay and 0% on making sure it actually runs on normal PCs.
+
+Verdict:
+If you have a NASA supercomputer, get it. You’ll have a blast.
+If you have a normal PC? Maybe wait for a few patches. The game is incredible underneath the lag, but right now the performance is barely acceptable. Capcom needs to fix this ASAP cause it's ruining a masterpiece.",0.7686831951141357,200,True
+2246340,190077988,76561198114243463,"After two weeks since the game's release, I am still unable to play it at all. As far as I can tell, no patch has been released to fix these issues. Steam is refusing to issue a refund because my playtime exceeds two hours—despite the fact that I only spent that time trying to fix the problem on launch day, without actually playing the game.",0.7681690454483032,1161,False
+2246340,203294449,76561198118258570,"Adding my review due to Steam Reviews removing non native reviews. The game is still not in the best state or good. Its decent at best. Performance is still a joke and you need 3rd Party mods to fix what Capcom still hasn't even after months of release. Wait for the game to go on sale, even then prob wait till the DLC drops and then its bundled and price dropped. Who knows how bad the DLC will play considering the DLCs are developed either near the release of the game or after. The game difficulty is still easy to beat the story and if you want a challenge its getting there. Build diversity is basically non existent, even then some of the skills still don't work as intended or as written. The story of the game exists, at best. Been a fan since Portable 3rd and while I understand things need to be modernized to fit new norms, it shouldn't come at the cost of reducing the identity of the game. If you want to play Monster Fighter Wilds and literally have no need to interact with the open world besides for Gunner Ammo, then play the game. As for me, it's a hard no, especially at full price. Even on sale, wait for it to be more than 50% off, or better yet buy Monster Hunter World/ Icebourne Edition for a game that actual runs and has the content you want. Don't support games that don't respect the hardware and time you put to be able to purchase that hardware and game. Demand more from a industry that demands more from you, with less/nothing in return to you.",0.7662768363952637,203,False
+2246340,191081501,76561197999038343,"For a €70 game in 2025, the optimization is seriously disappointing. Performance issues make it hard to enjoy, and for the price, that’s just not acceptable. I wouldn’t recommend this game.",0.7631381750106812,1137,False
+2246340,189238923,76561198031488085,This game has the worst menus to use. Trying to play this game with friends is harder than killing monsters probably the hardest part of the game.,0.7621262073516846,859,False
+2246340,198232460,76561198820571625,"Capcom actively thinking they can get away with how this game runs is baffling. They don't acknowledge
+the problems and they made zero progress to fix these issues in past 3 months this game was released cause they think its a bad investment. Game sh*ts itself more then a person with diarrhea. I had experienced multiple times, Frames dropping below 50 ps in a 9800X3D/5090 combo",0.7615838050842285,166,False
+2246340,213405589,76561198185102962,"The worst performance in any monster hunter game I have ever played. In the big 2025 i should not have to be playing on a slideshow the whole time. Frame drops every 5 seconds, the hub has the performance of a dos game, capcom ruined my favorite game series.",0.7607147097587585,167,False
+2246340,232038507,76561199013967796,"For anyone who prepurchased this game, bought it on release, or even shortly after, the new ""Gold Edition"" is massive extorsion. 
+With 69.99+€ for the base game or upgrades and more paid for other DLC items, the base price of the current base game or DLC Collection would have already been covered. 10€ up and you could have had every single item that is now available.
+I purchased the base game and 14 DLC items bringing me at least to 100-110€ spent on the game.
+With that i could have bought the Gold Edition or the base game + the DLC Collection separately.
+Now i would need to spend another 59.99€ to get the rest of the DLCs with 14 items i wouldn't be able to receive and i can't even get a refund.
+The sheer fact that upgrading to the DLC Pack would cost me almost as much as the base game on release is horrendous.
+For loyal players who have been devoted to this game and the series to be abused like this is truly disappointing.",0.7603960037231445,693,False
+2246340,221429919,76561198286933948,"if you have an amd graphics card, prepare to be subjected to random crashes with no explanation that happen so often you're afraid to play online or enter certain areas, but not often enough to happen before you've played for 2 hours.
+this is unacceptable. the game has been out for a year",0.7602753043174744,221,False
+2246340,235200074,76561198276390878,"older monster hunter fans will try and convince you that this game is bad because its ""too easy"" and then when you go play gen u or another old monhun game the whole experience feels like getting your balls forcefully vaporized multiple times over because of how clunky and slow the controls feel. do NOT get mind controlled by them. Wilds is good. Focus mode is cool. The combat feels insanely smooth and intuitive. 
+
+And NEVER let someone try and demean you cus u didnt start on some ancient esoteric 4000 year old secret monster hunter game that only released in china and the only way to control your character is by dancing on a ddr pad while having electric currents running through nipple clamps and a buttplug or something. These guys are just like Fromsoft fans, i swear.",0.7578608393669128,398,True
+2246340,208025745,76561198099649989,"I played this game on two different computers.
+
+On my main rig I have a 5080, a fairly new CPU and have across the board a very high end PC. This game runs like a dream, with no problems.
+
+I also played it back at launch on my PC with a 3070, a fairly decent CPU and the recommended amount of RAM and it ran...like a wounded animal trying to escape a jet fighter. 
+
+All that to say this DO NOT get this game unless you are well above even the recommended setting. The performance is a problem, and I truly think the only people not having problems are sitting with much higher end specs. That said I really enjoy this game. At launch I played it on PS5 for well over 200 hours. I grabbed it on PC during  a sale to have an excuse to play it with a friend who was fresh to the game. I still really enjoy it. My recommendation comes with the unfortunate stipulation on your PC.",0.7576237916946411,78,True
+2246340,205739195,76561198268765024,"very immersive game. you can cook a well-done steak on your GPU while you play and the hot blasts of air from your PC fans truly make you feel like you are in the desert. keep a bag of sand by your desk and periodically toss handfuls of it into the air to really complete the experience
+
+Ride monster,
+Life good,
+Monster fight back,
+Kill monster,
+Monster gone,
+Think about monster,
+Carve.
+",0.7574981451034546,248,True
+2246340,188919890,76561198246712386,Super unoptimised runs like shit. You shouldnt use the launch as an excuse to deliver an unoptimised game. This is whats wrong with the modern game industry. The game has so much potential and I would play the shit out of it if it was optimised. I have above reccomended specs btw. Send all the clown awards you want but that wont fix the shitty unoptimised game.,0.7519174218177795,103,False
+2246340,189467113,76561198874068555,"Definitely has rough spots with optimization, but the core game mechanics and fights so far have been amazing and already has me addicted. Only real gripe was early game felt too easy, coming from someone who played through all of World and its DLC. Other than that, approved :D",0.7507776618003845,50,True
+2246340,189044542,76561197980646140,"The game is really good, but the performance is horrible for most people; a lot of it can be traced to bad I/O and streaming. Some of it can be attributed to the overly active anti-tamper; there's more FPS correlation when installing the game on a fast NVMe SSD than having a 500 vs 1000 dollar GPU, which is ridiculous.
+
+The game runs well on my machine but that's no excuse for how badly it runs on most machines, especially when this is a game that you play with friends.
+Avoid buying until you hear that Capcom has made the game actually run well on your machine; make sure to check with the benchmark before you buy. I won't be surprised if/when a crack comes out and the game runs way better with it.",0.7498160600662231,450,False
+2246340,189397889,76561197978498673,There are no cooking cats. They don't reveal this to you and the hours go by and the hours go by and suddenly you realize that there are no cooking cats. And by then you can't request a refund.,0.7987270951271057,3477,False
+2246340,188911837,76561198038931832,"Remember hunters, swapping to your greatsword is faster than reloading your bowgun.",0.7477753162384033,360,True
+2246340,234848944,76561198134430524,"I think this game is fantastic!
+The developers really put a lot of effort into the updates, and they fixed all the problems I had with performance and endgame difficulty, which in my opinion were the main issues holding the game back :)
+
+The game is in a great place right now, and the new expansion looks amazing. If you stopped playing before, I recommend giving it another try!",0.7477493286132812,45,True
+2246340,213388546,76561198262743061,"Monster Hunter ""It's Wild how bad it runs"". 
+Truly legendary gameplay with a really good environment held down by the genuinely atrocious optimization at play here. Worth getting either way but try to get it on sale.",0.7441878318786621,213,True
+2246340,218451439,76561198194186763,After a year it's still crashing randomly on AMD card. It's infuriating especially if it happened at last minute of the hunt.,0.7439581751823425,359,False
+2246340,229025805,76561198056701894,Played on xbox originally because of all the performance issues at launch but just recently picked it up for pc and it runs like a dream now even on my older pc. Would recommend this to any monster hunter fan,0.743552029132843,72,True
+2246340,195803752,76561198052285284,"Capcom released another unfinished  mess of a game, this time above msrp, and obviously withheld finished content to pad their release schedule. 
+
+I have a few hours, many of which are falling asleep with the game on or afk hanging out with my wife, and I will likely keep up with events, but won't be grinding this like I did with older titles. I would advise you wait until they fix things to purchase. There are other games and companies more deserving of your time and money. 
+
+The good: 
+-Focus Mode is amazing (hot take apparently)
+-Perfect guards
+-Offset (counter) attacks
+-Weapon designs better than World -Being able to use the slinger with weapon drawn
+-Layered Armor system is an improvement over older titles
+-Capcom seems to be slowly fixing some things based on community feedback
+
+The bad: 
+-Performance has only gotten worse since release (4090fe)
+-Split skills between weapons and armor make little sense and limits build diversity 
+-Old existing skills are now set and group bonuses (diversion, resuscitate, bubbly dance)
+-Bowguns lost most of their identity and associated skills (recoil, reload, deviation, free shot), mods, and today they nerfed elemental ammo too
+-Several skills are bugged or so terrible they're not worth using (Rapid Morph, Crit Element, Poison Up, Flayer)
+- Basic monsters need more HP, most hunts last 5-10 minutes
+-Talismans use limited event rewards for upgrades (defense and latent power need AT Rey, Maximum Might   needs the Akuma event Ticket)
+-The Cross over event with SF is garbage and most of the content is locked behind paid dlc and only for NPCs, the usable moves are buggy
+-The UI is probably the worst it's been in recent generations
+-Multiplayer with friends is not intuitive, and there's three different avenues for it
+-The Seikret (mount) disconnects you from the world, there's almost no need to explore
+-The Seikret is often a get out of jail free card, allowing you to heal and sharpen in safety and saving you from death
+-Still no place for endemic life and it's useless
+-No Cat Chefs
+-Data miners confirmed full monsters with armor sets were present in the beta before release and were saved until TU2
+-Can't easily play through the story in multiplayer with friends
+-Lowest amount of monsters on release in the series 
+-Denuvo
+-Most of the innate skills for crafted weapons are useless for their weapon type (crit draw lance lmao)
+-2 maps are essentially 90% hallway (cliffs, wyveria)
+-Still no body sliders, no height sliders, armor models are inconsistent, still charging for changing your character
+-Haven't figured out elemental hitzone balance
+-Mantles resetting on a global timer instead of per mission
+-No Layered weapons on release 
+-Has bad aerial hitboxes, still some silly/bad hitboxes (arkvelds tail hitting you while you're in front of its face, Balahara tail drill hitting you while it's attacking away)
+-The ""Open World"" doesn't accomplish a goal
+-Skills still have vague descriptions
+-The seasons aren't visually interesting, and 2/3 of them mostly make the world look washed out.",0.7935141324996948,1211,False
+2246340,199219055,76561198820665169,"[ important note that this is coming from someone who has a pretty beefy pc. i can run the game relatively smoothly but ive still encountered some jumps and visual bugs. ]
+
+I came to this game after beating MH:WI and MHR:S to the very end, and reaching High Rank in Generations Ultimate, and I stayed completely blind to the story and new monsters other than what was in the trailers, and this game was an absolute blast to play. All the weapons feel extremely fun to play, the new monsters look and feel phenominal, and while I didn't struggle for a majority of it, that was because I had experience of the game, not because of its difficulty. The story is very captivating, and I am extremely excited for TU3 and TU4 to see what they bring to the table, because the last two TU's have been so fun to play in. The old monster selection was really fun, the new skills and armor gimmicks are cool, and I've been having a blast trying to get all the layered armor/weapons. I haven't 100%'d the game, but that's a personal skill issue from me for not cheesing crowns. 
+
+I'm well aware that this isn't a completely perfect game hence all the negative reviews, and I agree with a LOT of the points. The game was HARD to run on launch and I feel as if expectations were not entirely met with the 'open-world' aspects that were shown to us. Difficulty I don't really agree with much because it's subjective [ and hey, kudos to lagi for absolutely kicking my ass, ] and the content we're actually getting at a surprisingly good pace. I do wish that there was a lot more actual exploration in the game that wasn't following the NPC for a good three minutes, but the hunts themselves make up for that time in my opinion. ESPECIALLY the apex monsters of each region.  
+
+But at the same time, I feel like the overwhelmingly negative bombing is not really necessary, because this is the SAME thing that happened with base world. Horribly ran on launch, barely got content [ got actual content SLOWER than wilds, actually. ] and was told about how easy it was. Do I think that this means you can't dislike the game? No. I think it's not very good practice to have a game run bad on launch and just expect people to like it as soon as you build it up. And maybe the very fast, 'modernized' gameplay of it doesn't appeal to you, and that's fine too! I am one of the people who wishes we could be able to find the monster again, but I don't let that drag me down too much.
+
+TL:DR. The game itself is absolutely great, and I think that it's going to go through a similar cycle with World where it's just going to go up from here. I do sincerely hope that Capcom can finally crack down on the preformance so as many people as possible get to enjoy this game. If you don't like the game, that's completely fine. But don't be a hateful person about it.",0.7426177859306335,251,True
+2246340,188939251,76561198055342556,"AMD BEWARE
+
+I generally dislike leaving negative reviews when a game just released because I'm afraid it'll seem like jumping on the ""hate the popular thing"" bandwagon etc.
+However.
+The perfomances are one thing I can ignore, it doesn't run good but it runs well enough on my machine, I can wait for updates for that
+
+What I cannot ignore however is the inability of the game working on top of the line AMD GPUs, I have a 7900XT and the game crashed on startup, until I figured I had to turn on WINDOWS 7/8 COMPATIBILITY MODE IN THE EXECUTABLE PRORIETIES 
+
+And that's where the huge problem lies, if you turn on Comp mode, half of the textures shit themselves, I'm not talking about a lttle artifact here and there, I'm talking about a MASSIVE artifact covering the ENTIRE screen as soon as there's a rock in frame, this is unnacceptable especially for the flagship product of a company 
+And you cannot turn it off once you booted, you'd think maybe the issue was shaders compiling, or something
+But no.
+Turning off comp mode brings the game back to crash on startup
+
+I still put up with it considering it's either that or no monstie at all, but the review is a solid negative and will stay as is until the problem get hotfixed.
+
+AMD BEWARE unless you're ready to have your eyes bleed.
+For now at least.
+
+Those armour sets are banging though.",0.7423989176750183,299,False
+2246340,191103444,76561198062705813,"Good game.
+Runs like dog-water. 
+Not enough content atm. More will be added later on.
+Wait for a sale or wait for second expansion + sale on base game.",0.7417696118354797,34,True
+2246340,205680868,76561198393830245,"I entered the Monster Hunter franchise through Monster Hunter: World and its Iceborne DLC, and ever since then, I’ve become a huge fan of the series. After spending significant time with Monster Hunter Wilds, I’d like to share my honest impressions.
+
+1. Performance
+
+First things first: I play on an RTX 4070 Ti Super. I can absolutely understand the frustration many players feel when the game performs poorly—it can quickly kill the excitement. At launch, even for me, it was difficult to play without encountering polygonal monsters and broken character models. It was funny to look at, but certainly not acceptable for the price of a AAA title.
+
+That said, I do see how much work Capcom is putting into the game. Their commitment to fixing issues and actively improving the experience is noticeable and very much appreciated. I wouldn’t go as far as saying that all PCs can now run the game flawlessly, but it’s worth pointing out that Monster Hunter: World faced similar performance issues when it first launched. In that sense, the criticism is fair but not unprecedented.
+
+2. ""Lack of Content"" Criticism
+
+I find the accusation that Wilds lacks content to be exaggerated. Personally, I’ve invested countless hours into World, and even now its endgame content feels limited. By contrast, Wilds already features two significant systems—Artian and Talismans—that meaningfully expand gameplay.
+
+When comparing base game content, both World and Wilds are roughly on par. Yes, World has the Iceborne expansion and thus a larger monster roster overall, but if we compare major update cycles, Wilds actually comes out ahead:
+
+Wilds added Mizutsune, Lagiacrus, Omega Planetes, and Seregios in just three updates.
+
+In the same timeframe, World only added Deviljho, Kulve Taroth, and Lunastra—without introducing a proper endgame loop.
+
+This perspective often gets overlooked in negative reviews.
+
+3. My Personal Opinion
+
+For me, Monster Hunter Wilds has its own unique charm. I genuinely enjoy it, both in terms of gameplay and story, and I think the content is engaging and well-paced. It is disappointing to see so many negative Steam reviews—while I understand some of the complaints, I cannot fully agree with them.
+
+Capcom still has work to do, especially regarding performance optimization, but overall, I believe Wilds is a solid and enjoyable entry in the franchise. As a longtime fan, I see its potential and am optimistic about its future.",0.7343254685401917,195,True
+2246340,190858070,76561198164745188,"It's a fun game. The combat feels nice. The new monster designs are all awesome, and the game's open world has serious potential.
+
+But the frog has been boiled. What started as ""Quality of Life"" changes in World have slowly morphed the series into something totally different than what I think of when I think of Monster Hunter. So many legacy mechanics feel like they're in the game due to obligation. The Seikret trivializes mid-hunt maintenance, I had basically unlimited Mega Potions, Barrel Bombs, anything I needed, and without the need to gather materials or craft much. No more tracking. Wounding makes Hit-Zones irrelevant. The game does everything in it's power to push you back into combat,  which is also easier than it's ever been and is no longer about thoughtful positioning and commitment. Just sit on your Seikret and let it autopilot you to your destination. I did not fail a single quest my entire play-through. I had fun, but I am sad to see the series give up on it's own identity.",0.7324733138084412,1111,False
+2246340,233321515,76561199139197756,"Literally my favorite game to play, something about this game idk man, just perfect to me. Put on spotify while playing and boom your night is literally set",0.7314979434013367,39,True
+2246340,188931697,76561198184516841,"Let me add to the pile. 
+Game is Monster Hunter. Can't argue with that and it plays like game from the series but..
+
+Having a NEW release looking worse than it's 2018 Worlds and not being able to run smoothly - developers deserve a long wooden log shoved right in their greedy arseholes. having 3080 with barely 60 fps in a desert landscape while Worlds offered so much in just first 5 minutes needing less and looking better says a lot of today's state of the industry. Dragon's Dogma incident repeated. You do not deserve the love from the MH community Capcom. You do not.
+
+
+After more hours i keep my review negative as people think it would change anything. No. Game looks like ass, runs like ass. Shimmer cause by dlss, frame generation on ground, can't run in native resolution without AI upscalers. Even medium preset decided for You that you are not playing native, no no. You gotta have performance FSR or DLSS and frame generation on.",0.7312800884246826,98,False

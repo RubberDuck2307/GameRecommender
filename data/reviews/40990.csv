@@ -1,0 +1,872 @@
+appid,recommendationid,author_id,review,weighted_vote_score,votes_up,voted_up
+40990,5631355,76561198053225183,"Mafia brings back good memories of my early childhood. I'd watch my dad play it all the time in '02 and '03 when it first came out around then. This game has an absolute AMAZING storyline and is the greatest 1930's era game I know. Its a bit old, yes I know, but I promise you that you will NOT regret buying it.
+
+EDIT 9/2022 - Wow, it was free! pog
+
+Thank you all very much all for your comments, awards and positive messages. I have been reading them over the years.",0.9748495817184448,2337,True
+40990,37272093,76561198036418430,"Nothing to complain about Mafia, this is objectively a masterpiece that came out in 2002. The game tells the story about a Taxi Driver, Tommy Angelo. Tommy, while working at night in the 1930s, stumbled across 2 gangsters from the Salieri's Family. Since that night, his life changed entirely.
+
+[h1]Sound and Music:[/h1]
+While playing Mafia, the player will completely dive in the atmosphere of the game: perfect sound and music experience (I'll talk more technically about sounds and music later in this review). I highly recommend playing the game with Stereo Headphones. Just as an example, during the ""A Trip To The Country"" mission, that thunderstorm effect really makes you feel like you're in the game during the whole chapter.
+
+[h1]Story, dialogues, cutscenes and stuff:[/h1]
+Great Story. The story is directly connected with Mafia 2's Story: a very important event that happens in Mafia 2 is part of Mafia 1, so I personally suggest playing both games (Mafia 1, then Mafia 2). The plot is interesting: A taxi driver, Tommy Angelo, will make an encounter that will change his life forever. I won't spoil anything because I'd really like you to play the game and ""discover"" the plot by yourself. Great dubbing and great acting (at least in Italy) that will really make the game look like a movie.
+
+[h1]The importance of the Story:[/h1]
+This game is not useless: it will also teach you the importance of life and the values of life, such as honor and friendship, and teach you the importance of making the right choices in life. This game will give you something to think about in your brain, I can guarantee.
+
+[h1]Story Linearity:[/h1]
+This is an interesting thing of Mafia: Some missions (I think 2 missions) have 2 possible endings. Also, you have more than 1 possible way to complete some missions. Also, there's the possibility that some missions will have optional objectives (usually Luca Bertone's secondary missions) and hidden secrets that will change the way to progress in the mission or give you hidden stuff.
+
+[h1]Gameplay Linearity:[/h1]
+This is another interesting stuff in Mafia: Some parts of the city are ""meant to work that way"", I'll explain it better: for example, when you start a specific mission, you'll likely encounter ""that police car in that defined place"" everytime. This is given by the power of the LS3D engine (Mafia's engine): developers had the power to manipulate the random seed in order to always generate the same random traffic combination for a specific mission. If this looks too complicated to you, please look for ""Random Seed"" on Google.
+
+[h1]Gameplay:[/h1]
+The gameplay feels really good. Controls are oldschool and working really well if the game is played with Keyboard and Mouse (hey, this is how it's mean to be played, honestly, since you need to aim and stuff). I personally don't like some stuff in the shooting system, ie. you don't instantly shoot with your weapon and some NPCs shoot a countless amount of bullets if you hit them. The game still feels easy overall, nothing that a smart woman like Melody can't handle!
+
+[h1]Graphics and Atmosphere:[/h1]
+I've merged Graphics and Atmosphere here for a simple reason: the game is from 2002, which means that the graphics quality of Mafia won't amaze you that much, there are no excuses (I'll talk about graphics later in this review). Though, personally, even though I must admit that the graphics quality isn't that good for today's standards, I still feel the graphics and the atmosphere great and I still dive into the game whenever I play it.
+
+[h1]Game Bugs:[/h1]
+No gamebreaking bugs here. There are some minor issues not even worth mentioning. There's a very rare bug in the ""Just for Relaxation"" chapter in which the truck at the port may get stuck instead of driving out, you can fix it by just reloading the last savegame (the last savegame will spawn you right there, so there's no problem at all).
+
+[h1]PC Exclusive: Free Ride Extreme:[/h1]
+This is a PC Exclusive special gamemode. I won't spoil what it is, I'll just tell you that you'll spend a lot of time in it.
+
+[h1]Problems, Solutions and Suggestions:[/h1]
+Well, having Mafia on Steam is a great thing, but, sometimes, things aren't perfect.
+[b]Missing music:[/b]
+In the Steam version, some music is missing due to copyright issues. There's a fully-working community patch that can handle this problem, please search for it in the Steam Guides.
+[b]Graphics Quality:[/b]
+Make sure to run the configuration before booting up Mafia! Make sure to enable TrueColor textures and disable texture compression, also set everything on maximum quality.
+[b]Audio bugs/issues:[/b]
+The game expects very old audio hardware, thus enabling audio acceleration (such as EAX) will produce unexpected results. Make sure to enable software audio processing in the initial configuration tool and to disable the EAX feature (which is not required by the way, since software audio processing will process 3D audio by CPU). If you're still experiencing issues, please try changing your Audio Card frequency to 16-bit 44100 Hz or 16-bit 48000 Hz. 24-bit shouldn't affect anything, but give it a shot to change it if you're not sure.
+[b]Graphics Glitches:[/b]
+There are graphics glitches in shadows and reflections. This is easily fixable by installing a mod named ""DX8 to DX9 Convertor"", provided by the ENB Series author: there's a specific version for Mafia, the v0.0014. Install that by copying d3d8.dll and enbconvertor.ini to <Mafia install directory>\Mafia. Edit enbconvertor.ini so you don't load any proxy library (EnableProxyLibrary=0).
+[b]Video Quality settings not saving:[/b]
+Video Quality settings in the in-game menu will revert to default values once you quit the game. You need to go to Video Settings and set them to maximum everytime you boot the game, don't forget to do that!
+[b]No Anisotropic filtering and crappy Antialiasing:[/b]
+Use your NVIDIA/AMD/Intel Control Panel in order to improve application's antialiasing settings and force anisotropic filtering. This is really useful to improve graphics quality and fix graphics glitches caused by the in-game antialiasing!
+
+[h1]Conclusion:[/h1]
+In conclusion, you should really get this game: buy it and finish it. Don't skip cutscenes as they're really important in this game. You won't regret.",0.9406026005744934,868,True
+40990,77364592,76561198120469552,"[h1]🔹Positive Aspects:[/h1]
+[list]
+[*]HIghly detailed driving mechanics for the time.
+
+[*]Incredible visuals and face design/ Character design.
+
+[*]Timeless mission design.
+
+[*]Soundtrack and atmosphere.
+
+[/list]
+
+[h1]🔸Negative Aspects:[/h1]
+[list]
+[*]Draw distance.
+
+[*]Slow pace due to the timeline.
+[/list]
+
+[h1]▶️Introduction[/h1]
+As usual after my Mafia Definitive Edition review I would follow that up with the detailed review of the 2002 released game. Mafia was developed by 2K Czech and published by 2K. The game is a third person open world crime game taking place in a city called Lost Heaven which isn’t a real city but it does take many ideas of 1930s Chicago. As the name suggests, the main plot in the game is being part of the Mafia back in the 1930s.
+
+Release Date : 28th August 2002
+
+Last known update: Some months ago due to the licensed music.
+
+[h1]🎩Small-talk:[/h1]
+[i]How does Mafia 2002 play out in 2020?[/i]
+
+[b]Smalltalk[/b]
+Now as a Mafia fanboy I like to revisit one of my all-time favorite games from time to time and let me tell you that this masterpiece still feels somewhat modern despite being 18 years old. Sure the game is showing its age but compared to other all time great games it still feels modern, compare it to Deus Ex or perhaps GTA 3? Both games feel dated now despite being as old as Mafia, that only says a lot about the quality of this game.
+
+[h1]🎮Gameplay:[/h1]
+
+[b]Movement and shooting mechanics:[/b]
+In this section we will see the biggest hint that this game came out in 2002, the movement is completely wonky and unresponsive. First of all you cannot even move your camera, this was a common design decision for 3rd person games of that era. So having a fixed viewing angle is a little annoying but another sight problem is the fact that you cannot see your players legs as the camera view displayer everything over his back. The actual movement is pretty basic as well but a lot slower compared to GTA games, that throws me to my biggest reasoning, the slow pace is the only major reason why as to why this game feels just a little old, sprinting wasn’t an option, fast vehicles weren’t either and just overall the game felt as if it was in slow-mo. Shooting weapons on the other hand felt rewarding, keep in mind you couldn’t control the recoil of the Tommy Gun as the game was designed like that so you would have to give some effort as far as recoil control goes. Mafia is one of the very few games that feel extremely rewarding yet challenging at the same time. 
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=1330216886
+
+[b]Driving:[/b]
+Driving is by many considered as the weak point or Achilles heel of this masterpiece of a game, in my opinion driving is one of the many mechanics that give so much character to this game in the way it plays out. Vehicles do feel slow which by a lot of people is a negative but in all honesty, it is time correct and every car from the 1930s was extremely slow compared to what we got today, many people compare this game to the driving in GTA 3 or Vice City but people fail to realise that one game takes place in the 30s while the others in the 80s-90s-00s. Mafia 1 has such great driving details like the taillights, the wobble the suspensions make after suddenly turning, the weight pushing on the left side after doing a right hand turn, these are small details that make this game such a legend. Another misconception is the fact that the Formula 1 mission is basically a bad mission because of these mechanics, but once again I totally disagree, this is what gives purpose for this mission, not anybody can drive a race car, that’s just what it is, it feels rewarding to win against some 2002 racing game AI, impressive, isn’t it?
+
+[b]Other aspects:[/b]
+[*]City trains are totally usable and actually somewhat cool to experience.
+
+[*]After completing the story you can play “Free Ride” which has many more missions for you.
+
+[*]The progress bar while picklocking a vehicle is a very nice addition and I do wonder why this did not reappear in the Definitive Edition.
+[/list]
+
+[h1]🎭Story:[/h1]
+Be aware, spoilers ahead!
+ 
+Nothing much was changed in the Definitive Edition, actually more things got included. I will link the Mafia Story plus the additions here. [url=https://docs.google.com/document/d/1ylHkYwdoOIwrewqbHTjLHDzVYt5kiehqoCT9xPX8OXg/edit?usp=sharing]Complete Mafia 1 story[/url]
+
+Now what additions did we get, as far as I remember, Sam was the guy that ordered Tommy to save his mistress/ Lover in the “Kill the Hotel manager” mission. In the 2002 release it was actually Tommy deciding to let her live.
+Another addition was with Tommy’s wife Sarah, in the original game you had some very minor encounters with her leaving you to think that they were married while the Remake shows clear hints that this is a family.
+Paulie also gets more depth as before the Bank Heist he explains to Tommy that he doesn’t want to lose his life without finding love or having a normal job, while in the original game you basically hear him out explaining how everything is going to go down.
+
+Nearly a great story, sadly some holes appear.
+
+[h1]🌇Graphics / Audio:[/h1]
+For a 2002 game I have to admit that the face designs do look impressive.
+
+[list] [*] [b]Graphics:[/b]
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=1783127616
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=1785675733
+[/list]
+[*] [b]Audio / Soundtrack:[/b]
+Soundtrack was amazing as every Mafia game, voice acting on the other hand isn’t the greatest as the characters sound a little flat most of the time but I can understand that in 2002 we had different standards.
+[/list]
+
+[h1]⚙️Performance:[/h1]                    
+
+[b]In Game:[/b]
+
+[*]AMD Ryzen 5 3600 X, 32GB Ram, Nvidia RTX 2070 Super:
+I was obviously running this game on maxed out settings on 1080 resolution at 60+fps.             
+[/list]
+
+[*] [b]Bugs / Glitches / Crashes:[/b]
+In 25 hours of being a Taxi driver I had no crashes, bugs or any gamebreaking glitches at all which is once again rare for such an old game.
+[/list]
+
+[h1]⚖️Conclusion:[/h1]
+Mafia (2002) is in my opinion a masterpiece that can still be enjoyed today with any time of device, there are basically no major red flags to a magnificent game like this one.
+
+[h1]📉Overall rating: 95/ 100 [/h1]
+
+[i]Date of the Review:11.10.2020[/i]",0.8560605049133301,190,True
+40990,69992667,76561198142247081,"Mafia has one of the finest storyline in the history of gaming.
+I'm glad this game is getting a remake!",0.8201093077659607,98,True
+40990,37190920,76561198025445358,"This is the return of the legend! When I bought this game in 2010 and played it all the time, I was happy that I had it) But my friends did not have the opportunity to get this game, since it was removed from the Steam Store, and now it's back !! We will get to Chicago and feel its spirit, where the smell of Cuban cigars flies in the air along with gunpowder and a sip of whiskey! Yes, this is the time when 9 grams of lead solve your problems, and all this is under the charming music that will forever remain in your heart, like this game! If you, like me, feel this taste and want more, then I advise you to play Mafia II. It's a different world with the same flavor, but with better graphics and game play) https://store.steampowered.com/app/1030830/Mafia_II_Definitive_Edition/ 
+Do not forget that these are 2 different worlds, but in each of them you will feel the taste of life!",0.8070809245109558,251,True
+40990,40702174,76561198039580049,"Back when this game first came out the movie-like atmosphere blew me away! I had an amazing gaming experience. Even now, after all these years, this is still the best game of its genre. An almost perfect game which is fun to play, has an excellent plot, very good graphics (for its time) and great sound and music. Games like this will never be made again. FYI, for some reason this game is region restricted (banned) in China. http://steamcommunity.com/sharedfiles/filedetails/?id=1309880902 http://steamcommunity.com/sharedfiles/filedetails/?id=1306664402",0.7224193215370178,42,True
+40990,43954944,76561197988140016,"This game is one of the best game ever.
+But seriously, what's the hell is wrong with Steam ? Releasing the same game without the original soundtrack ?? So we can enjoy in the first dialogue with everyone chewing in the restaurant in a weird silence ? Being in the street without Django Reinhardt ? What is wrong with you ? You should have at least noticed it with enormous character before someone can purchase the game. ""Sorry, we don't have enough money to pay the music, but we are greedy. Enjoy the game in a realistic silence""
+And for those who think it is okay, as you can put the music back manually yourself from internet, you're just a bunch of idiots. It's like if you were ordering a cheese pizza and got one without cheese, but wouldn't mind as you have your own cheese at home.
+So f*** you Steam !",0.703882098197937,197,False
+40990,51433121,76561198120342987,"Beware everyone!!!
+
+This game was part of my childhood. No, it was literally my childhood. But what they have done with steam version is unacceptable. They decided to remove part of original soundtrack for ""copyright reasons"". It's like looking at a painting, on a piece of art, with several colors removed. 
+
+If you want to revisit your childhood and replay this game, do yourself a favor and download some torrent of original game, not this cropped version.
+",0.6907188892364502,47,False
+40990,69078803,76561198155579127,"DON'T BUY IT HERE.  The game you buy here is not complete. The music, which is a huge part of the experience is missing if you buy it here and all the guides you will find will tell you how to pirate the music and put it back into the game, but whats the point in buying it then? The game itself is of course one of the best games ever, but I was so disappointed after realising what have I paid for :(",0.6750807166099548,44,False
+40990,53972352,76561198262137331,A great game with an amazing story that tells you about nobody that became someone (i wont spoil how and so if you didnt play it ..i will let you discover ..) ...game might also give you a little faith in yourself as if you play story you will see how you can never predict what God has in store for you (as He have plans for everyone)...so like i said a great game that is really worth to play especially if you played mafia 2 or 3 first...as all these might seems different games but they are tied in some ways to each other ....and is also cool to learn and understand about how mafia act and resolve things ...have fun and enjoy !!,0.6689165234565735,19,True
+40990,73343004,76561198062948536,"Aged like wine.
+
+Unlike almost every crime game that you can pick up and play, there is a complete harmony of subject matter that never sacrifices it’s message and grounded tone for sake of cheap enjoyment. Almost 18 years since it’s release, it’s writing, palpable atmosphere, harsh difficulty and setting are still as enjoyable and easy to love to me, a complete newcomer, to anyone who has played it before.
+
+Calling it a genre masterpiece is being incredibly modest.
+
+If all that doesnt tell you how finely executed MAFIA is, I don’t know what will.",0.7026102542877197,20,True
+40990,105799160,76561198090598002,"The story ain't that bad. The only grip is how they go nowhere with the plot surrounding you're family. They're mentioned twice and you only ever see your wife once (I don't even remember her name.)
+
+The gameplay surrounding this story is absolute dogshit. You spend 80% of the game driving through an empty, ugly city at 40mph, only able to see 20 feet in front of you. The gunplay is clunky and enemies can drain your health nearly instantly. By the halfway point they give every enemy a shotgun. You have to pull your hairs out to get through this game. I could have beaten this game in 10 hours if I didn't have to reload a save every 10 minutes.
+
+With the release of the definitive edition (I've played a few hours of already) There's no reason to return to this game other than nostalgia.
+
+TLDR: Great story. Terrible gameplay. Play the definitive edition instead.",0.6401547789573669,18,False
+40990,37187595,76561197986511953,"Mafia is a 2002 open world action game, one of the earliest in the genre. Though it came out after Grand Theft Auto 3 and was frequently compared to it, it really set out to do something very different and deliver a very unique experience for the time.
+
+Mafia takes place in the 1930s in a city called Lost Heaven. The storyline is equal parts the Godfather and Goodfellas. It's extremely long and extremely challenging, a few missions can take a dozen attempts to complete. This is probably the weakest part of the game, however the story is fairly good and keeps your attention so it's worth getting through to see the end.
+
+The developers went to great effort to try and replicate the time period in almost a sim-like way. The police will stop you for speeding or running red lights. Cars accelerate very slowly and spin out very easily, it's often hard for one to even clear a hill. They went to great pains to reconstruct period friendly cars from the era and this really shows in the game. This was a decade prior to LA Noire doing much the same thing. Guns also have lots of recoil and the main automatic weapon you have access to controls like a rabid animal when you try and spray it. 
+
+This is what makes Mafia very unique to me as a game. Most modern games that are set in different historical eras just treat it like an aesthetic or a skin. Mafia tries to be accurate even if it means it needs to inconveniance the player. And I wish more games tried to be more like Mafia and less like Grand Theft Auto 3.
+http://steamcommunity.com/sharedfiles/filedetails/?id=1210737989",0.7344456911087036,76,True
+40990,200835817,76561197971128865,"Mafia probably had the misfortune of being released after Grand Theft Auto III, which meant that the game was inevitably compared to the cult sandbox game. But there is actually something else fundamental behind Mafia. it is more of a linear, story driven experience that trades chaotic sandbox freedom for narrative structure, atmosphere and immersion.
+
+The story is arguably the centerpiece of the game. It spans several years and is told through a series of flashbacks as the main character, Tommy Angelo, recounts his life in the mafia family to a detective. This framing device helps the game cover a long stretch of time in a believable and paced way, with time jumps and changes in the city supporting the feeling of progression. Tommy is a more believable character: he's not a criminal by nature, but a regular taxi driver who is pulled into the world of organized crime by circumstance. The early missions highlight this, showing his everyday life and how it gradually falls apart, leaving him little choice but to join the Salieri family. It's a grounded and effective approach that makes the character feel more human and his decisions more understandable.
+
+Despite having a large map, Mafia doesn't offer much in terms of free exploration or sandbox style content. Missions are tightly structured and follow a clear path from one point to the next, with little reason to stray off the beaten track. This becomes noticeable after a while: where in GTA III I could recall the layout of the city from memory because of all the time spent roaming around, Lost Heaven remained a vague collection of roads and landmarks. I mostly followed the mission markers, rarely wandering off. And yet, the city still feels like a real place.
+
+Lost Heaven is carefully designed to reflect a 1930s American metropolis, complete with appropriate architecture, music, and everyday life. People go about their routines. Sometimes you see people park their cars and go for a walk. The city has also less forgiving rules: speed limits are enforced, cars need fuel, and the police will intervene if you break traffic laws or cause trouble. The presence of a larger countryside area, including places like a dam that you never actually visit in any mission, reinforces the idea that you're just one part of a bigger world. These details ground the experience in a way few games of its time attempted.
+
+One of the most interesting aspects of the setting is how it evolves. Since the story takes place over several years, the city changes too. Construction sites you drive past in early missions may be completed later on. The cars in traffic are gradually replaced by newer models. These small details subtly reinforce the passage of time and give a sense of life beyond the immediate plot.
+
+That being said, driving in Mafia is often not very exciting. The vehicles handle slowly and awkwardly, likely a result of trying to accurately depict the clunky cars of the era. This realism may not appeal to everyone, but it does serve the immersion. You're not expected to speed around corners or escape the police with ease. In fact, reckless driving will almost certainly get you arrested or worse. Where driving in a GTA title is part of the fun, here it's more of a controlled and cautious activity. It may not be thrilling, but it fits the tone of the game.
+
+Gunfights in Mafia are similarly grounded. A few bullets can take you down, forcing you to approach shootouts carefully and tactically. The game lacks a formal cover system, but you can crouch and hide behind objects. Enemy AI isn't smart, but they tend to have good aim, which makes blind rushing a bad idea. You're limited in the number of weapons you can carry, with one larger firearm and a couple of pistols, which again contributes to the realism. The selection of weapons is decent, and though grenades and molotovs exist, they're rarely used and mostly forgettable. Overall, combat is serviceable but often frustrating, especially when paired with trial and error. It feels like the weakest part of the game and stands in contrast to the careful immersion established elsewhere. Still, it manages to offer some variety in scenarios and doesn't completely fall apart.
+
+Where Mafia really shines is in its attention to small details. You can shoot out car tires and windows, and bullet holes remain visible on vehicles. Fuel leaks cause your gas to run out faster. Civilians may sometimes pick up guns from fallen enemies and fight back.
+
+There is a freeride mode, but without missions or real objectives, it quickly feels empty. The city is visually detailed, but outside of the main story, there's little to engage with. The ""Freeride Extreme"" mode offers absurd challenges and unlocks fantasy style cars, some of which have enhanced performance. But even these can feel odd, as the game's driving mechanics were never built to support high speed vehicles.
+
+When it was released, Mafia didn't get universal praise. It was often dismissed as just another GTA clone, judged by its surface similarities rather than its actual goals. But in reality, it shares more with simulation games. The slow driving, the deadly shootouts, the limited freedom all of it is part of a deliberate illusion. Mafia isn't trying about playground of chaos but about a immersive and realistic story.
+
+It's not perfect, so don't expect an open world with lots of content or entertaining activities. The gameplay also sucks at some points. But the narrative and story are great.",0.6296296119689941,8,True
+40990,121582725,76561198013158726,To all newcomers who picked up the game for free this week and are playing for the first time; try downloading the Community Modpack https://www.moddb.com/mods/community-modpack which provides every essential patch and a helpful installer that allows you to choose which fixes you want to be applied. Just install into your game directory and you're good to go!,0.6273146867752075,10,True
+40990,103671061,76561199018776484,"When it comes to this masterpiece, all you can talk and remember is mostly awesome music,  rich gameplay, loveable characters, difficult objectives and most important one 'Your childhood' . this game was my first ever played computer game. I was about 13-14 (now 26). it is still my best memory of video games along with Max Payne 2 . actually I played it with Farsi voiceovers and in the end of the game I cried for like 1h . it was awesome . thank you Illusion. Thank you Steam. :x :x",0.6241208910942078,11,True
+40990,198008737,76561198091982903,"EN \ RU
+ 
+WARNING - 2K GAMES Spying you
+
+Take-Two and 2K games have updated all their games Terms of Service, turning this game as well as all of their other games into literal spyware. including Borderlands, Bioshock, Mafia, Civilization, X-Com and others.
+
+Important information in the Terms of Service:
+• All information about you, including personal data (name, address, phone numbers, transactions, software used on the PC and other goodies, including porn that you watch), is collected and then leaked to potential advertisers
+• Banned for mods
+• Banned for cheats and exploits
+• Banned for VPN
+• Banned for virtual machines
+• Ads can be shown in games, as if it were a free mobile milking machine
+• You automatically refuse to file a lawsuit when you launch their games
+• And finally: they reserve the right to change this Agreement in whole or in part at any time
+
+Should i buy games from TakeTwo? of course NOT
+
+RU\
+
+ВНИМАНИЕ - 2K GAMES Шпионит за вами
+
+Take-Two и 2K games обновили лицензионные соглашения на все свои игры, включая бордерлендс, биошок, мафию, цивилизацию, икс ком и другие.
+
+Важная информация в Условиях обслуживания:
+• О вас собирается вся инфа, включая персональные данные (имя, адрес, телефонные номера, транзакции, используемое на пк по и прочие прелести, включая порно, которое вы смотрите), после чего сливается потенциальным рекламодателям
+• За моды бан
+• За читы и эксплойты бан
+• За впн бан
+• За виртуальную машину бан
+• В играх могут показывать рекламные ролики, будто это бесплатная мобильная доилка
+• Вы на автомате отказываетесь от подачи иска в суд при запуске их игр
+• И последнее: они оставляют за собой право изменять это Соглашение полностью или частично в любое время
+
+Буду ли я покупать игры от TakeTwo? Конечно НЕТ",0.6237941980361938,10,False
+40990,70339338,76561198322614620,"a technical and graphical marvel for it's time, it did things GTA didn't do until 6 years later, and some things that've still never been seen again. I made a series of videos listing such details: https://youtu.be/CTIcqRebJek
+
+the story/plot is also excellent and puts you in a variety of situations.
+
+the gameplay is an acquired taste but once you do it is so satisfying, even just to take a leisurely drive around the city is a special experience, cops can be dealt with swiftly as well once you get the hang of it. 
+
+my favorite game and essential for fans of the genre.",0.6126019954681396,6,True
+40990,48022296,76561198057786313,"If you want to buy this game, buy it for its storyline, just like I did. Because, on almost every other aspect, it has many flaws since it is a very old game. Especially the controls are very clunky and its biggest flaw! Anyway, I loved it just because of its storyline and I feel that its purchase was worth it.",0.6123744249343872,7,True
+40990,95722105,76561198099731325,"Mafia used to be my favourite game in 2006. I decided to replay Mafia a couple of days ago as it'd been 15 years since I last (and first) played it. The game hasn't aged considerably and to my mind creates the same distinct impression as it did in the past. I enjoyed the playthrough again. 
+
+The major pros of the game, apart from the plot, are the old school music, authentic cars and characters' personalities. Lonnie Johnson, The Mills Brothers, Django Reinhardt have been some of my favourite musicians for many years, and it was Mafia that introduced me to them. 
+
+The major cons of the game are the character controls and in-game camera. Aiming, shooting and especially fighting are clunky as hell. I wish they had made a first-person view and a dodge system. Free Ride Extreme is also ludicrous and dull. It's just absurd. 
+
+All in all, Mafia manages to retain its tense and gripping atmosphere of the 30s.",0.6097294092178345,6,True
+40990,85977897,76561198049244310,"Classic!!! I used to play Mafia when I was 12 lol!!! Story is rich, the graphics is decent (even though the game is 17 years old). 
+Bear in mind that the steam version does not have the original soundtrack, but don`t worry, it is fixable. You can download the songs and copy them to the folder of the game. (Just make sure to overwrite the folder). 
+Enjoy :)",0.5938509702682495,7,True
+40990,204698875,76561198062506049,"On the positive side, the game delivers a compelling narrative, supported by gorgeous cinematics and an atmospheric soundtrack that nails the mood at every turn. The story moments are memorable, and the presentation does a fantastic job of drawing you into the world. Unfortunately, the actual gameplay doesn’t quite live up to that standard. The on-foot controls feel clunky and unresponsive, making basic movement and combat more of a chore than they should be. This is compounded by frustrating gameplay elements poorly designed encounters, awkward mechanics, and pacing issues that often break immersion. The result is a constant tug-of-war between moments of brilliance and moments of irritation: a game that shines when it leans into its story and atmosphere but stumbles whenever it asks you to take direct control.",0.5935383439064026,5,True
+40990,36683281,76561198024812661,"There are some things from my childhood that I will never get back. Fortunately, Mafia: The City of Lost Heaven is not one of them. Thank you for bringing it back to Steam.
+
+This masterpiece hardly needs an introduction. All I can say is that this is the game of my life. Mafia: The City of Lost Heaven is the game that started it all for me, and I can honestly say it changed my life.
+
+It has, in my opinion, the best story ever told in a video game. Yes, it was released in 2002, so don’t expect modern, cutting-edge graphics, but that doesn’t matter. What you get instead is atmosphere, characters, and storytelling that still stand unmatched.
+
+This is a must-play for any gamer, young or old.
+
+PS: After more than 15 years, it seems I still “drive like a maniac.” :)",0.5932251214981079,8,True
+40990,98531747,76561197972273902,"This is one of my all time favourite games, I tell everyone who is interested to play this over the so-called ""Definitive Edition"" which cuts tons of content and makes sacrilegious changes to the narrative and game world. 
+
+However, unfortunately I have had to down-thumb this Steam version as it removes all of the music apart from the orchestra pieces in the menu and some cutscenes. The Music used in the OST (mostly 1930's and 40's 78 RPM's) is one of the most memorable OSTs I have ever experienced in a game and frankly it's not the same without it.
+
+I have had Django Reinhardt's Minor Swing fondly burned into my memory and whenever I hear it I think of this game, and due to anti-consumer red tape and obtuse greedy king cnuts all of the music from the original game is missing in the copy you buy on Steam.
+
+You can however easily restore the music to the game by following [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1207695708]these instructions[/url]
+
+I love the game though I have made my review a negative one as a protest against the removal of music from the game and as a way to inform players how to restore the game to it's original glory.",0.5925009250640869,17,False
+40990,41399122,76561198002728071,"Mafia here some pros
+
+Pros: 
+         - has an Amazing music*
+         - has an Amazing gameplay
+         - has an Amazing story
+         - you can drive a retro F1
+         - free ride [should be a must option in all mafia games] 
+
+*Beware Steam default edition has no music at all. If anyone out there wants to get the game's music just click on the link from my comments below
+
+Now this game is a gem! A pure 10/10",0.6387752890586853,12,True
+40990,168933845,76561198067318954,"I have never played this game before I bought it on Steam, so my review is not tinted by nostalgia. And I must say, what an amazing game from 2002 with a mature and cynical plot. I can't believe it was from 2002. GTA:VC, released in the same year, feels almost cartoonish in comparison.
+
+As a cinema-lover (I am reluctant to call myself a cinephile though, since I don't watch that many films), I am often disappointed with stories in games. The storytelling in this game is a breath of fresh air and one of the best I've seen. The interweaving of past and present, the perfectly animated cutscenes, and the ending! Wow! A lot of games tried to be films, but many failed miserably on that front. (Either the cutscenes were too long, or cringy. You know what I'm talking about.) IMO, Mafia has the perfect balance of gameplay and cutscenes, and for a story-driven game like this, the cutscenes are never too long. 
+
+Admittedly, the gameplay aspect is a bit dated. Without a cover system, you can easily die in gunfights, and replaying the same mission over and over again seems to be a regular occurrence. Worrying about speeding in the city is probably the worst part of the game. But these are minor annoyances in the grand scheme of things.
+
+I wholeheartedly recommend it to people who also enjoy classic crime films like Godfather and Goodfellas. Remember to replace the texture and restore the music (removed due to licensing issue) with mods for full enjoyment.
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1302386558]texture mod[/url]
+[url=https://www.nexusmods.com/mafia/mods/11]music mod[/url]
+
+One last thing to note: Don't expect to get a full-blown sandbox open-world experience from this game. This game is very linear, as its focus is on the plot. My only complaint is that the game isn't long enough, and I was a bit sad to see the story ending so quickly and abruptly for our protagonist.",0.5883086919784546,5,True
+40990,51602536,76561198102348071,"Been wanting to get my hands on this game for a while after I finished Mafia 2. It's a classic masterpiece with a rich story to tell, that features a former cab driver in a fictional American city of Lost Heaven, who got caught up in the criminal era of Mafia gangs in the early 20th century. The gameplay is comparable to the Grand Theft Auto franchise, where you have an ""open-world"" style map for exploration. For a game that game out in the early 2000s, you honestly can't really complain too much about the graphics and somewhat clunky control movements. 
+
+9/10",0.6379449367523193,9,True
+40990,64214039,76561198967888189,"I decided to revive this nostalgia in my memories and go through it for the one last time. Mafia is one of the first games I've ever played and spent a lot of hours in it (even though it wasn't going through missions but just endless cowsheds). I remember the feeling of not being able to believe in the realistic graphics and I thought I was watching a movie (I mean in that age, I wouldn't be fu*ked by those dice heads today), a big surprise and an advantage was also Czech dubbing in game.
+
+Well.. what can it capture - a quality and strong story, nice characters, fairly accurate processing of time, excellent humor in many scenes (Ralph, Paulie..), real problems (run out of gas, little ammunition, you do not hide big weapons under your clothes..) and the only thing the game lacks - the Mafia would definitely need a remake.
+
+I would probably give the full number of points once, but nowadays I have to evaluate more factors that were not so developed once. So.. [b] 70% [/b]",0.636125385761261,8,True
+40990,1445253,76561197993312863,"An outstanding game with believable and likeable characters, a moving story and great gameplay that involves driving and 3rd person shooting. You really learn about the good, and the bad, of being part of the Mafia.",0.6861191987991333,41,True
+40990,102971941,76561199221020176,"I do not recommend this version of the game because of glitches and bugs. 
+
+First there were simple graphical glitches which I was able to fix using community patches and mods, such as shadow flickering and unusually low draw distance. 
+
+However, there is a gameplay-related bug that will sometimes freeze your car in place after you come to a complete stop. At first I thought I did not understand the mechanics of the game, but once it started happening on red lights I realized it is a bug and not me mistakenly putting the car in the wrong gear. 
+
+For all I know, the DirectX 8 converter I used or the Mafia Data Xtractor you need to patch the game may have messed with the game files in some way, but after spending almost 2 hours trying to fix this game, I am just going to opt for a refund. 
+
+I would consider sticking with the game despite the bugs if I could Quick Save/Load at any time, but this game uses a punishing checkpoint system which makes it impossible for me to bear with these problems.
+
+All in all, this just doesn't work well on modern systems, and I recommend not buying this at any price since it is such a hassle.",0.585449755191803,6,False
+40990,115687693,76561198449980360,"''I think it's important to keep a balance in things. Yeah, balance, that's the right word. Cause the guy who wants too much risks losing absolutely everything. Of course, the one who wants too little from life might not get anything at all. ''
+Thomas 'Tommy' Angelo",0.5833333134651184,4,True
+40990,36684850,76561198011168763,A classic.  The only game I'm currently aware of that cops pull you over to talk for a moving violation; rather than opening fire.  So unrealistic...,0.6785168051719666,36,True
+40990,74160031,76561198254090976,"There exists a game in which you gain time instead of losing valuable minutes from your dear life. You will quickly get sucked into a fictional 20's & 30's era metropolitan city of Lost Heaven if you are not familiar with Video games in general. Ambient sounds in both city and countryside region is a masterclass. There are too many successful points of this game which covers up weak points and overwhelm the player in the process. Graphics quality may not seem good in 2020 but you kinda forget about it once you become ONE with Tommy Angelo (the Protagonist). Once you finish the main campaign, there unlocks the Free Ride Extreme mode fully that prolongs your entertainment in (or out of) 1930's vehicles at a century old setting with new missions as a classy mafioso. 
+
+",0.6281748414039612,10,True
+40990,108283857,76561198844820954,"Remake version of this game is made, if your system is not able to run the remake version, this version is also executable and the game graphics are healthy, only the control is hard.
+If your system is able to run the remake version, I do not recommend playing the classic.
+My score for this game is 10/10.
+remake mafia:
+https://store.steampowered.com/app/1030840/Mafia_Definitive_Edition/",0.5774146318435669,7,True
+40990,86096418,76561197992157982,"Best game I've ever played. An exciting plot, gorgeous graphics that still do not look completely outdated, the atmosphere of the 30s is perfectly shown, the physics is similar to real, brilliant soundtracks. GTA cannot be compared, games in different weight categories.",0.5769815444946289,6,True
+40990,38160559,76561198014776829,"[b] Now that THE legend is back on Steam, people will see what is wrong with Mafia III with their own eyes. [/b]
+
+Please, pay no attention to my hours played, the original Mafia is way longer than II or III, but since I know all the tricks, including secret Both Thrower (car that reappeared in Mafia II, one of the best cars in II and the best vehicle for the original Mafia in story mode), it took me only a bit more than 10 hours to refresh my memory of the game and finish the story line, skipping 80% of cutscenes, since I finished it so many times I can follow the script in sync, both in English and Russian. But there's sure more.
+
+2002. Shortly after release of GTA III. We (me and the guys from my hood) we shocked what we saw. Way ahead of its time, Mafia (Mafia: The City of Lost Heaven) made an extremely loud statement. At time I thought that there will be no more as realistic games as Mafia. GTA III comparing to Mafia at time looked like a PS1 game, sure not as much stuff to do like in GTA, but still...
+
+[b]Story[/b] covers life of Tommy Angelo, a taxi driver, who happened to be at the wrong place at the wrong time, and that chase at the beginning of the game changed his life and. 20 missions (excluding side missions) set from 1930 to 1938, divided into prologue, 4 chapters and an epilogue, given in a form of a... flashback. Story about family, friendship, honor, traditions and betrayal. Tommy is not a GTA-like grunt. You can see his struggle within, when it comes to take one's life. (Although it wont stop you from running over pedestrians with a car for shits and giggles).The best part of this game no doubt. I have to admit, its hard to follow, story that is. You have to be patient to understand story completely.
+Oh shi- moments, oh no moments, *gasp* moments, Mafia can provide everything.
+
+[b]Missions[/b] are fairly simple and follow the same pattern: Point A > driving to point B > firefight > (sometimes branches out for point C, side mission) > driving back to point A. Driving, lots of boring ass driving, the worst part of the game. 30's cars are not fun to drive. Unless you are using secret Bolt, first half on the game is going to be painful. There's a hilarious moment in the game, there's a mission in the game called ""Visiting rich people"" (the mission itself in nice). So the game gives you a slow ass car and tells you to drive to Oakhill (rich hood of Lost heaven, located on the mountain). The road uphill is to steep, you drive at like 2-3 MP\h. You can actually get up top by WALKING faster than driving. Tl'dr: driving is a filler of Mafia. For the first part at least.
+
+Speaking of [b]cars[/b], autopark is huge, can't give you exact number, up to 100, that's for sure. Interesting thing about cars, you can't smash the window and hotwire it. You need to play and progress in story mode for more cars via learning how to lockpick them, simple cars, mostly. For luxurious cars you have to complete a side mission, given by Lucas Bertone, a fellow mechanic. Simple errands, mostly. There's another type of cars I'll talk about later.
+
+The [b]city[/b] is big. Big but... empty, sadly. The map includes not only city, but a countryside as well, although it's a simple set of roads, nothing to explore.
+
+The [b]music[/b] is brilliant, music for each hood has it's own tune: lazy tunes for sleeping quarters, classy for rich quarter etc. Combat music and chase music is also great. Two of each, meaning that they will loop throught the entire game, but you don't get bored of it. And... of course - the main theme... search it on YT. Has been sitting on my playlist since the first time I listened to it.
+
+So, you finished story (if you passed a racing mission lmao) ((well, it's not as difficult anymore, since you can chose difficulty for that race, I couldn't in my childhood)), what's next? [b]Free Ride[/b] and most importantly [b]Free Ride Extreme [/b]. Nothing to be told about Free Ride, a mode similar to Take a ride mode from classic Driver games. You pick a  car, starting location, weather conditions and... explore. There's a money system in that mode, which you can spend on healing, weapons, fixing your car, saving your game (like in GTA II), obtained by killing gangsters, speeding, taxi driving and such. Free Ride EXTREME is another thing, unlocked via finishing story mode or by [spoiler] hitting a secret ""switch""[/spoiler] in Free Ride. Provides an alternative version on city, with stunt ramps, more secrets (a spooky rock face, for example) and most importantly, 19 side missions. Missions, which unlock PROTOTYPE cars, one car per mission. Best cars in the game, but the missions (some of them) are quite HARD, like follow an invisible man, drive over 50 MP/h in a truck or you'll explode, drive across the city in a car with shot gas tank (NEVER finished this one), or quite hilarious: follow UFO, save a girl (a girl tied to a pole on a shore, and there's a monster, legit monster coming out of water to feed on her), take a crate and follow a guy around the block. In 2003 I was the first guy to unlock this mode, since story was actually hard, good times.
+
+A legend, must have for one's with a good taste for story driven games. Highly recommended.",0.6251617670059204,20,True
+40990,145897875,76561198085474025,"good old classic, but removing the music due to whatever bullshit reasons is a dick move. keep ruining games like these, you profiteering fat cats and people will be fed up with your shit.",0.5738564133644104,6,False
+40990,47310732,76561198069884311,"A definite recommendation for old school gamers like me...when games used to have a story and weren't too grindy or visually very appealing. From dialogues to combat, I pretty much enjoyed each and every bit of this game considering this being a 16 year old title as of when writing this review. The story is appealing and keeps you hooked up all the time and the combat is really neat & rewarding.",0.6218722462654114,6,True
+40990,121668745,76561198371396296,"Epic, yet MAFIA oozes class, polish, and style like no other game so far this year. To not ""experience"" MAFIA is a far greater crime than any in the Salieri family ever committed.
+
+Thanks for stopping by and reading my review.",0.5672840476036072,4,True
+40990,48433482,76561197963852846,"OMG! This game is better then GTA...at least AS good. I love it, what can I say!
+
+9/10 Runs pretty good, a little clunky IMO, but you can live with it.",0.566013753414154,5,True
+40990,196514367,76561197998883514,"Take-Two and 2K games have updated all their games Terms of Service, turning this game as well as all of their other games into literal spyware.
+
+Important Info in Terms of Service:
+• Mods are a bannable offense
+• Display of Cheats/Exploits is bannable
+• Forced arbitration clause and a waiver of class action and jury trial rights for all users residing in the United States and any other territory other than Australia, Switzerland, The United Kingdom, or The Territories of The European Economic Area
+• You can be banned for using a VPN while connecting to online servers
+• Cannot access game content on a Virtual PC
+
+Collected Data Types:
+• Identifiers / Contact Information: Name, user name, gamertag, postal and email address, phone number, unique IDs, mobile device ID, platform ID, gaming service ID, advertising ID (IDFA, Android ID) and IP address
+• Protected Characteristics: Age and gender
+• Commercial Information: Purchase and usage history and preferences, including gameplay information
+• Billing Information: Payment information (credit / debit card information) and shipping address
+• Internet / Electronic Activity: Web / app browsing and gameplay information related to the Services; information about your online interaction(s) with the Services or our advertising; and details about the games and platforms you use and other information related to installed applications
+• Device and Usage Data: Device type, software and hardware details, language settings, browser type and version, operating system, and information about how users use and interact with the Services (e.g., content viewed, pages visited, clicks, scrolls)
+• Profile Inferences: Inferences made from your information and web activity to help create a personalized profile so we can identify goods and services that may be of interest
+• Audio / Visual Information: Account photos, images, and avatars, audio information via chat features and functionality, and gameplay recordings and video footage (such as when you participate in playtesting)
+• Sensitive Information: Precise location information (if you allow the Services to collect your location), account credentials (user name and password), and contents of communications via chat features and functionality",0.5658490061759949,11,False
+40990,126614265,76561198826515010,"it's quite hard to play it nowadays because it's old. gameplay is bad, game is full of bugs, camera angles go wild in narrow places and hitboxes are broken. everyone should play it but play the definitive instead.",0.5652173757553101,3,True
+40990,118884390,76561198087320510,"Been playing this game damn near 20 years now and it still never fails to impress me. Such a well done video game that not even the remake could ever match! The game holds up well, even better once you mod in the original music audio files which literally takes like 5 min to do! Give this game a shot, and don't let the internet fool you into thinking this version is broken, because it is not! This game is an 11/10 on gameplay, storytelling is spectacular, this game is a hidden gem that is easily missed now that the ""Definitive Edition"" is out now. Definitive my ass, this is the true game!",0.5652173757553101,3,True
+40990,112792260,76561198033648133,"+ story
++ immersiv
++ no visual instructions
++ attention to little details
+
+- few bugs
+- high recoil
+
+I finished Mafia 2&3 but I prefer the first Mafia",0.5652173757553101,3,True
+40990,36916892,76561198068446835,"Mafia (2002) is a true masterpiece. The game’s intro is simply stunning  the music, the city reveal, and the way it introduces you to the world immediately immerse you in the 1930s. Nostalgic tunes and carefully designed streets full of classic cars, trams, subways, and pedestrians make the city feel alive.
+
+The story takes place in 1930s America  during Prohibition, with a corrupt police force and high-ranking officials involved in mafia dealings. We follow Tommy Angelo, a taxi driver drawn into the world of the mob. His transformation from an ordinary man into a member of the Salieri family shows how thin the line is between loyalty and betrayal. Every decision carries consequences, and the world he lives in doesn’t forgive mistakes. Relationships with characters like Paulie and Sam add authenticity and depth to the story.
+
+Each mission is its own story  from stealthy hits and robberies to quiet surveillance and small favors for the family. The unforgettable race tests both patience and skill. Exploring the city is pure joy  during missions or in free-roam mode, you could travel not just by car but also by tram and subway, which was rare in games back then. Every street, every passerby, every detail makes Lost Heaven feel like a living, breathing city. Driving vintage cars and listening to period music really makes you feel the era. Exploring the city, riding the subway, passing pedestrians  it all creates an extraordinary sense of life in pre-war America.
+
+What sets Mafia apart from other gangster games is its style  gritty, cinematic, and mature. It’s not just about action  it’s a story about ambition, loyalty, betrayal, and the price one pays. The plot isn’t afraid to slow down for emotional impact. Each scene carries weight, and the ending stays with you long after.
+
+For me personally, this is more than a game  it’s a real journey through time. Sometimes moving, sometimes tense, full of passion and details that make you want to return to it. Mafia is a vivid, atmospheric story where every corner of the city and every note of music build a unique world. This is a game that offers something many modern titles can’t – a true soul and emotions that stay with you long after you’ve finished.",0.5652173757553101,3,True
+40990,196489581,76561198025141138,"For those unaware:
+
+Take-Two and 2K games have updated all their games Terms of Service, turning this game as well as all of their other games into literal spyware",0.564848780632019,6,False
+40990,221347025,76561198798731603,"A true titan of the genre that still holds its ground today. The level of realism it delivered at its release was decades ahead of its time, paired with storytelling that rivals the best cinema. The atmospheric score is a standout, especially the frantic track during the 'Running Man' mission that perfectly builds the tension. From the brutal challenge of the infamous race to the haunting, emotional ending, every moment feels earned. This game is a soulful cult classic that captures the 1930s aesthetic better than any other.",0.563758373260498,3,True
+40990,102194522,76561198962790934,i love this game. this game be created in 2002 and has a lot of details for that year. and this game has details better than mafia trilogy,0.5634920597076416,3,True
+40990,40858340,76561198451357691,"The economy is the start and end of everything. ...
+A strong economy begins with a strong, well-educated workforce. ...
+A strong economy is the source of national strength. ...
+Through hard work and education, we can deliver a strong economy and opportunity for all.",0.5634920597076416,3,True
+40990,69151472,76561198068236576,"Beware, the buyer of this version, due to copyright issues most of the songs deleted from this game you have to download and move it into the music folder of the game to get good old fashioned Mafia experience.
+
+This game is the reason I became a gamer. First time I lay my hands on a keyboard I played this game. I loved the story. Tommy Angelo became my childhood hero. I read my books and study listening to this game's soundtracks. Thanks, everyone who worked in this game and publish this masterpiece and change the lives of people like me.",0.6132405996322632,8,True
+40990,124856453,76561198315833807,"Important notes before I start the review: For the best experience, I highly suggest installing the Mafia Restore Original Music mod. This will add all of the licensed music that was removed due to copyright. This music adds more atmosphere to the game and some more excitement to the action sequences. A link to the mod is here: https://www.nexusmods.com/mafia/mods/11 . Other mods as well as a patch and a program I recommend are: 
+
+The Unlimited Draw Distance mod: https://www.nexusmods.com/mafia/mods/3/?tab=description (IMPORTANT: If you're going to use this mod, then be sure to go into the Mafia file directory, then into the ""MISSIONS"" folder that you got from installing the mod, then delete the ""MISE20-GALERY"" file. This will fix a bizarre skybox problem in the art gallery level). (Mod effects are explained in the ""Description"" tab of the Nexus Mods page).
+
+The Widescreen Fix mod: https://www.nexusmods.com/mafia/mods/2/ (effects are also explained in the ""Description"" tab of the Nexus Mods page).
+
+ENBSeries DX8 to DX9 Convertor: http://enbdev.com/convertor_dx8_dx9_v0014.htm (this will fix flickering shadows and blood). 
+
+Borderless Gaming: https://sourceforge.net/projects/borderless-gaming.mirror/ (use this if you're experiencing issues in fullscreen such as outline flashes and low frame rate). 
+
+Well, that's the technical stuff out of the way. Now, let's begin! 
+
+Mafia is a 2002 open world third-person shooter set during the 1930's in a fictional city called Lost Heaven. You play as Tommy Angelo, an innocent cab driver unexpectedly thrust into the world of the Mob. After becoming a member of the Salieri crime family, Tommy must undertake various tasks such as securing a shipment of whiskey, winning a race that the Don bet a lot of money in, saving your friend in a motel occupied by ruthless gangsters, killing a politician with ties to the enemy Mafia etc. Speaking of the enemy Mafia, the Morello crime family is a dangerous foe that Tommy now has to look out for and eventually help to destroy. While completing all these tasks, you can also explore the city of Lost Heaven, taking in the atmosphere of bustling streets, good music, and admiring lots of Depression-era architecture. As well as that, you can do subquests that will help you unlock new cars to use later in the game. If this short summary interests you, then you'll be pleased to know that there's more about this game that may interest you. 
+
+One aspect of Mafia that I think is praiseworthy is the gameplay. The combat, for instance, was a lot of fun for me. I liked mowing down enemies with a Tommy gun, blasting them up close with a shotgun, picking them off at a distance with a Springfield rifle etc. I also enjoyed the driving as well as the missions in general that I feel were decently well designed, managing to be exciting as well as compelling (albeit quite frustrating at times, especially the subquests). The melee combat was alright, but not great (more on that later). I also think that the enemy AI was quite decent and put up a genuine challenge: Enemies took cover, rolled to avoid my gunfire, called me out and insulted me etc. The destruction physics of the cars was also a nice addition, with headlights, windshields, tires, wheels etc. being destroyed and/or falling off when enough damage was done to them. This may be a small detail but a noteworthy one regardless. I feel I should also mention the Free Ride mode, offering you the choice of exploring the city of Lost Heaven however much you want with no campaign missions to worry about. You can drive around, steal cars, run over pedestrians, get into gunfights with the cops etc. So think of it as a Great Depression-era GTA game. There's also the Free Ride Extreme mode where there are no cops, some ramps, and crazy missions to beat (e.g. chasing a UFO, chasing and killing a man with super speed, saving a woman from a sea monster etc.).
+
+Another aspect of Mafia I should praise is the story. I loved following Tommy's journey in the Mafia, seeing his whole world turn upside down was thrilling as well as fascinating. The way the story was told was great too, with well-animated (for the time) cutscenes being used for mission briefings as well as narrated segments and important scenes between Tommy and a detective in a restaurant that show up throughout the game, as if to hint to the player that the story is being told by Tommy himself. The competent voice acting also added to the story, with each character having a suitable voice and therefore helping to immerse you further into the world of Mafia. I should also mention that the dialogue was quite good too. 
+
+One more positive thing I'd like to touch on is the atmosphere. The visuals, although dated, still managed to create many splendid urban environments for me to appreciate, not to mention the excellent soundtrack that includes not only orchestral music but also brilliant classics from artists such as Django Reinhardt, The Mills Brothers, Latcho Drom and more. Hearing different songs depending on what part of the city I was in certainly was delightful, as well as hearing adrenaline-fuelling accordion music in a couple of intense chase missions. That's really all I can say about the atmosphere. It's great. 
+
+Now I think would be a good time to talk about the negatives of this game. The first I can think of is that some of the textures would flicker. Even after I installed the ENB Convertor I still had this problem, which was a shame since the flickering textures were rather distracting at times. Another negative I can think of is that, while driving, I would occasionally hear weird audio pops and clicks, especially when honking the horn of the car I was in. I tried fixing this but didn't manage to find a proper fix. Another complaint I have is about the melee combat which I feel was mediocre (especially in comparison to the gunplay). It just felt awkward (especially in the ""Better Get Used to It"" mission). One other negative aspect of this game for me was how frustrating some of the quests were. Quite a few of the subquests and many of the Free Ride Extreme mode missions were particularly infuriating. I also noticed that the countryside landscapes were hideous and that some areas of the game's world map looked odd and unfinished (e.g. the large floating sheet of grass with some trees on it, an island with a huge hole on the side of it etc.) but to be fair, I probably only noticed this because I was using the Unlimited Draw Distance Mod. Still, I would've preferred for the world map to not be so shoddy in certain places. Another flaw I encountered were the occasional bugs. For example, in the ""Just For Relaxation"" mission, I had to follow this truck leaving the docks, but sometimes the truck wouldn't even leave, meaning I had to reload my save in order for the mission to actually work properly. Later in that mission there was a task where I had to stack some crates with two NPCs, but the mission could only continue if all the crates were neatly stacked (something only the two NPCs could do), so because I stacked the last crate just as the two NPCs were leaving and since I couldn't ask them to stack the crates again, I ended up having to reload my save and do that part all over again (this time letting the NPCs do nearly all of the work). To put it lightly, this was mildly infuriating. I should also mention the fact that the frame rate was much lower during the nighttime and evening sections than in the usual daytime sections of the game and that the option for subtitles is, strangely enough, hidden away in an additional options menu (called ""Others"") in the ""Controls"" menu. Other than that, I don't really have much else to complain about. 
+
+So to conclude: Mafia is an enjoyable game that tells an exciting tale of an innocent man being thrust into the ugly world of organised crime. It may not be perfect, but what game is? 
+
+Final verdict: 6.8/10 ""Mr. Salieri sends his regards.""",0.5625573396682739,3,True
+40990,37922923,76561198292773771,"Damn man these game is a gold. I played it first maybe in 2009. It will always be on my top 10 best games I have ever played. I can't stop saying good things about it
+
+pros: 1. Living and breathing world. The world is so much realistic it feels like I am living their ,I am in 1930s.
+         2. Huge classic vehicles collection and all got unique physics and unique handling .
+         3. Great story.
+         4. Great voice acting.
+         5. Memorable characters.
+         6. Great gfx as a 2002 games atleast on pc ,the console version sucks.
+         7. Pretty much a long game also you get some funny side missions in free mode extreme.
+         8. The game feels like a real Mafia game unlike Mafia 3.
+         9. Nice soundtrack( They are removed in these version for license issues but you can add those by following some 
+             guides on steam community). 
+    And many more it's a really great classic game.
+their are very few frustrating thing 
+
+Cons: 1. Cops are sometimes annoying ,some mobs are shooting me with a tommy gun from cars and I am driving for my life if i exceed 40 speed cops  chase me like a maniac, I am like why me those dudes are shooting everything ,trying to kill me and you don't give a shit about that and chase me for exceeding more than 40 mph
+           2. Some checkpoints are really frustrating .you fucked up their sometimes you need to start from the start of the 
+               mission.
+            3. Not too much new comer friendly . you need some patient and need to adapt the dated things and clunky combat 
+                of the game .
+         
+Overall masterpiece my final verdict is 9/10
+
+Can't wait for the remake . I will suggest give these classic a chance , maybe you gona love it more than other mafia games.",0.6611329913139343,11,True
+40990,55191906,76561198016325931,I consider this game the closest thing to a perfection when it comes to single player campaigns. Every single story mission is so unique in its own way and mindblowingly fun to play. Even though it came out in 2002  the graphics still look incredible. The atmosphere of the game indeed feels like the 1930s. The music soundtracks truly fit the era perfectly. Free Ride Extreme mode is super challenging which makes it super fun. I could never get bored of this game and I'll keep playing it for as long as I'm alive. Mafia 2 and 3 are nothing compared to this game!,0.5603156685829163,4,True
+40990,50481634,76561198052493474,"I don’t feel nostalgic about this game, because I first run it a month ago. So let’s talk about how to play Mafia in present days.
+
+Story and atmosphere are really great even now. Open world is absolutely empty, but game isn’t like GTA at all. It’s more like Driver series from PS1, where city is only a decoration for missions. 
+
+And here is a huge difference between Mafia and GTA. Mafia is story-driven game. In main game you just complete all missions one after one. And free ride is totally  different game mode.
+
+Graphics here like from early PS2 games and you can use to it. But if you want, you can install Remastered mod for HI-Res texture. By the way, I highly recommend you restore all music with mods or you will play in deadly silence.
+
+I had a lot of fun with this game and I have a lot to say. But I don’t want ruin your first impression talking too much. So, if you like atmosphere of the ’30s and want to know, why everyone said that this game had one of the best stories in videogames - Mafia is your choice.",0.6078770756721497,16,True
+40990,106671791,76561198230080824,"I decided to play this before experiencing the Definitive Edition, and I'm glad that I did. Playing this first made me appreciate the remake a lot more. Yes, the Definitive Edition is arguably better on pretty much every level, but there's nothing wrong with experiencing the source material.
+
+The original Mafia is janky by today's standards, but if you can put up with that, you might have a lot of fun with this.
+
+Side Note: Illusion Softworks (the developers of this game) were also responsible for making one of my all-time favourite games, Hidden and Dangerous 2. It's really cool to see the similarities between the two games, since they were released only 10 months apart.",0.5566931962966919,3,True
+40990,45361453,76561198021339988,"Oh boy where do I even start, ""Mafia"" is an old classic, a very underrated game by today's standards. I remember playing this game when i was in grade school, much later in 2011 I bought this game on Steam too and I have never actually wrote a review for this game. 
+Reading through other reviews by people, the media and even newer ""retro"" reviews I was glad that people do still remember this great game even after more than 16 years since it was released. On the other hand I was annoyed a bit that people still try to compare ""Mafia"" to the ""Grand Theft Auto"" series which just blows my mind, this game isn't GTA and it was never meant to be a ""GTA"" game. Just because there is a semi-open world with a bit of driving involved, a character that you control in 3rd person doesn't mean it's automatically a ""GTA"" clone.
+
+""Mafia"" is a linear game that is trying to show and tell a realistic story about organized crime back in the 1930s and sure it does it very well. The summary of the game's story is that you are Thomas Angelo, a normal guy trying to make a living by driving a Taxi for a respectable company. One day you are caught up with two mobsters at the wrong place and wrong time, forced to help these mobsters get away from some other guys. When you get these men back to their safe location at the ""Salieri's Bar"", they show you appreciation from their Don because you helped them get away. They even offered Tommy a job if he is willing to work for them because they appreciate a guy that helped them. Later on Tommy will get jumped by the other mobsters from the rival family who were chasing the guys Tommy just saved a day before. Tommy successfully escapes from these mobsters back to the Salieri's bar where he dropped off Salieri's guys just a day before. This is how the story starts for Thomas Angelo, a new guy, just joined the Salieri family because he was kind of forced to get help from them. After these events the game's story continues to show Thomas Angelo as he rises through the ranks of organized crime. 
+For a game this old it holds up really good even after 16 years, obviously there are minor bugs and glitches here and there but it's not like games nowadays don't have any, right? 
+This game is a classic and in my opinion the best work that ""Illusion Softworks"" did in this genre of games, there's other good games that portray a realistic image of organized crime back in the 1930s but this game tops them all off.
+To conclude my review, in my opinion this game is a masterpiece that told a realistic story and I don't think any new game in the coming years will ever come this close to being this good as ""Mafia"" is.
+
+",0.6063545346260071,9,True
+40990,48825074,76561198001283559,"Did I play this game when it originally came out (or almost) fiften years ago? Yes.
+Did I love it? Yes.
+Did I redo it a good dozen times from how good it is? Yes.
+Did I buy it again on Steam for the sole purpose of recommending it? F**k yes. Especially when I see that the only ""not recommended"" reviews are from people saying ""mimimi it's ugly and old"".
+
+This game is a masterpiece in the video game industry. Sure, it aged quite a bit today, but holy cow does the story, music, ambience and overall quality remain above many games released nowadays.
+
+I remember playing this game for the first time, on a shitty laptop. Barely could run the game at 25 FPS even with graphic settings set as low and ridiculous resolution. And yet I still enjoyed it through and through back then, and I still do today, especially with mods that smoothen the experience some more.
+
+The story follows Tommy Angelo, a honest cab driver who'll find himself caught up with some mafiosi affairs despite himself, and will delve into that strange world where respect matter more than lives, a world filled with nice gals and easy cash -but also a caliber around any corner ready to shoot you down if you made a mistake. The pitch starts simple really, but the intricacy of the story, the character and story development, and most importantly in my eyes, that finale, GOD THAT FINALE are just fantastic. The build-up during the story is extremely well paced. I'm rarely shaken by video game endings, but the ending of Mafia 1? Even today I still remember how I felt when the final cutscene played out and faded to black, living me with the feeling I had played one of the best video games in my early life of gamer (which still stands true today, 15 years later).
+
+The only downside of this re-release is that due to licenced music, some of the OST is missing. But you can easily fix that if you Google the issue.
+
+Seriously. Play that game. Rarely will you ever live such a great experience.",0.6061459183692932,13,True
+40990,173558579,76561199218616981,"This game is so amazing it looks so Realalisic as well woooooooooooooooooooooow 
+All jokes aside i still think this game is as good as the Def edtion 100% worth a go",0.6054856777191162,10,True
+40990,78955324,76561198214658093,"I've played this game for 5 hrs and got many diffirent conclusions.
+1. This game is too slow! I just falling asleep when see andother mission saying ""Go to another part of LH on speed of 30 km/h"" 
+2. Shooter constituent is too hard, i just got to the church chapter and they kicking my a*s like an a*s of six year old boy after three victory royales in fortnite. Maybe i'm too young for old games ( eighteen ).
+But still i like Dark souls 1 & 3.
+3. Music part of game is great!
+4. The game story is just great! Makes you feel the game like something special.
+I will recommend it for peaople who got steel balls and love games that give you challenge of old games and won't recommed it for people who want to play somethin common like GTA of Saints row, you just gonna lose your nerve.",0.5542857050895691,4,True
+40990,91555476,76561197996556448,"It's probably the best mafia game ever but stay away. I got it on sale but I wouldn't get it even if free: the music missing from the Steam version, parts of the dialogue missing, very buggy voices and sounds. It's shameful what they did to the game.",0.5533192157745361,3,False
+40990,199806294,76561198021324770,"Despite the enormous bloodshed, Mafia is ultimately a very charming game. You really feel like a part of the Salieri family, as you work together with your buddies to get things done. Tommy is a relatable character, because he doesn't start out as a criminal. It kinda happened to him, though at the same time it was his own choice. Many times, the story will make you ask the question ""Is it worth it?""
+
+The developers put in a lot of effort in bringing the game to life. The voice acting is above average for its time, each character has their own gestures and body language. Most interesting subtle detail is, every time you go to Vincenzo he's always doing something else, and walks to his table once you enter. It takes some extra time to get to business, but it gives you this sense that he's a real person doing his own stuff when you're not there.
+There are also traffic rules. You can get fined if you run the red traffic light, even though it doesn't mean anything since there's not really money in the game. I think this is an interesting mechanic, because it makes the traffic lights real, rather than just props.
+
+The 1930's are iconic, cute cars with tiny chassis, gunmen wearing suits and hats, iconic weapons like the Colt 1911 and Thompson submachine gun.
+
+I wish public transport was a bigger part of the story, because it was a lot of fun to take the train and see the city from a different perspective, and it was also nice that I didn't have to drive for once.
+Speaking of driving, Mafia has surprisingly good driving mechanics, though it's a little less surprising once you know that Mafia was originally conceived as a racing game.
+But there are 2 small problems I have: 
+1. it switches back to automatic transmission every time you reload a checkpoint. so I have to manually switch it back to manual gearing. at some point I just gave up.
+2. there's no cockpit view. most of the time you're using the bird's eye camera, which feels less immersive, and also very slow. It doesn't help that there's a speed limit of 40 mph, and police will chase you if they see you go 41 mph or more. Luckily it's often easy to lose the cops. And police cars show up on the radar so you can adjust speed accordingly.
+
+The shooting in this game feels very awkward by modern standards. There is a lot of recoil, that takes a long time to recover. But this is compensated by the awkward AI that very rarely hits you. The typical hitman has an accuracy of 10% or so. They also don't really know how to be aggressive, and you can often just shoot their arm while they can't see you. Even so, I've died a lot of times. There's not many health packs around, so you have to do everything to not get lose HP.
+
+The game is a little buggy, but nothing too game-breaking. At one point I had a kneeling cop floating in the air at the airport. Very random.
+
+All in all, a very impressive game and story. The boat mission was my favorite.
+It's cool they have a Chinatown, even though there's not much there.
+The biggest downside is that you can't look down on the city from Oak Hill. It just looks like an ocean.
+That's why I can't wait to revisit Mafia in the Definitive Edition.",0.5522387623786926,3,True
+40990,76887972,76561198087069979,"I first played this game in 2004 on PS2, then later on the PC. I've probably replayed it 10 times over the years as it's so enthralling, and I keep coming back. It is a masterfully woven story, with rich cinematography, brimming with details (ex. car reproduction nuances), textures, and things to explore. The graphics are dated, as are some mechanicals, but that all adds to the period charm. 
+
+Note: When first downloading the Steam edition, I noticed some music was missing from various scenes. Downloading a supplemental file  from mafiascene.com resolved this.",0.5521916151046753,3,True
+40990,102386642,76561199043026082,"Legendary game. Used to play it back when was lil boyo and played it now and managed finally to beat it. Yay. It's pretty  good game I'd say for 2002 if you don't count that they sadly had to remove music due to copyright issues, the fucking race... , and the final boss who is a literal speed demon and has an aimbot of a russian 14y/o in CS:GO MM. Other than that good game. 8/10 would race again just to get flipped on a small bumb on 5th lap and get splatered to the ground.",0.5517522096633911,4,True
+40990,184536200,76561198078530844,"That's a masterpiece from the good early days. A lot of people see Mafia series as a contender to GTA. And I can definitely see why, but to be honest, apart from the genre (open world, on foot/in car mechanics etc) they are totally different games.
+GTA is more about modern-world and funny with own quirks.
+But Mafia looks like a serious movie-like experience.
+
+Animations here to be honest are much more detailed than in Starfield :D
+Also, there are a lot of details, in each mission there are some things game does not tell you. Sometimes there are several ways it can develop or end, sometimes it's smaller things that can help to draw less cops, make car chase easier and so on.
+
+Races. Mafia at first had to be a racing game only, that's why we have an interesting car physics model, a VERY impressive car damage model, speed limits, red light tickets and so on. Of course they could not leave all their ideas aside, so we have got the legendary RACES mission, which at the time of my childhood was almost unbeatable for most of my friends, including me :D Also, at that time we could not skip it. In Steam's version you can choose an option ""Skip Race"" and move on, so don't be afraid. But I have got first place this time on Normal, so another childhood's demon has been destroyed :D
+
+Story is mostly serious, only sometimes you can have some jokes or funny moments. It's a tough story about criminal world.
+
+Music. It's awesome, songs are very well selected for time period and help with immersion greatly. But I HATE when in purchased product you get some things removed because some ""licence"" has expired. I don't care that it expired, I have purchased the product in specific state. Make restrictions for new purchases, for example. But good news: just grab a simple mod that restores original music.
+
+Difficulty. There are no settings for that apart from races. I have found that Mafia is pretty easy now for me, except several missions. But the worst part is a final ""fight"" sequence at the very end, because your enemy is basically cheating. Using Thompson he is 100% accurate if you are out of your cover. Also, after a hit you can't do anything, so if you are being shot at - you are just standing and catching bullets with no way to move or shoot back. And after several seconds it's game over. To be honest, this fight is absolutely stupid in terms of difficulty. I know that it had to be hard, but not in this cheating way.
+Mostly problem with difficulty is because of:
+- a clunky controls
+- a huge recoil from weapons
+- shotguns can kill you almost instantly
+
+I was surprised that Mafia works on Win11 without any problems, no need for any patches or mods, impressive.
+
+Overall, I highly recommend to play it if you are OK with older visuals :)",0.5510203838348389,2,True
+40990,106267612,76561197992788796,"Possibly my favorite open world crime sandbox game (although GTA IV and SR2 are close contenders) 
+Any of the devs that worked on this should hold their heads high and know that they helped craft one of the best open worlds sandboxes ever made all the way back in 2002.
+I actually don't mind the remake it's enjoyable and actually has some effort put into it by the new Mafia devs but some of the differences in the story are much worse (Although some are admittedly much better too) and a lot of the attempts at realism/mechanics in this original version of the game are completely absent in the 2020 remake.
+The ending has stuck with me even after nearly 20 years and with mods you can really bring this game to life.
+
+Also for the love of god mod in the missing music that was removed because of licensing issues it really helps set the tone of the game.
+Voice acting ranges from great to down right terrible and that racing level on harder driving difficulties can go f*ck itself but all in all I still adore this game. 
+
+Definitely pick it up before it's removed from steam again for the 100th time.",0.5507147908210754,2,True
+40990,71745618,76561198194040587,"Playing this game for the first time in 2020, I gotta say that it was way ahead of its time.
+Some of the features it has is something you dont meet even in today games. 
+Some of those features are:
+•having to follow driving rules like speed limits and red lights
+•police chasing you for breaking these rules but not instantly starting to fire at you but instead arrest you
+•being able to carry only 1-2 large guns
+•public transport: trams and trains
+
+
+
+With all that being said, let's hope that Hangar 13 won't mess up the remaster.
+",0.6006233096122742,8,True
+40990,203653070,76561198030338011,"One of my absolute farvorite games of all time. 
+
+I have to say, that didn't aged too well in some aspects and I had problems running it on my system, but I still really love it. 
+(The Remake is also pretty solid, for me it missed some of the charme, but for new players, it's probably more enjoyable than the original...)
+
+For it's time Mafia had a very authentic and mature story, great voice acting, a pretty empty but still very atmospheric open world and a lot of memorable characters.
+This was at a time, were most shooter games were still pretty simple in it's story and mechanics. Games like Deus Ex, Max Payne and Mafia changed that for me.
+
+Absolut classic, that has some problems on modern systems, but I still love it...
+
+[b]9/10",0.547325074672699,2,True
+40990,197812568,76561199499567445,"Even though playing this game was such a nice nostalgic journey, I must admit I spent a lot of time in the missions just driving from one destination to another (often with the speed limiter).",0.547325074672699,2,True
+40990,121575631,76561198017289476,"The Greatest.
+Anyone comparing it with GTA has not played the game. Its a story driven masterpiece.
+
+just for those only looking at time played with reviews:
+I ofcourse have the original on disc - havent really played again after steam release, just to see if it would run well - it does",0.5465402007102966,6,True
+40990,230573756,76561199889888335,"Ok, I have so much to say about this game, negative and positive sides. Let's talk about bad things first. I understand that game is from 2002, and that it was sat in the 30s, but driving in this game, at the beginning it was so hard for me to understand driving, later I become a better at driving, so that means you have to take some time. It's challenging but ok, ok, next thing. Aiming, aiming is so so bad, I had so much problems with hitting opponents, aiming is so hard in this game that you really need good skill with that. It's realistic that you can die if you get shot few times, ok, I'm ok with that, but the problem is missions rarely have health kit (that can give you 30-100 health) when you really need them, in those missions where it's all about shooting you'll hardly find it. Now, missions. Missions like missions are not that bad, BUT, the problem is they are really confusing (at least to me at first as a new player). They were so confusing that half of the missions I needed a tutorial to see where I need go. I finished the game in 17 hours, I can imagine how much longer it would take me if I didn't decide to get help from the internet. Poliiiiceee, to be honest the police is really good implemented in this game, but that's a big problem. It's really easy to get wanted, if you go faster then 60 kph, if you crash into somebody, if you destroy a SIGN, I know this is not GTA but coming from a person that really really likes GTA games, I find this really offensive to me cuz, you really need to pay attention to what you are doing, which I'm not big fan of but ok, It's Mafia game so, makes sense. The remake is really good, If they didn't make a remake (maybe am wrong), I don't know who would play classic one. But let's talk about 1 thing that is really good, and that's a storyy. Really good made, I enjoyed It (gameplay was bad but I get into it so, it wasn't that bad). Missions as I said were confusing to me, but there are many that were funny (that confusion made it look worse then how it really is). Overall, if you want to play this game for the first time it would be difficult but you'll see (if you want to play it at all). 
+Ratings:
+Story: 8
+Gameplay: 4
+Characters: 8
+Missions: 6
+Map: 6
+Total rating: 6,5 -ish
+Ratings for my First playthrough ever. Also I played strictly main missions except Lucas's ones, they were fun.",0.5454545617103577,2,True
+40990,134289257,76561198812947503,"The ultimate old game, the classic in the classic! This is my childhood memory. I used to play pirated games, but now I come back to pay for the tickets. Although this game is not as good as the current game in terms of picture quality, I still highly recommend it!",0.5454545617103577,2,True
+40990,84377350,76561198008749570,"This game has better cop system and NPC AI than Cyberpunk 2077.
+
+
+One of my favourite games of all time. It is well written, has interesting characters, great atmosphere, high level of realism (for it's time at least) and it is ruthless - some missions require multiple attempts to master given segment but it is satysfying as hell.
+
+WARNING, needs a manual fix to get this game running on modern systems (you can easily find a fix in steam forums).
+
+WARNING, this version DOES NOT have radio music that should be playing while driving around town due to copyrights issues, so search online to download radio fix to bring the music back :)
+
+Highly recommended even with it's flaws.",0.5454545617103577,3,True
+40990,83737821,76561198180612611,"This game is one as old as I am, therefore it had to become a game of my childhood. Or had to? It did mainly because it really know to catch you in it, with the story, characters, and mainly dubbing in Czech language (the English one I am not sure about, and I think Definitive Edition does it better).
+The game is quiet old, and running the Steam version is a pain, but when you finally make it work (with one very easy fix) and you restore the music back, the game is one of the best ever made, and our main Czech republic export (even though, there are some awesome games as well).
+I would recommend it to everyone wishing to play the game of their childhood, but also to new comers, even though, they have to prepare for a game, that does not lead them by their hand every step. You have to think a lot, and that's what makes it the game it is.",0.5454545617103577,2,True
+40990,59010279,76561197993678527,"★★★★★ Superb!
+
+[h1]Action[/h1]
+
+I played first Mafia many years ago when it came out, this game was obviously ahead of its time. This is one of the few games that pulled me into its story and actually made me care about the main characters as they progressed through their lives. 
+
+The atmosphere is movie-like. There are few ways to complete some missions. Among the scenery you can just ride trough the wonderful city. The whole story is worth movie to be made. And the music, maybe the best soundtrack ever. Cars: best riding experience ever.
+
+The story is great, explains every part of Thomas Angelo's life and you can enjoy a big adventure in this game. It should be compared to the finest movies and novels out there. It's something very special that must be experienced to be believed. At the end if you think Mafia 2 is better then you have never played this one!
+[hr][h3][i]Do yourself a favour and pick up this gem, since there won't ever be a game quite like this![/i][/h3][/hr]",0.5454545617103577,2,True
+40990,91546387,76561198087831859,"This game was a DREAM and HIGHLIGHT, when it came out.
+Yes, everyone was crazy about GTA3 already, but after you were bored with all the rampaging 
+and wanted a GOOD and ELEGANT CLASSIC storyline and CLASSY game, you turned to MAFIA!
+
+Installed it again recently and sad that it did not age pretty. 
+NONETHELESS, the biggest complain goes to the music: ARE YOU PEOPLE NUTS? 
+How can someone pull out the ENTIRE MUSIC, just because of some licenses???
+There are people who paid for this game and THE MUSIC. 
+I am not going to install all kind of mods that work 1 week and afterwards no music again. 
+
+SHAME on all of you who did not manage to put the music OFFICIALLY in the game FOREVER. 
+Shame on those who thought to much of their music and expected money for this. 
+THERE IS AN ENTIRE WORLD who got into YOUR MUSIC, because MAFIA! 
+Not the other way around!
+
+Politics, man...
+",0.54356849193573,2,True
+40990,118860916,76561198020791595,"I played the Mafia 1: Definitive Edition ""Remake"" before this, and thought it would be fair to play the original to see what the hub-bub was about, so here it goes.
+
+
+...
+I made a 'review as I went' sort of thing, and read it and seen just .. how negative, and while justified (to an extent) how whiny it was becoming.
+Mafia 1 The Lost Heaven - is 20 years old, it has its charms, but it's dated. At the time these features were high quality, some even pioneering for the genre and games going forward.
+
+Some major points that many titles don't have that Mafia 1 The Lost Heaven does.
+
+Blinkers! I can tell where cars are going before they jerk  their steering wheel.
+
+Honestly surprised it ran as well as it did on my hardware without me having to jump through any hoops, it 'worked out of the box'. Only issue I had was at the race, it gave me a black screen, had to restart the game but other than that no bugs/issues. Which is rare even in today's world where Day 1 patches are the norm. While it was a 'simpler time' back then tech wise, I miss the days of yore when videogames worked out of the box, and you didn't have to worry about random downloads (for shitty launchers too).
+
+This has no launcher, unlike the remake (which can be bypassed, but still why add it?). 
+
+I'd recommend getting it to appreciate the original, and also as a way of really appreciating what Hangar 13 did with the remake. While the remake doesn't ""fully"" honor Mafia 1 The Lost Heaven, step for step, it does recreate The Lost Heaven very nicely, while also staying (mostly) true to form. I'd argue in a many cases the Remake ends up being better, simplifying things that were too annoying (going back and forth and back again) or making the dialogue more.. believable. While the Original I has a place in my heart, I still prefer the Remake.
+
+8/10
+9/10 for the Remake",0.543379008769989,2,True
+40990,102845983,76561198355382284,"Good Old Mafia 1, old game, and a bit difficult, but I love a good challenge. I recommend it to every one who likes good story games and just mafia in general.",0.5405392646789551,3,True
+40990,106786597,76561198065327991,"While I have happy memories of this game, the reality is that this didn't age well at all. As of writing I have not played the remaster so I cannot compare the original to that yet.
+
+The police system is overly aggressive and often gets in the way of completing missions such that anything involving long car chases is down to chance that you don't run across a squad car. It makes timed mission jaunts through the city a chore. I honestly wish you could just turn it off because it pads the game out unnecessarily and not in a fun way. You can't even enjoy all the fancy fast cars you acquire because you're stuck doing a pedestrian 40 mph to avoid having yourself be stopped every 500 feet or rammed by magic police cars.
+
+Similarly, the gunplay in this game is very uninspiring, and later missions are just goonhunts where you gamble on whether or not you will have enough health to absorb the shots that will be sent your way, - And they WILL hit! Shotgun enemies have laser-focused accuracy. - especially in the harbor mission where your character will start off a shootout with an UNLOADED WEAPON, guaranteeing that you will absorb at least 4 health damage minimum right off the bat as you wait for Tommy to fumble with his Colt 1911 while being shot at by the first enemy goon.
+
+Thankfully you can disable the stupid 'tuck and roll' feature which makes gunfights far less frustrating than when Tommy decides you tapped A or D too quick to strafe and dives out of cover.
+
+As far as missions go, bugs are more frequent than I remember them being, and certain missions will just require cheese to avoid the broken parts - Such as when the goons come out of the restaurant anyway while you're batting their cars, or when the goons putting a hit on Salieri at Pepe's straight-up phase-shift through the walls to blast you away. If you try to do the mission the 'correct' way, the game bugs out and punishes you anyway.
+
+I could forgive everything else, as frustrating as it is, BUT the ONE THING that finally broke the camel's back is Creme de la Creme, one of the final missions. This mission is straight-up broken, no hyperbole. If you're unfortunate enough to have Morello's car turn into the airport, just repeat the countryside car chase section until he decides to go past the airport to the bridge. You can dump 3 full drums of Thompson bullets into the airplane's engines till they explode and watch the plane's health drop to zero, only to have the mission still deem it wasn't enough TO ACTUALLY FULFILL THE SUCCESS CONDITIONS OF THE MISSION, AND THE MISSION STILL FAILS ANYWAY. Genuinely broken.",0.5396720767021179,9,False
+40990,77923464,76561198055269636,"Year of the game - 2002
+
+° Graphic : 10/10 
+(For the year it was released, just beautiful)
+
+* Plot : 10/10
+(Outstanding narrative capacity, seems to be inside a Martin Scorsese movie)
+
+° Difficulty Balance: 2/10
+(the enemies have an unfair aimbot even at extreme long distances, there should 
+be more checkpoints in the middle of a session, sometime you have to survive 
+30+ enemies in a row and if you die you have to restart the whole mission, no 
+manual save)
+
+* Aiming System: 4/10
+(aiming was really difficult and not smooth at all, altough i think we PC users had 
+an advantage with mouse compared to consoles users with their gamepad)
+
+° Gameplay: 7/10
+(the difficuly of levels was hardcore, the lack of manual save and almost no 
+checkpoints did not help much, also the medikits were really rare, you was lucky 
+if sometime you was finding just one in a whole mission, anyway, you had a lot of 
+freedom in the movements, the cars driving was both annoying and beautiful at 
+times, sometime you could complete a mission also not following the protocol but 
+inventing a your personal style)
+
+The Cars Race mission was really a Nightmare :-(
+
+Overall this was a beautiful game that was ruined by wrong decisions of 
+developers who decided to push the patience of the player a bit too much over 
+the limits, with a better gameplay this could have been a masterpiece but, after 
+completing it i can just say that this is a good game that will prove your nerves to 
+the extreme. Not for everyone.
+
+My Final Score is
+
+[h1] [b]69%[/b] /100 [/h1]",0.5373134016990662,2,True
+40990,118252466,76561198394140671,"After playing more than 10 hours of this game and finishing it I say this is one of the most intersting games that take place in the early 1900s. First I'll start with the negative parts of this game. From what I played for the gameplay it's kind of hard to get used to it because I feel like the shooting hasn't aged well. There are some missions that I think are pretty hard. There are medkits because this is one of those old games with only 1 or 2 medkits in the mission which can be hard to find sometimes and can be at places where you would never guess to look at. Another thing that I recommend doing for those tougher missions is to look up a video online on the internet to see what strategy The enemies in the game can take little amount to large amounts of damage if you aren't to careful in the game so if your going to kill them then, it's best to shoot them off in a distance depending on where you are in the game. If you are going to play this game I would reccommend using the tutorial that you can see in the title screen of the game. Also for driving to places can be a bit tough if you don't know how to use the map then your going to be stuck if you aren't to careful. Now for the good things about the game. You can get different variants of weapons ranging from pistols, shotguns, and a tommy gun. I say one of the best weapons in the game is the tommy gun because of the amount of ammo you can use in the game, and if your lucky, you can find enemies that use the same weapon and pick up their ammo for your gun. The story is I think is pretty great for it's time. I thought it would be boring mafia story until you keep going deep into the game is when you realize that it has characters that you start to care about when the story keep on going. Also the music is pretty great, if your the kind of person that likes listening to old music then you might not like it but as someone who listens to old music it might not be your cup of tea. I thank you for looking into my review and hope you have a nice day. : )",0.5367847084999084,3,True
+40990,104632121,76561198042869012,Almost bought the definitive edition... Thank god i did not. The Story is way better in this version and the graphics have some charm. Add the mod pack and you are good to go!,0.5366818904876709,3,True
+40990,76595452,76561198017401678,"This version isn't all blurry and smudgy, and the soundtrack is actually amazing
+Get the widescreen patch and restore the copyrighted songs and it's already a better experience than the abomination that Hangar 13 made.
+
+The only thing that they did better is the models and textures (even though I think the characters look very weird), but with its horrible forced TAA renderer, it's hard to see any of that.
+It's truly a sin that a game from 2002 looks sharper than its 2020 counterpart.
+
+I'm very sad that this is still the best way to experience the original Mafia. I really wanted a good remake. But I promise that if you can look past the dated models, this game holds up very well and it's still the best Mafia game in existence.",0.5365328788757324,10,True
+40990,69883693,76561198016047015,"More than a review, mine wants to be a [b] wish [/b] to find a great and respectful remake in the incoming Mafia Definitive Edition. When you're going to put your hands on something untouchable like Mafia, its remake can turn in a masterpiece or your biggest mistake of your life. We'll see.
+
+Anyway, nothing to add to this game that hasn't already been said. Bought it on Steam for the nostalgia effect and to add it on my collection, I played it ages ago, but thanks to his great story, characters and music, it's something I'll never forget in my gamer life.
+
+Can't wait to [i] join the family [/i], again.",0.584664523601532,4,True
+40990,189459413,76561198063209433,"One of the legends.
+One of the few.
+And the only game where I would tell you to play it with Czech voice acting even if you don't understand it.
+
+I grown up playing this and now, 20 years later, it's still so good that the old graphics doesn't really matter.
+
+The game doesn't start on 64 bit systems (be it Linux or the Microsoft thing)  by default, it keeps launching setup.exe instead of game.exe. The solution is Widescreen fix. It doesn't only fix widescreen issues, despite the name, it fixes the whole game and adds some nice configuration options via *.ini files.
+
+[b]Then launch it with[/b]  the following parameters (Linux) to load the widescreen fix/mod:
+WINEDLLOVERRIDES=""d3d8=n,b"" %command%
+
+Last but not least, it runs on an RX 7900 XT with maxed out settings :)",0.5835956335067749,4,True
+40990,204250790,76561198126840878,"Mafia: City of Lost Heaven is an open world action crime game and “hot dame” simulator developed by Illusion Softworks, a studio that was established in Brno located in the Czech Republic in 1997 and whose work up until release mainly included the Hidden & Dangerous tactical shooter series. However, aside from that, the actual development of the original Mafia had started in 1998, consisting of a team of five people or so and was originally a game called “Gangster”. It would initially use the engine of the Hidden & Dangerous series before the actual development of the game would be moved to the LS3D Engine, an engine that would mainly be used by lower budget studios to make games like Chameleon, more Armed and Dangerous games and Wings of War. This change would lead to development for the game taking an extra two years or so, with two directors coming to the forefront: Daniel Vavra and Petr Vochozka, the former of which I have more information on in the long run. Vavra was also the main writer for the game, having watched classics like The Godfather and Goodfellas and wanting to pay homage to movies like this in the form of a realistic video game with melancholic aspirations. Some concepts that were in development before being cut included a multiplayer mode, a racing menu as well as a body grabbing system to move around corpses you killed (perhaps for stealth reasons). Originally the team was around five people, though over the years it would grow to about twenty to forty people depending on the sources you pull from around the time of the release. How were the reviews for the game? First I’ll go over my feelings on it before following up on that.
+
+For most of review, links included: https://backloggd.com/u/gamemast15r/review/3354509/
+
+What’s there to say on the gameplay? I enjoy it a lot, but I can also understand how people would feel about it if they didn’t like it. I’ll start first on this with the combat/camera, as it’s very much an older game and it does things differently than the rest of the series. You’ll follow right behind Tommy at all times even outside of combat, the camera moving in the same direction that Tommy himself moves so you can’t exactly look around your surroundings like that. There’s no cover system so you can’t just hide behind a wall and shoot your gun wildly, instead you’ll need to crouch (to focus your aim better) and pop in and out left or right and shoot in order to kill someone unless you wanna go up for the kill. You have a health bar that goes up to 100 that sits in the lower left hand side of the screen that you’ll need to refill with first aid stations that don’t always make themselves obvious and are kind of few and far between depending on the mission. You will die really easily if you’re not careful, whether it’s getting unloaded on by a Tommy Gun or given a shotgun jumpscare that messes with me EVERYTIME. Actual checkpoints can have you replaying decent sections of a mission if you die. With everything that I listed feeling kind of archaic and annoying, then why do I like it so much? Maybe it’s a nostalgia thing but even despite my meh experience playing the Playstation 2 port, it just works well and I never really had an issue with it for the most part. I never had an issue with the actual combat or realism, and the truth is I only really felt hard pressed in terms of difficulty towards the last mission of the game or so just due to them introducing grenade throws. The actual gunplay itself feels fantastic between the various weapons, the feedback these weapons give, the satisfaction of putting down rival mobsters. Melee combat? So-so for the most part, as using your fists looks cool and sounds satisfying but you can also just kind of take a while to knock a guy out or you can get into a loop of getting knocked out. I honestly felt like combat sections were some of my favorite missions in the game, like the Italian Restaurant Ambush or The Farm. I feel like since there isn’t much else I can say here, I want to get into Mission Structure as this is where I feel like a lot of the focus on gameplay actually goes.
+
+Before I start I want to say that the game definitely focuses on a hyper realism and can be considered frustrating for those who aren’t used to older styled gameplay. I love it however as the missions itself remained vary, and while there are some long checkpoints and I never really enjoyed driving across the entire city again because some goons murdered me or police got a hate b o n er on me for speeding, I always just kind of took it in stride and had a laugh because I found myself genuinely enjoying the game. It doesn’t feel like just nostalgia but it feels like that and meeting the game on it’s same expectations, though I’ll admit I went in kind of being scared of it because of how “realistic” it was. Another thing I really enjoy? The details, some that you wouldn’t really know about unless you kind of explored or went off the beaten path a bit, though it isn’t that crazy. For example, when chasing Morello he has four separate ways he can die with three of them providing their own cutscenes and which one plays is kind of random; shooting down his airplane, crashing him off a bridge, stopping just before the bridge and engaging in a shootout (no cutscene) or somehow driving well enough to stay right next to him for a bit during the chase so the others can wipe him out before he gets to the countryside. This level of detail? Amazing. The Prison Sniper Job? Kill the construction worker near the manhole and dump him into it and you won’t have to worry bout cops later. The game doesn’t tell you this stuff but it’s pretty damn cool to learn about this sort of stuff, and as such I’ll leave a Steam guide in the links (or in the Backlogg’d page links) for you to check out but it’s seriously cool that it’s open ended how to approach situations sometimes and I wish they kept that for later entries in the franchise. One of my favorite details actually has to do with getting rid of the wanted car for Lucas by the lighthouse; most people would park it by the edge of the cliff before grabbing another car and then pushing it in. Put it in Neutral and get out of the car and bam it’s in the ocean! Though this brings up another section: driving.
+
+Links:
+https://m.youtube.com/watch?v=fD2E_fPDeIg
+https://steamcommunity.com/sharedfiles/filedetails/?id=2865792854
+https://m.youtube.com/watch?v=Mi_iG0jL75o
+https://m.youtube.com/watch?v=d7tss65Y92Y&pp=0gcJCRsBo7VqN5tD
+https://www.youtube.com/watch?v=RNiAvnCohu0&t=188s
+https://m.youtube.com/watch?v=uT7NTGVVrz8
+https://www.ign.com/wikis/mafia/PC_Cheats
+https://m.youtube.com/watch?v=BsjH-_b5R0w
+https://www.youtube.com/watch?v=QPuZpqT22vE
+https://www.ibtimes.co.uk/mafia-director-daniel-vavra-gta-grand-theft-409859
+https://www.youtube.com/watch?app=desktop&v=Mi_iG0jL75o
+https://blog.playstation.com/2017/08/29/my-life-in-the-mafia-games-looking-back-on-the-series-15-year-history/
+https://www.youtube.com/watch?v=oxneE7TUGu0
+https://www.databaze-her.cz/hry/mafia-the-city-of-lost-heaven/zajimavosti/
+https://mafia.2k.com/news/mafia-20th-anniversary-developer-interview/
+https://www.youtube.com/watch?v=h9PLdfhcIDk
+https://www.youtube.com/watch?v=-Hs7Y0gzQ7E
+https://www.youtube.com/watch?v=cNXP7up9m4w
+https://tvtropes.org/pmwiki/pmwiki.php/Trivia/MafiaTheCityOfLostHeaven
+https://www.youtube.com/watch?v=gm9nI1kB9lg&t=682s
+https://www.imdb.com/title/tt0338221/
+https://www.youtube.com/watch?v=DbRVs5F2HxM
+https://mafiagame.fandom.com/wiki/Mafia_Soundtrack
+https://www.youtube.com/playlist?list=PL5NaQUcLY2gCJL2NZnbrJM3qYc3aEB2Vr
+https://www.youtube.com/watch?v=E78OIBYmSjQ
+https://steamcommunity.com/sharedfiles/filedetails/?id=1207695708 (Music Mod)
+https://www.nexusmods.com/games/mafia
+https://www.youtube.com/watch?v=BvXUR_ynn7k",0.5332489013671875,3,True
+40990,5377547,76561198048802656,"A cab driver ending up as a hitman for the mob because of one stupidly bad night. That's pretty much the story outline of Mafia, and god is it presented well. Good voice acting, and an awesome storyline that on more than one occasion reminds you of the Godfather (which is pretty obvious heh), and the gorgeous music to top the amazing atmosphere of the City of Lost Heaven. A truly great game with, for its time, gorgeous graphics. 10/10",0.5828899145126343,10,True
+40990,50389896,76561197970755524,"The first and the very best in Mafia franchise. Masterpiece from 2002. 
+A more realistic GTA, set in 1930's America.
+
+• Realistic driving.
+• Cars with limited fuel.
+• Police responding to speeding and red lights. 
+• Great story with memorable characters.
+• Outstanding racing scene that everyone hates :bbtcat:
+• Visuals may be dated, sure, but back then it was ""holy crap, my PC is gonna blow!""
+
+You can run it without problems on newer hardware and Windows 10. Install Widescreen fix and go!
+
+BTW. There is a working mileage counter in every car. Something that is not even present in modern racing games. Go figure.",0.5827137231826782,5,True
+40990,54731928,76561198191189787,"[b]Godfather’ın Gölgesinde Bir Oyun Deneyimi: Mafia
+
+Zamanında hepimiz Godfather gibi kült mafya konulu yapımları izleyip hayran kaldık. Bu tür yapımlar, çoğumuzun aklında romantize edilen bir suç dünyası yaratmıştır: sadakat, güç, ihanet ve stratejilerle dolu bir dünya. Eğer siz de bu karanlık ve entrikalarla dolu atmosferin bir parçası olmak, mafya-vari bir dünyanın içerisinde birinci elden rol almak isterseniz, size önerebileceğim yegâne yapımlardan biri tam karşınızda duruyor. Bu yapım, sizi adeta 20. yüzyılın ortalarındaki klasik suç örgütlerinin içerisine çekiyor ve bir mafya üyesi olarak yükselişinizi deneyimlemenizi sağlıyor.
+
+Grafikler, günümüz standartlarına göre belki göz kamaştırıcı değil, ancak atmosferi başarıyla yansıttığını söyleyebilirim. Şehir tasarımları, karakter modelleri ve dönemine uygun detaylarla dolu çevreler oyunun genel atmosferine katkı sağlıyor. Özellikle gece vakti şehirde dolaşırken ışıklandırmalar ve sis efekti gibi ince detaylar, oyuncuyu gerçekten o dünyaya ait hissettirebiliyor. Grafikler yeterli düzeyde olsa da, kimi oyuncuların daha modern görsellik beklentisi içinde olabileceğini göz önünde bulundurmak gerek. Yine de bu yapımın asıl gücü, atmosfer yaratmada ve sizi hikâyenin içine çekmede yatıyor.
+
+Mekanikler ise ne yazık ki grafiklerin aksine biraz can sıkıcı olabilir. Kontroller bazen hantal hissettirebiliyor ve aksiyon anlarında beklenmedik hatalar yaşayabiliyorsunuz. Ancak bu kusurları, eğer mafya temalı yapımlara ilgi duyuyorsanız, göz ardı etmeniz pekâlâ mümkün. Oyunun sunduğu görev çeşitliliği ve ilerledikçe açılan hikâye öğeleri, mekaniksel eksikliklerini bir nebze de olsa affettiriyor. Ayrıca, mafya dünyasının katı kuralları ve hiyerarşisine uygun olarak ilerleyen olay örgüsü, stratejik düşünmeyi ve dikkatli kararlar almayı gerektiriyor. Bu da oyuncuya farklı bir derinlik sunuyor ve adeta bir suç lordu olmanın sorumluluklarını hissettiriyor.
+
+Sonuç olarak, eğer bu tür oyunlar ilginizi çekiyorsa, kütüphanenize eklemenizi ve kesinlikle denemenizi tavsiye ederim. Eksikliklerine rağmen sunduğu atmosfer, hikâye derinliği ve klasik mafya yapımlarına olan saygısı ile sizi içine çekeceğine eminim. Oyun dünyasında geçireceğiniz her dakika, sizi daha fazla suç dünyasının içine sürükleyecek ve hikâyenin gidişatına dair merakınızı arttıracaktır. Hazır olun; bu yapımda bir mafya babası olmak sandığınız kadar kolay olmayabilir, ancak kesinlikle unutulmaz bir deneyim olacaktır.
+
+[url=https://store.steampowered.com/curator/28040015]Daha fazla inceleme için küratör sayfamızı ziyaret edebilirsiniz.[/url][/b]
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=2748929595",0.5827029347419739,6,True
+40990,44897052,76561197988179374,"I played this game for the first time more than ten years ago when it was first released. I still remember the beautiful soundtrack and the amazing characters. I also remember how difficult it was, back then there was no way to choose a difficulty setting for the race for example, it was quite a nightmare. It's a shame the two sequels didn't live up to the expectations. Maybe some day we'll get a remaster for this masterpiece but even as it is, it still holds really well, even in 2018.
+
+In the end we did get a remaster so check it out!",0.5795981884002686,3,True
+40990,38059486,76561198214813843,"[h1]Mafia[/h1]
+If there is a game that can compete with games of today's times it is definitely Mafia. It is one of the best game titles in the world and no one will ever change that. The game was created in 2002 by the studio Illusion Softworks (2K Czech). And I'm proud that such a good game has created the gaming industry from my country. For the times when the game was released it is a complete miracle. The most perfect graphics, highly sophisticated story and characters, beautiful music and much more. This game has built a perfect title that is already gone out of thanks to Mafia 3, although I am not the haters of this piece but it is really really poor. Overall, this game deserves a really big gold shelf in my steam library and has no bigger mistake so the rating is quite clear.
+--------------
+[h1]10/10[/h1]",0.5792880654335022,9,True
+40990,48969401,76561198003294307,"2026 update:
+Game needs launch fix on modern Windows. Thankfully it is included in ""Widescreen Fix"" from ThirteenAG, which you should use anyway.",0.5780620574951172,8,True
+40990,107599583,76561198044916929,"I pirated this game back in 2007. It didn't run on my parents' home computer at the time, so I only got to marvel at the potential game that I could have been playing. 
+
+I don't know, it's probably good. 
+
+Have you ever seen a movie and immediately thought, ""I've seen this before..."" despite never having seen the film under analysis? I played 2k's Mafia II many years after 2007, and upon finishing the game I felt that feeling. I felt the same thing when I finally watched Kurosawa's Seven Samurai. Primarily because some stories are molded so integrally into our collective unconscious that it is almost inevitable that this story be told, secondarily because I saw A Bug's Life. 
+
+Mafia probably falls under the same category. You've played this game, even if you haven't played it. You know what it's gonna be, what you'll see, what you'll do, what you'll hear. 
+
+And that's cool.
+
+I don't know, play it anyway.",0.5270270705223083,1,True
+40990,102249280,76561197990343645,"the game brings back memories.
+it is like a boiled down version of gta with slow 30ies era cars which get less shitty as you progress with the story. some missions are particularly frustrating as it is not clear what you have to do. even though i played the original game way back i had to start some missions ten times over until i figured out what to do. the game crashes every now and then and sometimes scripted events do not trigger.
+unfortunately i missed the bit about the missing soundtrack which was an essential part of the Mafia experience for me. now you can enjoy lost heaven in realistic silence.
+also you cannot unlock some of the freeride extreme cars because of framerate issues.",0.5270270705223083,4,False
+40990,116989661,76561198060054098,"[h1] Still one of the greatest games of all time, even after 20 years of being made. What The Godfather is for movies, Mafia is for video games [/h1]
+
+The realism of this game is unmatched by most of the games in the genre:
+- Cars running out of gas (even quicker if the gas tank gets shot) and gas stations with an actual purpose other than blowing up
+- Realistic physical damage/scratches to cars
+- Blinkers when turning
+- Manual transmission (including the neutral gear)
+- Easy to get shot down by bullets if you play like a dummy
+- Running red lights and speeding gets you chased by the cops
+- Car parts falling off and windows shattering, etc.... 
+
+It's the little things that all add up to bring you a sense of realism that a lot of newer games fail to do, including the new remake of this game that I personally did not end up liking.
+
+The good old music of the era, which is not provided by downloading the game from Steam by the way, but can be easily patched by downloading a library from the internet.
+
+The story, the characters, the city, the car chases, the shootouts... One of a kind experience. It even has an addition of Free Ride (roam) and Free Ride Extreme, where you can complete crazy missions to get crazy cars, just for fun.
+
+A must play.",0.5267553329467773,2,True
+40990,76870356,76561198125404716,"Dont play the remake without playing the original Mafia. Characters in original mafia feels like they have soul and the story is spoken much better than in remake. And i am sure that it is not only nostalgia that speaks from me. If you are deciding what to play first, then do not play definitive edition first or at all.",0.5262222290039062,5,True
+40990,166519474,76561199180903123,"Mafia: The City of Lost Heaven was my first pc game. Then I was 11 years old and only games which I knew were Clash of Clans and Clash Royal. But year ago I had bad marks in school in my parents' opinion and they took my phone. Then a year after I saw how my grandpa was playing Mafia and I wanted to try! He launched me the start of 17th chapter and then I called this game ""A red car"". At first time I just rode and I didn't care about that compass in the top left corner and I just got the pleasure from gameplay! And after a while I noted the compass and then I tried to get to my target. I was young in video games and I hadn't enough experience to understand how to go through the river. I don't remember what was after I'd got to the prison, but I remember I was difficult to kill those guys in it. I remember how I launched random missions after that cuz my grandpa had walked through Mafia already. Then I decided to create my own profile and walk it through myself and I met a problem, that I didn't know how to set controls. I know it sounds stupid but it was so. My grandpa had strange controls and thus I turned steering wheel via mouse buttons! And then I begun to walk through Mafia with ready saves on his profile. I remember how I skipped some missions and I even skipped that race which I tried to walk through and by the way that was version without the difficulty level choice! That's why I was angry a lot. And my grandma saw this that's why she asked grandpa to uninstall Mafia because of what I lost my connection with pc gaming for the next 2 years. Then, in 2021st, when I was in 6th class, I saw how my grandpa was playing Mafia again and in this time I could setup controls in the game and in this time I couldn't skip anything. And despite the same old version without the difficulty choice in the race I managed to walk through that goddamn race! And as far as I remember I did it on the first attempt! I can't be sure in my memories, but I remember how I was sitting in front of screen with credits and I even recorded that moment on my old iPhone 5S! I still remember that evening and that was cool! After that I wanted Mafia on my laptop and I didn't know about Steam and that the games can be not free and I used torrent. Now you can make sure I have Mafia on my Steam library by reading this review! But then I didn't know about Steam and played the torrent version. What after? After I spent all my summer with Mafia! And that was really cool, but! In the end of that summer I became a Geometry Dash's fan. I played it on my phone and one my fried told me about Steam and that I could buy GD there. Then I made my account and after that I bought Mafia when I noticed it in Steam! So, I think it's the end of my acquaintance with Mafia and here I can get down to the game! 
+PLOT (SPOILERS) 
+Even though Mafia looks like a driving simulator, the main thing here's the plot. I'm not a perfect screenwriter and I'm not at all, but I can tell something about it. If you wanna walk through the game yourself, what are you waiting for? Go, or just skip this part! Well, we have a protagonist Tomas Angelo, usual taxi driver, who met two Salieri gangsters one night and it changed his life. For the whole game Tom meets difficult choices, when he can't kill a woman, for example. It shows us, that Tommy isn't another gangster without feelings. And these ""feeligs"" brought Tomas to the end what we got. This game has got the morality and it's not just a dramatic story! That's why it's easier to connect Tommy with oneself! I don't wanna retell the whole plot cuz I don't see any point doing this. 
+GAMEPLAY
+However, we play games not only for the plot... Yeah? Is it right? It's a little different case with Mafia. I think most of the fans who have played other games can acknowledge that gameplay isn't the best here. Cars are very slow and it's logical, but for the new players it won't be a big pleasure. The same case with the shooter-part of Mafia. It's terrible compare with fps-games, but compare with GTA 3 and Vice City it's not so worse. Sometimes you shoot an enemy, but the bullets take a wall or another one obstacle! Therefore I can't say gameplay is good. Most of the players will stop because of gameplay, but you can get used to and if you do, you can even get pleasure! 
+MISSIONS
+It's one of the most important parts in such games and... Mafia alost hasn't the problems with it. The mission can suggest you a puzzle sometimes. Sometimes Daniel Vavra will be kidding you with his traps, and... I'd like to compare Mafia with Dark Souls 1. Sometimes you wanna stop it, for the first walkthrough. But all the next times it won't be so hard for you. Anyway, the mission have an interesting design and Daniel Vavra is really cool man! I respect him despite his strange game design decisions. But, actually, I respect him FOR his strange game design decisions.
+ATMOSPHERE
+And here we go! This is the second game part which Mafia's fans love it for! The first's plot. So, Mafia got no problems with it! Music makes amazing vibe and I love it like other fans do! City looks great and by the way, there's a certain song plays in every neighbourhood! And the main theme... Every fan cries hearing it! 
+CARS
+I haven't played a lotta games, but car park in Mafia is quite big! Here we have certain makes of cars with their models-list. It's really interesting and I like how Illusion Softworks made it! 
+WEAPONS
+Sure, you won't find such big diversity of weapons in Mafia like in GTA V, but after this game Tompson became my favorite weapon and it actually enrages that Vincenzo gives Sam and Paul Tompsons, and we get nothing, but Colt 1911 or Sawed-off Shotgun! Anyways, I like the local weapon list! It includes sniper rifles and few pistols! Even few shotguns!
+FREERIDE EXTREME
+Well, what were the developers smoking by coming up with it? These're 19 mission which ain't related to the main plot and you get a bonus car, which is very fast and sometimes looks weird. It's unlocked after the main plot and there you won't meet any cops. It's just funny and that's all! 
+CONCLUSION
+I've walked Mafia: The City of Lost Heaven 13 times and I'm not sorry! I love it and I won't forget what it taught me! I recommend you to play it for its plot's sake, but if it brings the pain to you, watch a walkthrough on YouTube! It deserves you to know its story! I haven't played Mafia:Definitive Edition, but I've watched walkthrough and I can say, the the moral of the plot is better in the original game! 
+ Thanks for readin' and call 7 birds!",0.5255212187767029,2,True
+40990,236725316,76561198075754877,Best story telling game ever and great driving model for its time of release.,0.523809552192688,1,True
+40990,231075527,76561199526586219,"Game is older than me, but it's still good. A little scuffed, The controls are wack but those can be changed in the settings. Some bugs and lack of direction but overall the game was great.",0.523809552192688,1,True
+40990,226459127,76561198845353133,"This game holds such a big place in my heart. It used to be my safe haven during a difficult period in my teenage years. Specifically, I adored the taxi missions, I found comfort in them. It warmed my heart to just drive these old cars around the city of Lost Heaven.
+I also love that progressing into the story feels rewarding because you gradually get more powerful cars, starting with the ones that can barely move (saying this lovingly). Plus, the driving physics here still beat those in many modern games. Finishing that notorious racing mission feels like defeating prime Radahn or idk what else.
+The characters, they are so memorable that it took me a long while to get used to the ones in the remake. Although to me, the remake turned out to be just as good as the og. 
+The story in its turn is so good that I've never ever skipped any of the cutscenes because experiencing them feels like reading beautiful chapters of a good book.",0.523809552192688,1,True
+40990,224778921,76561198834646766,"Incredible game, great story, honestly far more impressive than GTA III ever was.
+
+If you're going to play it don't forget to download the original music files, as they were removed from both Steam and GOG re-releases. And a widescreen patch.",0.523809552192688,1,True

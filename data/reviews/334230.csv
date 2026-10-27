@@ -1,0 +1,935 @@
+appid,recommendationid,author_id,review,weighted_vote_score,votes_up,voted_up
+334230,13407743,76561197968547199,"Town of Salem is presented somewhat in the style of an animated board game, pitting fifteen people against each other in a clever roleplay battle of wit, perception, strategy, and deception.
+
+[u][b]A quick recount of a fun session I played.[/b][/u]
+In a recent game, I was the serial killer. That means I can kill at night and can not be killed. All I have to do is keep killing people, keep deceiving them, and not leave any clues for them to suspect me. I won this specific game, because there was a player named Snoop Dogg and every time I killed someone, I would leave a ""death note"" with a vague dog-related reference on the victim - even some as obtuse as ""Bow down before the Lion"". This made people increasingly suspicious that this other player was the serial killer, without focusing any suspicion on myself. Yet, I (feigning to be a good guy) kept raising questions about yet *another* player, so that the town never had enough votes in agreement about Snoop Dogg to have him put on trial. Keeping Snoop Dogg alive meant I could keep killing with impunity. Until there were so few townsfolk left that I was able to kill Snoop Dogg, get away with it, and win the game.
+
+[u][b]So what is the gameplay?[/b][/u]
+When you start each game, you can pick new name. Some people choose generic and some are clever. It's the internet, so plenty are offensive. When the game starts, all fifteen players will be told what their role is. Each role comes with certain abilities, traits, alignments, and limitations. The goal is to play your role, while supporting your faction. Each role has different faction alignments. Some are aligned with the mafia and the town. Some are aligned with the town and witches. Some, like the serial killer, are aligned only with the survivors.
+
+The game is broken up into rounds. Your activities are performed at night. If you're the serial killer, you kill at night. If you're the investigator, you investigate one person's information each night. If you're the mafia, you communicate privately with the other mafia and the godfather at night, about who to kill and then you kill them. If you're the jailor, you put someone in jail overnight. If you're the escort, you distract someone overnight.
+
+Then there are limitations. For example, the serial killer can not kill the mafia's godfather. So if you choose to kill someone overnight, but are not able to, there's a good chance you (as the serial killer) have just identified who the god father is.
+
+When the night is over, you get a tally of the dead and how they died. You can read their will (each player can write a will, which for some is just a clever or insulting quip, but for others is an on-going ledger of information they've gathered while playing, so that upon their death, other players are informed as to what that player knew).
+
+Still in the day phase, everyone votes on who to execute, if anyone. If enough votes are tallied for an individual, that person has to plead their defense to the town (in their own words). The town can then determine if they find him guilty or innocent. If he's guilty, he is hung. After his death (as with all deaths), his name goes up on a visible list for all to see, along with their role. (As an aside, there are also mediums - who are the only players who can communicate with the dead players in chat, using their information for themselves or to share with the living to inform future judgments).
+
+It will often play out something like this: Someone accuses a player of being the godfather. Everyone votes for that person. That person swears they are the sheriff and the town needs them. Nobody buys their lies. They hang him. Then the name and role appears on the grave sites... they were telling the truth! They [i]were[/i] the sheriff! Uh oh!
+
+And then night comes again and we carry out the rounds like this, until almost everyone is dead and the town, mafia, serial killer, or other faction is left alive and declared the winner.
+
+[u][b]There are a few small hurdles that may trip some up. They are worth dealing with.[/b][/u]
+First, this is a free-to-play browser-based game that is now also on Steam for $5 USD. Those $5 are converted to ingame currency to buy cosmetic items like death animations or houses. There is no pay-to-win aspect to the game; only cosmetic items. You also accrue currency simply by playing, so you could play with no disadvantage whatsoever without ever paying a dime.
+
+Second, the game requires you to install Adobe AIR, so if this isn't already on your system, it will direct you to install it before the game runs. You'll also need to create a game account. Click ""register"" from the game's interface to be taken to the web page where you do this. The page it takes you to is a sign-up for a forum account, which may seem confusing. Just do it, as the account is directly tied to your game login. When you're done, login to the game with those credentials.
+
+Third, when you go to play a game, you'll have the options ""invite friends"" and ""solo"". This is very misleading, but if you click ""solo"", you will actually be entering the online multiplayer, which is what you obviously want.
+
+[u][b]Overview.[/b][/u]
+The game is addictive and allows for a lot of role playing and deception. Even with fourteen other total strangers. Depending on the mode you are playing, there are also somewhere between 15 and 30 different roles to be played. Vigilante, veteran, doctor, mafioso, framer, godfather, spy, jailor, sheriff, escort, serial killer, witch, werewolf, arsonist, executioner, survivor, amnesiac, forger, vampire hunter, vampire, janitor, disguiser, consort, consigliere, blackmailer, bodyguard, investigator, lookout, mayor, medium, retributionist, transporter, jester...
+
+The game becomes a clever meeting of wits, suspicions, piecing together what you know about roles and how they interact with each other, lying, determining truth, banding together, and backstabbing. It is absolutely unique and so compelling that I played six hours straight the first time I launched the game.
+
+The game is a no-brainer at the price of zero dollars, if you play the web version. Frankly, it's worth $5 USD for the Steam version, too. If you're unsure, try the web version and decide if you'd like to support the guys behind this game by kicking in the $5 on Steam and getting this version. It also doesn't seem like there are a lack of players. Even past midnight, there were more than 300 ongoing games being played by almost 4,000 players. I never waited to get into a lobby and lobbies are filled and launched into the game within about one minute.
+
+I can't implore you enough to give this game a shot, if any of this sounds even remotely compelling to you.",0.9630957841873169,506,True
+334230,32138118,76561198291670429,"Great game, horrible community.",0.9036786556243896,320,True
+334230,14322920,76561198024437968,"I convinced town that I was a medium and can listen to the dead.
+I then went to each persons house to perform a ritual to speak to their lost ancestors.
+Night by night I would brutally murder each and every one of them.
+They never knew I was the serial killer out to get them all.
+After they were all gone I decided to come home and play some Town of Salem and found it was alright.",0.8958472013473511,1582,True
+334230,136479841,76561198261041056,"I have never been banned, nor suspended. i Have supported the devs with money i have earned my my minimum wage job. i have over 100+ hours in the game. Yet i made a single joke about doing money laundering for BMG. and was immediately perma banned. I have tried to appeal. and was told the devs themselves consented to the ban. then was told it was libel. This was very upsetting because genuinely do enjoy playing the game. however this imo was a misstep. you will join a game, and have players making their names racial slurs. and will report them. Then a week later are back on with the same username. yet if you make a harmless joke that revolves in the community. you will be banned. forever. with no chance of appealing said ban",0.8897148370742798,280,False
+334230,29179028,76561198146563935,"When I'm mafia, the town is incredibly smart.
+When I'm town, the town is incredibly stupid and I'm hung as a supposed jester or mafia.
+When I'm jester, I never get hung and are assumed town.
+When I get my favourite role I'm killed night one.
+When I get my least favourite role I last the entire game, begging to be killed.
+
+This is actually the best. I can't believe I've spent 42 hours of my life lying about who I am.
+
+Serious part of the review: it's like a better, more intense version of Werewolf and Mafia. TONS of fun once you get it down and figure out how to play! It's really easy to learn!",0.8876420259475708,113,True
+334230,83182269,76561198435717423,"You have decided to douse John Hathorne tonight.
+
+John Hathorne died last night.
+
+He was killed by a member of the Mafia.
+He also apparently committed suicide.
+He was also stabbed by a Serial Killer.
+He was also mauled by a Werewolf.
+He was also bitten by a Vampire.
+He was also shot by a Vigilante.
+He also died of guilt over lynching the Jester.
+He was also shot by the Veteran he visited.",0.8743920922279358,74,True
+334230,162894703,76561198276180641,"BlankMediaGames Business Model:
+-Ban half the playerbase
+-Put a paywall on a previously free browser game
+-Release a bad sequel that splits the already hurting playerbase
+-Suffer a data breach in 2018 that revealed player Ip addresses, emails, and passwords. haveibeenpwned.com
+Bravo!
+
+Still the best online deception game ever made. Funniest text chats ever witnessed, and some of the most fun I will ever have",0.8721521496772766,74,True
+334230,114356088,76561198400552611,"Good game, terrible devs/moderation team. Never will you find a more corrupt than the mod and judge team in this game. They will ban accounts willy-nilly, and then say ""We are fine with you buying a new account, the punishment is you losing your original account"" which sounds like money grabbing nonsense to me. I was banned permanently from a 3 year old account, and when I brought up any alternative ways to regain my account, they said basically ""suck it up, buy a new account if you really love this game"". It's absurdist to the extreme. Besides that, the mod team banning the wrong people, and the exceedingly toxic fanbase, it is a wonderful game. I truly love the pacing and mind games in it. The highs in this game are super high, and the lows are just as extreme. I recommend only if you are ok with everything you worked/played for being deleted on a whim and being told to start over again.",0.8668360114097595,147,False
+334230,38504388,76561198245582070,"This is game is so much fun. Can be challenging, certainly addictive. There's just one negative: PLAYERS!!!! A butt-tonne of people quitting if they don't get a 'preferred role', people who quit right away if they die even though they can still be useful, etc. 
+
+I don't know if the Devs read these comments, but I'd like to ask if they can implement an autoban for quitters. Say, an hour? Maybe two hour ban? These people really spoil the game for everyone else",0.9137120842933655,165,True
+334230,27346145,76561198122833472,"Okay, so this is gonna be difficult, cause I really enjoyed the game up until the most recent patch. I'll be completely honest lads, making a premium currency was a d*ck move. I paid for the game already to support you instead of playing it for free in my browser, I've recommened buying the game to friends. 
+
+I'm very disappointed to see a quality game go down the route of microtransactions, it's an awful shame, and what's more, it's pretty sh*tty of you guys to charge for a free game and then rip-off the people who paid full price for it by not only having promotions for microtransactions still in the game, but also now introducing a ""premium"" currency for people with wallets bigger than brains or access to mummy's paypal. Sorry guys, it's a no from me.",0.8505561947822571,205,False
+334230,60161347,76561197993309743,"I absolutely loved this game, with over 1000 hours dedicated to Ranked, but I just can't recommend it anymore.  It feels as though the devs have given up on the game, and after two years of waiting for them to change their course, so have I.
+
+Some of the more specific complaints I have are:
+
+1. An extensive data breach of millions of accounts back in January 2019.
+2. Reports are player-managed and not incentivized, meaning most rulebreakers don't see their reports reviewed before they expire.
+3. The rules constantly change, but these changes are listed on third party sites like Reddit, and are never mentioned in-game.  They also often include sections that contradict each other.
+4. The last ""season"" (supposed to last 3 months) has been going on for over 18 months.  Seasons are a chance to rebalance the gameplay, reward players, and reset the scoreboards.  None of this has happened.
+5. The ELO-based matchmaking system doesn't really work, and will occasionally pair players with vastly different (>1000) ELOs into the same game.
+6. Coven Ranked is dead and has been for years.  The devs have done nothing to try and revive it.
+
+These aren't problems you can solve overnight, but they also shouldn't take years to address.  Constant excuses of mobile development and engine rewrites preventing them from rebalancing roles, punishing rulebreakers, or resetting the high scores were rediculous, but what's far worse is that those problems still exist months after that development has concluded.",0.8948305249214172,193,False
+334230,14553165,76561198035937021,"It was down to the three of us.
+
+""I'm the executioner,"" I stated quickly, with a confidence that cracked at its edges.  A mask confidence, stuck to my face with the sinuous yellow terror of a hunted animal.
+
+Tiny Box Tim claimed the same.  But I had built up a rapport with the medium, and the dead were similarly deceived.
+
+When we put him on the scaffold, he was calm.  His defense came too slowly:  ""But [i]I'm[/i] the executioner,"" he complained.  A quick and uncovering apology.
+
+""We can't both be,"" I hissed.  The medium's vote wavered.
+
+And he damned us as we dropped him and our judgment broke like his own weight against his neck.
+
+""Town wins!""  I said, mocking, hysterical.  The con was over.  And as we turned to our beds I fondled the long knives in my pocket and wished the medium sweet dreams.  She would be with her communicants in the grey and severed world beyond the scaffold soon enough.",0.8816940188407898,413,True
+334230,40024321,76561198004417179,"This is a fantastic game
+ONE HUGE PROBLEM, i am now perma banned because apperently if a few stupid people decide that they think you threw the game then can report and ban you. within a few days i received my first and last warning.
+One of these instances i was a medium with two killing non-townies i had to pick who won. as it was the only game i played that day i now see my vote was WRONG as i am now banned.
+
+i loved this game. but how the ban system works is an atrocity 
+no appeal no side of any story. so now im out of my time and money 
+Thank you!",0.8239575624465942,193,False
+334230,94947093,76561197991404795,"Gameplay, great. Really fun hidden role game.
+
+However, there are two major issues with this game that really ruin it.
+
+Playerbase, and the ban system.
+
+For a pretty complex hidden role game, new players are greeted with hostility. I've introduced three friends recently, and each one of them got put off because they got reported for game throwing because they didn't know the way the role worked, e.g forgetting to write a will or performing their role.
+
+Imagine you join as a jailor in your first game, you don't jail someone until night three because you don't notice the button, you don't write a will and you accidently execute a confirmed townie because a maffia convinced you to. Sounds like a pretty nice move from the maffia right?
+
+Nope because your going to get banned for throwing the game and not knowing your role. 
+
+Which leads me to point two, the ban system. This game has an awful ban policy, if you do anything slightly wrong, or try and have a bit of banter your going to get banned. The forum system they have allows anyone to view any report that has ever been made. I explored and found some incredibly awful instances of how players got banned, here are some genuine reasons players got perma banned.
+
+Three people left, 2 town and 1 SK, you have no idea and want to have a bit of banter. You say ""Hey SK I'll give you a fiver to reveal""
+
+Yeah, your going to get banned for cheating. In this instance the guy tried to appeal and the moderator who determined it, was incredibly hostile and refused to over turn it. 
+
+Day 1 as maffia, you want to make yourself look like jester so you don't get hung, you claim maffia in order to seem like a super stupid jester. Yup, your going to get banned because you revealed your ""Role"" by sounding like another role. In a hidden role game.
+
+Someone had their name as ""Obama Bin Laden"", now maybe that warrants a suspen... PERMA BAN. For encouraging terrorism.. 
+
+I spent last night looking through most of the appeals and almost none of them got over turned, the moderators were incredibly hostile and having massive power trips.
+
+The worst bit is, the mods also encourage you to just make a new steam account and buy the game again, which leads me to believe that the mods are literally banning people to try and encourage revenue, which is outright disgusting. 
+
+Tldr; I cannot recommend this ban simulator in any situation, the community is extremely toxic, the ban system is extremely broken and you get perma banned for playing the game or being new, and the moderators are corrupt and on a power trip.",0.8139697313308716,73,False
+334230,26446716,76561198027522161,"I try to play honest.       I get lynched.
+I try to play dishonest.  I get lynched.
+I try to mix it up.            I get lynched.
+I try to play silent.         I get lynched.
+I try to get lynched.      I don't get lynched.
+
+I think people just like screwing with me.",0.8592624664306641,115,True
+334230,48107383,76561198307693284,Our accounts passwords and emails were compromised and they delayed telling us because it would be bad timing over christmas time. Literally ridiculous.,0.80861896276474,102,False
+334230,38290998,76561198028623158,"Ever dreamed of being part of a three-person mafia, where one of them probably won't talk and the other is twleve years old? THIS IS THE GAME FOR YOU! There I was, wasting my life, playing games that looked visually impressive when I should have been investing in a 2D from the 90s. 
+
+The game, seriously, isn't that visually amazing... but the premise is good. At the start of the game you are assigned random roles (Doctor, Sheriff, Serial Killer, Jester), all with different abilites. However, the only thing you can know for sure at the beginning is what your role is. Consequently, chaos ensues from 15 people trying to convince each other that they're all good. 
+
+It's one of those games where you can put 100 hours in and get your strategy for each role down... but you can never properly account for human stupidity. You will be extremely frustrated if you are part of the good town, and have discovered an impostor... but no one believes you. Equally, however, you will find it hilarious if no one seems to be able to figure out that it's you killing people every night and putting Rick Astley lyrics in the death notes.
+
+It's like a party game, in fact I think that's what it's based on. Fun to play alone, better with friends.",0.8471030592918396,69,True
+334230,50921189,76561198159443576,"its with a sad mood i am reviewing this game. after several years of playing, my account was banned for some reason. When i tried to go onto the main forum to find out why, i found my account was deactivated there too. after paying for the game and loving it for years while i was overseas for the Military, ill sadly be uninstalling the game. 
+
+Perma-banning people who have never even received a warning for a game they paid for is insane.",0.7923501133918762,122,False
+334230,82894939,76561198080894136,"As you can probably tell from my playtime, I've really got my money's worth on this game.
+The 1000 hours I already have could be even more if the hours from before the steam release counted.
+
+The base game is alright.
+
+[list]
+[*]Classic mode is where most new players go. You have a very specific role list with very little variation, which allows you to start out by learning a few roles at once. The main downside of this mode is that it isn't all that replayable. The very limited role list doesn't allow much variation and doesn't give much claim space. Since this is the mode where most new people go, you can also easily find yourself annoyed at the incompetence of others once you start to learn the game.
+[*]Ranked Practice is where most of the action takes place from what I understand. I remember back when I played ranked practice, it was possible for every role to appear. Sadly, they ended up making it impossible for most of the neutral roles to make an appearance. However, the Mafia and Town role lists are way more varied, giving Mafia more claim space and adding more replayability. People tend to also know more what they're doing, which is a nice plus.
+[*]Town Traitor Mode seems to also be decently popular. Like in ranked practice, there is no variation in the neutral roles, but all Mafia and Town roles have a chance of appearing. In addition, 1 randomly selected townie now secretly works for the mafia, which is an interesting concept that switches up the game quite a bit
+[*]All Any is where you'll probably find the most replayability in the long term. Every slot can be filled with any of the roles in the game. This does mean the role lists are often less balanced, but because you don't know which roles are in the game, you have a lot of claim space. It can be a chaotic mess, but darn if it ain't a fun one.
+[/list]
+
+However, the coven DLC is where the game really shines in my opinion
+
+[List]
+[*]Coven classic and coven ranked are both deserted, good luck finding players there
+[*]Weekly gamemodes sees a good portion of players. Every week, one of 3 gamemodes can be played
+[list]
+[*]Lovers where 8 of the 15 people are split up into 4 lover pairs. If your lover dies, you die. If your lover wins, you win. The role list is pretty static, but contains a lot of neutral roles which is nice since not many modes tend to have a lot of neutral roles in them.
+[*]In VIP mode, 1 town member is randomly selected to be the VIP. Every single townie will know who the VIP is. If the VIP dies, town loses and coven wins. It's a great introduction to the coven faction and always has 2 of the DLC neutral roles. The role list doesn't change much, but it's varying enough for a weekly gamemode.
+[*]Town traitor is largely the same as the one from the base game. One random townie secretly sides with the coven faction. This gamemode has no neutral roles, it's purely Coven vs Town
+[/list]
+[*]Lastly, we have the gamemode where I spent most my time in, the main reason I still enjoy playing this game. Coven All Any. It's the same principle as normal All Any, but there are way more roles in rotation. The Coven expansion added a lot of roles and here you are able to see them all interact with each other. Basic all any, even though the role list varied every time, was still Mafia vs Town. Coven All Any however sees 3 major factions (coven, mafia and town) facing off against each other. And as if that wasn't enough, you also have this large variety of neutral roles all with their own objectives, thrown into the mix. Even though this gamemode tends to be chaotic, I'm rarely left feeling like there was nothing I could have done to save the game. Even tho the odds can easily be stacked against you, there is almost always still a way to win. It feels great, grabbing the victory for town when there were only 2 townies in the game. I've had games, where I was the only evil left and I managed to convince town that I was one of them, getting a lot of townies lynched in the process and sneaking the victory.
+I can't stress enough how much I love playing this gamemode. The people generally know what they're doing, there are very little trolls and it feels fresh every match I play
+[/list]
+
+tl;dr:
+base game is good, coven DLC is better. Hope to see you in Coven All Any",0.7896832823753357,41,True
+334230,24336314,76561198062109601,"Me playing as Arsonist in ranked
+Claim Survivor and never douse anyone
+Night one got attacked claimed to use my vest
+Never got attacked again
+Only 3 players left
+Me and last townie vote to hang mafia
+As he is about to die townie says gg and thanks me for voting up
+Mafia dies, game doesnt end. #OhDamn
+Doused the last townie
+Watch him rage in his last day of life.
+#FeelsGood",0.8346708416938782,89,True
+334230,131657553,76561199012363962,"Before I get into the review, allow me to say one thing. THIS GAME IS COMPLICATED AND YOU WILL DIE A LOT BEFORE YOU FIGURE IT OUT. As someone with a decent amount of playtime and a grasp of how the playerbase and game works, allow me to give you some tidbits before you download this game. It will help you a LOT.
+
+1- Always have a Last Will written, stating what your role is and what you do every night.
+(EXAMPLE BELOW:)
+
+[NAME] the [ROLE, FAKE ROLE IF YOU ARE EVIL]
+N1 (stands for Night 1): [what your role did that night on which player]
+(repeat the same process for nights 2, 3, and so on).
+
+2- Some basic vocab. There are some basic vocab words you should know so you don't get confused.
+-inno (means vote innocent in trials)
+-vfr (vote for role)
+-gf (short for godfather)
+-BG (short for bodyguard)
+-dusa (short for medusa)
+-med (short for medium)
+-will (means last will, if they ask you this you post your will to the chat)
+-arso (short for arsonist)
+-ww (short for werewolf)
+-maf (short for mafioso/any mafia role)
+-exe (short for executioner)
+-vet (short for veteran)
+-psy (short for psychic)
+-retri (short for retributionist)
+-necro (short for necromancer)
+-CL (short for coven leader)
+-hm (short for hex master)
+-Pm/Pmer (short for potion master)
+-TK (short for town killing)
+-TS (short for town support)
+-TP (short for town protect)
+-TI (short for town investigative)
+-MK (short for mafia killing, which is mafioso/godfather)
+-TP chain (where two town protects go on each other to create a nearly invincible combo at night)
+
+3- Do not just claim your role as an evil. If you're evil, lie in your last will and if the town asks for your role, don't say ""oh im the mafia,"" that's a one way ticket to the rope.
+
+4- Any town investigatives except Lookout need to post EVERY DAY (except day 1 because you have nothing to post then). If you're a sheriff and you wait until you find someone suspicious, then people are going to be suspicious of you instead. Finding people innocent or seeing nobody visit someone is still information, and can help to sus out fake visiting claims or some neutral roles!
+
+5- Don't be annoying. For real, I don't know how many people try to be annoying or rude without being a Jester (whos goal is to get lynched), but it's a lot. If you're making the game bad for people without being a jester, then just shut it and let people play. Plus, you'll get reported if you go over the top with things, so i'd advise against that.
+
+6- Survivors, unless confirmed, are always suspicious. Some people on Day 1 will say ""Day 1 surv"" or ""Day 1 survivor claim."" Have any investigative of your faction check them IMMEDIATELY. Most of the time they're neutrals/evils trying to fake claim survivor to not get lynched. Some are real, and some are even hidden mayors who are planning to surprise reveal later in the game. 90% of them are fake, but if they are confirmed by your faction's town investigative/s, reach out to them late game and ask for help.
+
+I hope these little bits of info will help you in this game, and ensure that you don't act like me and claim survivor on a list without survivor because I was clueless... oh by the way, if you want to support the game more, buy the coven expansion DLC! It adds a few roles listed in the vocabulary (necromancer, coven leader, medusa, potion master, and the hex master, along with the poisoner whom I haven't mentioned yet) and many more neutrals such as Guardian Angel, Plaguebearer, Pirate, and even some new mafia/town roles. Coven All Any (CAA for short) is one of the most played formats in the game, and it's a whole lot of fun! We all could use some new players there or even in the official formats! I spent 30 minutes writing this review, so I hope it's worth your time reading it! Have fun playing one of the best murder mystery games on Steam to date!
+
+BTW, to the one guy who said it's just a guide, I thought it would be more helpful to write in the review section, as a new player just downloading the game would more likely look at reviews than guides!",0.833868145942688,57,True
+334230,25330967,76561198137349289,One time me and two of my friends were escorts and we all died on the first day. Honest truth best moment ever.,0.7795072197914124,35,True
+334230,121589787,76561198051089144,"As the game dies, the moderator have more and more time on their hand. I'm glad they actually issue bans, unlike a lot of games, but you can be permanently banned for leaving a game before you die three different times, assuming you are successfully reported for all of them. Additionally, some rules cover a whole lot more then they let on, giving the staff a large amount of leeway. 
+
+I have been banned for game throwing before; I deserved it, and so do others who do the same. But look at the forums, there are multiple recent permanent ban complaints resulting from simple disconnects.
+
+This is just one of the stingy reasons you can find, all while finding several people spamming racial slurs in almost every lobby. The relatively young player base does not really care about hate, but will go out of their way to mass report anyone who costs them a win. 
+
+And again, this game is almost dead. Only some of the game modes ever have any players, and that number is only going down as more and more of the dwindling regular player base is permanently banned. So you're buying an incomplete product at this point. Don't even get me started on the 5 dollar empty lobby DLC you can also buy.
+
+One last point is that the devs and moderators are very open about the fact that anyone is perfectly welcome to buy another account to play again if you're permbanned. They've pasted this an answer to multiple threads asking how to play again. So apparently, the devs are ok with racists and predators in their servers as long as they get another 5 bucks. This last point isn't 100%, as they might have a system in place for this, but my experiences with the chat in game doesn't really support that.",0.7742413878440857,54,False
+334230,233236769,76561199090769828,"I want to make sure as many people see this situation going on with a ToS moderator, DJF, since the other mods and DB refuse to handle it. This is a review from a different person on ToS2, but it sums up the issue:
+
+""I love this game.
+
+Really, I do.
+
+But I cannot in good conscience recommend this game with a groomer moderator still allowed on board.
+This moderator has additionally sent invasive messages to numerous people including minors, revealed his face to one unprompted, has a weird obsession with trans people, drew extremely questionable things in a game of Gartic Phone while minors were present, and sent downright inappropriate messages to people to the point of getting banned from an unofficial Discord server.
+
+And despite pretending to be concerned about this behavior, the other moderators did NOTHING about it. He's still an active community member and a moderator to this day.
+
+In fact, the moderators timeout and ban people who try to bring this up publicly, so they clearly want this silenced.""
+
+To further elaborate: Sydney was given plenty of evidence via modmail of DJF (the moderator) at the end of June, sending multiple, inappropriate DMs to minors. From that, he was banned in two separate other ToS related servers. When Sydney did nothing about it, people even emailed Lance, one of the DB owners, who ALSO did nothing. So despite numerous victims finally coming forward, tons of evidence, and seeing DJF get banned in 2 other servers, his fellow mod friends and DB stand behind his atrocious behavior because they have to protect their own friend, consider everyone else ""bad actors,"" and not give any help to the victims as a result in the main ToS server of Btos server. DJF continues to be a moderator, when he should have been removed and banned. If he had any respect for the community, he'd have stepped down himself, but he hasn't. He wants free reign to continue his actions with protection in the future. SHAME ON DB, THE DEVS, AND THE MODS.
+",0.7692153453826904,40,False
+334230,74945040,76561198253669580,"Town of Salem is a game where you can test your ability in speaking from to lie against the enemy and convincing your teammates, also don't be stupid or make any mistake with the jailor meta in Master ELO they will blame and flame you just for 1 mistake.
+
+[Pros]
++ I learn how to lie better
++ I learn how to forge
++ I learn how to manipulate info
++ I learn how to convince other player
++ I learn how to type faster
+
+[Cons]
+- You will swear a lot and use Capslock while dealing stupid teammates or enemy
+- You might find yourself unlucky moment (because it is required 20% luck based game)
+- You might wasting more time just grinding ELO to reach Master ELO
+
+[Conclusion]
+Be a better liar and convincing player, and you're good to go",0.8166696429252625,76,True
+334230,215602453,76561197970214236,"Game used to be good 10 years ago, as per my over 500 hours played. Today, no game is more pathetically mismanaged than Town of Salem. You will not get a game without at least 50% racist throwers. BlankMedia was bought out by Digital Bandits, who immediately laid off the staff and continue to keep this game on a backburner and gaslight the community saying they are doing so much work all the time. Absolutely nothing to show for it. The only thing they do is make comments defending themselves and how hard they are working. Fraudsters. This game should be removed from Steam. Shame on these developers. The mods seem like they have some untreated mental illnesses because they act very weird and inept. But what else would you expect for a game that has been completely infiltrated by bad actors.
+
+I couldn't do so badly if I deliberately tried, so I guess that is an accomplishment for them in a sense?
+
+Edit: I didn't name names but my point stands the devs and mods are incapable of looking in a mirror and Flavorable replied to this review vigously defending ToS. Take the criticism and move on in your life. Even tried doxxing me in the comments to this review.",0.7665910720825195,34,False
+334230,184488799,76561197983700108,"I'd like to say first that I used to play this game all the time back in the day when it was a free browser game. It used to be a lot of fun. Now it's dead. You will sit in queue forever, and a ranked game will never pop. Your only option if you ever want to play the game is to go to ranked practice. Coordinated groups will go into the lobbies and take turns leaving seconds before the game launches to stall the lobby indefinitely. The same accounts keep doing it, but the devs/mods don't ban them. Who will they ban though? They will ban long term players you've played for years for the most trivial reasons. I received a strike on my account for ""leaving the game"" because said that I was AFK for one single night. I appealed this strike and the power tripping useless mod tried to tell me that being afk was as good as leaving the game. I pasted the actual rule that said ""don't be afk for an extended period of time."" He literally responded ""yes, an extended period of time. One night is an extended period of time."" This C-sucker really told me 40 seconds is an extended period of time. Unbelievable. There are regularly people leaving the game early (you can expect 2 to 3 of them at least every single game). And it's filled with game throwers and trolls. They really shouldn't be able to charge money for this game. The player base is dead, the mods are horrible, and the community is horrible. Do not waste your money.",0.7620788216590881,35,False
+334230,72330977,76561198304910908,"Veteran player, used to play before game was moved to steam.
+
+This game did give a lot of playtime. It's got a lot to do on it to keep you entertained, and I've met so many different people that ended up becoming long term friends.
+
+But boy, oh boy, this game really does tell you how many people on the internet are actually morons.
+
+",0.8109234571456909,61,True
+334230,66363856,76561198382140429,"This game is fun I will give it that but it's policy enforcement is completely garbage. I played this game for about 4 months with the username MonkeyTwins1287. One of the rules of the game is no offensive usernames. Now you can use custom names in games I always either used Ham, Jevil, Jade Harley, or any kinda of character name. I go to log in recently and find my account is banned for inappropriate username. I think maybe it's a mistake its my first offense I just need to be more careful with my names now. So Town of Salem has a strict offense punishments. The first offense is a 24 hour ban the second offense is like 2 or 3 day ban the third offense is a 1 week ban and the 4th offense is a perm ban. So I come back 24 hours later and im still banned. I think ""oh that'd odd I come back a few days later and see if I'm unbanned."" So i come back like 3 days later and I'm still banned. I think ""Ok this is odd but surely after a week ill be unbanned."" So I come back today a week after I am banned and have found that my first offense is a perm ban from a glitch. Do not buy this game as the ban bugs are awful I will be asking for a refund and hopefully can make back some of my lost investment into this game.
+
+Update 4/11/2020: I have reached out to the support team with nothing but disrespect and no help. My friend and I have also run a couple tests with the game. A name as simple as '""n"" as a game name can get you perm banned for offensive username.
+
+Update 5/25/2020: For those who continue commenting ""You named yourself Jew Killer"" Please stop typing that on every review you see that is negative I would never name myself that.",0.8057162165641785,229,False
+334230,42991508,76561198187535942,"So, I just recently had my all-time best game, and I feel like I need to share it. These are one of the great moments you can experience if you get this game, which you should.
+Im using greentext format cuz im a lazy fuck.
+
+>Be me, used a scroll for Jailor
+>Get Jailor, Y E S.
+>Normal>Classic mode.
+>Night 1, didnt die, thank fuck. Alot of town died though.
+>Night 2, jailed someone for whispering to someone else alot and wouldnt say why.
+>They claim vig.
+>I can't disprove atm, it's day 2.
+>Don't execute.
+>The next day, the real vigilante is one of the people that die.
+>Instantly realize that vig claim is bs.
+>N3, jail the same person.
+>""so, the real vig died today. That's awkward."" Says me, all happy I found him out.
+>He retaliates with anger ""ah fuck you. We know who you are, we'll kill you tonight!
+>He gets executed. I don't die. He was bluffing.
+>Next day, he turns up as the mafioso.
+>Decide to jail the person he was whispering to.
+>Night comes, Ask for Role and Will.
+>Claims bg, no will.
+>I ask why he was chatting with the mafioso.
+>He stays silent.
+>I say that bg is a gf claim, right before executing.
+>The next day, he turns up as the framer.
+>A handful of people in chat are saying ""A+ Jailor"", ""Nice, Jailor!""
+>Self Esteem+
+>I decide to jail the other person they were whispering to.
+>He gets voted up and gets lynched.
+>He was the jester.....
+>Jail someone else.
+>Night comes, i ask for role and will in 5 seconds or he dies.
+>He hesitates for like 10. Choose to execute.
+>He claims vig also, when the confirmed vig is dead.
+>Kill the gf, the last remaining mafia.
+>mfw I literally defeated the ENTIRE mafia singlehandedly.",0.8046184182167053,99,True
+334230,123210626,76561198004231551,"Still remember I named myself Mufasa and some clown called bob was on my case about being a serial killer. I  told that clown I was a sheriff and who the actually SK was. The next night I was Shot by Maf, Shot Vig, Stabbed by SK, Blocked by an escort then memed on by a death note which i quote said ""Long Live The King""
+
+10/10 would have gruesome death again.",0.7504023909568787,27,True
+334230,212750719,76561198334577738,"UPDATE: my account was banned because of reports of me from 5+ years ago.  Dont buy this game, stop playing it if you have, and make sure to annoy the mods in the discord and steam forums.  40 year old mod who has nothing better to do has struck again
+
+Town of Salem USED to be a very fun game.  It is such a unique concept that has a high skill curve but is super fun.  What's not fun is two main things:
+1. The lack of players.  If you check the steam charts the game has not had 200 or more players online in more than three months.  The in game counter says 3k which is a lie (bug) the devs know about and will not fix.  So you either take 20 minutes for a game or stay in the same lobby with either really nice players or sweats.
+2. The power tripping mods. Imagine the worse reddit mod, now on a whole different level.  Look at other reviews or discussion boards on here or on their fourm site.  One mod, (I won't say to avoid harrasement) treats moderating a dead game like a full time job and bans everyone.  In their ban appeals out of every 100 maybe 1 gets changed to a suspension.
+
+Hundreds of hours and dollars now gone because a 40 year old mod doesn't have a life outside this game.
+
+This is a relic of old flash gaming, but now its a corpse overshadowed by the sequel.  I will never spend another dime on any blankmedia games or digital bandits game with how your access can just be revoked, and you have to get on your knees for an appeal that will not happen.",0.745550274848938,44,False
+334230,28252443,76561198255192522,"I SPEAK FOR MANY PEOPLE WHEN I SAY THAT MERIT POINTS ARE A TERRIBLE ADDITION TO THE GAME.
+
+The fact that gold town coins were awarded at the end of each game making available many different customisations encouraged people to play the game more often and for longer periods of time. I was obsessed with this game, because - don't get me wrong - it really is a fantastic game. But I played so much more in order to get the maps, pets and player skins. I wanted so many, and would have played endlessly to get them - like so many other players. 
+I have 222 hours of gameplay. I believe this is not just due to the fact that I loved the game, but I would persevere through roles like jester just to get the town points (gold coins) - this will not happen anymore. And I can expect there will be an increased number in people quitting early for this very reason. Therefore I can foresee 2 limitations and consequences of introducing these new merit points - the increase of early quitting, and the decrease of overall playtime. 
+
+I know that many people like me are upset with this change, losing respect for the game as a result. Which is truly sad, as it really is such a great game. Even though I know this will not be changed, because lets face it, money is the reason for it - which is ultimately why it is so discouraging to players. But I really hope this is read. As I hope many other complaints will be read and listened to. I feel like we the players of Salem, are reasonable to demand this. Not to mention many many many people I have spoken to in game were only 300 or so coins away from getting what they wanted and had played many hours to get upwards of 2000 or even 5000 town points - which now they have to pay real money to get. Which is making a lot of people quite salty, FAIR ENOUGH. 
+
+It is my hope that you note the consequences I have listed and listen to the community of Town of Salem and act accordingly.",0.7917398810386658,222,False
+334230,17796208,76561198076854716,"First off, as you can tell by the number of hours that I put in the game, Town of Salem is a game that I very much enjoyed playing, although it was mostly first 40 hours. Once past those 40 hours, the scroll update fell upon Town of salem.
+
+I would have recommended the game without a doubt before the update that introduced the scrolls.
+
+Town of Salem is a fun game(similar to the Werewolf game), that requires you to be deceitful and think logically in order to win. You have to think strategically your every move, choose who to trust carefully. You get a role at the start of each game, with its own objectives and skills.
+
+Most roles are fun and require a unique way of playing it. The townies are the most numerous and have to work together, the mafia must also work together, but in secret and most of the neutrals have their own agenda.
+
+The two main game types allow for some very fun games. 
+
+The classic game type forces you to play with a given set of roles that make for a balanced game.
+The custom game type let the host decide what the roles are going to be, which adds a lot of replayability and diversity to the game.
+
+If you like the Werewolf type of game, I think you'd like town of Salem.
+
+However, I cannot recommend Town of Salem as of right now.
+
+Since the scrolls were introduced, the game is a lot more frustrating.
+
+The scrolls are in-game items that allow you to boost your chances of getting a specific role.
+For instance, I can boost my chances of getting the role ""Serial killer"" from 7%(the default value) to 52%. 
+
+This will logically decrease the odds for all the other players, from 7% to 4% if only a single person has a scroll. Once you get the role you wanted, it will burn one scroll of that specific type.
+
+How do you get scrolls? You have to buy them for the most part. They each cost 200gold, and although you can get gold by playing the game, it is far easier and faster to just pay for gold with real money.
+
+I don't have that big of a problem with the cosmetic purchases, like the different skins, houses ,etc, even though they can somewhat affect the balance of the game, as, if you're playing with a friend, you can tell more easily who that friend could be by looking at the different skins.
+
+But the scrolls really messed up Town of Salem.
+
+Since the scroll update, I get a lot more often the boring roles simply because I have a very low percentage of getting them due to other people using those scrolls.
+
+I already bought the game, it is not a free to play on steam, I already for paid, there is no reason why an in-game purchase should affect the balance of the game. I understand that for the browser version they would add it, as it is free-to-play, but there's no reason why it should be there for the steam version. It doesn't make the game pay to win, it makes it pay for fun. Remove the $5 Town Points and let the game be fair again. 
+
+While it was more tolerable back before the update to get the boring roles simply because everybody would have to get them at one point, but the chances of getting them were fair, unlike now. You could still expect to get a fun role in the next game. Not anymore. It's rare that I find a game where all the odds are 7% for every single role.
+
+Furthermore, leavers utterly destroy the game. When you start a game and half of the townies are gone, it breaks everything, as the town has no chance of winning right off the bat. There isn't any penalties for people who leave the game. Therefore, you can expect at least 2 people per game who will leave during the first round, and more afterwards.
+
+To make it worse, a role(medium) is all about interacting with the dead townies to get some clues as to who is what, but since most people just leave straight away, it makes it pratically useless in most games. 
+
+In conclusion, Town of Salem is a fun game, even considering the very annoying quitting, but I'll only recommend it once the damn scrolls are gone and the devs add some penalties for quitters.
+
+In the present circumstances, it is only a matter of time until another ""Werewolf"" game comes out on steam, without anything similar to the scrolls, at which point, Town of Salem will likely become deserted.",0.7914592027664185,679,False
+334230,191517694,76561198100004809,"Was good years ago, but don't bother now. Game is on its death bed and has, honest to god, the most toxic community I've ever experienced in anything. I played League of Legends. I played WoW. Many, many multiplayer games. This game wins. By a large margin.
+
+And due to the nature of the game, you cannot just ignore chat. Most modes are completely dead, and due to the game having such a small playerbase now you will probably get the same toxic asshole every game if you do get into one (if you got a really big asshole, you could easily get into a game with different people when this game was popular) You will get called actual slurs for doing anything someone didn't like/making any form of mistake. Even the ""new player"" modes are dead these days, it's right into the lion's den with you. One of the reasons this game struggles so much to attract new players now. Some of the saddest, most miserable people you'll ever meet play this game religiously. This game always had a toxicity problem in all honesty, but it was nothing like what it is now. It's gotten much worse.
+
+I loved this game when it was peak popularity, but avoid it at all costs now. The time to play it was, unfortunately, years ago. There is nothing here. I would only consider buying it if you have a dedicated friend group that is large enough to fill entire lobbies - that is the only way to still have a good time with this game.",0.7411734461784363,28,False
+334230,105797157,76561198075128862,Just try not to care too much. You'll play some games with some actually mentally braindead people on your team and as long as you dont get mad about that you'll have a good time.,0.7846880555152893,36,True
+334230,77221667,76561198435538783,"This game was recommended to me after I tried out Among Us. It's safe to say that this game trumps Among Us in every single way. 
+
+The most of the player base is very friendly and take the game serious. Its a little daunting at first but it only took 2 games to understand the concept. I like how you get more than 1 chance to hang the mafia in-case you feel like you made a mistake voting them. 
+
+The music was very surprisingly nostalgic and fantasy like. I love it. 
+
+One thing that stood out for me, is the ability to continue talking once you are dead, which is also present in Among Us, but the difference here is people love to stay and chat because they're interested in the outcome of the game, and they can still have an input to the game because of certain roles that can speak to the dead.
+
+I can not recommend this game enough. Games like Among Us are only popular because people like to play the trendy game, but this deserves more attention!",0.731462299823761,47,True
+334230,32384814,76561198170128466,"Don't get me wrong, I love playing this game, this is why it hurts so much to leave this game a bad review. I have nearly 500 hours on this game, I even played it during beta and I've watched it grow into what it is now.  Sadly what it turned into was a desperate cash grab.
+
+The game was funded on kickstarter and was released as a $5 game on steam, understandable. A good few months later ""Town points"" showed up (Purchasable in-game currency) and skins/houses/etc we're changed so you could only get them through Town Points, you can't earn them in game whatsoever.  Then ""The Coven """"Update"""" showed up, the most dissapointing thing to see happen to TOS.  The ""Update is acually DLC which isn't even fully stable and gamemodes promised we're changed to weekly events.  They want you to buy an update on a game you have to already pay for AND that was kickstarted by fans who enjoy this game just as much as I do.
+
+Again, it hurts me more than anything to have to give a bad review to one of my most beloved games, but honeslty, save yourself $10+ and just play it free on blankmedia. 
+
+RIP TOS <3",0.7791116833686829,316,False
+334230,18506961,76561198013815387,"Length of Time Played: ~6 Hours
+Distance Played: Played About 20 Games
+Personal Grade: B+
+
+Opinion of Each Aspect
+
+Grading System - Based on a 5 point rating system.
+(5 = Outstanding, 4 = Good, 3 = Average, 2 = Poor, 1 = Awful)
+
+Gameplay: 5/5
+Stability: 4/5
+Story: N/A
+Controls: 3/5
+Graphics: 3/5
+Music: 3/5
+Sounds: 4/5
+Difficulty: 4/5
+
+Notes: + (Positives), = (Small Gripes), - (Negatives)
+
++ Exciting and tense gameplay
++ Wide variety of roles
++ Fair learning curve
++ Great laughs with friends
++ Interesting custom games
+
+= Servers can have issues
+= Has it's good share of trolls/idiots
+= Medium's Curse
+= Microtransactions feel pointless
+
+- Gamethrowers can ruin the fun",0.771568775177002,69,True
+334230,230260488,76561198011144087,"I played this game for years back on the site and actually have one of the OG free accounts. But, as other reviews here state the game is trash now due to the community. It's non-stop insanely racist shit 24/7. Slurs, people trolling and anyone that has a killing role even town will just slaughter randomly. There's no game anymore, it's just 99% racist trolls and 1% people who don't know what's going on.",0.7205212116241455,44,False
+334230,229281342,76561198200160942,"Games community is in shambles, when you queue you either get ERPers, Racists, or people who unironically dont know their lefts from their rights.. No moderation either so the same racists queue for months on end. DO NOT BUY",0.717561662197113,45,False
+334230,13382325,76561198021071241,"Played the free browser version since four months. Ever seen one of those forum mafia games that were confusing as heck? Well this is that, except more detailed and fast-paced. The edges are smoothened and it's one heck of a lot fun. There's a bit of learning involved, but for the rest it's an extremely fun game.
+
+The graphics and music might be a bit okay-ish, but don't let that discourage you from buying the game. Many games have gotten away with bad graphics like Dwarf Fortress just because their gameplay was over the top.",0.7666443586349487,77,True
+334230,70591103,76561197970531007,"I love this game (The Game part).  It's smart, well built, fairly balanced and they put a lot of work into the modes and balance.  If you were asking me to recommend the game based on the game and the quality of the work that BlankmediaGames had done then it's a no brianer.
+
+Here is the But:
+
+The players can be toxic.  Not all of them, but enough that its a crap shoot that a match ends up being enjoyable.  BlankmediaGames does have a reporting feature built in, but I have little faith that those who break BlankmediaGames's own rules and are reported ever get dealt with.
+
+What is toxic?
+
+- New players:  Heaven help a new player.  Even when you go into non-ranked modes the amount of toxic abuse that can be thrown at people for making a mistake is off putting.   It makes getting into the game really hard.
+-In Game Names:  It seems every game you're confronted with Homophobic or Transphobic names.  There was a phase last week where every game would have a George Floyd in it who would accuse you of being racist if you voted him up or would revel in being hanged.  
+-In Game Itself:  The chat at times can be so toxic as your working through things.  Blue language is one thing, but expect to be called every name in the book, and that's why you're actually playing properly.
+
+I hate to have to write this.  I have a ton of time on this game.  I love the game itself.  I've supported the company and bought the card game from their kickstarter.  This is genuinely a great game.  But if they're not willing to police the community, then the toxic nature of those bad apples threatens to overcome the quality.
+
+If you have a thick skin and patience, a strong recommendation.  Otherwise, you may want to wait until community standards are enforced better.
+
+REVIEW UPDATE:
+
+I'm seeing quite a few people who disagree with me in the comments and that's cool.   The point of a review is to let new players know about a game and whether it is worth their time.  I think I've been fair in saying that the game itself can is solid but the community as a whole holds it back.
+
+Let me explain.  Those who have played before, try to envision being a new player.  You enter the game, you're given a few beginner modes that are sparsely populated then asked to play 10 ranked practice games before moving onto ranked.  Makes sense.
+
+First issue that comes up:  You encounter people who freak the heck out if you make a mistake in these low stakes modes.  During one of the recent free Coven weekends, I jumped into ranked practice in part to get my own 10 games to open up Coven Ranked (which is dead) and in part to help folks along who might not have played the mode.  Each and every game I was in had a newer player or somebody who had made a genuine mistake getting called all sorts of names.  And this is in a practice mode.
+
+This carries on into the other modes.  Ranked is toxic, but it's ranked.  People can be competitive twits and heaven help you if you're not into current meta game.   (Yes yes, I've made mistakes, made bad scum calls, and occasionally deserve criticism from teammates, but there's criticism and there is some of the unfiltered nastiness for a honest mistake).
+
+The 'fun' modes are filled with people that just seem to be out to ruin days.  This includes people who quit when roles are revealed, people who give up when things don't go their way and actively sabotage their team, the perceived toxicity when a player makes a mistake and just overall saltiness.  
+
+
+The TL:DR of this is:  The game is great.  But it relies on having 15 players who are willing to play the role they're given, do it to the best of their ability and then realize it is just a game when things don't go their way.  Those games are few and far between some days.",0.7644065618515015,155,False
+334230,138990978,76561198028541564,"Don't try to have fun. The first time somebody reports anything you do, regardless of whether or not it violates any rules, you will be banned. I spent money in this game and the result was being treated poorly by some moderator in a forum.",0.7129170298576355,47,False
+334230,31451978,76561198100690211,"I have sunk about 100+ hours in this game to finally give a review.
+Town of Salem is a roleplaying game where you esentially have different classes you get chosen to play as.
+It is amazing watching the chaos unfold and being able to be as deceptive as you want.
+It is simply an amazing game.
+
+Now for the 5$ steam part of it? It depends.
+It is easier to run, you get extras for getting it on steam, and has an easier interface overall.
+If you enjoy the game a lot, get it on steam, its only 5 dollars.
+If you think its just an average game save it for the browser.
+
+The game is difficult to learn at first sure, but after a while you become better and it just becomes even more fun and addictive.
+I would give this game a solid 9/10",0.7601792216300964,24,True
+334230,222822393,76561198062465206,"Type in ""town of salem banned"" and you will find the creators of the game deactivated their forums and are personally banning players over annoyance or grudges in their discord chat.
+
+Do not spend your money here or else creators and moderators will ban you without recourse and will not issue refunds over personal grudges and annoyance, as made clear by their discord chats.",0.7084969878196716,26,False
+334230,117208519,76561198374928145,"I love this game SO much because sometimes I could be working as hard as Batman trying to figure out what everyone's roles are. Or, I could just hop into a game early in the morning and somehow barrel and blunder my way throughout the entire match, somehow staying alive for the entire game and pulling through with a win like Captain Jack Sparrow.
+
+The game design is also ingenious, coming from the classic party game Mafia and expanding the concept out of proportions and still making it work! There are over 30 different roles and every single one works in a different way and with their own goals. The vast amount of different roles and there being 15 people every match guarantees that every match is unique and either Batman's best detective novel or Captain Jack Sparrow's latest misadventure.
+
+Props to the folks at Blank Media Games for putting together this stellar game and balancing it in such a creative and unique way.",0.7080656290054321,22,True
+334230,38369894,76561198220570977,"What can I say. I used to love this game but now there is too much gamethrowing. 
+
+I was obessed with playing different roles and lying if I was evil! Im a try hard what can I say. I have seen plenty of mistakes and of course made a bunch on my own which cost me the game. But the game throwing has gone too far. Peope are literally ruining someones experience every game. Some even call themselves ""gamethrower"" as their avatar's name. They will out the mafia or have vendettas from the last game the played and get people killed on their own team. They ruin the experience of others! Their is a report system that I am not sure if it even works. These people just get away with it time and time again. 
+
+The worst is when it is ranked gameplay. The point of ranked IS TO TRY TO WIN! The trolls seem to find their way in there and think how can I ruin their experience/elo with no regrest of course.  This leads to frustration and giving up or worst becoming a troll to find fun. I really hope they are taking serious this ""town of trolls"" epidemic because this game is amazingly fun!
+
+-My love hate relationship with Town of Salem",0.806995153427124,87,False
+334230,13492261,76561198072958975,"If you like TTT then you well love Town of Salem
+also a good way to get better at lying...
+
+
+Why Town of Salem is worth 5 bucks?
+1.No ads
+2.5 bucks worth of coins
+3.Gives money to Devs
+
+Add me on ToS if you want to play
+
+thezipperwolf!",0.7562500238418579,55,True
+334230,81291556,76561198031159301,"Don't look at my time playing I paid on steam but i'm playing on web browser/phone. Great game it's fun and can be really funny but there is a big negative point that forces me to not recommand the game.
+
+Their report system is not good. People report anything for gamethrowing and then your reports get judged by volounteer(you can be if you want) who don't even read the report that much before choosing a verdict. After only 1 guilty report you get suspended for 24 hours then 3 days, 7 days and ban for life. This is ridiculous since everything can be consider as gamethrow and their appeal system is a big joke everything gets rejected. You can get banned for leaving a game even only once (sometimes you didn't even leave you just lost connection or whatever you leave by accident).
+You can also be reported for gamethrow if you were afk or if you decide to give up and not defend yourself.
+By the way i am not a salty guy that got banned i got a stupid 24 suspension for a fake gamethrow and i saw hot all that system works and I had to tell people here.
+
+Im not against suspension for guilty reports but the ban after 4 when the system is so severe is really ridiculous.
+
+So now I have a suspension on my account if my game crash or my kids do something that I have to go afk I will be banned this is ridiculous.
+
+You are killing your own game with this system change it or soon nobody will play anymore.
+
+By the way im against gamethrowing it can ruin the game but this system is broken.
+
+Ill change my evaluation if you change this.",0.7043434977531433,65,False
+334230,33265860,76561198047690060,"[h1] Town of Salem	[/h1]
+[i] I'm Doctor. TRUST.	[/i]
+
+[b] Pros:	[/b]
+Tons of roles to play.
+VERY active community.
+Excellent servers, no lag.
+Multiple game modes to play.
+It's only $5. (Free on the website)
+The Coven provides new gameplay.
+2,000 Town Points, double Merit Points forever, and exclusive skin.
+The game requires quick thinking and can be won with multiple strategies.
+
+[b] Cons:	[/b]
+The report and Trial System rarely works.
+The Coven costs the same amount as Town of Salem.
+VERY active community, however, can be VERY toxic.
+
+[b] Overall Rating:	[/b]10/10",0.7541173100471497,28,True
+334230,54576878,76561198065132868,"Some people say the playerbase is bad. I'd have to disagree.
+
+This game contains the single largest concentration of braindead morons ever to grace a keyboard. You will meet so many people who, though seemingly ordinary at first, show utterly limitless depths of ignorance. Each match is an excruciating display of their dysfunctional psyches. I wonder, every second of time spent playing, how these vermin manage to function in a working society.",0.7533936500549316,30,True
+334230,120201113,76561198017659216,"used to be fun to mess around but from the rise of insanely stingy rules (got banned for a first time offense ages ago and no chance of appeal) and the decreasing community, its just not worth getting into anymore",0.7022342681884766,29,False
+334230,77863129,76561198079732084,"The last time I played this game was in 2013 via the free browser version.
+Since SwatSecOne hacked Realm of the Mad God back then, I needed a new browser game to spend my time in.
+I found this one to be absolutely awesome.
+Eventhough I still could play this game on my free browser account, I thought let's support the devs a little by buying it on Steam.
+Hopefully it still is as enjoyable as I remember.
+
+P.S. Linking your old browser account with Steam is really simple, no fear to have lost any previous made progress.",0.7022221088409424,17,True
+334230,49538465,76561198105477132,"I wish we had a star rating system because I COULD recommend this game given the right conditions, but as it stands now I really can't.
+
+The game itself is pretty solid and standard for games of this type.  Unfortunately, the biggest issue is the player base.  It truly is about as toxic as you can get most of the time.  I keep coming back though because once in awhile (specifically if you play at a certain time) you can avoid a lot of the toxicity and if you time it just right you can keep getting in the games with the same group of competent players.  Its fantastic when you've got a full town of 15 players.
+
+But, like I said, the biggest problem and hurdle keeping me from recommending this game is the community.  There are two pre-made groups of players that are so toxic and so ridiculous that I've taken to writing down their usernames so I know to leave a lobby if I see them.  So while I absolutely LOVE the game, the few moments of decent players are rare enough to keep me from recommending.
+
+What pushed me to post this review was actually a few of the forum posts on the game's website.  Two of the toxic players (REALLY toxic) apparently play in a pre-made group with an admin occasionally and the admin evidently sees no problem with that kind of behavior.  That is the reason I can't recommend and likely is the reason I'm going to stop playing.",0.7510003447532654,72,False
+334230,35315527,76561198297946291,"Me and my fiancee play this game together. We live in the same house, so we play LAN. While playing this with her for a few days to help her understand and learn the game, it'd sometimes require passing on information (i.e. my role, her role, explaining to her how her role works, etc).
+
+Now, you may know how salty League of Legends and CSGO are, how toxic their communities are, but at least those games have a limit that often isn't crossed. They stick to superficial insults. 
+
+In Town of Salem, me and my fiancee were accused of cheating simply because I'm helping her understand the fundamentals of the game. They took it further and began using my fiancee's account name as their towny name for several games over. (The community is so small we kept being chucked in a game with the same people) They would threaten her that they'd use the account name to sign up to adult sites, to harass underaged people and to get a bunch of creepy people to add her on Steam. This is a level of harassment and stalking that should not go unpunished, so we decided to report the person. We told him we'd report and mute him and he began rallying the people playing that game to report us. He interrupted normal gameplay to focus on reporting us because I'm trying to help my fiancee understand a game.
+
+I don't normally leave a bad review on a game solely because of their community, but here's the real kicker:
+
+ .. They instead suspended my fiancee's account. 
+
+Take this into consideration when thinking about purchasing a game from these people.",0.7990928888320923,221,False
+334230,43461799,76561198152014773,"I've put over 200+ hours into this game, and its a great game,  but... every game consist of 2-4 people leaving day 1, some town/mafia throwing, and always someone spamming racist remarks in the pre-game lobby which 50/50 shot on if that goes well into the game lobby
+This game is always going to have people that are bad at the game and cost it for you
+This game is always going to have bad luck of being out'd n1.
+This game is always going to have cheaters in discord lobbies throwing
+but its entirely way to much for me to constantly report the racist spam, the cheaters that openly admit it, and the leavers thats its almost not even fun anymore.
+These guys don't seem like they care to much about the game anymore, 
+
+PS the coven is dead, don't buy it, they should've made it free",0.7478995323181152,51,False
+334230,133837270,76561198316654499,"Start game, get survivor, claim survivor, get lynched. Great experience, would recommend to anyone currently mentally stable, it has left an incredible impact on my own sanity.",0.7467514872550964,24,True
+334230,205515697,76561198422948514,People are making scripts that permanently stall lobbies. It makes it impossible to even play the game. Blocking the accounts does nothing. Devs need to actually fix the problem or the game is unplayable.,0.6948065161705017,15,False
+334230,71364810,76561197960794256,"Congratulations! You have received a very special visit from yours truly,
+~ The (Mafia, Serial Killer, Arsonist, Werewolf)
+
+The reason for your death may include the following;
+
+[ ] Because we can
+[ ] You are annoying
+[ ] A useful town role
+[ ] Talk too much
+[ ] Don't talk enough",0.743391752243042,34,True
+334230,44878931,76561198111135049,"Step 1: Reveal as Mayor on day 1
+Step 2: Get Entire town to claim it's fake
+Step 3: Get unanimously lynched by said town
+Step 4: Spend rest of game getting bullied by medium and dead chat
+
+11/10 would get bullied by strangers again.",0.7897258400917053,42,True
+334230,13819112,76561197979445331,"We were a nice family. They were me, my brother,my dad,my mom,my weird cousin and my smart sister. But one day I decided to kill my cousin because he was really weird and I didn't really like weird people. 
+
+
+The Town began to be crazy since my cousin died with another guy died too by an organization called ""mafia"". The first day there are some accusations but nothing serious. The second night I decided to kill a dude who made accusations because said ""it's him"" with no proof seem suspicious. I always thought my dad had something to hide because he didn't really talk a lot but it's my dad though I prefered my mom. I would kill for my mom,she was always here for me. 
+
+
+After days and days of people who died including my poor sister killed by mafs,there were left me,my brother,my dad and my mom. Of course we have made some decisions in the family to stay together because we normally loved ourselves. But they were left 1 maf and 1 crazy killer so I was very shocked because how can be a serial killer here... So the story continued. 
+
+
+But my brother whispered me ""kill Mom at night"" and I was like ""O_O"". So I decided to kill my brother because he wanted me to kill mom  who I loved so much. 
+
+
+The sun rose and there were left me,mom and dad. They were left 1 maf and 1 serial killer. My brother wasn't a serial killer and I don't know why but he wanted to kill mom so I did the necessary. Dad must be the maf,I always knew that in my hearth. Mom must be a serial killer but it's mom. I said to mom that I killed my brother because he wanted to kill her. 
+
+
+It's time to vote who is guilty. Dad was saying a lot that he is married with mom and they supposed to support each other. I said ""guilty"" to dad because I loved mom and he was maf,I knew it ! Mom said ""guilty"" despite of dad was saying a lot about ""marriage"" ""together"" ""family"" 'couple"" but she prefered me because I was his son and I helped her. 
+
+
+Dad was hanged. He was really a maf. But how dad can kill his daugther ? 
+
+Mom and I won. 
+
+""Serial killer wins""
+
+
+
+10/10 would kill for mom again.
+
+
+
+
+
+
+
+
+PS: http://steamcommunity.com/sharedfiles/filedetails/?id=368703369",0.7385272979736328,64,True
+334230,230136599,76561199114379686,"When this game was popular you could play it ad-free on web. Now, you can only play it on mobile with ads if you connect your facebook account or with your purchased copy. But even then you have to connect your steam account to play Covet mod. Why make it harder for players? No moderation. Ragebaiters, trolls, quitters at first day are common. Sometimes basic game features don't work. Not recommended to buy even if it's on sale unless you have 14 friends who are committed to play.",0.6878037452697754,14,False
+334230,88030472,76561198130588843,"
+
+
+Honest and fair review of Town of Salem:
+
+Let's start off by getting this out of the way: This game is not meant for everybody.
+
+This game is about deception. This game is confusing and full of toxic players that will get mad at you for making a mistake. Sometimes YOU will be the toxic player. I don't care if you say you won't, Every Town of Salem player is toxic. It's the very nature of the game. This is a team game and you will lose with everybody on your team doing exactly what their supposed to do and there is nothing you can do. 
+
+There's about 50 roles that will take hundreds of hours of studying and playing the game to understand how every role interacts with each other. You can play this for weeks and get a role you've never gotten before.
+
+This game is very complex and and toxic, I would not recommend it if you were looking for a casual game Among Us. This is not casual. It's more like Overwatch than Among Us in many ways.
+
+But. If you're willing to learn how to play, and you can handle toxic players sometimes. This game is one of the greatest Social Deception games of all time.  You will jump out of your chair from excitement and walk around for 20 minutes and think how smart you are when you win because it feels that good to win. It feels good to be evil in this game and have the entire town trust you, when you are lying to their faces. Maybe that makes me a psychopath, I don't know. I wanna tell all my friends about my win and shout it from the rooftops. Genuinely this game gives me something to be excited about every time I play it. It is worth the $10 (I highly recommend getting the Coven DLC because it increases the amount of gameplay options significantly) 
+
+I hope this game is for you, It is extremely fun and rewarding for your brain. And is continuously being updated with no signs of slowing down.",0.7370906472206116,35,True
+334230,179836619,76561197989082217,"Probably the most toxic and stupid community in gaming history.
+If you're a racist or like being with stupid people you're gonna be in good company. Moderation seems non-existent. Enjoy your game thrower every other game. The other games will be with people calling themselves the n word in the lobby. It wasn't always like that, but it is now.",0.686674952507019,20,False
+334230,133456379,76561198277842071,"alright game, but 99% of the players are little children who think they're detectives. you better not make a mistake or 7 people are gonna report you for throwing. grow up people, get a job, and maybe a life while you're at it",0.6860460042953491,13,True
+334230,63360518,76561198065343430,"This is one of those games that has no middle ground. Either it's exciting and victorious, or frustrating and stupid. When games go well (whether they're in your favor or not), it's a great multi-layered cat and mouse. But more often than not you'll be dealing with AFK towners or instant leavers.
+
+Y'see, there's certain roles that are still useful after death. Mediums for example can pass intel between living players and dead ones. Unfortunately, once people die there's a 70% they just leave the game entirely (which also sacrifices any coins they'd earn by remaining - something that's used to not just buy cosmetics but also scrolls which allow you to boost up your chances to get certain roles).
+
+This makes it fairly difficult to learn the game. I have 35 hours played and I've only learned in the last ten to have the Town of Salem wiki open on my second monitor and just type in whatever role I get and try to strategize quickly based on what I can read in safer moments. Because the community itself sure isn't going to help.
+
+Joining the discord does help a bit, though you can't discuss ongoing games. (It might out who you are if discord chatters happen to be in the same game, thus breaking that round a bit). I've been continually stuck in situations wondering who people know what and in my dozens of hours, I can almost never tell when people are actually lying about anything. Every single game turns into a clusterfuck of ""he said she said"". I was once in a Coven All/Any where two vampire hunters were screaming at each other because one person apparently copied the other's will. Turns out they were both true VH's and we just ended up lynching them both.
+
+There's a lot of frustrating moments like that, but as I opened this review with it can lead to some heroic moments. Like how I tricked a winning werewolf that I was a survivor (a role that wins with anyone at all), having doused them with gas that previous night as they rampaged against the opposition, winning me the game. Or any time you can successfully pull of winning as a jester, whom the only goal is to get lynched properly. At that point you get a victory regardless, a role that's specifically designed to mix things up and look as suspect as possible without being too obvious. Or being in a full mafia game and successfully spinning tales and lies as the town lynches themselves.  Or that one time I resurrected a simple lookout that came back with vital intel and essentially carried the entire game to a townie victory with like, nine of us still around.
+
+It can be great fun, but the toxic community taints this. You'll find that ""Stupid/lazy/idiot town"" fairly common in chat. I'm a bit more sporting, and typically realize that it's not always the town being dumb, but more that clever bad guys are just weaving convincing lies. I wish more people saw that. Despite my hour count, I still consider myself ""new"" and there's plenty of roles I know next to nothing about, and so many situations arise where I am just silent and dumbfounded at how anyone knows anything at all (especially in all any - one of the game's more popular modes).
+
+So it's a lot to think about. Be prepared for some confusion and toxicity... punctuated with great moments of hilarious triumph. Good with the bad.",0.7330425977706909,24,True
+334230,23147641,76561198133712928,"Called my character Jon Snow
+Got killed by Serial Killer on the first night, death note was ""For the Watch""
+A few nights pass and I get revived by the Retributionist
+Hang the Serial Killer
+
+-10/10 Game of Thrones simulator",0.7830866575241089,162,True
+334230,87335242,76561198876486759,"I love town of salem, the community can be toxic but that goes without saying for any online game. There is most definitely a learning curve to the game though. I wouldn't suggest this for little kids because of how difficult and confusing it is at first. But once you get the hang of it (see what I did there ;)) it becomes really fun. Especially when playing with friends.",0.6816918253898621,14,True
+334230,219314914,76561198962950378,"I love this game. However the moderation and player base has become unbearable, and sucked all the fun out of the game. People join the game and will throw the game by outing all there mafia partners and leaving the game when they get roles that they do not like. People will also join the game looking to throw the game by claiming jailor (Only one jailor per game) to get hung for being a fake jailor, but they are really sheriff. The only reason for this is to ruin your fun and they get enjoyment out of this. People also use multiple accounts while in a single game to gain a unfair advantage. Not to mention, the report system seems to do nothing, as someone will throw the game by outing mafia, gets reported by AT LEAST 3 people and is somehow in the next game just to do it agian!? This game is also really hard for new people to get into, especially with most of the player base being veteran players and trollers who are just screwing around on a game with no moderation. This game is sadly being killed by the moderation and they need to fix there game. Do not buy this product.",0.6809930205345154,17,False
+334230,40395282,76561198203167160,"Town of Salem.
+
+Pros:
+Makes you think
+Multiple Gamemodes and Worlds
+Many Avatars, Pets, and House to choose from and unlock
+Fair Money system
+Ranked
+Easy to control party system
+I learn something new about the game everytime I play
+300+ Acheivements
+Randomized Roles
+
+Cons:
+Stupid and/or Toxic Teamates
+No Private games
+It is a FREE game in the browser(when you purchase it on steam you get money and a skin and some upgrades ei;No ads and x2 coin multiplier.)
+No trading cards
+Diffucult to Learn
+
+9/10 
+Would reccomend trying in browser before you purchase it on steam.",0.7308663725852966,26,True
+334230,30368201,76561198357343628,"what every game of town of salem is like
+
+- someone will be named Donald Trump
+- an executionor will spam saying his target is serial killer
+- jester will spam they're serial killer or mafia
+- you will be called a tarnation idiot
+
+pick 2",0.780410647392273,95,True
+334230,97094838,76561199068987765,He apparently committed suicide. He was also executed by the Jailor. He was also shot by a Vigilante. He was also killed by a member of the Mafia. He was also incinerated by an Arsonist. He was also stabbed by a Serial Killer. He was also mauled by a werewolf. He also died from guilt over lynching the Jester. He also died from guilt.,0.7268571853637695,27,True
+334230,78822838,76561198045688105,"Town of Salem has been a favorite of mine for a while. If you enjoy ""Among Us"" or any style game of that nature, you should also really like the gamplay of this. This game is really about paying attention and bluffing as hard as you can as the role you are assigned per match. This game is NOT about graphics, and you arent running around the map. Its simply talking to other Town members trying to figure out who is evil, and who is not.",0.7267522215843201,24,True
+334230,25720439,76561198173140567,it's shocking just how unintelligent the average human being is,0.8753100633621216,169,True
+334230,38922517,76561198093214973,"playing all/any
+am amnesiac
+go almost whole game as amne
+arsonist dies
+town celebrates killing arso and easy win
+use amne power to become arso
+ignite whole town next day
+10/10 would crush hopes again",0.7747740149497986,84,True
+334230,69150144,76561198092663068,"So - here's the thing.  I've been playing Town of Salem since it was only a browser game.  I used to LOVE it, as you can probably tell from my 293 hours logged (and that's just from when it came onto Steam, I shudder to think how many of my highschool hours were spent on this game).
+
+Now...well, not so much.  To be honest, other similar games (that, yes, are free...) have overshadowed Town of Salem.  One is definitely Werewolf Online, which is a mobile game with a very similar concept but instead of the mafia it's werewolves...and the roles are different but.  Only slightly.  The thing that makes WWO SO much more attractive is the quality of life stuff that you hardly notice - yet it really has made all the difference.
+
+A big issue I have in ToS is the balancing.  They've absolutely ruined roles that used to be my favorite - namely Spy and Sheriff, but plenty of others.  Spy in particular bothers me - the whole point was that blackmailer and spy were equivalents.  What's the point if only the mafia can read whispers?  And on that note, it's frankly pretty much impossible for the mafia or the neutral killer role to win anyways.  The whole thing is a mess.
+
+They've ripped certain roles to shreds...to the point that when I took a two week long break, and I came back, I was so baffled with some of the changes I couldn't always keep up with what was happening.  I shouldn't have to go track down a log of changes constantly - and honestly, every strategy I built up for roles over the years is obsolete at this point.  It gets...frustrating.
+
+Meanwhile, in WWO, when changes are made to roles they detail it in a place other than some obscure forum post, and even when I stopped playing it for a month, I was able to pick it up again easily despite several new roles being added.  Additionally. the DLC in ToS just made everything super convoluted.  I like the concepts of the roles but c'mon - making people pay for it when new roles are added constantly in a free mobile game with no trouble?
+
+The biggest downfall of Town of Salem for me is that it has not updated for 2020.  Everything *feels* like an old game when I play (and it's not like they've actually added any content other than what, skins??), and that's fine, but not when new competitors are out there and more fun.  The community *feels* like I'm back in middle school when I play.  That's not a good thing.
+
+If you're looking for a game like this, try WWO.  It's not ""Mafia,"" but it's a whole lot more fun than this game anymore.",0.724556565284729,37,False
+334230,34922146,76561198038494002,"In this game, there are only 3 things to do.
+
+Lynch or get lynched.
+Kill or get killed.
+Lie or get lied to.
+
+With the latest update, there's a new addition:
+Deceive or be deceived. I literally stirred confusion on a VIP game, causing Town to shoot a fellow Townie and lynch another Townie, while I stoned myself as a Potion Master.",0.7226730585098267,30,True
+334230,230249099,76561199093212365,"It was a lot of fun! The community that plays this game can be upsetting, though. A lot of slurs and mean language.",0.6718295216560364,13,True
+334230,14131209,76561198021061538,"Amazing game you can have a lot of fun with.
++ 29 different roles to play
++ every game is an experience and very often a joy to play
++ crazy community
++ lynch annyoing people
++ Get killed by the Jester
++ amazing party game
++ It's free ! BUT i would advise to buy the steam version just to support the developers
+
+You can have a ton of fun with this game, try it online and tell you friends about this game. This game is amazing and there are more roles to come so this game is sort of in development :D",0.7217618823051453,19,True
+334230,25169256,76561198171878565,"I really love this game, but there are a few things that almost break it.
+
+- People team up and use external communication
+- People multi-account
+- People gamethrow
+- You may never know if someone is cheating, thus making it hard to report all offenses",0.7213294506072998,57,False
+334230,28393478,76561198175646405,"Its a shame really as this game is fun and i enjoy it alot and i cant complain about alot of things.
+
+
+but then theres that ""update"" that happened recently
+
+it made it so the gold coins are now premium currency when before you could easily through playing the game but now you can only buy them with real cash and not even exchange the new silver coins for them
+
+so if you saved up for that 1 skin or map or house or pet
+
+prepare your wallet as you have to now pay for it
+
+and it sucks it absolutly sucks as i love this game and im now scared to see it going down the route of ""premium stuff"" and microtransactions.
+
+
+please get your act together devs cause i dont want to see this game die.",0.7206236124038696,70,False
+334230,101318376,76561198146497075,"In theory, it's fun but for a long time (years), nothing is done about people creating new fake accounts, using those accounts to leave in the middle of the game, so that their main account's team can win. Discouraging that they know they can get away with this, especially when playing on Steam costs money.",0.6705934405326843,25,False
+334230,26426463,76561198120169012,"- Never call yourself  'Harambe' or you will die soon in the game.
+
+- It's very difficult to survive until the end of the game being Medium. It's called Medium Curse.
+
+- Write fake wills if you are an evil role.
+
+- Never vote guilty when lynching a possible Jester.
+
+- Mafia always wins.
+
+- Repick Host.
+
+- Amnesiac can remember he was an amnesiac..
+
+- Once I saw a Veteran killing 4 people in one night.
+
+- If you speak the first day you have 50% more chances to die next night.
+
+- tarnation, flummery, snap crackle pop, pillion.",0.7200706601142883,39,True
+334230,26427320,76561198185126635,"Built PC to play games like GTA V,
+
+ends up playing Town of Salem...
+
+GEE GOLLY this game is addictive but prepare to get lynched for no reason :)",0.8177502155303955,91,True
+334230,188761667,76561198074429107,"Loved this game and played it for a while, even longer on my phone. Unfortunately the game is riddled with racists and trolls. I had some guy who was upset at me for winning, so he copied my user and followed me into my games and told everyone I was spamming slurs (which I never did) and now I got falsely banned. I doubt new players are coming into this game but if you are, do not play this game.",0.6666487455368042,19,False
+334230,29155124,76561198116533276,">Be Jester
+>Claim you shot someone night 1 and you are Vigilante 
+>Get called out as Mafia
+>Get lynched
+>Exclaim profanity 
+>Have a racist will
+>Have everyone who voted guilty trembling in their shoes imagining that the vengeful soul of the Jester will soon take their very life.",0.7156662344932556,26,True
+334230,54628857,76561198174340847,"be veteran
+day 1 say ""how do i investigate""
+go alert on night 1
+kill 2 mafias and 1 serial killer
+be happy",0.8150883316993713,67,True
+334230,147398155,76561198014778001,"After playing Town of Salem 2 for a little bit and coming back to Town of Salem 1, I have to say that this is the far superior ToS game.
+
+ToS1's interface is super easy on the eyes, the roles are simple and easy to understand and it just feels so much better than ToS2.
+
+I love ToS1",0.6642265319824219,17,True
+334230,14651925,76561198035152958,"I was jailor. 
+I was afk for most of the game.
+
+I killed GF based on a random guess.
+I killed second GF based on a random guess.
+It was me, random towner and Mafioso left.
+I killed Mafioso based on a random guess.
+MVP",0.7640218138694763,244,True
+334230,30349475,76561198084381849,"This is a lot of fun
+
+Pros:
+-Diverse Roles
+-Team Play
+-Different Modes
+-Simulates a real version of the witch trials
+-OK community
+-Trick people and feel satisfied
+-3 teams and 2 of them are trying to exterminate the town and each other
+-You dont have to be paired with people from other countries
+-You can hang people
+-Unique roles that change up the game alot
+-You can ignore spammers
+-Balanced gameplay
+-Availible PTR
+-Has 2 types of currency
+-Skins, pets, and death animations
+-Taunts and Cauldron in the PTR
+Cons:
+-Stupid People
+-Classic mode that has stupid people
+-Metagamers
+-Jailers who execute you for no reason and then tell people you didn't tell him your role
+-Random hangs
+-At the end of alot of games, it comes to who can kill who first, or who can get someone to hang a person with them
+-Wall-Breaker of 2k17
+-Gamethrowers
+-Reports do nothing
+
+Pretty fun if you ask me",0.7138810753822327,49,True
+334230,24869180,76561198011246649,"Quite a fun game - a bit like ""Cluedo"" except everyone has a role and actions they can take.
+
+Google ""Town of Salem"" and it's free to play.",0.7628777623176575,31,True
+334230,155471448,76561198167623798,"Miss playing this, glad to see Im not the only one among the reviewers who got banned for some bull. Had initially played it practically since release, the ban system is not very good at all, and I've heard it takes a long time for lobbies to fill up these days, but I have many fond memories of playing this game.",0.6628101468086243,15,True
+334230,54086875,76561198359233723,"Town of Salem is a Mafia inspired PC game that's caption suits this game perfectly (Murder,Mystery, and Deception). Town of Salem is a multiplayer 15 player limit game. In the beginning of every game you are given a role that you would be using throughout the entire game. You could either get a Town role which is usually roles that try to find intel and protect other players. You could also get Mafia which involves working with 2 other players trying to bring your team to the endgame by killing all of the other players and framing it on other people. There is also Serial Killer which only one player in the match gets but it is honestly one of the most fun roles you can get. You kill other players and you fly under the radar much more than Mafia and is just such a fun role to play. Executioner and Jester are the two odd ones out. Jester if he is lynched (which is basically voted out) can kill someone after he died. The night of his lynching he can pick one player to kill after his death. Town of Salem brings a lot of variety to the table so usually you get a different role every time. Town of Salem is a fast and fun Steam game that I have played countless hours of. Once me and my friends hop on the game we really can't get off of it. It is just so interesting to me. All of the roles are original and well thought out. My only thing I don't like about Town of Salem is if you get stuck with a bad role like Medium or Lookout or you die early in the game it is just boring to sit in wait. Yeah you can watch the game unfold but honestly it is better playing it. However I still believe this game is really fun and is definitely worth 5 dollars.
+8/10",0.7108815908432007,19,True
+334230,48832739,76561197970985402,"Was free, went P2Play. Strange business model, but whatever...
+
+It's made in flash (crappy tech in 2019).
+
+Gamebalance went down the toilet. The current game meta favors one side (town).
+
+Town wins on average 5 points / ranked game. (5 pts for each of the 9 town players).
+Being Neutral Killer and playing 1vs14 rewards 1 point if you win. You'll lose 1 point if you lose. So there are no incentive for Neutral Killer to play.
+Mafia is a hard game, based on RNG (random). Some roles are unplayable (Framer is 100% countered by the Spy).
+
+
+The current meta (started before mid 2018) is making the Town side wins more easily, meaning that playing the current meta has boosted the rankings, and in masters there are some idiotic players that cannot do basic maths.
+
+The developpers are known for not caring about the core playerbase. They pander to active players that do use the game as a social media. Meaning you can be banned if you made a whinner lose (aka you played the game correctly).
+
+Did we talk about the data breach that was not revealed in time by the developpers? They denied it when people brought proofs of it. They banned players solely based on suspicion of hack. Lots of accounts were deleted and not refunded due to the hack.
+
+The devs are shaddy, the gamebalance ruined the game. There are no challenge. Ranked games are ""play long enough and you'll reach the top tier"".",0.7106767296791077,26,False
+334230,14747703,76561197962051925,"I told my neighbor to shut her stinking mouth because her breathe smelled like semen.
+Town decided to lynch me for being rude and vulgar.
+I did what I had to do as a Jester.
+Life of Jester chose me I didn't choose it.
+GG
+
+10/10
+Fun party game full of deceptions and plot twists!
+Try it on web for free 
+http://www.blankmediagames.com/",0.7598812580108643,90,True
+334230,198209688,76561198373078686,"It's a fun game, especially when you want to play something without too much effort. 
+
+Used to be decent, new devs took over, reworked a few roles and some wording because apparently it's too offensive (in a game about killing people?)
+
+However, extremely toxic community, in and out of the game. In the pre-game lobby, there is no report function (for whatever reason), people use all sorts of language and degradation and get away with it. 
+
+The game is also absolutely full with game throwers, and people that make new accounts for the sole reason of ruining the game. Plenty of people who play together in voice chat, which is painfully obvious when you're pushed for no reason at all.
+
+If you're a regular player, be prepared to be lobby stalked and harassed until you quit the game. You will be killed immediately.
+
+The game is fun, but I absolutely wouldn't recommend it to anyone until they do a serious overhaul of their moderation system, because it truly does nothing.",0.6595237851142883,14,False
+334230,120863011,76561198988100642,Among us if it were civilized. Plus it's older so it's better. Quit Among us and play this game instead because it actually involves brain power lmao,0.6591206192970276,15,True
+334230,16457157,76561198093127053,"Played over 150+ hours.
+Still isn't enough.
+Awesome to improve your lying skills.
+Awesome to kill your dudes,bruhs and pals.
+Perfect for dying on the first night.
+Epic for getting slaughtered by Justin Bieber.
+
+I suggest this game.",0.7590423226356506,71,True
+334230,13383731,76561198061019858,"Town of Salem is a Strategic Elimination game that's set the the town of, well, Salem, back when the witch trials were very much alive.
+
+This was a browser game in the past for quite some time, but December 15th is when it's mark on Steam came along. I played the browser version pretty extensively, and it's a very fun game to play because the outcome solely depends on player interaction and decisions.
+
+See, you have these various roles, all with different alliances. Townies try and work together to survive and find out who the bad guys are. The mafia are their own group, trying to eliminate anyone who isn't them. And then the neutrals are people trying to achieve their own goal, neither with townies nor mafia. 15+ roles exist in the game, and they can all have a huge outcome on any game.
+
+What's the catch? You have no idea who is what, so you need to use your smarts and think about whether to trust the people you're with or not. Each day, there's a discussion, then there's voting. If one person is voted to be lynched, they have a chance to defend themselves, then the town decides whether that person is guilty or innocent. The game then transitions to night, where the action happens. People can be stabbed, moved, killed, distracted, just about anything can happen at night, as careful as you may be. The game ends when either the Townies or Mafia wins (Neutrals are rare cases.)
+
+This is why I like this game so much. Like I said, it depends heavily on human interaction, which is what keeps every game fresh and alive. You're always given a random role at the start of a new game. You can pick classic mode where there's a set list of roles, and all 15 players fufill one, or you can do ""All Any"" where you don't know what roles exist, and that makes it an even bigger mystery.
+
+Overall, Town of Salem is an awesome game to play just for the suspensefulness and the fresh variety with every game, I really recommend this game.",0.7088649272918701,31,True

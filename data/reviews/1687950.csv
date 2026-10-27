@@ -1,0 +1,1442 @@
+appid,recommendationid,author_id,review,weighted_vote_score,votes_up,voted_up
+1687950,125452616,76561199103077174,"Tips after finishing the game:
+
+Read books to increase your stats.
+Hang out with your friends.
+Exercise on your room or at the gym.
+And when you have free time, play Persona 5 Royal.",0.9671593308448792,1798,True
+1687950,222543388,76561198213162251,"I changed jobs twice, moved out of my parents' house and had an entire romantic relationship start and end before I beat this game. Can't wait to do it again sometime",0.9518461227416992,498,True
+1687950,136896113,76561198171881554,you can tell it's just a video game because you fight to change the corrupt system and actually succeed,0.9462235569953918,575,True
+1687950,140052559,76561198053336643,"[h1][u]TLDR:[/u][/h1]
+Persona 5 Royal (P5R) is one of the best modern JRPG's to play, though it does have its flaws. The game features a unique story, fun characters, strategic turn-based combat, an amazing original soundtrack, and romance, all wrapped in an impressively stylish presentation. It takes an average of 80+ hours to see pretty much everything so be prepared for a significant time commitment. The game can be incredibly easy if you decide to use the free DLC content. Kasumi's content feels tacked on rather than integrated with the original P5 story. 
+
+Most importantly, thanks to ATLUS for finally learning that porting their popular games to PC is a good business decision.
+
+And, RIP Billy Kametz, voice of Dr. Maruki, who died just before the game's PC launch. 
+
+[h1]GENRE:[/h1]
+Turn-based, life-sim & dungeon-crawling JRPG
+
+[h1]GAMEPLAY:[/h1]
+P5R takes place over a calendar year where on almost any given day, you are (mostly) given free reign to do anything during the given time of day (usually you get some combination of a morning, afternoon, and evening) as time progresses on. Usually, you attend school during the morning, which features simple classroom segments of answering obscure trivia, get the afternoon to do whatever, and then later on in the story you can leave your home to do things in the evening. Things you might choose to spend your time doing may include activities that raise your personal stats (e.g. knowledge, charm, etc.), interacting with your friends and confidants to level up your relationship ranks to unlock unique perks, optional training in a dungeon when that is unlocked, and more.
+
+On the dungeon crawling side, the main story progresses when you complete palaces, which are hand-crafted (not procedurally generated like previous Persona games) dungeons full of dangerous enemies and bosses. Palaces can take a decent amount of time to complete depending on how resource friendly you decide to be when it comes to items and SP management, but they can be doable within one day (unless the story forces you out to come back later for plot reasons). In the palaces, you fight using your personas, which are basically demon allies with magical powers, in turn-based combat.
+Generally, the flow of the game is to encounter a new villain, complete a new palace, wait during downtime for the next villainous encounter, and repeat.
+
+As the protagonist, you are able to use more than one persona, unlike your party members. You can get new personas by negotiating with them in battle or by fusing two or more personas at the Velvet Room. Throughout the game, you will gain access to more powerful Velvet Room activities and fusion methods to create more powerful personas and build them the way you want.  
+
+[h1]STORY:[/h1]
+In P5R, you are a high-school transfer student (typical Persona start) moving to Tokyo, Japan. Unfortunately, you have been unfairly charged as a criminal due to a past incident, and everyone seems to treat you like you are an outcast. On your first day of school, you somehow wander into some strange castle and meet an obnoxious, unclothed man named Kamoshida who captures you and your friend and orders your executions. Backed into a corner, you suddenly hear a voice in your head, and you manifest a powerful being known as Arsene! 
+
+Where did these powers come from? Who is Kamoshida and what is that castle? Who was the corrupt man that branded you as a criminal when you did nothing wrong? And, is any of that connected?
+
+[h1]OVERVIEW:[/h1]
+[table]
+    [tr]
+		[th][/th]
+		[th][b]Strengths[/b][/th]
+    [/tr]
+    [tr]
+		[td]✔️[/td]
+		[td]The fact that this game was ported to PC after such a long time is a big win.[/td]
+    [/tr]
+    [tr]
+		[td]✔️[/td]
+		[td]The game just oozes art style in every little detail.[/td]
+    [/tr]
+    [tr]
+		[td]✔️[/td]
+		[td]P5R has an incredible soundtrack. OG tracks like Last Surprise, Layer Cake, Life Will Change, and Rivers in the Desert are still iconic from the original P5, and new tracks like Gentle Madman, Take Over, and Colors Flying High are groovy af.[/td]
+    [/tr]
+    [tr]
+		[td]✔️[/td]
+		[td]The turn-based combat in P5R is probably my favorite of all JRPG's. '1 more' w/ baton passing allows for strategic and intuitive gameplay.[/td]
+    [/tr]
+    [tr]
+		[td]✔️[/td]
+		[td]The English voice acting is great. Everyone's performance feels in character and appropriate.[/td]
+    [/tr]
+    [tr]
+		[td]✔️[/td]
+		[td]You can make some really OP personas if you have the right resources.[/td]
+    [/tr]
+[/table]
+
+[table]
+    [tr]
+		[th][/th]
+		[th][b]Weaknesses[/b][/th]
+    [/tr]
+    [tr]
+		[td]❌[/td]
+		[td]The Royal story content feels tacked-onto the original P5's ending instead of integrated into the original game's story. The fact that [spoiler]Kasumi doesn't join your party until the third semester[/spoiler] feels lazy since that only leaves like one month of playability with the new character. [/td]
+     [/tr]
+    [tr]
+		[td]❌[/td]
+		[td]The game is incredibly easy if you choose to use the DLC accessories and personas. You can basically never run out of SP in dungeons if you use the Starlight Glove to baton pass frequently. This is obviously an optional course of action and you can decide not to use them.[/td]
+    [/tr]
+[tr]
+[td]❌[/td]
+		[td]Ohya's confidant, like in original P5, remains useless. And she is still worst girl, to boot.[/td]
+[/tr]
+    [tr]
+		[td]❌[/td]
+		[td]Waifu wars; take them with a grain of salt please.
+[/td]
+    [/tr]
+    [tr]
+		[td]❌[/td]
+		[td]Not really a complaint, but it becomes pretty obvious who the true final boss is as you play.[/td]
+    [/tr]
+    [tr]
+		[td]❌[/td]
+		[td]The gravity of ""how corrupt"" each successive villain is feels less personal. The first villain is detestable because his actions directly impacted people you know to such a degree that a classmate almost commits suicide, but the later villains are people who are evil on larger scales and usually impact larger groups of unknown individuals, so it becomes a little more difficult to feel as strongly toward the later foes.
+[/td]
+    [/tr]
+    [tr]
+		[td]❌[/td]
+		[td]This is mostly a critique of the voice direction of the original P5 since it was unchanged in P5R, but the English voice actors were specifically given weird directions to give emphasis to the wrong part of the name when pronouncing the Japanese names. Like okay, I'm not a native Japanese speaker, but this is the only game out of all Japanese games where they pronounce the names that way, which begs the question: why?[/td]
+    [/tr]
+    [tr]
+		[td]❌[/td]
+		[td]In my opinion, the canon P5R ending is not as good as the original P5's. [spoiler]Sumire is basically like, ""alright, see ya."" (even if you romanced her). And why are they teasing Akechi being alive? What point is there in doing so?[/spoiler][/td]
+    [/tr]
+    [tr]
+		[td]❌[/td]
+		[td]P5R's canon-ness is often hard to place thanks to sequels and spin-offs like Persona 5 Strikers and Persona 5 Tactica. It is weird because some games recognize Yoshizawa's existence while other games fail to mention her at all.[/td]
+    [/tr]
+    [tr]
+		[td]❌[/td]
+		[td][spoiler]The 'final' boss fight is a glorified ""press X"" encounter. Really disappointing.[/spoiler][/td]
+    [/tr]
+[/table]
+
+[h1]NUMERIC SCORE (if you care):[/h1]
+9.5/10
+
+P5R as an overall package is one of, if not the best, JRPG's of recent times and is an easy recommend.
+
+[quote] Checkbox reviews are lazy copy & paste bullsh*t. ASCII art reviews tell you nothing. ""Let's be honest, I only wrote this review for awards"" is a waste of everyone's time. If you are interested in genuine & detailed game reviews, feel free to check out my others [b][u][url=https://steamcommunity.com/id/bonafidemonafide/recommended/]here[/url][/u][/b] (or don't, I don't tell you what to do).
+ [/quote]",0.9348416328430176,418,True
+1687950,163765834,76561198352161968,"Pros: It will change your life.
+Cons: It takes 80+ hours to beat.
+Bonus Tip: Avoid the fandom.",0.9345161318778992,431,True
+1687950,124143122,76561198002281694,"When Final Fantasy XV launched back in 2016 it started with a message - ""A Final Fantasy for Fans and First-Timers”. And while it can be argued if that is true in regards to the FF franchise, I feel that saying works really well for Persona 5. If you never played a Persona title, you can jump straight away without any fear, and what you’ll find is a game that is incredibly addictive and it definitely deserves the title “one of the best JRPGS of all time”.
+
+On a personal level, Persona 5 is one of my favorite games of all time, I’ve played through it numerous times and I still can’t believe that I’m doing it right now on PC. Something that was a pipe dream years ago turned into reality and I never would’ve missed the opportunity to support Atlus’s decision to finally put the game on Steam.  I still can’t quite comprehend how much the series has grown since that fateful day in late 2007 when I was introduced to Persona 3 by a close friend. It was like nothing that I’ve played before and I loved it so much, that I went back and played Persona 1, 2 and numerous SMT titles, and then eagerly anticipated the release of Persona 4. When I played Persona 4 Golden for the first time back in the day, I thought that was the pinnacle of what the Persona franchise can achieve, but Atlus has shown us they have more than enough gas in the tank to keep this train going with Persona 5.
+
+The game feels much like a second home, while the outside world remains turbulent as ever, Joker and company are there for you if you need some entertainment to wind down. The characters feel like real people with real problems that are willing to test your empathy all through this 100-hour adventure. Persona 5 doesn’t just focus on the glam, it does the mundane really well. There are moments where you’re cleaning up your room, going out with a friend, or having your depressed guardian take you to school. You get used to just chilling and taking it all in, because every moment in this adventure counts and you foolishly start to understand it only when the end credits are starting to roll. 
+
+The story is another strong point and while some moments seem predictable, it doesn’t take away from its glory. Dungeons are improved compared to Persona 4 and they are separated in two categories campaign related and side content (which remain procedurally generated). The gameplay/combat animations are incredible and even something incredibly mundane as getting the upper hand in a battle seems smooth and stylish (even more in 120fps!). The soundtrack is brilliant and yes, during the years this has become a tradition in almost every Persona/SMT game and thank God it is, because it helps tremendously to set the mood.
+
+Persona 5 Royal is a collection of many things: inspiring stories, good times with good friends, a stunning visual novel and an amazing dungeon crawler. By working on what was already great and with brilliant new additions, Persona 5 Royal is an unforgettable experience that has you thinking about it long after it’s over.
+",0.9285308122634888,723,True
+1687950,202553744,76561198430404742,"Im gonna be honest. When I played this game I was at a really low point. I felt like I couldn't connect with the people around me, I felt like I was alone, ugly, unlovable, etc. This game helped with that... Like... A LOT. It's not even a stretch to say that I owe my current self to this game, and potentially a lot more.
+
+As pathetic as it sounds this game helped me feel understood. It felt good to be with the phantom thieves, and helped me understand what a good friends feel like. Eventually I found friends of my own.
+
+Thanks to this game I felt motivated to do better. Be better. So thanks persona 5.",0.9180973768234253,258,True
+1687950,150950020,76561198069772820,"[h1]So good that I bought it 4 times[/h1]
+
+I know my reviews are long and I appreciate the time you taking the time in reading them. 
+
+I own Persona 5 on the PS3 and PS4, Persona 5 Royal on the PS5 and on PC. Look I’m fully aware that by buying every re-release of a game I’m part of a problem in today’s gaming industry. Gamers being squeezed for every last penny they’ve got, more so with fans of a particular game or series. “They love it, so they’ll buy it anyway”. And Atlus certainly has proven itself to be part of that side of the gaming industry that wants their fans to pay the absolute maximum, because they know that we’ll buy it anyway.
+It's just that most of their games are some of the absolute best ever made, and Persona 5 Royal, for me, is probably on top of that list. It’s everything I hoped a game would be as a kid and here’s why.
+
+[h3]A childhood dream come true[/h3]
+
+When I was a kid I used to read tons of comics, hundreds of them a year. My parents bought me a little tape-player (yes, I’m that old) and every last cent of my pocket money was spent on either comics, music, or audiobooks on tape. It was much cheaper than buying a CD and the selection they had on certain events was just insane. Laying in bed listening to every story over and over again, my eyes closed and imagining I was part of every journey. No matter if I was Tintin, Spiderman, Wolverine or Asterix, I loved every story and I’ve been a part of many of them.
+
+I wasn’t all too familiar with Atlus-games in 2016, but I saw a trailer for Persona 5 and immediately added it to my wishlist on the PS-store. The more I checked out some early-on impressions on YouTube and read about it, I became aware of the huge passion the fans of the series had. Apparently the Persona series (and ofcourse Megami Tensei as a whole) had quite the legacy, which only made me more excited to play the game. 
+
+In April 2017 I was sitting on my couch, watching the download of Persona 5 crawl along. I felt something that I felt when unwrapping a new comic or tape. A mix of anticipation, excitement and a hint of nervousness. It’s done. The Atlus logo is displayed, the music starts, goosebumps. And suddenly I’m not sitting on my couch anymore, I’m part of the Persona universe, each morning I’m waking up in an attic, I’m Ren/Joker.
+
+[h3]Masterful storytelling[/h3]
+
+Ren’s a high school student accused of assault and therefore put on probation, his parents decide that he’ll go to another school and stay with their family friend Sojiro Sakura. There he’ll become part of a story where adults are taking advantage of their (social) positions, most of the time to the detriment of children/young adults. Ren/Joker gets to know these victims, befriends them and starts to form his own social circle in this new city. Adults who become so distorted by their own (wicked) desires form a so-called palace. A place where they are the rulers and anything what they want to be in real life becomes reality, influencing their behavior in the real world. Ren and his friends infiltrate these places (palaces) and try to take away the thing that feeds these adults to behave the way they do (a treasure). 
+
+Persona 5 does an impeccable job sucking you in their world. The way the story unfolds is on a level I’ve experienced maybe a handful of times in gaming. Yes, it’s a slow burn the first couple of hours but with good reason. The game starts in the middle of the story and after you are introduced to the stories’ setting you are thrown back to the beginning. So many questions arise: Why was I there, what was I doing in a casino of all places, who betrayed me? 
+
+When you get to the free roam part of the game you’re several hours in. It’ll definitely be worth it, but if you’re more into the ‘dive straight into the action’-type games, be aware of this. But I hope you can find the patience because otherwise you’re missing out on one of the greatest stories ever told.
+
+Persona, for me, feels like I’m reading a comic and all of a sudden I’m part of the story and certain choices have an impact on MY friends, on MY town, on MY family. I don’t want to disappoint any of them, which make some of the choices so hard and so genuine. Who to spent time with? Who to date? Who to deepen your bond with? To balance all these choices while also trying to improve your own (social and combat) skills feels just like real life. I don’t want to say no to any of them, but I’ve got to think of myself as well you know?  I am Ren/Joker, these choices are mine and I must deal with the consequences. 
+
+[h3]Perfect gameplay[/h3]
+
+P5(R) stays true to the turn based genre and to earlier Persona and to most of the Megami Tensei games. If you’re familiar with them than P5R brings very little new stuff to the table, but it’s probably also the reason you’ll love this one. The game is divided in 2 forms of gameplay. 
+
+First the dungeon crawling, action focused gameplay takes place in palaces/Mementos. Here you’ll face ‘shadows’, fight them, gain new (fighting) skill and collect new additions to your team. Second is social part of the game, here you can explore the city, train social/life skills and socialize with a wide variety of people struggling with society. These social connections are a large part of what makes P5R so great. Each of the social connections has their own backstory. Some struggle with past mistakes, some with financial issues, are being bullied or are even unaware of who they really are. With each step you get to know them more and just like a real friendship they try to help you along in life, just like you‘re helping them. 
+
+The balance between the 2 gameplay types is great. Whenever you reach the limitation of certain confidant/social storylines the main storyline advances. Giving you several hours of action-filled gameplay, which advances everyone’s story and gives you a new purpose to focus on when the social aspect again becomes the main focus. This ebb and flow of different kinds of gameplay keeps you invested, interested and makes it hard to stop. There’s always something new to see, learn and love just a couple of minutes away.
+
+In the last 6 years I’ve played P5 (including Royal) 7 times. Depending on the difficulty setting and your interest to explore every part of each confidant, it should take you anywhere from 70 to 120 hours to complete. New game plus lets you keep items and social skills from the previous playthrough, which gives you more time to deepen the relations with the people around you and encourages you to choose an increased difficulty.
+
+[h3]I’m not crying..[/h3]
+The amount of times I’ve had goosebumps from profound emotional moments is insanely high. Moments where you can’t help but yell at the screen be it from happiness, anger of sadness. And when the story reaches it’s inevitable peak and conclusion it felt like I was saying goodbye to my own friends and family. You know that feeling when you’re watching the last scene of ‘Friends’ (or another series that’s close to your heart), ‘Embryonic Journey’ by Jefferson Airplane starts playing and you feel the tears welling up in your eyes. You’re torn somewhere between a feeling of love, loss and happiness to have been part of something truly special.
+
+P5R does that to you. It makes you want to instantly play the game again but also to keep a distance for a while because it takes time to recover from something that you so deeply love but eventually has to end. 
+",0.9158129096031189,206,True
+1687950,179521462,76561198420179418,"Dont look up guides, dont try to gamify this. As someone with severe ADHD i constantly try to min max games. The best advice i have ever been given is for this game. Stop looking shit up. Stop trying to make ever right decision. It is very hard to actually make a wrong decision and mess up while just playing the game normally. Try to be a phantom theive. Put yourself in there shoes. Youll have so much more fun with this amazing story.",0.9148168563842773,398,True
+1687950,129218948,76561198066783339,"How am I supposed to play other games after this?
+
+The game doesn't miss a single step. It's straight 10 outta 10 in every category. 11 in some, actually. 
+
+The game is so good it puts a severe strain on my vocabulary. The OST is incredible, the story is amazing, the atmosphere is unique, the UI is iconic, the gameplay is captivating, the art style is gorgeous, the role-playing is unparalleled, the voice work is pristine... 
+
+The adjectives just keep on piling up.
+
+After 143 hours and all achievements one would expect me to be quite done, but here I am debating doing a NG+ run (harem time), watching the anime adaptation or just jumping into P5 Strikers immediately. 
+
+The whole experience is just so unbelievable cozy, charming and enthralling that you just wanna keep on being a phantom thief ad infinitum.
+
+The only game that grabbed me so thoroughly was Persona 4 Golden. And although I still love 4 more, this one is indisputable the better game. Every single aspect is improved and the amount of quality of life features is astounding. The attention to detail is unmatched.
+
+There are a lot of good games out there. There are also quite a few excellent ones. But P5R is the kind of game that raises the bar for the whole medium. These you don't see so often.
+
+
+P.S. Yukiko still best waifu.",0.9140347838401794,454,True
+1687950,177395813,76561199181995814,"This is the greatest game I have ever played. I have never written a review for anything, let alone a game before. Before playing persona 5, my personal greatest games were the Last of Us and Fallout New Vegas, with many other greats right behind it, but putting this game above them was one of the easiest decisions I have ever made (I have Ellie's tattoo and the wild wasteland perk tattooed on my damn body mind you). I have never felt the things I did about any other game before. I, a 23 year old man, have never in my life cried for as long as I did than after the credits started to roll. I beat Royal two days ago and still when I boot up my laptop I can't find the strength or desire to do anything but boot up Persona and either stare at the title screen or cut it up in the thieves den (little trinket hub side feature).
+
+ Other than yapping about how this game has completely consumed my every waking thought, I will yap about why this game is so perfect. Every single feature is as perfect as the definition of the word. The soundtrack, I can't even find the words to describe how amazing the soundtrack of this game is, those words might not even exist in the English language (I don't wanna say perfect too much). The soundtrack is so good than you don't even need to play the game to appreciate it, but when you do and finally have experiences to tie each song to, and each track just gets ten times better. I will 100% be listening to this soundtrack for the rest of my life. And the art, oh my god the art of this game, from the little screen of Tokyo between each day, the MENUS AAAAAHHHHH the menu art of each confidant, speaking of which, each confidant, don't even get my started. 
+
+As sick as the story itself is, the real beauty of this game is the relationships you build with all the people you meet, and (literally) saying goodbye to them and moving on from this game is one of the most difficult things I have ever had to do. I don't even want to touch on the story itself because I think everyone should go in as blind as I did, but just trust me when I say it is absolutely incredible. It has so much that goes into it that one thing I realized is that you actually can't spoil Persona 5 with a single sentence, there is just too much that happens. But every story beat, and every twist they throw at you is just nothing short of master class, and dawg I'm telling you, I have never in my life been quite as lit as when I was fighting the last like 5 bosses. 
+
+I have truly screwed myself over, because for the rest of my life I will compare every game, and even every piece of fiction, to Persona 5 Royal, and I'm sure every single time, those other works will never be able to come anywhere close to the experience of playing this game for the first time. This is one of those things that if i had selective amnesia, and I could choose one thing to experience for the first time ever, I'm picking Persona 5 Royal every. single. time. 
+
+I can talk about this game forever, and I probably actually will, but as far as this review goes, no one is gonna read this, I can't foresee a situation where anyone comes to this store page without the intent to purchase the game, I'm not changing anyone's mind or anything here, and I will likely be the only human to ever read these words, but I had to take the time to write this. My final save file is about 215 hours long, and I will cherish each and every second of those 215 hours for as long as I live, and it has permanently rewired the way my brain works. If for some reason you are reading this and are on the fence, please, please play this game. And if every loading screen telling you isn't enough, please, Take Your Time.",0.9135797619819641,226,True
+1687950,201612026,76561198184983610,"My Early Hours review of  – Persona 5 Royal
+
+- Went to school.
+- Got framed for assault.
+- Entered another dimension.
+- Cat told me to commit crimes.
+- Now I fight monsters with the power of friendship and teenage rage.
+- Also I’m failing math just like in real life.
+
+I don’t know what’s happening and where the game is going but it’s stylish as hell and I can hear jazz music in my blood.
+Send help—or don’t. I’m too busy stealing hearts.
+
+10/10 chaos. Would persona again.",0.9116383194923401,182,True
+1687950,171711619,76561198833078228,"This was my first Persona game and here is what I have to say:
+
+This game is hands down, THE best game I have ever played in my life. The amount of enjoyment I got from this is just not possible to explain with words. Everyone NEEDS to play this game, it's straight up life-changing.
+
+Gameplay: Addicting
+
+Story: Amazing.
+
+Characters: Very memorable and likeable.
+
+Soundtrack: Going on in my head 24/7, best music I've heard, ever.
+
+I could go and meatride this game more but whatever I say, it's not going to be enough.
+
+Whoever you are, play Persona 5. It's amazing.",0.9116039872169495,233,True
+1687950,234951020,76561199084648067,"kid with glasses gets abducted by old man in prison and told to figure out how to reform society and people, proceeds to become a national criminal in japan and then armageddon breaks loose in tokyo or something. 10/10 game",0.9104869961738586,130,True
+1687950,236063331,76561198452812696,"At first you're going to complain about how long it is, 
+at the end you're going to be left wishing it was longer.
+A masterpiece of a game 10/10.",0.9071000218391418,113,True
+1687950,154316431,76561197995580760,"I really liked this game, and I want to help people make their [b]first experience[/b] with any game in the Persona series a good one.
+TL;DR: I highly recommend you play alone and without guides for the [b]first time.[/b]
+
+If you want to enjoy this game for the first time, you might want to avoid this in your playthrough until you beat the game:
+
+- [b]The Wikia and Wiki[/b] 
+
+- [b]The Persona fandom[/b]
+""No, I haven't met that character yet. I'm very glad you like it when they [Spoilers], thank you very much. No, I don't know which character is my favourite, I'm only 10 hours in.""
+
+- [b]Letting people know that you are playing this game[/b] 
+The Persona Fandom lurks in the shadows (and so does the disappointed SMT Fandom).
+If you want to be super careful, use the ""Privacy"" option and ""Mark as Private"".
+
+- [b]Searching anything related to Persona on Youtube[/b] 
+""You searched for this incredibly good track. May I interest you in this unrelated character's death scene?""
+
+- [b]The British[/b] 
+I was personally spoiled by one before I even got to play the game and I'm still angry about it >:( 
+
+Failure to avoid any of the aforementioned will result in [b]SPOILERS[/b], and this is a pretty long game.
+
+This applies to other popular Persona titles.",0.9010307192802429,193,True
+1687950,124723583,76561198254245503,"Game Crashed on me, lost around 3 hours of progress, feel honoured to be able to play those 3 hours again.",0.950893759727478,1142,True
+1687950,174027248,76561198068959796,i think my game is bugged they didn't let me pursue a romantic relationship with goro akechi,0.8995784521102905,338,True
+1687950,214833370,76561198205548681,"[h1] Persona 5 Royal, the Game that stole my heart [/h1]
+
+When I started the game on December 2024, I wasn't really familiar with how ATLUS Games work and I was really overwhelmed of how the game works, there was so much to do and as a perfectionist, I always wanted to do the right thing which made me not know how to play the game correctly. That unfortunately, made me stop playing the game for a while for multiple times and start other games, and also not to forget I started on a hard difficulty and I had a tough time against the first Palace Boss, which led me to quit the game for a while. Thankfully I had a lot of people who taught me how to play the game correctly, and that is where the fun started. I would like to thank @Ardelle @liliphobic and especially @Zaferius since he taught me most of the stuff! I have finished the game a couple days ago and I already started a NG+ for the love of Story and the characters, to get 100% achievements and also playing on a harder difficulty for a challenging experience, literally a 11/10 experience, especially since I haven't been spoiled on the Story (rare case to be honest).
+
+[h2] The Story [/h2]
+
+it's about High schoolers that have difficulties in life because of Adults, either because of their impact or what they personally did to them, so the High schoolers Rebell against that and fight, for a better future and a better world.
+It's a Story about fighting the broken evil World, also finding about their true selves, heal from the past and getting to know real friends with true friendships. Royal added so many details about it than the original game, especially the 3rd Semester with the perfect Villain. His Story was so very different than the others and the fight was also different, which made it interesting, VERY INTERESTING.
+
+[h2] The Characters [/h2]
+
+Fabulous, Elegant, Magnificent, a Masterpiece. I played a lot of games with great casts, but there is always that one or 2 that I disliked or hated. But in the case of Persona 5, there is no such thing. I LOVED EVERYBODY HERE!
+The more you get to know a character, doesn't matter if you spend time with them to strengthen your bonds with them or get further in the Story, they all get likeable at a time, to be honest I liked everyone from the start and I starting to love them after a while in the game. Spending time with them is a great option to get to know the characters better, also their stories since it gets to the direction of what they want to become in the Future.
+Their stories are serious, emotional, funny, and wholesome. Literally the whole package. Also not to forget the romance, absolute cinema. Literally with every girl you try to romance it's so well made, sensational! What I really wish is that when you get into a relationship with someone, it gets Canon in the game. Like the whole group acknowledge it and not just say ""we are just friends"" although they are more than that. Please ATLUS make that happen in the future projects!
+I also want to mention [u]Makoto Niijima[/u] is best girl <3
+
+[h2] The Music [/h2]
+
+The Music, wether it's when you are walking around, fight Mobs, get ambushed, emotional, having romantic scenes or fighting Bosses, it got me feeling like Christian Bale in American Psycho when he was listening to music. A MASTERPIECE, LITERALLY. Especially the Jazz, you literally feel your soul going out of your body. I have a lot of favorite Songs but the ones I really really liked are ""Take Over"" and ""I believe"" by Lyn, I am having quite a good run listening to the whole Persona 5 Album :)
+
+[h2] The Gameplay [/h2]
+
+Personally, I never played turn based games beside of Baldurs Gate 3 and Honkai Star Rail and they are both different than Persona. I admit I had a lot of struggles at first, it's not that it's hard but I definitely had to get used to it, like the weakness and the strength of the enemy I had to learn it for a while but its easy to understand and when I actually understood it, the fights got more fun (as it should). I am not really a fan of turn based games, but ATLUS changed my mindset on this, I am actually loving it now and I can see myself play more turn based games in the future because of Persona 5. The fights got even so addicting, I started unnecessary fights too and also because of the music!
+
+[h2] The World building and Design [/h2]
+
+I like the fact that no matter where you go, it wasn't just empty places with few NPC's, there were actually a lot of them and even with some that you can interact with and get useful information of. Design of the cities, buildings, Mementos and even Palaces are perfectly designed, ATLUS made it with their blood and sweat, they used their budget well on them. What I really liked most was the Palaces had identical design as their true self, literally chef kiss.
+
+[h1] Thank you for reading! [/h1]
+
+I really hope this will be a helpful Review to Gamers who have no idea about Persona 5 Royal and it awaken their interest, one of the best, IF not the best Experience I had in Games. When I do reviews, it's about my favorite Games, and since it's that long, it sure can tell about how much I love this game :)
+
+I wish everyone a Happy new Year, may it be a great and a blessed 2026 for all of us!!! 🥂",0.8984972238540649,133,True
+1687950,218333823,76561198350664890,"After spending 100+ hours in this game, I can proudly say that I finally got a girlfriend",0.8974132537841797,174,True
+1687950,185507483,76561198137628196,"[h2]A Stylish Masterpiece of Strategy and Snark[/h2]
+This game is the ultimate mashup of a JRPG, a high school simulator, and a heist movie—but with a talking cat and a killer soundtrack. It’s as stylish as it is stressful, because nothing screams “fun” like balancing school, friendships, and stealing the distorted desires of corrupt adults.
+
+[h3]Story[/h3]
+You’re just an average high school student—or so you thought. Wrongly accused of a crime and shipped off to Tokyo, you stumble upon the Metaverse, a magical dimension born from human desires. Here, you and your new crew, the Phantom Thieves, dive into the minds of shady adults to steal their wicked hearts. It’s like Inception, but with more jazz music and fewer Leonardo DiCaprios. Along the way, you’ll unravel conspiracies, form unbreakable bonds, and get yelled at by a talking cat for staying up too late.
+
+[h3]Strengths[/h3]
+[b]✔️ Combat That Makes You Feel Like a Genius[/b]
+Every battle feels like a perfectly choreographed dance of flashy moves and tactical brilliance. And when you land a critical hit and trigger a stylish All-Out Attack, it’s impossible not to cheer for yourself.
+
+[b]✔️ Characters You’ll Want to Be Besties With[/b]
+The Phantom Thieves are basically the coolest friend group you’ve ever dreamed of joining. Whether it’s the sweet and awkward artist Yusuke or the bold and feisty Ann, you’ll find yourself rooting for them—and maybe even tearing up once or twice.
+
+[b]✔️ A Soundtrack So Good It Should Be Illegal[/b]
+With tracks like ""Last Surprise"" and ""Rivers in the Desert,"" this soundtrack will live in your head rent-free for weeks. Good luck resisting the urge to hum ""Take Over"" during your next grocery run.
+
+[b]✔️ Visuals That Put Other Games to Shame[/b]
+From slick menus to explosive combat animations, everything in this game is so stylish it could walk the runway. Seriously, even the pause menu is cooler than most other games.
+
+[b]✔️ The Stress Simulator You’ll Love to Hate[/b]
+Planning your days, managing your social life, and deciding whether to hang out with your friends or infiltrate a palace will give you flashbacks to finals week—but in the best way.
+
+[h3]Weaknesses[/h3]
+[b]❌ The Calendar Will Haunt You[/b]
+Did you waste an entire day playing darts with Ryuji instead of studying? Too bad, because now you’ll be up at night regretting your poor life choices.
+
+[b]❌ Morgana’s Bedtime Rules[/b]
+Want to stay out late and train for the next boss fight? Too bad. Morgana will scold you until you go to bed. Sleepytime police strikes again.
+
+[b]❌ Time Will Disappear[/b]
+You’ll tell yourself, “Just one more in-game day,” and then suddenly it’s 3 a.m. and you’re questioning all your life decisions.
+
+[h3]Achievements[/h3]
+The achievements are like your to-do list: intimidating but oddly satisfying to check off. From maxing out your relationships to mastering combat, every task feels rewarding. And don’t worry—nothing is missable if you plan well. Just… maybe don’t waste time playing darts with Ryuji.
+
+[h3]Target Audience[/h3]
+[b]✔️ Recommended for[/b]
+• JRPG fans who love strong characters and flashy battles
+• Players who enjoy balancing a full schedule while stealing hearts
+• People who want a game dripping with style and humor
+
+[b]❌ Not Recommended for[/b]
+• Gamers who hate time management (or calendars in general)
+• People who dislike talking cats (seriously, why?)
+• Those who don’t want to spend 100+ hours on a single game
+
+[h3]Final Verdict[/h3]
+This game is a dazzling mix of strategy, storytelling, and pure style that will keep you hooked from start to finish. Whether you’re drawn in by the heists, the friendships, or the endless jazz bangers, you’re in for a ride you won’t forget. Oh, and let’s not forget: it’s the best Persona game to date. The bar has been raised—and it’s now in the Metaverse. 🎭✨
+
+[b]Note:[/b] My playtime is as distorted as the cognitive worlds I infiltrated. For a realistic estimate, check [url=https://howlongtobeat.com]HowLongToBeat[/url].",0.8944876790046692,107,True
+1687950,146114368,76561198099796991,"This is my new favourite game. I arrived late to the party but I don't care, it's a f*cking masterpiece.",0.890752375125885,235,True
+1687950,230937919,76561199182476139,"I bought this thinking I’d play it for a few hours
+
+200+ hours later… yeah...
+
+This game somehow made me care about every single character, made me spend way too much time optimizing Personas, and had me saying, “I’ll save and get off after one more day.” for about 4 hours straight.
+
+The soundtrack never misses. The gameplay keeps getting better the more you play. The story had me hooked the entire time, and the ending left me with that post-game depression every great game gives you.
+
+It’s not a perfect game. Some sections drag a bit, and a few mechanics can get repetitive. But when a game keeps you glued to your screen for well over a hundred hours, it’s doing something right.
+
+Persona 5 Royal isn’t just one of the best JRPGs I’ve played.
+
+It’s one of the best games I’ve ever played.
+
+Thank you, Phantom Thieves.
+
+I’ll be a Phantom Thief forever🖤
+
+10/10",0.8886034488677979,91,True
+1687950,134519625,76561198082905514,"This game actually changed my life. When I first started this game, I had no girlfriend, no friends, and no social skills. Nothing changed but this game is pretty cool. 10/10",0.8849337697029114,468,True
+1687950,128575213,76561198112053159,"Is there any way to concentrate the feelings that this game evoked in just one review? I don't think so.... Persona game series is something that you need to experience through gameplay and only gameplay will show you why this is such a masterpiece. 
+
+My recommendation? Enjoy every second of it, because the first time is special.  
+
+Always follow the truth...",0.8813116550445557,212,True
+1687950,203426355,76561199130352964,"This game changed my life. I played it when I was at my lowest. I felt hopeless. Then, I played this game. The characters, the world, the message, the feeling of self-discovery while pursuing happiness for those you love; all of these inspired the person I am today. I am not perfect obviously, but I am proud of who I am. That is something I never would have been able to say if not for Persona 5 Royal. 
+
+There is one quote from this game that has become a personal mantra of mine. 
+
+""Your existence in this world is an amazing miracle. You deserve to spend your days in happiness.""
+
+This quote has kept me going for years now. I pray that someone else who may feel hopeless right now may play this game and have the same experience I had.",0.8776895403862,127,True
+1687950,124312394,76561198044242861,"Persona 3 = Best story
+Persona 4 = Best team
+Persona 5 = Best gameplay",0.8751444220542908,464,True
+1687950,141515362,76561198245451112,"[h1][b]Stealing Hearts, Rewriting Fate: Exploring the Magic of Persona 5…[/b][/h1]
+» [b]Persona 5 Royal[/b] is a massive, gorgeous JRPG with well over a hundred hours of gameplay for completionists. With more to do than ever and the series’ most compelling narrative yet, it stands out as an extraordinary, memorable experience and easily one of the deepest JRPGs of the last decade. Its sprawling dungeon design and stylish, fully realized world are an absolute joy to explore, and even after two playthroughs and the Platinum trophy, I find myself itching to go back to try different dialogue options or revisit particularly fun puzzles. This is a new gold standard for Japanese RPGs and by far the best entry in the series.
+
+[h1]Story[/h1]
+» In stark contrast to the slow burn of epic-length cutscenes that greet you in previous games, Persona 5 starts its long journey with a bang by throwing you directly into a fast-paced foot chase through a vibrant, stylized Tokyo casino. As we are introduced to the complex yet approachable turn-based battle system in those opening moments, series fans will recognize not only returning systems from Persona 3 and 4 but also long-absent elements like ranged weapons and negotiation that haven’t been in a Persona game in over a decade, adding more depth and variety to combat. Persona 5 is the culmination of everything the JRPG series has been building to, with familiar elements dialed up to 11 and some welcome new surprises added into the mix.
+
+In what is by far the series’ strongest story to date, Persona 5 puts you in the capable shoes of a high school student who spends his evenings saving the world. By day, you will attend class, answer quiz questions, and live the life of a typical teenager, but after school you will see the clever concept of invading the minds of corrupt adults who are up to no good and battling psychological demons in order to change their hearts.
+
+[h1]Environment[/h1]
+» The game’s stand-out dungeons take place in “palaces” created within the mind of each target, and [i]ATLUS[/i] takes advantage of this to set them in diverse and outlandish places. Unlike the procedurally generated halls of Persona 3’s Tartarus or Persona 4’s Midnight Channel, Persona 5’s labyrinths are fully hand-built and feature unique puzzles and mechanics that vary with the theme of each dungeon and never repeat. A museum, for example, has very different security measures than a medieval castle, and you will find very different enemies in a pyramid than you might in a spaceship. This gives each palace a sense of identity tied to the target and provides some smart, unpredictable story moments and challenges.
+
+[h1]Gameplay and Characters[/h1]
+» Persona 5’s sense of scope is staggering compared to the dungeons in Persona 3 or 4, with palaces easily double or triple the size of those previous areas. While Persona 4 has you run through linear hallways until you reach the top of a dungeon, Persona 5 has branching paths, networks of hidden rooms, doors that require puzzles to open, and even excursions to other parts of the cognitive world outside of the dungeon itself. Starting each new dungeon is a bit daunting, but solving puzzles and progressing to each new area offers a wonderful sense of accomplishment.
+
+While the chemistry between the characters never quite reaches the heights of Persona 4’s Scooby Gang vibe, Persona 5’s more cohesive main story does allow each character to shine in individual moments instead, exploring troubled pasts like the loss of a parent to add weight to present day scenarios. This series has never shied away from exploring serious subject matter, and here it sheds light on abuse by teachers, drug sales, suicide, and a host of other issues that are handled well and are at times extraordinarily moving. Each character’s motivation for joining you is relatable and unique, and even each palace’s target has believable conviction. 
+
+[h1]Combat[/h1]
+» Battle in Persona 5 is a familiar turn-based formula, with melee attacks, ranged weapons, and magic attacks based on one of eight elements. A bit like catching Pokemon, you collect Personas that you will use to fight, and each has its own unique set of skills as well as its own set of strengths and weaknesses. While each of your party members has one permanent Persona to use, the protagonist has the lone ability to hold multiple Personas at once. This means that you can acquire additional Personas to use as you progress, and collecting multiple Personas with different abilities is a fun way to tailor your play style to the type of combat you prefer. You can also fuse combinations of Personas to create new ones, which allows you to inherit certain skills until you have created the Persona that is right for you.
+
+[h1]Social Life[/h1]
+» While Persona 5 is a solid modern turn-based JRPG first and foremost, it also quickly becomes an interesting time-management simulator. When you are not saving the world, your time after school is your own. You are able to visit hub districts within Tokyo for activities like training at the gym, fishing, working a part-time job, batting practice, seeing a movie, or just heading home to study, play a retro game, or reading one of dozens of books. These activities are a gigantic improvement upon the comparatively limited amount of things to do in Persona 4 and a fun way to expand your personal stats like Charm, Guts, or Kindness.
+
+On top of social activities, you also have 20 Confidants to spend time with, forging bonds with fellow students or other citizens of Tokyo. As you level up these bonds you will earn relevant stat increases and gameplay advantages that are surprisingly robust. Spending time with a speech-giving politician, for example, might help your negotiation skills while training with an arcade’s light-gun expert helps your expertise in ranged weapons, and a local board game champion will give you new strategies in battle. Balancing Persona 5’s many activities with maintaining these social links (which can only be advanced on specific days) is a welcome challenge and will require methodical notetaking for anyone who wants to maximize each day of the calendar.
+
+[h1]Art and Design[/h1]
+» The very act of exploring Persona 5’s Tokyo is a delight. From city lights at night to crowded subways during your school commute, every part of this world is bursting with vibrant color, and every detail feels meticulously thought out and eerily accurate to real-world Tokyo. The anime-like art style is complemented by full animated cutscenes that are absolutely gorgeous and help to punctuate major story events.
+
+Each area of Tokyo feels completely distinct, with the major hubs of Shibuya, Shinjuku, and Akihabara each offering aesthetic differences on top of locations reminiscent of their actual real-life counterparts. Shinjuku features a seedy dive bar in contrast to Shibuya’s family-friendly diner, and Akihabara is home to an arcade and shops for buying games and electronics. As the subway-themed map begins to fill in, you get a sense of just how much there is to do in Tokyo compared to Persona 3 and 4’s relatively tiny Tatsumi Port Island and Inaba.
+
+All of this is further enhanced by Persona 5’s impressive sense of style. I found myself flicking back and forth in menus over and over simply to appreciate the slick transitions. Sharp design choices permeate even tiny details of gameplay, like scenic changes that vary based upon your mode of transportation as you leave each area, or a free-flowing results screen after victory in battle.
+
+[h1]Conclusion[/h1]
+» Ultimately, Persona 5 is an exceptional JRPG and an absolute must-play that has spectacular storytelling, gameplay, and design. With its incredible sense of scope, style, and detail, this is perhaps one of the greatest JRPGs ever made and stands as the best entry in the series.
+
+[h1][b]Score: 9.4/10[/b][/h1]
+
+[b][i]Was this review helpful?[/i][/b]
+» If so, please leave a rating and award!",0.8687638640403748,132,True
+1687950,180999112,76561198136596235,"If you have never played a Persona game before, this is THE game to start on!!
+
+This is the first game I happily sunk 150+ hours into and I just picked it up on sale to replay it on my deck.
+
+I dove into this game during the dismal days of covid when I felt completely isolated and I can confidently say that the characters, their camaraderie and banter got me through it all. Coupled with some of the best music I’ve ever listened to in a game and a story to keep me engaged for a second round… this is HANDS DOWN the best game I have ever played <3
+
+I just had to come here and say that. I don’t even want to say anything more about this game because you just need to experience it to understand. So give it a shot. If you enjoy JRPG’s, you will not be disappointed!!
+
+Signed,
+Akechi’s biggest fan girl xo (I can fix him)",0.8660620450973511,97,True
+1687950,218906444,76561199061926931,"This game is the definition of a masterpiece. From the music to all the intimate moments in between, this game is one of my comforts. I could hideaway in Café LeBlanc listening to ""Beneath the Mask"" forever.",0.8627303242683411,73,True
+1687950,124143661,76561198383156068,"HOO BOY, here we go!
+
+I've bought P5/P5R on three different occasions at full price as well as every single spin-off game. That should already tell you how good the game is and how financially irresponsible I am when it comes to Persona. Most reviews give this game a solid 10 out of 10, calling it a great masterpiece. I would go a step further and refer to this game as genre-defining. The level of precise detail and care put into Persona 5 Royal, which is debatably the best JRPG ever developed, makes it nothing less than a labor of love built upon a 25-year foundation of a masterclass in storytelling. ATLUS successfully blends the subtleties of everyday life such as time management with the reality of its plot sequences to create a great representation of both everyday life and being a Phantom Thief. 
+
+You will grow to adore P5R's primary heroes, The Phantom Thieves of Hearts. You assume control of their leader, an outcast kid who has the desire to change the world. You build and strengthen bonds with confidants closest to you when you're not sneaking into castles to steal the hearts of individuals corrupted by evil. The game also features one of the most intriguing villains in the series while yet maintaining a fantasy feel with the help of bosses that are presented according to the series' canon.
+
+The side-quests aren't your repetitive copy and paste filler. There aren't really any ""Take item-deliver it there,"" ""Defeat 10 of these enemies,"" etc. side-quests, if you can even call them that. The daily activities of a high school student include side missions with actual substance, which are vital to the progression of the main plot and the development of the games cast of characters. They are activities that are optional but actually adds a whole lot to the overarching story and are absolutely worth going out of your way to do.
+
+You can't talk about Persona without talking about it's banger soundtrack! Every song is amazingly written, catchy, and the tracks in the Palaces never gets stale so listening to the music never really feels repetitive. The battle music is also top tier, and it always plays at the right moments to help set the tone and atmosphere. The tracks builds up to that point to create a feeling of hype and anticipation that is unmatched in most video games today.
+
+It's challenging for any modern game to compare to ATLUS's goal of taking their franchise to new heights because this game hits the series right in the heart. In my opinion, a modern JRPG would be a huge triumph if it even manages to surpass 50% of what Persona 5 Royal has accomplished. I genuinely believe that Persona 5 Royal is ahead of its time and will be one that is talked about in years to come.
+
+100/10 Would recommend this game to anyone who just loves video games.
+P.S. They are all best girls. Harem route baby!",0.8627294898033142,308,True
+1687950,171290122,76561199557139263,"---{ Graphics }---
+☐ You forget what reality is
+☑ Beautiful
+☐ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{ Gameplay }---
+☑ Very good
+☐ Good
+☐ It's just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ Audio }---
+☑ Eargasm
+☐ Very good
+☐ Good
+☐ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{ Audience }---
+☐ Kids
+☑ Teens
+☐ Adults
+☐ Grandma
+
+---{ PC Requirements }---
+☐ Check if you can run paint
+☐ Potato
+☑ Decent
+☐ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{ Game Size }---
+☐ Floppy Disk
+☐ Old Fashioned
+☑ Workable
+☐ Big
+☐ Will eat 10% of your 1TB hard drive
+☐ You will want an entire hard drive to hold it
+☐ You will need to invest in a black hole to hold all the data
+
+---{ Difficulty }---
+☐ Just press 'W'
+☐ Easy
+☐ Easy to learn / Hard to master
+☑ Significant brain usage
+☐ Difficult
+☐ Dark Souls
+
+---{ Grind }---
+☐ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☐ Isn't necessary to progress
+☑ Average grind level
+☐ Too much grind
+☐ You'll need a second life for grinding
+
+---{ Story }---
+☐ No Story
+☐ Some lore
+☐ Average
+☐ Good
+☐ Lovely
+☑ It'll replace your life
+
+---{ Game Time }---
+☐ Long enough for a cup of coffee
+☐ Short
+☐ Average
+☑ Long
+☐ To infinity and beyond
+
+---{ Price }---
+☐ It's free!
+☑ Worth the price
+☐ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{ Bugs }---
+☐ Never heard of
+☑ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{ ? / 10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☐ 7
+☐ 8
+☐ 9
+☑ 10",0.8590438961982727,368,True
+1687950,175598491,76561198866275724,"The best game I've ever played. 
+I used to not really be that much of a fan of JRPGs and Turn based games but damn this game slaps!
+This game has deep themes, and is a very interesting critic of Japanese society. And with a touch of Jungian Psychology, it makes a really unique game.
+Personally, I played this game when I was at my lowest in life, and it really helped me feel better, and improve as a person.
+I felt like I had friends that cared about me, and inspired me to actually get better, and change.
+Now I am doing good, and I hope you will enjoy playing this game!",0.858302891254425,103,True
+1687950,214710744,76561198262889977,I wish for my life to transition towards a goth nurse stepping on me and drugging me during the day and getting a teacher maid to tend to my needs at night because of this game,0.8545935153961182,76,True
+1687950,229137725,76561199829224408,"this game is sensational, it integrates life and lesson perfectly; i loved when john persona said 'its persona time' and persona'd all over the place.",0.8538546562194824,108,True
+1687950,224314338,76561199178421242,"15 hours in and I already have a parasocial relationship with a cartoon cat and a deep hatred of corrupt adults. I do not know how this game keeps getting better but it does. So far absolutely recommended, clear your schedule.",0.8537847995758057,67,True
+1687950,204518788,76561198326761618,"Persona is the kind of game you don’t want to end. You truly get attached to the characters, immerse yourself in the atmosphere and the world and saying farewell is difficult
+
+Persona 5 Royal is an amazing experience. It gave me the same emotions I felt when playing Persona 4 Golden. I am completely satisfied, yet I honestly wish I could stay in this world just a little longer",0.8443577885627747,73,True
+1687950,232396683,76561199701638461,"Put 104.5 hours into P5R over 10 days straight, n the whole ride felt like one hell of a vivid dream. Coming back to reality after it ends hits u with that heavy bittersweet emptiness, but it also feels like u lived an entire second life, the kind that reminds u exactly why games can hit so hard.
+As for the game itself, the story’s that classic crowd-pleasing arc of hot-blooded teens taking on the world to set things right. The 3D models are kinda rough around the edges, but the art style’s packed with insane energy and easily stands as one of the game’s biggest highlights. Every Confidant hangout with party members n side characters pulls u right into the story n feels so immersive. Combat’s pretty mid though, n late game bosses are straight up cheap as hell with all their scummy dirty tricks, which drags down the vibe a fair bit.
+When the final act rolls around n the protag says goodbye to every teammate one by one, it leaves u with so many tangled, mixed feelings. Not many games manage to hook me this deep. I’m probably gonna remember this one for years and years.",0.8425520658493042,95,True
+1687950,193868524,76561198043214863,"Played the original game on PS4, loved it, played P5R on PS4 again, still loved it. Played it AGAIN on PC, still loved it. This game is a masterpiece, if you haven't played it yet, I highly recommend it.",0.842269241809845,67,True
+1687950,227764810,76561198187878077,"---{ Graphics }---
+☐ You forget what reality is
+☑ Beautiful
+☐ Good
+☐ Decent
+☐ Bad
+
+---{ Gameplay }---
+☑ Very good
+☐ Good
+☐ It's just gameplay
+☐ Just don't
+
+---{ Audio }---
+☑ Eargasm
+☐ Very good
+☐ Good
+☐ Bad
+
+---{ Audience }---
+☐ Kids
+☑ Teens
+☑ Adults
+☐ Grandma
+
+---{ PC Requirements }---
+☐ Check if you can run paint
+☐ Potato
+☑ Decent
+☐ Fast
+☐ Rich boi
+
+---{ Game Size }---
+☐ Floppy Disk
+☐ Old Fashioned
+☑ Workable
+☐ Big
+☐ Will eat 10% of your 1TB hard drive
+
+---{ Difficulty }---
+☐ Just press 'A'
+☐ Easy to learn / Hard to master
+☑ Significant brain usage
+☐ Difficult
+☐ Dark Souls
+
+---{ Grind }---
+☐ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☑ Average grind level
+☐ Too much grind
+☐ You'll need a second life for grinding
+
+---{ Story }---
+☐ No Story
+☐ Average
+☐ Good
+☐ Lovely
+☑ It'll replace your life
+
+---{ Game Time }---
+☐ Long enough for a cup of coffee
+☐ Short
+☐ Average
+☑ Long
+☐ To infinity and beyond
+
+---{ Price }---
+☐ It's free!
+☑ Worth the price
+☐ If it's on sale
+☐ If u have some spare money left
+
+---{ Bugs }---
+☑ Never heard of
+☐ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+
+---{ ? / 10 }---
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣤⣤⣴⣶⣶⣶⣶⣶⣤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⣀⣤⣴⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⣠⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠉⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⠀⠀⠀⠀⠀⣀⣀⣀⣠⡾⠀⠀⠀⠀
+⠀⠀⠀⠙⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣾⣿⣿⣿⣿⠟⠁⣼⣷⣤⣀⣀⣀⣀
+⠀⠀⠀⠀⠈⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣾⣿⣿⣿⣿⡉⠀⠀
+⠀⠀⠀⠀⠀⠀⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⢋⣿⣿⣿⣿⣿⣿⡿⣷⣿⣿⡧⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠈⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⢸⣿⡟⢱⣿⡿⠋⢠⣿⣿⣿⡟⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠻⣃⣤⣄⢀⣠⣾⣿⣿⣿⠁⠀⠀
+⠀⠀⠀⠀⠀⢀⣤⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⠏⣿⣿⠏⠀⠀⢠⣿⣿⣿⣿⣿⣿⣿⣿⡿⠃⠀⠀⠀
+
+⠀⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡁⠀⠀⠀⠀⢀⣤⣾⣿⣿⣿⠿⠋⠁⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠁⠀⠀⠀⠾⠿⣿⣿⣿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠛⢿⣿⣿⣿⣿⡿⣿⣿⣿⣿⣇⣶⣶⣦⣤⣴⣶⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠉⠉⠻⣷⣦⣹⣿⡿⢿⣿⣿⣿⣿⣿⠟⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠛⠿⢿⠀⠀⠀⠉⠛⠋⠁
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠁⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿⣿⣿⣟⠛⠛⠛⠛⠛⠛⠛⠛⠛⠋⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⣶⣶⣶⣶⣶⣶⣶⣷⣶⣶⣭⣭⣙⠻⢿⣿⣿⣿⣿⣿⣦⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⠋⠉⠉⠙⣿⣿⣿⣿⣿⣷⠈⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢠⣾⣿⣿⣿⣿⣿⣁⣀⣤⣴⣾⣿⣿⣿⣿⣿⠏⣠⣿⣿⣿⣿⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠿⣛⣩⣴⣾⣿⣿⣿⣿⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⣴⣿⣿⣿⣿⣿⢟⣭⣭⣭⣭⣭⣷⣶⣾⣿⣿⣿⣿⣿⣿⣿⡿⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⢣⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠛⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⢠⣾⣿⣿⣿⣿⡿⠁
+⠀⣰⣿⣿⣿⣿⣿⡟⠁⠀
+⣴⣿⣿⣿⣿⣿⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀",0.840939998626709,217,True
+1687950,137529348,76561198000207900,"[h1]You are held captive. A prisoner of fate to a future that has been sealed in advance. This is truly an unjust game... Your chances of winning are almost none. But if my voice is reaching you, there may yet be a possibility open to you.[/h1]
+
+[h1]Introduction[/h1]
+Persona 5: Royal, or P5R ongoing, is a JRPG/anime fusion that focuses primarily on storytelling and character building, all the while trying to strike at some rather bleak and overall graphic material, such as drugs, sexual violence and even murder. Will you listen to your Persona and become a Phantom Thief of hearts?
+
+[table]
+[tr]
+    [th][b]🟩 Positives[/b][/th]
+    [th][b]🟥 Negatives[/b][/th]
+[/tr]
+[tr]
+    [td]🟩 A beautifully written and flowing story that succeeds at delivering emotional impactfulness without ever letting your pulse drop. There are so many elusive secrets to it that will take diligent observation to unveil.
+
+🟩 P5R is an enormous game with so many things to do. I will run short of words covering it all, but should you give this title a chance, be sure to try as much as you can.
+
+🟩 Approximately 3/4 of the game takes place in the 3D animated world Atlus has designed. The last 1/4 or so is presented through anime scenes that give you a momentary reprieve from controlling the situation and allow you to take it in.
+
+🟩 One of the best soundtracks to any video game I've ever played. Truly spectacular and adrenaline-inducing the entire way through.[/td]
+
+    [td]🟥 Long cutscenes and time advancements make it hard to save in-between heavy plot points. It doesn't happen often, but when it does, the weight of it all can get to you.
+
+🟥 The game is on a time limit. You have to complete everything you want to within a certain timeframe. It can be a turn-off for some people who don't like to be paced or micromanaged like that.[/td]
+[/tr]
+[/table]
+
+[h1]Story[/h1]
+You experience the story of P5R as a self-named hero (canonically Ren Amamiya or Akira Kurusu, if that sort of stuff bothers you) who was wrongly convicted and sentenced for a crime he didn't commit. On his probation, he is sent away to live with a guardian in another city, and it's there, the story truly begins to unravel.
+Shortly after arriving in his new temporary hometown, he begins to slip in and out of an alternate dimension, known as the Metaverse. It is there that he awakens to the awesome power he held within his heart, his very own Persona, Arsene, breaks forth from his chains, and thus the first of the Phantom Thieves is born. With this newfound mask and his ever-growing group of followers, he seeks out injustice in the world and steals the hearts of villains to change their wicked ways and repent.
+
+Truly, this is such a remarkable story. It has been masterfully written and designed to provide you with an unforgettable experience no matter your choices. I wanted to touch on so much above, but I think it's best if it's only a brief overview of the game rather than anything too in-depth. This is one of those stories better experienced than being told about.
+
+[h1]Gameplay Analysis[/h1]
+[b]Don the mask of the Phantom Thieves.[/b]
+There is a literal plethora of activities and subtle secrets to uncover around the world, from playing at the batting cages to working a part-time job for the much-needed cash in the early stages of the game. You will never be bored or short of activities as PS5 attempts to keep you busy pretty much the entire way through without letting you catch your breath.
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=2966894471
+
+P5R focuses on making you earn your place in its world through decisions, where every bond you build will cost you something else as time ticks towards the endgame. I'd recommend playing the game as you want to for the first playthrough, then maybe using a guide for the NG run to try and experience everything you can if you're so invested.
+
+[b]Power that lurks in the dark.[/b]
+P5R will have you spend a decent portion of your game time, lurking in the darkened halls below the city, in a Metaverse reality called Mementos. This is essentially a free-roam area where you can keep descending till you eventually reach the bottom in the very late game. You can gather materials, experience points and gold here, so it's perfect for farming for those requirements when needed. It's also important to note that some of the most formidable enemies you will face in the game appear down there, so go prepared before you descend too deep.
+
+[b]Let us go where the fight takes us.[/b]
+On the back of talking about difficult foes, we might as well talk about combat and how that ebbs and flows throughout the game. You will end up with a relatively large retinue of followers by the end of P5R, but you can only really ever use 4 of them at a time for standard combat scenarios. Each party member has their proficiencies and weaknesses and should be used with that in mind, by taking a fiendishly weak to electricity character into an electrical boss fight will only end badly. It can also work extensively in your favour if you can deduce the enemy's weaknesses and strike at them often to down enemies and unleash all-out attacks for tremendous damage or complete baton passes to increase your damage and take advantage of the additional turns.
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=2966894338
+
+On top of the weaknesses and strengths, you will also have an array of different skills to use in combat, such as gun abilities (which will never be your bread and butter but are pretty cool still), Persona abilities, melee attacks, guarding and analysis for all your different needs, and the main combat UI is pretty clean giving you only critical information to monitor about the fight itself.
+
+[b]You are only as strong as the bonds you tend.[/b]
+It is crucial to your success in this title to increase your bonds and friendship as much as you can, in the time you have, especially of those in your group. They will improve their abilities and become far more versatile and imposing entities if you put the time in to cultivate them. People outside of your group will provide you with extraordinary capabilities that will improve your chances of victory
+
+[h1]Audio and Visual[/h1]
+The visual design here is impeccable, and the shift between anime and 3D animation is done to perfection. The environments are captivating and beautiful and never leave you anything short of speechless. Truly a masterwork.
+
+The audio falls into the same boat, with perhaps one small annoyance that the repetition of voice lines can become slightly grating closer to the end of the game. The soundtrack as I mentioned above, is a favourite of mine that I will be listening to for years to come.
+
+https://www.youtube.com/watch?v=zNz9fxClMdY
+
+[h1]PC Performance and Specifications[/h1]
+Playing P5R at 2560 x 1440 as high as it goes, gave me no problems at all. There were no graphical issues or problems to report in the slightest. It is a remarkably well-put-together game overall from a performance stance.
+RAM: 32GB (Under Load Usage: 32%)
+CPU: i9 10900KA 3.70GHz (Under Load Usage: 14.5%)
+GPU: MSI Ventus RTX 3080 (Under Load Usage: 54%)
+
+[h1]Final Thoughts - Excellent[/h1]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2529084785]Review chart here.[/url]
+Persona 5: Royal is not a game for the faint of heart for both its dark and complex story as well as its fairly substantial length. But it is a title worth its high praise, as it didn't disappoint me from the moment I started it up to the moment I put it away. I highly recommend this game to anyone who adores wonderful storytelling and attention to detail.
+
+[quote]Wear your mask proudly and head to, [url=https://store.steampowered.com/curator/43064204/] Hell, Purgatory and Paradise[/url] to experience your very own awakening.[/quote]",0.8400722146034241,68,True
+1687950,171152598,76561198838187663,"I started this game to change the hearts of others, but in the end, it was my own heart that was changed...",0.889362633228302,182,True
+1687950,167378985,76561198041290184,"[H2]Introduction:[/H2]
+
+I first played Persona 5 many years ago on PS4, enjoyed it very much and came close to finishing it, but unfortunately I had a lot of things going on at the time, so I had to put it aside. Alas, the console broke down before I could return to it, and I had moved away from PlayStation hardware in favor of PC gaming. Fortunately, the improved Persona 5 Royal version eventually went multiplatform, thus enabling me to play the very best version on the most powerful hardware available.
+
+[H2]Visual Presentation:[/H2]
+
+Being originally developed for the PlayStation 3 hardware, Persona 5 was never a game which featured cutting-edge visuals, but nevertheless the game's stylized artistic direction manages to make Persona 5 a visually interesting game. Persona 5 features colorful graphics set in the distinctive style of Japanese Anime with a combination of fully animated 3D models as well as 2D animated portraits for each of the major characters, complete with both in-game rendered 3D and 2D anime cutscenes. As a result, P5R looks like a combination of a Visual Novel and a 3D Japanese Role-playing Game, which is likewise reflected in the gameplay, but we'll get more into that later.
+
+[H2]Audio Presentation:[/H2]
+
+Persona 5 Royal features multiple musical tracks, consisting of both orchestral melodies as well as complete songs, each with English language lyrics. The music sounds good and the songs are extremely catchy, provided that you can appreciate Jazzy tunes, lounge music, and Japanese Pop. The in-game dialog is available in your choice of either Japanese or English, with all critical, plot-significant dialog and story sequences featuring full voice acting. The English Dub is best described as adequate, the performances aren't outstanding, but they suit the characters well and the lines are well spoken. I haven't sampled the Japanese Dub, but I'm unqualified to comment on it regardless because I don't speak the language.
+
+[H2]Gameplay Mechanics and Features:[/H2]
+
+Persona 5 Royal is a combination of a traditional Turn-based JRPG, Dungeon Crawler, and a Life Sim/Visual Novel in which you must balance a daily schedule of attending High School, spending time speaking with friends to strengthen your bonds with them, exploring dungeons and engaging in traditional turn based combat with enemies. As you would expect from the aforementioned combination of genres, the game is extremely dialog heavy, including sequences in which you must answer questions in class, engage in conversation with friends, and carefully choose your responses from a multiple choice dialog tree in order to answer questions correctly as well as get closer to your friends. You also have a variety of stats directly associated with social interaction — Knowledge, Guts, Proficiency, Kindness, Charm — which directly effect your ability to express yourself. These stats are increased by engaging in various daily activities as well as interacting with particular individuals, and are fortunately in most cases gained passively from average everyday activities, so you don't have to invest too much time into increasing them. Interacting with your friends increases the Rank of your bond with them granting various perks in combat and allows you to fuse more powerful Personas to equip yourself with.
+
+The JRPG portion of the game is likewise exactly what you would expect from the genre. You explore dungeons, (Palaces) engage in turn-based combat with enemies (Shadows) with a variety of techniques at your disposal, earn Experience Points to Level Up along with money to buy equipment, and open treasure chests to gain loot in the form of various items. The only variation to the standard JRPG formula lies in the eponymous Personas, Mythological Entities which are equipped to you and your party similarly to weapons, granting magical abilities. Personas level up passively along with you when equipped, but have their own separate stats. Those who have played various Monster Taming RPGs will be familiar with the basics here, but it isn't difficult for newcomers to learn through progression.
+
+Altogether, the combination of genres compliment each other and makes for an engaging, multifaceted gameplay experience which can seem deceptively overwhelming at first but quickly becomes second nature in practice.
+
+[H2]Story:[/H2]
+
+In Persona 5 Royal you take on the role of a teenage boy who has been moved away from his home out in the country to live with a family friend in the city after he became involved in a confrontation with a drunken man who was attempting to force a young woman into his car, with the man injuring himself in the process and the boy arrested then charged with assault. The boy arrives in the city only to find that his undeserved reputation as a juvenile delinquent has followed him there, with his new guardian addressing him as an unwelcome guest, his teachers at school likewise dismissing him as a delinquent, and his classmates avoiding him while exchanging rumors regarding the details of his arrest.
+
+Shortly after his arrival, he discovers a mysterious App has appeared on his Phone which seems to restore itself no matter how many times he deletes it. One day on his way to school the App is inadvertently activated during a conversation with another ostracized student, transporting them into another world in which the School has been replaced by a Palace ruled by the School's abusive P.E. Instructor, with the two being locked up in the dungeon by the guards. They escape their cells with the help of a mysterious feline creature named Morgana, but are quickly caught by the guards on their way out of the palace, leading to the boy awakening to his Persona — his ""other self"" — granting him the power to defeat the palace guards and escape. The next day they return to the Palace where they are informed by Morgana that it exists within the mind of its ruler as a cognitive manifestation of his distorted desires, and that by stealing his treasure they can change his heart, thus putting an end to his abusive behavior. From there the trio forms a team known as The Phantom Thieves of Hearts, setting out to use their powers to reform society by changing the hearts of various corrupt authority figures, recruiting new allies along the way as they are drawn ever deeper into an insidious plot to seize control of Japan by manipulating the masses.
+
+[H2]Performance:[/H2]
+
+Being a port of a game which was originally developed for the PlayStation 3, Persona 5 Royal doesn't require a particularly powerful PC to run. I encountered no performance issues whatsoever over the course of my 171 hour long playthrough and the game ran flawlessly at Max Settings on my PC. Your experience may vary based on the specs of your PC, but I can safely say that there are no bugs, glitches, or performance issues to speak of regardless.
+
+[H2]Final Verdict:[/H2]
+
+Persona 5 Royal is an excellent game featuring many hours of content between the deep, engrossing story and entertaining assortment of gameplay mechanics. I came just short of a 100% run, missing only a single Confidant, yet completing the story and side quests in their entirety, closing out the game by earning 100% of the Achievements. My playthrough lasted 171 hours, thus making it by far the longest of any single player game I have ever played in 35 years of gaming. I enjoyed the game thoroughly and am left with nothing bad to say about it whatsoever. I highly recommend it to anyone seeking an immersive JRPG to occupy their time.",0.8385152220726013,74,True
+1687950,198585543,76561198328745551,"not really a review person, but first game that i finished and i actually said ""wow, what an incredible game"".
+probably the best 100 hours ive spent on any one thing (the extra 39 were basically afk)
+ps: makoto best girl",0.8346565365791321,78,True
+1687950,124343214,76561198030749295,"The delicious irony of the existence of the Metaverse, an alternate reality that houses people's distorted and perverted desires, in a game originally released in 2016 whose central themes include fighting back against powerful people who abuse social systems for their own gain...
+
+And the existence of the Metaverse, an alternate reality built by powerful people's distorted and perverted desires to commercialize and abuse every aspect of consumer behavior for their own gain, in the year of our Lord 2022 in actual f'ing real life.
+
+10 Michelin Stars",0.8341073989868164,93,True
+1687950,148322093,76561198148401542,"[h1]It seems this is the limit of humanity[/h1]
+After years of wanting to play [b]Persona 5 Royal (P5R)[/b], [b]Atlus[/b] finally made the game available for PC and it’s by far the longest turn-based [b]JRPG[/b] I have played. There is so much content for me to cover, and I don’t think this review will do this game justice on how much there is available.
+
+[h1]Pros and Cons[/h1]
+[b]Pros[/b]
+[list]
+[*]A fantastic story that will teach you the meaning of freedom
+[*]Great characters that have impressive development and personality
+[*]Fun turn-based combat with many unique abilities
+[*]Lots of stuff to do in the overworld
+[*]Awesome soundtrack that is just nice to listen to
+[*]Beautiful graphics and unique style to the visuals
+[/list]
+
+[b]Cons[/b]
+[list]
+[*]The dialog is a bit weird during the cutscenes
+[*]Getting the best ending in the game is a bit cumbersome
+[/list]
+
+[h1]Story[/h1]
+The story starts out with [b]Ren Amamiya[/b] (you can change his name) who was falsely accused of assault one night when trying to defend a woman. He is then labeled a criminal and is now on probation as well as sent to [b]Sujin Academy[/b] where he will continue his second year of High School. He moves into the attic at [b]Cafe Leblanc[/b] thanks to the help of [b]Sojiro Sakura[/b] who is taking care of him for his probation period. He also gets his first new friend at his new high school who goes by the name of [b]Ryuji Sakamoto[/b].
+
+That is all I will go into for the story of P5R, there is a lot for me to talk about and it would take at least half of this review to even talk about the beginning portion of the game. The story is just outright fantastic, and the characters shined greatly. They made the story just outright fun, with my three favorites being Ryuji Sakamoto, Yusuke Kitagawa, and Goro Akechi. I liked their personalities and how they all go along. There are other characters I liked as well but those three shined to me the most. I could make an entire review on the characters alone for the game, as there is just so much to talk about with them and the story.
+
+The only issue I had with the story is how some of the dialog is presented in the game. This mainly stems from the English dub. There are times when characters will say ""this means in English"" while speaking English; I know they are in Japan but it just sounds awkward. I don’t mind if the dialog is changed in English dubs a tad bit and this is coming from someone who does prefer their subs over dubs. I was just too used to playing the Persona games in English when I started with P4G. This is, of course, my opinion only and you can play the game in whatever language you prefer.
+
+[h1]Gameplay[/h1]
+The gameplay for [b]P5R[/b] is probably one of the hardest things for me to explain in this review as there is so much to talk about. However, I will go over combat first as that is the main gameplay feature of the game. In combat, you and your party members will have a certain [b]Persona[/b] with their own abilities, as well as a weakness to another ability. This also applies to the enemies that you will encounter as well. If you, a party member, enemy, or boss exploit a weakness, they will get an extra turn to do whatever they want. 
+
+However, new to [b]P5[/b] (as this feature was in the original version) is the [b]Baton Pass[/b] feature, which allows a party member who exploited a weakness to allow a different party member to attack. This can be useful in some battles if different enemies have different weaknesses, so if one enemy is weak to ice and the other to wind and you have two party members or if [b]Joker[/b] (who is [b]Ren Amamiya[/b]} has a [b]Persona[/b] who can cover those weaknesses and already had his turn. The [b]Baton Pass[/b] mechanic is a handy feature that I recommend you take advantage of. You can also get some extra benefits from [b]Baton Passing[/b] as well, like restoring some HP, SP, and doing extra damage. However, you do need to hang out with your party members to get these benefits.
+
+During combat, [b]Joker’s Personas[/b] will stop learning moves, what you can do then is go to Igor, who will then fuse your unwanted [b]Personas[/b] into new and more powerful ones. You can get new [b]Personas[/b] after battle but the method of getting them is different. [b]Shuffle Time[/b] has been removed and now you need to try and talk your way to understand the enemy and if both of your responses go along with what the enemy is feeling, you get a new [b]Persona[/b].
+
+If you knock all the enemies down in combat, then you can do these [b]All-Out Attacks[/b]. These attacks will damage all enemies while doing physical damage, this will bypass physical immunity or resistance if the enemy has it. 
+
+However, there is lots of stuff for you to do outside of combat, you can spend time together with your party members or other friends. This will increase your [b]social links[/b], which can be used for helping give the [b]Personas[/b] you fuse extra levels and experience, which will make them stronger than usual and they may learn a few extra useful moves as well. Your party members will also learn new abilities in combat that will help you out in certain situations, so I highly recommend you go out and hang out with everyone as much as you can.
+
+You will also get requests to help other people out in [b]Mementos[/b], this is another area of the game that you can use to farm your [b]Personas[/b] and party members. I also recommend doing these as you can get some nice rewards when exploring the place which can be very useful in combat. Your party members will also have some conversations sometimes with each other that add to their character altogether.
+
+Although, I do have one issue with the game and that is the method of getting the true ending of the game, which is entirely unique to [b]P5R[/b]. To get this ending, you need to max out three social links in the game and to add to this [b]Goro Akechi’s[/b] social does not progress in the story like in the original [b]P5[/b], you must hang out with him. All of these have a time limit, but the game gives you more than enough time to get all three of them maxed out, so there is that. It’s still cumbersome to do though, as you can’t really miss a day to hang out with at least two of them. One of the [b]social links[/b] you can max out with no issue as it’s small and that character is also unique to [b]P5R[/b] but the other two you must hang out with when they call you. This is not a big issue but something that still annoyed me, nonetheless.
+
+[h1]Soundtrack[/h1]
+The soundtrack for [b]P5R[/b] is honestly one of the best things of the game, every song I listened to was just fantastic and I loved them all. My favorites have to be [b]Life Will Change, Rivers In The Desert, Take Over, Last Surprise[/b], and [b]Ark[/b]. As you can tell, that is a long list of my favorite songs in the game, they are all honesty great.
+
+[h1]Graphics and Performance[/h1]
+[b]P5R[/b] is a beautiful game both in its 2D and 3D art style, I loved looking at all of the games areas it has to offer. I tested the game on an NVIDIA GeForce GTX 1060 3GB, AMD Ryzen 5 1500X Quad-Core Processor 3.50 and 16 GB of RAM. I experienced no issues while playing which ran at a smooth 60 FPS.
+https://steamcommunity.com/sharedfiles/filedetails/?id=3051310040
+[h1]Final Verdict[/h1]
+If you are looking for a great turn-based [b]JRPG[/b] with a lot of depth and obvious care from the developer, then I highly recommend [b]P5R[/b]. There is a lot to do in the title and this review does not do the game justice, at best, I have only talked about at least 10% of the game itself and it’s only because I can only fit so much into a review without risk of spoiling the story. If you want to uncover what this game has to offer, the only thing I recommend is to play the game yourself.
+
+[quote]Unexpected situations are necessary at [url=https://store.steampowered.com/curator/5297658/]Life Needs a Little Sin [/url] after all[/quote]",0.8316218852996826,59,True
+1687950,214041637,76561198871833476,"I actually learned something very important from playing this game:
+
+Hentai literally translates to pervert from Japanese to English!",0.8269555568695068,214,True
+1687950,174836901,76561199030436958,"Man, what a wonderful game. This was my first Persona title, but I enjoyed it immeasurably. What an astounding title. The characters were all incredibly well written with interesting backstories and motives, the visual style was fresh but never in your way, the music. Oh, the music was truly a masterpiece. I adore everything about this game and will cherish the 100 hours of gripping story with me wherever I go. It is one of the greatest games ever, a true 10/10.",0.823982834815979,78,True
+1687950,181705343,76561198016237025,"There's a LOT I could say about this game so I'll try to keep it brief.
+
+Persona 5 completely changed my life. That's not hyperbole. I played it for the first time in July - only five months ago. I adored it so much, that since then I have not only attempted to absorb all Persona-related media I can find, but it GOT ME INTO ANIME BIG TIME, and I have spent THOUSANDS of pounds on manga, as well as bought many anime-or-Persona related figures, gotten four different anime-or-Persona related tattoos, and even went on holiday to Tokyo, with one of the main reasons being to visit Akihabara.
+
+For almost ten years, my favourite game of all time has been The Witcher 3. Yet the gap between this game and it, in my mind, is colossal. Not to the detriment of TW3, simply because P5 is that good. I did not expect to EVER enjoy a video game this much. Everything about it is incredible. This is the most astoundingly stylish media experience I've ever had. It's overflowing with charm and warmth, the gameplay loop is immensely engaging, the pacing is (with the exception of one small arc in the mid-game) phenomenal, the music is gorgeous... I could go on.
+
+Unfortunately all of my screenshots were rendered inaccessible before I had the chance to upload them, as the Steam Deck I used to play the majority of it on broke, prompting me to buy an upgraded one. When I inevitably play through New Game Plus, I intend on making up for that.
+
+I love this game. It's entirely possible I'll never find a game I wholeheartedly love more than this. It feels like it's become a part of my own identity, that's how much I love this game. To me, this is a true masterpiece and one of the greatest pieces of media of all time.",0.8233113288879395,79,True
+1687950,158127799,76561198287298232,"Playing and beating this game felt like the anime equivalent of picking up One Piece. Did Luffy find the One Piece yet?
+
+GAMEPLAY: 4.5/5
+The gameplay of Persona 5 Royal encompasses... quite a lot, actually. The game is a mix of a slice of life simulator (playing through almost every calendar date of an entire year), a visual novel where all you have to do is focus on the story, and classic jrpg action where you raid palaces in the metaverse, stylishly fighting enemies in turn based combat. As most of the game is story-driven, there's not too much to say about the gameplay apart from free time, and entering palaces/Mementos. One quip I had with free time was hanging out with confidants - the occasional extra filler hangout required to bond further with someone and get a new cut-scene felt largely unnecessary given the abundance of activities you could do elsewhere in the game. Apart from that, spending time with confidants was definitely a highlight of free time, with how real and developed most of the Persona cast feel.
+
+The palaces in the game felt great. Kamoshida's castle admittedly gives the game a bit of a slow start with the introduction of the Metaverse, but the game only goes up from there. By the time you get to Madarame's flashy and golden museum, you really feel like as the player, you're on a HEIST and it's going down in style. The palaces following the theme of the seven deadly sins was a cute touch, especially considering that the game was all about stealing evil hearts. The ambience and atmosphere of the palaces also drastically differed (in a good way!), from cyber city outer space, pyramids, and a casino. The puzzles typically reflected the theme of the palace as well, keeping the raids feeling different and fun throughout the game. Combat felt moreorless like your typical jrpg, with default attacks, guarding, and special skills. The gun being a secondary option to a default swing made for some interesting management decisions in terms of palace raids and SP spent, and physical attack skills taking away your HP instead of SP was a fun mechanic to juggle with as well. Similar to how turn based combats tend to have ""ultimate"" abiltiies, P5R has ""showtimes"" and ""all out attacks,"" featuring special cinematic attack animations. They're silly, cool, and leave you with a smile on your face. Balancing in the game felt just about right (I played on hard mode), and if I ever felt underleveled, I never had to grind for long to make up for it. Before I move on from palaces though - Okumura's boss fight was NOT it. The gimmicks were annoying, and felt punishing to the player for simply not being leveled up enough instead of encouraging strategy, given the time limit of wiping out mobs in one turn. Also, I wanted to square up with Okumura himself, not his goons. Grrrr. Every other boss fight gets a pass, though! Finally, the movement in the game felt a bit awkward at times. Like, you try to walk up to an npc to talk to them and overshoot a little, and have to re-adjust kind of awkward. It wasn't rough enough to take away from the gameplay, but making it a bit smoother would definitely make the game feel even better!
+
+NARRATIVE: 5/5
+For a game that's 100+ hours and largely story driven, I'm sure glad that Persona 5's story is TOP TIER. Woo! Honestly, all I have to say about this section is 'congrats to Persona 5 Royal for being the only video game to have Futaba Sakura.' Jokes aside, the character writing in this game is amazing. Some characters just feel so real and relatable, making any down time in the game to spend time with the cast a treat, instead of a chore. Even the less interesting characters like Ryuji, as forgettable as he is, is undeniably a bro. I found it so funny how Yusuke would claim he's not a pervert, and yet all the perverted dialogue options in his hangouts boosted your friendship the most. Futaba is undeniably best girl, and the game spoils you by including her in Sojiro's hangout storyline too (which is downright touching). I need to throw in that Goro Akechi is a hilarious character. No I will not be giving context. Just trust me on this one (source: dude trust me). Persona 5 manages to tackle a lot of serious and heartfelt issues in a wholesome and satisfactory way, instead of being overly clichéd and cringe. Having a likeable cast in a game like this is so important, and the end result is a game that feels like it's spoiling you for being as long as it is. Considering the sizeable number of confidants and party members as well, there's bound to be someone you like or connect with to some extent. The plot has a clear beginning and end, and has its fair shares of twists and turns. While some plot twists are all but expected (I won't be going into spoilers here), how exactly everything unfolds and plays out is usually where the story line delivers when it gets predictable. My favourite antagonist is easily the last one in the game (in the true ending). The complexity of the final villain in terms of their motivations and what their stance was on justice and the ""greater good"" felt refreshing and set apart from everyone else that came before them, and actually makes you want to pause and think for a moment if they really are the bad guy. Brilliant. I've heard before from people that have played P5R that they got depressed after beating the game, because it felt like they were leaving behind the friends that they made along the way. High praise that's honestly deserved, and speaks volumes of the world building and likeability of the character writing.
+
+GRAPHICS: 5/5
+It's one of those games that make you feel cool just for playing the game. The animation you get for ambushing an opponent? Getting behind them  on their shoulders, ripping off their mask? Kinda hot, if you ask me. HAHA. Character design and art are amazing, and the proof is that Futaba has glasses. The general aesthetic of the game is clean and pleasing, and a lot of touches to the art (including the white/black squares in the font) matches the theme of the Phantom Thieves. Plus points for creativity! The game always looks great to look at, minus that one enemy that looks like. Um. Anyways. P5R also adds animated anime-style story cutscenes, and they were all amazing as well! The game art design also pays attention to the personalities of the cast. One of my favourite examples is when the gang is sitting around together. Ryuji would be manspreading (LOL), Ann sitting up on the table, Makoto sitting like the prim and proper lady that she is, Yusuke standing around, Futaba lying down on her stomach... all these subtle touches to the art really shows how much care and thought has been put into this game, outside of the plot and gameplay.
+
+SOUNDTRACK: 5/5
+Chances are, you've heard Persona music before, even if you've never heard of or played the game series before. The music is iconic, catchy, and good. The music always gets the atmosphere juuust right, while being fun and engaging. About to re-enter someone's palace to steal their heart? You're about to feel real cool for it. Something sad is happening? Prepare for the music to make you depressed. The Persona soundtrack has surprisingly good diversity as well, flexibly allowing the music to enhance the game experience. What more could you ask for in a game soundtrack? As well, the voice acting for the entire cast is great, and suits the characters they represent. I can only imagine that the voice actor for Goro Akechi must've had a lot of fun ;)
+
+OVERALL: 5/5
+Persona 5 Royal is a phenomenal JRPG that sets a high standard for future games to come. Sure, the game is long, but considering how good the game is across the entirety of its length... it's a gift. You get over 100 hours of an immersive world with a diverse cast, in an emotional and cool rollercoaster of a game. If that doesn't sound fun to you, I recommend going on a merry-go-round instead. I'm sure you'll come around!",0.8216664791107178,72,True
+1687950,209190968,76561198433668588,"In all my years of gaming and additions to my backlogs, I have completed many few games. I stepped into this game and the Persona series completely blind, snagged it during a sale saying why not. Turn-based games were always a major turn-off for me so I did not expect much and thought I'd return the game after my first hour, and hoho was I wrong.
+
+Absolutely enchanting experience this game was! I would love to babble on and on about how well it encapsulates everything into this one package, where the characters, relationships, world building, and actions have so much depth and weight to them all. This game has absolutely changed my perspective on a lot of things and also allowed to me to have a newly-found appreciation for time and a lot of things. If I am not recommending this game then I'd be a fool. Have a blast fellow phantom thieves!",0.818779706954956,67,True
+1687950,124915060,76561198100468893,"I might as well say this is not my first time playing through the game as I have logged over 200 hours on PS4 as well. The fact that i still bought this game again to play it again probably speaks for what i think of it, but oh well.  
+
+This is a game that you should play simply because of the love, passion and sheer amount of time that went into giving the facets of the game life and style that have and will continue to inspire how games are made into the future. That's it. That's my thoughts. The rest of this review is just qualifying statements that might matter to you.
+
+
+Even if you dislike anime and JRPGs with turn based combat, it's entirely worth giving this game a try. However, I must warn you that if you are someone that likes to see literally everything and complete every last possible thing a game has to offer to a compulsive degree, this game is simply not for you. I'd see the video ""the completionist"" did for the original persona 5 for an explanation why. As the loading icon says, ""take your time"" and enjoy what you can get out of the game. Those two statements may seem contradictory, but I think it will probably make sense if you stop and smell the roses a bit here and there, both in and out of the game.
+
+As a PC port of a PS4 game, there have been minimal visual glitches that I have seen that is probably a result of certain things not playing well with 120 fps and being slightly jittery in very rare spots. 
+
+Oh yeah, listen to the music. This is not a request, but a demand. I have probably listened to the soundtrack for this game and others in the series for thousands of hours simply because it's such great atmospheric music",0.8180438280105591,95,True
+1687950,142181934,76561198316586768,"The consensus I see in the reviews of this game is that it positively affects your life outside of the game as well, and I wholeheartedly agree. Somehow, a game like this has given me motivation that I have never experienced elsewhere. One of the big ways it does this is with the use of time. The most free time you can get allows you to do two things per day, and early on the game warns you to make good use of your time. At the end of my first play through, I hadn't yet managed to max out my friendship with all the people you can meet, I only barely maxed out my social stats, it left me with so much more to see. But even if I couldn't do everything I wanted to with the time they gave me, I wouldn't have done nearly as much as if I slept through the free time in the evenings.
+
+Not only does this game visually demonstrate why you should use your time, but many of the songs heavily encourage you to chase something. Follow your dreams, you can make an effect on others' lives, don't give up. A large message of this game is that the goal is to ""Help people in need,"" and it feels almost as if players are the ones in need, even if they don't realise it.
+
+And honestly, I'm not gonna tell you to get this game, get it if you think you might like it. But even if you don't get it, or maybe can't get it, I think listening to the OST is also an experience in itself. During quarantine on an average day of online schooling, I decided to start the P5 OST in its entirety, including the P5R songs, and I was crying by the end, despite not knowing a damn thing about how the story goes. 
+
+This game truly does feel life changing. It absorbs you until you finish it, and leaves you with a fresh new perspective on life. I started it early January, and only finished it early July. In this time it has become my favorite game, and I will be playing others in the series shortly. I hope you can get as much out of this game as I did :)",0.8175991773605347,60,True
+1687950,177381562,76561198268852255,"
+---{ Graphics }---
+☐ You forget what reality is
+☑ Beautiful
+☐ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{ Gameplay }---
+☐ Very good
+☑ Good
+☐ It's just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ Audio }---
+☑ Eargasm
+☐ Very good
+☐ Good
+☐ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{ Audience }---
+☐ Kids
+☑ Teens
+☑ Adults
+☐ Grandma
+
+---{ PC Requirements }---
+☐ Check if you can run paint
+☐ Potato
+☐ Decent
+☑ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{ Game Size }---
+☐ Floppy Disk
+☐ Old Fashioned
+☑ Workable
+☐ Big
+☐ Will eat 10% of your 1TB hard drive
+☐ You will want an entire hard drive to hold it
+☐ You will need to invest in a black hole to hold all the data
+
+---{ Difficulty }---
+☐ Just press 'W'
+☐ Easy
+☑ Easy to learn / Hard to master
+☐ Significant brain usage
+☐ Difficult
+☐ Dark Souls
+
+---{ Grind }---
+☐ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☐ Isn't necessary to progress
+☑ Average grind level
+☐ Too much grind
+☐ You'll need a second life for grinding
+
+---{ Story }---
+☐ No Story
+☐ Some lore
+☐ Average
+☐ Good
+☐ Lovely
+☑ It'll replace your life
+
+---{ Game Time }---
+☐ Long enough for a cup of coffee
+☐ Short
+☐ Average
+☑ Long
+☐ To infinity and beyond
+
+---{ Price }---
+☐ It's free!
+☑ Worth the price
+☐ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{ Bugs }---
+☑ Never heard of
+☐ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{ ? / 10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☐ 7
+☐ 8
+☐ 9
+☑ 10
+
+---{ Author }---
+☑ https://vojtastruhar.github.io/steam-review-template 
+",0.817570149898529,136,True
+1687950,200338102,76561198057324902,"Much like the game's central theme of rehabilitation and rebellion, I was held prisoner of this story for the past five to six weeks, from which I finally broke free last night. 
+
+I must be clear about something, I am a SMT veteran who never played a persona game before and I was not exactly thrilled by the social sim aspect of these games, so I walked in expecting absolutely nothing. despite that fact, I came through completely rehabilitated by this game. There's just.. something marvelous and undescribable about how this story presents itself and develops, even though all your characters follow your stereotypical tropes you still fall in love with and want to spend time with them, even in the most trivial and boring moments you actually have fun interacting with them. You actually spend so much time building your relationships with the cast that you want to see them succeed. The same can be said about most of the villains, most are well written and make themselves hated by the player through their exposition.
+
+As an RPG fan I was looking forward to the dungeons and progression systems in this game, however they are rather simple, the combat is pretty much the same ""exploit weakness to get extra turn"" from the SMT series, which can be pretty cheeseable when you understand it. On the other hand, dungeons are few but well constructed, exactly what I expected from Atlus, nothing magnificent but mostly serviceable (aside from the spaceport, *uck that dungeon). There's also mementos, the ""farm"" dungeon where you go to grind levels and do sidequests, this was by far the weakest part of the game since the dungeon itself is procedurally generated, bland and ugly to look at. However it serves its purpose well.
+
+The story starts pretty weird but quickly becomes incredible, when all pieces start coming into place and you can finally see the full picture the DLC campaing kicks in (you have to fulfill a very specific condition to even trigger this campaign, condition that was not exactly well telegraphed in-game), breaking the pace for a bit before wrapping the story up quite masterfully. 
+
+This game goes beyond the recommendation, this is one of those games you have to experience for yourself, HOWEVER.. there's a catch. Persona 5R is rather lenghty, if you are a working adult with little time to play (like mysef) I think it'll be hard for you to enjoy the game properly, since the game is not only long, but demands lenghty play sessions to actually make some progress. Therefore, I can only recommend this game if you have a month or so to spare.
+
+
+TL;DR: Wonderful game flipped my view on the social sim aspect, classic atlus experience gamewise, lovable characters, great story with some pacing issues towards the end. ACTUALLY CAN'T RECOMMEND THIS GAME TO WORKING ADULTS WITH LITTLE PLAYTIME.",0.815502941608429,53,True
+1687950,128026309,76561198330330918,"Pros:
+ -Makes me feel like I deserve to have friends and live a happy fulfilling life
+Cons:
+ -Can't have sex with Yusuke",0.9149121642112732,1406,True
+1687950,127884864,76561199117862352,"The only bad thing about this game is that once you finish it, you won't know what to do with your life afterwards",0.9640872478485107,663,True
+1687950,226747000,76561199736691697,"shits peak, and finally as a persona fan, i actually play the game. no more larp",0.8133324980735779,106,True
+1687950,197960216,76561199179600711,"Persona 5 Royal has one of the most satisfying ending in gaming
+once I finished it I started at the screen in pure devastation because of how shocked I was that I finished it
+
+SO PEAKSONA",0.8629598021507263,129,True
+1687950,226630321,76561198789133416,"Heard about P5R through Google recommendations. People kept calling it one of the best games ever made, a masterpiece. When I first played it, the music, graphics, and gameplay were exactly as great as I expected. I listened to the soundtrack countless times, fought difficult bosses with my own strategies, and somehow the gameplay never got boring.
+
+But the thing that truly made this game special for me was the story.
+
+I didn’t expect to get so attached to the characters and the everyday moments. This game taught me a lot, from going to school, improving the quality of my life, socializing with people, learning different principles about life, and many more things I didn’t expect to take from a video game.
+
+Yeah, it’s long as hell, but by the end, I genuinely didn’t want it to end. It wasn’t just a game for me. It felt like a whole chapter of my life.
+
+P5R really changed the way I see the world.",0.8126837015151978,55,True
+1687950,190763860,76561198253569581,"a Music album with Free gameplay what more do you need.
+
+also dated a quack doctor that gave me ebola but it was worth it best game ever 10/10",0.8122563362121582,60,True
+1687950,216277561,76561199511058481,Wish I’d discovered this in high school—it’s exactly what I needed back then. My only regret is not playing it sooner ! . 100/10 would recommened to anyone . great music 100/10 . The only  bad thing is slow plot building but ig its necessary for the story,0.8113749027252197,60,True
+1687950,178866874,76561198053697803,"Man this game its LOOOOOOONG.
+
+About 120 hours reaching the Royal Ending, maxing confidants and social stats in one run, getting 98% of the compendium done, and almost cap level. I caved in the end and used the most busted DLC persona ever because i was already feeling my brain being microwaved from playing the same thing for a week and half.
+
+Can i recommend it? Absolutely.
+
+Will i play it again till the end, probably not.",0.8092640042304993,59,True
+1687950,135664070,76561198006276090,"Persona 5 is my first Persona game and it's probably the best JRPG game I've played in a long time and has an enormous replay value. I spent my whole winter and spring holiday to finish this game and wow I loved it. It certainly made me realize I missed something during my high school time. Like the rest of us.
+
+Persona 5 Royal is not for everyone. It's heavily narrative driven and has a lot of dialogue which can be a dealbreaker for some people who wants non-stop gameplay.
+
+You go by almost every single day in a year, living the student life but also trying to change the society for the better when you awaken your Persona powers. There is so much you can do when you're not at school preparing for exams, playing with friends or clearing palaces. You can self improve your social skills by studying, watching movies, books or exercising which is crucial if you wanna improve your relationship with your crush or your friends. Which is highly recommendable as strong relationships will also make your palace clearing and boss fights go more easier.
+
+With Royal you have a few new characters. A new party member and a new teacher at your school who's also one of my favorite characters.
+I was surprised how very well written the story and the characters is. There are times when I feel like I wanna skip dialogue because it's either just boring talk or fillers. But it makes me want to learn more about the characters, their backstory and motivations. Without going into spoilers I found it really entertaining how some of the characters grows as the story progresses. Oh right, they call it for character development! Your party members are of course the type of friends you can never get irl, which makes them so great and the time you spend together are really fun and there's always something new with them going on.
+The voices in both languages are really good, although I personally preferred Japanese voices. [spoiler]JP dub gang ftw[/spoiler]
+A tip though, time is limited and not everyone is available every day so you might feel some time pressure at the end of the game, but don't worry. Focus on improving your social stats as you gonna need to max out all of them if you wanna max out your relationship with various characters. Be prepared that by the end of the game you won't have time to max out all characters as there are plenty of other stuff you need to do. So pick your favorites on who you wanna be a best friend with or go on a date with. I recommend getting high levels with the Shogi girl and your blonde short tempered friend as you will get some abilities that makes fights go slightly easier. It really is up to you on who you wanna focus on.
+
+It is turn-based combat which throws some people off. But the way it's designed is really fun. Every character, friend, foe have weaknesses and strong points such as Ice, Fire, Wind, Holy, etc and knowing your enemies weak points makes battles more fun and smooth. I liked the baton pass system when you attack one enemy with their weakness, you pass your action to your next party member to do the same thing until all enemies are stunned and you go can go for a All-Out-Attack.
+
+The music is a real banger. Which is probably one of the most praised things about Persona 5. You're gonna hear the same combat music again and again. Oddly I never once became tired of it and it's very weird but the more I listened and the further I progressed it just got better and better until the point I started to listen to some of the tracks on the train when I'm off to school myself. I live in Tokyo irl and whoa it was immersive!? 
+Anyway, the music and vocals are pretty good and they fit so well with game's atmosphere. I started to really appreciate the music when I was running up to defeat the first boss and just turned the volume up because damn!!
+
+For those who played the base game.
+Just to say this, the new Royal content starts reaaallly late. Right after December which can be a bummer for people who are interested the new red haired character and gotta spend around [spoiler]90[/spoiler] hours to get to the new story. I really liked having her in my party and her Showtime with [spoiler]Joker[/spoiler] was really really cool which is such a shame she doesn't [spoiler]Join the party until January. But I guess it would be too much work to write her in the game earlier[/spoiler] But I also wanna recommend this to players who also have only finished the base game. If you thought the base game ending was cool, you haven't seen the new ending with the new palace. And the new palace and it's story is my number one favorite out of all of them.
+
+For those who like JRPG's I really really recommend this game. It's a very long game which makes the money worth it and even if you might have spent over 100 hours, you might feel like you want 100 more hours.
+There's no shame in looking into guides if you need guidance or want to be more proficient with your time. But refrain from reading about characters until you finished the game as you might face some spoilers.
+Enjoy",0.8585411906242371,104,True
+1687950,137320323,76561198300819716,"I'm 33, a guy with a job and a family, and have been going through some really dreary times.
+
+I've been going through many games over the years, and was sad to see how
+slowly they stopped engaging me, to the point I've been playing games just to pass the time.
+I've had my eyes on Persona 5 for a long time, but I was skeptical. I mean, I've seen so many games,
+how good can this really be? and It's like 100+ hour game, and I don't have that much time, so I
+just ignored it.
+
+Then came a day when I was just depressed, and didn't want to do anything in particular. Then a small
+voice inside my head said: ""what about this game? didn't you want to try it?"" and i was like ""OK whatever.""
+
+Man, I wish I had done it sooner.
+
+First of all, this game OOZES style, it looks so funky and cool that you like it already. Then, the music comes, and it's fun and addictive and gets you into some good mood.
+Then the story, about being an innocent high-schooler who'd been wrongfully accused, and sent away
+from home to a place where everyone sees you as a piece of trash. But do you give up? no! you get up
+and show everyone just how amazing you are, finding friends, protecting the weak, going through all of these great adventures and having a blast.
+
+The game is long, but I didn't care because it was so much FUN - the battles, the palaces, the slice of life moments, having fun with your friends, the moral dilemmas, the personal stories - it was all so sweet and intriguing I could go with it on and on.
+
+Talking about the friends you make - I've been playing through many RPG'S - Baldur's gate, Dragon age and Mass Effect to name a few - never before have I been so attached to my companions, and when the game was over, I was sad just because I wanted to meet them again (which you can, in P5 strikers!).
+
+When the credits rolled, I was in tears, and I just wanted to have more of all this. The friends, the good times, the feels...
+
+But then it hit me - when the game says ""wake up, get up, get out there"" - it means you, the player. It means go and improve yourself IRL. Become a better person, work on your bonds with your friends and family. Become a better version of yourself, rebel against the chains that stop you. I've been trying to do just that since, and am actually much more positive and optimistic about my own life now.
+
+This game changed my heart, and I never saw it coming.
+It may do the same to you.
+10/10",0.9567190408706665,1093,True
+1687950,205389987,76561198881043587,"This is the best game you will ever play. The soundtrack is incredible, the characters and their backstories are captivating, the graphics are beautiful, and the story line immerses you and makes you wish you could stay in their world forever. To anyone wondering whether this game is worth it - this is the game that will change your world; you'll never see it coming.",0.8063198328018188,50,True
+1687950,139929722,76561198026115878,"Perhaps one of the greatest games ever made, it deserves to be overrated. 
+
+I have seen people say this game taught them how to balance their work and free time with their goals. It's not so ridiculous anymore to say the Nu-sona trilogy is like a New York Times best seller self-help audiobook, for how many people consumed it and transformed as a result. No doubt there are plenty of exceptions, but for every five waifuists worshiping the girls in this game, there's one guy who walked away to go ask out a girl because this sh somehow gave him the courage. This game has ended relationships, and started many. Some people managed their time better learning from this game and got their career going, some money saved up, and others even found their spirituality through Persona 5. This game introduced millions of people to a vast lore of international myths, deities, demons, and urban legends. Mostly owed to Atlus' pedigree of fifty plus games in the Megami Tensei franchise that helped it's recent entries become so polished. Not to mention the quality and soul put into the development of this game's story, inspired design, and influential gameplay. 
+
+All of this being said, Denuvo sucks and it shouldn't be here. Why hurt the people actually paying for the game? It makes the pirates look good out of principle, seriously. What an absolutely stupid damper on an otherwise fantastic video game.",0.8059811592102051,66,True
+1687950,155895458,76561198397787432,"I lost my sh*t when Akechi said;
+
+''The real Persona 5 was the friends we made along the way.'' and proceeds to beat the living crap out of Haru's dad.",0.9033616185188293,441,True
+1687950,225547831,76561198167195479,"This is my second turn based game after expedition 33, and we are now two for two on goated games. The life-sim gameplay and palace exploration were both really fun and engaging. I have never encountered a game with the calendar system before and really enjoyed it. Planning out what I was going to do with my week in the game was really fun. The art style and music really shine in this game, and I can't wait to play Persona 3 Reload next.",0.8025473356246948,59,True
+1687950,227082074,76561198080177096,"Persona 5 Royal was my first Japanese RPG, and all I can say is: wow, wow, wow.
+
+What impressed me most was the incredible depth of the game. At its core, Persona 5 Royal is about friendship and the connections you build with other people. If you don't enjoy reading dialogue, this probably isn't the game for you. But for me, all of that character development is exactly what made the experience so immersive. The relationships feel surprisingly fresh and most major characters are interesting in their own way.
+
+I genuinely struggled to put this game down and ended up spending far more hours on it than I originally intended. The gameplay loop is incredibly addictive. Once you start playing, real-life time passes incredibly fast. The game encourages you to carefully manage your in-game days and take your time, but before you know it, you've spent hours completely immersed in its world.
+
+For new players, my biggest recommendation is: don't look up too much online. There are spoilers everywhere, and the game is clearly designed to be explored at your own pace. The freedom to make your own choices is a huge part of its charm. You don't need to min-max everything to finish the game, although it's possible to miss some bonus content if you make certain decisions along the way.
+
+Another thing that deserves special praise is the soundtrack. It's absolutely fantastic. I downloaded it after finishing the game and still listen to it regularly.
+
+A fair warning: this is a very long game and that won't appeal to everyone. The story was surprisingly good, written from the perspective of teenagers while still being engaging and relatable for adults like myself. And when it all comes together, the payoff feels earned. After spending so much time with these characters and sharing so many experiences with them, saying goodbye is genuinely bittersweet.
+
+One of the best gaming experiences I've had.",0.8017467260360718,39,True
+1687950,130163621,76561198433793061,"The third semester was really worth playing!! I love all the new characters, I think i'm attached to them now ;-;
+
+ I went for the true ending but tbh i really like the good ending.. it's too good to be true. It's kinda embarrassing and cheesy but i learned many things when i played persona 5 royal, like ""Even if the world is harsh, you must keep moving on"".
+
+Also the new ost is so damn good!! 
+
+
+
+
+notes: Niijima Makoto my beloved <3",0.8003084063529968,78,True
+1687950,171460818,76561198075746277,"very good game
+gets even better if you dont use twitter",0.8502981066703796,100,True
+1687950,145689678,76561198045436435,"I hate that I've played this game. I wish I never had, just to get the feeling of playing it again.
+
+Amazing story, perfect gameplay, banging soundtrack, captivating characters; If you're in doubt of buying it, just do it, you'll thank me later.",0.7972167730331421,88,True
+1687950,218984617,76561199514877301,"9.5/10 Experience (0.5 minus because of that one annoying CEO boss)
+Man this game was so so good that for 70 hours straight it had my full attention...Story was very entertaining,thought-provoking and introspective....The cast felt like close friends...Leblanc felt like a second home and the music is so good & relaxing that I play it in my daily life activities as bgm haha
+After the credits rolled...I felt empty because this game honestly felt like a cozy hug on my bad days...Exploring palaces and just doing side activities with friends was so relaxing...Now that it’s over...I already miss it
+I’m really glad I got to play this...It’s one of the best purchases on my account fr",0.7934954166412354,37,True
+1687950,137379997,76561198055446256,"I AM IN A CULT NOW.
+
+P5 has ruined me, i will never play something with this depth ever again. the hours played # is a lie, ive watched 7 playthroughs on YouTube. i've played P5 4 separate times. ive played P5R just as much. each playthrough takes around 150 hours of game-play to complete, so tack on about 2,200 hours to that number. 
+
+i have bought roughly 5 copies of this game...      i don't regret a single one of those purchases.
+
+I own EVERY. SINGLE. SOUNDTRACK.
+
+i have played EVERY SINGLE persona title. and i do not lie when i say this game launched me into a depression for a solid week and a half upon completing it. i know every trick, exploit, and piece of trivia this game has in it. this game is an 11/10, 
+
+But if you honestly give this game a shot and don't like it, i completely understand. All those stats i listed before are true, but even though i am in this state i am not blind to the flaws that this game has. The community behind this series is terrible and has no idea what they want, and even if you were to give them exactly what they wanted by some miracle they would still be pissed about something inconsequential. The story of this game revolves around the story of Dante's inferno about Dante journeying through hell to reach the depths of human depravity. Some say that the bosses of this game are ""CarToONisHlY eViL"", that is a gross over simplification and i have met someone like every one of them in real life. the narrative might shout ""AdUltS aRe bAd, GUys!"" but below the 6th grade level literary analysis its a story of human complacency and how overcoming stress and pain is a necessary journey in life that will allow you to finally move on and break the chains of what keeps you depressed, or bound to societal norms.
+
+this shit is deep and pretty addicting to play. hit me up for pointers or a spoiler free guide and ill hop along for the ride, because don't forget... I AM IN A CULT",0.8413809537887573,90,True
+1687950,230104113,76561199380674010,"This is my first JRPG game i have ever played and i have a great time playing through it, it has some flaws but the daily calendar system is what hooks me to this game and the franchise, espicially the gameplay and combat for this one, it is addicting. After the credit roll i wanted more of this experience and ended up getting to Persona 3 Reload and Persona 4 Golden which is just as good in their own way.
+
+At last, i gotta thank The Weeknd for playing this, that's how i was even start to take an interest in the franchise.
+
+9/10",0.7910474538803101,48,True
+1687950,124371702,76561198046746003,"I hate JRPG's. I mean I really hate them. So, when I say Persona 5 / Persona 5 Royal is one of my favorite games of all time, hopefully that meaningfully communicates just how tremendous a game this is. It feeds new concepts to you through the entire game through almost every hour of play from start to finish. 
+
+Persona 5, is the Resident Evil 4 of the Persona Series.",0.7899695634841919,115,True
+1687950,124195422,76561197998890677,"i wish morgana wasn't such a dick to my boy ryuji
+
+also if i'm allowed to date literally every female social link why can't i at least flirt with the hot yakuza dad at the gun store",0.8381862044334412,258,True
+1687950,124413733,76561198098338493,"Literally a game so good I bought it a 2nd time just to enjoy it on PC. Fairly high price, but when a single playthrough is 130 hours of good times AND it has replayability, it's worth the value",0.8370614051818848,94,True
+1687950,233668547,76561199631995785,"Buying this game during a discount was a Last Surprise. I genuinely didn't expect that my Life Will Change after playing it. Now I can't stop thinking about the characters, the music, and everything that happened during my time with the Phantom Thieves. So Wake Up, Get Up, Get Out There and give this game a chance.",0.7854433655738831,43,True
+1687950,143999549,76561198293938420,"i didn't get a girlfriend in my first playthrough
+this is just like real life
+good game",0.8835175633430481,120,True
+1687950,223032797,76561197993560845,"Persona 5 is a really fantastic Japanese RPG.  Originally releasing 10 years ago, this game has directly influenced a lot of more recent RPG's that you may have played.  Claire Obscure: Expedition 33 being one of the very direct ones.  This Royal edition adds the DLC for P5, notably an extra semester and new characters.  The game is extremely stylish and explores sociology well.  This review is after rolling credits and getting 100% on the achievement list, which took me 134 hours.
+
+[h2] What makes Persona unique? [/h2]
+So the last Persona game I played was Persona 2: Eternal Punishment back when it was new on the PS1.  There's a few things that standout to me as hardcoded in the Persona game DNA:
+[b] The real focus of the game is on saving individual people. [/b]  In this game, really each major mission is about changing someone's mind.  
+[b] You can talk with your enemies in combat. [/b]  You can recruit them like in Pokemon or shake them down for money or items.  Interestingly the first Persona and the first Pokemon came out in the same year.  The enemies have opinions and moods, they are living their life too.
+
+This is a game that unironically wants you to feel like you live in a society.  
+
+Since I skipped 3 and 4 and went straight to 5 there a few things that have changed that jumped out at me from the start.  The story is less ""casually dark"".  If you don't know what an invoker is don't look it up.  Dark stuff happens, but when it does it is given weight.  And the dungeons are less ""Wizardry"" and more ""Earthbound"".  Instead of bumping around corridors in first person, you are in third person and can see the encounters walking around.  
+
+The social link system is something that was added sometime after 2 as well.  Each person that is in your social circle is given a Tarot that can be leveled up.  Leveling up that relationship gives you abilities like ""Make Curry"" or ""Grow Plants"" or in combat things like ""Change Party Members"" or ""Chance to Remove Status Effects"".  And story beats, each person has their own thing going on.  Those story beats are really the heart of the game.
+
+[h2] What is playing the game like? [/h2]
+Combat is more fun the more attention you pay to it.  Enemies often have a weakness to a specific damage type.  If you hit them with that weakness, they fall down and you get to ""Pass the Baton"" to one of your other party members.  That boosts that characters' stats and lets them take their turn now as well as later.  You can do this 4 times per move, but you can only knock down each enemy once.  So combat is super exploitable.  If you knock down the whole team then your entire team gets a large, very effective attack on the whole other team.  The game can turn into a puzzle to figure out how to win on turn 1 so that they don't get a turn, which keeps it interesting.  
+
+So that said, I found the actual combat to be pretty easy.  I expected that going in and set the difficulty to Hard at the start and never changed it.  As best I can tell, ""Hard"" means that you'll just sometimes get one-shot.  It didn't do it so much that it felt cheesy to me.  I started on Hard based on my experience in the first 2 games.  I was expecting for combat items and status effects to be crazy good when used correctly, and I was right.
+
+It is worth calling out too, there are no real-time elements that I remember in the combat.  No dodge/parry or other things needed.
+
+The rest of the game is time management, which is better than it sounds like.  The base game is April - December and the expansion is January - February.  You will play each day as a Japanese teenager, so you are going to school and you (the player) will take part of their exams.  Most days you will have an afternoon time slot and an evening time slot.  At those times you'll need to go meet with individual people in your social circle, work a job, shoot pool or play darts, do your laundry, or explore dungeons.  I am probably not selling this part very well, but it really is the best part of the game.
+
+The Pokemon aspects are a little different than in other games like that.  Instead of growing one and getting attached to it, you need to cycle through those constantly.  That system is really deep for those of you who want to explore it, which is optional.
+
+Did I mention the music is fantastic?  Because it is.
+
+[h2] Take your time [/h2]
+It is worth calling out specifically that this is a long game.  It needs that room to work.  If you try to rush it, I doubt you will have a good time.  So go into it knowing that.
+
+Which brings me to criticisms:
+[b] Its starting to feel a little dated [/b]  There are a lot of games that have been influenced by this game since it came out and they have made some improvements.  E33 as mentioned above is a good example of that.  Make no mistake, this is a 10 year old game now.
+[b] Sometimes you get stuck in a long section of talking [/b]  Sometimes the game decides for you that you need to do a certain thing on a day, or that you can't go out tonight.  This is not a 'Save Anywhere' game so you may end up stuck in a long section when you are needing to stop playing for a while.
+[b] The menus are stylish but can be annoying to navigate [/b]  And they use a lot of Japanese words.  There were times where I was looking for the item that did 50 Psi damage or Bless damage and I would have to go through every item's description to find them.  Those are Psy Magatama and the Happy Bomb btw.
+[b] You will probably want to use a wiki to navigate the persona upgrade system [/b]  And there is a fantastic one out there.  The system is complex and deep.
+[b] You can accidentally miss the 3rd semester DLC [/b]  The game does not make that clear.  It is easy to get into it though, just make sure you spend a lot of time with your school's guidance councilor.  Otherwise the game is pretty easy to 100% in one playthrough.
+
+[h2] So wrapping this up [/h2]
+This is one of the most ""Japanese"" JRPG's out there.  It does a really good job of telling a lot of smaller-scale personal stories.  You'll get attached to each of the 23 confidants.  I feel like I could go on, but instead I'll just express that after finishing the game I am sitting here trying to figure out what I should do now.  Typically I am ready to move on to a different game when finishing one, especially after longer games like this.  I have not really felt like this since finishing Elden Ring, which I think is the biggest compliment that I can give.",0.7795680165290833,78,True
+1687950,201240960,76561199853008093,"This game is very meaningful
+
+In the prologue, the game states that the story is purely fictional and has no relevance to reality. But what I want to say is that the dark and cruel social problems are in reality.
+
+Public officials abuse their power, celebrities steal wealth, underground forces collude with officials and businessmen, and unscrupulous companies exploit their employees. All of these are inseparable from the support of the government
+
+The game describes a country that has twisted and turned to dictatorship, where politicians manipulate people's hearts and monopolize power，Oppressed young people rise up in rebellion
+
+There is no doubt that this game is great",0.7786787152290344,53,True
+1687950,178688958,76561198880681076,"Saying this is a game is an understatement. This is an experience of a lifetime. Highly recommend this even if its your first exposure to the persona franchise.
+
+Thank you ATLUS for constantly releasing peak game after peak game
+
+Also the ending made me cry",0.7755956053733826,52,True
+1687950,225056645,76561199256529389,"The Good:
+
+Stunning Soundtrack: Honestly, some of the best music I’ve ever heard in a game.
+
+Gameplay Loop: The seamless transition between daily life and high-stakes action is brilliant.
+
+Multiple Endings: The variety here is spot on and adds real weight to your choices.
+
+Story & Characters: A solid historical feel with good character arcs that stay engaging throughout.
+
+The Bad:
+
+Pacing Issues: Given the length, the character development could’ve been even deeper.
+
+Filler Dialogue: Some conversations are a bit of a slog and don’t add much, though luckily you can skip them.
+
+Save Slots: There aren't nearly enough slots for a game this long, which is a right pain.
+
+A legendary experience through and through.
+
+Final Score: 9.5 / 10",0.7754322290420532,37,True
+1687950,125052618,76561198287655213,"Instead of making minor tweaks to an already excellent game, this RPG packs in so much content that it feels like a completely new game. Some features of Persona 5 Royal are things you'd expect to see in any ""director's cut"" game, such as more voice acting in either English or Japanese during key story moments (players have the option of choosing which they prefer at the start). Older cutscenes have been re-edited to include new characters and events, further fleshing out the game's plot. There's even an extra school semester that significantly expands the gameplay by adding new holidays, events, and exams. That would suffice in most cases, but it only scratches the surface. There are new characters to interact with (and get to help you in your adventure), as well as a new location called Kichijoji, which includes a sports bar where you can play pool and darts with your Phantom Thief friends, a jazz bar where you can hang out and invite people, and clothing stores where you can sell off gear to collect in battle. It's a place you'll want to visit again and again. Similarly, the Thieves Den feature provides you with a space full of unlockable content such as new music, character models, artwork, and more. It even includes challenges that you can complete simply by playing the main story and side missions, as well as a card game.
+
+Dungeons have also been significantly improved, thanks to a grappling hook feature that can be used to reach hidden areas or even ambush opponents from afar. Some dungeons have new layouts, including items called Will Seeds in off-the-beaten-path areas. When the entire set of these items is collected, they will restore your magic points and provide significant bonuses. Momentos, the randomised dungeons, have also been improved, with larger levels and an in-dungeon store that can provide bonus experience, money, and items while exploring these areas. And for Persona 5 veterans, restocking your ammo after each fight means you no longer have to save your ranged weapon attacks during a mission, making them far more useful. If there is a disadvantage to Royal, it is that there are so many things to do and so many options presented to you, especially once your group grows beyond four members, that it can be difficult to figure out what activity you should do when and with which characters. However, Persona 5 Royal is so large that you'll enjoy immersing yourself in it (or reintroducing yourself to its gameplay) for dozens of hours.
+
+10/10",0.7706475257873535,49,True
+1687950,155770594,76561198144137528,"[h1]Persona 5 Royal: A Masterpiece in Gaming[/h1]
+
+[b][u]Introduction[/u][/b]
+
+In the ever-evolving landscape of video games, certain titles stand out as exceptional pieces of art, combining gripping narratives, innovative gameplay mechanics, and stunning visuals to create an immersive experience. Among these, Persona 5 Royal unquestionably claims its spot as one of the best video games of all time. Released as an enhanced version of the critically acclaimed Persona 5, this game transcends its genre and captivates players with its compelling story, intricate characters, and refined gameplay mechanics.
+
+[b][u]Narrative Brilliance[/u][/b]
+
+At the core of Persona 5 Royal's excellence lies its narrative brilliance. The game takes players on a rollercoaster ride through the vibrant streets of Tokyo, intertwining the supernatural with the mundane aspects of daily life. The protagonist, a high school student codenamed Joker, becomes entangled in a web of corruption and conspiracy as he and his group of Persona users, the Phantom Thieves, strive to reform society by 'stealing the hearts' of the corrupt evildoers in the world. The story unfolds in a series of meticulously crafted arcs, each delving into the lives of the main characters and exposing the dark secrets that bind them.
+
+One of the standout features of Persona 5 Royal (and the Persona franchise in general) is its ability to address complex and relevant social issues. The game fearlessly tackles topics such as societal expectations and pressure, corruption, the impact of technology on personal relationships/the world around us, and even heavier themes such as mental health issues, sexual assault, suicide, and more. This narrative depth elevates Persona 5 Royal beyond a mere gaming experience, turning it into a thought-provoking exploration of contemporary societal challenges and social commentary.
+
+[b][u]Characters and Relationships[/u][/b]
+
+Persona 5 Royal boasts a cast of very memorable characters, each with their own unique personalities, backgrounds, and struggles. The game successfully establishes a deep connection between players and the characters, as their growth and development are intricately woven into the overarching narrative. The 'Confidant system' (a.k.a The Social Link system), a mechanic that popuralized the Persona franchise and that has been everpresent since Persona 3, allows players to build relationships with these characters; providing emotional depth, personal memories with said characters, and tangible gameplay benefits, up to a maximum ""Confidant Rank' of 10. It also happens to be the case that 10 different unique Romance paths can be unlocked and explored, even simultaneously (although this can get messy, and I would not recommend it, especially so to the faint of heart and those with a good conscience).
+
+Another selling point for this game is that the characters and cast feel very believable and 'alive', making for a that much more immersive experience. The top shelf, high quality, and realistic voice acting (both available in Japanese or English, although I recommend playing with English dub to any non-native-level-Japanese speaking player) sells these characters so extremely well and really makes you forget that you are playing a game or even looking at a piece of fiction in the first place. Because of this you're *right there* with these characters in the present moment, and you unavoidably grow fond of them the more personally you get to know them; and the more endeavours you undertake and overcome together.
+
+The enhanced Royal version of Persona 5 also brings with it the inclusion of new characters, such as Kasumi Yoshizawa and Takuto Maruki, who add further layers to the narrative, introducing fresh perspectives and dynamics to the already established cast of characters, and besides this other characters were given additional screentime in this version of the game as well. The well-crafted character arcs, the humor that every character brings in their own way, and the emotional impact of their personal stories contribute significantly to the game's universal acclaim.
+
+[b][u]Incredibly Aesthetically Pleasing Design[/u][/b]
+
+Persona 5 Royal is a visual feast that combines a distinct art style with a vibrant color palette. The game's unique blend of Anime, cel-shaded graphics and stylish character designs creates a visually stunning world that sets it apart from other videogame titles. The attention to detail in the level design; which is based on real-life locations in Japan that have been recreated in-game in an almost 1:1 fashion, the beautiful and lively Anime cutscenes, the designs of the Personas -  the manifestation of characters' inner selves - are also a treat to the eyes, and above all the imaginative settings of the 'Palaces' that you and your crew have to traverse through all contribute to the game's aesthetic appeal.
+
+Moreover, the game is accompanied by a phenomenal soundtrack composed by the fantastic composer and music artist Shoji Meguro. The game's music and Original Soundtrack do not only enhance the atmosphere, but also becomes an integral part of the overall experience. The jazzy tunes and energetic beats, and above all the lead singer Lyn's super unique and smooth voice perfectly complement the game's stylish aesthetic; creating a synergy that further immerses players in the captivating world of this unforgettable masterpiece.
+
+[b][u]Gameplay Mechanics[/u][/b]
+
+The addition of new personas, confidants, game(play) mechanics, and locations expands the game's scope; providing players with even more content to explore than ever before. The revamped dungeons, known as Palaces, offer improved mechanics and challenges, keeping the gameplay engaging and dynamic for returning players and newcomers alike.
+
+The inclusion of the Thieves' Den, a customizable hub for players to showcase their achievements and interact with the game's lore, adds a layer of personalization to the experience. These enhancements demonstrate the developers' commitment to delivering a polished and well-rounded fresh gaming experience for both returning players and new players alike.
+
+Most of all, the game simply has an astounding amount of (gameplay) mechanics. When you're not saving the world, you can do things like read a book, hit a few homeruns in baseball, study, go out on a date, do fitness, go shopping, fishing, go to the arcade, watch a movie with someone, etc. But in the palaces, you're busy with stealth, planning, item management, and strategic turn-based combat. You feel like you're truly transported into the game's world because of the sheer amount of things you can do in it.
+
+
+[b][u]Conclusion[/u][/b]
+
+I absolutely recommend this game to anybody who can appreciate a videogame that has a fantastic memorable cast of characters, doesn't mind tons of dialogue to read/listen through, loves snappy, stylish and strategic turn-based combat, can really appreciate a good original soundtrack to listen to for days on end, loves an emphasis on a truly marvelously stylish artstyle, likes Anime, and can tolerate a game with extremely hype moments that are offset and juxtaposed with many moments of slow burn/some grinding here and there.
+
+Persona 5 Royal stands as a testament to the potential of video games as an art form. Its narrative depth, well-developed characters, stunning design, and extensive gameplay mechanics collectively contribute to its status as one of the best video games of all time. The game's ability to tackle relevant social issues while providing an immersive and enjoyable experience cements its place in the pantheon of gaming masterpieces. Persona 5 Royal is not merely a game; it is a work of art that transcends the boundaries of its medium, leaving a truly indelible mark on the hearts of players worldwide. [i]Pun intended.[/i]
+
+P.S [spoiler]I still cry to this day when the credits roll. Take that for what you will.[/spoiler]
+
+Thanks for reading my review.
+-lustY",0.8203693628311157,95,True
+1687950,195936355,76561199227983863,"I truly don't even know where to begin with this game. This game is the single greatest experience I've had in the gaming world. The story of this game is masterfully crafted. Atlus really, really, really hit the nail on the head. Within the last year, I have played a lot of story games, this game absolutely takes the cake. I have never been through the emotional ringer harder with ANY form of media. Atlus proved with this title once again that they know how to world build better than almost any developer or publisher out there. This game makes you truly care for, invest in, and resonate with the characters that you will spend an immense amount of time with. This game is really long, I myself was able to get about 140 hours of it in just one play through. Whether or not you like RPG style games doesn't really matter. I myself don't love them, and that didn't stop me from becoming completely invested in this game. Now that I have finished the game, there is an emptiness because I simply don't know what to play that could give me the same high I felt when playing this game. When I said that this game threw me through the emotional ringer, I meant it. I felt angry with the protagonists about the antagonists, I felt happiness over accomplishments made by the characters, and I felt like every couple hours of playing this game I got chills. If you are turned away from the game because of the anime style, you simply HAVE to look past that. As if it wasn't obvious enough by this very lengthy review, I give this game 10/10, and I would recommend that anyone and everyone plays this game. It is a heart throb, and it will keep you invested the ENTIRE time. Money well spent.",0.769293487071991,54,True
+1687950,203103042,76561198160672549,"[h2]Phantom Thieves will steal a piece of your heart.[/h2]
+
+Persona 5 Royal is stylish, emotional, and unforgettable, with a soundtrack that ended up taking over half my playlist lol. 
+Joker achieves so much not on his own, but through the trust and support of his friends. At its core, this game is about friendship, loyalty, and how people bring out the best in each other. Laugh, cry, and live through a story that shows how much we can achieve when we stand together ❤️
+
+[h3]If you love meaningful stories that make you reflect, well-written and memorable characters, and the JRPG turn-based genre, this gem is definitely must play.
+
+9/10 - [url=https://www.youtube.com/watch?v=sVamEPkNDgQ&t=17s] Best ""FoR ReAL?” simulator ever.  [/url]  
+
+P.S. 
+
+Ryuji my man - Chocolate given by your mom on Valentine’s Day counts.
+
+…For real? [spoiler] No. [/spoiler] [/h3]",0.7689148187637329,37,True
+1687950,146362866,76561198091292952,"ive played over a hundred hours on my first playthrough and im still not even done. if you buy this game just be aware that this game will take you in a deadly chokehold and refuse to let go
+
+
+Edit: I finished my first playthrough at 113 hours and started my second playthrough the immediate next day and now have 128 hours on it. please help me.",0.7679426670074463,67,True
+1687950,214860709,76561199386488897,High schoolers go to paralel universe and steal people's hearts using jojo stands cuz human desires and will of rebellion or some shi,0.7671274542808533,51,True
+1687950,161939877,76561197969417125,"Persona 5 is a JRPG set in Tokyo. After being falsely accused of assault, player character Joker is forced to move to a new school, where he soon discovers the ability to access an alternate reality metaverse.
+
+With the help of his companions in the Phantom Thieves, including other students and a talking cat, Joker must change the hearts of criminals, while a mysterious stranger warns that Humanity is facing ruin.
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=3208759294
+
+This is the first Persona game I’ve played, and while I have some criticisms (mainly related to the game’s length), I mostly enjoyed it, so I’ll probably play the others at some point.
+
+[h1]Gameplay[/h1]
+
+•	Each criminal related to the main story has a “palace” within the metaverse, which takes a different form, such as a bank, museum or casino, depending on how they view the real world. Each palace contains several floors which you’ll need to explore, fighting a variety of monsters along the way, in search of the criminal’s treasure. Successfully stealing their treasure will cause them to confess their crimes in the real world.
+
+•	You’ll also need to progress through Mementos, which is a separate dungeon containing dozens of floors, to defeat enemies relating to side quests.
+
+•	Combat is turn based. Your party of four characters can attack enemies with melee and ranged weapons, and several different types of magic including fire, ice, wind, lightning, psionic, curse, nuke and bless. You can also heal and resurrect allies, and buff/debuff stats such as attack, defence and elemental resistance.
+
+•	Most enemies will be strong or weak against specific elements. Attacking an enemy’s weakness will temporarily stun them, allowing you to perform a baton pass move, which lets a teammate take the next turn with increased damage.
+
+•	When all enemies are stunned, instead of killing them you can talk to them, giving Joker the chance to acquire a new persona with different abilities.
+
+•	While each of the seven companions specialise in specific skills and elemental attacks, Joker can switch between multiple personas during battle, which in theory gives you access to every skill whenever you need it. Unwanted personas can be fused together to create a new, more powerful one.
+
+•	Playing on normal difficulty, most of the combat encounters felt quite easy. If you sneak up on enemies to ambush them, allowing the Thieves to attack first, and take advantage of weaknesses and baton passes, most fights can be won on turn 1 before the enemy even gets a chance to do anything.
+
+•	Bosses, and regular enemies which appear later in the game, can be more challenging, either because of having no weaknesses, more health, or special rules. One boss in particular provides a massively frustrating difficulty spike because of poorly designed mechanics. I’m not going to go into full detail, but lets just say it relates to infinitely respawning minions and a strict time limit.
+
+•	Outside of combat, you’ll live Joker’s life one day at a time over the course of nine months. Each day is divided into morning, after school and evening.
+
+•	In the morning you’ll attend classes, and you actually have to remember what they teach you, because there are exams where you’ll need to answer multiple choice questions to help Joker get good grades.
+
+•	After school and during the evening you can spend time on various activities with companions and other allies to progress their side stories and level up their bond with Joker, which unlocks new abilities, passive bonuses, and increases the power of persona fusing. However, most days you can usually only hang out with 1 or 2 people, so you’ll need to prioritise your favourites.
+
+•	There are around 20 allies, most of which have 10 levels, and you often need to hang out with them 2-3 times per level up. This feels unnecessarily grindy considering the length of the game, and should definitely have been streamlined to save time. And even though I didn’t waste any time slots, I wasn’t able to finish several interesting allies’ storylines before the end of the game, which is disappointing.
+
+•	In addition to all of this, you can spend your free time working part time jobs to earn cash, or read books, watch DVDs, play video games, and play darts and baseball minigames to increase social skills. Oh, and maybe you should find time to study to increase knowledge ahead of those exams.
+
+•	[spoiler]It turns out that I also missed the chance to play an extra chapter which is unlocked by getting maximum bond with a specific character. I completely ignored him because honestly I thought he was really boring and I decided to spend my limited time with more interesting characters. Yes, the game warns you that he’ll leave school by a certain date, but I didn’t realise he was that important. I don’t think its good game design to lock content behind something that’s easy to miss, however it might have been a blessing in disguise, because I’m not sure I would have survived several more hours. [/spoiler]
+
+[h1]Story[/h1]
+
+•	Story is mostly great, and features lots of interesting characters. Students interested in modelling, athletics, and art, other allies such as a doctor, teacher, fortune teller, shogi player, and a Phantom Thieves fanboy. And the criminals, whose crimes are based on the seven deadly sins. I won’t spoil anything, but the first chapter focuses on a school teacher who is abusing students, and other chapters have similarly powerful themes.
+
+•	Main story features excellent voice acting, however most of the side stories are text only.
+
+•	I like how the game automatically progresses from one important scene to the next. You don’t have to waste time walking around from one location to another between conversations, which keeps the story flowing.
+
+•	Eventually the game’s length starts to hurt the story. For me it was around the 70-80 hour mark. After this I started to lose interest in new twists and characters, and just wanted to get to the end.
+
+•	The more I played, I also started to see examples of characters having multiple conversations about things we’ve already discussed, or scenes where companions got together for an update on the main story when nothing important had changed yet. Again, I feel like the script could have been streamlined by several hours.
+
+[h1]Technical[/h1]
+
+•	It took me 120 hours to finish the game, which provides exceptional value for money at any purchase price, but also eventually hurts the quality of gameplay and story.
+
+•	Music is fun and stylish, I don’t think I’ve ever heard anything quite like it in a game before, but I also wish there was a larger variety of tracks, especially for combat, because the same songs repeat countless times over the course of the game.
+
+•	I didn’t have any problems with bugs, crashes or framerate.
+
+•	Controls worked great on my xbox 360 gamepad.
+
+[h1]Recommendation[/h1]
+
+Persona 5 is a really good game, which I definitely recommend to players who want a high quality story with interesting characters. But I do have some mixed feelings. I definitely enjoyed large parts of it, but its simultaneously too long, while not giving you enough time to do everything. I’m glad I played it, but at times it was exhausting.",0.7597355246543884,63,True
+1687950,188557803,76561198411714349,"This is easily one of the best JRPG's in existence, featuring well over 100 hours of gameplay and one of the best stories of the genre!
+
+PROS: The best soundtrack in the series; Amazing blend of Japanese Anime & Manga visuals; Combat is superb with the Metaverse & Palaces being a joy to explore compared to dungeons of the previous titles; Rich story with plenty of humor & serious topics; Awesome cast of characters; After school & night activities had a great balance of what you could & couldn't do; The most charming romance options out of all Persona games
+
+CONS: Occasional drop of frame rates, but otherwise it was smooth 99% of the time
+
+CONCLUSION: Persona 5: Royal may just be the best of the bunch, with a 100+ hour story and reworked combat that moves much faster while looking far cooler then other Persona titles. Persona 4: golden is the best game in the series to start with, but Persona 5: Royal exceeds in every way, shape or form compared to older Persona games.",0.7571986317634583,42,True
+1687950,175199381,76561198061636567,"This Persona game is well-crafted, it has: an amazing soundtrack, very fun gameplay and excellent storytelling. Even if you are not a fan of the genre, it has something for everyone. Would highly recommend either on sale or full price.",0.752865731716156,66,True
+1687950,132987447,76561198124407909,"[h1]Not Enough ""Persona""[/h1]
+
+There is no doubt that Persona 5 Royal is the best Persona game ever. The gameplay is the most enjoyable it has ever been. The dungeons, the mechanics, the style, gameplay variations, and everything else game-wise. But it definitely does not deliver the best Persona ""experience"". It doesn't even come close to Persona 4 Golden's way of making me feel. I have to say that I have been so hyped for the PC release and have been waiting for it for years. 
+
+Even though Persona has excellent gameplay compared to standard JRPGs, the series has always been primarily about its theme, story, and characters. That's what I adored about Persona 4. In Persona 5, the characters all feel so bland, one-note, and simply without any charm. It's awful how P5R overexplains everything (especially with Morgana) and has no respect for the players' intelligence. There is a tremendous amount of unnecessary dialogue everywhere. Particularly the text messages between members of the group, which increase as you play and it gets even more tedious. Not everyone has to comment on one minor point, Atlus. I mean who would prefer to text with your friends rather than hang out with them very often? (Like how it was in P4G) 
+
+The lack of relationship development with many cast members is also an issue. Our ""friends"" feel like a group of kids who don't really care about each other. You don't hang out with the group much other than when planning with them in P5R. Not like in P4G where they actually enjoy spending time with each other. 
+
+I think the Kamoshida arc is well written, but after that, the gameplay loop is a repetitive drag where all you do is target random ""evil"" 5-6 celebrities one by one to gain people's approval by stealing their hearts, which none of those villains have nothing to do with your squad on a personal level. The main villain is also horribly portrayed. No murder mystery like in P4G or a personal story to feel connected. This theme could have also worked with better storytelling but that is not present here. It's a repetitive drag after the Kamoshida arc, which I enjoyed. 
+
+I find it ridiculous that you still do not have options that matter in the dialogue. Whatever you choose to say, you will get the same answer 90% of the time. It is all scripted dialogue. It is needlessly prolonged. 
+
+At the 50-60 hour mark, if they had just wrapped up the story, it would've been less tedious and a much better experience overall. Choices are all illusions. By the way, what's up with this difficulty? Playing Persona 5 on normal difficulty has been a breeze. They should have come up with some counter against the passive skills you get by leveling up your confidants. Royal part is better than the vanilla part, but the same issues continue here too. I can say that the antagonist and Akechi (who was dislikable before) are presented better. 
+
++Very qualified music, but not on the same ""masterpiece"" level as P4G's music.
++Best dungeon design in the series.
++Most varied and fun combat system.
++Iconic art style
++Life Will Change
+
+Despite thinking Persona 5 Royal is a quality game, I think it is highly overrated. I don't care if the gameplay is the finest in the series. That's not what I look for in Persona. If there is no good storytelling, theme, or characters in a Persona game, that's just a generic JRPG. 
+
+[h1]SILVER MEDAL[/h1]
+
+Follow My Curator Page: https://store.steampowered.com/curator/40523765-Bearsonal/",0.7483339309692383,290,True
+1687950,193948078,76561199606755237,Changed my life. The story is the best and it's an emotional roller coaster. The cast a fun and memorable group that you're gonna be emotionally invested and emotionally attached to them even after you complete the game. High recommend playing!!,0.7460142374038696,28,True
+1687950,215323933,76561199835176105,"I've previously played P5R on Switch, but I didn't finish it. I intend to finish it because want to play the other series, P4 Revival, when it's released. 
+
+A ""Grande"" game for turn-based fans in its time, with its elegant effects, art, and UI, I really feel the development of OG turn-based games over time, starting from the P5R era --> Metaphor Refantazio --> Expedition 33. 
+
+Atlus is indeed one of the publishers that has created franchises with major IPs like Persona, SMT, Raidou, and Metaphor. Going forward, I'm certainly eagerly awaiting their next project: P4R ✅ P6⁉️or maybe Metaphor 2 ⁉️ XD 💯",0.7421894073486328,46,True
+1687950,146581099,76561198320272501,"Everything is simple here. If you like Japanese things, take this game, you won’t go wrong. If you don’t like this Japanese thing, take the game, it’s quite possible that you’ll change your views. If you love long, linear adventures, pick up this game, you won't be disappointed. If you don't like long linear adventures, take this game, there should be variety in life.",0.7921707630157471,66,True
+1687950,190690750,76561199559022208,"[h1]Persona 5 Royal[/h1]
+[h2]A Super Linear Yet Stylish Masterpiece[/h2]
+
+Persona 5 Royal is one of the most stylish, well-animated, and engaging turn-based JRPGs out there. While it is super linear in structure, it makes up for it with an incredible story, fantastic characters, and satisfying gameplay. Whether you’re here for the deep combat mechanics, the beautifully animated cutscenes, or the dating sim elements (yes, you can romance some absolute waifus), this game delivers in spades.
+
+Super Linear, But That’s Not a Bad Thing:-
+If you’re looking for an open-ended RPG where you can make major choices that drastically change the world, Persona 5 Royal is not that game. It follows a set narrative, and you go through the same sequence of events no matter what. However, the magic is in the details—how you manage your time, the relationships you build, and how you progress in combat all feel personal to your journey. The game is strict with its calendar system, meaning every day is planned out, but it adds to the immersion of living a double life as a high school student by day and Phantom Thief by night.
+
+Gorgeous Animated Cutscenes & Stylish Visuals:-
+One thing Persona 5 Royal does better than almost any other JRPG is its presentation. The game oozes style in every frame, from the slick UI design to the flashy battle transitions. The animated cutscenes are top-tier, looking like something straight out of an anime. Even normal dialogue scenes feel alive thanks to expressive character portraits and dynamic camera angles.
+
+Joker – The Silent Protagonist Done Right:-
+The main character, known as Joker, is a mostly silent protagonist, but he still manages to have a strong presence. His design is sleek, his Phantom Thief outfit is badass, and his ability to wield multiple Personas makes him feel like a true leader. Unlike some blank-slate RPG protagonists, Joker has enough personality (especially in his confident smirks and rebellious actions) to make him feel compelling while still allowing the player to project themselves onto him.
+
+Hot Ladies & Romance Options:-
+Now, let’s talk about one of the best parts of the game—the romance options. Persona 5 Royal has some of the best waifus in gaming, and you can actually date them. From the fiery and athletic Ann, the elegant and mysterious Makoto, the artistic and quirky Kawakami (yes, your teacher), to the mischievous and playful Takemi, there’s someone for everyone. The game lets you pursue one love interest or go full harem mode (though beware of Valentine’s Day consequences). The romance is well-written, with each girl having unique interactions and heartfelt moments.
+
+Turn-Based Combat That Feels Amazing:-
+Turn-based combat in RPGs can sometimes feel slow or outdated, but Persona 5 Royal makes it fast, fluid, and satisfying. The One More system, which lets you chain attacks when you hit enemy weaknesses, adds a strategic layer that keeps battles exciting. The Baton Pass feature allows for smooth combo chaining between characters, making fights feel more dynamic. On top of that, each character’s Persona gives them unique skills, and Joker’s ability to switch Personas makes him a versatile powerhouse.
+
+Final Verdict:-
+While Persona 5 Royal is super linear, it doesn’t feel restrictive. Instead, it delivers a beautifully animated, stylish, and engaging experience that keeps you hooked from start to finish. The characters are lovable, the romance options are top-tier, and the turn-based combat feels polished and satisfying. If you love anime aesthetics, deep JRPG mechanics, and a bit of waifu collecting, this game is a must-play.
+
+Score: 9.5/10
+
+After i finished i can easily score this 10/10 truly a master piece!",0.7405403256416321,29,True
+1687950,182872476,76561198011910777,"I never saw it coming: I don't like pokemon, anime, JRPGs, dating sims, killing god, but you know what? I loved this game. There are moments when it is really apparent that this was made in 2016, but chances are if you were like me, and the general style and critical praise made you a little buy-curious, you'll probably look past those few aged bits and have a great time.",0.7891968488693237,54,True

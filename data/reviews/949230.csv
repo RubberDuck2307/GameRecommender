@@ -1,0 +1,1243 @@
+appid,recommendationid,author_id,review,weighted_vote_score,votes_up,voted_up
+949230,156405585,76561198008028461,"After spending almost 150 hours in this game it’s safe to say I’ve given up.
+
+I’ve mostly ignored all the comments at first so that I can give an impartial view of this game. 
+
+Foremost, Cities Skylines 2 is broken. It is riddled with many serious algorithmic and performance bugs that affect core functions of the game. Widely reported bugs such as frequent crashes and taxation glitch, which causes unexpected income and deficit spikes that breaks the gameplay — and this is just one of many serious ones out there 
+
+While it is understandable for bugs to be present in games and software, Colossal Order’s lack of urgency and genuine interest in tackling bug reports makes it unacceptable. 
+
+It’s been 3 months since launch, yet recent statements from the company were deliberate in evading questions on roadmaps for bug fixes, and attempt to obfuscate users by saying that something is being worked on for the near future. 
+
+Hard to believe that this is the same company that made Cities Skylines 1 — a realisation of what the company once was. For now, stay away until more is done. 
+
+—
+
+(Quick update — 29 Jan)
+
+I’ve given this game another shot with a fresh install and a new city — issues remain and let me summarize my experience
+
+- At first glance, Cities Skylines 2 provides many quality-of-life improvements compared to Cities Skylines 1, such as better road building and modern assets. 
+- You’ll find that it is now a breeze to build roads, highways and intersections, tools are intuitive and easy to use. Want an intersection? Just drag across an existing road and you’ll have an intersection. Want a roundabout? Just plop it down. 
+- Assets are refreshed as compared Cities Skylines 1, gone are the cartoonish buildings and vehicles. 
+
+However, most of the gamebreaking issues start occurring as you progress into the game. 
+
+Game stability and optimization
+- As your population increases, game simulation will slow to a crawl — despite my setup being well above the recommended specs 
+- Occurs on my two different cities and save files. 
+
+Service Mechanics
+- Garbage management and healthcare vehicles will regularly depart from their facility and return almost immediately (alerts will popup frequently that healthcare and garbage management is inadequate despite well within their capacity)
+- Buses, trams and trains will frequently and randomly despawn or stop working completely. 
+
+Economy and industry
+- Taxation for industries will become highly erratic due to an algorithmic bug, taxation income will fluctuate randomly by the millions for a town of 10k citizens. Completely breaks the budgeting and financial system. 
+- Local industries will not export goods, cargo terminals (both air and train) will hoard all mail and breaking the mailing system (also impacts citizen happiness)
+- As confirmed by many others, due to a land value bug, prices will increase to astronomical levels, which makes residential suitability zero for most parts of your city and its outer suburbs. 
+- This the most critical bug since it completely stops the progress of your city and game, as residential demand will be zero, and no new citizens can move in.
+ 
+These are just some of the numerous bugs I came across while playing this game —  you do find yourself having to look up online for any workarounds whenever you come across one. 
+
+While I’m almost certain that these issues will be addressed eventually in the future.. but is this what it is expected of a published game that cost $50? Was this game ready to be published in the first place? 
+
+After two gameplays and two cities, one thing is certain for me — Cities Skylines 2 would not have passed QA and should not have been published in the state it is in. This game is in beta.",0.9691898226737976,1835,False
+949230,159724986,76561198198726359,"Cities: Skylines II - the game where everything is made up and nothing matters. 
+
+Its the game equivalent of the DJ pushing all kind of buttons on his mixer that is not plugged in while an mp3 just plays on his ipod. 
+
+Do not spend money on the game in its current state if you expect a city builder that actually simulates the behaviour and movement of people and  goods. Right now the game is just a tool to build something that looks visually like a city but has no inner logic or function. People and vehicles are just animated background noise. Their behaviour barely influences any important metric and all your game play decisions don't influences them alt all. A few examples:
+
+- I build a ore mine on an island with no road connection. Before i could even finish the passenger ship connection there are 60 workers employed at the mine that must have swam over there. I finish the ship connection but not a single physical person steps onto the island. Looking at the stats the mine is producing a couple hundred tons of ore per month. Not a single truck moves anything out of the mine to the cargo terminal. 
+
+WHY DO I BUILD A PASSENGER AND CARGO CONNECTIONS WHEN PEOPLE AND PHYSICAL GOODS DO NOT EVEN NEED THEM?? IN A CITY BUILDING GAME THAT IS ALL ABOUT MANAGING THE FLOW OF PEOPLE AND GOODS???
+
+- Because the animated people and cars/trucks that you see in the game have absolutely no influence if your city works or not all your game play decisions have no real consequences. You would think if you build a shitty city where people are stuck in traffic and cant get to work there will be a negative consequence. But because the person doesnt need to be physically present at work it matters zero if you build a highway from their door to the office or have no physical connection at all. There is no motivation to do anything because there is no consequences either way.
+
+- The people physically present in the game do not behave in a way that is understandable. You click on a random person just getting of the train leaving the station to find out that they are going to work on the other end of the map where the train just came from. because there is no way to show the actual path you have no clue why they took the train away from their destination.
+
+- even if we ignore that the game has no internal logic and rules your still building ghost towns. my current build of 10k people looks like a big city with highrises and all but there are maybe 1/10th of the actual people around. no real traffic problems because there are very few cars around. If you think that is because of public transportation think again, busses trams and co have mostly 1 -5% utilisation. The industry that is on paper producing thousand tons of goods have the occasional truck driving around. 
+
+- rush hour does not work at all. All streets have a graph that shows the traffic flow over the course of the day and every single road has a flat line that does not vary depending on time. If you have only every tenth person on the road at least have them leave their house all at the same time.
+
+In conclusion I'm very disappointed that they spend so much time to develop a super complex ""simulation"" and then decided that non of it actually matters. It feels you are looking at a animated picture of a city while there is a complicated excel spreadsheet  on the other monitor crushing random number and they hope you are dumb enough not to notice that they have nothing to do with each other.",0.9615048766136169,2956,False
+949230,216500391,76561198820010081,Please stop adding paid DLCs and focus optimizing this game it has such a good foundation but that doesn't mean anything if you don't build on top of it. I'll change my review the moment I say some real consistent effort to improve the game until then do yourself a favor and avoid this game if you do buy it all your doing is telling paradox interactive that they can keep doing nothing to improve the game and they'll just continue there focus on paid DLCs.,0.9593056440353394,832,False
+949230,181467107,76561198098677107,"To put it fairly, Cities: Skylines II isn't bad because it's abandoned or given any false promises. But rather, while there is indeed significant effort after release to fix and improve the game, the disastrous release has still left mountains of problems unresolved. And now while the game is probably at 60% confidence for [i]release[/i], it's already resuming selling cosmetics for coins, which is why I have to add a thumb down to it.
+
+The disaster of CS2 is a combination of over ambition, terrible risk management and project planning. This game was built on weak foundations and has been heavily misdirected to keep stacking on it - namely, the economy simulation. 
+
+CS2's key feature and improvement over CS1 is the much more in-depth economy system with individual level citizen needs and more types of supply & demand. The bad news is this system has never worked. They started with embedding fake dummy figures to make it [i]look [/i]functional, then, after being picked out by players, reworked the math two or three times (I lost count if we are at economy 2.0 or 3.0). [b][i]It still does not work. [/i][/b] And more crucially, players have little to no way to make it work.
+
+
+There are only very limited micro management tools which makes 80% of the stat charts in the game pointless - you can stare at them, but there is no way to respond to them. What's the point of having dozens of industry types when I can't even assign a district or building to a specific industry? What's the point of having a patch to ""give more salary to employees"" instead of making it something adjustable (e.g. minimum wage or income tax rate) in the first place?
+
+CS2 essentially introduced an overly complex model to replace what's trivial but working in CS1, to achieve the exact same goal - to generate district demands - but failed to provide enough tools to players to integrate it as part of gameplay. There are so many gaps and vacancies between this simulation and the actual gameplay, that are either reserved for DLCs or simply overlooked. However, instead of filling the gaps by providing more policy tools,  more specialized city service types etc, the devs have only been cooking and recooking the math of the simulation... which is quite pointless.
+
+
+This makes CS2 not qualify for a city simulation game. It's at best a [i]scene building [/i]game that is no way worth $40. Adding on with the performance downfalls, the modding dramas, and the unending list of [i]small [/i]bugs - all lead to the very same question: [b]why would you release the game in 2023, if it is still not ready after one year?[/b]",0.9589380025863647,1616,False
+949230,216798712,76561198060249276,"If you like me figured - ""its been a couple of years since City Skylines II released, maybe they have fixed many of the things people disliked so much upon release!"" - lower your expectations. Better yet, don't even try, just turn away and find a better game to spend your money on. This game suffers not just from issues that should have been patched since release, but issues that should have been fixed BEFORE release. You cannot sell a game so heavily focused on realism, which relies so heavily on the super cool traffic system, then include functions like pedestrian crossings, no turn on left-signs, etc, that DONT WORK. And have not worked since at least 2023, based on the help needed-threads I found. 
+
+Cons:
+- Paradox doesn't seem to care at all about this game, based on the amount of game-breaking issues that have been around for years at this point
+- Sorry, my mistake, Paradox DOES care about making MONEY off this game, considering all the worthless ""DLCs"" you can buy
+- Implementing their own mod-system instead of the previous Steam workshop has made mods functionally worthless
+- Many, many items in-game don't work like the description says, for example no turn on left/right, public transport only-lane, etc
+- The cims make stupid mistakes and the game gives you no way to fix them or prevent them. 
+             *Example A: You are driving on a four-lane highway. You are in the left-most lane. You know your exit is coming up on the right in 2 miles. You wait until the last possible inch to drive across all four lanes to make your exit, causing a minimum of 3 car accidents. 
+              *Example B: You are a pedestrian. You want to cross a 3-lane street. There is no pedestrian crossing. There is however a convenient pedestrian crossing-bridge going above the street, allowing you to cross without risking your life. You walk straight into traffic.
+- A very tiny nit in the grand scheme of things but the way the people ""Chirping"" use hashtags makes me feel the same kind of secondhand embarassment you feel as when your elderly parent uses new slang in a very wrong way. ""Hello? Wont anyone do anything about the #crime? i dont feel #safe!""
+- My computer is relatively new and playing this stupid game made it sound like it was 15 years old, never cleaned and hanging on for dear life
+
+Pros:
+- I think the general way industries work is improved from the CS1-DLCs 
+- I like the special buildings you can unlock by meeting certain criteria, and also the way you can upgrade service buildings.
+- End of list",0.9493563771247864,729,False
+949230,207978784,76561198019549717,"Patched out railway bridges over water just so you can sell it as a dlc? While you're at it why dont you patch out roads and have that as dlc as well? Hell, patch out the UI and the earth and sky and sell it as dlc.",0.9489086270332336,1898,False
+949230,160957874,76561198002955874,"I say this with no hyperbole, this game is so bafflingly bad it arguably has destroyed Colossal Order's reputation.
+
+Cities: Skylines 1 arguably revived the city building genre and was a critical darling. It had flaws, but it was at its core a product with legs and heart behind it, and its community was well earned.
+
+Cities: Skylines 2 feels like a cheap mobile game, like World Box or something, where you just place objects and get pretty views.
+
+On the one hand, a lot of people play Cities as more of a model set rather than mechanical game, so in some ways Cities 2 is 'better' because you can get a prettier view... but the default assets often are very repetitive and you can't currently mod in anything to get variety or to customize your city, and many of the mechanical aspects of the game dramatically interfere with making a city that looks just the way you want it. So while you can get some good shots that look sort of like a real city, you can't get some of those magical moments you can in Cities 1 where you set up everything juuuust right and have created a city of your dreams.
+
+So the game launched without real custom cities, but it could lean on its simulation aspects... if it had any. 
+
+Cities 2 promised to up the fidelity of the simulation to, frankly, silly and unbelievable levels. I never believed you would really be able to follow individual cims and see that they have a cohesive life, so the fact that doesn't actually work is fine. The idea of trying to accurately model and track literally tens of thousands of interacting agents is stupid.
+
+The problem is almost no simulated element actually works. Cities 1 took a lot of shortcuts for its simulation, but it had an internal logic that made sense and facilitated the core challenge of a city builder: conflicting needs of different types of activity in a city putting pressure on your ability to lay things out and connect them, because while things didn't have formalized connections, you still had a clear logic of what sort of resource would be demanded by what zone you plop, and where they were likely to come from. Did it make sense that the industry building that was nominally making phones would receive raw meat and then ship out their finished products to a commercial building that was a donut shop? No. But on the macro level you understood that resources need to go to specific refineries, which then go to industry zones based on distance, which then created abstract goods that needed to get to commercial zones while generating traffit.
+
+ Cities 2 has a detailed economy that tracks companies, specific industries and supply chains, supply and demand, production, ect... and... it doesn't work. Its a downgrade from 1.... because goods just teleport. You literally don't need to do anything. The game has all these bars and graphs that SAY 'X industry needs more ore products' but you don't actually need to ensure they can get them, and that makes sense because you can't actually set up things on that specific industry level anyway, so even if the system worked it would be a nightmare... but instead it just doesn't work at all and you can just toss anything anywhere at any time and basically not care because people and goods can teleport in a game primarily about connecting zones.
+
+This isn't even going over bugs like with education. The core concepts of Cities 2 don't really make sense, which is why I am not surprised they are fake, but its baffling that in a game for simulation nerds they would ship something so transparently broken and non-functional and worse than 1... when they could have just made a simulation like 1's with maybe more detail on industries, better road making tools, and the new density system. Its just so confusing why the game is like this and why they just made something that doesn't work, and never likely will work.
+
+Just play Cities 1.",0.9471835494041443,1719,False
+949230,188693448,76561198033957412,"Over 1 year after the release:
+- Still tons, tons of bugs?✔️
+- Frequent unexpected crashes? ✔️
+- Zero compatibility with mods? ✔️
+- Still no proper modding tools? ✔️
+- Unbalanced economy and population, terrible pathfinding? ✔️
+- Zero optimalisation and incredibly high graphic requirements? ✔️
+- Still a small portion of content in the SEQUEL, compared to the 1st game? ✔️
+- Releasing paid DLC's to an unfinished and almost empty game? ✔️
+
+Dont buy it, by any means don't do it. The game is in a pre-alpha version compared to what should have been and will be for a long, long time given the current ""development"" progress
+
+❗️❗️❗️ 24/03/2025 UPDATE because I want to address some of the comments and also mainly because I'm genuinely getting even more pissed off with this game, every time I'm getting back to it.
+
+🔴 Regarding some most usual comments, @qG_CeRTiiFieD and @Saukuy already addressed them in the below section, so I will just paste them here. If there's a way to pin them or anything please let me know, so I can give more credit to these guys:
+
+""They're still working on it."" -It's been a year after release. Stop giving companies grace for releasing broken products. YOU are the reason why they keep doing it.
+
+""Your PC is trash."" -First of all, doesn't at all address 6/8 points provided. And for the only two it MIGHT address... this is a commonly reported issue with the game. Talk about fallacy. - personally I just want to add, for comparison, that I'm running KCD2 or Cyberpunk smoothly on very high settings, whilst my recommended setings for CS2 are low/very low...
+
+""Why did you play it for 176 hours"" -90% of reviews are from people who barely get past the introduction and then provide poor unhelpful feedback that doesn't actually tell potential users anything of note.
+
+""Try not comparing a ten year old game's content compared to a one year old game"" - All about the value proposition. If the game doesn't adequately innovate mechanics, while also offering substantially less than a previous iteration - what is the point of getting the new game?
+
+🔴 As for the things that I have ommited previously and that make me pissed off even more (even though the game is objectively getting better of course):
+
+- I can't stress it out enough how terrible the pathfinding is.
+
+- Poor graphics - I mean honestly, the game is newer, but is it really better looking? Grass textures are hideous, we have cartoonish cars, bland and simply sad colors and design of many buildings. CS2 was released the same year as Baldur’s Gate 3, Hogwarts Legacy, Alan Wake 2 or Lies of P. Would you have guessed it? Absolutely not, UI is better and it's easier to build things, but that only distracts from the simple fact that the game is ugly. Jesus, compare it to Manor Lords...
+
+- Texture clipping, uneven road zoning, incomprehensible downcasts or road shading, misterious holes in the terrain adjacent to the structures, in other words dozens of minor errors that you spend a solid hour trying to fix because they sting your eyes and you'll go crazy until you fix them
+
+- Lack of many tools that would mimic CS1's absolutely essential mods, like Traffic Manager or Intersection Marking Tool for example. Jesus, we still can create much better organised and more detailed intersections in CS1 than here. How they couldn't simply include at least the first 3 pages of most popular CS1 mods in the new game? The receipe for a success was so simple...
+
+- Still no bikes, quays, just a few types of roads and intersections etc. - again, JESUS CHRIST IT'S A SEQUEL AND THEY CUT OUT SO MUCH CONTENT, THAT IS UNBELIEVABLE.
+
+- Related to the previous sub-item - promenades? PAID DLC. Almost any leisure and entertainment? PAID DLC. A few modern buildings? PAID DLC. Any region pack, after adding just a few most basic ones? PAID DLCs.
+
+Disgusting.",0.9463666677474976,2798,False
+949230,149590916,76561198030790727,"Beware: traffic simulation, economy simulation, and sim life simulation are not designed to work together 
+
+Bought the game. Performance issues, not a big deal, it will get sorted.
+Playing along, about 15 hours in you realize the ""deep simulation"" is fake.
+Initially I realized there was a cargo bug. Nothing was getting exported via harbors or train or air cargo terminals.
+Although that itself was bugged, it revealed a HUGE issue that was put in by design.
+Turns out, the traffic simulation, the economy simulation, and the sim life simulation are all not connected to each other, which makes them all not really impressive at all.
+Sims have jobs, but don't actually have to go to work. (Same with school)
+Businesses need goods to operate, but don't actually need them to be exported or imported by the road system.
+You can have an industrial zone without any connections to the outside or the rest of your city and the economy side of things will work without issue via magical teleportation of goods and workers, in a game that is supposed to model traffic and ""create rush hours as your sims go about their lives"". Uhh, yeah, sure CO. 
+
+""deep simulation"" they said over and over again. 
+I feel deceived on this one, and quite frustrated that I didn't realize it was all disconnected until past the refund period. 
+What the heck CO, I expected better than this. 
+
+Feels like they couldn't get it all to work together and just released it anyway. Or the marketing team and the development team never talk to each other. Wow...",0.9454650282859802,4577,False
+949230,180847633,76561198369041921,"City Skylines 2: A Huge Step Backward!!!
+
+I’ve been a dedicated fan of City Skylines 1, pouring over 1,200 hours into that game and thoroughly enjoying every moment of city-building and management. Naturally, I was excited for City Skylines 2, and despite the initial mixed reviews, I decided to give it a chance. After spending 250+ hours trying to immerse myself in this sequel, I can confidently say it’s been a MASSIVE DISAPPOINTMENT.
+
+Last night was the FINAL STRAW. I played for about 4 hours, carefully building my city and manually saving my progress multiple times to ensure nothing would be lost. Yet, during my final save, the game CRASHED. I didn't check the game archive at the time, because that's the kind of thing I'm USED TO. (Well done, City Skylines 2 team—you’ve successfully conditioned players to lower their expectations and tolerate glaring mistakes as if they were just part of the package.) When I reopened it today, all my save FILES were COMPLETELY GONE. Everything I worked on vanished as if I had never played at all.
+
+For a game that demands long-term planning and hours of investment, technical issues like crashes and save file corruption are UNFORGIVABLE. This is basic functionality, and the fact that such issues persist after the game’s launch is UNACCEPTABLE. While City Skylines 1 felt polished and reliable, its sequel feels like a rushed, buggy mess that UNDERMINES the player’s TRUST and PATIENCE.
+
+Unless the developers address these critical issues immediately, I CAN NOT RECOMMEND City Skylines 2 to anyone. It’s A HEARTBREAKING STEP BACKWARD from a franchise I ONCE LOVED.",0.9427692294120789,754,False
+949230,204148372,76561199048565693,"Its okay. You can explore your creativity and build some amazing cities. And the game can be quite beautiful at times!
+However, to say how long this game has been out, there are many bugs and poor qualities that still remain within the game. For example, the traffic system is horrible!! NPC cars just do what they want and there is no actual structure to the traffic, causing massive traffic jams, and vehicles use bus lanes and tram lanes, as well as randomly doing a u-turn even on major roads, its like no one in the game knows how to drive.
+Another problem that really annoys me is the interface between different roads, train tracks and buildings, sometimes if you wish to bulldoze something you have placed down, the game will not allow you, because it may overlap or interfere with another piece of road or train track, and a lot of the time the section of road or tack which is causing the issue is no where near what you want to bulldoze. And in order to bulldoze the section, you must firstly bulldoze the majority of roads/tacks/building around it, meaning you delete a hell of a lot of progress which may take time to return to.
+Also, Emergency vehicles just act like normal traffic, they wait in traffic and stop at red lights,this isnt a big issue, but it annoys players like me who admire the detail into a game.
+Lastly, just like the traffic issue, the pedestrians within the game can be horrible at path-finding, they often cross highways and major roads and the game gives them priority, meaning cars on the roads stop for them, causing yet again more traffic issues. And they also often walk along train tacks and airport runways, which just makes no sense. 
+Id recommend the game if you can deal with the frustration that it can cause, and you have the ability to listen to the same music on repeat without getting bored.
+
+To the game devs, stop being lazy, listen to the community and fix your damn game!!!",0.9422720074653625,339,False
+949230,150341735,76561198126388546,"Hmm this is going to be a tough review.
+
+Much like everyone else I was very excited by the game when they announced and showed it. 
+
+When I first starting playing it I was enjoying my time with it but as the hours rolled by I think for me at least for now I can't recommend this game in its current state.
+
+Man I wanted to truly like this game and sometimes I still do but well...
+
+A decent amount of the core features are improved, The graphics, style, road placement and management and UI but at the same time there is also quite a lot missing, barely improved or outright worse or missing. 
+
+For starters the game is buggy, certain systems don't quite work or are planned out poorly especially the import export stuff. Then there is performance. 
+
+Some people may excuse it but I for one certainly can't. Having personally worked in the Unity ecosystem for 5+ years I can personally say they dropped the ball here. The graphics are great, Truly but the design and optimisation is going to take a LOT to fix an I feel bad for the engineers behind the scenes. 
+
+As a fan and customer I personally feel there no reason this game should barely be lucky to hit 30fps at low-medium on the best system costing thousands of dollars on the market especially when in a lot of areas the overall simulation while mostly better then CS1 its not that much better tbh. 
+
+This is made even worse when you realise most of the maps lack a LOT of details that were in the previous entry including grass of all things. 
+That is not okay and other details overall you will find its just missing or lacking overall, 
+
+The service vehicles don't have animations, there is less variety to all of the npcs and AI compared to the first game, Everything is sadly very static in regards to the ""world"". Most of the AI is just going from A to B and you can't even see the direct path they are taking unlike the first game which makes management of traffic more annoying then it needs to be especially for a sequel.
+
+I think pets work now, Pretty sure I've seen dogs clocking in or walking home which can be more easily noticed once you hit 100k civs, which yknow honestly is just a hilarious bug. 
+
+I have three civs in my city which have been standing still since 20k and are now old people, One of them fucking died and whenever I want a laugh I just check up on them. It is another funny bug.
+
+Pretty sure dogs at launch floated as well.
+
+A lot of my very smooth roads have clipping issues into the void below on the sides of them an issue I don't remember being present in CS1.
+
+I found it really tough to make my city look and feel unique outside of tree placement and road and terrain layouts because the detailing is a feature that not only hasn't improved from the first game but is seriously much worse then CS1 and overly lacking. 
+
+From a distance everyone's creations look amazing but when you zoom in aside from the awesome sense of scale which is a positive here in a massive way everything is the fucking same and it just sucks. Somehow less variety then CS1 at release side by side which makes no sense.
+
+Like fences really? I can't even place fences? or quay walls which were in the first game, I can't modify existing details within buildings? or rocks and benches, I can follow an NPCs ""life path"" but god forbid I wanna actually make the houses they live in somewhat unique outside of naming with the same or similar tools the devs used to make them. 
+
+There is also very little in terms of variety for zone types which is kind of sucks considering this is suppose to be a sequel and placing specific zone types at times can be very frustrating, Like sometimes a certain house type will spawn for 99% of an area then for whatever reason wont for no real reason, Don't like it? Just remove the roads and start over and hope it works for the 2nd time or 3rd. 
+
+Also no idea why a plopable Rico isn't here in the base game. The assets are there, LET ME CHOOSE THEM PLEASE.  
+
+As time has gone on I have found myself finding more things that are were present in the first game but for whatever reason are not here or worse many things which are not improved at all. 
+
+For a sequel this really only has minimal major improvements of the first and the things which are improved they can't really make up for what is either worse or about the same as the first game..
+
+Lane management is barely improved and its very frustrating to say the least combined with the traffic AI.
+
+At low pop its not so bad and honestly seems alright and they even have working suspension a cool small detail however once you get high up there the simulation starts to break and brain of the civs just goes out of the window, Its like suddenly at 60k and above everyone decided booze were for everyone! 
+
+I spent more time stumped at how brain dead the AI overall can be before attempting at trying to fix it. 
+
+I had massive traffic jams stretching for miles with my interchanges barely being used. When I zoomed in they were all turning last second in multiple lanes, Some would do U-turns sometimes more then once and just cause chaos which for me at least is made even worse as IRL I'm learning to drive right now and the AI is making decisions I don't think I would ever make in a car even if I was 10 years old. Its insane! 
+
+Not to mention services, I have found the new feature of making them district restricted quite useful which is a positive but it still hasn't fixed the AI, A dead person is waiting for transport right across the road from the cemetery... WHAT? They are lucky that meteors can't be thrown willy nilly like in CS1.  
+
+I think this needed at least another year in the oven and if that wasn't an option early access at discount, Would of been better for the brand, devs and community.
+
+That isn't the worst of it though. For me its how they have responded the community initially and how they made sure to tell the creators before release not to mention the performance and giving them weird restrictions. They knew exactly what they were doing and did it anyway. From the announcement of the hardware requirements going up hidden in a larger message to banning a long time community member for valid criticism. 
+
+I think in time they can turn it around, They did pretty good with CS1 and I think fully realised that games potential to the engine and design limits. Here I think the concept is good its just the execution. The bones are here for a great game. A lot of the core systems are in place begging to be polished or in quite a few cases outright fixed especially in regards to the overall simulation and I do love the art style more this time around although more variety is needed. What I have experienced so far overall I can see the potential down the line but for now it is just not here yet sadly. 
+
+The more I play this game the more depressed I feel about what could have been yknow?. 
+
+I love some parts of it but some other parts I just loathe and get annoyed. I'm currently trying to make a very realistic city and I'm running into so many design limitations with the current tool-set compared to the first game without mods it just kind of sucks. 
+
+I overall feel very mixed. At times it can be really great and chill, Other times it can be the opposite.
+
+Hopefully they can improve the overall performance, Fix all the major bugs & at times broken simulation, Add in the missing features that were present at the very least from base game in CS1 at launch and MAYBE just maybe we will have a good start to the sequel for DLCS, Free patches & overhauls for many years to come.
+
+If you want a proper sequel look elsewhere or come back in a year. Its a fine game overall even with the issues just don't go in expecting greatness, Some parts or better, Most are the same and some are worse then the first game.
+
+It isn't worth the full price, Not even close, 40 AUD max, 60 AUD with the extra content.
+5/10 (great potential) ~ SirJarko
+
+Maybe in a year it will be worth it? Lets hope",0.9392167925834656,1394,False
+949230,154958535,76561198078924491,"The game needs to be better optimised and grinds to a halt when you get a few hundred thousand population.  So many people saying ""but CS1 took 7 years to get to where it is"".   Then I suggest you don't buy this until 2031.",0.9388123154640198,471,False
+949230,171930650,76561198111633959,"[h2] Intro [/h2]
+While I really enjoy the modern take on city building, Cities: Skylines 2 falls short in several areas I hoped would be improved from [i]CS:1[/i]. Although some features have been enhanced, many aspects feel very similar to the previous installment. Below are my thoughts, the good, the bad and the ugly!
+
+[h3]Passing Thoughts[/h3]
+If you’re wondering whether it’s worth playing at the moment: [b]Yes and No.[/b] If you’re looking for a modern city builder and don’t mind some rough edges, then yes, it’s worth trying. However, if you prefer a more polished experience and want to wait until the issues are resolved, then it’s best to hold off.
+
+[h3]The Good[/h3]
+[list]
+[*] [b]Engaging Sim Life:[/b] Just like in [i]Cities 1[/i], watching your sims go about their daily lives is a pleasure. The new feature allowing you to track a sim throughout its lifespan is a welcome addition.
+[*] [b]Improved Road System:[/b] The revamped road-building tool, including slip lanes for highways and dedicated turning lanes, is a significant improvement. While these features could have been added via mods in [i]Cities 1[/i], it’s great to see them included in the base game.
+[*] [b]Enhanced City Services:[/b] Power, water, and sewage now travel underground, eliminating the spaghetti-like pipes of the previous game. Additionally, there are more city service buildings available, offering varied services to your sims.
+[*] [b]Expandable Buildings:[/b] Many buildings now come with extra modules to increase their capacity. For instance, schools can be expanded with additional buildings, which reduces the need for numerous schools and service buildings as seen in [i]Cities 1[/i].
+[*] [b]Mixed-Use Zoning:[/b] This feature, which I wished for in [i]Cities 1[/i], is now officially supported in [i]Cities 2[/i].
+[/list]
+
+[h3]The Bad[/h3]
+[list]
+[*] [b]Stagnant Gameplay:[/b] The game doesn’t evolve with city size. Managing a small city feels identical to managing a large one, unlike other city builders that offer varied and evolving gameplay.
+[*] [b]Lack of Challenges:[/b] There are no significant constraints or meaningful decisions. Problems are typically solved by simply ""building more,"" making the gameplay feel repetitive and flat.
+[*] [b]Limited Improvement:[/b] Although certain features, like highways, have seen improvements, fundamental issues with the grid layout and overall gameplay remain. These issues appear too deeply embedded to be resolved without a major overhaul in a future installment.
+[/list]
+
+[h3]The Ugly[/h3]
+[list]
+[*] [b]Modding Platform Shift:[/b] Moving from the Steam Workshop to a third-party [i]'Paradox Mods'[/i] platform is a poor decision. Despite some solid features, this change detracts from the ease of modding that the first game provided.
+[*] [b]Poor Aesthetics: [/b]The grid-based design and focus on American urban sprawl lead to bland, unattractive cities. Specialized industry zones and modern industry representations are particularly weak, resulting in uninspired city layouts unless you sacrifice density.
+[*] [b]Bugs:[/b] The game still has several significant bugs, even after recent patches. For example, homeless people may remain indefinitely in your parks, which detracts from their intended use and overall enjoyment. Although the developers are aware of this issue, the lack of progress in addressing it is concerning.
+[/list]
+
+[h3]Is It Worth It?[/h3]
+I wish Steam offered a middle-ground review option, rather than just ""Good"" or ""Bad."" While I enjoy the game, it remains quite rough around the edges. If you can tolerate some bugs and occasional issues, it might be worth trying. However, for most players, waiting [b]6 months+[/b] is probably the best option. Although I believe the game will have a long lifespan, I’m concerned that its poor initial reception might impact its future.",0.9385350346565247,459,True
+949230,193389734,76561198341382098,"Bring back steam workshop, the in-built one already had issue with hacks. I hate how to get a mod it forces you to create an account with Paradox, and the terrible UI it comes with is not very helpful.
+
+Cities Skyline just did it perfectly with Steam workshop, and I cant recommend this game until they bring back the steam workshop.",0.9342092275619507,737,False
+949230,212485343,76561198093684883,"DO NOT SUPPORT THIS COMPANY.
+
+I regret buying the most expensive edition. After YEARS of no bug fixes, they release a very very underwhelming update and then quickly release 2 DLCs that are not even included in the MOST EXPENSIVE VERSION of the game! 
+
+Absolute scum move. Will not be buying future releases from this company.",0.9341839551925659,1004,False
+949230,223491486,76561198208385093,"complacency, lazyness and undiscipline nearly killed this game and franchise, but now with a new dev studio that also contains ex colossal order staff, under new management that actually cares the future looks brighter than the past. Not everythings is fixed yet, some mistakes are still being made but theyre also being corrected a speed that seems like lightspeed compared to before. Problems are being adressed and new stuff added that has been requested for years now. all in all its going back uphill",0.9339973330497742,346,True
+949230,218924076,76561198013812010,"I've read a lot of negative stuff about this game, and I was one of these severely disappointed at the state when the game release. I held off for a year and a half before I bought the game and still several months before I finally dove in
+
+What changed? Frankly the devs' commitment to making things better. I was skeptical at first but I have to say that despite there still being issues, the devs do care about fixing things. Colossal Order leaving and Ice Flake taking over seemed concerning but at least at the time of writing, the first update released by them seems promising.
+
+So what about my actual thoughts about the game? I'll be honest, I got this game not as a replacement for Cities Skylines 1 but for Simcity 4. In my opinion, Cities Skylines 1 was extremely overrated because while you could build incredible things with it, you needed a ton of mods to do that. The base game was extremely ugly and nothing I built looked satisfying. I could never get all of the mods I wanted working and I was plagued with constant crashes to the point where I just stopped playing
+
+In contrast, Cities Skylines 2 has been stable and looks amazing. It actually has a consistent design philosophy unlike CS1 which couldn't decide if it wanted to be cartoony or realistic. The amount of customization I have with just the base game itself is amazing and with just a few mods, becomes ever better. I've been making things I could never in CS1 without a ton of mods and a lot of instability
+
+As for negatives, some people say the simulation is illogical. Maybe it is but its good enough for me. My biggest complaint is about performance. The game chews through framerates and zooming in makes it worse and I have a fairly decent machine. Its not unplayable by any means and I'm still having tons of fun
+
+So there's my review. Its a decent game and I'm having more fun than I did in CS1 which in my opinion is overrated. The fact that the developers have stuck around and have addressed some of the most major complaints and are still working to make things better is what finally tipped my review in favor of it",0.9336860179901123,366,True
+949230,159365546,76561198867029352,Holding out on content so they can drain us of our money with DLC. The scheme is so played out now a days.,0.9331210255622864,1296,False
+949230,169445745,76561197960966715,"So this is from someone who played CS1 both modded and vanilla, with access to the DLCs (some features of which should have been in the base game, and others available as working mods from dedicated modders).
+
+I would not recommend this game in it's current state, as it is buggy and does not work once the zombies take over (Note: This is not a zombie survival game).
+
+UI			
+	Roads will glitch when creating intersections, offramps, etc. (which is probably why they recently released a visual ""patch"" that allows adding pavement, etc.
+
+	Your processing speed will slow down every time a zombie is created. How is a zombie created you may ask? Simple, if you purposely (or accidentally) destroy a building that houses any amount of people, those people will walk out to the street and just stand there, looking for a new place to live. But, since you most likely have an outside connection (*I even tried without an outside connection, still broken) those ""available"" homes will be taken by new people, and thus a zombie is created as ""Moving in"" or ""Idle"", if you destroyed a commercial zone, you create ""Shopping"" zombies. These citizens will stay in your city and slowly eat your processing power until your game speed of 3 is 10 minutes for an in game day to pass. Unsustainable, and game breaking (only the first of many game breaking issues with this game).
+
+	Sometimes the weather works, and other times it does not and just ""glitches"" to the next day when it is sunny again.
+
+Traffic			
+
+	The AI doesn't respect lanes (no surprise that the AI still does not work when it comes to traffic), as they will turn in no turn lanes and do six to twelve point U-Turns wherever they can, multiple times. This is more common if you add or remove a road *anywhere* in your city, and it also happens when you add a sidewalk or crosswalk. This common task causes the AI to ""re-think"" and recalculate it's route, which causes them all to ""shift"" their routes.
+
+		No individual lane control which means the dedicated turn lanes are determined by the angle of connecting the side roads, and a matter of one pixel will determine what the lanes do in response. Also, the traffic signals and signs are ""node"" specific, so there is no way to put a stop sign on just a sidestreet, etc., this was ""fixed"" in CS1 with mods.
+
+	Cargo train stations are broken, they will not deliver goods between cargo stations, cargo airports, or cargo ships, and goods that are created locally from industry go no where, and commercial starts importing everything individually anyway, causing your industry to basically do nothing but create pollution.
+
+	No weather related buildings (Heat, ice rink, sowplows, etc.), as they probably want money from a ""Snowfall"" like DLC from CS1	
+
+Power/Water			
+
+	Combustion banned zones should have increase power consumption, and there are no charging stations for EVs, only gas stations for fuel, ""Green Cities"" DLC?
+
+	You can start a map importing power, but not water, so if you want to export water from the beginning tile you cannot (only for those that play with just 1 tile...)
+
+	No water removing services, so enjoy those floods when you make a mistake.
+
+Population			
+		GAME BREAKING bug that I have no idea how it made it out of QA and passed Dev...zombie homeless just stand on the road taking up processing power, although some of them become homeless people that pay taxes and ""work"" but don't move into an available house or move out of your city (or actually ""go"" to work), and eventually become zombie robbers that kill your city...as mentioned earlier. This breaks your game in 1 way or another, I still don't understand how it made it out of Dev and QA and was released in this state. It is incredible how little it seems CO/Paradox cares anymore...
+			
+Healthcare			
+	No deathcare	or childcare, probably want money from a ""Sunset Harbor""	like DLC from CS1
+
+	The aforementioned zombies still negatively contribute to the overall health of the city, also killing your city, and when they get sick or die, healthcare and deathcare cannot ""pick"" them up so you get stuck with symbols flashing on your screen on of sick and dead homeless.
+
+School			
+
+	There are no preschools (or daycare) as mentioned earlier.
+
+	No law school or dorms, probably want money from a ""Campus Life"" like DLC from CS1.
+
+	More people ""stuck"" in building then ""eligible"" to be there, zombies live in schools and other buildings so even if a certain amount of people are eligible to go to school, they can't because every school is completely filled, until you have a map that is just elementary schools.
+
+	Educated sims still become Robbers at an incredible rate, and soon you will have a city of Well-Educated Homeless Robbers who are Happy and Wealthy. Good luck getting rid of them, no amount of taxes or lack of city services will deter them.
+
+Police
+			
+	Well, the police are currently broken as they cannot ""arrest"" homeless robbers, and since there is no way to control patrolling or set up stationary ""standing"" locations for police vehicles, 3 police cars will drive around chasing 1000 criminals in a town of 500 people, causing the crime to kill the city. At least my police helicopter flies 10 feet south above my river on it's routine patrol, just to turn around and land. Also fun to watch my 3 police cars drive into a crime scene, look at the robber (or group of robbers as the AI just stand there) and then drive away without making an arrest.
+		
+Fire			
+
+	A waste of money being ""on"" all the time as they don't help with traffic accidents or house-calls for EMS, or hospital, etc. Can just turn it on when a disaster strikes or a fire starts, but other than that it is super expensive to do very little.
+			
+Parks			
+
+	No ""Parklife"" benefits, i.e parks built on sidewalks, etc. Also, no amusement parks, zoos, aquariums, etc. because, of course, they probably want money from a ""Parklife"" like DLC from CS1.
+
+	No ""professional"" sports	 stadiums (which I believe was actually free from ""Sports Venue"" DLC)
+
+	Trees are easier to plant, but can no longer ""clean"" polluted ground, and do very little, if anything, in stopping noise pollution.
+
+Disaster			
+
+	When an area floods, there is no way to remove the water without destroying buildings and using landscaping tools to ""push"" the water back. Cars will just drive through it, zoneable buildings will ""build"" underwater staying in a permanent destroyed state, and other buildings will just stop working unless you notice the water surrounding it.		
+
+	Only tornadoes and forest fires (every 10 minutes or so, without fail), and no disaster routes or control of the shelters that are available, probably  because they want money from a ""Natural Disasters"" like DLC from CS1.	
+			
+Zones			
+
+	No real district control, as there are laughable amount of polices (that do very little, imo).
+
+	No historical buildings (no way to ""save"" a building model you like to preserve it)
+
+	No hotels/motel/gas station manual control, even though it is purposely built into the Economy 2.0, again things that were basic in the ""After-Dark"" (Leisure and Tourist spec, etc.), ""Hotels & Retreats"" and ""Green Cities"" DLCs.	
+
+	No ""industry zones"" which means no control of what ""companies"" move in, even though this is a big deal in Economy 2.0.  No way in vanilla to even see company info.
+
+	No standalone warehouses or industry/company specific warehouse control to pick from, again because ""Industries"" DLC	made this available in CS1, another paid DLC.
+
+	Zoning ""too much"" will create broken empty buildings, common in industry creating ""warehouse"" UI models, but no company will ever move in, or houses that remain empty even though homeless people are looking to move into a house (or college kids moving out of their parent's house live in a park or become a zombie instead of moving into one of these buildings), or you will get 5 of the same company in a row (or 5 gas stations, albeit different companies) in a row, or very close to each other.",0.9323557019233704,798,False
+949230,192329091,76561198209863287,"As someone who loved the original Cities: Skylines, I came into Cities: Skylines 2 with high hopes. The first game had tons of content, and the Steam Workshop support made it even better. Unfortunately, this isn’t a review of the first game — and that’s where my disappointment starts.
+
+Cities: Skylines 2 improves on a lot of systems from the original. There are some great quality-of-life changes that make city-building smoother and more modern. But even with those improvements, the overall experience feels lacking.
+
+I pre-ordered the game and received 15 DLCs (I believe) as part of the bonus, but most of them are just building reskins or region-specific buildings that don’t add any real gameplay. It’s hard not to compare that to the DLCs for the first game, or the workshop where I could find similar — or better — content for free. What’s worse, the two DLCs I did buy for the first game (which added meaningful content) are completely missing in the sequel.
+
+It’s hard not to feel like Cities: Skylines 2 was rushed out and monetized aggressively. Despite being out for a while, it still lacks the depth and charm of its predecessor. On top of that, I experience random frame drops and lag, even though my PC should be more than capable of handling the game.
+
+Right now, I can’t recommend Cities: Skylines 2. If you’re deciding between the two, the first game still offers a better experience overall — even today. That said, I’ll be checking back periodically to see how it evolves. If things improve significantly, I’ll happily update this review.",0.9318697452545166,432,False
+949230,178543649,76561198062824898,"I wanted to like CS2, but I can’t recommend it. The base game is boring, and you need mods to make it interesting and to fix basic glitches. Unfortunately, that led to my first-ever malware after 28 years of PC gaming, all because CS2 lacks basic protections—like two-factor authentication for mod uploads. Thankfully, the malware seems to only target crypto, which I stay away from, but that risk is too big to ignore. I am done with this game, and don't know if I will be back.",0.9316979646682739,1206,False
+949230,165142706,76561198121191248,"I have been waiting for some update to past before writing a review for C:S2.
+
+If you want a city builder and nothing more, go for the original;
+If you want to build your own city with style, go for the original with dlc;
+If you want realistic simulation, go for the original with mods until your cpu is cooked;
+If you want to use the game as a sand box and go for pure beauty, go for the original with asset until your gpu is cooked;
+If you want to use mod and asset, go for the original which has !! STEAM WORKSHOP BUILD-IN !!, no 3rd party bs;
+
+YES THEY EVEN MAKE THE WORKSHOP A THIRD PARTY THING SO NO MORE EASY CLICK FOR MODDING.
+
+This does NOT worth even HALF of its price in current stage.",0.9296420812606812,927,False
+949230,222645952,76561198352445184,"Game play is nice, Optimization is bad. My spec is getting 20 frames per second at the population of just 100k people ( DLSS on Ultra Performance ). It becomes unplayable. I cannot imagine people with less costly PC set ups playing this game.",0.9293656349182129,591,False
+949230,158262106,76561198008336467,"I’ve liked playing Cities: Skylines 2 so far. It’s definitely an enjoyable game, with a lot of promise. That being said, the game does not get any points for being “enjoyable” and having promise. The bar was much, much higher for this game
+
+While it’s not fair to expect CS2 to be as feature rich and polished as CS1 is, so close to launch - it is fair to expect it to be fully functional to the extend we were promised from marketing.
+
+I can forgive the lack of assets. I can forgive the bugs. I can forgive that we were told that the game would initially launch without mod support and that mods would no longer be run through the Steam workshop. 
+
+But more than 3 months after release, Colossal Order has not been able to deliver timely updates to fix numerous bugs, let alone deliver features that they promised. Mod support and console release keeps getting delayed. Performance has been getting better but it is still an incredibly demanding game for what it is. 
+
+In 2023 and now 2024, the sad reality which I’ve come to accept, is that games will be released with bugs - lots of bugs. What is completely inexcusable is that they are no longer pushing updates for bug fixes/patches independently from DLC launches. Major patches will now be released alongside paid content. 
+
+In 2 years I’m sure this game will be better.  But CO deserves a negative review until then; this game should be marked as early access and its price should reflect that. Do not buy this game until then. You’ll have a better experience buying CS1 + DLC and modding it to your liking.",0.9277932643890381,702,False
+949230,161134221,76561198010533414,"Half a year has passed since the game's release.
+
+I've been patiently hoping Colossal would fix their game, and didn't request a refund when I had the chance. That was a mistake. Several months in, they still haven't fixed glaring optimization issues, or their simulation engine. Opening the game to see 20 fps in the main menu or on an entirely empty map on 3080ti was a very special experience.
+
+Since then, in response to well-deserved constructive criticism regarding the game, the developer just showed their belligerence and tried to wrap it as ""playerbase's toxicity"" instead of fixing their barely functioning game, or coming up with excuses in line with ""if you want better performance our game might not be for you"".
+
+Stay away from this game, it was released in an alpha state and has not been fixed ever since. Instead, their resources went towards paid DLC content.",0.9265962839126587,801,False
+949230,185833970,76561199049347848,"I have never been so conflicted.
+
+I have re-downloaded CS2 about 5 times now, compelled by the overwhelming amount of beautiful showcases of CS2 cities on r/CitiesSkylines. Every time I have re-download CS2, I am immediately reminded why I uninstalled it. I want to like this game, I love the realism of the graphics, the animations of the sims, the ability to build off service buildings, the seasons, and of course the option to make an intersection into a round-a-bout.
+
+Unfortunately despite all of these new features CS2 compares nothing to CS1, I must admit, I do play with all the CS1 add-ons and was extremely disappointed when I first played CS2 to see I could no longer make my own custom university, airport, or park. Even despite all the additional content of CS1, it still prevails as the better game. If not for it's lack of bugs and glitches, then be for the lack of malware issues.
+
+Never before have I wanted, nor even considered writing a review about a game, not even my favourite games, not even the masterpiece that is CS1, but the existence of CS2 conflicts me. I want to like the game, I want to play the game, I want to enjoy the game, but yet I don't. As the sequel to CS1, CS2 looks amazing, and it's features and game play pull me away from CS1, but its bugs, glitches, and, lack of customisation push me into a weird spot where I can't bring myself to play either game, a feeling so weird, it compelled me to write my first and probably only review.",0.9259595274925232,455,False
+949230,218175376,76561198223305156,"For those that have played the previous game and explored all the mods, dlcs, and custom content, you will find this game lacking in all aspects. Now it is in a state where it barely matches Cities Skylines 1 during launch. Mods are supported and have qol improvements, custom assets were finally added after an year, and new DLCs are dropping. However, the game still has many bugs, most of the gamebreaking ones have been solved, and the optimization is still poor. On the positive, the buildings look nice, especially the content packs and custom assets, the road building is light years ahead of vanilla Cities Skylines 1, and the new developers are actively working to fix the game and improve it. I would wait before getting this game, or wait for a good sale. At its current price, I cannot recommend it just yet.",0.923827588558197,364,False
+949230,154112824,76561198017024289,"The potential is there but this game is in beta at best. I put hundreds of hours into the original CS and this game is awful in comparison. After 70 hours of trying to pull off builds, everything is bugged, nothing works as it should, and there's just no fun to be had. 
+
+Not only are we paying to beta test this for you, you're releasing DLC instead of fixing this buggy mess? Shame on you for the scammy product, shame on me for buying the ultimate edition.
+
+I wrote the above review in December 2023. It is now 2025 and the game still feels like a buggy beta but it is almost playable. I guess I'll check in in another year.",0.923748254776001,1975,False
+949230,226078131,76561199022392967,"History of Cities: Skylines and I:
+
+>play the first game in 2015
+>hate colossal order
+>pc has pentium in it, 5 fps but somehow still enjoy it
+>hate colossal order
+>watch city planner plays for hours
+>after years, Cities: Skylines 2 announces
+>everyone is hyped, me aswell
+>game releases
+>it sucks
+>hate colossal order
+>hating the second game and keep playing the first game
+>game gets updates and going better
+>hate colossal order
+>buy second game
+>play it for hours, love it
+>hate colossal order
+>iceflake studios takes over, doing much more work in months than colossal order
+>game gets better
+>hate colossal order",0.9237259030342102,427,True
+949230,234874567,76561198006819838,"I cannot recommend Cities: Skylines II based on the direction Paradox and Iceflake are communicating.
+
+The biggest problem is not that the game receives no updates. It does. The problem is that, after months of Iceflake being in charge, the announced direction still looks far too unambitious for a game that needs fundamental improvement.
+
+Many players come to Cities: Skylines to build beautiful, realistic, believable cities. Yet some of the systems that most directly limit that experience remain largely untouched.
+
+Zoning is one of the clearest examples. The rigid zoning grid affects building placement, curved roads, block shapes, realistic suburbs, European-style streets, gaps between buildings, irregular parcels and the overall visual quality of a city. A serious zoning and parcel-generation overhaul could transform the game.
+
+Instead, the official answer is essentially that smaller grids are not planned and better grid control is not even a short-term priority.
+
+The same pattern appears elsewhere.
+
+Major improvements to integrated public transport infrastructure? No big plans.
+
+Tunnel and underground infrastructure improvements? Not currently.
+
+Regional hierarchies with towns, villages and multiple settlements? No.
+
+Major pathfinding rework? No.
+
+Natural-disaster and evacuation improvements? Not planned.
+
+More flexible road-building tools in normal gameplay? Maybe someday, while live editing is apparently out of scope.
+
+Construction animations and more convincing citizen activity? Nothing scheduled.
+
+What is actually being discussed is mostly incremental balancing, bug fixing, performance work, audio, lighting, textures, asset packs and smaller simulation adjustments.
+
+Those things are welcome, but they are polish. They do not address many of the fundamental limitations that stop Cities: Skylines II from becoming the city builder it could have been.
+
+What makes this even more frustrating is that the modding community has already demonstrated demand for much deeper control over roads, zoning, traffic, detailing, surfaces and placement. Mods are doing transformative work while the official roadmap appears focused on improving the existing framework rather than meaningfully expanding what players can build.
+
+There is also a communication problem.
+
+The official Steam Q&A directs players to continue discussion on the Paradox Forums, which requires a separate Paradox account, while discussion under the Steam announcement itself is locked.
+
+For a company asking players to trust the long-term development of a troubled game, restricting discussion on the platform where many customers actually bought the game is a terrible approach. If you publish a Q&A on Steam, players should be able to discuss the answers on Steam.
+
+I do not expect every community request to be implemented. I also understand that rewriting core systems is expensive and technically difficult.
+
+But after this much time, I expected to see a much more ambitious vision for transforming the game: better zoning and parcel generation, greater road-building freedom, better terrain and building interaction, deeper traffic-management tools, more realistic city layouts and systems that genuinely expand the possibilities of city building.
+
+Instead, the message currently feels like:
+
+fix bugs, improve performance, polish visuals and audio, rely heavily on mods for advanced functionality, and keep releasing content around the same fundamental systems.
+
+Maybe the upcoming roadmap will prove this assessment wrong. I hope it does.
+
+But based on what Paradox and Iceflake are communicating today, I would strongly recommend that potential buyers look carefully at the current state of the game and the developers' stated plans before spending money on Cities: Skylines II or its additional content.
+
+Do not buy it based on what you hope the game might become. Judge it based on what exists now and what the developers are actually committing to change.
+",0.9235180020332336,1466,False
+949230,213678571,76561198916231887,"No. Just No.
+As a CS1 enjoyer I was excited when this game got announced and then ordered the ultimate edition.
+
+LITERAL YEARS later only minor updates have happened and 90% of the game is still broken.
+As a neat bonus it also runs like crap (on basically every pc ever).
+
+And to add insult to injury, they started releasing DLCs for this game (which, to be fair, were included with my ultimate edition, but still, fix the god damn base game first) AND NEW DLCs FOR CS1!
+INSTEAD OF FIXING THE NEW GAME, THEY CONTINUED MAKING STUFF FOR THE OLD ONE! HOW!?
+
+And now CS2 is being dumped on a small mobile games studio. This is a lost cause. Do not spend more than 5 bucks on this.",0.9229685068130493,427,False
+949230,162773838,76561197969745429,"TLDR: Broken mess of a game.
+
+Simulation is broken.
+Radio stations are awful.
+Performance sucks.
+Rolling out DLC without fixing the game.
+Play CS1 instead, don't buy this travesty.",0.922326922416687,873,False
+949230,190371276,76561198007834289,"This game is still a [b] disaster [/b] after a year and a half, If you're interested, it's March 2025, the game is still not optimized, lags are starting at 40k population
+AI is dumb, despite the promises of the developers, they will never find the best route to avoid traffic jams.
+The game is still not optimized.
+A broken economy.
+Broken death system, bodies will always grow, hearse will never be used at 100%
+Because of the stupid AI, emergency services will not be able to reach their destination in time, they will always take the longest route.
+Strange responses from a community manager who in August 2023 said, Don't criticize our developers and don't be toxic, otherwise we will stop answer you.
+[h2] No Steam Workshop [/h2]   We have a Paradox Mods inside the game, and you know what? The mod community is dead, no beautiful buildings that we had in CS 1, no fixes to AI from modders ~NOTHING~
+Less than a year later after ""realease"" , Paradox tried to sell the DLC, but failed.
+Instead of Patches, they give us Region Packs. thx bro 
+This is a huge disappointment, [h1] Don't buy it!!! [/h1] better buy CS 1, Huge mod community and more polished",0.9215720295906067,1054,False
+949230,229026092,76561198007711780,"Let me be upfront: when Cities Skylines II launched in October 2023, I was deeply disappointed. Not just as a fan of the original, but as someone who felt genuinely let down by the people responsible for bringing it to market. Two and a half years on, with Iceflake Studios now at the helm, I find myself in the surprising position of writing something I didn't think I'd be able to say for a long time — this game is finally worthy of the Cities Skylines name.
+
+But before we get to the good news, let's talk about accountability. In the week before release, Colossal Order themselves acknowledged that the game's performance may not be up to expectations at launch. And yet Paradox Interactive, as publisher, pushed it out the door anyway. Yes, Colossal Order must share some of the blame — they built the game and the technical shortcomings were real. But the decision to ship a product that its own creators flagged as not ready sits squarely with Paradox. Publishers control the money, the marketing, and ultimately the release date. That responsibility cannot be dodged.
+
+After two years of painful patches and failed DLC, Colossal Order and Paradox parted ways, with Iceflake Studios stepping in to take over all development. Iceflake have since delivered a UI overhaul, improved terraforming tools, better lighting, more distinct weather systems across maps, and community-friendly ""legacy toggles"" letting us choose which simulation changes they adopt. Steam reviews and statements from the major players noticeably changed for the better, and for the first time since launch the game genuinely feels like it has momentum behind it.
+
+Is it a perfect game? Not yet. But for the first time I believe Cities Skylines II has earned its place as a true successor to the original. Iceflake have been making all the right noises and have backed this up with a couple of excellent patches - and I'm watching with considerably more optimism than I had two years ago and look forward to what Iceflake might being to the game in the future.",0.9204944968223572,175,True
+949230,156075470,76561198007509704,"To be upfront, I have only reviewed this game now due to their first press release of the year. I have complaints with the game  in general itself among other things, but the biggest thing I cannot excuse is how the devs repaid their loyal customers. CS1 was a near masterpiece and outside of good game development, the devs were loyal and friendly to their customers. CS was the only game I can think of for a long time where buying DLC, while costly at times, was hardly a second thought because it both added content and was repayment for how much respect we as customers had for them.
+
+CS2 totally flatfaced most of us. I bought CS2 not too early after release and expected what something between what was written about it and what I saw in CS1. I quit playing 10 minutes in when my graphics were all over the place, didn't work half the time, and when they did I felt like they stepped down considerably from CS1. After a number of updates I played again after hearing it's better quality wise. My honest opinion on CS2 is it's not only unfinished in many areas, but in places the game has taken a one step forward, two steps back approach. Like special industrial zones changing and how they did was nice, but it felt off the mark in other places like with how unnatural the zones are and how not many people can even occupy that site as a job. And of course CS is a traffic heavy game, but CS2 traffic AI is beyond broken as even with perfect road design you will always see cars paralyzed by excessive yielding and cars wanting to turn into a turning lane so they can turn out of it at the next traffic light - and god help you if you don't yield to their wanton desires.
+
+Overall there's a lot of stuff that should be in the game that isn't, stuff from the old game that should be (like what happened to designing intersections with stop signs?!) in the game, and buggy issues that have yet to be fixed. And with a game so close to modders, you'd think day one there'd be mod support. There are mods right now that could be here on Steam, that have fixed a lot of the issues mentioned, but aren't here because the devs have spent their time doing whatever it is.
+
+At the end of the day I can at least move on and forgive knowing these devs since their track record with CS1 was great. But since CS2 the devs have seriously not only let down their fans but outright betrayed them. And now they've gone full out blame-game by accusing the fans - their loyal customers - of being toxic. They suggest just making honest critiques and making suggestions but then ban or delete anyone who makes them in the game's related forums for being toxic. I was originally waiting to see if they would fix more with the game before I left a review of any kind, but after seeing this latest toxicity accusation against us, I decided to join others who've left negative reviews in order to show the devs we don't appreciate being missled and gaslit about a game they should have had no issue releasing in the first place. I will only swap my recommendation if they apologize and fix the game seriously from now on. Until then I will continue to play since I have the game, but I will not buy anything else from this devs like DLC until they change their ways.",0.9197854399681091,549,False
+949230,173953297,76561198408369252,"so after  over 400 hours, and 50 hours since last update, i'm furious with this game. i've never seen so many different unrelated glitches in one game. i never leave reviews, but i had to get this off my chest. the longer you play on the same map, the more glitches appear, which is so frustrating, i spend hours and hours working on one single city, and by the time i get to a population of 100k, the entire city is so broken it becomes unplayable. things that were working fine when i started a map, start breaking, the land itself starts glitching, a wall of dirt will appear around your city, the buildings wont level up. the ocean level will magically jump 10 feet, flooding anything close to the water. when i say its a broken game i mean its broken.",0.9190224409103394,418,False
+949230,177024877,76561198011392491,"One year later and the game is still missing integral features that were literally promised in the promotional material. The economy still doesn't actually function, meaning you will not see goods from your industries travel across your town; everything just teleports as needed.
+
+Your finances make no sense because somehow you just get more money but cannot figure out where it is coming from, resulting in there being no way to fail. It's also great to see their CEO literally _lie_ about features of the game before release, and then _blame the customers_ when the reception to their half-baked pile of shit is poor.
+
+This game is not only bad, it's literal consumer fraud. Colossal Order have burned to ashes whatever positive sentiment I once held for them.
+
+UPDATE: I decided to try the game again after 2 years to see how things have improved. It crashed in the first 5 minutes. Unreal.",0.9187105298042297,392,False
+949230,153630770,76561198114404278,"There's two directions I can take this review. One is ""I recommend, but ..."" and the other is ""I don't recommend, however ..."", and they're both probably going to say the same things. Strap in, and grab a cup of hot chocolate, daddy's gonna tell stories again:
+
+If I compare my experience playing the first game on release to this one on release, this one is much, much better. But how?
+
+The original Cities: Skylines was a relief from the crushed dreams of SimCity fans. It came in as the rightful conqueror of the city building genre, and built a huge community of gamers, designers and modders that have influenced the growth of the game since. It refined the SimCity style beyond expectations, it broke the gridded city building style, it introduced gamers to urban design and planning ideas that they have never thought of before, and a whole sub-genre of urbanist YouTubers rose up from this. However, when you compare the two vanilla games, without the mods and DLC and hundred of YouTube content creators, the first game is great, but a bit empty. It didn't start with a day-night cycle, that was added in After Dark. It didn't start with many of the best transit options, they came in later DLCs. Inland water treatment plants didn't exist until 2020 with Sunset Harbor.
+
+Cities: Skylines 2 starts with everything that the base game should have. It doesn't only have a day-night cycle, it has seasons. It doesn't just have different zoning densities, it has mixed use zones. You don't just place down industry building and print money, the game has a diversified economy, hearkening back to SimCity2000 when you could individually manage tax rates for different industries, but here you can do that to the entire economy. You can encourage and develop an economy based on retail and services, or primary industries, or manufacturing of any kind. You don't just have buses, trains and planes, you have the option to use taxis, buses, trains, trams, subway metros, planes and boats to transport your people and cargo outside cars and trucks. To build the city you don't just lay down roads, you can plan curves and bends and intersections using the various feedback that it gives you, create clean interchanges and intersections, and use a variety of tools to limit turns and eliminate traffic conflicts. You can even obverse traffic accidents affect your roads and disasters affect the city, pollution affecting the environment and a myriad other things that you didn't even think of when the original was released in 2015.
+
+Compared to that, yeah, no questions.
+
+So why is everyone saying ""Yes, but ...""?
+
+I won't repeat it in detail, you've already read the other reviews. Basically, expectations for the game's performance and delivery were misaligned between the developers, the publishers and the consumers. Performance issues were a huge problem right off the bat because most people do not have systems that meet the requirements of the game, but the developers have been tasked with making the game suitable for console. Misaligned expectations. The game's economic system was too opaque to clearly understand what was going on, to the point that unsubstantiated rumours began spreading that the economy was fake (it's not). Feedback to the user was not adequate to completely understand what was going on, and many players assumed things were bugs when they were not. Misaligned expectations.
+
+However, the performance issues and opaque UI feedback aside, none of this was helped by the myriad of bugs that have since seen six major patches to clean up, with more work to come out after the Christmas holidays.
+
+Finally, to nail the point home about misaligned expectations: content. I came in to the original game in March 2015, right on release. I was with it the whole way through. I was there when the beacons were lit and Gondor called for aid. I didn't even bother using mods until 2019, because that's when they were interesting and mature enough to really make a difference in the game. By the time the Great Plague of 2020 hit, the original was primed to receive huge interest in the game. Content on the workshop exploded. YouTubers exploded. Everything exploded. It was wild! So when, in early 2023, the new game was announced, a host of gamers came in with huge content expectations and none of the context. YouTubers speculated on the most insane speculations, people were having meltdowns about the new engine staying on Unity instead of hopping over to Unreal Engine. Wild.
+
+And so on release, despite having literally been released with more tools and content than city builders have ever had, with all of the good ideas from everywhere in the broader community being incorporated into the base game, the chief criticism was a lack of content. The game felt empty. Grey (UK)! Gray (US)! Graey (WTF)! Critiques went from blasting CS1 for being too cartoony to blasting CS2 for being too realistic with its browns and concretes. At this point, I stopped listening to shameless and pointless, often contradictory criticism and looked for genuine concerns.
+
+These are easy to list:
+- the game is still in need of more performance fixes
+- the game's UI needs more obvious indicators of what's going on with underlying systems
+- the game is a resource H-O-G
+- tools still feel a bit unrefined
+- there are missing options that would make things so much nicer (props, prop tools, decorative tools, etc)
+- no mods at the moment, we want mods
+- no editors, no map editor, no asset editor, none of that yet
+- console version still needs to be released
+- the bug issues have delayed the Ultimate Edition's Q4 and Q1 DLC releases
+- there are still some major bugs that require further investigation
+
+To be frank, though, my stance is straightforward: bugs can be fixed, and these issues will be ironed out over time. The devs have repeatedly shown that they intend to see this through.
+
+So yes, ""I recommend, but ..."", be mindful of the things that are still to be fixed, and you may enjoy the game. ""I don't recommend, however ..."", set your expectations appropriately and you will realise this game has enormous potential to be the definitive game of the city simulation genre. The first game rightfully conquered the crown. This one will keep it, even it has to fight for it.",0.9686799645423889,4404,True
+949230,149097733,76561197998739866,"REVIEW UPDATE:
+I am now at 85 hours. After learning the mechanics of how the simulations work, I will admit my original review is influenced by not fully understanding some mechanics. For instance, the constant low density residential demand.
+
+Aside from bugs rendering whole chunks of the game broken, such as trade and garbage bugs, after 85 hours the biggest issues I have with this game are two-fold:
+1. An extreme lack of content. Building (and farm) diversity is extremely lacking. I suspect content will be DLC'ed to hell, which I strongly oppose Paradox's DLC strategy of removing content to the bare bones and then selling it to players later.
+
+2. Design decisions that just simply don't work, or don't make sense. For instance, pegging ""wealth"" to ""education level"". Wealth should be pegged to career instead. How off map city services function also doesn't really work. They work against the principle of building a healthy, functioning city. If you lack a service, it doesn't negatively impact your game, except that sims have a little less wealth as they pay for the off map service. But that's easily countered by cheaper taxes. Standard genre features like the RCI meter work differently to all previous city builders. Instead of showing what to build for a healthy city, CS2 RCI meter shows what the city wants (which most likely doesn't result in a healthy city). Design changes away from genre standards are fine, just make sure to include in game ways to let the player know what the change is from the genre standard.
+
+Anyways, after 85 hours my final conclusion stands. I cannot recommend Cities Skylines 2. Aside from performance and bugs, the game has very little content, and has design decisions that don't work, or don't make sense.
+
+----
+ORIGINAL REVIEW:
+I tried to like CS2, I really did. I can ignore the performance issues and bugs, as these are things I see being fixed over the short term with some patches in optimisation. However, there are much bigger issues that you need to be aware of. The numerous simulations in the game have such foundational flaws in them, that I believe this game is the most fake city builder of them all.
+
+This game is marketed as ""the most realistic city builder ever"", with multiple levels of simulation in the city, sims, economy, services, and traffic. Unfortunately, there are huge flaws in each are of the simulation.
+
+After 20+ hours playing, aside from the known performance problems (which I've mitigated by running the game at lower gfx than I should be), these are the biggest issues I see:
+
+- The economy is broken. Goods in your city aren't actually traded. Import/export don't actually do anything, so trucks deliver goods to your stores and train stations, ports, and airports, but the transportation networks never pick it up to deliver off map. Industry, commercial and residential don't use your produced goods. There is no cargo traffic in your city, because there is no simulation of producing goods, transporting them to your shops, and then sims buying those goods. It's all completely fake. Colossal Order have confirmed this on Paradox forums.
+
+- The progression system is broken, just place a tourist trap and bulldoze it, repeat over and over. Level 20 without doing anything. Progression is not linked to population, just ""XP"" gained from placing stuff. Thing is, it doesn't remove the XP if you bulldoze straight away. As a result you can have a ""Flourishing Metropolis"" with 50 people. Each main step should have a population limit. IE: town 10k, city 50k, metropolis 100k or something.
+
+- Most people don't actually go to work, kids don't go to school, people don't shop. You can track individual sims. When you follow them, they actually don't go to work. They will get in their cars, or walk to the tram or whatever, jump on, and then do a circuit back home. Or they'll arrive at work and get straight back onto transport again to come home. Kids do not leave the house. They will stay in their homes, not going to school. The whole rush hour thing is a joke. Basically, the sims simulation is..... fake. And this is the big ticket item that this game is sold on. A simulation of each individual sim, going about their world, doing what the do. Living, growing, prospering, dieing. All faked.
+
+- The city only ever demands low density housing, never anything else. City of 50k, with very little office demand. Always, low density residential will be 100% demand. You can even buy 20 tiles, do a massive grid of low density residential, it'll all pop into existence and demand will still be 100%.
+
+- You don't need to build any city services, it all comes in really cheaply from off map. It's cheaper to import all services, than to build the services yourself and pay for maintenance. The only exception seems to be power and water. You can export power and water for enormous profits.
+
+- Maintenance and expansion is not balanced at all. For some buildings it's cheaper per unit to build a new one, and some are cheaper to just expand. For instance water pump: $10,000 to build 100,000 unit pump, and $7,000 to expand one an extra 50,000 units. Cheaper to make a new one there.
+
+- The traffic AI is just absolutely stupid and retarded. I couldn't think the traffic AI could be worse than CS1, but they actually managed to do it. Cars will do u-turns in the middle of a highway. Cars will stop in the middle of the road, jump across 3 lanes causing a big traffic jam, just to reach a left-hand turn they go straight through instead. Opposing carriage turns (ie: right from left side drive, left from right side drive) will not wait till the approaching through traffic is clear. They will turn like it's the middle of Delhi and cause a huge accident or traffic jam.
+
+- The economy is extremely frustrating. There are no small-town service buildings, so to cater for your citizen demands you need to build service buildings priced for cities much larger than what you have. This results in grinding your city's economy into the ground. The only way around this is to largely ignore city services until at least 25k population when your tax revenue is starting to be enough to pay for these demanded services. All the while the annoying bird, building icons, and radio announcements will continue harping on about all these citizen demands. On the flip side, electricity and water exports are priced so out of balance, that building a few extra coal power plants and water pumps, and exporting every single piece of it, will have you swimming in money.
+
+- The whole off map servicing of your citizens is quite simply extremely flawed at it's foundations. When you utilise off map services, the price of those services do not adjust to cater for the simple economic principle of supply and demand. You can pump as much electricity to the off map as you can, and the game will continue to give you the same high price for each MWh. Same with importing off map services. Using off map fire services will remain the extremely cheap price no matter how many fires they have to come and put out.
+
+- The garbage system is totally cactus. Your incinerators will go get garbage from off map to burn, rather than burning your own. Your landfill fills up, your buildings fill up, and stupidly off map garbage trucks come and get your rubbish. The only way to get around this is to build huge landfills, and once they are full just bulldoze it. Poof, all garbage gone. Since incinerators don't collect your garbage from landfills, as it's cheaper for them to drive off map and get it there, it's the only way to process landfill.
+
+TL:DR - Optimisation issues aside, there are MAJOR flaws in each of the game's simulations. The entire game presents a facade, layered on top of fancy marketing speak. I think in reality, this game is the most fake city builder out of any of the top-tier city builders in the 30+ years I've been playing city builders. Ultimately, I do not see how Colossal Order/Paradox proceed from here.",0.9184635877609253,6324,False
+949230,162086856,76561198097996558,"Generally speaking I don't like to do reviews, I know they're beneficial for the community and they help buyers decide, but return policies exist for a reason, and that reason is so that people can try it, decide if they like it on their own, and then return it.  That being said, when something is in such a state of horror that it defies logic, I think it's my duty to save you, the reader, from making the same mistake I did...
+
+I have been playing City Builder games since before a lot of you were born, I started with the first Sim City in 1989 and have been an avid fan of the genre ever since.  I love how the genre evolved over time and the games became more complex and at the same time more rewarding.  It's my idea of a perfect Saturday afternoon, sitting down, listening to some chill music, and watching as my planning unfolds into this megalopolis that was in my head.  I love it so much that I had even started my 4-year-old daughter down the path by having her sit with me and picking and choosing where we placed certain things in Cities Skylines 1 and showing her how the different mods worked..
+
+When I saw the advertisements for Cities Skylines 2 I foamed at the mouth with excitement, and my daughter was over the moon that we were going to get a new, better game that promised many more hours of enjoyment.  We decided to purchase the top package that guaranteed us the most bang for our buck and the not yet released but announced DLCs that would add stuff as we started a new city together.  We stayed home on game release day to make sure we were among the first to download and start building our new shiny city together.  Much to our dismay however, the game was slow, clunky and basically unplayable on a Threadripper 3960X w/ 128GB Of DDR4 and 2x RTX 3090's.  We were sad to say the least, but we still had hope.  
+
+People started sharing settings, then official announcements came with other settings, and we finally stopped having 13fps and got it up to 30fps.  So it was playable, right?  Well, not really.  There was still massive stutter from time to time, especially when inside of game menus... I mean, they're menus, why on earth are they causing the FPS to plummet and dropping dozens of frames?  It was, and still is so bad, that it randomly causes the USB to reset and the famous Windows chimes that tell you when a USB has disconnected, and reconnected play through the speakers.  And then a patch was announced that promised to fix some of the biggest problems with performance, so we stayed home again, only to be let down once again.  There was maybe a 5 percent performance increase overall, and the menu's were still causing massive game lag.  CO admitted fault and released patch after patch after patch in quick succession, that we were overjoyed that soon we would get to be able to enjoy the game...   But that time never came...  
+
+CO stopped patching, but promised that they would not release any of the DLC and more paid content until they got the base game right, because that is what was most important to them...  Another promise... another let down...  Now, not only did they release a paid DLC before fixing the game, they had to gall to charge $9.99 for it.  Bear in mind here, I paid for the deluxe edition, so it was ""free"" for me, but it also let me know how much extra I would really be getting for the extra money I spent, and it doesn't seem like much... 
+
+If I had one piece of advice for anyone looking to buy this game in its current state, it would be to run, very fast, in the opposite direction of your computer screen...  I cannot n good conscience recommend that anyone buy this game.  Instead, take your family out for a dinner, go see a movie, go spend your money on anything else, just don't buy this game.  I would recommend spending the night in a trap house or a shooting gallery before I would recommend you purchase this game...
+
+So thanks Colossal Order, for not only stealing my money, but also disappointing my daughter...  Shame on you and Paradox interactive for releasing such a steaming pile of garbage...",0.9657103419303894,1789,False
+949230,212516785,76561198078209996,"I feel ripped off. The only thing that is keeping this game marginally playable is mods, the bulk of my 600 hours of fighting this game to work.
+
+No one is paying the community modders to fix their game, yet two selected mod authors create content and this company goes ahead and throws the userbase over a cliff by charging over and above the ULTIMATE EDITION OF THE GAME that is already $120.
+
+This company is cooked. Do not buy. Other games deserve your money.",0.9152727723121643,356,False
+949230,203090135,76561198024446286,"I tried, I really did. 
+Civ 2 has been massively flawed from the beginning, but the last update broke me: how can a gaming company release an update that doesn't work and then expect the users to fix it themselves? I for one am not tech savvy at all, I play for fun. 
+I will uninstall the game, give it a few years and then hopefully Colossal Order has gotten their act together and delivered what they promised and what WE paid for.
+
+Never again will I buy a game on launch day, never again will I pre-order a game. Cities Skylines 2 has just broken my trust in developers. To release a broken game on launch day and 2 years later it is still flawed is a slap in the face to all the fans of the series.",0.9136982560157776,280,False
+949230,161524576,76561198047312705,"Still trying to find the good in this game... but every now and then some bugs, glitches, crashes, something is always wrong. 
+
+I'm a huge fan of Cities 1 + 2 but I simply can't anymore :-( I'm going to code my own Cities soon I guess. Any artist to join me? :D
+
+PS: This was my last pre-oreder ever. At least something positive came out of this game.",0.913375973701477,352,False
+949230,174951039,76561198031178807,"[b]I wouldn't say ""don't buy this game"": I just wish I hadn't bought it so that I could still enjoy CS1.[/b]
+
+It's been a year since the turbulent release and except for resolved the critical bugs, the game is still not on-par compared to the first game's quality and content.
+
+With regular crashes-to-desktops and game-simulation speed grinding down to a halt after 150K-200K population; 
+
+[b]there is no point in being creative[/b] (you're already unable to, since there isn't much content to suit your narrative yet)
+[b]there is no point in being expansive[/b] (because after some point, each simulation minute takes five minutes)
+[b]there is no point in discovering[/b] (because you cannot spend your skill points without an either-or question, it's never both unless you play with 'everything unlocked')
+
+There [u]are[/u] improvements to the first game, such as mixed-zoning and road-building --which I'm also angry about because now I can't go back to the first game after getting used to the comfort of these newer mechanics.
+
+I'm in such a state that I can play neither the first nor the second game with actual enjoyment.
+",0.9129965901374817,306,False
+949230,190555071,76561198125159369,Love the fact i Spent over 100 dollars on a single video game to make sure i'd receive all post launch content. Just to be laughed at and asked to spend another 35 dollars not even a year an a half later. Deplorable greed is going to be the downfall of this glorified city painter. Id recommend just play SIM city. Im done supporting this trash company.,0.9124945402145386,643,False
+949230,178876442,76561198208326487,"CS2 has been out for over a year what we learned:
+
+It's in an incomplete state.
+the switch from steam workshop to Paradox mods has caused a crypto wallet stealing virus to be widely spread.
+They are sort of listening to fans but are ignoring a ton of community concerns and requests
+The other reviews cover the rest of the pros and cons of this game.",0.9123855829238892,1309,False
+949230,202487032,76561198073370605,"This would be the best city builder every made it they actually worked on it.
+
+Constant game play and graphical glitches, poor performance, and missing features that were promised two years ago.
+
+After two months of silence and constant delays for major fixes, the devs finally graced us with an update today that amounted to a new info chart and another promise that there will be fixes at some undisclosed time in the future. I have been optimistic for the future since launch but that update is the straw that finally broke my proverbial back.
+
+Do not buy this game. Perhaps in 2030 it will be amazing, but for now it is simply not worth the money.
+
+A shoutout to the poor souls who pre-ordered this game on console and are suffering indefinite delay.",0.911308228969574,233,False
+949230,225099159,76561198451101771,"I'll keep it very short. It's been years since release. Many features that didn't work when the half finished game was ""released"" have been fixed. That's good. 
+
+Sadly the good news ends here. 
+There is still plenty of bugs and the base game has been stripped to it's absolute minimum. It feels like playing vanilla City Skylines I all over again. 
+
+It is very sad that a game has to rely on the modding community just to make it playable. A big thank you to all the modders that invest their free time to do this. This is well is slowly being ruined by the companies greed. Moving away from the Steam Workshop to an internal modding platform centralises control over mods and adds the possibility that the company will be able to exert more legal leverage over modders free work.
+
+One of the best features from CS1, the industries DLC, has still not been implemented. Building manufacturer chains and specialized industry areas gave the game a modern ANNO feel and a welcome change from zoning the same random buildings over and over again. I don't want metal facilities next to my farm land. I want silos and manufacturing plants that make farming goods.
+
+As it stands CS2 is just a worse CS1 right now.
+The price has already dropped since I bought it and the game is on sale multiple times a year. I'm sure the price will drop even further if you wait longer. If you own CS1 - play that and if you don't have the industries DLC consider getting that instead. 
+If you own neither and want to get into city builders I am sorry to tell you that your best bet is to either get CS1 or wait. There are many new city builders from other companies in the making that look very promising. 
+
+I want to make clear that all my critique is about monetization strategies and rushed development. Do not direct your anger at the developers. 
+
+A final statement to the managers and CEO's that make these decisions: 
+Let's be very clear. CS1 costs about 400€ all DLC's included and even then the game is barely playable without any mods. CS2 is approaching the same price at a rapid pace with all the same issues. 
+You are constantly pushing developers to make more paid content while relying on modders to fix issues for free. The pricing model is exploitative and anti-consumer.",0.9106054902076721,242,False
+949230,207909695,76561198087701259,"Worst management and development ever. I waited 2 years, hoping the game would finally be fixed; but nothing changed. The last DLC, Bridges and Ports, is the final nail in the coffin. Still no Asset Editor. Paradox Mods was the biggest mistake; everything breaks constantly, and there are serious security issues.
+
+The community? Completely ignorant. No one dares to say “CO, fix your sh*t.” Their website is a joke! You can’t criticize anything without getting banned or blocked instantly. Saying “we listen to the community” while silencing them won’t help you.
+
+This company just wants a nice, obedient fanbase that buys every DLC and makes mods to save their broken-a*s game. Paradox itself isn’t any better; worst CEO, worst management. Almost every game they publish is falling apart.
+
+Current state: 4/10. Only giving that much because mods somehow still make it playable, even though almost everything is broken. Also if you didn't buy the Ultimate Edition in the first place, 20 bucks for Bridges and Ports DLC??? What? We waited this long, and this is the price you came up with? Even though you guys delayed it so many times! 
+
+You know what? I’m dropping it to 3/10! F*** you, CO. F*** you, Paradox. You’ve managed to disappoint everyone who actually cared about this game.",0.9101672768592834,780,False
+949230,177184040,76561198076309693,"If you've never played a Cities game play CS1, then with DLC, then with mods first. Come to this if you're a fan of that and want a graphical update, economy, and gameplay change. However, despite this CS1 will always be better for a long time. That is solely because of the amount of time updates, DLC, and mods have flooded into the community.
+Each fix of CS2 is a step towards the right direction but it doesn't overshadow the fact that the launch was very disappointing. It should never be standard in the industry. 
+
+Performance and stability has improved since launch for me. Pretty playable and the essential mods from CS1 are here.
+It's also a very pretty game but CS2 is not without its flaws including some occasional crashes. Consistent updates will help but buyers beware. This game is a slow burn towards what it can become.
+
+Overall I would say this is a cautiously positive 6/10
+",0.907120943069458,278,True
+949230,166501755,76561198182566162,"I have almost 1200 hours in CS1. I bought it the day it came out and played on and off religiously for almost 10 years. Yes, it was nearly the perfect city builder at launch and was only consistently made better by the modding community.
+
+I was absolute overjoyed when I saw the release trailer for CS2, so much so I took a vacation day so I would be able to dedicate the entire day to playing it when it launched.
+
+Leading up to launch day I ignored the early access reviews and kept telling myself its just nonsense. Launch day comes and I was heartbroken. Poorly optimized, no mod support, no map editor, almost no changes that were promised were working, and the game was nearly unplayable due to crashing and freezing. I still held off on giving a poor review.
+
+8 months later I see that mod support and map editing are in beta, and that the game has been optimized better. I re-download the game and hop in and things look promising. Load into a new game and the moment i go to lay my first road the game crashes. Just completely disappears off my screen. Load back in, new map downloaded from the mod store and it loads in completely dark, no UI anywhere and I couldnt even exit the game because the escape key wouldnt open the menu.
+
+Alt+F4 and uninstalled again. I have 1.1 hours in this game and about 45 minutes of that was browsing the mod store. I can't even being to explain how disappointed and saddened i am over this. I have less and less time to dedicate to gaming now that i am approaching my 40s and CS was ALWAYS the game i could hop into and know i could relax and enjoy. It seems i cant even lay a single road almost a year into launch for a game i paid full price for.
+
+Shame on Colossal Order, i am so disappointed.",0.9068166017532349,1036,False
+949230,225789770,76561199180978699,"the mixed reviews are from the initial release, the game is a lot more refined and is very enjoyable to play. It still has issues, but the new studio is putting in more effort to optimize the game and make it a really good game. I highly recommend this one over the first game if you can run it, as the QOL features are a must have and make the game 10x more enjoyable. 
+I wouldn't buy the game full price, but on sale it's very much so worth it.",0.9043691158294678,121,True
+949230,202084492,76561198141955859,Please do not buy this game. It is incomplete despite after 2 years of release.,0.9042633175849915,334,False
+949230,183690450,76561197997462306,"Well, after almost 100 Hours, guess it's Review time...
+
+First, I bought the Ultimate Edition when the game came out, over a year ago by now...in hindsight I shouldn't have done that. But as we all know, hindsight is 20/20…
+
+The Release was awful, dare I say, one of the worst states a game came out I have every personally seen. This game should have NEVER been released in the form it was. I generally like Paradox, I played a lot of their games, some way too much. Same with Colossal, I have over 500 Hours in Cities Skylines 1, but the way this was released, to be frank, I should have refunded it.
+
+Even though all this was bad, you could say terrible, at least Colossal Order communicated with the community, though to be clear, it doesn't change the fact that this should have never been sold as a full price game, because the initial release was more like an alpha test.
+
+I checked every time there was an update and yes they did their best to update it as fast as possible, fixing bugs, improving performance. After 1 or 2 months or so it was playable, performance wise, but the economy was kind of broken.
+
+After a while I lost interest in the game, without modding, the game was dead for me, a waste of €90.
+
+I checked again when FINALLY modding came, Paradox's own ""Workshop"" came, Paradox Mods for CS2. But finding out that ""for now"" we will only have code mods, so no new Buildings made by the community to enhance the game to where CS1 was at that time, was a bummer. In hopes that that would come soon, I gave it a chance. But soon was not so soon...
+
+I lost Interest again and didn't play the game for half a year. To this day, 25th, December 2024, we still don't have close to what came for CS1 over the years. Now one could say with the region packs there is something and I want to thank all the people involved in those for what they made. But why don't we have building mods the way we had them in CS1?
+
+To be frank, I lost hope for this game, I wish this will become what CS1 became, but my gut feeling is that this game is more or less written off as a loss, never to be finished the way it was meant to be in the devs minds. I wish, and I want to be wrong about that. But my gut tells me otherwise  
+
+And that's why, for me, for now, I can't recommend buying this game. After over a Year, it is still in a State that feel horrible and I personally have to say, from now on I will be careful with buying Ultimate Editions of games from Paradox, before CS2 they had that trust, that many others lost already, with this they lost that. What a disappointment. 
+
+If any of the developers read this. I am sorry, but you probably know as much, if not better, that this should have never been released the way it was. I personally, as a customer, rather wait longer for a product and get a product that is in good shape, then getting what we got. To compare it with something. This release felt like I just bought a car, without Engine, with the promise that that will be delivered soon, and it was just not in stock. Without a steering Wheel and doors.",0.9031263589859009,322,False
+949230,156564590,76561198161070687,"[b]Cities Skylines II[/b] was a very long-awaited sequel to the most famous [url=https://store.steampowered.com/app/255710/Cities_Skylines/]Cities Skylines I[/url].
+
+[h1]What went wrong?[/h1]
+
+Turns out - [u]Everything[/u]
+Let's go over some simpler aspects of why this game failed at launch.
+
+[olist]
+[*]Having multiple ""Editions"" of the base game.
+Now, of course, I am not saying that this is a bad thing. If one really wants to support his favorite developer - he can freely do so, by buying a higher ""Edition"" of a game. The problem came with the rewards - [b]At the time of writing this review, people that have ordered said ""Editions"", have NOT yet received their rewards.[/b]
+Whenever you offer your game for multiple prices, people have a set [u]expectation[/u] that you, as a developer, must match. This was not shown by Colossal Order whatsoever.
+
+[*]The game was announced in the March, and released in [b]October[/b] of the same year.
+Of course, some game companies tend to work on sequels undercover, and announce them only after they deem it ""up to their standards"". [i]This was not the case for Cities Skylines II.[/i] At launch - it was [b]VERY, and I mean VERY[/b] ""optimised"". I am gaming on 64GB of RAM and a 3070 Alongside a Intel i7-10700k, which is a pretty solid build. Result? Average of about 20-30 FPS on Medium graphic settings on a settlement with about 15k people. To also add salt on to the wound - game would frequently crash. I am talking consistent crashes every 15-20 minutes.
+
+[*]Not being able to receive backlash for a very bad release of the game.
+If you were like most, and were of course, not satisfied with the release of the game in such a state, you would try to go and say it on the forums, write reviews, and ask developers questions as to how the fuck it is possible to release this junk. What you receive? A mute. Maybe a temporary ban for the time being for ""Harassing"" the developers.
+Now, I understand we are human, and being human means making mistakes. BUT WHAT THE FUCK?! You release a very, [b]VERY[/b] underbaked game, and then you decide to call everyone who doesn't like this garbage as ""Harassers"" and ""Demoralisers"".
+
+[*]Mods.
+Or - lack thereof. Recently read a post from OC. It's the 9th OC post, and inside, and I quote - 
+[quote=Colossal Order Ltd.]Public Beta version of code modding and Paradox Mods will be available in the live build by the end of March.
+Public Beta version of Map editing available in the live build together with code modding or soon after.
+Public Beta version of Asset editing to be announced, only after the technical issues are sorted can we roll out the tool.[/quote]
+...
+So, let me get this straight. You release a half-baked game ... With no modding support ... Until a year later ...?
+And of course, people got mad. Rightfully so.
+
+[*]Problems. Bugs. And many core features missing.
+Of course, of course! What did you expect?? A Paradox game having a good launch?! Phaha! Don't make me laugh, both of us know that this will persist, until Colossal Order will start making [b]DLC's[/b], which not only paywall the original core features, but also do the damned bug fixes.
+[/olist]
+
+[h1]Final Review[/h1]
+
+At the state the game is currently - I doubt it is worth your time. You could spend the time you have on something more useful, or a game that is more fun. If you [b]really[/b] enjoy city-builders, and want to do something in them, then you can buy this game.
+
+My review? About [i]3.5 out of 10[/i].
+If you want to buy it, wait for a sale. Presumably a 50 or 60% off. As I do not think you are getting your money's worth at the time of me writing this.",0.9019882678985596,631,False
+949230,191009754,76561198012626110,"I've waited a long time to write this maybe because, while I don't have a full understanding how game development works, I do appreciate the time it takes to produce something like this. But I think I'm at the point where I'm done. I pre-purchased the base edition and ""played"" during launch week, if you want to call it that. I completely understood launch issues and even the fact, many weeks afterward, that they were rushed to get this game out. By this point, not much has changed. I have 2 main issues that I just can't get over.
+
+1. I realize this an extreme personal preference but the idea that we cannot get more pre-made intersection and interchange assets, even if by community modders, kills a lot of enjoyment for me. Call it lack of creativity or intelligence, but I'd rather worry about the layout of the city and not trying to find ways to make a kindergarten level highway interchange for myself. Something the first game did wonderfully in my view. 
+
+2. This is much more general of a complaint that my first issue kinda ties into. I keep asking myself, ""What have I gained by playing Cities Skylines 2 instead of the first game?"" Some people would have to point this out to me because, with my play-style, I can't think of much. Defiantly not enough to warrant the money, time, and patience I've put into this game.
+
+I have come to the conclusion that I am no longer going to put any more hope into this game. I feel I've waited long enough and with all respect to the devs, I will uninstall this one and just go back to the first one. Maybe even continue to buy DLC's for it. But I refuse to put anymore faith in a game that is, essentially, a worse quality version of it's previous game. I would honestly love a refund for this game. I would maybe even use the refund to put back into DLC's for the first Cities. But fat chance of that by now. 
+
+I want to make it clear that I've been on steam for close to 15 years and I've rarely....RARELY left a bad review. Even when a game was absolute garbage. I would just uninstall and chalk it up as a loss. But this is different. I vividly remember when the first Cities came out and it was a godsend. Sim City had gone so far downhill that I commented to my wife, ""This is what the new Sim City should have been!"" Unfortunately, it only took Cities one game cycle for it to fall into the same hole. One could ask, ""What happened?"" Or  worse off, ""What's happening,"" since it hasn't gotten much past the point of, ""At least it runs...kind of.""
+
+Conclusion, and it saddens my heart to say it, but if you're considering buying this game...just don't. Not even on sale. Buy the first one and save yourself the trouble and actually have some fun.",0.9009907245635986,255,False
+949230,235766413,76561198223721588,"Glad Ice flake is making improvements and adding content. But the game felt unfinished for a while and now all the ""extra content"" is paid. So what did i pay for originally? would be nice to see free content out side of basic mechanics being fixed",0.8987393379211426,397,False
+949230,197827393,76561198046138485,"It pains me to give this game a negative rating as I have been a huge fan of the franchise since 2015. I have more than 9,000 hours in Cities 1, and was extensively modded. 
+Cities 2 has its charms and scant strong points, but are overshadowed by its plethora of failings and shortcomings. It's such a massive disappointment. 
+2 years in:
+- No Steam Workshop modding support.
+- No finished asset creator for modders.
+- No bicycles in the traffic simulation.
+- No monorail.
+- Not able to roll back game version.
+- Every time Colossal Order updates the game, they cause game-breaking crashes and freezes. This latest patch caused a critical error right in the start menu. Since you cannot access the game mods without access to the main menu, you have to play 4D chess with your own game to make it run again.
+In Cities 1, you were able to go into the Steam Workshop and disable the broken mods after every patch, then enable them again after the modders fixed it. It took time troubleshooting, but you could still have a playable game.
+- The developer team is not responsive enough to update their game. They take multi-month long vacations at critical times and leave players to simmer in their unfinished mess. 
+
+At this point you would have a better experience playing Cities 1, or even Sim City 4 with mods.",0.8972821831703186,301,False
+949230,176134262,76561198832216254,"Unfortunately, I can't recommend this game at the moment (3/10). After 200 hours of trying to enjoy it, I’ve been disappointed by the lack of honesty from the developers. This version of the game is, at best, in a beta stage and feels like an insult to the many fans of the first game. Numerous features are missing, and we all know why: they’ll be sold as DLC, just to squeeze more money out of us.
+
+Update January 16:
+The free addition of Creator Packs brings renewed appeal to the game and enhances diversity in city creation. This is a step in the right direction, but there is still much to be done.
+
+Update June 11:
+Im done with this game. Just don't buy it. Disapointments on disapointments...",0.8960762023925781,365,False
+949230,231274837,76561198050256843,"Honestly, not a bad game. But if you have CS1 with all the packs, just stick with that. I was really looking forward to CS2 but the base game lacks the same experience as CS1, and you have to purchase a bunch of add-ons just to get to the same level of game experience as CS1, and the add-on are terrible in comparison to the previous version. Airports and industry were my favourite things to create and manage but that level of detail is missing in CS2.",0.8951021432876587,244,False
+949230,211118880,76561198141974483,"More of a village skyline... I didn't like the cartoonish look of the first game so I was pretty happy to see a more realistic look for the sequel and I gave it a try. Basically the game looks great and allows you to build detailed  and complex infrastructure. The regional packs, unlike the DLCs, offer generally good looking buildings and are free. However, the game has one big issue that makes it unplayable after your city will grow a bit. The devs wanted to simulate every citizen and their dog in the game, with name, family relations, address, work place, commute routes etc., etc. While this might sound good on paper, it makes the game come to a halt when the city population grows to a substantial number. No matter what commercially available CPU you have, it will happen sooner or later. Forget about building anything larger than a small town or filling the map. The problem could be fixed by allowing us to build decorative, unpopulated buildings or by changing the crazy level of simulation that nobody needs in a city builder, but the team is busy throwing up expensive and unnecessary expansions packs instead of making the game work. There might be mods out there fixing this issue, but I still cannot recommend a game that doesn't work ""out of the box"".",0.8945314884185791,229,False
+949230,177659738,76561199789670744,Just finished playing 99 hours and I love this game. This is my FIRST computer game (I'm old) and I'm truly enjoying my time in Cities Skylines II and looking forward to what will be offered next.,0.8941107988357544,278,True
+949230,188885073,76561198263395573,"After eagerly anticipating the sequel to one of my favorite city builders, Cities Skylines 2 has been nothing but a disappointment. I pre-ordered the maximum version, investing significantly in what I hoped would be an amazing follow-up, but my excitement quickly turned to frustration.
+
+The gameplay and economy have been simplified to the point of being uninteresting. Where the original game offered depth and strategic challenge, the sequel presents shallow mechanics that fail to engage long-term players. Most frustrating is that the DLC strategy focuses entirely on cosmetic additions rather than expanding gameplay with meaningful functional elements. 
+
+Also game not received the Ukrainian language support, which feels like an oversight given the global nature of the player base.
+
+Technical issues have plagued the game since launch, with numerous bugs remaining unfixed for over a year. The developers seem more interested in pushing out visual DLC than addressing these fundamental problems.
+
+The final straw came when the game crashed during a save operation. Upon restarting, I discovered all my save files were corrupted and completely unrecoverable - dozens of hours of careful city planning and building completely erased in an instant. This level of instability is simply unacceptable for a full-priced game with paid DLC.
+
+I cannot recommend Cities Skylines 2 in its current state, especially to fans of the original. Wait for significant patches or deep discounts before considering this disappointing sequel.",0.8910009860992432,460,False
+949230,160638912,76561198094289760,release workshop so modders can fix your game ffs! it is clear you want to farm dlc first.,0.8895471692085266,837,False
+949230,221015259,76561198406646494,"I've owned this game since release and always had mixed feelings about at.
+But I still enjoyed it enough that switching back to Cities Skylines 1 wasn't an option. 
+Cities Skylines 2 has so many great features that I miss when I go back to Cities Skylines 1.
+
+Obviously Cities Skylines 2 has some issues, but the game has massively improved over the years. (More assets, mod support, performance improvements, and bug fixes).
+There are still some issues that remain, but I haven't experienced any issues that are significant enough to not be able to enjoy the game.
+
+The game in its current state is very playable and enjoyable.
+And currently there is no city builder out there that offers the same range of features as Cities Skylines 2. Other city builders either provide less depth or are more focused on a specific aspect of city building.
+
+You do need a decent PC though, if you want to build a bigger city, so don't expect the game to run on a toaster.
+
+
+The new development studio (Iceflake) really seems to care about the game, has massively improved the communication, and is adding & fixing things players care about.
+
+Without Iceflake taking over, I probably wouldn't be writing this (positive) review right now. ❤️",0.8863875269889832,111,True
+949230,178222959,76561197984340693,"Cities: Skylines II is a promising game that has made significant improvements since its launch. However, it still falls short of its predecessor and the lofty expectations set by its developers.
+
+The recent security breach, where malicious code was uploaded through the mod system, is a major setback. This incident highlights a serious lack of oversight and raises concerns about the developers' competence.
+
+Given these issues, I have decided to uninstall the game. It's unfortunate to see such a potentially great game tarnished by poor development choices and security lapses.",0.8863650560379028,553,False
+949230,209367238,76561198189116769,"A Glimpse of the Future, Running on Hardware from the Future
+
+Review:
+
+There is a fine line between ""ambitious"" and ""hubristic,"" and Cities: Skylines II has built a beautiful, eight-lane superhighway directly over that line... which promptly leads to a 15-frame-per-second traffic jam.
+
+As the heir apparent to the undisputed champion of modern city-builders, CS:II had one job: to be CS:I but bigger, deeper, and better. It is, unequivocally, bigger. The ""deeper"" and ""better"" parts, however, seem tobe stuck in simulation-limbo, still waiting for a patch to load.
+
+The Performance: A PowerPoint Presentation with Good Intentions
+Let's address the elephant in the room—an elephant so large it has tanked the entire city's performance. This game is not ""unoptimized"" in the way we've come to expect. It is a work of technical audacity. It seems to believe that every player is running a dual-CPU quantum supercomputer cooled by liquid nitrogen.
+
+My rig, which can comfortably render parallel universes in other AAA titles, sputters, chokes, and begs for mercy at the mere sight of a medium-sized suburb. We were promised a deep simulation; what we received is the world's most demanding slideshow. The game is meticulously simulating the dental records of every citizen, the thread count of their bedsheets, and the existential dread of their cat, all while forgetting that the player needs to be able to move the camera smoothly.
+
+The ""Deep"" Simulation: A Puddle Pretending to be an Ocean
+The core promise was a revolutionary economic and citizen AI. We were told every ""cim"" would live a ""full life."" This, it turnses out, is technically true. They are born, they get a job (which they may or may not drive to), they mysteriously generate wealth despite the entire city's economy being on fire, and then they require a hearse... which may or may not arrive before the next ice age.
+
+The economy is a baffling magic show. Industries demand workers, but no one wants to work. You import... something... and export... something else... and your bank account either swells to the size of a small nation's GDP or collapses instantly. It's less ""complex economic simulation"" and more ""pulling a lever on a very confusing slot machine."" And the new land value mechanic? A fantastic way to ensure your entire population becomes homeless millionaires overnight.
+
+The Foundation Is Here (The Rest Is Sold Separately)
+Make no mistake, the bones of a masterpiece are here. The new road tools are (mostly) a dream. The scale is breathtaking. The potential for creation is vast.
+
+But that's the key word: potential.
+
+This feels like a game built for its next five years of DLC. So many features that were refined to perfection in the original—advanced transit management, specific industry controls, even basic landscaping props—are either missing, broken, or simplified to the point of being abstract art. It's a magnificent, sprawling, half-empty canvas.
+
+The Verdict:
+
+Cities: Skylines II is not a bad game. It is a fantastic game that is trapped inside an unfinished, unoptimized, and frankly, baffling piece of software. It is a blueprint for a 10/10 sequel that was shipped as a 5/10 reality.
+
+It has successfully captured the feeling of being a real-life city mayor: you have grand, beautiful plans, but you're constantly fighting a broken infrastructure, a nonsensical budget, and a population that seems to be operating on a different plane of existence.
+
+It’s an investment in a future promise, not a finished product. We were sold a metropolis; we received a construction site with a fantastic parking lot.",0.8839941024780273,296,False
+949230,163583527,76561198009935868,"I loved CS 1. For those of us who are not artistically inclined it provided a perfect sandbox to design & create. Truly, if you could imagine it, you could create it. I have (almost) as much fun ""shopping"" for mods as running the simulation (yes, unlike CS 2, CS 1 tries to be a simulation). It was the most unique and satisfying computer game (with the possible exception of KSP) I ever experienced.
+
+But it is time to face facts: CS 2 will NEVER be superior to CS 1. Why?
+
+First, it is not a true attempt at a simulation. The idea that if you cant supply your denizens that magic, invisible Amazon trucks will simple deliver what is needed is just an example. I'm sure there are other examples, but I have better things to do than pick apart the obviously rushed and half-baked work the designers did. What's the challenge of making a city both functional and beautiful if the simulation doesn't care?
+
+Second, this is an UGLY game. The muted colors, building designs, etc. are drab. The resource buildings (how farms and mines are laid) are downright hideous. No corn, wheat or barley fields laid out in a nice checkerboard like (with mods) you get in CS 1, but blobby patches with haphazard buildings strewn all over the place. Did these guys even bother to look at pictures of farms in Europe or the US?
+
+Third: Modding. It should have been a red alarm bell when modding was closed off behind the companies own platform. There really is only one reason for it. They are going to monetize the shit out of this product, and any modders (who are truly the simulation's heroes: King Leno et. al., you are tops!) are going to be frozen out. ""Oh, you have created 12 different palm trees? Well forget it. We are going to give them 4....and make 'em pay."" This will not change. They well make sure that ANY asset mod better than what they want to push down your gullet never sees the light of day. You stick with this simulation, hold on to your wallet, it's going to be a bumpy ride.
+
+The thing is, it all could have been so different. They could have easily put this thing together by bringing in the modders, paying for the IP they put in to the first game, intergrate it with better graphics and UI, leave it open on Steam to mod, and save all those content creators on You Tube who were either left twisting in the wind or shown to be shills for an inferior product.
+
+Instead they chose the AAA studio path. Put out an unfinished mess to save Q3 earnings. Make it as bland and broadly appealing as possible to get the fish hook in as many mouths as they could, and monetize the shit out of it. The word tragedy comes to mind.
+
+I don't write reviews often, and never negative ones. I'm not as CS hater. If you look at my review for CS 1 I practically gush.  But when you take a vibrant, engaging simulation, and a equally vibrant and engaging community supporting it, and destroy them, I have to call it out for what it is: An example of sloth, crassness, and greed.
+
+There is an answer. They mat have played me for a sucker in buying the base game, but they will NEVER get a dime more from me. They will NEVER get me to trust Paradox enough to pre-order on of their products, thinking they they are some not like Bethesda, Ubi Soft, or any other AAA a-holes who would shame a con man. Fool me once, shame on you. Fool me twice, shame on me.
+
+If you want to change this behavior, just do the same. Just say NO. You deserve no empathy if you put your hand on the stovetop a second time and get burned.",0.8833797574043274,186,False
+949230,223736963,76561199232088337,"I've played this game for over a year now, and there's a huge difference between the state of the game when Colossal Order was still over its development and when Iceflake took over. The game runs much better, there have been so many QOL improvements made, and I am overall more excited to play the game now than I was a few months back. The game isn't perfect, but it's nice to know that Iceflake sees the issues and is actively working on them. The addition of the asset editor is an absolute game changer, and that's really when I started getting back into the game. I'm looking forward to seeing how Iceflake continues to improve on the game! I recommend trying this game out, which is something I wouldn't have said a few months ago.",0.8797909021377563,108,True
+949230,149251690,76561197970303607,"Setting aside graphics performance at launch, which is terrible, Cities Skylines 2 is a deeply broken city simulation game.
+
+To be more precise, it doesn't actually simulate a city in any meaningful way and it's barely a game.
+
+The economy and various systems are all FAKE; smoke and mirrors to give you an illusion of control and choice. Don't build a garbage dump? Garbage will be automatically trucked out of your city on its own by magic. Fail to have commercial or industry? The city *just works*.
+
+The ""much improved"" traffic AI they claimed would eliminate the first game's traffic problems? It just makes cars teleport to their destination if they're being too slow.
+
+These are a just a few examples, but every single thing they claim is being simulated, isn't. It's all incredibly shallow and fake and falls apart with more than a surface inspection. In terms if city management, simulation and city designing, It is several steps backwards from the first Cities Skylines in every way.
+
+It is completely unsatisfying to play.",0.8797832131385803,204,False
+949230,148820365,76561198032635308,"Sadly this review is negative. 
+
+The performance is just unacceptable, there are some rendering issues plaguing the game, and on top of that there are some wildly unoptimized assets in this game.
+
+From small guard shacks with modeled out wires, computers and keyboards to the horrendous looking procedural generated citizens that far exceed even some larger buildings in triangle count, they are a waste of computer resources.
+
+The whole unecessary addition of a ''citizen lifepath'' is something very few players asked for, and its clear part of the issues with this game relate to choises made during development of the game. 
+
+The truth is, these citizen models look so hideous that they dont even invite you to engage with the lifepath mechanic at all, id rather have they were significantly reduced in detail, or replaced by assets modeled by an actual artist, and not a procgen program, before i would consider paying attention to the ''lifepath'' stuff this game offers.
+
+I wanted to love this game, and in a way i still do, everything else Cities Skylines 1 did is improved in 2, but the terrible performance, and questionable looking assets really ruin the hype for me. 
+
+Also, this game has a launcher, and just like the 1st game, its totally unnecessary and offers no utility whatsoever, beyond serving advertisements to you for Nvidia.
+
+This review might change to positive if the optimisation is adressed in the future, and the ability to mod the horrendous looking potatoheads is added..... Before then, if you are not brand loyalist like me, stick to the first game a while longer, this game needs a couple more months in the oven.
+
+Edit: Further thoughts:
+
+After longer play A noticeable issue is that Residential zoning demand is based on *density* not on *affordability*
+
+Wealth does not factor much in where a citizen will move in as much as density type does.
+
+This results in the player having to build an insane amount of low density zoning, even though denser apartment building types would be preferred and more efficient, limiting your planning abilities and creativity.
+
+The game will complain about there being a ''housing crisis'' when the real problem is that citizens will not move into denser buildings. 
+
+City policies are negligible and can no longer be applied globally, instead having to be set per district. 
+
+Building upgrades are a great mechanic however. 
+
+Virtual texturing/texture streaming seems to struggle with alpha mapped objects (primarily hedges) causing them to look cubical with flat 2d planes sticking out of them. This happens even with less performance intensive cities.  
+
+Edit: Specs
+
+GPU: GTX 1070TI
+
+CPU: Ryzen 7 5800X 
+
+RAM 32GB
+
+My settings: everything set to medium, disabled volumetrics, DOF and Motion blur. 70% resolution scaling.
+
+Average FPS zoomed in: 30
+
+Average FPS at range: 25/20 
+
+Population in city used for benchmark: 100.000",0.8790892362594604,1080,False
+949230,177621498,76561198089387108,"This game still lacks a lot of of basic things and feels unfinished. But I have to admit, I haven't played CS1 since I got this game. Overall, I like it.",0.8786259889602661,134,True
+949230,158795794,76561198000959492,"The CEO is a joke.
+Constantly blaming the player base for beeing ""toxic"".
+You are scammers not more not less. You over and false advertised your game and delivered a not working piece of junk.
+And still you dont get why people are upset.
+""We worked so hard...""- Yes and still you managed to deliver shit. Congrats.
+
+Normaly i wouldnt write any comment on that and just carry on, but the rly annoying behavior of the CEO, since release, trying to set themselfs as victims here is unaccaptable. I loved CS1 but CS2 is nothing more than a scam...sadly.",0.8779112100601196,269,False
+949230,150319952,76561198069589358,"""Thanks for the chats all, but I'm moving on. :)
+EDIT: (Nov 17) I've heard from Paradox support to the query I logged. They confirm I was banned for this post, where I said ""Publishing games as bare bones as possible (even removing content to plunder later, looking at you pre-release DLC that CS2 has), is customer abuse IMO."".
+
+The Paradox support person went on to state: ""Frankly I would have issued a much sterner infraction than the minor ""trollish comments"" one you got for that!"" (I can provide a screenshot of the email to those interested).
+
+My comment got me a one month ban. Proves my point.
+------------------------------------------------------
+ORIGINAL POST STARTS HERE:
+I love city building games. I mean the ones where you can build up massive modern metropolis's like in this game. I remember getting my hands on SimCity back in the old days, and instantly fell in love with it. I would lay down roads, zones, services for the city, and watch it grow at my hands. And I loved every single city builder that came along. The various SimCity versions (except 2013), Cities XL/XXL/all the versions, City Skylines, and Highrise City. SimCity 4 is definitely my most favourite of the city builders.
+
+When I heard that Cities Skylines 2 was being made, I got pretty excited. But also, pretty worried. I was really excited, because a new game in my second favourite type of game was coming out. And the videos made it look really good! But I was worried. Worried because Paradox was publishing it.
+
+When CS1 came out, it was an insta-buy for me. I really enjoyed the game. I was happily playing along, making cities, and then the DLC start coming out. Before CS1 came out, for years I had bought Paradox games and the DLC. However, I was really getting annoyed by the DLC policy of Paradox. CS1 came out on the heels of the 80th or something DLC for Crusader Kings 2. Not to mention the countless DLC for HOI and EU that I also played. So when the DLC starting coming out thick for CS1, I decided it was time to bow out of Paradox and put them on ""the list"". ""The list"" contains the publishers I will not buy games from. There's a few now, including EA for what they did to SimCity/Maxis. Paradox had joined them. I did not buy a single item from Paradox after June 2017. I wanted to, believe me. But this was my very minor protest against their DLC policy.
+
+And then came Cities Skylines 2. I actually held my ground, until the day before release. I knew if I bought in, I'd be buying into the DLC flood. I was really conflicted. I knew Paradox was going to DLC the hell out of the game, and there was the performance announcement before hand but I knew from experience (with my work) that performance can (and usually does) get fixed. But I REALLY wanted to play a city builder. So I caved, and bought the standard edition. Hey, at least I would minimise my losses to $70 (AUD).
+
+The day came, and I downloaded it, and started to play. After changing a few graphics settings, I was okay with sitting on medium graphics and tuning a few things like RPS suggested to. And I played.
+
+But it wasn't too long before I started noticing things. But I kept playing. I noticed even more things, and read about similar things others were noticing on the Paradox forum and here. I got to 25 hours and wrote my review. I didn't want to give a cheap 2 hours review, so I gave the game an honest shot. I was actually really shocked how popular my review became. I just wrote what I honestly saw in the game.
+
+Then the hostility began. I found myself banned for 3 days at Paradox forums for the most flimsy of reasons (the review was being discussed there and I commented on that thread). At around the same time, I started getting threats and hostile posts on my steam profile, my workshop items for other games, and ended up playing whack-a-mole deletion of posts. No point reporting as they were level 0 empty profiles just made to attack me. But I did keep playing, because maybe they had a point. Maybe I'd misunderstood some things.
+
+Anyways, eventually I hit 85 hours. I was done. I did an update to my review, and my 3 points that I feel kill the game for me stand. They are:
+1. Performance and bugs. Whilst performance had improved on the graphics side, over 250k pop my PC would start suffering from repeated stuttering. This was simulation, not graphical. The list of bugs is massive. Just look at the confirmed list on Paradox forums.
+2. Lack of content. The extreme lack of content is really disappointing. Obvious hat tip to DLCing us to hell. Yeah, there's a content creator pack of some couple thousand assets coming for free, but I would put a hundy on it that the original point of that pack was to introduce paid-for curated special content on Paradox mods. But they are ♥♥♥♥♥♥♥♥ their pants and giving it for free now.
+3. Design choices. There are lots of design choices that just simply don't make sense.
+
+It was at this time that I posted a new thread on Paradox forums outlining the above, and that I was putting the game down for now. Shortly after that thread was posted, I found myself banned for a full month. I have read carefully the code of conduct, the infraction matrix, and also the support page on forum user rules. I cannot see anything I could have legitimately been banned for. I can only think it was because I have been vocal in honest criticism (it's not the only time Paradox has been caught censoring their forums of negative feedback). Their code of conduct and support page also give you some instructions when banned. Contact the moderator in the instance, or if you cannot contact that moderator, email admin@paradoxinteractive. The irony is, when you are banned, you cannot access the messaging system to read the notice why you got banned. Nor can you reply to it. So I've tried emailing (politely) the email address a couple of times. I've had no reply. I don't believe I will get a response either.
+
+So at this point, I am done. I feel that my feedback is not wanted, nor do they want to hear it. I believe that Paradox doesn't want me around, and I will just continuously be banned at Paradox forums, and if I continue to post here, banned here as well. I actually don't think this post will last long, but hey, let's give it a try. I'll screenshot it and post it to my steam profile. Avanya can't get to me there. Hahaha.
+
+I will never, ever, buy another Paradox product. My experience with Paradox in the past, and especially recently, is that they are a hostile, abusive company that will stop at nothing to suppress honest critical feedback that they believe may impact their shareholder profits. My belief that Paradox is an extremely toxic company has been reinforced with my recent interactions with this company. I will never engage with Paradox forums again. I will never engage with any of their product, or the products of any company that has an association with Paradox. I am completely done with this company.
+
+To everyone I've chatted with here, go in peace and have some fun. Thank you, all of you, for the fun times I had here. Even you Stealthy, even though I still think you're a Paradox employee here to muffle out any negative comments. You never did answer my question, but it's okay, you're off the hook now. 
+
+My review: https://steamcommunity.com/profiles/76561197998739866/recommended/949230
+Paradox thread I got one month ban for: https://forum.paradoxplaza.com/forum/threads/its-time-to-put-cs2-down.1608679/""
+
+This is the state of CO and paradox as a entirety, this one persons feelings has everything I have to feel about Paradox. They have gotten to the point that they just ban criticism because its ""mean"" This game along with CK3 and Vicky3 clearly show that we are little more than cattle for PDX to harvest for money. Friends its time to retire from playing PDX games. Its been a good ride but all things must come to an end.",0.9278687834739685,1462,False
+949230,205848066,76561198058744149,"An Embarrassing Successor
+
+If this were an entirely new game, one might grant it a begrudging pass. The undeniable, central problem, however, is that CS2 is a lamentable sequel to a masterpiece. CS2 is a game where the community was, and is not considered at all; same community that was fundamental and central to CS1 organic development.
+
+I genuinely strained to find the same level of enjoyment here as I did with CS1, having dedicated more than 700 verifiable hours to it. But the current state, from the pathetic level of optimization to the abysmal lack of custom content, the restrictive mod options, and the frankly regressive simulation quality—sinks far below acceptable standards. It is, insultingly, inferior to the current state of CS1 in 2025.
+
+The conduct of Paradox and Colossal Order is nothing short of disgraceful. They shamelessly misrepresented the game’s features and day-one capabilities, reaping literal millions from a community they subsequently betrayed with pre-orders. To then, after weeks of rightful community backlash, offer a tepid, dismissive ""oh, sorry, but do not be rude! Just wait years until we fulfill our initial promise!"" is not just poor management, it is contemptuous. Shame upon you.
+
+CS2 may possess a fleeting curiosity for a player who has never experienced its epic prequel. For the veterans, the true fans, I offer a clear directive: do not bother. It is time better spent elsewhere, or waiting a minimum of two to three years for the slim possibility that Colossal Order and Paradox Interactive finally deliver on the promises they so cynically used to sell this product.",0.8775545358657837,410,False
+949230,200077123,76561198018590977,"So, a bit of background - I bought the Ultimate Edition of this game on launch, with a PC I knew would not be able to make the most of it, but I was planning to upgrade anyway, so no biggie: I just waited a bit for the new rig to arrive and get some of the teething problems the game was having out of the way.
+
+Cut to today. I figure I'll have a look back into it during a bit of downtime. I'd enjoyed what I'd played of it, but just took a break; got to get back to building up that city I left mired in the dread of Winter. So I load up the game and am greeted with a muddy ocean scene, overcast skies above - no splash screens or loading rings - just an ocean. I stay here, waiting for the main menu to appear to no avail until I decide to X out of it.
+
+I go and do a bit of research and find that it's a not-uncommon bug that quite a few people are having. They recommend backing up your saves somewhere and renaming the CS II folder to force the game to generate a new one. This doesn't work. Going a bit rogue, I decide to delete everything in there, and this does actually take me back into the game's main menu, so that's good, right? We'll just bop the save games back in and... ocean. OK, I can accept starting a new city from scratch, so I delete the saves, and... ocean. I delete the folder again and we're back in - let's not touch the saves again.
+
+Maybe it's a mod thing? Dunno, maybe I'll never know, as there is no Steam Workshop support where you can just unsubscribe from everything to rule this out. Nope, it's an in-game proprietary mod catalogue to facilitate cross-platform mod support on the PS5 and XBox versions that... *checks notes* ah, yes... don't exist yet. So we sacrificed a perfectly good Steam system for an in-house one that not only is hard to access without being in game, but also has the potential to spit viruses at you when you are.
+
+(Just as an aside: games don't need to be on every platform known to man. I know it means more money for the devs/publisher, but I have the original CS on Switch, and it doesn't compare to the PC version. City builders are natural PC games because of the intuitiveness of the controls. It's a shame we're sacrificing quality here to promote what will be inferior console editions).
+
+Rather than jump back in to a game, I decide to download all of the region packs that I have as DLC. They're nice little packs, but I can't vouch for how 'worth' it they are, as the Ultimate Edition gave me all of these for 'free'. Given that they're essentially just flavour packs with different buildings, your mileage may vary. But, and there is a but, this throws an error part way through the download, something to do with a 'prefab' failing or not being able to be found, and it advises I quit the game. I quit the game, load it back up and... ocean.
+
+I'm still on ocean. Now nothing seems to get rid of it. Ironically, I'm adrift.
+
+Is the game good? I mean, mechanically, it's fine. I really like the road building tools and how you can blend and split them off into other road types, with all of the lanes working out their aesthetics. I like how the scaling has been adjusted compared to the first one, with buildings and roads feeling more natural. I like them taking SimCity 2013's idea of modular buildings that you can upgrade over time depending on your cities needs, and, in principle, I like the economy system of needing to produce certain commodities or have to import them. There have been some adjustments to all of this from launch, and I'm not going to say that it's perfect, but it does give you more to think about, rather than just being a simple city 'painter'.
+
+But really, is a game even worth considering when there's a non-zero chance that you won't actually be able to play what you've paid for? I get that you need bricks to build a city, but you don't need to be sold something that's actually bricked. I wanted to come back after a couple of years and say 'yeah, they Cyberpunked it, it's good now' but I can't. This game actively seems to get more unstable and broken the more they tweak it. Maybe it works fine for some people, and that's great, but it's completely broken for a fair few of us. If you want to take the risk, knock yourself out, but I'd give it a hard pass until you hear anything different.
+
+EDIT (30/07/2025): OK, so, I clicked play on a whim, just to see if it'd do anything, and it took me to the main menu and installed all of the region packs without error. I'm not going to change my recommendation, as I can't see we've had any news of a fix and I haven't done anything myself to change anything, it's just... weird. I've even nervously closed and reopened it and I'm still getting to the menu. I won't lie: I'm terrified to touch it, just in case, but it seems to be working... for me at least... and for now.
+
+EDIT (30/07/2025... about two hours later): Yeah, I went to go back on it for a bit during some more downtime, and we're just straight back to the ocean. It's like this game is haunted.
+
+EDIT (03/08/2025): Trying to be as transparent as possible here, but I can't keep leaving updates forever. The game seems to work *sometimes*. I've played for around 9 hours today, opened it on four separate occasions and got the ocean screen once. No idea why it's suddenly started to work more regularly, but I guess this is just testament to how up and down the performance is. 
+
+What I can say, is that the game seems to play a bit more chaotically after the updates. My first couple times playing were sort of the same: starting off is a bit of a seesaw, where you're having to balance the books and building up is slow, but then there's like a tipping point where you're suddenly making ₡30,000/hr and can do whatever you want. This new city I started, using the Tampere map and Normal difficulty, is all over the shop. It seemed to have an easier ramp up at the start, but then fell into a bankruptcy spiral out of nowhere (I figured this might be because the Tampere map seems to have snow in every season bar Summer, and people would be using more electricity for heating but, if they are, there doesn't seem to be an easy way to verify this). I managed to right the ship, but then the cash flow started bouncing around all over the place: sometimes it's raining money, other times you're heavily in the red. 
+
+There just seems to be a lack of consistency and no easy way to diagnose problems, and the game does sort of punish you for 'playing well'. You unlock a new tile? There's a monthly charge for that. You unlock a new milestone? Hope you have the money to plop down whatever service you need, else you end up in a deathwave or a crime spree that makes everyone want to leave... I do find it fun - I sat for just over nine hours playing it today - and I'm more than prepared to accept that some of this is a skill issue but, reading other comments here, it does seem that people are finding the simulation a bit janky.",0.8770391345024109,229,False
+949230,149256660,76561198288317219,"UPDATED REVIEW: As of the patch in October 2025, this game is still too broken for me to enjoy. If you have never played a city builder game before, [i]maybe[/i] you will enjoy this...but don't expect the simulation to hold up all that well still. The game has a lot of content available so you can most likely have a nice diversity of buildings, but if you want your city to work and not just look pretty, you may be better served finding another game.
+
+I have lost all confidence in Colossal Order being able to bring this game to a state that makes me interested in playing it. This game has some drastically improved road building and transportation features that will completely wreck me ever being able to get used to Cities: Skylines 1 again, so for the time being I will not be playing or recommending this game. It improves on things enough that you need to play it over its predecessor, but it does not work well enough as a simulator to make you want to play it. So if you're coming from years of playing the original Cities: Skylines like I am, and/or you are more about simulation/nuts and bolts than aesthetics, playing this game will probably induce more rage quits than good times. 
+
+To put it another way, if you're an OT [i]Star Wars[/i] fan, this game is [i]The Last jedi[/i] of Cities: Skylines. It looked promising after the game before, but was so disappointing/enraging for enough people that it made the original look worse and it split the fanbase. This game is a serious blemish on a developer many of us revered. While their PR has improved, the game is still nowhere near where they promised it would be even two years after release.",0.876980185508728,303,False
+949230,229396995,76561197997113492,"Now after a few patches from Iceflake i started the game again. Already noticing the difference.
+Loaded my biggest city (350k) and:
+- Runs smoother (+10Fps more)
+- Game can be speed up again, up to 3x
+- Traffic seems smarter
+- Graphics look better
+
+I hope they keep up the good work on this game.",0.8755545616149902,78,True
+949230,208100953,76561198062390291,"Waited 2 years for this game to get fixed. Saw the new bridges and ports update and figured it was finally time to give it another try. I open up a fresh city on one of the new maps, beautiful map with the mountains reflecting off the lakes. I spend the time to map out my first tile with a road network, and start to zone. set up utilities and create my first industry. After almost an hour with the game paused to map it all out, i go to unpause it and low and behold, the second i pressed the button, crash. All my work, gone. All my motivation to play this game, also gone. I guess i will shelve it for another 2 years and try again. Stay far away, save your money, and check out other city builders.",0.8747671842575073,825,False
+949230,158923154,76561199108574432,"Over 500 hours I've played this game and I'm done. Here's the gist:
+
+[list]
+[*] [b]The amount of assets is dismal.[/b] Every residential house looks the same and there's like three variants. Every other commercial building is a drab gas station. Every high-density office building looks like a 20-story, gray, concrete masonry column of sadness. So gloomy. So dull.
+[*] [b]The lack of assets creates a horribly bland experience.[/b] It's not enjoyable/realistic in a city of 100K population to have three different house models and 100 office buildings that look like identical gray Lego bricks.
+[*] [b]The game is unplayable over 100K population.[/b] Speaking of large cities, the gameplay and graphics come to a excruciating crawl once a city's population nears 100K. 5800X3D processor, 128 GB memory, and a 4080 card? Doesn't matter. Slo-mo everything. And that's with extensive ""performance enhancement tweaking"" of the settings.
+[*] [b]Industry doesn't matter.[/b] Importing too much convenience food? Well too bad because building more industry to produce it locally will only spawn another hundred stone mills so you'll have plenty of rocks being produced. Oh and deleting and respawning industry buildings does nothing except create more rock shops. Maybe after two hundred deletions you [i]may[/i] get a timber plant.
+[*] [b]What about industry taxes?[/b] Best to not mess with these. Going to 0% or even subsidizing industries to encourage production makes no difference. Also, random industries will create literally hundreds of millions in revenue or cause a deficit in the hundreds of millions unless the tax rate is set to 0%.
+[*] [b]Ok just import/export using cargo then.[/b] Not a chance in heck. Traffic gets so backed up at train/sea/air cargo stations that trucks despawn and nothing is picked up/delivered. Unless you build ten cargo stations across your city.
+[*] [b]But, just like in real life cargo stations will hoard local and outgoing mail, right?[/b] This doesn't happen in real life but in CS:2 it does. Once a cargo station of any type is built it will hoard all your city's mail rendering post offices useless as no mail trucks ever pickup mail from the cargo stations.
+[*] [b]Schools[/b] Elementaries are hugely comical in size. No one goes to high school. Everyone goes to college.
+[*] [b]Parks[/b] No one goes to parks except the homeless who setup camp there. And forget about building large, beautiful parks like in CS:1's Parks DLC because that was left out for some reason and we were given boring, generic parks.
+[*] [b]The road tools are nice.[/b]
+[/list]
+
+3/10
+
+Go back to CS:1
+
+EDIT: I just can't quit you, C:S2",0.9246375560760498,959,False
+949230,192079570,76561198342301272,"I give up. This hurts because I really enjoy playing this game (when it works properly) and I've owned it since its release. Since the beginning I've dealt with periods of desktop crashes, thank goodness for auto save. Then we'll chug along for a while without crashes. New update comes out, crashes return. Now I get some system log error every time I boot up the game. I've read forums, I've combed through steam, I've uninstalled and reinstalled 5 times now - it won't go away. Supposedly there's a fix but you have to comb through a folder of never ending files, download additional software to identify the failure and then reformat the file. Look, I just want to play the game. I shouldn't have to become a software engineer to play  a game I spent decent money on. I don't know what's going on over at Colossal Order or Paradox, but they need to get their heads out of where the sun doesn't shine. Both entities should be embarrassed. Hire people who know what there doing, make sure they care about the product that's being produced, and give us what we paid for.",0.8712641596794128,142,False
+949230,192944609,76561198859318049,"Game is so buggy years after release. Mods or not, it doesnt want to load half the time and crashes often to make it just not worth playing
+
+edit: 2 of my cities have fully corrupted and cant be opened anymore",0.8672937750816345,255,False
+949230,170579341,76561198835173949,"Ok, cards on the table, I was really excited to see the new release after so many years. But to our dismay, you have somehow ruined it in ways we did not expect. 
+
+Pros: 
+1. better graphics
+2. cooler looking city services buildings
+
+Cons:
+1. Graphics have STEEP performance requirements. 
+2. A lot of terrain tools were removed. 
+3. even on a rig equiped with a ryzen 9 with the 3090 and over 64 gigs of ram, i lag down to 10 fps.
+4. population 10,000 lag starts opposed to the 30,000 population that the old game allowed before lag started.
+5. Chirper is replaced by radio that wont shut up. even when paused, i hear it. Dear devs, old chirper was annoying enough, but it astonishes me how you've found ways to make it worse.
+6. Infrastructure buildings became MASSIVE. so massive in fact, that instead of adding public transport as a feature to your city, your city is a feature of your transit buildings. 
+7. you can no longer tell where a majority of your path-finding is going on. in the old game, i could tell where a lot of vehicles were trying to go, so i could optimize. here, its all guesswork. not fun.
+8. no access to the steam workshop, however you did add your own store so that people who had their mods here, lost their traffic. 
+9. money. no matter what i do in this game, after SO long with the first one, i cannot for the life of me stay in the green. No amount of tutorials, even COPYING youtuber's ""successful"" cities. i always find myself needing to take out loans. 
+10. lack of road options. I want a 6 lane avenue with bike lanes and tram lanes for starters. 
+11. Bugs. i understand that games have bugs on early access, and really early years, but this is some Bethesda level stuff here. 
+12. you tried so hard to make a continuation of your game to make money, but you are driving away people because you provoke us to write reviews like THIS! 
+
+Fellow steam user, please give this game at least another year if not two before you buy.",0.8628379106521606,358,False
+949230,219374210,76561199109905374,"Finally Living Up to the Vision
+
+I had huge hopes for Cities: Skylines 2. The original game consumed more hours of my life than I’d care to admit, so when this launched, I was ready to build my next masterpiece.
+
+And honestly? It didn’t start off well.
+
+Performance issues, confusing systems, and mechanics that felt half-baked made those first weeks frustrating. It felt like the foundation was there, but the structure wasn’t finished. I wanted to love it, but it just wasn’t ready.
+
+Fast forward through patches, fixes, and a lot of developer updates — and I can finally say: the game is genuinely enjoyable now.
+
+The simulation feels deeper than the original in all the right ways. Traffic logic is more interesting. Zoning and economy systems have more nuance. The scale and realism are impressive when everything is running smoothly. It finally feels like the ambitious sequel it was meant to be.
+
+Is it perfect? No. There’s still room to optimize and refine. But it’s no longer the frustrating experience it was at launch. It’s become a city-builder I actually want to sink time into again.
+
+If you bounced off early like I did, it might be worth revisiting. The foundation has turned into something solid.
+
+Verdict: Rough start, strong recovery, and finally worth playing.",0.8616910576820374,149,True
+949230,177252074,76561198059190408,"As a huge fan of the first Cities: Skylines, which—despite becoming a classic Paradox DLC cash grab—still worked and worked well across the board, I had high hopes for the much-anticipated sequel. Unfortunately, the same can't be said for Cities: Skylines 2.
+
+The game is plagued by endless bugs that seem to multiply with every patch. Every ""fix"" only introduces more issues, leaving the game barely functional. The so-called ""Economy 2.0"" update? A joke. All it does is give you slightly less starting money, nothing more. The game has been out for almost a year, and we're still missing basic features like hotels. And when you ask about it on the forums, the developers respond with cheery emoticons, telling you to turn on developer mode and manually install them yourself.
+
+Are you kidding me? You can't fix something this simple? Do you even realize that the only reason people didn’t refund your game in the first 20 minutes is because they trusted you? And what did you do? You slapped us in the face. Honestly, I feel like a clown for sticking with this mess for 184 hours, hoping you'd finally get your act together.
+
+Screw you, Paradox. You've earned it.",0.8609337210655212,235,False
+949230,222571457,76561198016381745,"I was also holding off writing anything about this in the hopes that they would add more content and fix the horrible traffic, especially the bridges and overpasses that are just a horrible time placing or integrating to the city. Now i can see they release ""Bridges"" with a fucking DLC. FU.",0.9107739925384521,287,False
+949230,148798733,76561198287134988,"Optimization is so bad that even in the main menu, you could tell that the game is harder than Elden Ring because of the boss called Frames.",0.8602508306503296,159,False
+949230,228603298,76561198871700521,"Now that it's clear that Iceflake Studios can deliver consistent updates and fixes for the game I can actually comment on the game. Before they became the devs behind the game, the game felt like a game in beta, it felt incomplete. Now it's really starting to feel like a fully fleshed out base game and I could not be more happy about the progress. Overall in the last year the quality of game play has significantly gone up. Before I wanted to recommend this game and now I think I can. That said the Bridges and Ports DLC was insanely expensive and I will be disappointed if new full sized DLCs are that price if the content in them is around the same amount as the Bridges and Ports DLC. The creator packs also feel a tiny bit more expensive then they should be but the building quality is really high and the packs deliver a lot of content so I'm willing to buy them still.",0.8584976196289062,82,True
+949230,186493996,76561198062192032,"Dear Paradox Interactive,
+
+I am deeply disappointed. Why does your game crash so frequently that it’s practically unplayable? Given your reputation and resources, it’s baffling that such issues persist. I expected better.
+This frustration makes me question whether game development is the right industry for you. Perhaps a career in something like insurance—less reliant on delivering a functional product—might be more fitting. At least then, people like me could avoid this level of disappointment.
+Please take this as feedback to improve, not just for this game but for future projects. Gamers deserve better.
+
+Fuck you.
+
+Sincerely,
+A truly dissatisfied customer",0.8558387756347656,377,False
+949230,198218170,76561198019283107,"It's not ready. Maybe in a few years it'll live up to its predecessor, but today is not that day. There are some tools that are amazing and have much more flexibility than CS, but it comes at the cost of infuriating ""features"".
+
+One of the biggest issues that prevent you from building huge cities is the nightmarish traffic AI. Vehicles will randomly pull illegal turns without any clear rhyme or reason. You *must* build separated highways, because the 4 lane will result in traffic jams as civs will pull a U-turn in the middle of the road. Civs will also do left-hand turns from the right lane, cutting off traffic and causing traffic lights to switch.
+
+Also, there are no bikes. So if you want to foster a walkable city, good luck because most civs will still drive.
+
+I challenged a friend to a build competition and after 10 hours, I am spending all of my time just trying to get civs to drive like actual humans and follow the rules of the road. Double yellow lines mean nothing in this game.
+
+Based on the current state of the game, it is not worth the price.",0.8511691689491272,111,False
+949230,194828187,76561198119654888,"As a longtime fan of the original Cities: Skylines, I was genuinely excited for the sequel. While the core gameplay introduces welcome improvements—better road tools, a deeper economy, and more realistic simulation mechanics—there’s one major decision that has severely soured the experience for me and many others: the removal of native Steam Workshop support.
+
+Instead of using Steam Workshop, a system that allowed CS1 to thrive thanks to its vibrant modding community, the developers introduced their own in-game mod platform. While this might seem like a quality-of-life change on the surface, it appears more aligned with monetizing user-generated content down the line, or at least keeping tighter control over it. This kind of move isn’t new—we’ve seen other games (Skyrim with its “Creation Club,” for example) try to push their own mod marketplaces, and it almost always backfires.
+
+The magic of Cities: Skylines was the community. From detailed assets to total overhauls, it was the modders who turned a good game into a legendary one. By removing the Workshop—or not supporting it from launch—Colossal Order and Paradox are isolating the very people who kept their franchise alive for years. Modding was accessible, centralized, and easy on Steam. Now? It’s fragmented and harder to trust.
+
+Why the devs would make this change is baffling. If it’s a money grab, it’s shortsighted. If it’s about quality control, it’s poorly executed. Either way, the decision undermines what made the first game so enduring: community-driven creativity.
+
+I want to love Cities: Skylines II. It has the potential to be the best city-builder ever made. But until Steam Workshop or a comparable, open, user-first system returns, it feels like the heart of the franchise is missing.
+
+Rating: 5/10 (until modding is fixed)
+Pros: Deeper simulation, improved visuals, ambitious design
+Cons: No Steam Workshop, fragmented modding, possible monetization of mods",0.8506727814674377,195,False
+949230,148875441,76561197997258213,3060TI runs at 94% with a bare city. Models of RCI aren't loading. Game keeps forcing itself minimized into the taskbar. *sigh* I was really looking forward to this.,0.8461359143257141,776,False
+949230,149212831,76561198132881440,"For anyone who thinks buying the game and leaving a negative review will get the attention of the publisher, that's delusional. The game may have mixed reviews but there are also nearly 19k of them. All that shows is the game has a strong engagement and they know customers will wait patiently for them to fix it after they already have your money. 
+
+If anyone is actually interested in putting a stop to the anti consumer crap these publishers routinely do you have to refund or not purchase the game at all. Its common sense, that's the only thing they will notice. To be clear most of these issues stem from the publisher wanting to get paid, not the development team. The time frame these games are expected to be released in is not realistic anymore.",0.8456150889396667,1001,False
+949230,200442820,76561198127699111,"Let me start by saying I have almost 2K hours on this game and had many more on CS1. I will choose this over CS1 everytime. After using the road and infrastructure tools in this game, I can no longer go back unfortunately. Also the graphics on this game are amazing. 
+
+With that said, I heavily modded CS1 as well as CS2 and probably would not play as much without mods. Here is my take so far with this game:
+1. Change the Camera Settings - the default settings are not optimized and I hate the motion blur, changing these will make it look so much better and keep your game running well if you don't have the fastest PC
+2. Use a few necessary mods to fix functional bugs which still remain and/or ones to make building easier or better looking, my favorites:
+- Move It
+- Traffic Lanes Mod
+- Find it (better then developement mode)
+- Many other surfaces/RICO type assets
+3. Play sandbox with unlimited money and unlocked assets or Easy mode as the Normal mode seems to bug a bit on Economy for some reason - hope this will be fixed soon. If you are struggling getting going, I have found that using the Geothermal Energy plant over groundwater is a huge export of Energy and Money and will help you early on if you are struggling to balance your budget.
+4. As you start building constantly check different popular mods as you will find there may be some aspect missing and mods will fill that hole
+
+As for what I would like to see in upcoming updates:
+- I want the economy issues to be ironed out as sandbox is fun but having to balance a budget is also a huge favorite of mine in these simulation games 
+- I have found that the cities (although mugh nicer looking) dont have the same energy and life to them with people using our assets as we saw with CS1
+- Stadiums and Sports Arenas need to be more like CS1 where there was a game scheduled and this creates traffic to that arena with people coming to the game and/or leaving the game
+- We need bikes as this is a huge part of infrastructure (bike lanes) in almost any city and am wondering why this is missing
+
+Overall I have seriously been enjoying this game (hence 2k hrs) but there is still so much opportunity for this to be an even more amazing game. I really hope they continue to improve it and that people stop hating on it so much.",0.8453185558319092,159,True
+949230,216531063,76561198124291911,"They need to focus on the base game before trying to get even more money from people with their broken DLC. I spend more time fighting with traffic then anything, it is horrible. I want to like this so bad and have gave it several tries but I just cant do it anymore.",0.8437641859054565,142,False
+949230,218687364,76561197976297122,"I played 100+ hours on 1.0 launch and although it was fun for a while, there was a lot to be desired in terms of optimization, content etc. 
+
+With the recent ""First Frost"" update I am delighted with the trajectory of the game and I'm seeing a bright future ahead now after 2 years of near stagnation.",0.8433260917663574,139,True
+949230,196965554,76561198055080132,"This is early access. If you expected a complete and polished game, this is not it.
+
+I've sunk 5000 hours into CS1 and it's my favorite game ever. So naturally, I couldn't wait for CS2 to release. In hindsight, the release should have been pushed back a few years. I know nobody would've liked that, but right now it's missing too much for me to enjoy. I'm an asset modder for Cities Skylines 1 and I was anticipating the new asset editor of Cities Skylines 2 along with the improvements and unfathomable new opportunities that would come with it. The asset editor has been pushed back to probably 2026 given the recent statements from CO. I've admired their close relationship to the (modding) community and when they announced those modding improvements for the second game, I was stoked! 
+
+The game is playable, yes. But it's missing so many features you've come to expect in CS1. There are no bicycles at all and transport options in general are limited. I'm well aware that CS1 didn't start out as complete and polished either, but after 10 years, standards for what to expect from a city builder of this size have risen and it's frankly disappointing that CS2 didn't start out as strong as it could have been. Right now it's more delays, delays, delays and I'm not saying they shouldn't take their time. Absolutely they should take the time to make this game the best it can possibly be.
+
+I'm sure CO will deliver a great city builder eventually, I absolutely believe in their abilities and ideas. But the time has not yet come.",0.841135561466217,218,False
+949230,197996903,76561198019627316,"This is a complicated review for me to write as a prolific city builder player since I could use a computer. 
+
+The PROS of CS2:
+- The roadbuilding and other infrastructure tools are top-notch and easily the best in any city builder. Certain mods make it even better, like lane direction tool. 
+- The mod library is growing weekly and it is making the experience better. 
+- If you have a half-way decent PC, this game is technically better than CS1. Graphics, sounds, simulation, etc... and you can grow larger cities per amount of PC horsepower used... CS1 came out in the quad-core CPU era, and this game is in the 6 - 8 core mainstream PC era and if you have those resources, this game will use all of it.
+- The simulation is more in-depth than CS1, but it is half-baked because Colossal/Paradox needed more development time for this game. There are a lot of nuanced characteristics which dictate how citizens own houses in the game, for example, but Colossal/Paradox are always tweaking those variables in each patch because of how unprepared it was. 
+
+The CONS of CS2: 
+- This game needed easily another year of development time. Like I mentioned, the simulation has more variables to it, but they weren't properly implemented. Each patch tweaks these variables to make the game better, but the devs are kinda playing a game of whack-a-mole because each change they make has cascading effects. 
+- If you have a low-end PC, don't bother running the game. Like I stated in the PROS section, if your PC has some oomph behind it, you can and will be able to build BIG. If you're on a PC from the CS1 era - quad core, GTX 1060, 16GB RAM era, this game will run like poop. The game picks up very well when you give it a Ryzen 2000+ 8-core CPU (or Intel 9700k 8-core CPU), 32GB RAM and an RTX 3060/6700 XT or better GPU.  I run this game on a Ryzen 6900HS/RTX 3070 Ti/32GB RAM laptop and it's pretty good.
+- The specialized industries are half-baked at the moment. They were a DLC in CS1. They come with the base game here. The devs needed more time to flesh this aspect of the game out properly.
+- Most of the statistics the game shows you are nebulous and inconsistent. This is because of all the tweaks they make in each patch, and what the devs decide to present to you. You can't really trust them and instead should use common sense and classic querying/watching/observing to get an idea for how your city is flowing. If you go based on what the game's stats tell you, you'll run out of money pretty quick. 
+
+TL;DR: 
+
+Technically better than CS1. Needed another year of development time to actually be better than CS1. 
+
+I recommend and don't recommend it at the same time.",0.840599000453949,104,True
+949230,220402574,76561198255030792,"It has such incredible potential, but it's squandering it by not patching significant bugs that make the game nearly unplayable. They need to focus on fixing their base game insted of pumping out DLC.",0.8389178514480591,144,False

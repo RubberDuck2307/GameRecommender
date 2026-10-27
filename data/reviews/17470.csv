@@ -1,0 +1,1263 @@
+appid,recommendationid,author_id,review,weighted_vote_score,votes_up,voted_up
+17470,8145385,76561198064284846,"It Moves? Kill It.
+It Doesn't Move? Kill it. 
+WUT THE FU** IS THAT?! Kill it.",0.8933916091918945,407,True
+17470,118480948,76561198099475644,"Download Dead Space mouse fix, then, through your graphics driver panel,  force vsync off and cap the FPS at 60. You will then get to experience one of the best horror games ever made without the weird glitches.",0.870877206325531,72,True
+17470,94242857,76561198080126797,"This game.. oh, this game. 
+I don't usually write these reviews, mostly because the comment sections are all filled with ridiculous statements or just funny things to be said. But with this game.. I just couldn't /not/ write out my honest opinion for this game. 
+You play as a man named Isaac. You're not a soldier, you're not a hero. You're an engineer who wound up on a zombie infested ship while trying to look for his girlfriend. 
+This game has everything I could ever want out of a scary game. Even now, after playing through it thousands of times on the playstation 3, even the dismemberment Demo. 
+This was a game that deserved more than what it got. 
+If you're reading this because you thought you wanted something new to add to your steam library, I sincerely hope you try out this fantastic little gem. This is what true horror should be.",0.8621270060539246,71,True
+17470,104807343,76561199186409695,"[h1][b]Aged Like Fine Wine[/b][/h1]
+Dead Space is now more than 13 years old, but don’t let its age and dated graphics fool you. Some may say that I’m too late to the party, but I dare say that this game was truly ahead of its time, and there isn't anything like this nowadays. If you, like me, are new to the franchise or just looking for a good horror title, this review is for you - with no spoilers.
+
+[h2]Curiosity in Storytelling[/h2]
+You play as the silent engineer, Isaac Clarke, on his mission to repair the mining spacecraft USG Ishimura. Throughout the campaign, you will find leftover data like text and video logs explaining a fraction of events before your arrival. The variety of information given to you is like a piece of fabric, so you can sew the story back together just enough to understand what had and is happening. From data research regarding the “creatures” you encounter, to the sheer panic and the slow downward spiral into insanity that the crew had experienced due to the influence of “the artifact”. While the game's progress is linear, as you move from one section of the ship to another, everything still feels interconnected. There are some chapters where you return to the previous areas, the environment has been renewed, you can now enter previously-locked rooms, whereas some of the old segments are now blocked because of the advancement of the “creatures”.
+
+[h2]Everything is Designed to Scare You[/h2]
+The “creatures”, called Necromorphs, that you fight from the beginning to the end are heavily disfigured and mutated monstrosities you have never seen before! Each type of Necromorph you encounter is properly introduced and has build-up tension, whether through their faraway distinct screams, crawling in the vent to stalk you, or a few pieces belonging to a bigger, whole Necromorph, harassing you before its actual full appearance. Don’t let these grotesque creatures close their gap on you, as they will tear you asunder in the horrifying death scenes!
+https://steamcommunity.com/sharedfiles/filedetails/?id=2668026593
+The Necromorph isn’t the only thing that terrifies you though. There are numerous instances where just the lightning and ambiance are enough to spook you to the point of being paranoid that something will attack you. Regardless if this is just the game design choice or a way of storytelling where “the artifact” causes you to hallucinate like the crew beforehand, it certainly does a great job messing with you.
+
+For a game this old, the lightning and meshes of the environment aged very well. The textures are surely dated, but everything else synergizes so perfectly that walking alone in the ship without any enemies still sends a chill up my spine.
+
+That being said, there are a few cheap jumpscares with no tension at all. There’s no build-up indicating that the creatures are coming to you, everything is quiet, then suddenly they appear out of nowhere, and the music just screeches loudly like in a typical horror movie.
+
+[h2]Strategic Dismemberment - Simple but Unique[/h2]
+In most shooters, you need to aim for the head for maximum damage or even a one-shot kill. If you do that in Dead Space, however, you’re gonna have a bad time or even hinder your progress due to ammo scarcity in higher difficulties. Necromorphs will attack in the most violent ways without any regard to their body like their former victims. The only way to kill them for good is to tear them apart by cutting off their limbs, appendages, or glowing weak points. Lore wise, they don’t need their head anymore, flesh and bones have been repurposed to become deadly blades. Gameplay-wise, it’s one of the most unique features in any shooter, now you have to re-learn how to aim for the limbs, and it’s also a nice break from the typical “headshot does the most damage” in video games.
+https://www.youtube.com/watch?v=BPWABzrD-_4
+[h2]Guns? More like Overpowered Mining Tools![/h2]
+Nearly all of the weapons you collect are tools used in mining for cutting and obliterating rocks, which are perfect for dismembering the limbs of your foes. If you have trouble aiming, use Stasis - an assistant tool used to work with fast-moving machinery - to slow them down for an easier aim. You can also briefly stun them by throwing objects with your Kinesis module - a tool used to pull objects towards you. There are a decent variety of weapons to keep multiple playthroughs enjoyable and nonrepetitive, like the Contact Beam, or a “shotgun” called Force Gun that forcibly blows almost everything away at point-blank range. They all have (dis)advantages in every situation: your trusty Plasma Cutter can put you through the entire game with ease, provided that you have another backup weapon for crowd-control.
+
+As these tools can be upgraded to be perhaps too powerful, the game will be less challenging the further you progress. Even though the monsters are stronger and appear more often in packs, they still can’t stop Isaac because of his arsenals. The tension, the need for ammo management wear down fast as you progress with more abundant credits - Dead Space’s currency - to buy ammunition so much that you won’t have to worry about running out of it like in the first few chapters. Once you have fully upgraded the Pulse Rifle - the only military-grade weapon, this game is just a walk in the park.
+
+[h2]No-pause menu? It’s called RIG[/h2]
+This is probably the best feature that no other game can top off. Dead Space introduces a new kind of no-pause menu that was ahead of its time, and it’s called Resource Integration Gear, or RIG for short. It’s essentially an unstopping menu built into your upgradeable suit that’s compact and easy to navigate. The best thing is that it still lets you freely move your camera and walk around. Any incoming dialogue or video calls from other characters will be played in the background in real-time instead of quitting the menu.
+https://steamcommunity.com/sharedfiles/filedetails/?id=2668036214
+[h3]Performance, Encountered Bugs and Solutions[/h3]
+[u]Specs: i5-10400F at 55°C, 16GB RAM DDR4, GTX 1650S 4GB at 68°C, Win 11[/u]
+Dead Space runs smoothly as expected at the highest settings with consistent 60FPS. For an old game like this, I expected bugs, and here’s how I fix them:
+[list]
+    [*]Horrendous mouse control. That’s the first thing you notice when walking and aiming, it’s sluggish, inconsistent, and hard to use where precision is needed. Fixed with this:
+https://community.pcgamingwiki.com/files/file/840-dead-space-mouse-fix/
+    [*]Stuttering frame rates. Just simply disable in-game V-Sync, and enable V-Sync externally through the NVIDIA Control Panel.
+    [*]Unplayable in Windowed Mode. While it uncaps the limited 60FPS in fullscreen, the actual gameplay is horrible. Isaac moves slowly with lagging like I’m having latency, with melee also suffering from the same issue. Pressing B to find an objective path spins the screen like crazy. I even got stuck and couldn't progress once, because a character disappeared when they’re supposed to be there, and the game didn’t spawn any enemies to fight. Just play in full screen instead.
+    [*]Saved games’ difficulty changed when pressing “Continue Game”. My first playthrough's save slots have been lowered from Hard to Medium, and I didn’t realize it until it was too late. Always use “Load Game” to avoid this risk.
+[/list]
+[h1][b]Final rating: 8.5/10, a must-have for any horror lovers out there[/b][/h1]
+If you are completely new to the horror genre and looking for one to get to know, Dead Space is the perfect entry for you. This title is worth its cheap full price thanks to the experience, but just wait for a sale, you will love it!
+
+[quote]Would you like to know more? Then follow our Curator page, [url=https://store.steampowered.com/curator/41449676/]Summit Reviews[/url]. Join now![/quote]",0.861970841884613,72,True
+17470,131672736,76561198040403353,"Thank you EA for Not taking the original down despite the fact that there is a remake now, much appreciated",0.9506579637527466,345,True
+17470,7592282,76561198071210066,"[i]Shoot the limbs and dismember them. That should do the job.[/i]
+
+Who Goes There? — a science-fiction novella by John W. Campbell, later adapted by John Carpenter into the iconic 1982 film The Thing — is a phrase that perfectly captures the essence of Dead Space. It encapsulates the eerie mystery at the heart of the game and the creative vision behind it.
+
+Dead Space has every right to contend for the title of the creepiest, most brutal, nightmarish, and atmospheric third-person shooter of all time. It stands as a perfect example of the unity of well-thought-out sci-fi setting and an intense survival action. Here, we get a spectacular, dramatic storyline, smart gameplay, innovative design, and a haunting soundtrack.
+
+Though it's not 2008 anymore, perhaps my review will inspire someone to step onto the USG Ishimura deck and experience this masterpiece.",0.8230292797088623,67,True
+17470,82341127,76561198092803389,"If only EA didn't kill this franchise.
+
+Yea. by the looks of it. The remake didn't sell much even though it was really good. So EA decided to shelf the franchise again. Smh. Money makes greedy monsters of us all. Please support the franchise guys. I need closure for my boy Isaac Clarke.",0.872869074344635,84,True
+17470,47953956,76561198070352835,"UPDATE:
+I have taken down the download links. Recently one of my reviews with small guides on how to fix games was banned by Steam Moderator for violating Steam Rules & Guidelines. Support has provided an explanation that they don't allow non-Steam patches or mods to be advertised on Steam. For some reason.
+
+Lock the game's framerate to 60fps (or turn on VSync via Nvidia/AMD Control Panel) to avoid gamebreaking bugs.
+
+Install Methanhydrat's Mouse Fix to make the aiming more consistent.
+
+If you plan to make multiple saves, load them manually rather pressing ""Continue game"" to avoid sudden difficulty changes.
+
+Set the difficulty to Hard. And enjoy this fantastic game.",0.8567579388618469,56,True
+17470,36206415,76561198071809106,"Here we are. Almost a decade later after the first Dead Space was released. I can still vividly remember the first time setting my eyes on the USG Ishimura. I had such little knowledge about the pure, adrenaline, pulse pounding experience I was about to get. Neither did engineer Isaac and his crew. After crash landing on the starship and trying to investigate what seems to be an abandoned ship at this point, Isaac and his crew are ambushed by grotesque monsters with long sharp limbs ready to rip them apart. Isaac gets separated from the others - all alone to defend himself. Now he must try to find a way off of this ship. This is where the real nightmare begins.
+
+[b][i]""Twinkle, twinkle, little star""[/i][/b]
+
+Dead Space is truly a classic horror game, easily one of my all time favorites! We are talking about a game with incredible atmosphere and disturbing imagery that will leave you wanting more after it's over. With such a enthralling sci-fi story behind it, packed with tense and very violent combat, Dead Space was more than just another horror game brought to the table. It redefined survival horror! An excellent start to a great franchise.
+
+[b][i]""How I wonder what you are""[/i][/b]
+
+One of the most unique features in the game is the combat. The combat here separates it from any typical action game, because the means of killing enemies (necromorphs) is to dismember their body. It puts a cool tactical spin on how you engage these monsters. You won't be looking to use the biggest machine gun, instead you will use the sharpest tool at your disposal. If it cuts flesh, you can kill them...in a very gory fashion!
+
+[b][i]""Up above the world so high""[/i][/b]
+
+Now, there are a couple of issues with Dead Space, specifically the PC version, which keeps it from being a perfect ten game. There are numerous bugs in the game that you pretty much have to fix by yourself, if you plan on playing it with a keyboard and mouse. Some graphic settings are missing and/or are dated and just don't look as good today. You pretty much have to adjust some of them through your video card or use SweetFX for better visual appeal. Some of the game physics are just down right awful.
+
+[b][i]""Like a diamond in the sky""[/i][/b]
+
+With the end of Visceral Games, I think it's important that we take a moment and appreciate this outstanding and terrific game that has done so much for the genre - never will we forget the scary moments Dead Space offered us. Never forget those who helped create this universe. I won't.
+
+Here we are. Thank you, Visceral Games!",0.8541588187217712,84,True
+17470,40050746,76561198099015549,"Originally Posted: Feb 13
+
+Good news: Dead Space is for free on origin.
+
+Bad news: it's on origin.
+
+Mar 15 EDIT: Game no longer free on origin",0.9029515385627747,226,True
+17470,17679410,76561198043851786,"Alien + The Thing + Event Horizon = Dead Space 
+
+
+Top-notch atmosphere and a compelling story.
+
+Mouse sensitivity is crap, though turning v-sync off at the NVIDIA Control Panel fixes that right up. 
+
+
+10/10 would planet crack in restricted system again.",0.8514227867126465,134,True
+17470,189108287,76561198369126065,"PLEASE READ BEFORE BUYING! 
+
+This game is old, it came out nearly 20 years ago. Yes it has some problems, that's an unfortunate reality with most games this old and definitely older. But, there are really simple fixes, and it doesn't take a rocket scientist to do! 
+
+Download this patch to fix the horrible mouse issues ---> https://community.pcgamingwiki.com/files/file/840-dead-space-mouse-fix/ 
+Just follow the instructions, you can't really screw this up!
+
+Then, the game glitches HARD when playing at high frame rates. Bodies will be flying, doors might not open, it's a mess. DO NOT TURN ON IN GAME V-SYNC! 
+
+Turning v-sync on through game will fix the weird physics issues, but it will also lock you at 30 fps. Instead, use your control panel to force v-sync on and lock it at 60 fps. Now the game works and you won't have a headache looking at it. You COULD try your luck with a higher frame rate, but don't try pushing it to 120 or higher. 60 is the safe spot.
+
+And that's it! the game is now perfectly playable, and any issues you have with the game after this should be purely game play related! Because again, this game is nearly 20 years old. If you don't like a lot of the jank in controls with older games, what are you doing here? They released a remake of this game that's pretty good too, go buy that if you want a MODERN experience. 
+
+I just feel sorry for all the people leaving bad reviews of this game giving up before they even really start because I love old games, and the thing about old games is that there is almost always a way to fix them. Some old games just need a one download patch that everyone knows about, some you need to track down sources from a forum made years ago. But if you put in the time with these older games, you might be surprised by how well they hold up.
+
+How good is the game? Don't ask me, now that you can actually play the damn thing, go play it and see for yourself!",0.8006935119628906,34,True
+17470,109112006,76561198072372765,"!!BE ADVISED THAT ON MODERN SYSTEMS IT REQUIRES A SMALL FIX SO THE GAME DOESN'T BREAK!!
+You have to turn Vsync off in game, then go to your graphics controller settings for the game and limit to 60 fps. Otherwise, the game bugs once you reach the end of the opening (when you pick up the first weapon.) Be sure to hit apply and restart the game. 
+
+What a fun game. Beat in 12-13 hours on normal. Basically the general concept of system shock with gameplay elements from resident evil. Not for you if you don't enjoy horror games and gore. Fully recommended, especially because it goes on sale for $5.",0.8466014266014099,67,True
+17470,32672457,76561198151387780,"There are two problems with this game that easily can be fixed. First, we have the bug door in the beginning of the game. This bug seems to only occur when the game is running at an FPS higher than your monitor's maximum. To fix this, do not enable V-sync in-game (which is horrible), rather, open up the Nvidia control panel (sorry AMD users, I can't help you) and navigate to 3D settings -> Manage 3D settings -> Program settings. Once there, find the Dead Space.exe and set ""Vertical sync"" to on, ""Triple buffering"" to on and finally ""Texture filtering - trilinear optimization"" to on. This will only affect Dead Space, and fixes the door bug, without you having to enable V-sync in the game!
+
+The other problem is that with awkward mouse controls, e.g. unchangable mouse acceleration. To enable raw input: go to this site: https://community.pcgamingwiki.com/files/file/840-dead-space-mouse-fix/. Download: ""SteamDB entry"", extract the file ""dinput8.dll"" from the downloaded file and put it in your main game (Dead Space) folder, e.g. C:\Program Files (x86)\Steam\steamapps\common\Dead Space"". Start the game, and you now have no mouse acceleration and can actually change the mouse sensitivity normally in-game.
+
+Enjoy one of the best horror games ever made!",0.8444868326187134,68,True
+17470,10651553,76561197979282373,"[b] Pros[/b] 
+-Great atmosphere. 
+-Great sound design. 
+-Fun story and world. 
+-Very fun and satisfying game play.  The dismemberment is incredibly well realized. 
+-Monster design
+-One of the best minimalist HUD. 
+
+[b] Cons[/b] 
+-Can feel like one long fetch quest where everything goes wrong. 
+-Monster diversity. 
+-Running the game without vsync creates lights flickers due to the high frame rate at which the game runs on modern system. (fix by enabling vsync in the Nvidia control panel, in game vsync limit the game at 30fps)
+
+[b] Neutral[/b] 
+-Some of the mission objectives can become annoying.
+
+Great game overall, highly recommend it.",0.843995988368988,87,True
+17470,66919980,76561197979711669,"This is a port from 2008.  If you are playing this on Windows 10, you might experience unplayable mouse delay.  Thankfully there is a simple fix for this.  Go to the game's Steam Community page, click Guides, and sort by Top Rated All Time.  
+
+Then find... ""How to fix mouse control problems"" by Bropalm. 
+
+Note:  If you start a new game and have trouble getting past a door that is open but something invisible is blocking it, then turn on your vsync for this situation.  Seriously.
+
+Outside of that, the game is still good.  The ending wasn't my cup of tea, but maybe you'll like.",0.8338120579719543,51,True
+17470,193044546,76561198206216384,[b]Delist EA[/b]. Forcing third-party accounts and banning for inactivity with no appeal is predatory.,0.7821562886238098,82,False
+17470,94949158,76561198193315413,"I recommend this game, but shun EA
+
+I feel bad for Visceral Studios, I love Dead Space, but EA screwed them.
+
+Game is 11/10 back in the day. EA ported the game to PC, M&K and controller inputs argue with each other until one or the other are removed. Script errors occur if you have VSync disabled, the framerate locks at 30 if its enabled. EA ported the game so very poorly to Steam that I can't believe Steam hasn't pressed a lawsuit because these errors are fixed on EAs store and sells the defective game on Steams store.",0.7764676809310913,117,False
+17470,98006858,76561198074661529,"This game is intense and it's very well done, it's actually amazing that they managed to get this game (and it’s sequel) made with this level of intensity. It's a shame, but I'm not surprised that EA ruined the series by the time the third one came out. I'm just grateful that we have the first two games in this series and this one, for sure, is a stone cold classic. Dead Space is very similar to a Resident Evil game, as they share a lot of familiar elements. There is a lot of back-tracking around the environment for example, which helps to make it feel like a real place. The sound design in Dead Space is one of the best that I’ve ever heard, I mean if you just stand still in the game and listen you will hear all sorts of creepy stuff going on in the background. The main menu screen even has the main character's name being whispered in the background, it’s all very well done. You will however, just need to go to www.pcgamingwiki.com and make a couple of tweaks to get it running properly on Windows 10 but once you do everything works great.
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=887896585
+
+The creatures are fantastic but they are totally dark and again, as extreme as possible in their design. I mean there's a mutated head and spine that rolls around on the floor looking to attach itself to you and replace the ones that you already have. There is also a human fetus monster with retracting tentacles which runs around like a dog. The way that they tease new creature designs as you progress through the campaign, before they reveal them upfront, is awesome. One of the creepiest creatures for me, is the one that is stuck to a wall and screams like a banshee. The creative freedom and talent that these guys had when making this game results in a truly scary and intense experience, even if the horror is a little over the top at times. It's not just the horror that makes Dead Space great though, the design in general is pretty fantastic, from the ship and machinery, to the suits and the different types of environments. This is one of the most immersive and well designed games ever made. 
+
+The only thing negative that I could say about this game, is that it's maybe a little too intense. It might have benefited from some more levity to balance out the horrific tone. The Resident Evil series does this very well using cheesy characters, hot girls and general silliness. Dead Space kinda goes a bit in this direction by making a big deal over the suit changes and some mini-game type stuff. Dead Space does have a sense of humor but I think a bit more levity, would have helped this game, while not toning down any of the horror of course.
+
+Anyway Dead Space does so many things so well that it's just a hands down, awesome, cool horror game. Playing it in 2021, around 13 years after it came out, I just got totally into it and I even forgot that I wasn't playing a new game. The atmosphere and creativity in Dead Space just make it timeless. There is also a nice progression system which left me tempted to play through the campaign for a second time. I highly recommend that you play this game, it is indeed a stone cold classic and honestly one of the best games available here on Steam.
+
+https://youtu.be/rvaNJaUpRKA",0.7752278447151184,34,True
+17470,114099396,76561198236332792,"Remake or not- This game holds up better than most, even 14 years later.
+
+Dead Space is an absolute master craft of Action Horror. It took all the right notes from RE4, expanded and improved upon the basics such as camera control and aiming, and of course with it's own unique setting and method of combat: it ended up being one of the most iconic games in it's genre. 
+
+To this day it remains one of my favorite Action Horror games. It's execution of horror elements at times feels lacking (an over reliance on jump scares, for example), but the look and aggression of the necromorphs, the brutality of the combat as you hack limbs apart and try to get some breathing room- It just comes together to create a really tense combat loop. 
+
+The game has some issues running on modern PCs, but they can be fixed pretty easily in my experience. I don't think the lackluster port is enough to completely sway me from saying this game is still worth playing, even with the remake coming in the near future. 
+
+The tl;dr is that while Dead Space isn't the scariest game ever, it's very competently made as an action horror game in the same vein as RE4. Good combat, memorable monsters with a pretty decent roster of weapons, in a unique setting- Topped off with it's own lore and worldbuilding being obvious right out of the gate. The game is just very very well made.
+
+While I'm excited for the remake, since it seems EA put a dev team in charge of making it that, low and behold, actually respects the source material- I can't help but feel bitter with how EA almost intentionally killed this series, only to dig up it's corpse because the RE game remakes have been mostly well received. 
+
+This game was always great, it's sequel is also great.
+EA did Visceral dirty.
+
+Play Dead Space.",0.7715247273445129,28,True
+17470,99316457,76561198872711126,"I hear a ringing noise
+It starts to distort into and out of static
+I hear faint moans
+Or possibly screams...
+I can hear the hollouw echo of a deep machine
+There is a door that keeps opening and closing
+Rapidly
+There is something in the vents
+Blood on the walls instructing me
+To [i]cut off their limbs[/i]",0.7705980539321899,30,True
+17470,188005106,76561198160771272,"Go to work, fix the ship, get traumatised by space zombies and develop schizophrenia. Not exactly what I had in mind when I said i wanted to be an engineer",0.767979621887207,27,True
+17470,94486294,76561198097878510,"If you're willing to mess around with the game a bit to get it to work I absolutely recommend playing it. The fixes I recommend:
+
+-Turn v-sync on under your gpu's control panel (turning it off within the game itself) as -
+a. There is a door at the beginning of the game that won't let you progress unless v-sync is turned on
+b. There is a strange slow down effect in certain areas which is fixed.
+
+-Don't select continue when coming back to the game as it will change your difficulty.",0.7662925720214844,35,True
+17470,107255313,76561198028854369,"+ The dismembering system, way ahead of its time and still great on 2022
++ Very, very good sound design
++ All weapons have distinctive look, feel and weight
++ Excellent action, effective set-pieces
++ Very good ending
++ Finding a schematic for a suit upgrade or collecting power nodes
+
+- Hammond is a pushover and we're his errand boy
+- The port has several performance issues that need manual configuration to be fixed (30 fps lock)
+- Mission scripts are weak and simplistic (do this, go there, get that)",0.7625046372413635,25,True
+17470,95502167,76561198017744567,"I've been replaying a lot of older games and I just had to replay this one.. I am surprised that I haven't reviewed it so here it goes: You play a character named Isaac, who is not equipped with weapons (at first) but is a space engineer. Assigned to a space ship/station whose distress beacon was heard by your company, you arrive to a nightmare situation. Where did the crew go? What happened? These are some of the questions that will be answered as hell unfolds before your (helmet) eyes. The graphics, even since 2007, are still remarkably well done and suit the ambient atmosphere of the game perfectly - I have no complaints. The audio is scary, brooding, and ready to pounce upon your nerves at any moment. Music is largely non-existent but that is a resounding good decision by the developers. What music that is heard is barely distinguishable from the background ambience. This is one of those games that has to be experienced, rather than played. Highly recommended, and certainly worth a replay if it's been a while.",0.80567467212677,56,True
+17470,45733982,76561197971251537,"I played Dead Space on release, and for many years I've considered it the greatest sci-fi horror game out there. So for its tenth anniversary I thought it was time for a replay. I can happily report that Dead Space remains a masterpiece of tension, fear and - at times - sheer terror. It holds up on account of its level design, atmosphere, unique enemies and remarkable sound design.
+
+It's worth noting, however, that there are some bugs in this PC port that were never fixed. They're easy to resolve with some minor tweaking, but it's annoying. First off, the in-game vsync creates a nasty lag on the mouse which makes it difficult to aim. Disable it in-game, and enable it using your GPU control panel - it then plays beautifully with a mouse and keyboard (and far more precise than using the controller). Secondly, if you play on fullscreen (which is the default setting) then the in-game brightness becomes way too high. Turn it down to minimum in the in-game settings, and the game looks as dark and moody as intended.
+
+Ok, so that took 5 minutes to resolve. Back to the game. Dead Space takes place almost entirely on the Ishimura, a gothic mining vessel that's a logically-designed place full of interconnections that's almost reminiscent of Dark Souls had Dead Space not come first. Chapter level loads slightly impair this feeling of the Ishimura being a single, cohesive design, but it works in terms of having discretely functional areas. There's a real sense of claustrophobia not only in the place, but in your control of Isaac, a largely silent (he grunts and screams, but never talks) engineer wearing a protective and bulky rig. The feeling that you're alone is overwhelming for much of the time. Isaac's rig is an iconic piece of kit, almost as unwieldy as a mech as you clump around, smashing things underfoot with a visceral (pun intended) crunch and grunt. It feels a little restrictive, but then it's meant to be. Dead Space 2 improved mobility and control which worked better as an action game, but as a horror game the control system here is more effective.
+
+The enemies are straight out of John Carpenter sci-fi horror, human flesh splitting and sprouting a mixture of crab-like appendages, teeth and tentacles. These body horror monstrosities are accompanied by some extremely effective sound design, and their ability to rip you apart in short order makes them genuinely scary. In fact, sound design overall is exceptional. The entire ship feels alive with menace, positional audio making you constantly on edge. Several times I found I had to dial down the tension by turning the volume down, that's how effective it is. If you want the full experience, Dead Space is not a game to play while watching TV or listening to a podcast. Equally effective is the pacing, with scattered ""havens"" giving you a brief sense of relief before  you have to open a door and head into another area full of horrors. The designers do a smart job of slowly ramping up the stakes, keeping each new encounter interesting, and throwing in regular set-pieces and the occasional environmental puzzle.
+
+Even if you didn't find the atmosphere particularly frightening (in which case my hat is off to your strong constitution), the gameplay stands on its own. Combat is impactful, slicing off limbs to visibly alter the appearance and behaviour of enemies, controlling where the threat is coming from (particularly later in the game) using your abilities and different weapons. Each unique enemy type has its own personality and approach to dealing with it, and later encounters really try to put you into challenging situations trying to deal with them all. Even though the game is set in a space ship, the designers do a good job trying to make each area feel unique and functional. There are places you visit that you'll never want to see again... until you realise that you have to. Admittedly the chase from one task to another, where each problem solved immediately leads to another, can wear a little thin (even the in-game dialogue alludes to this!) but I never felt a sense of fatigue for its entire duration.
+
+RPG elements come into play through the use of power nodes, which can be spent upgrading a variety of weapons and abilities. Power nodes are of course in limited supply and you can't level up everything in a single playthrough, so there are choices to be made. This time I challenged myself to beat the game using only the plasma cutter, the starting weapon. Levelled up this thing is lethal and satisfying, but sadly you don't get an achievement for it in the Steam version.
+ 
+There's no doubt my love for this kind of sci-fi horror strongly influences my feelings towards this game, but there's little doubt this is a classic. The sequel definitely made a lot of improvements to the formula, and many prefer it, but for me the original Dead Space is still the best.
+",0.8056479692459106,42,True
+17470,97411499,76561198010093355,"Before Chapter 5: I don't remember Dead Space being this easy.
+
+After Chapter 5: Jesus Christ of Nazareth please save me.",0.850909948348999,75,True
+17470,63761055,76561198243217592,"If you live outside the US i recommend against getting this game since EA pulled a sneaky one and raised the price for most if not all of their older games by quite a bit without a single warning. It increased by 2020% in my country.
+
+
+Skip until they fix it.",0.7508683204650879,172,False
+17470,26144053,76561198089544813,"Dead Space is, in my opinion, a good game. However, I've read many negative reviews calling the game terrible, which led me pretty confused because of how much I enjoyed playing through it. I'm the kind of guy who enjoys reading a lot of negative reviews before buying a game to see what isn't good about it, so I thought I'd dedicate a review to all people who aren't sure what to expect in this game because of reviews' conflicted opinions. No need to thank me, really. Yes, I love you too.
+
+
+[h1]""The controls suck""[/h1]
+Huh... I dunno, I found they good. All I had to do was lower my mouse sensitivity in the options menu. Hey, maybe I'm a lucky dude, but even then, I'm pretty sure there's a Steam guide called ""How to fix mouse control problems"". I've also seen people complain about how Isaac takes one third of the screen, or how there's a deadzone (which never bothered me once) when it comes to aiming. My answer is : you wouldn't want to feel too comfortable playing a horror game now, would you? The limited FOV and the kinda awkward camera help the game feel scarier and more dangerous. If people call the weird camera angles in Resident Evil good game design, I don't see why this game shouldn't get the same treatment.
+
+[h1]""The game's glitchy""[/h1]
+I haven't ran into a single glitch. While playing it, I even told myself more than once ""Wow, it's impressive how well coded this game is!"". Again, I think I probably just am a lucky bastard, I guess. Maybe the game is trash on other systems. I heard there are game-breaking glitches, though! So you might want to save in different slots every once in a while. Never happened to me, but I guess you should watch out.
+
+[h1]""The story sucks""[/h1]
+no
+
+[h1]""Dead Space isn't scary""[/h1]
+...Yeah, I kinda agree with this one. Dead Space focuses a lot on disgust to scare the player, so if you're fine with the weird grotesque enemies (like me), this game isn't going to make you pee your pants. Many people call this game absolutely terrifying though, and you just may be one of these people... It depends on you. 
+So why would people like me enjoy a horror game they don't find that scary? Answer's simple : the ATMOSPHERE. Dead Space's atmosphere is amazingly done, and even though I always knew the worst that could happen to me is some jumpscare that wouldn't be even close to making me scared (they're very predictable), I was often tense and paranoid. This is because of several things : amazing sound design, great soundtrack, good game design in general, but what really got me is the gameplay. Because if I'm not careful, enemies might just ambush me, make me use all my medpacks while I waste ammo trying to get a good shot at them, all of this using a gun I don't like because I'm trying to save ammo for that one gun I'm running low on ammunition with. Fucking up has consequences in a game with limited resources. And that tension just makes the game great for me.
+
+
+To conclude, if you're interested in this game, just buy it. There's a refund option you can use if you've played less than two hours, so just use it if the game hasn't been working well for you. Hope you have fun/piss your pants while cutting some necromorph limbs
+",0.8495355248451233,80,True
+17470,10279967,76561198041107010,"The scariest thing about this game... Is not the fact that you are stuck in a mining vessel with thousands of space-zombies hunting for you... No it's not the eerie voice singing ""Twinkle twinkle little star"" in chapter 6 either... 
+
+No, my friends, the most alarming, horrifying, ghastly thing about this game... Is the very first thing you see when you start it up...
+
+(EA)",0.7917396426200867,576,True
+17470,35804215,76561198018903665,"This is one of the greatest original horror games ever created, and it is a shame that EA has rewarded Visceral's hard work by closing the studio down.
+To hell with EA, and I sincerely hope that everyone working at Visceral finds new, far more rewarding work.",0.7908536791801453,44,True
+17470,111908366,76561197996759355,"TL;DR : It's a masterpiece of story telling using atmosphere and still holds today after 14 years since release.
+
+The game needs some tweaks to work on modern pcs, most of em can be done through nvidia or amd control panel, like forcing vsync for 60fps and no tearing, ingame vsync is broken. added AA too through it. And the game only had to bugs for me, one was that the mouse would stay on-screen if i used the steam overlay, that can be fixed with some additional software like borderless gaming, or im sure there are other free options, and the other bug was a gameplay one, wont spoil, but you need to use kinesis to escape one of the monsters moving bunk bed modules, but one of the normal enemies died in the middle of both bunks and made it impossible for me to move anything, and couldnt move the corpse since the kinesis power sticks to the movable stuff first, was just a minor inconvenience. There is some sort of problem with the framerate of animations or something ( i'm not sure if its because of the enhancements i put through the panel) but it feels like 30fps sometimes while moving the camera even though it reports 60 all the time, only happens sometimes, and thats it for the technical part of the game.
+
+Graphics hold very well for a 14 year old game, albeit doing some tweaking with the gpu drivers made it ""nicer"", atmosphere is masterfully done. You can see the carnage and chaos that has happened before you arrived and the game shows you a log either audio or notes near most of the time but you can imagine how it went.
+
+The sound is also really good, sets the mood of the entire game, you can hear something in the vents moving, and you dont know if it will attack you or not, hear screams, and the ship making creaking noises and machinery in the background.
+
+Story is also good, don't want to spoil it, most people will have played it by now but just in case, you are an engineer that volunteered on a rescue mission to help the Ishimura, but it's for personal reasons, your girlfriend was working there and your objective is getting her back alive, but things turns out for the worst when they discover some alien tech on the planet and made the crazy religious cult ( Unitologists) go mad about it, and dead people start beign infected by some sort of alien parasite that turns them into the monsters. Won't say much more but thats the main story plot that you will have to discover yourself.
+
+Difficulty i'd say normal is pretty easy, at least for me, it's my 3rd or 4th time playing it, second on steam i think. And was able to beat it with just upgrading the initial plasma cutter tool and the rifle at the very end, and the rig to get more health. So it's a nice starter difficulty.
+
+I totally recommend getting it once it's on sale if you never played it, there are no achievements so go for either this version or gog's, if you plan on trying it on the deck, ill update the review with a footnote saying if it runs without problems there, but you should stick to steam version if you plan on playing it on the deck for a hassle free experience.
+
+",0.7362175583839417,27,True
+17470,30059996,76561198040443739,"[b]Intro:[/b]
+
+The Dead Space games are survival horrors!! The series takes place in outer space in the 26th century. Mankind has expanded into space and colonized other planets, but Earth herself is in ecological crisis, having been drained of resources. EarthGov currently resorts to ""planet-cracking"" - the processing of mining entire planets for the recovery of raw materials, with a fleet of specially constructed space-faring vessels. However, EarthGov is investigating a second possibility. During the 23rd century, the Chicxulub crater was found to contain a ""Marker"" - an artifact of extraterrestrial origin which acts as a relay for a persistent electromagnetic field signal, with no apparent source.
+
+You are Isaac Clarke,  the protagonist and a ship systems engineer who is on a routine repair mission and hoping to make contact with his girlfriend who was stationed on the damaged vessel. Soon, all hell breaks loose and Isaac needs to survive the Necromorph scourge.
+
+A central theme in the games is the fictional antagonistic cult religion ""Unitology"". To me, there are many similarities between the fictional Unitology and the real-world Scientology, which I found interesting. (I am not a Scientologist, btw).
+
+[b]To improve playability (this older game) in Windows 10, I used the following resources:[/b]
+1) [url=http://pcgamingwiki.com/wiki/Dead_Space] PCGamingWiki - Deadspace[/url] 
+2) [url=https://steamcommunity.com/app/17470/discussions/0/522730699574735772/] [Fixed] How to Fix Dead Space Mouse Lag - Solution[/url] 
+3) [url=http://steamcommunity.com/sharedfiles/filedetails/?id=370894952] Dead Space:: Get your game to work properly[/url]
+
+[b]Game Thoughts[/b]
+This was the second game I played in the Horror/Survival Horror Genre. I really enjoyed it! So much, I bought and played Dead Space 2. I will also buy Dead Space 3 when it is on sale. I only wish it was on [b]Steam[/b]! 
+
+This is the 1st game I used a controller with on my PC. I used a PS4 Dual Shock controller... I was not that accurate, so it took me a long while getting thngs done. :(
+
+I had a blast with this game. My rating system for Horror based games is: 
+[b]The Sphincter Factor[/b]. 1 thru 5
+
+1 - Totally Open, you need surgery to fix this Muscle (game) ->
+5 - Totally Closed (Superb)! Tight as a well diggers a$$ (The Tops, a great game)
+
+[b]The Sphincter Factor[/b] for Dead Space = Solid 4.5
+- Great replayability,
+- Great atmosphere, IMO,
+- Awesome soundtrack,
+- Decent story, 
+- You can upgrade weapons and character armor, and
+- Boss fights were challenging (for me) and awesome!",0.7840977311134338,46,True
+17470,45792281,76561198000544100,"Simple Review Portion:
+===[ ❤ Audience: ]===
+
+☐ Kids
+☐ Everyone
+☑ Casual players
+☐ Pro players
+
+===[ ☼ Graphics: ]===
+
+☐ Potato
+☐ Really bad
+☐ Bad
+☐ OK
+☐ Good 
+☑ Beautiful
+☐ Masterpiece
+
+===[ $ Price/quality: ]===
+
+☐ It's free 
+☑ Full price
+☐ Wait for sale
+☐ Average
+☐ Refund it if you can
+☐ Don't do it
+
+===[ ☣ Requirments: ]===
+
+☐ 90' PC
+☐ Minimum
+☑ Medium 
+☑ Fast
+☐ High end 
+☐ NASA computer
+
+===[ ☼ Difficulty: ]===
+
+☐ You just need 2 arms 
+☐ Ez
+☑ Easy to learn / Hard to master 
+☐ Hard (first few hours)
+☐ Dark Souls
+
+===[ ۞ Game time/length ]===
+
+☐ Really short ( 0 - 2 hours)
+☐ Short ( 2 - 8 hours)
+☐ Few hours ( 8 - 12 hours)
+☑ Long ( 12+ hours)
+☐ Endless
+☐ I'm not finished
+
+===[ ♬ Story] ===
+
+☐ It doesn't have
+☐ Still better than Twilight
+☐ Average
+☑ Good
+☐ Fantastic
+☐ I'm not finished
+
+===[ § Bugs ]===
+
+☐ Game itself is one big BUG
+☐ Bugs destroying the game
+☐ Lot of bugs
+☑ Few Bugs
+☐ You can use them for speedrun
+☐ Nothing
+
+===[ ✦ Others: ]===
+Multiplayer: No
+Singleplayer: Yes
+
+
+Detailed Review:
+Dead Space is a 3rd person over the shoulder horror game set in futuristic space. It's garnered a cult following due to it's great use of antagonist. It truly has set the standard for modern horror games.
+
+[h1]Gameplay[/h1]
+Everything about Dead Space is in part like homage to old horror games of old. It was the first game to honestly scare me since Silent Hill 2 back in 2001. You play in 3rd person over the shoulder. As it's set in the 26th century, you can expect futuristic tools to compliment your arsenal. Most importantly you have a rail gun, a unique engineering tool that works as your primary weapon. The main antagonists are scarily hard to put down at first which makes the game scary until you learn to adapt towards your foe, which makes the game feel like you're progressing not only through the game towards the plot at the finale, but as a player. The game has a lot of little niches that make you pleasantly surprised for a 2008 game.
+[list]
+    [*] 3rd Person over the shoulder style gameplay
+    [*] Has a lot of unique little perks that keep you pleasantly surprised
+    [*] Atmosphere is very movie-esque
+    [*] Genuinely scary
+    [*] Smooth pacing
+    [*] No HUD, helps immerse you into the game where you're not blocked in the screen by menus and boxes
+[/list]
+
+[h1]Sound[/h1]
+First off, the music creeps me out. It deepens the ambiance to the point where you forget all together that it's a jump-scare tactic. Often the game will play that, much to your dismay, to your disadvantage. In some instances, the music will build up like something will jump out from around the corner to ultimately lead to nothing happening. It kept me on my toes for the majority of my gameplay.
+[list]
+    [*] Amazing music
+[/list]
+
+[h1]Graphics[/h1]
+Takes a great blend of the sci-fi genre with horror atmosphere. Most of the game is set in the dark but it works well and still holds up well to date.
+[list]
+    [*] Visually a great, conceptual visual design but some objects lack details and polish
+    [*] Creepy environment, things of very movie-esque scene you'd find in the like of Alien+The Thing+Dawn of the Dead
+    [*] Creepy enemy design
+[/list]
+
+
+Pros:
+[list]
+    [*] + Genuinely scary
+    [*] + No HUD, developers definitely took a lot into consideration to keep players immersed
+    [*] + Great story, great pacing
+    [*] + Amazing music adds levels of depth to the gameplay
+    [*] + Monsters
+[/list]
+
+Replaced:
+    [*] +/- Some bugs here and there, nothing game breaking. 
+    [*] +/- A lot of players were complaining about controls and port issues yet I never had any
+[/list]
+
+Cons:
+[list]
+    [*] - Can feel like one long fetch quest where everything goes wrong
+[/list]
+
+[b][u]TL;DR[/u]
+9/10[/b]
+Sci-Fi Horror survival 3rd person over the shoulder game done beautifully.",0.7339986562728882,27,True
+17470,18808167,76561197969489829,"Dead Space is pretty cool, I guess.
+
+Set in the distant future of 2002, you play as Isaac Clarke, a man with two dads: Isaac Newton and Arthur Clarke. Unlike many Sci-Fi protagonists, Isaac is a space Engineer, which is like a normal Engineer but in space. And if EA promotional content is anything to go by, Isaac is also a golfer, a skateboarder, a mercenary, a world famous pugilist, and probably a really good kisser. 
+
+One day, Isaac and friends go to fix a bunch of broken stuff aboard the USG Ishimura, a ship that's literally named ""Rock Village"". Unfortunately it does the opposite of make villages out of rocks and instead cracks planets open to eat the sweet sweet planet juice hiding inside. Ooh baby.  Unfortunately, someone opened the space zombie can and now there are space zombies everywhere.
+
+On the bright side, even though Isaac majored in engineering, he also apparently minored in being a unkillable death god from the 4th dimension because Isaac's right hook hits with about enough force to send the moon out of orbit and crashing into the planet below. When this game was still coming out back in 2008, the developers boasted that Isaac was at a disadvantage because he was an engineer and not a space marine. But Isaac still opens up more cans of Whoop A than the entire Earth military combined. It must be all that pent up space sexual frustration. Because he's in space. 
+
+The most unique aspect is that, outside of maybe one or two weapons, Isaac remains in his field of expertise in terms of equipment. But then again, his first weapon is called a plasma cutter. As in a tool that cuts things with plasma. Why don't you just give him a asteroid chainsaw while you're at it? 
+Actually, do that, that would be awesome. 
+
+But outside of developer words, Isaac is a huge faker. Sure he screams at everything and runs like a girl. But at the same time the guy can quick draw and open fire like the best of them.  But lets stop talking about that hunk of murder for a moment and talk about the Ishimura itself.
+
+The Ishimura is the largest and oldest ship of it's class. Roughly 1.6 Km in length if the wiki is to be believed. When you're inside it's dark, dingy, Event Horizon inspired interior, you can actually kind of believe that people lived in there. Outside of the workbench and the machine that sells you murder tools for money. There are constant reminders that the Ishimura at one point, had it's own ecosystem and community. The ship seems to have everything from accommodations, recreational areas, movie theaters, video games, posters of products, vending machines, and even a restaurant. My favorite was the Zero-G basketball. Get dunked on, son. 
+
+The Necromorphs, Daughter Space's antagonists, are gross little bastards. Originally the inhabitants of the USG Stonetown, the necromorphs now hunt through the halls, killing anything that doesn't look like them as well as spreading this weird mossy flesh stuff that looks like the stuff I find on my toilet seat.
+
+But now that everyone is dead, outside of a few induviduals, as well as all of the angry space zombies onboard, is the Ishimura scary? Well, outside of the atmoshpere, no, not really. If anything the game is like a reverse horror story about alien lifeforms doing their best to try and stop an angry man covered in metal bits, jacked up on blue milk and packing more heat than the Detroit police department. 
+
+Is Dad Space a good horror game? No. Is it fun? Yes, I would say so. The weapons are crunchy and fun to use, the enemies have enough variety to make you switch up your strategies, and there's enough bread crumbs and rewards for exploration to get you into finding audio logs and picking up space money to buy space stuff.  
+
+I'm not saying that Dude Space would be scarier if Isaac was defenseless. I happen to not enjoy horror games where you run away a bunch very fun because I'm already very good at running away from my problems. I'm just saying that maybe they should have turned it down a bit, maybe even gave Isaac less equipment but more evasion options, such as hiding or sweet slide tackles. Not even half way through the game I had to start putting health items away because my aim is as perfect as I am handsome and I was losing space for ammo in favor of the blue milk boxes. 
+
+But should you play Father Area? 
+It's a fun game, just not a scary one. I did not find myself pooping my pants or screaming really loudly for YouTube money. But I did find an appeal in going from room to room exterminating the space Vampires. It's almost like a natural selection thing.
+Man eat planet.
+Space zombies eat man.
+Immortal war god eat space zombie. 
+
+DeDe Laboratory is on the cheap, and usually goes down in price during sales. Give the game a looksy, maybe it'll hook you in for the sequels, which I'm heading to next. It's definitely one of EA's better games, but that's probably not saying much considering the crimes they commit on a regular basis. 
+
+Ded Sposs gets 8 irate space miners out of 10. 
+
+Also, apparently the game had really gory death scenes but I didn't get any of those because I'm objectively the best.
+
+Just the best.
+
+The best Curator: http://steamcommunity.com/groups/Dickbuttexperience",0.7317243814468384,118,True
+17470,70457773,76561198854565178,"Total terror 
+
+Play this game at Night after 12 with headphones and all lights switched off and be naked 
+
+Still one of the best horror games",0.7229610085487366,35,True
+17470,105597177,76561199088246855,"Back when Dead Space was released in 2008, the gaming industry witnessed an instant classic in survival horror that would go down in history as one of the best games in the genre. It was incredible how a game can be so immersive through its sound, graphics and gameplay. Here is a game that has aged so well that will have you stopping at every opportunity in order to enjoy the details and the environment.
+
+The story is great and executed very well. It is told in a subtle way that doesn’t pull you out of the immersion. The gameplay is tight and innovative even by today’s standards. Couple that with great graphics and you have a fun game without compromise.
+
+Just as the Resident Evil franchise gradually drifted into more action, Dead Space dropped and reignited the survival horror back in gaming. Dead Space is highly recommended for every gamer that likes a fun overall well crafted 3rd person shooter. To fans of the genre that have not played this yet, it’s pretty much an obligation.",0.7227326035499573,19,True
+17470,228386645,76561198054235594,"Wonderous game... sadly from an era we probably will never see again. Yearly conventions (E3), reveal parties that the world raving (microsoft/Sony/Nintendo wars). God i miss those days, i know they still exist in ""streaming"" but nothing beat turning on G4 for the next reveal and game tips were. Dead Space will always have a spot among the elders of games to me. Give it a chance if you like like true horror gaming, its fun, its detailed, its an amazing experience, i promise its not a regrettable purchase.",0.722350001335144,20,True
+17470,32672746,76561198117963897,"[h1]10 out of 10. A True Horror Experience.[/h1]
+I remember watching my older brother play this game and thinking I'd never be able to finish something so frightening.
+
+[h1]Positives:[/h1]
+[list]
+[*]Incredibly immersive
+[*]Brilliantly terrifying astmosphere
+[*]Horrifying creatures
+[*]Great story with some surprising twists
+[*]Gameplay is near perfect
+[*]The Item shop & Bench remind me of the Merchant in RE4
+[*]Telekinesis & Stasis make for interesting gameplay
+[*]Health/Stasis are displayed on your [i]RIG[/i] instead of a hud
+[*]Inventory is a real-time hologram that doesn't pause gameplay
+[*]Challenging/fun puzzles
+[/list]
+[h1]Negatives:[/h1]
+Being completely honest... I didn't encounter any cons in my playthrough.
+Well... maybe the 3D map...
+Cheers!",0.7714294195175171,29,True
+17470,202438257,76561199131072103,"I will forever hate EA for killing this franchise during its peak for their own greed, Dead space original is still one of the goated games of the horror genre. Isaac doesn't speak in this game which makes it much more darker and relevant to his growing inner grief and dementia. Isaac in first game dont need no dialogues but just his ground shaking stomp and his deadly plasma cutter.",0.7211494445800781,19,True
+17470,16539452,76561197970222247,"I finally got around to this game. I played it bit by bit over time and it was quite enjoyable. 
+
+Although it's in the horror genre, I didn't find it to be too scary, instead it felt like a slower-paced FPS dungeon crawler in space, which was great.
+
+
+I loved the theme of using engineering tools as weapons, and they made things interesting by making it more effective to dismember the enemies rather than just shooting for headshots or at the center of mass.
+
+
+There are a few caveats though.
+
+It is not a very good port. The mouse cursor feels terrible by default. You can fix the in-game mouse by locking the framerate to 60fps (see the [url=http://pcgamingwiki.com/wiki/Dead_Space#Vertical_sync_.28Vsync.29]PC Gaming Wiki[/url] for info) and use the keyboard for the inventory and menus. 
+
+I also didn't care for the default camera view, so increasing the FOV using the [url=http://widescreenfixer.org]Widescreen Fixer app[/url] helped a lot. I set mine to +0.31.
+
+
+In all, it was a good game and I am looking forward to moving on in the series, hoping that a little more thought was put into the ports for the sequels.",0.7688546776771545,31,True
+17470,16606545,76561197965054183,"This game was released in 2008 and I am playing it for the first time here in 2015.  I have to say this is a fan-freaking-tastic game.
+
+Pros:
+-Graphics and textures were amazing for an older game.
+-The sounds and music in the game were fantastic. Made for some good scary moments. I jumped plenty of times.
+-Great upgrade and progression path of weapons and items.
+-Unique game physics and in game resource management.
+-Loved the 3rd person perspective.
+-Great weapon choices and secondary fire actions.
+
+Cons:
+-At times, felt a little repetitive and tedious having to always run back to the start to finish the missions.
+-At times, camera angles and aiming were difficult in tight corridors.
+-While the in game save feature is pretty unique, it got tedious constantly finding a save point and having to click through 3 screens to save.
+
+Overall, I would give this game a strong 8.5/10.
+I would highly recommend playing and picking it up on the next Steam sale.",0.761689305305481,27,True
+17470,167226044,76561198018517850,"Electronic arts is a scummy, garbage company who just updated their terms of service into a forced arbitration clause and I am not letting them dig their rapey fingers into me and I would suggest you all do the same!",0.7095481753349304,60,False
+17470,184643323,76561198082155674,"You should do these two things before playing the game on PC with mouse and keyboard:
+1) Don't use the game's vsync feature and use vsync via your graphics driver. The game's own vsync caps the fps to 30 and makes it very unpleasant.
+2) Download the Dead Space mouse fix fan patch. The mouse aiming is normally dreadfully bad and this patch makes it perfect.
+
+Those two easily fixable issues aside, this game is so fantastic. I'm not all that familiar with horror games, and I don't think this game is scary in the slightest, but every other aspect of it is top notch.
+
+First, the gameplay. It's absolutely perfect. You have to shoot the Necromorphs' limbs to kill them, then stomp on them to make sure they are dead. The shooting is impactful, satisfying, requires precision and the gore is really good too. There's a lot of weapons that can be bought from the store, though I only used the Plasma Cutter and the Pulse Rifle, both of which were enough.
+
+You have some tools like Stasis and Kinesis, though they are used more often for puzzles than combat. Stasis is used to slow down fast object/enemies, and Kinesis allows you to move objects and throw smaller ones at enemies. These tools make the puzzle sections fun, and though I didn't use them much in combat they were useful in that regard too.
+
+There's a lot of Necromorph types with distinct behaviors. Slashers are the most common ones and are easy to kill, Swarmers constantly leap at you and can be annoying to deal with, Pregnants spawn more enemies if you shoot their belly, and the Exploders might be my favourite type of Necromorph. You can shoot down the explosive they carry to kill them and other enemies around them, and the explosion is glorious. Every now and then there's also the Brute, a miniboss that is very dangerous and makes you want to use Stasis on it to make it more easily manageable.
+
+The presentation of the game is really good too. The graphics on a basic standpoint look good, and the ship has a lot of dark areas and areas filled with fleshy walls that are kinda gross. The most interesting part of the game is the HUD. Instead of it being a typical HUD, it's very different. The player's health and stasis are shown on the back of the suit, video screens are shown in front of Isaac and move with him as he moves etc. It's very innovative.
+
+There's the Zero-Gravity areas which are creative, with you being able to jump from one distant location to another, and enemies like Leapers attack from every direction in those areas. I find them to be some of the most fun parts of the game.
+
+Levels also have parts where you are outside the ship and need oxygen to survive, which gives a sense of tension. Enemies often appear and you want to kill them quickly so you can leave the areas before your oxygen becomes dangerously low. Isaac's exhausted breathing and a lot of things being quiet makes it quite tense.
+
+Enemies and ammo crates give you resources you need, like ammo and weapons, and you can also buy said resources from the shop. There's items that have the sole purpose of giving you more money when you sell them, making you want to look for them. The most important things to buy in the shop are suit upgrades and power nodes. Suit upgrades allow you to carry much more resources, and you can use power nodes for things like increasing your health, making weapons deal more damage and take less time to reload etc. Power nodes also appear in many locations, so it's good to look for them.
+
+The story is... alright. Isaac tries to find his girlfriend over the course of the game, and the other few survivors like Hammond help him. I didn't find any of the characters all that interesting, and Isaac has Gordon Freeman personality. The twist at the end of the game was cool though, and the ending... had something sudden happen out of nowhere.
+
+Boss fights are fun, but they are on the easier side. All of the bosses require you to shoot at yellow parts of their bodies to kill dismember them, and they all can be killed without much trouble. I'd say the hardest boss was the Slug, and that was mainly due to the bad turret controls.
+
+As I said, I find the game to be very lacking in the horror department. It's atmospheric, but not really scary. The game sometimes uses jumpscares that aren't even shocking, and I also didn't find the violent death scenes to be that disturbing.
+
+[h1] Conclusion [/h1]
+Dead Space 1 might be one of the best games I have played in a long time. Lackluster horror and kinda bad story aside, the game is amazing in every aspect. Combat is great, graphics are great and level design is great. The game is outright a masterpiece in my eyes and I recommend it.
+
+[h1] 9.5/10 [/h1]",0.707383930683136,22,True
+17470,219095947,76561199013720689,"I MISSED THIS GAME SO MUCH!!!
+
+When i was younger my older brother had Dead Space on the XBOX 360 and being young at the time, i really wanted to play it. when i actually started playing i remember getting so freaked out by the scene when you look out the window and it's just a guard getting impaled by a Necromorph, that scene freaked me out so much i couldn't play it for a LONG time. Now that im a little older, i started playing this game myself...im still scared but i beat the game and i now have Dead Space 2, 3, and the Remake
+
+Still a 100/10 after all these years <3",0.7046187520027161,24,True
+17470,115862388,76561198058339856,"Ah Dead Space. My favorite horror game and just all around amazing game. Anytime someone asks me for a new spooky game or if they should try Dead Space my answer is always yes! Great horror and scares without using the same ol bag of tricks too often. Punchy and satisfying gameplay. And some of the best art design and atmosphere in a game of all time. I highly recommend this game!
+
+Also keep in mind. the PC port is a bit rough out of the box, but the good news is the issues are pretty easily fixable! and don't require much effort to fix at all. just take a look at the steam guides or even google the fixes, easy.",0.7036531567573547,25,True
+17470,78522758,76561198057725524,"After not having played the game for around 10 years I finally replayed Dead Space with one of my friends as a Halloween special this year. This game is an absolute masterpiece from start to finish. What's incredibly funny to me is that the gameplay is based on Resident Evil 4 for the most part (When I first played Dead Space back in the day I hadn't tried RE4) but Dead Space absolutely destroys RE4 in every single way possible with its insane improvements IN MY OPINION. The story and narrative throughout the game is simple yet interesting, as it unravels you'll get a better understanding of what exactly it is you're fighting and why it's so important to the Dead Space universe. Gameplay wise it's amazing, it's intense when it wants to be, has great boss fights, fun mechanics and puzzles to play around with, enough enemy variants to always keep you from getting bored and an upgrade system that allows YOU to pick what you'd like to specialize in. One of the coolest things about Dead Space is by far the atmosphere. You might think for a game that on average lasts about 10-14 hours that the enviorment would get boring but think again! This might be an odd comparison to draw but Dead Space's chapter system kinda reminds me of the level structure in Luigi's Mansion 3 where each floor has its own theme. You see in Dead Space there's a total of 12 chapters each exploring their own section of the Ishimura flagship you find yourself trapped on. Believe it or not but none of these chapters really feel the same, their locations feel unique. One very important thing about this game! DO NOT PLAY IT ON EASY OR NORMAL MODE! Your first playthrough should be on Hard. You might say ""That's for me to decide, thank you very much!"" Yes of course it is, but Dead Space didn't do a very good job balancing easy and normal mode. On every difficulty below Hard the enemies doesn't feel intimidating, you get way too much ammo, and each fight section just feels like a minor bump on the road. While on hard you'll actually fear for your life when encountering certain types of Necromorphs! ALSO Hard isn't actually that difficult at all. You see Hard mode in Dead Space starts out pretty challenging till you get your first couple of upgrades. Yes the game will be a bit harder in first 2 chapters but after that you're gonna thank yourself for not turning all the enemies into the Grunts from Halo.
+
+That about wraps it up for Dead Space. I'll give the game a solid 9/10. If you want some good spooks with slice of action then pick this up asap! :D",0.7008189558982849,20,True
+17470,114406945,76561198038440131,"It's a xbox 360 port.  Download the Dead Space mouse fix and most of your problems will go away.   Turn off in game V-synch and force it with your driver control panel, then cap it at 60.  Now you can aim without feeling like you're in a syrup bottle and a lot less bodies will be flying through the floors.",0.7003172636032104,24,True
+17470,123221070,76561198143767815,"[quote]https://youtu.be/qakzt5YEOxM
+Welcome aboard, Isaac Clarke. Occupation - engineer. D.O.B. - check wikipedia. You are now a part of repair/salvage crew [spoiler]possibly, not intact[/spoiler] of a planet cracker grade spacecarft called [b]石村[/b], because in space no one will know japanese, i guess.[/quote]
+Once you embark on the main quest it's hard not to be overly geeky about this game. The story premise is a perfect segue to a tangible, living-screaming sci-fi world tuned to stylistic perfection. Inspired by thriller type of terror of Resident Evil games, mystique-infused space horror from the likes of Event Horizon and Alien, Dead Space takes notes to create a blend of Lovecraftian fear of the unknown with Saw's unnerving brutality. 
+I like about that the most is how from the get-go world-building goes hand in hand with the core gameplay. You are moored to Ishimura literally as a working class hero, with nothing but a bad feeling about this right after a harsh landing and too soothing welcome announcement. What appeared to be a lead-pipe cinch for an engineer will soon unravel a more scary repair task than a broken Wi-Fi, soaking you into a compelling plot with twist upon twist. 
+[quote]Ironically you will find yourself assigned with a different fixing task - a PC port detrimental to your experience: https://steamcommunity.com/sharedfiles/filedetails/?id=232050455[/quote]
+So, when you pop the cork in the prologue you will watch Isaac trapped in a place where roses are blackened as ink and only the dead can hear you run. The key fact about the ship is it's mining purpose, which led to it digging an otherworldly discovery at the center of it all. That [b]thing[/b] is a perfect example of ""in ideas the unimaginable, in words the unspeakable"". After the events went haywire it succumbed everyone to madness. You will constantly see sole survivors scratching themselves like meth addicts until they bleed out. Aside from your 2 distanced shuttle members serving as briefing machines Isaac is indeed lost in this gradually suffocating isolation... when you are not facing the necromorphs...
+
+The brilliance of Dead Space gameplay is evident by bringing utility tool to a mutant fight. These truly imposing creatures are ought to tear off your skin, make a coat out of it and use the spine as a tube for a pus-blood cocktail in Isaac's body. Nasty and gory-disgusting, they are rapidly rushing with cannibalistic urge. And you are forced to, in fact, just incapacitate them by cutting of the limbs with space-engineering stuff like a precise plasma cutter, more widespread line cutter or, my favorite, a pipeline saw. Meaning that aiming at center mass or a head won’t work, decapitation even aggravates them more, although you can do that just for the sake of the stopping power effect. Whilst you are about to be crumped by necrophilies you also switching vertical-horizontal aiming modes on the almighty cutter tool - [u]handle with care[/u]. 
+In the heat of the moment Isaac's tanky, but not sluggish movement makes outmaneuvering them a class act. However, you can stomp the car wreck victims like a savage with your military grade boots or just hit them with an arm's swipe - obviously risky, but seeing procedural dismemberment makes your inner censor happy. 
+To diversify maim-mutilation process the devs can introduce other not necessarily engineer-related stuff like a pulse rifle, flamethrower or a laser-beam gun. I salute this arsenal for not supplying you with a know-how solution. Each weapon comes with an alternative fire, but also with both purpose and shortcomings. You'd think that a pipeline saw capable of temporarily keeping the blades at a distance is OP, but it can make you vulnerable if you are not preserving the needed range. RIfle's 360° fire mode is useful for crowd control, but depletes ammo in seconds.
+[quote]Besides the ""pew-pew"" you can temporarily freeze smth with a [b]stasis[/b] module or grab an object on a certain distance with [b]kinesis[/b]. The latter allows you to get hidden stashes of loot that might otherwise be unreachable. Optional supply rooms can be ulocked with a power nod. You will also find yourself backtracking while scrounding for resourses used for upgrades. It's a great replayability system.[/quote]
+Overall DS is an easygoing - nervously tangling fun where improvisation can be your lifeblood. It's necro ecosystem makes sure if you utilize all the tools to a great success. The bosses rather bark than bite, but each encounter is a spectacle to behold in vein of God of war's gigantism. 
+
+But the [b]石村[/b] won't fix itself, so cowboy up before the next repair objective revolving around puzzles. The game will push you through mesmerizingly handcrafted decks where everything is thought-out. From med labs with artificially grown babies and nature-sounding orangeries to stark industrial environments where asteroids are decomposed within the power fields. From time to time the level-design opens up to screen saving panoramas in outer space presenting you highly atmospheric zero gravity action with bits of debris floating around. You can even play multistaged space basketball or practice on targets in the security barracks.
+
+For a game using the Godfather engine Dead Space looks impressive, dare i say, timeless if you won't look at the textures under a microscope. It's stellar art direction exemplifies that graphics is nothing by itself, because the design leaves an indelible imprint on it. The enormous technocracy of dieselpunk setting. The all-industrial practically of Issac's suits. Rotted versions of necromorphs with glowing eyes and dark rancid flesh covered in cysts. Not only does Dead Space cleverly uses the interplay between lighting and fog, but refuses to leave you confounded with it's diegetic HUD. The dynamic waypoint trail saves yourself a headache, especially when all falls apart. Dead Head Fred game was the first to put on a back a life indicator, but DS has improved it with various states of health.
+
+Given that this was originally intended to be a System Shock 2's sequel, the horror is not so subtle. You walk through foreboding hallways where everything is orchestered within the game's linear structure. It's cool that necromorphs can hoap out of vents, but i expected it to be random with such amount of spawn points. Some are posing as corpses punishing you for unattentivness. But the game can do better. There are unexpected jumpscares in previously safe areas. Every train ride is a paranoic nightmare due to smoke hiding the enemies. As you uncover the story closer you will usher into horors of your own imagination. [b]The thing[/b] has tampered with the crew's minds so badly that you can stumble upon cryptic messages showcasing unique language, which looks like a mix between ancient greek and hebrew - you can decipher it.
+ 
+The neatest part about DS horror is it's skin-deep sound design, which gels well with everything in the game. With my [b]Beyerdynamic DT 770 PRO[/b] plugged into DAC this was an aural bliss. When the game is not trying to scare your eyes it can do it with noise. Almost everywhere smth around you is happening on the background making prediction of forthcoming events a wild guess. The sound of falling pipes increases paranoia, necromorphe warns in the distance with his indigestion, Isaac reacts to high-stress fights with a heavy breathing in his helmet. Secluded rooms tells your tales of despair with whispers in your ears, making you reach out for schizo pills. Jason Graves has composed pretty traditional score, but the one which yanks you out of the comfort. Eerie-grimmy cosmic ambient is f@ckn glorious.
+https://youtu.be/7fWSajnuX_4
+
+Dead Space is not the most scariest or complex game around, but with so many innovative ideas being interwoven it presents a memorable horror where the real monster is a human church.
+[h1]D!XI[/h1]
+
+
+
+
+
+
+[spoiler] [url=http://steamcommunity.com/my]Make Us Whole[/url][/spoiler]",0.6988349556922913,36,True
+17470,7932662,76561198014440353,"[h1]Intro[/h1]
+
+Welcome new recruit, hope you enjoy traveling through the emptiness and void of space as you traverse a deserted ship for signs of life that cried for help before their lives faded away. 
+
+Once again another game that is so horrific by the end of it I hope the main character just has common sense to ask for a pay increase.
+
+[h1]Atmosphere[/h1]
+
+Dead Space is a great atmosphereic game that has alot of variety in enemies. While I did not find this game to be much of a ""horror"" like how I think of Amensia I did find it to be a very good action-thriller.
+
+[h1]Tools as Weapons[/h1]
+
++ Weapons and Gear can be upgraded
+
+Normally you would pick up a gun, and shoot aliens, however in this game you modify your tools to become weapons, each expressing its own style and functionality, constantly becoming powerful based how way you upgrade, really helps  blowing off limbs from alien hordes.
+
+[h1]Role as Engineer[/h1]
+
++ Repairing sections of the ship varies
+
+Playing as a engineer feels very aethentic, repairing the ship, one section at a time feels not only rewarding but exciting, watching it come to life the further you go down the rabbit hole, while upgrading your gear along the way to avoid being overcome by the monsters laying in wait.
+
+[h1]Enemies[/h1]
+
++ Good Variety of Enemies
++ Limb System adds dynamic ways to deal with enemy
+
+There is a good selection of enemies and bosses to blow apart in this game. Brought me back to the days when games like doom had alot of variety in monsters. Their weaknesses being their limbs is also very interesting and somehow at the same time disturbing to a degree. A shame you cannot make any snowmen out of their limbs would be a real good scare for the children.
+
+[h1]Conclusion[/h1]
+
+For those who want to play a game where you play as a engineer who goes through a isolated spaceship and blast the limbs off your enemy I do not know why you are still reading this.
+
+Disclaimer: You might get so used to using tools as weapons that you go into your shed and modify everything into weapons and walk out like a berserker in a RPG fully geared to rock and load.",0.747576117515564,47,True
+17470,38211317,76561198044800545,"This game is something you simply need to play, however, i reccomend you don't buy it on steam as EA will receive money for it. i recommend the shadiest key reseller you can find to be sure not a single penny of what you spend goes to EA. EA killed the franchise and the studio making them with utterly cancerous microtransaction ridden mobile grade ''games''",0.8427788019180298,118,True
+17470,15570718,76561198014766672,"Yep, I'm 6 years late to the party with Dead Space, and even though it is that old, it still holds up well to being one of the most well-made games I have ever had the pleasure of playing. This is one of the few games that I was able to carry on straight into a second play through after finishing the first one. 
+
+This is a third person, action, horror survival game, and you play the ever mute engineer Isaac Clarke.
+
+The scariness of the game is very much factor that dwindles as you play more and more. To begin with, every little noise kept me from turning a corner, but towards the end, the jump factor worse thin on most things. 
+
+Even though the game is 6 years old, it still looks absolutely stunning, giving you plenty of chances to show off that lens flare in screenshots.  The combat can seem very difficult to get to grips with at first, but I bloody love how each part of the aliens can just blow up and be removed from the 
+
+The game is locked at 30 fps until you turn off v-sync, which is on by default for some reason, although once you do turn  it off, your mouse controls become very slow and the only way I could get round this was by turning my DPI settings all the way up to max on my mouse itself. 
+
+All in all, Dead Space is one of the past decades classic must play titles. 
+
+Find more reviews at http://www.completingthebackloggroup.com/",0.7423781752586365,91,True
+17470,49459133,76561197990913342,"Dead Space is a public service announcement warning you to not be one of the first generation explorers and engineers to colonize space. It's one of my favorite horror games and a series I love, a classic that holds up today. Let's take a look at why it works and what separates it from your average ""guy shoots aliens"" game.
+
+In Space Is Scary you play as An Average Engineer, a man who immediately regrets agreeing to come into work on his day off. You and your crew of exposition dispensers board the USG Ishimura and everything starts breaking. In a cute spin on the usual narrative framing device of early 2000s gaming you actually fix everything to advance through the ship and thus the plot. You are an actual Space Engineer and you have a variety of tools to assist in doing not-at-all mundane tasks that make up the level design and exploration. It may not sound like it makes any difference but I found it subtly charming to have a real reason to be doing crazy dangerous video game action things to get through stages. I was actually restoring power, fixing the flux capacitors and feeling justified in going through these OSHA nightmares. It can be difficult to identify genuine charm but Dead Space has it. It feels right in a delightful way that almost all of your guns are repurposed mining tools and although not perfect the Ishimura feels like a place where people actually lived, making surveying the aftermath of the end all the better.
+
+The stars of the show are the necromorphs, our alien antagonists. These guys are a treat. You know these boys are well designed when they're able to go against one of horrors most common rules: don't show the monster too early/often, if at all. The necromorphs show up frequently yet are always intimidating, always threatening, always meaningful. Even as you advance into late game stages you will find some new threat that makes you flinch, whether it is bodies repurposed to spread airborne particles that moan awfully as they do it, the creepy crawling head guys and infectors that are actually easier to fight but nastier to witness or the unerring Hunter, reigning king of unsettling. Dead Space uses powerful sound design and potent art design to pitch a foe that is unnerving even with dated graphics. Smart map design lets the necromorphs flank or swarm you and turn wide open spaces into claustrophobic invitations to match any corner or tunnel, for hearing but not seeing enemies is a terrible prospect. They come in a wide variety, they can come out of the vents and in the series trademark twist they are not playing by zombie rules, each type having different sweet spots that incentivize dismemberment, lending Dead Space a good gameplay motivation of seeking weak spots that syncs up with in-universe rules. Like the Space Engineer level design this smoothly improves player immersion.
+
+Throughout each Dead Space game I find myself wonderfully immersed. I am scared and on edge yet not psychologically rattled. Dead Space is heavier on the action side of things and by game's end you will be filled with a bit more courage than not. But each time I entered the armor shop tube and came out in my new armor, each time I confronted a build up to a new danger spot or big boss fight and underwent the ritual of checking and reloading each of my guns, each time I thought I was advancing down a hallway and something terrible and in-universe happened and I had to react... I realized Dead Space had drawn me in perfectly. The soft terror of the setting and the budding madness of man and marker is a mirror to the moment to moment action of fighting the necromorphs, a textbook execution of highs and lows that enhance one another. Dead Space is great design for a great game and I strongly recommend it.",0.7377325296401978,28,True
+17470,29958538,76561198026446171,"[i]I take a deep breath. Come on, I tell myself, it's just another corner. You can't just stay here, wherever ""here"" is on this endlessly large and chaotic ship. And anyway, they'll come for you, sooner or later, here or there, so you might as well just go. Still, it takes all my resolve to move on, carefully aiming the welder straight ahead, expecting to be jumped at any moment now.[/i]
+
+Dead Space is the single most horrifying game I've ever played. It uses all the familiar horror tropes - isolation, darkness, the unknown, delusion, overwhelming odds, mistrust - and manages to not only make them believable in a sci-fi setting, but so visceral that they'll grip the player from the moment they set foot on the Ishimura. 
+
+[i]Nothing. Long corridors of nothing. Nothing but the noises, the creaks, the constant tension, the flickering lights, the many, many wall panels, each and every one fit to hide one of the horrors that crawl through the intestines of this ship, that have infected it to the core. And when they finally catch up with me, as they inevitably will, it still, STILL comes as a surprise, sending me frantically pacing backwards every time, aiming for... anything. Heads, limbs, whatever it is that keeps these monsters alive.[/i]
+
+Between all the scares and darkness, Dead Space also manages to be beautiful, almost transcendent at times. The quiet, damaged, empty bridge of the Ishimura, with its high glass panes, looking out into infinite space, for example, allowing you a moment of peace after encountering something that almost would've been the end of your journey. 
+
+[i]Space is peaceful, quiet, soothing, but it's a deceptive peace, trying to lower my defenses, distract me from the dangers that lurk all around me, just waiting or a chance to get to me. But... it's so beautiful. So calm. Can't I, just for a moment, rest among the stars, forget about the nightmare I'm in? Just for a moment...[/i]
+
+Even after all this time that I've played this game, I feel myself on occasion thinking back on it, remembering pieces, scenes, locations, sometimes dreaming about it. It's not often that anything gets under my skin like that, but Dead Space certainly did.",0.7370848059654236,39,True
+17470,48440662,76561197981776655,I played through this all night on my Xbox 360 when Dead Space originally relesed. Dead Space is one of the best and scariest survival horror games ever made. The atmosphere the developers created to this is excellent and it's not something many horror games can get right. Every fan of survival horror should give this a try. It's a shame that there will never be a 4th part for the series...,0.7366432547569275,33,True
+17470,34636512,76561198005012314,"A prime example of excellent atmosphere-making. The slow, heavy breathing, the variable heart rate, the occasional whispers, the voice of the ship's announcement system (""Entering zero gravity."" ""Entering vacuum.""), the hum and beeps of holographic displays and HUD, the slow onset of suffocation in vacuum and the omnipresent ominous music and ambient sounds. All of those things and more (like the design of your enemies, the Necromorphs) are the engines of horror running this amazing sci-fi shooter. The game will put you to a test of your survival instincts, quick trigger finger, strong stomach and orientation in space by putting you in areas with zero gravity, where you can jump from wall to wall to reach your objective. The objectives are very variable and original as the story will walk you through all of Ishimura's decks, mainly in order to fix something (your vocation is ship systems engineering). Isaac, go there and fix that. Oh no. Something is blocking the path. You have to first clear that mass of undead crap in order to get there. You and your colleagues are communicating by holographic video transmissions and you are constantly being given directives while they sit tight in safety. It's better though, for the atmosphere, that you are alone all the time. The gameplay offers a nice variety of enemies and weapons for you to enjoy, but I found many weapons to be too weak without upgrading them and power nodes used for upgrading are few and far between. Graphically the game is very well-done standing the test of time. I recommend turning off the blurry in-game AA. In-game vsync caps the game at 30 FPS. Download a fix for the game's terrible mouse support. Play on Hard. While maintaining a nice difficulty level, the game showers you with resources and you can buy what you need in the Store. Pressing Continue game in Main Menu causes the game to set the difficulty to Normal.
+
+9/10
+
++ true sci-fi horror atmosphere, loud sound design, original HUD, dismemberment system
+- some bugs, Impossible difficulty unlocks only after beating the game",0.736031711101532,25,True
+17470,75912250,76561198410490813,"While the game itself is fantastic and holds up as a near masterpiece, this port is riddled with control issues if you're playing on mouse and keyboard. I had to download a workaround patch to get the controls to work properly, then another one to get the camera to work properly. Finally, I reached a game breaking bug where, whenever stepping on necromorph tissue flooring, my aim goes straight up and refuses to budge no matter what. There are mandatory segments in which you go on rails and shoot asteroids/necromorphs and the issue persists here. I am now unable to progress, and after days of googling the issue have not found any solutions.
+
+Purchase at your own risk. As for now, I'm stuck 2/3 of the way through the game unable to progress.",0.7357053756713867,78,False
+17470,96342280,76561198202022263,"[h1] Dead Space [/h1]
+
+=== [ 🎯 Difficulty: ] ===
+☐ No Difficulty
+☐ Easy
+☑ Standard
+☐ Big Learning Curve
+☐ Hard
+☐ Impossible
+
+=== [ 👪 Audience: ] ===
+☐ Everyone
+☐ Kids
+☑ Teens
+☑ Adults
+☑ Mature
+
+=== [ 👀 Graphics: ] ===
+☐ What Is This?
+☐ Bad
+☑ Acceptable
+☐ Good
+☐ Great
+☐ Stylistic
+☐ Beautiful
+☐ Masterpiece
+
+=== [ SOUND/MUSIC ] ===
+☐ Bad
+☐ Nothing Special
+☐ Good
+☑ Great
+☐ Beautiful
+☐ I´m Gonna Cry
+
+=== [ 🌏 Story] ===
+☐ This Game Has No Story
+☐ Nothing Special
+☐ It´s Alright
+☑ Well Written
+☐ Epic Story
+☐ Thinking About It, When I Sleep
+
+=== [ GRINDING ] ===
+☐ Nothing To Grind
+☑ Isn't Necessary To Progress
+☐ Average Grind Level
+☐ A Lot Of Grinding
+☐ You‘ll Need A Second Life For Grinding
+
+=== [ 💎 Price ] ===
+☐ Free
+☐ Underpriced
+☑ Perfect Price (Even for it's age)
+☐ Could Be Cheaper
+☐ Overpriced
+
+=== [ ☣ Requirments: ] ===
+☐ A Toaster Could Run This
+☑ Low
+☐ Average
+☐ Above Average
+☐ High End
+☐ NASA Computer
+
+=== [ ⏰ Game time/length ] ===
+☐ Really short ( 0 - 4 hours)
+☐ Short ( 4 - 12 hours)
+☑ Average ( 12 - 24 hours)
+☐ Long ( 24+ hours)
+☐ Multiplayer/Neverending
+
+=== [ 🐞 Bugs ] ===
+☐ Game itself is a bug
+☐ Lot of bugs
+☐ Few Bugs
+☑ Nothing
+
+=== [ ENJOYMENT ] ===
+☐ I´d Rather Watch Grass Grow
+☐ Hard To Enjoy
+☐ Repetitive
+☐ It's Okay
+☐ Fun To Be Had For Sure
+☑ The Kind Of Fun You Will Remember
+☐ Life Changing
+
+=== [ REPLAYABILITY] ===
+☐ One-Time Experience
+☐ Only For Achievements
+☑ If You Wait A Few Months/Years
+☐ Definitely
+☐ Infinitely Replayable/Multiplayer
+
+=== [ WORTH PLAYING ] ===
+☐ No
+☐ Wait For A Sale
+☑ Yes
+☑ I Can´t Recommend It Enough
+
+TOP 3 FUN THINGS TO DO:
+⭐️Upgrading armour and weapons.
+⭐️Fighting your way through a space station.
+⭐️Defeating the bosses.
+
+THE UNIQUES:
+💎The best kind of horror/sci-fi.
+
+PLAYER GAMING REQUIREMENTS:
+💼Horror.
+💼Sci-fi.
+💼Action.
+
+VERDICT:
+Another great game that I missed when I was younger, the best thing I can take away from this is at least I got the opportunity to play it now. Dead Space still holds strong on it's own and that's a big achievement considering it was released in 2008, the only minor fault I see within this game has to be the graphics but that can't be helped unless it gets a remaster (Which has been rumoured).
+
+Play this gripping sci-fi horror for all it's glory, the story and gameplay is absolutely amazing and still deserves many hours to be put into it. I didn't have to alter anything to get this game to boot up but I have seen some review saying differently so I guess it's down to the specs on your PC. Either way, buy this game if you want to play a REAL sci-fi horror.
+Total Score = 95/100.
+
+SIMILAR GAME LIKE THIS? / REVIEWER PREVIOUS EXPERIENCE:
+Dead Space franchise, Resident Evil
+
+GAMEPLAY:
+Dead Space is a 2008 survival horror video game, this title was the first in the Dead Space franchise and drew inspiration from other works of horror, notably Resident Evil 4 and the Silent Hill series. 
+
+Set on a mining spaceship overrun by monsters called Necromorphs, the player player controls engineer Isaac Clarke from the third-person perspective as he navigates the spaceship, fights Necromorphs, and struggles with increasing psychosis. The player explores areas on the station through a chapter-based narrative, solving environmental puzzles while finding ammunition and equipment to survive. Isaac wields engineering equipment as a weapon.
+
+■■■■■■■■■□ 9 / 10
+Isaac.. I don't know if you're the sane or insane character in all this.
+
+RECOMMEDED SPECS:
+OS: Microsoft Windows® XP SP2 or Vista
+Processor: 2.8 GHz 
+Memory: 1 GB RAM 
+Graphics: DirectX® 9.0c / NVIDIA GeForce 6800 / ATI X1600 Pro
+Hard Drive: 7.5 GB free space
+
+Review to Dead Space 2: https://steamcommunity.com/profiles/76561198202022263/recommended/47780/
+
+Review to Dead Space 3: https://steamcommunity.com/profiles/76561198202022263/recommended/1238060/",0.7342366576194763,68,True
+17470,120543454,76561199138467773,"Atmosphere is hittin the stanky leg. Necromorphs are some of my favorite enemy types in gaming ong fr. Story slaps harder than my alcoholic father. Overall, 20/10 game.",0.7316655516624451,30,True
+17470,210916939,76561198264347479,"Awesome game. Much better than the remake. Just don't turn off vsync until you get past the first door, cuz you'll get stuck if it's off at that point",0.6796621084213257,21,True
+17470,220216212,76561198055438336,"Couldn't get the game to work on windows 11 with amd cpu. Would crash after hitting new game.
+
+Things I tried:
+Limited game to one core
+Turning off vsync, using amd enhanced sync instead.
+Disabling fullscreen, in game settings and windows settings.
+Changing the windowed resolution
+Limiting FPS to 60
+Compatibility Mode (Vista and Windows 7)
+Run program as an admin
+Closing all other programs except steam
+Disabling steam overlay
+Unplugging all USB devices except for keyboard and mouse.",0.6741018891334534,25,False
+17470,132589018,76561197962092557,"[h1] Retro Review[/h1] 
+Dead space was in a time where I was still a kid and actually feared horror games. I played this sometimes on my brothers pc, and barely remember finishing it, mostly because it was still horrifying to me to play games like this. This changed now, although I still get jumpscared at times, but the constant dreadful atmosphere doesn’t catch me in the same way any more. I love horror games mostly only if combat is involved, rather than being a walking simulator. And unlike the static resident evil esque isometric games where combat is rather serviceable and only there to add the dread of item scarcity here the combat is actually a proper main and good part of the game.
+
+[u] Gameplay[/u] 
+As a third person shooter your character moves relatively slow and has a certain weight behind him, aiming is still very responsive and snappy. You have your main weapon, a sort of electric cutter that sends a beam out that cuts anything in its path. Which is the starting weapon and strangely I found the best one in the entire game. There are other weapons and ammo types, but most weapons I found are either just fun to use or very niche, like the flamethrower being very neat for small hard to hit enemies but useless for the rest. 
+
+Since the main feature of the game is that cutting off limbs damages them the most those weapons who feature cutting are actually the best in the game, aside those enemies that have clear glowing weakpoints and can be easily attacked with others. I think this balancing of the game is really great. Additionally to counter the lack of movement of the main character you can throw items or slow enemies or things down via a stasis module. This also works together and makes most of the puzzles. The puzzles arent hard, sometimes a bit creative but really nice to change the pace in this game.
+
+The puzzles and anything else on the ship is dangerous and wants you dead, this concludes in very neat death animation and action sequences. Its mainly a horror game but also feels closely to an action roller coaster. For me it was the best combination between both. There are also some space or zero gravity sequences, which were okay, but nothing impressive.
+
+Traversing the map is really great due to the great map and waypoint system the game has included. You can find anything you want easily even though the map is rather full of corridors and such. This makes the map not as recognizable as it could be, but definitely fits the setting and makes the more unique map pieces more memorable. 
+
+Also neat is the upgrading system where you slowly upgrade your suit or weapon by finding various resources in boxes that you can stomp open with the best stomping animation ive seen so far. Although I personally found the game even on very hard quite easy on the resources at times.
+
+The major issue of this game is the performance, as you need to do a variety of fixes and its not just as easy as downloading a simple patch like with some other older games. This can also create some new or show old bugs. Meh.
+
+[u]Story [/u] 
+The main character is an engineer and follows a check-up on some ship that stopped responding, where apparently the whole crew is missing and monsters appear around every corner. The protagonist also has personal stakes as his girlfriend is somewhere on this ship. You don’t really feel that much connection between those two as you only start with a video clip of her, but the main part of the story is rather living through this and discovering why exactly the passengers turned into monsters, additionally exploring and discovering about this sci-fi universe as you luckily wont get bombarded with exposition dumps.
+
+[u]Aesthetics [/u] 
+Despite its age the game looks really fantastic, mostly due to its really good lighting, that if the lighting does suck at times it reveals its age and low textures. Most known and impressive is this game for its hud and information the game shows the player quite naturally via pop ups and holograms on the characters suit or menus he opens.
+
+Although the OST wasnt really memorable to me, it did its job really well, giving you a cascade of sounds that increase the distress during action moments. Mostly the gun effects and sound effects of enemies have been engraved into my ears. Especially the environmental stuff sounds good and I prefer this definitely more than having a banger soundtrack in such a game.
+
+[u]Conclusion/TL;DR [/u] 
+Definitely worth to check out and the cheaper alternative towards the remake to play a neat action/horror survival hybrid that doesn’t ever go over the top with its action parts. The universe they created is quite credible and the story intriguing. The combat is fun and it offers a good mix between this and the puzzle parts to change up the pace. There isn't much I can complain aside the abundance of resources and the various fixes you have to do in order to get it to run properly on windows 10.#
+
+Fantastic survival horror game",0.6737343668937683,12,True
+17470,72199527,76561198031200115,"Dead Space 1 is still a classic game that'll have you on the edge of your seat all the way through. [spoiler]Even when you become a necromorph killing machine by the end of the game[/spoiler], you'll still feel unnerved just by walking around on the Ishimura. The game is a real gem of survival horror game design.
+
+I played Dead Space 1 after only playing Dead Space 3 on the Xbox 360 a few years back, so I was interested to see how much changed between the games. Dead Space 1 is a much tighter experience than Dead Space 3. The levels, while linear, don't feel that way with plenty enough to explore and look at. The environmental story telling is on another level with this game too. Piecing the story of the Ishimura through audio logs and context clues is a real treat. Each section of the ship filled me with dread as I trudged down them corridors. The game still holds up graphically and auditorily thanks to its striking aesthetics and foreboding sound design. Even by the end of the game when I had thought I'd seen all the games tricks I still felt intimidated walking around by my lonesome.
+
+The gameplay, while a tad bit dated (make sure to install the mouse fix mod) still holds up well. The game has a solid gameplay loop of fighting, exploring, and scavenging with some light puzzle solving to break up the pace. The difficulty of the game on normal - while a bit on the easy side - definitely is still challenging enough to provide a good bit of fun. Each enemy requires a different way of handling them, even if you're only using the plasma cutter. Every enemy I fought had me thinking ""How do I most efficiently take this monster apart?"" Some enemies even change how you explore around because of what they do. The stomp is also one of the best things ever put into a video game.
+
+Dead Space 1 is a great game. I personally prefer it to every other entry in the series. It's a tight experience that is enjoyable from start to end. Highly recommend giving it a shot.
+
+EDIT: Some people found a phrase I used to be a spoiler - so I censored it just in case. Not a story spoiler or anything though.",0.723354697227478,28,True
+17470,74173873,76561198114586751,"[b]Dead Space | ★★★★☆[/b]
+
+A very well implemented blueprint of Resident Evil 4 with a effectively execution of futuristic space technology. A unique set of weapons that's genuinely ideal for the enemies, Some mechanics are inspired by Half-Life 2 which is a big plus for me.
+
+Loved that they go for a silent protagonist here, It actually gives you your own takes on most of the matter. Addition to that Is: It actually increases the terrors-surrounding generates. Eventually, You'll get used to the frightening environment until it caught you off-guard. 
+
+I really like everything they applied to this game, I just wish that the story struck me out as I hoped to.",0.7205616235733032,26,True
+17470,127064526,76561198087525446,"[h1] Sweat Face [/h1]
+
+Man... first of all... I had a lot of fun playing this game.
+
+Dead Space is such a refreshing experience to beheld, especially as the majority of horror games I've played recently have been nothing but downright disappointing & felt unfocused.
+Luckily however, you can never go wrong with a classic.
+
+
+
+[h1] Headstomp [/h1]
+
+The game-play of Dead Space is really, really good! Not perfect -- but reaching 'fantastic'!
+I f#cking adored cutting limbs off for a continuous entire campaign, it never got old. It was just super thrilling. But when it reached the point where the mechanic begun to feel a tad stale... the game ended. The game does not feel so short that you ultimately didn't get to master the mechanics, nor did it feel so long that it eventually became monotonous to play. The game knows its own limits, it knows that it isn't something that should go on, and on, and on, and on, and on... not for the sake of your attention... nor for your heart...
+
+I really enjoyed the level-design in this game. Sure, there are a few occasional of ""meh"" rooms. But they're gone in less than 5 minutes anyways.
+I loved how the first-half of the game starts off really cramped & claustrophobic; making you feel truly uncomfortable. But that alone isn't enough to evoke the spine-chilling in fear in gamers, no. The fear of the cramped hallways & tightly-constructed open areas are horrifying due to the enemies.
+The monsters in this game are horrifying. They're crazy... f#cking fast !! If they run at you, you have to react fast! They'll catch up to you in no time, and they'll tear you apart limb by limb if these beautifully satisfying grotesque death-animations if they ever get their claws unto you. The monsters are mean, and not afraid to f#ck you up. Their AI feels almost truly otherworldly. They run at you like no other predator would. They only have one instruction, and that is to [b] KILL [/b] you! They can't think of anything else, they don't care about anything else. It's just ""I am coming right at you, I am killing you. I will kill you."" It's super scary! It's super cool! 
+But as your arsenal grows, your stats raise, your skills better; the game's areas begin to open up to true arenas. They feel a lot more open -- and while that would seem like a negative to some, it's to really test your skills by cramping you not with tightly cramped hallways... no. It's to cramp you with tightly cramped bundles of enemies at once. You'll end up having to run around & shift attention from one enemy to the other swiftly, as your positions in combat change, not just by you, but from the enemies as well. Especially as the monsters will literally hop out of vents behind you to surprise attack you meanwhile as you're dead-set focused on another enemy.
+
+Your slow camera prevents you from playing the game like you're the DoomGuy. If there's an enemy behind you, you don't just turn around & shoot it. You run. It's all about getting out of their attack-distance! You don't have time to turn around, unless you want to be turned into a lump of dead meat.
+
+I adore trying to shakily shoot the limbs off of the monsters as they run at me full-speed!
+As enemies have thin & often quick-moving limbs it can make aiming at them super difficult, especially when they're either running at you or is in your face clawing your chest wide open!
+You will constantly feel like you don't have enough ammo & resources to deal with enemies, but you always will, because the game will make sure of it. You're always treading on the fine-line in-between ""ammo"" & ""no ammo"". You'll run around a lot -- especially late-game on 'hard' difficulty -- carefully switching between weapons in a hurry as to optimize your resources, because you need to, because if you don't you will not have ammo for the guns you might need soon after; and therefore can lead to your death.
+
+I too adore how the """"""weapons"""""" you find during this game are so clearly supposed to resemble as if they were actually just ordinary construction tools made for working purposes, reused as a defensive method. Super cool!
+this reflects upon your abilities too!
+It's really immersive, and reminds you that Isaac is no more than a mere engineer using whatever he can mange to scavenge to survive. This is further reflected in this punch & stomp animations. He's an incapable man. He doesn't know how to punch like a action-movie hero. He's just some guy.
+When he punches it's clear he's just giving it his all to survive. He's just punching as hard as he can to hopefully survive, meanwhile stuck in a suit that probably weighs a truckload to walk around in... and the exact same with the stomp animation.
+I am frothing in my mouth over this, this is amazing!
+
+
+
+[h1] Horror [/h1]
+
+Grass grows, birds fly, sun shines, and brother?... Dead Space is a scary game.
+[b] duh [/b]
+
+I adore how this game uses horror. it doesn't always stick with the principles of it, it doesn't rely on formulaic ideas. It does some wild sh!t & hopes the player gets scared. And that's what makes it scary, as we can never really expect as to what's next.
+And while there are a handful of common tropes used, no doubt. They're welcome, as when clustered alongside uncommon tropes they themselves become uncommon with the commons. It earns it, it deserves it.
+This is further pushed by the fact that when you die, it's not just some screamer [b] IN YOUR FACE [/b] type of deal. No it just smoothly takes away your control to watch Isaac die horrifically. The fact that you've died -- likely to an enemy that surprised you -- is already a scare enough.
+And the smart use of lighting is just downright beautiful too. Not only am I a sucker for good sound-design in games, but I am a sucker for old video-game lighting.
+And the atmosphere & mood is just as creepy & f#cked up now, as it were upon release. The graphics still looks great, and the environments look gorgeously grotesque <3
+
+
+
+[h1] EA standards :( [/h1]
+
+Great game, held back by being a poor port.
+It's clear EA doesn't care about [b] THIS [/b] Dead Space anymore. It is only pushed unto PC for some easy extra bucks. Whatever.
+But man whoever did the port should feel ashamed.
+It's playable, sure. Yeah. Totally. But it is embarrassing at least. It's nowhere near 'Gun' or 'Prince of Persia' bad PC port -- dog bless. At least I can [b] PLAY [/b] this game.
+But it is bad, and [b] SHOULD [/b] be better.
+
+There are items I couldn't pick up -- not because my inventory was brim full -- but because I could never get the prompt to activate for some reason... bummer.
+Weapon-reloading sounds are awfully quite compared to any other in-game sounds.
+Turning V-sync off will let the FPS rise so much that because most in-game events' triggers rely on your FPS, that they straight-up will break or downright not activate.
+Ragdoll on enemies will sometimes just fly off like it's a cartoon. They will often get stuck inside doors or walls & flip out. The body-parts will sometimes spin around on the ground like it's a fidget-spinner, or sometimes just stand straight-up like a pole.
+The ragdoll isn't game-breaking, but it is funny. I laughed a lot. Yet I don't know about you, but when I laugh out-loud I'm not that scared... only time it scared me was when I killed a monster, and just stood & laughed at it because the ragdoll was so funny... and suddenly a monster jumped out of a vent & landed right on top of Isaac! [url=https://youtube.com/clip/UgkxHoOnGDSr2S1soZq6y72f0LGlZbVTUstC] I [b] SCREAMED! [/b] I screamed, I screamed! Biggest screamer I have ever experienced. [/url]
+
+
+
+[h1] Conclusion [/h1]
+
+Dead Space is a 'must-play' type of game, and I heftily would recommend playing it. Although if you have to option to rather play it on Xbox 360/Playstation 3; then I would advise for that.
+Still, the PC port is alright, at least for the price-point.",0.6689133048057556,26,True
+17470,3228694,76561198019205444,"Dead Space is a survival horror game. You are slow moving with jump out and scare you moments. The character Issac controls slow and clunky. Plus your character Issac Clark takes up a lot of the screen, which I guess happens in a lot of over the shoulder shooters. You want to see what's behind you. Since this is an over the shoulder shooter, things can easily sneak up on your left side, even more so than behind you.
+
+The game drips with atmosphere, horror and gore, but it doesn't feel scary. Maybe I'm just used to horror games, or maybe its the fact when you run through a dead enemy, you kick it like a soccer ball and it flops like a rag doll fish. That's probably why Doom 3 had its dead enemies burn into nothing. With Dead Space, the idea is that enemies can still be alive... when they look dead. The game looks awesome and makes great use of lighting and shadow. You won't be in dark areas so much as dim areas with lights shining through vents. It has a great look to it.
+
+Dead Space boasts strategic dismemberment, such as first cutting off a leg of an enemy, before you cut off its head. If you cut off its head, it will blindly swing at you. If you cut off its leg, it will crawl and lunge at you. Most enemies are like this. Other enemies might explode with smaller, more annoying enemies if you're inaccurate. There are also reanimating enemies that take priority, because they'll monsterfy every dead body in the room. So if you're the type of gamer that likes aim over put more bullets into it, this game is for you! The enemies will even work their way through vents if you've gone to another room and they'll pop out. The vents are pretty easy to spot, but a lot of vents are on the ceiling. 
+
+There are four major weapons in the game, the line cutter, flame thrower, plasma rifle and some sort of saw gun. It is unfortunate that you'll end up primarily using the weapon you start with for the entire game. That feels like a wasted opportunity. The flame thrower feels extremely weak if not completely useless.
+
+You're able to collect items, like health, ammo, air canisters for when you're walking in space and its all contained in your limited inventory. When you upgrade your 'rig' (suit), you can carry more stuff, but for the most part, since everything is sellable, you'll rarely run out of room. As the game starts, there is plenty of ammo, but at around six hours in, ammo gets scarce, but you can still buy more. Lack of ammo comes from missing vulnerable points of enemies and having them explode into smaller points.
+
+You'll also pick up node modules to upgrade things and if you start upgrading your line cutter, then why would you ever switch to a different weapon? Plus, any ammo that you get for other weapons, you can just sell at one of the game's stores for credits that you can use to buy more line cutter ammo. There are locked rooms that you can use a node to get into, but since nodes are one of the most valuable and costly items in the game, it might not be worth the risk to see what's in the mystery room. You'll also be able to explore and find items in cabinets, lockers and smashable boxes, but you really can't wander too far off the beaten path.
+
+Traversing the USG Ishimura feels like there is plenty of back tracking, with some getting lost. Luckily there is a 3D slightly difficult to use map. For the most part, each level is contained into branching segments, you'll start at the root of the map tree, clear out one branch and all of its limbs, end up at the root / hub of the level, then go for the next branch area. Sadly some of the 'chapters' reuse levels. The USS Ishimura is a big space ship, and I would call it similar to Metroid-Vania-ish since you'll revisit areas of a ship, but its all broken into 'chapters' that you can't return to unless its in the storyline to return to that section.
+
+There are some puzzles, but nothing major. You'll get powers like telekinesis to move objects and a slow down stasis to solve puzzles and get through areas. Without the puzzles, the game seems easy even on normal difficulty.
+
+The game has a very painful key binding system, especially for lefties. While you can rebind keys, you can't rebind all keys, so I recommend just using a controller. The controller works great and has simple controls for a complex system. You've got buttons for run, inventory, aim, stomp (to downed enemies and boxes), melee attack (which seems useless), use button and the D-pad will call your 4 weapons to switch. When you're aimed at something, you can reload, fire your weapon. alt-fire, use telekinesis or stasis to slow anything down.
+
+Thankfully save points and checkpoints are everywhere. It keeps the game progressing, but another negative of the game is when you run out of ammo or health and just can't pass a section, you're locked into that section. When you're stuck, you've got two choices, run all the way back to a store at the start of a level, or sometimes you might just have to restart from a save point. This is why I can understand EA's desire to throw micro transactions into the game. If you get stuck with no ammo, no credits and only have 1 save file, you might literally have to restart the game. When you get 10+ hours in, that will kill your desire to play.
+
+In all, the game feels good to play, despite how slow it is. If you enjoy typical space horror with the plot of Aliens, this game is for you! The game has been $5 on Steam and free on Origin. Chances are if you wait, there will be a sale, a bundle or a free download.",0.7184305191040039,18,True
+17470,42640881,76561198074590918,"One of the best futuristic shooters ever made and a generation-definer in my personal opinion.
+
+The Graphics have aged incredibly well, too. I felt like Video games were really moving forward back when I played this. The game is long enough, has an innovative and satisfying UI, cinematic, atomspheric. It really made you feel like you were out there on your own in a huge ship of nothing, it made you get attached to your character despite knowing very little of him, at the end of every level you experience the ""I made it through safe"" feeling. It was a really good game.
+
+The weapons are satisfying, I feel like this game was also an innovator back in its day when it comes to weapons and their interaction. The Plasma Cutter is Top-10 game weapons for me. Tearing apart and dismembering Xenomorphs in this game was incredibly satsifying.
+
+The game also has a very good story with several well-done plot twists and non-linear progression, the enemies are more than just generic zombies and you feel like you stepped into a beehive of something big/organized as monstrous as it looks, reinforcing that ""I'm helpless"" feeling even more.
+
+I have few hours at Dead Space on Steam but I've completed it several times in the past on the Xbox 360, so much nostalgia with this game. It's hard to believe a game with these good visuals is all the way back from 2008.
+
+My Nostalgia-influenced rating: 8.9/10",0.717785656452179,18,True
+17470,205727710,76561198267588600,This game was ahead of it's time and it shows. Awesome atmospheric horror game!,0.6671150326728821,13,True
+17470,178277635,76561198033325091,"Still holds up extremely well 16 years later. Really great sound design reminded me of Thief 1/2, there is a lot that horror games today could learn about the atmosphere good sound design can build",0.6652464866638184,16,True
+17470,194060853,76561197970593154,"Ignore the remake and play this on Deck instead on highest settings.
+Camera with right stick is sub par on default (game's vertical cam axis has a higher sensitivity and higher dead zone than horizontal, and I just remembered this being critiqued already when it was released back in the days), but setting right stick to joystick mouse with a 100% sensitivity works much better, since the game treats mouse input linear on both axes. You'll lose right stick push for the objective guide line then (initially), but that functionality is still available by pushing right track pad, which I personally find to be even more comfortable.
+Seems to be capped to 60FPS internally even though there's a 90Hz resolution setting, but that's fine.
+Deck's (OLED) brightness set to 50% and brightness in game set to lowest recreates the original dark experience.",0.6647127270698547,16,True
+17470,43831750,76561198133427380,"Scary atmosphere, creepy soundtrack...petrifying imagery....the constant feel of dread growing everso quickly as you venture into Lord knows what. This game has it all, can be a fun game or an atmospheric mood setter :V
+This game was and still phenomenal for its time, this was made in 2007.....TWO THOUSAND AND SEVEN, jeeez EA was truely Gold back in the days...what happened?
+7.5/10",0.7136560678482056,20,True
+17470,20357150,76561198060934212,"Great game from 2008. 
+Took me exactly 9 hours to complete story on easy with exploring almost every room.
+
+Enemies got me scared a lot and I got several goosebumps.
+
+Pros:
++ Zero-G movement added a new level of movement to the game
++ Story is good
++ Difficulty Easy is very easy and you can focus on Story
++ HUD is embedded in gameplay, like a hologram your character is seeing
+
+Cons:
+- Sometimes mouse controls are a bit laggy",0.7126322388648987,32,True
+17470,171425574,76561198853518022,"almost as good as resident evil 4 (2005) in fact its even better in some areas.
+brilliant combat, great visuals and atmosphere, some of the best sound design in any game.
+Fantastic.
+8.6/10",0.710330069065094,18,True
+17470,190322314,76561198119555900,"Recently 100%'d this game (on Xbox for achievements). Still one of the greatest games ever made, especially from the 360 era. Incredible atmosphere, setting, and use of scares. Action is great and so is the gameplay. The graphics are starting to show their age atp, but still look fantastic (especially for its time). If you don't own this already then buy it (and play it). Have yet to try the remake but this game will always be a classic and one of my favorites. If EA ever decides to add achievements to their old games like Ubisoft, I will gladly 100% it on PC again lol
+
+9/10",0.6601037979125977,13,True
+17470,212130357,76561198315833807,"Dead Space has some issues on modern hardware, especially with mouse sensitivity and frame rate. Here’s how to fix it and also have better visuals:
+
+Guide to fixing mouse sensitivity problems:
+
+NVIDIA Control Panel:
+• Go to Manage 3D Settings, then Program Settings, and select Dead Space.
+• Set Max Frame Rate to 60 FPS.
+• Turn Vertical Sync on.
+• Set Power Management Mode to Prefer maximum performance.
+• Turn Low Latency Mode on.
+
+In-game settings:
+• Launch the game and go to the video settings.
+• Turn V-Sync off (even though it’s on in the Control Panel; this fixes mouse issues).
+• Choose a resolution that runs at 60 Hz. The game shows the refresh rate next to each option.
+
+Guide for better visuals (recommended for mid or high-end PCs):
+
+NVIDIA Control Panel:
+• Set Antialiasing Mode to Enhance the application setting.
+• Set Antialiasing Setting to 2x.
+• Set Transparency to 4x.
+• Turn on Antialiasing Gamma Correction.
+• Turn on FXAA.
+• In Global Settings, enable DSR at 2.25x DL. This gives you higher resolution options with better image quality and no performance loss. 
+
+Additional tips: If you have a high-end PC, you could increase both Antialiasing Setting and Transparency to 8x as well as set Negative LOD Bias to ""Clamp"". These are all in the Program Settings. Texture Filtering - Quality: High Quality and maximum performance for Power Management Mode in Global Settings could also be great. These settings weren't tested in my playthrough but should yield good results.
+
+One more small tip: change the in-game sound mode to 5.1 surround for better audio quality.
+
+That's about it for notes.
+
+Dead Space is a third-person sci-fi horror game where you play as Isaac Clarke, an engineer who is part of a team sent to help repair a mining vessel called the USG Ishimura. Things seem fairly normal at first, but it soon becomes apparent that far more has gone wrong on the Ishimura than mere technical difficulties. The team gets ambushed by horrifying mutated monsters called Necromorphs, created from human corpses. Isaac, wearing an engineer’s outfit and armed with a plasma cutter mining tool, must fight these horrid creatures as he navigates his way through the ship, trying to find a way off of it and also getting to the bottom of the nightmare that it’s become. 
+
+The first thing this game deserves huge praise for is the UI. It’s perfect, literally perfect, the best in any game I’ve ever played, fully integrated into the game’s world and very clear. Isaac’s health is shown as a glowing spine, a part of his RIG suit, with a Stasis meter next to it. Weapons show ammo via holographic readouts. Inventory, maps, objectives, and logs all appear as holographic screens. There’s even a holographic oxygen meter that appears behind Isaac’s head in areas with no oxygen. Everything here is immersive and free of clutter. I should also mention that there’s a very handy “breadcrumb” system that shows you where you need to go if you get lost, appearing as holographic lines that are projected from Isaac’s suit, which is wonderful. Crates, lockers or doors you can open are shown with either a blue or red light, blue for accessible and red for not. Again, this is wonderful.
+
+Another thing I want to commend Dead Space for is the atmosphere. It’s incredible, the Ishimura is rife with messages scrawled onto the walls by terrified crew members as well as being strewn with bloody corpses (many of them dismembered and/or horribly disfigured), blood stains, flickering lights; some crew members even being fused into the fleshy walls of the monstrosity that has taken over the ship while still alive and in unimaginable agony, etc. Not to mention many gloomy environments and eerie ambience adding to the terrifying atmosphere. This really is a game you should play in the evening, in a quiet room with the lights off, playing with headphones. For a 2008 game, it looks and sounds amazing and has aged very well. Every part of the Ishimura you visit is unique and interesting. For example, there are science labs that include tanks with babies in them, gardens where vegetables and fruits are grown, a mining deck where asteroids are broken down for metal ore, etc. All of these are environments that are memorable and distinct and made me excited to see what the next areas would look like. 
+
+The gameplay is brilliant: scavenging, exploration, and frequent Necromorph encounters make for an enjoyable and thrilling experience. The aim mode intentionally lowers mouse sensitivity to heighten tension. You also have a Stasis ability that slows enemies (at the cost of limited energy) as well as a Kinesis ability that can lift and hurl objects like the Gravity Gun in Half-Life 2. The enemy variety in this game is great and makes the combat dynamic, urging you to employ different tactics. Slashers are basic melee enemies, meanwhile Leapers and Lurkers can crawl on walls and ceilings, Leapers pouncing at you and Lurkers firing barbs at you from a distance. Exploders carry explosive sacs that blow up if shot or in close proximity to Isaac. There are many more, but I suggest you discover them yourself. 
+
+The combat in this game focuses largely on limb dismemberment rather than simple body or head shots like in many other games. Isaac’s weapons, particularly the Plasma Cutter and Line Gun, make this apparent. Each weapon has two firing modes. The Plasma Cutter can be fired horizontally or vertically, adding versatility. The Line Gun fires wide arcs of plasma, and its alt-fire mode shoots energy mines. Not all weapons are for cutting limbs, though. The Flamethrower is a decent crowd-control option, particularly against small enemies like Swarmers. Fireballs are its alt-fire mode, making it usable at longer ranges. The Contact Beam shoots potent long-range energy blasts and has a shockwave as an alt-fire mode, in case foes get too close. There are other weapons as well: the Force gun, Ripper, and Pulse Rifle, but I wasn’t a fan of them and wouldn’t recommend them personally. Isaac does have a couple melee attacks but they’re very basic and should only be used as a last resort when enemies get too close. The stomp is great for opening supply crates, though, so use it often.
+
+The story is very engaging, you encounter many text and audio logs, giving you a better idea of what was happening on the Ishimura before you arrived. There are also twists and turns in the plot that keep things exciting and memorable. The worldbuilding is also really interesting, especially as it delves into a mysterious religion called Unitology. 
+
+As great as this game is, it does have flaws. For instance, the Zero-G movement system is awkward and disorienting quite often and the game doesn’t do a great job explaining it at first. For all other tutorials, the game has a voice over and pop-up message telling you what to do, however, for Zero-G, it’s just a brief pop-up with no voice over, which is strange. Would’ve been better if they just had it be a free-flight mode instead of having to point at something and jump to it using CTRL. I’ve already mentioned that three of the weapons to choose from are unsatisfying to use. These weapons felt poorly designed, not really giving me an incentive to experiment with them in any potential future playthroughs, which I feel is a missed opportunity. The bosses were mostly decent, but one of them is just a turret section, which felt quite underwhelming. There are no hotkeys for using Stasis energy packs or oxygen canisters, which is bizarre considering there’s a hotkey for using health packs. This was apparently done to create “tension”, but it’s just frustrating more than anything. Other than that, I don’t have much else to complain about.
+
+In conclusion, Dead Space is a fantastic game that feels like some of the best elements of Alien and John Carpenter’s The Thing brought together to create a truly unique and unforgettable sci-fi horror experience. 
+
+Final verdict: 8.8/10 “Make us whole again.”",0.6592292189598083,13,True
+17470,36287051,76561197979433295,"Let me start off by saying; I love Dead Space. Both as a game and a series, the lore alone in this game is facinating and worth playing the trilogy.
+
+But I cannot, as a fan of this game and the now disbanded developers, recommend the Steam/PC version of this game in any way. It has so many issues with it that really take away from the fun.
+
+#1 You 100% need to install a mouse acceleration fix if you plan to play with M+KB, mouse acceleration is on by default and it's awful. You can find this in the guides but it's pretty much 100% mandatory.
+
+#2 You have to tweak your Nvidia settings specifically for this game if you want to play it safely with as few bugs as possible, Cap your FPS at 60, turn off V-sync in-game and have Nvidia turn it on itself. First chapter you'll get stuck unable to pass an invisible door when you run into your first killable enemy.
+
+#3 Never fucking use Continue Game when loading your save. This is a weird one, and you'll hate yourself if you do so on accident. Continue game defaults your games difficulty to Medium. So if you are playing on Easy the enemies get a bit harder, and if you are playing on Hard or Impossible, the enemies become a joke. There is no way to fix your file without hex editing.
+
+This is just some of the garbage I've run into in almost 8 hours of play. It's still Dead Space, the gameplay, sound, music, story, etc are all solid. But this port is so fucking bad I can't recommend it at all. Maybe the Origin version is better but I doubt it.",0.7084644436836243,64,False
+17470,24923731,76561198001485974,"This is the one that started it all. 
+
+Join engineer Isaac Clarke on his creepy space adventure, wherein you must fight your way through an infestation of horrid undead abominations and face off against a fanatical death cult.
+
+In order to get the game to work correctly I would highly suggest looking up what other users have done to tweak the game’s settings, as it suffers from horrible console port-itus. Here’s a quick reference for ya.
+
+pcgamingwiki.com/wiki/Dead_Space
+
+Don’t let this dissuade you from playing it however, as it is a highly entertaining, monster filled romp through the bowels of the USG Ishimura, a gunmetal grey and black mining ship that literally rips out the cores of planets for relentless human resource consumption.
+
+If you like futuristic space horror, this is one of the best. 
+
+For a full length review, in which I detail how much of a wuss I was at the start of this game, followed by my signature long, rambling analysis, just click the link below.
+
+http://www.opinionatedslant.com/dead-space-review",0.7056292295455933,20,True
+17470,219871163,76561198854446769,"while i still prefer the remake because of its voice acting and character/lore expansion, this game still holds up extremely well. it’s hard to believe that it’s nearly 18 years old.",0.6554490923881531,24,True
+17470,144665788,76561199069674821,"Dead Space is a game ahead of its time, offering us a game of terror, persecution and despair, in a universe full of action and mystery.
+The missions take place in subway stations, which when we arrive at a new station we find a scenario full of mutants which sometimes fight in Gravity 0 being an amazing experience.
+It is a game that has a lot to offer, but when you hear mention (during the missions) that they tell you about the Human Effigy, you will know what really awaits you.",0.6551724076271057,10,True
+17470,235880945,76561198034821974,I remember getting this beauty in a bundle pack for my rocking gaming chair around 2009. Still till this day one of the scariest games I have ever experienced. I loved playing it so much on my xbox 360 but it's a shame I never got around to finishing it. Planning to do so when I play the remaster on PC sometime soon. Regardless I will still give this a positive due to the lasting impact it did on me as a kid.,0.6547879576683044,12,True
+17470,194631504,76561198975893232,"The ""I miss my wife, why the fuck is there eldritch horrors beyond my comprehension"" game.
+Absolute Kino.",0.6528620719909668,13,True
+17470,120893517,76561198121413521,"🔵 Fantastic 3rd-person linear horror shooter
+🔵 Good plot
+🔵 Weapons are awesome and has alternate modes
+🔵 Stomping & shredding zombies provides a satisfying experience
+🔵 Great physics-based gameplay with access to telekinesis, force gun & gravity
+🔵 Inventory management
+ 
+🔴 FOV isn't good
+🔴 Can crash if V-Sync is not enabled
+🔴 Minor visual glitch when selling items
+🔴 Slow mouse movement",0.6517782807350159,13,True
+17470,231074564,76561199615189875,"Dead Space cant handle FPS over 60. There are bugs, invisible walls, or mouse sensitivity issues. You must select 60Hz settings in the game and activate Vsync. (It fixed it for me) A guide will help if necessary.
+
+I dont think i need to say much more about Dead Space. Simply a great game. The gameplay and game world are uniquely good. Great horror and gore elements. Of course the graphic is outdated, but thats not a problem here at all.",0.6513280272483826,12,True
+17470,39812979,76561198448631871,"The story behind Dead Space takes place hundreds of years in the future, during a time when mankind has exhausted all of the natural resources on Earth. Fortunately, in this dire time, humanity has mastered space travel, and a process known as planet cracking has been developed to combat this drought. A celestial body is split into pieces, and its minerals are strip-mined and melted, returning the byproducts to Earth for consumption. An entire fleet of ships sails the stars performing these tasks, and the crown jewel of this mining fleet is the USG Ishimura, which has performed more planet cracks that any other vessel. However, on a routine mission, the ship cuts off all communication from galactic command, which is somewhat strange. To discover what's going on, a small maintenance crew is quickly dispatched to the Ishimura from a nearby vessel. 
+
+
+
+
+Players step into the boots of Isaac Clarke, a systems engineer that's part of the dispatched maintenance crew. Outside of fixing the communications issues, Isaac has a number of reasons for arriving on the Ishimura -- he has a number of friends that are stationed on the ship, including someone very special to him that sends an urgent holovid with a few cryptic messages before she disappears. Unfortunately for Isaac and his crew, shortly after they arrive on board the crippled vessel, all hell breaks loose. Their craft is destroyed, leaving them stranded on the Ishimura. The crew is attacked by nightmarish creatures known as Necromorphs, who kill most of Isaac's team and separate him from the surviving members. Even worse, the ship and its systems have started to be corrupted or are failing thanks to the Necromorphic infestation. It's up to Isaac to wander the halls, search for any friends or survivors that are still alive, and fix as many problems as he can until he can find a way to escape the ship, which can take you 12 or more hours to complete. 
+Isaac isn't the typical hero that you'd find in most sci-fi games; he doesn't walk into the Ishimura packing a firearm or grenades, nor does he have specialized training. Apart from the first one that Isaac finds on a workbench, all of Isaac's weaponry and items are found via schematics that are scattered across the ship. Only one of them is a true firearm -- the security pulse rifle; the rest of his ""guns"" are repurposed pieces of mining equipment used for planet cracking. However, Isaac can use his engineering knowledge to make these weapons much more powerful by analyzing their blueprints and rewiring them at workbenches with the use of power nodes. Thanks to these nodes, Isaac can improve their performance in a number of ways, such as carrying more rounds, shortening his reload time, or increasing their damage. This upgrade system even expands to Isaac's space suit, which can be improved to strengthen his suit's armor or his air supply in case he enters a vacuum. He can even use the nodes to augment the stasis or kinesis modules, which can be used to freeze monsters as they charge him or propel items into the creatures, respectively. What's creative about this system is that players won't be able to max out every weapon or every bit of gear that they have in one playthrough; this forces them to choose what they'll specialize in as they go through the ship. 
+
+ 
+Cleaning house with a little fire.
+This is an important decision to make, particularly because some weapons are more effective against the Necromorphs than others, and since you'll need to use strategic dismemberment to weaken and effectively kill them, the right weapon in the right situation can be the fine line between life or death in the game. See, unlike monsters in other games, Necromorphs will shrug off direct attacks to the head or chest and keep coming for more. Blasting their limbs off is the only way to cause enough damage to kill these beasts, and you'll frequently need to focus on aiming accurately and quickly at these weak spots before you're surrounded and dissected yourself. This is particularly true in later stages, when some of the Necromorphs start moving faster than before, and it frequently turns battles into brutal affairs, with severed arms and legs flying everywhere as you attempt to survive the onslaught of creatures. Thanks to the over-the-shoulder, third-person perspective, this can add an extra level of tension to the game while you're fending off swarms of beasts, but be forewarned: there is no quick turnaround command. While some people may consider this to be a problem, this is actually a wise design decision because it makes you feel much more vulnerable and claustrophobic within the confines of the suit, and whether you're moving through a hallway covered in bodies or floating in a zero gravity environment, you always feel as though something could reach out and kill you at any time.",0.700709342956543,18,True
+17470,84079149,76561198090284682,"Fantastic game, I love everything about it but you'll have to grab a couple of community made fixes to make it playable.",0.6986944079399109,24,True
+17470,21557786,76561198046905523,"[h1][u]The Short and Sweet[/u][/h1]
+Almost everyone that knows horror has heard of Dead Space before. Although it is getting on in years, and its legacy has been tarnished somewhat with the disaster of Dead Space 3, the original game made a large impact for a very good reason.
+
+Dead Space is a third-person shooter horror game, with a large focus on building an oppressive atmosphere without compromising the gunplay and enjoyment of the game in the slightest. Players step into the engineering suit of Isaac Clarke, a member of the emergency response team sent to investigate and repair the USG Ishimura mining vessel. The situation quickly spirals out of control, with the team coming under attack from alien flesh-puppets, the Necromorphs. Isaac, with the help of the surviving members from both the response team and USG Ishimura, must attempt to fix the Ishimura and escape the outbreak without being killed and turned into a Necromorph themselves.
+
+The shooting action is focused around the dismemberment of enemies, as shooting off the limbs of a shambling corpse is more likely to stop it than simply pumping the dead torso full of bullets. This forces the player to stand and aim their weapons, which may be the last thing they want to do when faced with such gruesome and swarming enemies. The game provides a decent number of weapons to assist in this mechanic, with some more competent than others, but players can pick which four they want to bring with them.
+
+ [b][u]Pros[/u][/b]
+[list]
+[*] The game builds a wonderfully suspenseful atmosphere using a player’s anticipation against themselves, along with fantastic sound design and visual cues. 
+
+[*] The emphasis on dismemberment gives more satisfaction to a player than they would get from simply shooting a faceless grunt in the chest a few times before moving on. 
+
+[*] The story has enjoyable twists, with more being organically revealed to the player as they progress. 
+[/list]
+
+[b][u]Cons[/u][/b]
+[list]
+[*] The blueprints required to add an item to the store can only be found once per game, in specific locations. There is no backtracking to previous levels, meaning that missing a blueprint permanently locks you out of buying that item for the entire game.
+
+[*] There is a beefy list of potential problems a person can experience while trying to run Dead Space. I do not believe these are deal-breakers, but do require some fiddling. See the Technical section below for more details.
+
+ [*] If you are easily disgusted or grossed out by gore or blood, do not play Dead Space. This game contains gratuitous amounts of body horror, disgusting scenery, and blood. Be forewarned before purchasing.
+[/list]
+
+[h1]Short Conclusion: An Essential Experience [/h1]
+
+[h1][u]In-Depth Analysis[/u][/h1]
+
+[h1]Gameplay[/h1]
+Dead Space, despite being a horror game, provides Isaac with an array of weapons with one unifying factor; all are designed for dismemberment and decapitation. Laser sights on all the weapons show you precisely where they are aiming, and this allows them to more easily target a Necromorph’s appendages, which causes more damage to them than simply peppering them with bullets. 
+
+Ammo is scarce, but just common enough to give you enough rounds to deal with Necromorphs, assuming they don’t waste it. In addition to this, players may only carry four types of weapons at a time, restricting them somewhat. However, players will only find ammunition for weapons they are currently carrying, and not weapons they either don’t own or are in storage. 
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=2136517507
+
+The player’s weapons can be upgraded at specific work tables using power nodes. These upgrades can range from damage and firing speed to capacity and reload speed. Power nodes are found throughout the game, but can also be bought from the store for $10,000 at any time. Money is a critical asset to Isaac, and the difference between a few power nodes or rounds of ammo can be an agonizing choice sometimes.
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=2136521256
+
+The store requires blueprints found lying around to add new items to the selection, but this has both a positive and a negative. This encourages players to look around for blueprints, ammo, and power nodes, but blueprints are one-time deals. If, for example, you miss the blueprint for Large Health Packs, and then move on to the next level, you will never find that blueprint again and can never buy that item from the store for your entire playthrough. This is a bit too punishing for players, but nearly all blueprints are very easy to find.
+
+ [h1]Story[/h1]
+The story is interesting and simple. Isaac finds himself stranded along with his crew inside the USG Ishimura, and must try to find ways to prevent various systems on the ship from failing and killing them all, while simultaneously trying to find a way to escape. As the plot progresses, the story becomes more fanatical, dealing with the cult of Unitology and the source of the grotesque Necromorphs. I will avoid spoilers, even though the game is over a decade old, but I wholly enjoyed the story and character from start to finish.
+
+[h1]Visuals[/h1]
+Dead Space came out in 2008 and it shows. While the art direction is fantastic and gross, with a nice twist on futuristic machinery and the Necromorphs themselves, the actual graphics are quite dated and rough edges can be seen everywhere. If this does not bother you, you will enjoy what you see.
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=2136519510
+
+The level design is also designed to cause tension, with many Necromorphs appearing from behind corners or even the player themselves. Any player learns early on that enemies can emerge from ventilation shafts, which causes them to fear vents in the future, but there are innumerable vents throughout the game, which never let you calm down for fear a Necro may suddenly come smashing through one.
+
+[h1]Audio[/h1]
+Dead Space uses audio to enhance the suspense tenfold. Scratches inside the vents can indicate an incoming attack, the howl of a Necromorph can cause fear, and the oppressive silence of space walking can allow enemies to sneak up on an unsuspecting player.
+
+The voice acting is very good as well, with some respectable passion behind the roles. The effort the actors put in really help in further immersing a player, the ultimate goal of Dead Space; to immerse, terrify, and excite.
+
+[h1]Technical[/h1]
+There are three key potential problems a player can experience in Dead Space:
+
+Mouse acceleration is permanently enabled and has no disable option available. This can make aiming and walking a massive ordeal.
+
+Some players report crazy physics problems if V-Sync is not enabled, but V-Sync itself permanently caps the game at 30fps or lower, which is headache-inducing. I personally didn’t experience any bad problems at 60fps, but some other players report being unable to beat certain physics puzzles.
+
+Hitting “Continue” instead of “Load Game” can knock your difficulty down by one stage (Hard to Normal, Normal to Easy) without indicating it. 
+
+All of these problems have detailed guides on how to fix them and I highly advise you look into it if you want to play the game. I personally only had to fix the mouse acceleration issue, and nothing else. 
+
+ [h1]Conclusion[/h1]
+Dead Space is without a doubt one of the best horror games ever made, and a must-play for anyone that enjoys horror and shooting action. The efforts taken to immerse the player are unreal and completely successful, creating an experience like no other that satisfies from every possible perspective. It only suffers slightly from age, and nothing else.
+
+[quote][url=https://store.steampowered.com/curator/23741321]Follow our curator page[b] Alexander's Club Curations[/b], if you like and want to see more reviews like this one.[/url][/quote]",0.6966858506202698,13,True
+17470,173403351,76561197982193634,"A fantastic game that still holds up. 
+
+The Remake is also great but the 2008 original still looks and plays amazing in 2024. 
+
+You do NEED to fix it a bit though: Go and follow PCGamingWiki recommendations for Vulkan, WindowedFullscreen (Fixes brightness, framerate engine errors, mouse and controller sensibility, etc.). You may also want to run NVIDIA DRS (supersampling) as the antialiasing alternatives are quite poor. You can run the game at like, 6k and it will get rid of the jaggies. 
+
+Great gameplay loop, great audio and voices. Amazing game.",0.6461397409439087,11,True
+17470,94674710,76561198091676768,"Aged like a fine wine.
+
+Dead Space was the very first seventh generation game I played. I remember being absolutely floored as I booted it up to look at the gorgeous view of the Ishimura and Aegis VII. To say that its visuals hold up today would be a lie in terms of its textures, but the atmosphere and visual style is absolutely timeless.
+
+Dead Space bleeds creativity and inspiration in nearly every facet of its creation. While very obviously hearkening after Resident Evil 4, it's far, far more than shooting zombies in space. I've replayed this game so many times that I know almost every jump scare by heart, yet even still, it somehow managed to leave me unsettled. Dead Space interweaves its plot and its gameplay both with horror, never content to follow anything 'by the book,' yet cultivating its inspiration from RE4 in brilliant setpieces.
+
+I could write page after page about how good Dead Space is, but it would ruin so much of what make it great. The sound design, the music, the haunting story, are all things that are best experienced in the moment, when you're frantic and only a few shots away from an empty inventory. As you sprint through hallways, ducking and weaving around enemies, smashing boxes for just a single ammo drop. 
+
+Dead Space is an exquisite experience, and one of the finest horror games ever made.",0.6460555195808411,13,True
+17470,220229153,76561198010439145,"This game caught me off guard, back when it released, I didn't expect EA of all studio's to drop a true rival to the Resident Evil series, but they pulled it off. The game pure drips atmosphere especially the sound scape and monster designs. The ship feels like a haunted house in space, very reminisent of the movie Event Horizon.
+
+Its a decent length too, some puzzle's but nothing to get stuck on. Graphics stand up, still looks great in my opinion. It's not perfect either though, it's a little too action packed which ends up making it not as scary, but I could level the same criticism at RE4-6. Also it has a fair few weapons but you probably won't use them much (or at all, like me) as the cutter you get at the start is fine for the whole game when upgraded and there's ammo for it everywhere. There's a new game+ mode which is great, except it's rendered utterly pointless as you re-start with everything from your last play as well as a bunch of bonus stuff for finishing the game but you can't change difficultly. So its exactly the same except miles easier.
+
+The game runs really well but you need to tweak it a little. Disable AA in game as it makes it look really blurry, also disable V-sync or it locks you at 30fps. In your graphics cards control panel, force AA and V-sync from there and lock frame-rate at 60, over 60 corpse's and boxes start to float if you touch them and really high frame-rates totally break it, invisible walls and such.
+
+Overall, still a great, very addictive game. Not quite a good as the Resi games but a pretty damn good next best thing.",0.6460355520248413,12,True
+17470,47453840,76561198043963202,"I played Dead Space for the first time back in 2009 on my ps3, I played the demo at that time and I thought this game was terrifying. 10 years later I decided to finally play through the entire game on pc, and I was not disappointed. Dead Space is easily one of the best survival horror games I have ever played. Unique gameplay, Tools that are used as weapons, the necromorphs themselves, It's all done so well.
+
+I would definitely recommend this to anyone, even if you're not a horror fan.",0.6929190158843994,16,True
+17470,118236912,76561198037650969,"Survival-horror classic. Funny enough, I've never completed the game before, only tried once, but was pleasantly surprised how well it still holds up after all these years. Totally recommend to all fans of spooky space shenanigans.",0.691923201084137,22,True
+17470,203364722,76561198058540513,"This game is one of those rare exceptions where EA did something right. I mean, they take one step forward and ten steps back, but... sometimes.
+
+This is one of my favorite games of all time, and I'm old. I have at least 15 playthroughs on the Xbox, and 5 on PC. It's getting increasingly more difficult to run this on modern PC's properly. It's still worth it.",0.6414433717727661,11,True
+17470,99419849,76561197996096105,"Came here after awful Dead Space 3. This game is just great. Play this, then play second and imagine that this is duology not trilogy.",0.6396985054016113,12,True
+17470,227641135,76561199593266214,"A Classic Sci-Fi Survival Horror Masterpiece that started the Original Dead Space trilogy & it's a 9 out of 10 in my book.
+
+I remember back then my younger sister would push me to buy the Original Dead Space 2008 game for my PlayStation 3 after she played the Demo for Dead Space 2. At first, I wasn't interested because I was honestly scared of playing it as a kid, but I'm so glad she pushed me to get the game because it ended up becoming one of my most favorite/important games that made a huge impact on my life & molded me as the gamer I am today. I wouldn't be writing this review for the game if it weren't for her, so I owe her a lot.
+
+Without going too much into spoilers for the OG game, we play as our favorite pushover silent protagonist CEC Engineer Isaac Clarke, an everyday space Joe trying to make a living who finds himself stranded on a massive deep-space mining ship known as the USG Ishimura that went dark & overrun by a hostile alien scourge called the Necromorphs, where he's forced to engage in a desperate fight for survival as he searches for his lost girlfriend, Dr. Nicole Brennan. Trapped alongside other fellow crew members of the USG Kellion, Chief Security Officer Zack Hammond & Computer Specialist Kendra Daniels, you uncover a dark, horrific truth of a strange alien artifact retrieved by the Ishimura crew earlier, known as the Marker.
+
+Gameplay is just as fun & thrilling as I remembered; instead of shooting mutated humanoid alien space monsters in the head like most zombie games, you cut the limbs off of Necromorphs to permanently put them down for good with nothing but engineering work tools as improvised weapons like the iconic Plasma Cutter, a standard-issue industrial mining tool used to carve through solid rock & metals in the most ""Cut Off Their Limbs"" bloodbath fashion. Isaac Clarke is an engineer after all, not a soldier. Plus, the Atmosphere in the Original 2008 version is much creepier than in the 2023 Remake due to Isaac Clarke being mostly a silent protagonist, adding more to the dread vibe that awaits you in the dark corners of the USG Ishimura ship as you hear Isaac's heart beating in fear & makes you feel like you're in his shoes.
+
+Graphically, for a game released back in 2008, it still holds up decently well for the most part, despite the Dead Space 2023 Remake. If you're looking for an Original Dead Space experience, the 2008 version is the way to go! I still play it to this day & the Remake back & forth; always got to appreciate the Original for what it was!
+
+NOTE: The Steam version of Dead Space (2008) does NOT include any of the DLCs, like the console versions on the PlayStation 3 & XBOX 360. So, you will be playing the PC version in a vanilla fashion.
+
+Ending my review here,
+Video game director/producer Glen Schofield & the original studio Visceral Games (formerly known as EA Redwood Shores) created one of the most iconic Sci-Fi Survival Horror franchises ever made with Dead Space. I'm proud to be serving aboard the USG Ishimura for years since then.
+
+BONUS: There's a message hidden in plain sight for both Dead Space (2008) & Dead Space 2023 Remake! Once you see it, you'll be surprised.",0.6396593451499939,10,True
+17470,15334057,76561197970644090,"I got this game years ago on another... online... game distrobution platform. A friend told me to play because I love horror games. I played the first few chapters and was so stressed out I ended up taking a break for over a year! I finally finished the game a few months before Dead Space 2 came out. It still stands out as THE most stressful, scary, and panic inducing games I have ever played.
+
+Even though it's ""old"" it has aged well and even through all the blood and gore, it's still beautiful. Dig into the story and you'll enjoy this even more. Dead Space is the only game series that I've geeked out hard enough to read books about, it's that good. I hold the DS series at the top of my list of best games, right along with the Half-Life, Portal, and Mass Effect games.",0.687187135219574,18,True
+17470,100157188,76561198234668424,"Just a tip for anyone who buys this. 
+If you get stuck and there is an invisible wall on the first door you get the plasma cutter. 
+Don't worry just have vsync turned on and then you can turn it back off during the rest of the game
+Have a good day~",0.6355260014533997,12,True
+17470,131687506,76561199081056841,"The perfect Dead Space experience for those who can't afford the remake and/or those who can't run it
+
+(I'm Both)",0.6848596334457397,15,True
+17470,153236154,76561198047366069,"While this game might be old, it still is a masterpiece.
+One of the best games in the survival horror genre. DIfficulty scales well, giving a challenge to more daring players but giving accessibility to everyone to enjoy the story and the scares.
+You'll navigate a grim spaceship to slowly unveil a disturbing plot with unexpected twists, fighting and dismembering through horrid monstrosities that are waiting to jump you from every corner, every ceiling, every hole in the wall in this gore-filled adventure, and if you didn't play this back in the days, I can say you will most likely not be disappointed by playing it now.",0.6339501142501831,8,True
+17470,118461580,76561198847053801,"Deep with endless skies and stars, black with emptiness and fears. As you keep opening your eyes soon you realise there nowhere to run or hide. The pace invaded your mind and you realise how small you are in this “place”. 
+You as Isaac Clarke a space engineer set to investigate damned spaceship Ishimura. With your skills and tools you have to find out why this ship became so silent from inside. Beyond your first step you soon start to feel dreadful emotions. You hands starts to shake, heart beats faster and faster. The violence and danger you encounter you have never seen before. This horror is your limits of humanity. 
+Ishimura its not just a ship. It’s a character that wants to tell you a story. A bloody screaming story. But fear…fear is not an option here. You have to put things together and with many handy mining tools that soon becomes your friends. Friends until the end. Plasma Cutter is one of the most bad as weapons ever invented. With this baby you can hit any micro rock from many feets away. Cut, slice or stomp. 
+The presentation and visualization of this game is beyond other level. No health bar covering your eyes or ammo counter on right side. Its only you and your engineer suit and thoughts. Soon you start to question your sanity. The enemies don’t sleep cause they can pop up from every shadow of the room. Sometimes its better not to look behind but to shoot first. Three rules applies here: If it moves shoot, if its dead-shoot again, if you think it can be alive still shoot. You start to realise what else they can be throwing at you because the enemies constantly evolving by the minutes. What was with only two spiky tenticles now evolved into undying behemoth. 
+14 years passed and this gem is still holds up as one of the best true horror games ever made. What makes it even better is that your character don’t speak. Silent protagonist at its best highlight. Cause speaking would made it worse. Better to show you this scary dream in action. RIP Viceral Games you not been forgotten. Callisto Protocol will be back wih full shock. 10/10",0.6339048147201538,11,True
+17470,138111405,76561198872674096,"This game was being held hostage in my backlog for quite some time now. Finally got around to playing it and man was it a treat. Great atmosphere with fun gameplay. A few issues with high frame rate but nothing a few forums couldn't solve. Next up, Dead Space Remake.",0.6334664821624756,8,True

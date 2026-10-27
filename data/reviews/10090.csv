@@ -1,0 +1,1469 @@
+appid,recommendationid,author_id,review,weighted_vote_score,votes_up,voted_up
+10090,188410639,76561198126258450,"As much as i love this game in particular
+i do not recommend buying it under the greedy corpos holding this beloved IP
+
+i still remember when i bought it for like under $5 in your typical steam sale from not too long ago but before i noticed it, they had the [b]audacity[/b] to jack up their prices to what you see now
+
+[b]20 BUCKS!??!? FOR A 16 YEAR OLD GAME[/b]
+
+what a shameless desecration, [b]WAW is not only affected[/b], they're doing this for their older titles too!
+
+in conclusion.... [b]don't buy it[/b], get it ""by other means"" but certainly do not feed in to these souless husk of an industry
+
+you deserve better than this",0.9316704273223877,272,False
+10090,208854022,76561198278479564,"Still the best Call of duty game ever made. will play this any day over that new diabolical stuff.
+
+-Can we just agree if call of outy went back to being call of duty..following examples like this. The world would be a better place..but instead we got let down fam...they cooked Woods",0.9147008657455444,165,True
+10090,212886321,76561198174643291,"Favorite Cod game of all time, sat in line for the og midnight release on xbox 360 and would sell everything i own to do it again with my dad.",0.9133607149124146,109,True
+10090,179427631,76561198832930611,"No anime and celebrity character skins, no 20 dollar weapon blueprints that turn your gun into a dragon. Just a gritty, bleak, and brutal WW2 shooter.
+
+Call of Duty needs to start taking itself seriously again.",0.9048147201538086,242,True
+10090,23879314,76561198053560912,"I almost hesitated buying it because negative reviews, but I went ahead:
+> I bought the game for $10 dollars on Summer 2016 sale
+> I downloaded the 8.12 GB game
+> I opened 'World at War Multiplayer', refreshed list, and....
+>> Holy crap, servers. I join and there are still people playing<< 
+> I play a few games and I wonder if there zombies
+> You must go to Singleplayer/Co-op to play zombies
+> I see zombies in singleplayer but what about multiplayer zombies?
+>> In Co-Op, there a list of servers for Co-Op story and Zombies
+-- I didn't even have to install any patch or modify my game in any way--
+and I almost didn't buy the game.
+Negative reviewers, You lied to me.",0.9005735516548157,165,True
+10090,222914768,76561198145950196,Newer COD will never be able to make such a dark atmosphere like this game ever again. They don't have the balls.,0.8977031111717224,125,True
+10090,40837407,76561198042474712,"Fantastic game with tons and tons of community made content available right now. I have been playing this game for 10 years. This game is a masterpiece and a staple of the pc modding community. While it has issues it always turns out to work in the end and thats the amazing part. I am mainly writing this review to inform people that [b][u]the error that was first reported on Feb 28 of 2018 is no longer an issue cause Activision fixed it[/u][/b], which is quite surprising since this is a 10 year old game now. Anyway you already know what this game is by now I am sure, buy it its worth 20$.",0.9460161328315735,281,True
+10090,7886246,76561198046917172,"10/10
+The campaign on Veteran was fun and very challenging. Custom Zombies is great with friends as well. One of the best Call of Duty titles in the franchise.",0.8951413631439209,308,True
+10090,121537473,76561198385410421,"bought this game to play classic zombies with friends and i cant even do that, learned that purchases made after march 2021 or so do not have access to multiplayer even though old players still have access to multiplayer like whats the bloody point of that activision
+
+the store page description of this game is a straight up lie, do not buy this unless you're solely buying for the campaign",0.8948322534561157,151,False
+10090,32673787,76561198068262862,"This game is fantastic! Got through the game on Regular and Veteran difficulty and collected all collectibles in 11.4h on record.
+
+I will do some pros and cons for the game
+
+PROS
+-Graphics are great
+-Game atmosphere is great
+-No bugs or glitches
+-A large variety of weapons to use
+-The AI is pretty good
+-13 campaign levels which are action-packed
+-The game doesn't get boring after 2 playthroughs
+-The game offers CO-OP campaign, so you can have fun with a friend
+-Large community
+-A big number of servers, almost 20 of them are not full all the time
+
+CONS
+-Kinda short campaign
+
+I recommend this game! 10/10 would fight on Seelow Heights again!",0.8861182928085327,106,True
+10090,142913686,76561198244548592,"Dont open any old COD's anymore. Heres a long explanation written by some guy.
+
+POSTED: JULY 27
+Good game, one of the best in the series but I can not recommend.
+DO NOT BUY.
+While it is still possible to play zombies safely with the use of community patches you can not play public servers safely and activision are actively removing safe ways of playing the game.
+
+*DO NOT OPEN ANY COD PRIOR TO IW*
+They took away Xlabs, Sm2, and soon will take away Plutonium which are all the ONLY safe way to play these older CoDs.
+Opening any CoD prior to IW will result in a chance for people to gain access to your pc. 2 security breaches are known:
+CVE-2018-20817
+(SV_SteamAuthClient in various Activision Infinity Ward Call of Duty games before 2015-08-11 is missing a size check when reading authBlob data into a buffer, which allows one to execute code on the remote target machine when sending a steam authentication request. This affects Call of Duty: Modern Warfare 2, Call of Duty: Modern Warfare 3, Call of Duty: Ghosts, Call of Duty: Advanced Warfare, Call of Duty: Black Ops 1, and Call of Duty: Black Ops 2.)
+CVE-2018-10718
+(Stack-based buffer overflow in Activision Infinity Ward Call of Duty Modern Warfare 2 before 2018-04-26 allows remote attackers to execute arbitrary code via crafted packets)
+These are some things they can do even if you just boot up the game and get to the menu:
+Hidden Remote System Access
+System Information
+File Manager
+Hidden Desktop Usage
+Monitor on/off
+Hidden Browser Usage
+Open/close CD
+Hidden Chrome Usage
+Show/Hide taskbar
+Start Up Manager
+Hidden Firefox Usage
+Show/Hide Start Button
+Task Manager
+Hidden Edge Usage
+Show/Hide Explorer
+Remote Shell Usage
+Show/Hide Clock
+TCP Connection
+Show/Hide Tray
+Reverse Proxy
+Show/Hide Mouse
+Registry Editor
+Hidden Explorer
+Enable/Disable TaskMgr
+UAC Exploit
+Enable/Disable Regedit
+Disable WD
+Disable UAC
+Format All Drives
+DDOS attack
+Audio recording
+Webcam recording
+Device information
+Process hollowing
+Credential stealing
+Discord token stealing
+
+Report every older CoD as harmful and put those 2 CVE's under the description why.
+Write negative reviews to warn others not to spend any money on these CoDs (which are mostly overpriced for how old they are as it is)
+We need to take these CoDs from ""Positive"" or ""Mostly Positive"" to mixed or mostly negative",0.8831336498260498,163,False
+10090,11116199,76561198108057511,"When I was 10 years old I remember my dad getting me this game for Christmas. I remember playing the campaign and enjoying it and being scared by the zombie mode that was unlocked upon finishing the game. During this time I didn't have internet so I couldn't play online. Due to this I always played with my dad. I believe that lasted for a couple months and I begged my dad to get the internet set up so I could play with other people. Call of Duty: World at War was my first online game and it was a great experience. 
+
+Campaign:
+- I would say the campaign in this game is fairly average, but one of the best Call of Duty campaigns.
+- You can play all, but two missions cooperatively.
+
+Multiplayer:
+- Personally, I thought this game had the best multiplayer out of all the Call of Duty games. I loved playing Hardcore          Headquarters, Hardcore Search and Destroy, and War.
+- Unfortunetly, this games feels basically dead these days and I don't really see a reason to play it.
+- On PC there is a problem where you get kicked from games for no reason by Punk Buster.
+
+Zombies:
+- This game comes with four fun zombie maps upon purchase.
+- There are loads and loads of custom maps to play
+- Four player coop.
+
+I honestly can't think of any negative things to say about this game. If you're looking for a game to play custom zombie maps this is the game for you!",0.919532060623169,310,True
+10090,91861682,76561199022476326,"Good story mode
+Amazing Zombie mode and a lot of custom maps
+BUT I CAN'T MAKE A FUCKING ONLINE PROFILE
+Activision YOU SELL THIS 13 YO GAME FOR 20USD AT LEAST FIX IT MAKE IT PLAYABLE ONLINE FOR GOD SAKE",0.8652365803718567,78,True
+10090,186029722,76561198962787683,"This was back when COD actually took its self seriously and there was no glowing cat girl skins and lootboxes and its the best COD in the series and one of the best games i have ever played.
+its gritty,
+its dark,
+its violent but uses the violence to show the real nature of war,
+it uses real war footage in cutscenes,
+its amazing,
+
+URAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",0.8632881045341492,78,True
+10090,133870716,76561198095769782,"Still selling keys for this game at 20 dollars and not letting new players create online IDs?
+I own this game on different profiles and online and co-op campaign is still active and works, 
+Activision/Steam is no longer including the multiplayer portion of WAW if you were to buy it today even though it still works for older players.  False advertising on SteamPage.",0.9087690711021423,211,False
+10090,137619047,76561199024354121,"---{ Graphics }---
+☐ You forget what reality is
+☐ Beautiful
+☑ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{ Gameplay }---
+☑ Very good
+☐ Good
+☐ It's just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ Audio }---
+☑ Eargasm
+☐ Very good
+☐ Good
+☐ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{ Audience }---
+☐ Kids
+☑ Teens
+☑ Adults
+☐ Grandma
+
+---{ PC Requirements }---
+☐ Check if you can run paint
+☑ Potato
+☐ Decent
+☐ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{ Difficulty }---
+☐ Just press 'W'
+☐ Easy
+☐ Easy to learn / Hard to master
+☐ Significant brain usage
+☑ Difficult
+☐ Dark Souls
+
+---{ Grind }---
+☐ Nothing to grind
+☑ Only if u care about leaderboards/ranks
+☐ Isn't necessary to progress
+☐ Average grind level
+☐ Too much grind
+☐ You'll need a second life for grinding
+
+---{ Story }---
+☐ No Story
+☐ Some lore
+☐ Average
+☐ Good
+☑ Lovely
+☐ It'll replace your life
+
+---{ Game Time }---
+☐ Long enough for a cup of coffee
+☐ Short
+☐ Average
+☑ Long
+☐ To infinity and beyond
+
+---{ Price }---
+☐ It's free!
+☑ Worth the price
+☐ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{ Bugs }---
+☐ Never heard of
+☑ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{ ? / 10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☐ 7
+☐ 8
+☑ 9
+☐ 10
+",0.8550114035606384,108,True
+10090,32148068,76561198002608541,"This is all where it started. Zombie mode! Not only that, you can mod the lovable zombies too. A true classic game. The opening scene is also a classic where a Japanese soldier burns a man with a cigarette. 
+
+Not for the faint hearted. Also not for those who are afraid of zombies.",0.9030776619911194,242,True
+10090,88514438,76561198177175698,"Best Call of Duty campaign ever. It's not this block buster, hollywood, Micheal Bay film. It is actual war and the utter darkness that inhabits it. An absolute spectacle of art, displayed in its bittersweetness.",0.8476992845535278,67,True
+10090,223267501,76561197965440960,"Still selling a game 20 euros where it is impossible to create profile or play multi-player because of Activision choice not to fix the problem? 
+
+It's kind of a joke, no?",0.8473306894302368,220,False
+10090,138794608,76561198111420209,"This was one of the best call of duty games made. Activision DO NOT SHUT DOWN THE PLUTONIUM LAUNCHER. This game still has an alive multiplayer because of the Plutonium Launcher. If the Plutonium Launcher gets shut down the only thing left in this game will be solo zombies, solo multiplayer with bots, and the campaign.
+
+If I could describe Activision Blizzard with seven words they would be pride, greed, wrath, envy, lust, gluttony, and sloth. Pride boasting about how the have a new number one top seller year after year. Greed charging 100 dollars every year for trash with 20 plus dollar micro-transactions every month and still charging nearly full price for decade old games. Wrath cease and desist letters sent to 3rd party clients that fixes their old buggy and insecure games at no cost to them. Envy from at looking at people having fun with their older games and not playing their new garbage. Lust trying to tempt people into playing their new games by naming them after the old ones. Gluttony making record breaking profits yet refusing to listen to the fans and to fix bugs and security exploits in new and old games. Sloth releasing a new game every year that cost more and more to the consumer but adding less content and more bugs.
+
+Also keep in mind that Activision Blizzard has a history of mistreating employes and being ran by rapists and pedophiles.",0.846496045589447,65,True
+10090,14695756,76561198048324908,"Call of Duty: World at War is by far one of the best FPS co-op games on steam. Why? Not only does it have an entertaining fast paced still active multiplayer and an extremely involved campaign, but World at War also comes with modding capabilities. Many WaW fans agree, one of the best parts of Call of Duty is its zombies! Within the zombie mode, modders and mappers have introduced custom zombies maps for you to download online. This way you aren't stuck playing the same 4 zombie maps. There are hundreds of custom maps featuring customized weapons, camos, perks, scenery, storylines, objectives, game modes, and much more! Would definitely recommend this game to any FPS zombie lover out there. A+ in my book!
+
+[b]Download Custom Zombies Maps Here:[/b] http://steamcommunity.com/sharedfiles/filedetails/?id=484657357",0.8958699703216553,161,True
+10090,223386404,76561199035616180,"BUY THIS GAME IF ONLY YOU WANT TO PLAY SINGLEPLAYER OR SOLO ZOMBIES
+
+the multiplayer portion of the game isn't functioning UNLESS you've already made an account before WaW ran out of CD space, so new players cannot play any form of multiplayer 
+
+This game was my childhood, I'd come home from primary school and load it up right away and play Der Riese for 7 hours straight, so I really enjoyed playing it thus far and cant wait to play more",0.8396998047828674,59,True
+10090,159357424,76561198288392330,"WaW is one of the last CoD campaigns that actually attempted to say something about war, and morality in general. Contrary to what people think, CoD was not always a series that glorified war, even the earliest installments attempted to show war's brutality. This was the last one, and it ultimately leans into it the most. Sometimes I think it becomes a bit too much of an edge-fest but generally, the campaign is one of the best in the series. Although you will mostly experience it's thematic elements in the Soviet half of the campaign.",0.8379269242286682,56,True
+10090,113115597,76561198009972741,"This is the best COD game. Not because it's flashy. It let's you feel the unfiltered horror of WW2. Someone in an online lobby said ""This is like the best watch yourself die sim"" and I can't stop thinking about that.",0.8371058106422424,72,True
+10090,141826061,76561198217175587,"If you're interested in the singleplayer campaign,go for it, but you risk getting hacked by a random child on multiplayer every time you use it.
+So, Singleplayer = good idea
+Multiplayer = BAD idea
+
+The weather forecast for veterans is: heavy hail of explosives.",0.8346611857414246,62,True
+10090,24483642,76561198140575293,"Pros
+- Not set in space
+- No boost jumping
+- No exo suits
+- No Micro-transactions
+- No 12 year old squekers or Ali-A fanboys screaming down the mic
+- All DLC is included with the game for FREE
+- Custom zombie maps 
+- The campaign is awesome
+- 64 player servers
+- You can drive tanks for fucks sake
+- Still fun to play after being released 8 years ago
+
+
+Cons
+- Made by the same company who made Black Ops 3
+- Martyrdom and Last stand perks
+",0.883733868598938,191,True
+10090,92894889,76561198305650955,"=== [ 🎯 Difficulty: ] ===
+☐ No Difficulty
+☑ Easy
+☑ Average
+☑ Hard
+☑ Impossible (Veteran)
+
+=== [ 👪 Audience: ] ===
+☐ Everyone
+☐ Kids
+☑ Teens
+☑ Adults
+☑ Mature
+
+=== [ 👀 Graphics: ] ===
+☐ What Is This?
+☐ Bad
+☐ Acceptable
+☑ Good
+☐ Great
+☐ Stylistic
+☐ Beautiful
+☐ Masterpiece
+
+=== [ SOUND/MUSIC ] ===
+☐ Bad
+☐ Nothing Special
+☐ Good
+☐ Great
+☑ Beautiful
+☐ I´m Gonna Cry
+
+=== [ 🌏 Story] ===
+☐ This Game Has No Story
+☐ Nothing Special
+☐ It´s Alright
+☐ Well Written
+☑ Epic Story
+☐ Thinking About It, When I Sleep
+
+=== [ GRINDING ] ===
+☑ Nothing To Grind
+☐ Isn't Necessary To Progress
+☐ Average Grind Level
+☐ A Lot Of Grinding
+☐ You‘ll Need A Second Life For Grinding
+
+=== [ 💎 Price ] ===
+☐ Free
+☐ Underpriced
+☐ Perfect Price
+☑ Could Be Cheaper
+☐ Overpriced
+
+=== [ ☣ Requirments: ] ===
+☐ A Toaster Could Run This
+☐ Low
+☑ Average
+☐ Above Average
+☐ High End
+☐ NASA Computer
+
+=== [ ⏰ Game time/length ] ===
+☐ Really short ( 0 - 4 hours)
+☑ Short ( 4 - 12 hours)
+☑ Average ( 12 - 24 hours)
+☐ Long ( 24+ hours)
+☑ Multiplayer/Neverending
+
+=== [ 🐞 Bugs ] ===
+☐ Game itself is a bug
+☐ Lot of bugs
+☑ Few Bugs
+☐ Nothing
+
+=== [ ENJOYMENT ] ===
+☐ I´d Rather Watch Grass Grow
+☐ Hard To Enjoy
+☐ Repetitive
+☐ It's Okay
+☐ Fun To Be Had For Sure
+☑ The Kind Of Fun You Will Remember
+☑ Life Changing
+
+=== [ REPLAYABILITY] ===
+☐ One-Time Experience
+☐ Only For Achievements
+☐ If You Wait A Few Months/Years
+☑ Definitely
+☑ Infinitely Replayable/Multiplayer
+
+=== [ WORTH PLAYING ] ===
+☐ No
+☐ Wait For A Sale
+☑ Yes
+☑ I Can´t Recommend It Enough
+
+=== [ FINAL RATING ] ===
+
+10/10. 
+
+Everything about this game is perfect, with a godly story on the Eastern Front and Pacific Theater, grim atmosphere, fantastic music that puts you into the zone, excellent weapons and gameplay. Graphics are slightly outdated but this is a old game, same can be said with the bugs, but nothing major every really happens that often. The campaign lasts as long as you really want it to but generally it takes maybe 6-8 hours from start to finish on Hardened or lower. The game has some dark moments such as firing lines and alike but it doesn't matter if you can stomach it easily or if you've played anything similar. Veteran should be renamed to grenade fiesta but that is my only complaint. Everything else plays pretty easily. Price is a wee bit high but personally I see it as worth it.",0.8336724042892456,58,True
+10090,133728367,76561197960962368,"One of my favourite childhood game. Also love cod had balls and dont give a damn about censored that will offend some people , Giga Chad WAW",0.833160936832428,56,True
+10090,209351382,76561199681524661,Felt the need to drop a good review here after seeing the dumpster fire that is BO7. This game is perfect,0.83241868019104,57,True
+10090,15458745,76561198048587276,"World at War is a masterpiece and a damn good game. The gameplay is simply COD4 with a different era. 
+http://steamcommunity.com/sharedfiles/filedetails/?id=359464240
+Its fun, fast, and arcadie. In terms of singleplayer, this installment saw you brave the horrors of WWII from both a Russian and American perspective; battling the Japanesse on Iwo Jima 
+http://steamcommunity.com/sharedfiles/filedetails/?id=358229015
+and beating down the 3rd Reich from Stalingrad to Berlin. Featuring the voice talents of Keifer Sutherland for the American Sgt. Roebuck, and Gary Oldman for the premier of the legendary hard-as-nails Russian sniper - Viktor Reznov. The campaign is both compelling and fantasicaly written with mixes of close and ranged combat along a spectrum of locales beautifully designed and planned. The singleplayer is, as far as im concerned, unsurpassable by any other ""Call of Duty"" game. 
+
+Multiplayer is still alive and active. The servers are very fun to play in and have a lot of active players on them. WaW's multiplayer is very fun and solid. It may have a couple of cheap moments like any other COD has. But it is still very enjoyable and can keep you entertained for a couple of hours.
+
+As always I leave the best for last. Zombies! Call of Duty: World at War's zombie mode is one of the best co-op experiences I have ever had. Its fun, gameplay is solid, theres a story, and it will give you and your friends hours upon hours of entertainment. The game comes with 4 solid maps to play on. Natch Der Untoten, Verruckt, Shi No Numa, and Der Riese. These maps offer great variety and are very fun to play in. Zombies is the biggest and most alive part of this game. With a community that has created thousands upon thousands of custom zombie maps that one can enjoy. Many map makers like ZCT and TMG provide high quality maps that can be compared to Treyarch's best. 
+http://steamcommunity.com/sharedfiles/filedetails/?id=359152137
+You still reading eh? Go and buy this game NOW! Yeah thats right, NOW! This is a game everyone should have in their libraries as it offers many hours of entertainment.",0.8800793886184692,270,True
+10090,101182129,76561199107888635,"[h1] 8.5/10 [/h1]
+
+Impressive, amazing, one of the best WWII games I have ever played, this one definitely will be the best.
+
+This game is old but very good even for now. Acting as a Marine and a Soviet conscript. Many WWII FPS games now only focused on Operation Overlord or the Pacific Front, they sometimes ignore the Eastern Front. Games like Brothers In Arms, Medal of Honor, focus on the American Marines, less focus on the Soviet Union, especially in 2008, before this game came out.
+
+The music and the scene of this game are so grand. So many WWII games and films refer to some scene in this game in the far future. Even when I finally finished this game in 2021, I am still moved by this game.
+
+The best WWII Cod game. You must try it, also, if you are interested in WWII. However, this game is old enough, the AI system of this game is a little disappointed, and sometimes this game may crash suddenly. That's why I give this game just an 8.5 score.",0.8277128338813782,84,True
+10090,205558671,76561199014432963,"A great Cod. Its 2025, i still find myself playing both multi and zombies. i love this game. no matter how old. just remember to play games for fun, its not always about grinding and being the best.",0.8267005085945129,43,True
+10090,35219804,76561198239947884,"Remember when Call of Duty was a simple WW2 shooter? 
+Remember when it didn't have black female German soldiers? 
+Remember when CoD didn't glorify micro-transactions and season passes? 
+Remember how you could play as a US soldier in Japan and a Soviet in the Eastern Front? 
+Remember when Gary Oldman voiced Reznov? 
+Remember how brutal it was to see Japanese and German soldiers getting blown up and seeing their body parts fly around? 
+Remember how it had a good story, likable characters and a awesome soundtrack? 
+Remember how you would listen to the Russian Theme over and over again? 
+
+That is World at War",0.8758420348167419,647,True
+10090,194992798,76561198386208576,The game that started it all. Back in 2008. I owe all my zombies experience to this game right here. I would not be who I am today without this game. Old but gold.,0.8254548907279968,47,True
+10090,15560144,76561198173379431,"No faze clans ? 
+No Screaming 13 year olds making mom jokes ?
+No Hackers?
+No Spawnkillers?
+ZOMBIE CUSTOM MAPS?
+fucking amazing 
+CODWAW/CODWAW
+IGN Doesnt care",0.9247453212738037,1090,True
+10090,71389725,76561198198419498,"~ DIFFICULTY ~
+🔲 My grandma could play it
+🔲 Easy
+✅ Normal
+🔲 Hard
+🔲 A challenge to be reckoned
+🔲 In the heat of confrontation, treat your opponent with respect
+
+
+~ GRAPHICS ~
+🔲 MS Paint
+🔲 Bad
+🔲 Meh
+✅ Graphics don't matter for this game
+🔲 Good (nothing special)
+🔲 An original artistic direction
+🔲 Beautiful
+🔲 Masterpiece
+
+
+~ STORY ~
+🔲 This game has no story
+🔲 Basic element of the contractual requirements
+🔲 It's there for people who want it
+🔲 Well written
+✅ Leading to more in-depth researches/thoughts
+🔲 A model to get inspired by
+
+
+~ LENGTH ~
+🔲 Long enough for a cup of tea
+🔲Short
+✅ Average
+🔲 Long
+🔲 To infinity and beyond
+
+
+~ MUSIC ~
+🔲 Just filling noises/No music
+🔲 Trivial and uneventful
+🔲 Good and/or fitting the game's artistic dispositions
+✅  Memorable
+🔲 Transcending whispers of a forgotten world
+
+
+~ INTEREST ~
+🔲 I would rather watch paint dry
+🔲 Hard to enjoy
+🔲 Repetitive and/or uninspired
+🔲A good moment
+🔲 Sticking out of the pack
+✅ You will remember it long after
+
+
+~ REPLAYABILITY ~
+🔲 A one-time experience
+🔲 Only for achievements
+✅ If you wait a few months/years (or with mods)
+🔲 Definitely
+🔲 Infinitely replayable (or almost)
+
+
+~ BUGS ~
+🔲 Never heard of
+✅ Minor bugs
+🔲 Can get annoying
+🔲 Impacts the player's experience
+🔲 The game itself is a big terrarium for bugs
+
+
+~ REQUIREMENTS ~
+🔲 You can run it on a microwave
+🔲 Low
+✅ Average
+🔲 High end
+🔲 NASA computer
+
+
+~ PRICE ~
+🔲 Free
+🔲 Underpriced
+✅ Perfect Price
+🔲 Could be cheaper
+🔲 Overpriced
+🔲 Complete waste of money
+
+
+~ WORTH BUYING ~
+🔲 No
+🔲 If you have nothing else to play
+🔲 Wait for sale
+✅ Yes",0.8745163679122925,187,True
+10090,194027572,76561198378126184,They don't make them like they used to. This game is of phenomenal quality and every gunfight feels like a movie.,0.8239802718162537,47,True
+10090,160522886,76561198069200311,"Without a doubt this is the best call of duty game. This is when call of duty did not care about upsetting people who are easily upset. This game does not hide the utter horror that was WWII. This game is solely responsible for my life long obsession with WWII. This game show's real photos and video from the real war. It is raw, it is ugly, it is WAR!",0.8201576471328735,63,True
+10090,113858104,76561198038784026,"This game represents what Call of Duty really is. Great campaign, great multiplayer, and great zombies. Like the amount of detail put into this game. The gore is so realistic and it makes you feel as if you are actually in a war. More future Call of Duty games can learn a thing or two from this timeless classic. I would not be upset if they remastered this game but overjoyed with the fact that they actually cared about what people like. This is a must get for any ""old school"" Call of Duty player.",0.8188955187797546,61,True
+10090,225040077,76561198137116301,"Best COD game made, shame that the prices for the older ones are so high.",0.8150964379310608,38,True
+10090,214598075,76561199527077546,"10/10 back when COD actually had guts to show stuff like the Swastika and real war footage. This game with L4d and Dead Space Ignited my love for horror & the uncanny(even though I was only 8yrs old), loved replaying the campaign and the zombies where the Aether storyline started. 
+
+This game holds a special place in my heart..",0.8090670108795166,54,True
+10090,78034963,76561198958340597,"Sure the newer CODs are well-made, at least mechanically speaking, but you know what COD:WAW has? a creative vision and a actual fucking soul.",0.8083662390708923,57,True
+10090,30892565,76561198207583911,"One of the best call of duties, from a bygone era before exo suits and jetpacks, it was good while it lasted... at least it has some good active servers
+
+RIP good call of duty- Cause of death: becoming futuristic
+
+2003-2012
+
+You will be missed",0.8581386804580688,124,True
+10090,22879902,76561198119200368,"Call of Duty: World at War Pros/Cons list
+
+Pros:
++Great Campaign
++Fun Multiplayer
++Modded Zombies
++Great Soundtrack
++Tanks in Multiplayer
++Pretty fun maps
+
+Cons:
+-The dogs. Oh god who let them out.
+-Weapons aren't balanced very well, i'm looking at you MP40
+-Perks like Martyrdom
+-Can't play a lot of gamemodes anymore. TDM time.
+-Most maps are gloomy. I miss the sun.
+-Not Heroes and Generals
+
+Conclusion:
+Buy it but don't play it. Only play Heroes and Generals. This is not Heroes and Generals. Don't let it trick you like it did me. Scores a 5 on the H&G scale.",0.8561997413635254,87,True
+10090,132493492,76561198161422818,"""They don't make 'em like this anymore""
+
++One of the best campaigns in the whole series, 
++Amazing soundtrack,
++Zombies originated from here (you do get all 4 maps included in),
+-Unfortunately, online profiles cannot be created anymore. You have to use 3rd party software to access MP
+",0.8058265447616577,41,True
+10090,175074099,76561198139104292,I finally beat the campaign on Veteran difficulty. I pulled all of the hair off my head but the hair on my balls is now 2 feet long.,0.8555642366409302,54,True
+10090,186860914,76561199003419614,"Campaign is probably the best in all of CoD, also I played this game on the 360 just bought it for old times sake and to play it with a friend, beat the campaign 3 times in the span of 20 hours, once on regular, once on veteran, and once with a friend whom I gifted the game to. 10/10 would play forever.",0.8019213676452637,41,True
+10090,107339187,76561198036026176,"[h1]Review of Call of Duty: World at War[/h1]
+When you search through the catalog of Call of Duty titles, your attention will frequently be brought to World at War. Considered to be one of the best WW2 entries in the franchise's history & equally the darkest. This is in one part thanks to the mature tone the game gives for its setting. Which is appropriate as the Second World War was the bloodiest conflict in Human history. However WW2 isn't new to CoD, so what else sets it apart? The coverage of the Pacific Theatre, greater focus & detail on the Eastern Front, introduction of the Zombies/Horde sub-mode to the franchise, stand-in prequel to the Black Ops series, and overall care for the source-material. 
+
+Based directly on Call of Duty 4's updated engine (To the best of my knowledge) and was, at the time, the last official main line WW2 entry for many years. 
+
+[u]Story/Campaign[/u]
+Rather than choosing between separate campaigns, or ACTs, WaW's campaign is a consistent & consecutive 15 missions where you'll swap between perspectives. You'll play the role as Pvt.Miller in the Pacific Theatre, fighting against the Imperial Japanese throughout the American portion of the campaign (Which as far as I'm aware, is the first official time the Pacific Theatre was showcased in CoD). Here you'll witness the sheer brutality of the Japanese Empire, across multiple historic Pacific islands such as, but not limited to, Okinawa & Peleliu. 
+On the flip side, you'll take the role of Pvt.Dimitri Petrenko on the Eastern Front of the European Theatre throughout the Soviet side of the campaign. Alongside fan-favorite (And first time appearance) Viktor Reznov, against the fierce German war machine. From Stalingrad all the way to Berlin. 
+
+Now while ""Fighting the Germans"" is nothing new in Call of Duty, the actual story telling really makes it feel so. I prefer the gameplay diversity of the Pacific Theatre missions, but the characters and story of the Eastern Front missions are far more memorable. 
+
+You are never forced into relationships with other characters. With the exception of maybe Reznov. You merely standby and witness. This makes any deaths unforeseen, and gives them a grittier more realistic feeling, like the overall tone of the game. Backed by cutscenes being spliced with real-life footage (Just like the classic CoD games). 
+
+There are very minor alternate paths within the story, that based on your actions, can lead to different dialogue and a character death. Such as showing mercy or aggression throughout the Soviet campaign, & indirectly choosing who to save in the American campaign. 
+
+[b]Additionally, the entire campaign can be played in Co-Op with multiple players. However 2 missions (Vendetta & Black Cats) are cut from Co-Op.[/b]
+
+[u]Gameplay[/u]
+These games excel at linear map design. This is specifically setup to provide the player with a FPS cinematic experience, akin to an action movie. It's not for everyone, and can take away from some people's idea of replayability. For me, it's perfectly acceptable, as long as the experience itself is enjoyable, and personally, I adore CoD campaigns. I get immersed easily in their action set pieces and shooting galleries. Often times I'll even drop the difficulty to the lowest option just to smoothly play through the game as if I'm watching a film. With that being said, WaW does provide more content than just a campaign. 
+|
+Within missions, you can locate Death Cards, which are similar to Halo's Skulls. They provide additional challenge, ease, or even 'strange' to replaying the campaign. From regaining health by killing enemies, to infinite ammo. 
+
+And let's not forget about Nazi Zombies, more on that later. 
+
+At its core, the gameplay is standard fare FPS stuff. You have a gun, you have a gallery of enemies to shoot, and cover to use as you progress. There's a wide variety of weapons across both theatres. Although I have to say that the movement animations are very stiff, some of the reloads included. The violence is not dumbed down either, you'll blow limbs off the enemy and watch them stumble around in shock. I also love that both the Pacific & Eastern Front campaigns have completely different ways of fighting. The Japanese use guerrilla tactics and surprise attacks, while the Germans are always on the defensive.
+As per usual you will complete various objectives, such as placing explosives, taking down heavy armor with AT weaponry, etc. As well as the usual vehicle missions! This time around being a tank & aircraft mission. 
+Though I would like to compare ""Blood & Iron"" to ""Black Cats"". The tank mission is incredibly minimalistic, and, even by CoD standards, unbelievable. You drive forward with a tank gun that fires every 2 seconds until the red crosshair on the entire German battalion of heavy tanks turns white. Meanwhile in the mission, ""Black Cats"", you're cinematically switching gunner positions on a PBY aircraft, firing different calibres of MG's, taking control of 20mm cannons, landing to save sailors in the water, fighting against PT boats & enemy aircraft, all while the OST perfectly captures the feeling of adrenaline. 
+
+Despite the positivity, I absolutely despise the sprint feature (Run 3 feet and then slow to a crawl), and by god the grenade spam in this game is awful. Even on the lowest difficulty, you'll die instantly to a grenade that hits your feet and explodes at the same time without the warning indicator getting a chance to appear. 
+
+[u]Nazi Zombies[/u]
+Originally a fun bonus mode unlocked after completing the campaign, soon turned into a full blown mini-franchise within almost every further release in the series. WaW and Black Ops in my opinion, have the purest Zombies mode. Simple survival with some clues to uncover a story. Earn points by killing zombies & repairing defenses, then use said points to bypass barriers, purchase weapons & upgrades via the mystery box or soda machines, etc. It's a very simple formula that you can play for hours across the 4 unique maps. 
+
+It's a fan-favorite, but personally isn't much for me anymore. It's not a dynamic survival horde mode. It has a set difficulty progression to it that devolves the gameplay after only a few rounds. 
+
+[u]Multiplayer[/u]
+Included with the base game, and not a separate launcher like most other CoD titles, you get everything you'd expect here. I don't play it anymore really, but use to quite a bit. As long as you can find a server that's not modded or full of bot users, you'll get access to progression and classic CoD competitive shooting. 
+
+[u]Soundtrack[/u]
+I have to give the OST its own section here. It's probably my favorite OST across any Call of Duty title. They are tracks that better reflect the gameplay, rather than the cinematic aspect of the story. S-Tier quality. 
+
+[u]Additional Notes[/u]
+The game can be modded, and is mostly used for user-made Nazi Zombies levels, multiplayer plugins, and sometimes upgrades to the main campaign. It is sad to hear that a British campaign was cut from the game, as well as a fighter aircraft mission.
+
+[h1]Conclusion (Pros & Cons)[/h1] 
+Call of Duty: World at War is a must have for CoD & WW2 shooter fans alike. There's not many games like it right now, and it's hard to find a dark telling of the period that's not invaded with woke culture. I consider it my favorite Call of Duty game to date, although it often fights with MW2.
+
+[b]Pros:[/b]
++Gritty & Dark WW2
++Pacific Theatre
++Visuals that standup
++Content variety
++Nazi Zombies
++Co-Op campaign
++S-Tier OST
+
+[b]Neutral:[/b]
+~Short campaign
+
+[b]Cons:[/b]
+-Grenades, seriously
+
+
+[h1]Disclaimer[/h1]
+Thank you for taking the time to read my review. Please remember, that this is just my opinion. We don't have to agree, one thing I love you may hate, and one thing I hate you may love. Hopefully this gave you an idea of what to expect. 
+
+[b]Review lengths have been greatly compressed due to the character limit.[/b]
+
+1/4/2022",0.851641058921814,68,True
+10090,94458981,76561198078373275,"The game is great for what it is, but no one who buys it is from march/2021 on will be able to play online apparently. It appears that new buyers don't get the online key. If they fix it then I think it's worth it if not I would just buy something else.",0.7996410131454468,61,False
+10090,211868444,76561198800811353,"
+---{ Graphics }---
+☐ You forget what reality is
+☐ Beautiful
+☐ Good
+☑ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{ Gameplay }---
+☑ Very good
+☐ Good
+☐ It's just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ Audio }---
+☑ Eargasm
+☐ Very good
+☐ Good
+☐ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{ Audience }---
+☐ Kids
+☐ Teens
+☑ Adults
+☐ Grandma
+
+---{ PC Requirements }---
+☐ Check if you can run paint
+☐ Potato
+☑ Decent
+☐ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{ Game Size }---
+☐ Floppy Disk
+☑ Old Fashioned
+☐ Workable
+☐ Big
+☐ Will eat 15% of your 1TB hard drive
+☐ You will want an entire hard drive to hold it
+☐ You will need to invest in a black hole to hold all the data
+
+---{ Difficulty }---
+☐ Just press 'W'
+☐ Easy
+☑ Easy to learn / Hard to master
+☐ Significant brain usage
+☐ Difficult
+☐ Dark Souls
+
+---{ Grind }---
+☑ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☐ Isn't necessary to progress
+☐ Average grind level
+☐ Too much grind
+☐ You'll need a second life for grinding
+
+---{ Story }---
+☐ No Story
+☐ Some lore
+☐ Average
+☐ Good
+☑ Lovely
+☐ It'll replace your life
+
+---{ Game Time }---
+☐ Long enough for a cup of coffee
+☑ Short
+☐ Average
+☐ Long
+☐ To infinity and beyond
+
+---{ Price }---
+☐ It's free!
+☑ Worth the price
+☐ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{ Bugs }---
+☑ Never heard of
+☐ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{ ? / 10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☐ 7
+☐ 8
+☐ 9
+☑ 10
+
+",0.798969030380249,49,True
+10090,23385442,76561198096227723,"I have a deep hatred of Call of Duty (for a wide array of reasons), but this game on the PC kind of passed my firewall.
+
+In terms of system requirements and gameplay fluency, I was beyond surprised with how well this game runs. I was running a full 60 FPS flawless, even in the higher-paced Zombies mode, which honestly is the only saving grace in Call of Duty.
+
+The singleplayer was pretty interesting, too; it was a cool campaign of WWII taking place on two fronts against two highly different enemies - the Japanese favor unconventional, barbaric and suicidal attacks which provide challenge for the close-quarters-oriented United States Marines, and Hitler's cronies go against the Soviets in a longer-ranged conflict.
+
+The weaponry feels so unique and abstract from other installments of this otherwise putrid franchise, though that primarily comes from the gore effects in this game. Watching enemies' limbs go flying off when I blast them off with a pump-action shotgun reminds me of many years ago when I played this game on the Xbox 360.
+
+So World at War provides an entertaining singleplayer, which also has the equivalent of Halo's ""skulls"" (difficulty and game modifiers that provide either more challenging or easier effects in the gameplay) and cooperative campaign gameplay (it did on the Xbox, at least; I'm almost positive it does on the PC), and the Zombies mode is at its strongest and purest roots. It's tragic when the series' (Zombies) origins are the best version of it.
+
+Oh, and it's World War II, not this futuristic Titanfall wannabe bullshit. (One of my many reasons for loathing CoD.)",0.7987249493598938,99,True
+10090,171347964,76561198046520677,"Owning this game on PC and playing it in 2024 just feels so right. 
+Servers are still active, players still playing.
+For a game that was released in 2008 it runs and feels the exact same as it did when it first came out.
+
+Would highly recommend to those who used to play this game back in the day.
+Best Call Of Duty made.",0.8476992249488831,65,True
+10090,55677558,76561198054174071,20 bucks? this should be like 5 bucks by now. They would actually make more money if they dropped the price.,0.8470074534416199,1866,False
+10090,12306908,76561198020220244,"In my honest opinion, this remains to be the last great game in the Call of Duty series. The campaign holds up very well and is incredibly challenging on the highest difficulty.
+
+Problem is, very few people play the multiplayer for this game these days, as far as I've seen...
+
+Well worth the money if you can pick it up on sale.
+
+Edit: Nearly a decade later, this review is still very much how I feel. Oh well. Call of Duty was a good series while it lasted.",0.8464329242706299,238,True
+10090,141659572,76561197960499970,"The only horror game where the monsters [b]look exactly like you.[/b]
+
+
+One of my favorite CODs ever.",0.7943400144577026,42,True
+10090,67091367,76561198984187188,"1) The Campaign:
+
+It made me feel like that I was the soldier in the war, Treyarch at that time did not shy away from showing the atrocities that are committed in war and neither did they shy away in showing how cruel war can really be. We are brought to feel remorse to all those participating in the war.
+
+It was to be expected after all; when you focus the campaign on the two bloodiest fronts: The Pacific and the Eastern Front.
+
+However, one major draw back for the campaign is the inability to continue forward with it. I became stuck at the mission ""Eviction"" by having the game freeze during the level. It's unfortunate really.
+
+2) The Zombies:
+
+Upon playing zombies, it brings a feeling of dread and fear with you as well. As compared with the zombies of the other Black Ops titles; World at War's zombies is the most simple but it doesn't fail to deliver the fun that so many people crave. It's a very good mode that combines great gameplay and a very dreadful atmosphere that leaves you at the edge of your seat.
+
+Such an example of that atmosphere is presented in the first zombies map you have, Nacht Der Untoten.
+
+3) Conclusion:
+
+I did not have the liberty to play multiplayer or online in general because the game is a very old one, so many people have moved on from it and now only a handful play this game; making it difficult to actually find a populated server.
+
+Overall, I would say that Call of Duty: World at War was a solid Call of Duty title in its prime. If you are considering to buy this game right now then I would rather recommend you wait for a discount; charging 20$ for a 2008 game that is barely populated is kind of ridiculous on Activions's behalf.....
+
+In short: Great Campaign (Though this issue of the game freezing at a certain level persists with me), a very good zombies mode, however; it's barely populated, you won't be able to play online very much.
+
+Score: 7.5/10
+
+EDIT (12th of May, 2020): I fixed the problem of the campaign levels freezing, and I was able to continue playing the rest of the campaign missions. What I said about the campaign still stands; it is beautiful and intense.",0.8443131446838379,65,True
+10090,85410850,76561198143774099,"This game itself makes me emotional, and i never got emotional from a game. Just knowing this played a big part of my childhood, and still lives as the best COD title to date (in my oppinion) just makes me look back at the old days, where young me wanted to gain knowledge. It is this game that fuled my brain to go on a never-ending jurney about every smallest and largest detail of war, and i had come a great way, Enough to summarize WW2 as a whole.
+
+This game Is somthing else, and if you smack new graphics on it, you have a game from 2050. The characters and story, the gameplay as a whole.
+
+This game shows the true horror of war, Nothing like Wolfenstine and other WW2 games. Its more than just killing an AI, its killing a enemy. The felling of putting down a person like the german or japaneese makes me think about the time. I feel really immersed when i play.
+
+This is without mentioning the zombies. Its hard to belive this one game is what kick started the COD zombies franchise, without it it would look diffrently.
+
+The weapon design is the best even to todays standard. Today's guns are so generic, it just does not sound good anymore. But the guns in here, you can Feel the power the gun gives off. You feel like your really in the game if your mind is imaginative enough.
+
+To anyone who does not own the game:
+Please buy it. If you never played it, this is the might of games, and what i feel is the best game in the world.
+
+I have high hopes to see another title that continues this game, and not another Black-ops 3 and infinite warfare.",0.8404190540313721,80,True
+10090,9683501,76561198089350110,"Custom zombies is an endless ammount of fun. Amazing maps, great community, great zombie killing. RIP Yote.",0.889396071434021,166,True
+10090,17843408,76561198093156440,"Best COD on PC along with COD 4
+
++ All DLC free
++Custom Zombies
++Mods
++Great Campaign
++Zombies
+
+-Multiplayer isn't at its peak
+-You will run into hackers in multiplayer",0.8892276287078857,145,True
+10090,135249633,76561199095667061,"this game practically said fuck your feelings because it doesnt care if your offended by swastikas or the ""violence of Japanese soldiers"" it isnt like cod ww2 where there are moments of happiness,this game truly shows the horrors of war love it",0.7876551747322083,45,True
+10090,32143172,76561198086045298,"Got the game in 2008 still play it 
+
+Pros
+-CoOp Campaign
+-Multiplayer
+-Free DLC
+-Zombies
+-Custom Zombies!
+-Low System Requirements
+-No Double Jump Crap
+
+Cons
+-Official Servers Are Gone
+-Its A COD Game
+-Idk What Else.......",0.8373907208442688,112,True
+10090,39433402,76561198102900116,"Hello All! 
+
+Here i will be listing the 𝐏𝐑𝐎𝐒 and 𝐂𝐎𝐍𝐒 of ""Call of Duty: World at War""
+
+This is my personal opinion, so please read other reviews aswell as mine, before you buy the game.
+
+𝐏𝐑𝐎𝐒
+
+◆ Has Single-Player 
+◆ Has Multi-Player 
+◆ Has a Co-Operative Story
+◆ Zombies Mode
+◆ Controller Support (Pretty easy to configure using the console)
+◆ Custom Maps - Zombies 
+◆ Multi-Player is extremely fun
+◆ Very Fun with Friends
+◆ Fast Loading Times 
+
+𝐂𝐎𝐍𝐒
+
+◆ Multi-Player has quite a few hackers
+◆ Multi-Player lobbies usually have ""Experience Cheats"" 
+◆ For Multi-Player and Zombies, i cannot use the Server Browser
+◆ No FOV Changer
+
+𝐂𝐎𝐍𝐂𝐋𝐔𝐒𝐈𝐎𝐍
+
+Overall this game is extremely fun and great with friends. - 10/10",0.8370120525360107,60,True
+10090,209728961,76561198067293225,"campaign is still fun, got it because it was on sale but the servers for MP appear to be shutdown, even on sale the price seems pretty high for a dead game.",0.7862990498542786,47,True
+10090,115036267,76561198069668012,"This is an amazing game, yet I must say DO NOT buy it now.
+Only the single-player campaign woks right now, as activision/treyarch know they ran out of proper CD keys or something for this but aren't doing anything about it. You can't create an online profile for the multiplayer/co-op features even though it's still advertised as having them.
+Such a disappointment as the co-op campaign and custom zombies are great to play with friends.
+Fix your game Activision.",0.7860037684440613,69,False
+10090,190546008,76561198005916838,"This game was basically my life back in 2008 over on the Xbox 360. So many hours spent gaming with friends killing zombies and each other
+
+The campaign was brilliant, too. Planting that flag on top of the reichstag at the end of a veteran playthough was the crowning achievement of my life back then",0.7859082221984863,37,True
+10090,177680439,76561198068839161,"Truly the best Call of Duty of all times. After almost two decades, game is still fun, there are still people playing online. Grab it on a sale and have old school fun.",0.8339817523956299,58,True
+10090,51462972,76561198087794419,"[h1] 🕘          IMPRESSION:[/h1]
+* Year 2008: Game released 
+* Year 2009: Started playtest 
+* 15 min later: WWII weapon doesn't fit me
+* Year 2019: Buying it because friend recommended
+* 11 hours later: Nice game but too old
+* Year 2023: PunkBuster still available
+
+🟢 = Available
+🔴 = Not available
+
+[h1]         GAMING CONTENT:[/h1] 
+🟢 Plenty of shooting & explosion
+🟢 Online Coop Scoring Competition
+🟢 Stay alive with limited equipment
+🟢 Players Versus Environment gunplay
+🟢 Zombie Mode
+🔴 Exciting Weapon Sound
+🔴 Accept newcomer to sign up profile
+🔴 Versus friend best record
+
+[table]
+    [tr]
+        [th]iMeter[/th]
+        [th]SCORED[/th]
+        [th]iNTEREST METER[/th]
+        [th]DISCOUNT?[/th]
+ [th]COMMUNITY[/th]
+        [th]REVIEWER[/th]
+    [/tr]
+    [tr]
+        [th]A+[/th]
+        [td]5[/td]
+        [td]Loving it [/td]
+        [td]No Wait[/td]
+        [td] -[/td]
+        [td] -[/td]
+    [/tr]
+    [tr]
+        [th]A[/th]
+        [td]4[/td]
+        [td]Liked it[/td]
+        [td]No Wait[/td]
+        [td] ✔[/td]
+        [td] -[/td]
+    [/tr]
+    [tr]
+        [th]B[/th]
+        [td]2-3[/td]
+        [td]Half satisfied[/td]
+        [td]Wait 50%[/td]
+        [td] -[/td]
+        [td] ✔[/td]
+    [/tr]
+    [tr]
+        [th]C[/th]
+        [td] 1[/td]
+        [td]Less Interested[/td]
+        [td]Wait 75%[/td]
+        [td] -[/td]
+        [td] -[/td]
+    [/tr]
+    [tr]
+        [th]D[/th]
+        [td] 0[/td]
+        [td]Not what you need[/td]
+        [td]Wait 100%[/td]
+        [td] -[/td]
+        [td] -[/td]
+    [/tr]
+[/table]
+
+🏅 Community Rating: [b]  Very Positive  [/b]
+🔎 Long Version Checklist ➜ [u][url=https://steamcommunity.com/groups/expectationchecklist/discussions/1/1639789306539260805/]Reveal[/url][/u]
+📢 Disclaimer about Short Hours & English Error ➜ [u][url=https://steamcommunity.com/groups/expectationchecklist/discussions/0/4594180031254224809/]Read Here[/url][/u]
+
+[quote]
+⚖️ iMeter {B+} Worth a play, if you enjoy Good Coop Gunplay in PvE mode. However, if you're looking for extra discount because it is old, don't play it
+[/quote]
+
+[h1] ⭐️         COMPARE TO OTHER CALL OF DUTY[/h1]
+* Coop in campaign
+* Coop scoring competition
+* Unlockable coop cheat
+* Dismember limb
+* Support mods
+* Support Console Command
+
+[h1] 💎         COMPARE TO OTHER SIMILAR GENRE:[/h1]
+* Zombie mode for PvE play
+* Anti-Cheat System on Competition
+* Coop play for 2-4 players
+* Online game rule modification
+* No steam achievement
+
+[h1]  🔊         BUYER MUST KNOW:[/h1]
+* Game world timeline: 1942, WWII event
+* PunkBuster = Anti-cheat system
+* Death Card = Hidden Collectiable Cards
+* At least 3 players online to start coop game
+* No cloud save any progress
+* Have to manually add steam friend to play Coop
+
+[h1]  ⚠️        RUMOR CHECKING:[/h1]
+* Cannot play online coop ➜ False info
+* Cannot create a profile to play ➜ True, online profile is out of limit after 2021
+* Expensive price for such old game ➜ Price will drop when replacement is available
+
+Remember  to 👍 for me if you liked this review:
+🔔 More similar reviews ➜ [u][url=http://store.steampowered.com/curator/31940448-Expectation-Checklist/]Browse Here[/url][/u] and follow this Curator, or
+🤝 Visit Our Gaming Discussion ➜ [u] [url=https://steamcommunity.com/groups/expectationchecklist]We're Here[/url][/u]",0.8339546322822571,126,True
+10090,49760176,76561198318056417,"My rating: 9/10
+
+---{Graphics}---
+☐ You forget what reality is
+☑ Beautiful
+☐ Good
+☐ Decent
+☐ Bad
+☐ Don't look too long at it
+
+---{Gameplay}---
+☑ Amazing
+☐ Good
+☐ Average
+☐ Mehh
+☐ Starring at walls is better
+☐ Just don't
+
+---{Audio}---
+☐ Eargasm
+☑ Very good
+☐ Good
+☐ Not too bad
+☐ Bad
+☐ Mute it
+
+---{Audience}---
+☐ Kids
+☑ Teens
+☑ Adults
+☐ Human
+
+---{PC Requirements}---
+☐ Check if you can run paint
+☐ Potato
+☑ Average
+☐ Fast
+☐ Rich boiiiiii
+☐ Ask NASA if it has a spare computer
+
+---{Difficulity}---
+☐ Depends upon your in-game choices
+☐ Just press keys
+☐ Easy
+☐ Significant brain usage / average
+☑ Easy to learn / Hard to master
+☐ Difficult
+☐ Dark Souls
+
+---{Grind}---
+☑ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☐ Isn't necessary to progress
+☐ Average grind level
+☐ Too much grind
+
+---{Story}---
+☐ Story?
+☐ Mehh
+☐ Average
+☐ Good
+☑ Amazing
+☐ It'll replace your life
+
+---{Game Time}---
+☐ Long enough for a cup of coffee
+☐ Short
+☑ Average
+☐ Long
+☐ LONG
+☐ Endless
+
+---{Price}---
+☐ Worth the price
+☑ Only if on sale
+☐ Not recommended
+☐ You could also just burn your money
+
+---{Bugs}---
+☐ None
+☑ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs",0.831095814704895,98,True
+10090,233461072,76561198799181989,"Performance wise, decent port considering most of the older CoD games are broken on new hardware and require many loopholes to play properly. This game doesn't require much in the way of fixes, aside from the lack of an FOV slider, which can be fixed by downloading CoD SCZ FOV changer. Unfortunately I cannot recommend this release as the game lacks Steam achievements, and even worse the multiplayer mode is broken and filled with hackers who use a P2P exploit to download viruses onto your computer. All it takes for your computer and personal information to be at risk is to simply join an online game with one of these hackers in the lobby. This game, and all older Call of Duty titles are all infected in this manner and it's highly recommended you download Alterware (Plutonium is not available for MW2) and use it to play multiplayer... which is all good and fine, but when you're still charging FULL PRICE for a 15 year old game, I expect it to be fully functional. Not only this, but Activision has not issued a warning regarding these exploits, meaning hundreds of users are unknowingly harming their computers due to corporate incompetence.",0.7793675065040588,85,False
+10090,148488054,76561199379772980,"This game taught me very important stuff about WWII when I was a little kid. 
+This is one of the most accurate representations of war to date In my option. Nothing is censored or held back like in video games now in days. The multiplayer and zombies is very very fun.
+The story is also very good!
+
+10/10 I love this game.",0.7791777849197388,40,True
+10090,167312127,76561197987299205,I've been playing this game for many years and I pay this game at least 4 times a week. I'm a retired Navy Gunner's Mate 1st Class Petty Officer and 100% Disabled Veteran and play games all day long and I just upgraded my computer with a faster and was cheaper getting a new board and Windows 11.,0.8275439143180847,96,True
+10090,43197138,76561198055670888,">Cost 19.99
+>Has ZERO dlc on steam
+>zero microtransactions
+>Not a single bad map
+>Great single-player
+>Coop story mode
+>Zombies. Best maps plus custom maps
+>$9 on sale
+
+Don't buy Cod WWII.",0.8237913846969604,158,True
+10090,8872194,76561198060750166,"Buy the damn game. Whether it be the endless and challenging Multiplayer, the zombies, the tens of thousands of mods, or the fact that it's my favorite COD game out there. 
+
+
+
+Buy.
+The.
+Damn.
+Game.",0.8229702115058899,204,True
+10090,179120290,76561197968699211,"You need to watch out for the grenade indicator. I repeat, you need to watch out for the grenade indicator. In case no one knew, you should watch out for the grenade indicator. 
+
+You may have taken one step into the jungle but you should always be aware of the grenade indicator! You happened to sprint one step too far and instantly blow up? You should've watched for the grenade indicator. Screen blurred, red and shaking? Well you could still be alive if you somehow were able to make out that grenade indicator. 
+
+Guns don't kill people, grenades do.",0.7716686725616455,35,True
+10090,86565529,76561198411444209,i like the game mode where its like screamy dead guys and you go PPPPPPPPPPEWWWW PPPPPP RATATATATA AWOOGA AWOOGA and then these dogs they go BARK BARK GR GGERRRRRRRRRRRRRRRRR and then you go RARTATATATATATAT PEW PEW PEW and money and stuff yeah,0.7713009715080261,50,True
+10090,174686608,76561199557926911,"Where it started. From an accidental zombies gamemode to a full on series, this game was one of the best and most scary zombie games out. This game aged pretty well and is still very playable in the terms of singleplayer. Treyarch, please take better care of your older games, they were what started you anyways.
+
+Good purchase, i have it as it came with a black ops 2 bundle.",0.7710260152816772,27,True
+10090,112305005,76561198043388291,"I get a ""Profile cannot be created."" error message when attempting to create an online profile. This is required in order to play online. I intended to get this game to play with my friends.
+
+This issue is apparently a very common issue that people have been getting for years which, to this day, still has no solution.
+
+Why is this still being sold?",0.8176524639129639,133,False
+10090,143561961,76561198061226718,"EDIT 10/17/23 
+plutonium is still alive.  if you want a safe way to play cod WAW plutonium is the way. if you dont know what that is google is your friend and its quick and easy to set up. ive been playing a bunch lately and its a blast. hopefully see you on the battlefield <3
+
+as much as it pains me to say this given WAW is my favorite cod of all time. 
+""DO NOT OPEN ANY COD PRIOR TO IW
+They took away Xlabs, Sm2, and soon will take away Plutonium which are all the ONLY safe way to play these older CoDs.
+Opening any CoD prior to IW will result in a chance for people to gain access to your pc. 2 security breaches are known:
+CVE-2018-20817
+(SV_SteamAuthClient in various Activision Infinity Ward Call of Duty games before 2015-08-11 is missing a size check when reading authBlob data into a buffer, which allows one to execute code on the remote target machine when sending a steam authentication request. This affects Call of Duty: Modern Warfare 2, Call of Duty: Modern Warfare 3, Call of Duty: Ghosts, Call of Duty: Advanced Warfare, Call of Duty: Black Ops 1, and Call of Duty: Black Ops 2.)
+CVE-2018-10718
+(Stack-based buffer overflow in Activision Infinity Ward Call of Duty Modern Warfare 2 before 2018-04-26 allows remote attackers to execute arbitrary code via crafted packets)
+These are some things they can do even if you just boot up the game and get to the menu:
+Hidden Remote System Access
+System Information
+File Manager
+Hidden Desktop Usage
+Monitor on/off
+Hidden Browser Usage
+Open/close CD
+Hidden Chrome Usage
+Show/Hide taskbar
+Start Up Manager
+Hidden Firefox Usage
+Show/Hide Start Button
+Task Manager
+Hidden Edge Usage
+Show/Hide Explorer
+Remote Shell Usage
+Show/Hide Clock
+TCP Connection
+Show/Hide Tray
+Reverse Proxy
+Show/Hide Mouse
+Registry Editor
+Hidden Explorer
+Enable/Disable TaskMgr
+UAC Exploit
+Enable/Disable Regedit
+Disable WD
+Disable UAC
+Format All Drives
+DDOS attack
+Audio recording
+Webcam recording
+Device information
+Process hollowing
+Credential stealing
+Discord token stealing
+
+Report every older CoD as harmful and put those 2 CVE's under the description why.
+Write negative reviews to warn others not to spend any money on these CoDs (which are mostly overpriced for how old they are as it is)
+[8:45 PM]
+We need to take these CoDs from ""Positive"" or ""Mostly Positive"" to mixed or mostly negative""",0.8164833188056946,82,False
+10090,83357685,76561198133616533,"Remember when PETA clowned themselves trying to protest this game's use of attack dogs?  Fun times. Anyways, this game's campaign is pretty neat, in that you're both America AND Russia fighting Japan and Germany respectively. This seems to be before COD stories became America Saves Literally Everyone Ever (although I think you're Russian in Cold War, so that's neat).
+
+This game plays similar to the popular franchise ""Call Of Duty"", likely took inspiration from it. Pretty fun actually, and there's some sick levels in here, like the flamethrower one, and the tank level wasn't that bad imo. Decent variety of WW2 guns, and some pretty nice setpieces throughout the campaign. However, the banzai chargers and grenades are a cheap 1 hit death, so that's cool too.
+
+Graphics aged, but whatever; they are pretty muddy at times however, because that's totally what realism is. 
+
+Great campaign despite exact same gameplay, and it has Victor Reznov in it, so I have to recommend.",0.7659100294113159,53,True
+10090,124016432,76561198867958726,"[h1]I think this was the point where COD became truly cinematic FPS![/h1]
+[quote][b]Rating:[/b] 8.5/10[/quote]
+A really well-made Call of Duty campaign, short but full of quality. I seriously didn't expect this game to be so damn good. Interestingly, they have used horror background music here and there so there is also a sense of curiosity. 
+I love all COD, and this didn't disappoint. Graphics were a little inconsistent, there were minor stutters, and multiplayer was not working (could not create an online profile!)
+Even COD1 and COD2 have default working multiplayer lmao so this was a surprise.
+
+Overall, HIGHLY Recommend.",0.8157647252082825,53,True
+10090,218163377,76561199861002541,Its nice but 20 dollars? for a 2008 game activision is insane or something and its not replayble after you finish the campaign because multiplayer services shutted down and thats the same for zombies.,0.7653928995132446,87,False
+10090,16320664,76561198025513623,"The best COD.
+
+Pros:
++the only COD campaign that's actually good
++almost every mode can be played coop
++zombies
++custom zombies
++WWII setting
++banzai
++Kiefer Sutherland is a voice actor in it
+
+Cons:
+-that you didn't buy it yet",0.8637802004814148,618,True
+10090,228616509,76561198008556081,"This release is broken as of mid 2026.  Optimization with menus and resolution is outdated, but the main issue is Multiplayer's scourge of hacker fiefdom.  It is literally dangerous to play this game's multiplayer without a certain level of protection equipped.  
+
+If you must play online (or Zombies), look into Plutonium for a more stable and secure server environment.  Population may vary.
+
+It is hard to recommend this game, in its current state.  It is unlikely this will ever be fixed, now that two of its sequels are being re-released (barebones).",0.7629655599594116,69,False
+10090,179477964,76561199798998500,"I have played much more than 4 hours of this, but on plutonium, which is currently the only way to play the campaign and zombies coop. The campaign is extremely dark and raw with lots of varied levels to cover and a good amount of weaponry. I personally think the Russian half of the campaign is significantly better then the American and ""Vendetta"" is possibly my favorite Call of Duty campaign mission of any game. 
+
+To make this work in coop is a pain, so here's how I did it:
+1. Download Plutonium
+2. Download LogMeIn Hamachi & make a network with your friends in it
+3. Load the game through Plutonium and make a cooperative lobby, choose your preferred settings, etc.
+4. When everything is set open the console using the ""~"" key. Type ""spminplayers 2"". This makes it so the game won't start until a friend joins. If you want more people I'd imagine you'd just increase the number and so on. 
+5. Now in the console type ""xpartygo"". 
+6. Your friends now need to type in the console ""connect (ipv4)"" and they should connect. If they don't you'll need to cycle through a few different possible ip's provided by the game in the multiplayer settings. 
+7. You'll need to repeat steps 3-6 every time you want to do a new campaign mission or restart zombies :/",0.7625207304954529,29,True
+10090,22421350,76561198018730868,"This is one of the good Call Of Duty games. Based on CoD4's IW3 engine, plus the modding capabilities, the community is developing the game's modding even further ahead. But the only things is - I can only see alot of custom zombie maps, speaking of Mods and custom content.
+Dear modders! If you're reading this review, please, make some cool multiplayer mods + some custom co-op campaign maps :)",0.8080219626426697,45,True
+10090,153909999,76561198389863345,"Hardest things that you need to do in order to get validation and not get ostracized:
+1. Deadlifting 500
+2. Climbing Mount Everest
+3. Getting admissions to Harvard and MIT
+4. Earning 7-digits 
+5. Beating this game at veteran difficulty
+
+",0.8073867559432983,49,True
+10090,1534496,76561197994346230,"It may be a re-skin of CoD4 but that just means the Good War is back and it's better than ever.
+
+Despite the grumblings of many, World at War shows there is still a lot of fight left in WWII as a setting. And despite some obvious shortcomings, like the broken audio and straightforward story, World at War is every bit as intense, polished and fun as it's predecessor. The presentation is top notch, with cutscenes that mix real wartime footage with sleek, modern graphics. The short single player campaign is helped by a terrific multiplayer and co-op portion as well as the ever fun Nazi mode. The World at War doesn't reinvent the wheel by staying snugly in Modern Warfare's shadow, but it does make for a thrilling and enjoyable ride that fans of WWII and shooters alike are sure to appreciate.",0.7550288438796997,21,True
+10090,156109558,76561198031197526,"The best Call of Duty hands down, isn't afraid to throw punches with real war footage, no censorship and a very gritty atmosphere that always sends chills down my spine. Was one of my go to games while growing up and was one of the main factors on why I'm a World War 2 buff. The game play still holds up to today and the voice acting is phenomenal with my favorites being Reznov, Robuck and the cast who did the German/Japanese lines. I did successfully complete the campaign on veteran difficulty which isn't for the faint of heart, constant grenades and the Japanese Type 99 machine gun kills you in 2 hits but overall it was a fun challenge which in the end, you feel very accomplished when the credits roll. My overall final review is that this is the best Call of Duty in the franchise and is one of the greatest FPS out there, I highly recommend and give it a 10/10. 
+
+""As long as you live, the heart of this army can never be broken. Things will change my friend."" - Reznov",0.8047991991043091,37,True
+10090,231111516,76561198256055737,"Despite the game being censored in Germany and the entire Zombie being removed, as a German you still pay Full price regarless of an entire gamemode being removed.",0.7538126111030579,59,False
+10090,115236509,76561198963961287,"PRICE IS **** NOW WHEREVER U ARE IN THE WORLD IF UR THINKING TO GET THIS GAME NOT ON SALE JUST AND HAVE THE MONEY, JUST BURN UR MONEY OR THROW IT TO THE SEA OR BURY IT ITS BETTER THAN BUYING THIS AT FULL PRICE
+---{ Graphics }---
+☐ You forget what reality is
+☐ Beautiful
+☐ Good
+☑ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{ Gameplay }---
+☐ Very good
+☑ Good
+☐ It's just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ Audio }---
+☑ Eargasm
+☐ Very good
+☐ Good
+☐ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{ Audience }---
+☐ Kids
+☐Teens
+☑ Adults
+☐ Grandma
+
+---{ PC Requirements }---
+☐ Check if you can run paint
+☐ Potato
+☑ Decent
+☐ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{ Difficulty }---
+☐ Just press 'W'
+☑ Easy
+☐ Easy to learn / Hard to master
+☐ Significant brain usage
+☐ Difficult
+☐ Dark Souls
+
+---{ Grind }---
+☑ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☐ Isn't necessary to progress
+☐ Average grind level
+☐ Too much grind
+☐ You'll need a second life for grinding
+
+---{ Story }---
+☐ No Story
+☐ Some lore
+☐ Average
+☐  Good 
+☑  Lovely
+☐ It'll replace your life
+
+---{ Game Time }---
+☐ Long enough for a cup of coffee
+☐ Short
+☑ Average
+☐ Long
+☐ To infinity and beyond
+
+---{ Price }---
+☐ It's free!
+☐ Worth the price
+☐ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☑ You could also just burn your money
+
+---{ Bugs }---
+☐ Never heard of
+☐ Minor bugs
+☑ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{ ? / 10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☐ 7
+☐ 8
+☑ 9
+☐ 10",0.8531626462936401,152,True
+10090,99753773,76561198083821697,"As far as playing this game solo it runs amazingly well. I haven't run into any problems in solo campaign or zombies. However, many problems arise when it comes to the multiplayer. If you purchased this game in 2021 the user consensus is that you are unable to create an online profile. I've tried every different solution as far back as 2013 and none of them work. Uninstall/reinstall the game as much as you want, verify the local integrity, run in safe/administrative settings, alter/delete files, and still nothing works.
+
+Alas there's still hope. If you truly want to play WAW zombies with your friends download plutonium. Download the launcher, create an account, link your COD WAW file, add your friends on plutonium, and bingo online zombies or multiplayer. As far as I can tell it's completely legit. I haven't encountered any issues and you're not pirating anything cause you're still purchasing the game through steam.
+
+It sucks that Activision/steam don't mention that the multiplayer service is down or whatever issue they're facing with new purchase activation keys, but the alternative still works pretty well.  Also this really is a 13 year old game that still cost $15 on sale.",0.7516210079193115,32,True
+10090,208023781,76561198068402567,"This Game defined my Childhood. It was the second Call of Duty I ever played, after Call of Duty 3. It was simply gritty, abrasive, and In-your-face. It didn't hold any punches, and if you're planning on playing this on veteran, I hope you like grenades.
+
+10/10, a writing masterpiece, and the origin of good 'ole Reznov",0.7515957355499268,39,True
+10090,90107548,76561198159607935,"Issues with New players not being able to create an account
+
+Edit:
+But overall I love the game and will always love the game
+
+The only somewhat fix which can be difficult to setup is Plutionium
+https://forum.plutonium.pw/topic/6971/how-to-install-plutonium-t4",0.7510911822319031,35,False
+10090,92006865,76561198016911040,"Steam does not sell valid CD keys for the game, meaning you cannot create online profiles and play online or co-op.
+Do not buy from steam until this issue is fixed.",0.8010032176971436,76,False
+10090,69420046,76561198155755820," It's the best call of duty for the gamers who love to play world war games, old weapons, fighting in trenches and bunkers.",0.8495347499847412,59,True
+10090,67849135,76561198113014119,"Call Of Duty: World At War
+fast game with modern day graphics with easy controls that moves from location A to B to C and so on,
+good amount of action and special effects,
+
+good game.
+Personal Suggested Purchase Price: $3.49 Or Less During Sale
+",0.7993993759155273,70,True
+10090,15584245,76561198225390796,"First buy on Steam, (New PC Gamer here, converted from Console) and the PC version is like a totally different game from the console's.
+60+ FPS & 1080P On Extra Graphics w/8x AA
+Custom Zombie Maps
+Easy Server Joining
+Modding
+$20 only
+
+",0.7967910170555115,61,True
+10090,30058541,76561198048669872,"One of the most genuine world war 2 games that aged very well and still holds a very alive playerbase. Strongest point WaW has to offer is a flexible mod support which allows essentially changing a healthy amount of engine core mechanics.
+
+[b][✔][/b]
+> 4 player co-op campaign
+> dedicated mod support 
+> unlimited amount of custom zombie maps
+> tactical mp instead of rush clusterf*ck
+> 64 player server & drivable tanks
+> free CoD DLCs (wow)
+
+[b][✘][/b]
+> bugs occur more often than not
+",0.7949918508529663,46,True
+10090,84633529,76561198411912259,"Even though it is a much older game, this is still one of my favorites. It's brutal, it can be tough, but it brings back memories of being at my best friend's house and we would stay up all night playing zombies and campaign. Still worth it, and I find it to be a better game than a lot of the newer Call of Duties
+",0.7449788451194763,29,True
+10090,96989468,76561199082423682,"---{ Graphics }---
+☐ You forget what reality is
+☑ Beautiful
+☐ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{ Gameplay }---
+☑ Very good
+☐ Good
+☐ It's just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ Audio }---
+☑ Eargasm
+☐ Very good
+☐ Good
+☐ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{ Audience }---
+☐ Kids
+☑ Teens
+☑ Adults
+☐ Grandma
+
+---{ PC Requirements }---
+☐ Check if you can run paint
+☑ Potato
+☐ Decent
+☐ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{ Difficulty }---
+☐ Just press 'W'
+☐ Easy
+☐ Easy to learn / Hard to master
+☐ Significant brain usage
+☑ Difficult
+☐ Dark Souls
+
+---{ Grind }---
+☐ Nothing to grind
+☑ Only if u care about leaderboards/ranks
+☐ Isn't necessary to progress
+☐ Average grind level
+☐ Too much grind
+☐ You'll need a second live for grinding
+
+---{ Story }---
+☐ No Story
+☐ Some lore
+☐ Average
+☐ Good
+☐ Lovely
+☑ It'll replace your life
+
+---{ Game Time }---
+☐ Long enough for a cup of coffee
+☐ Short
+☐ Average
+☑ Long
+☐ To infinity and beyond
+
+---{ Price }---
+☐ It's free!
+☑ Worth the price
+☐ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{ Bugs }---
+☐ Never heard of
+☑ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{ ? / 10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☐ 7
+☐ 8
+☐ 9
+☑ 10
+
+[hr][/hr]
+Grab this review template [url=https://vojtastruhar.github.io/steam-review-template/] here [/url].",0.7436404228210449,50,True

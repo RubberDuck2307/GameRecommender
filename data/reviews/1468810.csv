@@ -1,0 +1,901 @@
+appid,recommendationid,author_id,review,weighted_vote_score,votes_up,voted_up
+1468810,115654110,76561198414035330,"[h1] Brief summary of why the Chinese players are so pissed: [/h1]
+
+The reason for the chinese players to absolutely despise the third party modding website is that the ""official modding"" was promised to be released over a year ago, but kept getting delayed. When it finally got released, everyone felt betrayed because it was a garbage third party website with so many restrictions.
+
+But the reason why the game is still getting review bombed is the [b] developer's initial response [/b] to the first round of complaints. The team was dead silent for about 2 weeks, no comments about all the fiasco, yet people that were complaining about the modding on the chinese forums got their accounts banned left and right. Thats why many resorted to steam review bombing, and almost as soon as the steam review tanked, the developer came out and said the steam workshop will be launching in the end of the month, something he had being saying was ""really hard for the team"" and kept ""facing difficulties"" for the past year.
+
+So yeah.... I kinda understand why people are still really mad about this one",0.9437996745109558,350,False
+1468810,88229687,76561198070412660,"New edit: The developers have made the steam workshop available, but as an Oceanic user I don't have direct access to the workshop and I can't upload mods. It seems to be only available to Chinese modders, much like the previous 3rd party software. The problem appears to be covered up and not solved.
+
+Edit: Modding capability is now available. The devs are using a 3rd part chinese workshop that we all hate (thanks devs), however you can use Nexus Mods instead. Simply go to the Tale of Immortal nexus page and download any mod, then add it into the local mod section provided in the mod category. Then you're good to go.
+
+Be aware that currently, from what I've seen, the IDs mods use are generated at mod creation and multiple mods have a chance of ID conflict (breaking the mod/s). So if you have problems this may be the reason.
+
+
+Official English translation is available. The devs have mentioned 90% is translated, but I believe it won't impact gameplay. Players who haven't launched the game before will be switched to English automatically.
+
+If you have launched the game before you will have to do the following: in the main menu select 语言 and change 简体中文 to English (Alpha) and restart the game.
+
+For my review: Having played the game, I can say it's both good and bad. It failed to meet my expectations but I still enjoyed the game and will recommend it. The art is fantastic. The combat is fun but lacking compared to other action & slash titles (there is a lot they could do with it). Quests aren't very clear and their incentives are bad making it hard to get invested. You don't get anything really unique or interesting from quests as far as I've played.
+
+Progression is the most disappointing part of the game. It's a mix of crafting, gathering and looting to acquire items that will either enable you to advance or give you a stronger stat-boost when you do advance. Every realm does the same thing, only requiring different items at the new area/s that open up for that realm. This is a shame. Progression is the area that has the most potential in this game and yet is the most tacked on part, mostly an afterthought.
+
+The developers could've made each realm advancement unique, with different gameplay mechanics for each one that ties into the unique aspects of the area/realm they're in. This would be a fantastic way to give a sense of freshness to each area the player explores and make them engage more actively in said area rather than rushing through it as we do now.
+
+Progression could've been the strongest part of this game but they ended up making it the weakest. Again, it's a shame. I see so much potential that just isn't capitilised on. Overall this is an experience I'd recommend. But I'd only play it once in its current state.",0.9383085370063782,252,True
+1468810,86644876,76561198052701951,"I can't read Chinise, even though I bought this game. 
+
+The gameplay feels smooth and the amount of loot, customizations and NPCs is colossal.
+
+I really encourage devs and community to aim for an English translation. 
+
+Thanks for the opportunity of being able to get closer to Chinise culture",0.9356258511543274,464,True
+1468810,108188398,76561198063634337,"Some one tried stealing my spirit stones, i beat the shit out of them, Spared them for i am a benevolent person, Their Father who is three realms above me comes after me and 1 hits me. 10/10 would court death again.",0.9056411385536194,138,True
+1468810,123982841,76561198132151587,"To shed some light on negative Korean reviews:
+
+In addition to receiving negative Chinese reviews for the abysmal management of the game, the devs now have made an enemy out of its Korean consumers for striking an exclusive Korean language support deal with a local distributor and NOT on Steam. This has outraged many Koreans on this platform who have supported the development of this game so far by purchasing it when it was still in Early Access stage WITHOUT language support. The devs have also officially forbidden any user-made Korean patch for this game, forcing those users to buy the game separately from the local distributor to play it in their preferred language.",0.9026779532432556,156,False
+1468810,114146344,76561198009962522,"当了N年支持国内盗版的小白，本来不想差评国产独立游戏。但是架不住鸡谷工作室太(哔~！）给力了。宣传了创意工坊，以为是Steam网上的创意工坊。结果居然玩了手虚假宣传搞了个要通过审核的独立辣鸡工坊。
+
+当初脏三推崇太污脏卷的时候就该警觉了，没入坑的道友千万别花冤枉钱支持这群国产毒瘤。
+
+I didn't want to give a negative review to this game, because China as a market is notoriously hostile to pop culture like comic, cartoon and video games. But don't buy this game if you haven't already. The dev team is involved with advertise scam.
+
+They advertised workshop with mod support during the first early access. But turns out instead of steam workshop, it's some kind of independant workshop where mods have to pass CCP censorship. Oh, I'm sorry, I mean CCP 'Harmonization' (because prettier word make everything better). 
+
+And also this is my own tinfoil hat theory (because I'm programming illiterate who doesn't know anything about how actual programming works), but I have serious worry the additional program you are required to download to even access their independant 'workshop' might be a trojan, or spyware. Because their official website's layout looks like one of these Chinese piracy website where you download trojan/spyware into your computer together with your pirated games.
+
+Don't support these scammers.",0.8961833119392395,347,False
+1468810,106038652,76561198013279024,"I've played 23.1 hours of this game in the 2 days I've bought it and all I can say is... Wow, this game is stupidly fun and addictive and I really can't think of anything else like it. It's basically an ""open world"" sandbox where your main goal is to get stronger through cultivation of chi, but there's quite a bit more to it than that.
+
+Essentially you run around on a grid-based world map that is semi turn-based. The way it works is that travelling around and doing certain things like cultivating, etcetera, take up 'days'. Once 30 days are done, the month is over and you have to end 'turn'. At the end of the turn, it updates the state of the world and all the other characters in the game take their own actions - and often interact with you as well. It's not really turn-based, but it kind of is. It works fine and it's fun.
+
+Combat takes place on battle maps and is semi-ARPG like. You have 4 active skill slots, a main martial attack, a special attack, a movement attack, and an ultimate attack. These skills are all different depending on what martial art you specialise in, and you can mix and match them across multiple martial arts if you train those skills enough. Martial arts are split across physical and spiritual - physical being spear, sword, etcetera, and spiritual being elemental magic. There are also 'mind skills', basically passive skills for which you have separate skill slots and need certain amount of mind skill 'points' to equip.
+
+But what do you actually do? Basically, you travel around the world map trying to get stronger. There are main quests and events that pop up all over the place and cool little side stories to explore, but the main thing is you want to increase your cultivation level. Cultivation levels (there are currently 8) are basically how strong your character is, and each level is split into 3 stages: early, middle and late. To increase your current stage, you fill an XP bar and then need to use a pill to breakthrough to the next stage, then you do this again until you're ready for the next cultivation level. Increasing your cultivation level, however, is a lot more complicated. There are mild power boosts when you go from stage to stage, but when you increase your actual cultivation level, you get a major power boost.
+
+To kind of really give you an idea of how the game works, I'm going to describe my journey to get from Qi Condensation (cultivation level 3), to Golden Core (cultivation level 4):
+
+As a new early Qi Condensation practitioner, my first priorities are two-fold. One, I need to upgrade my skills, because there are different skill manuals for different cultivation levels, and two, I need to increase my stage to Qi Condensation late, which will give me a pretty significant power-boost and is easy to get. For the next several months, I spend my time in and around my Sect's branch base in an area I've not really explored (I moved here after reaching Qi Condensation), doing basic missions from the sect's mission board like exterminating monsters, retrieving lost manuals, etcetera. At the same time, whenever I can, I am making friends with my fellow sect members and dual cultivating with females for cultivation xp (you can only do it with the opposite gender for some reason), and also cultivating at cultivation spots on the map if I see any nearby. When I reach the points I need to progress to middle, and then late stage Qi Condensation, I take a short trip to the nearby town and buy the pills needed to do this.
+
+Pretty soon I realise that some of the better skill manuals in my sect are only available for higher ranked members, so I issue a challenge to a higher ranked member I'm pretty sure I can beat, and then eventually beat him in a duel and take his place. He dislikes me for this, but now I can get better skills, so who cares. As a higher rank, I am now offered more difficult missions that give better rewards, and I am able to do a few to buy some new skill manuals for my level and then spend a few months learning them and replacing my old ones.
+
+Eventually, I'm late stage Qi Condensation, and I hit the exp requirement for Golden Core, meaning the only thing left to do is the big breakthrough to the next Cultivation Level. I need multiple breakthrough items to do this, and they are difficult and time-consuming to get. You can technically settle for a less good breakthrough by collecting fewer of the needed items, but this is a bad idea. Getting all of them gives the most stat increases, making you much stronger. What do I need? I need 6 elemental Qi Pearls, one from each element, and I need 4 Heaven and Earth items. I can get 3 of these from Spiritlock Circles, but the last I need to beat a rampaging World Boss for.
+
+So how do I get these? Well first, I explore the entire region to find all the special points. When I've found them, I know where to go. I get the Heaven and Earth items first - I go to each spiritlock circle, give an offering to a turtle, and then have to protect him against waves of enemies and bosses for 2 minutes. I have to go and learn an AOE skill for this because it's too difficult otherwise, but I manage to do it. When the 2 minutes are up, he gives me one of the items as a reward. I repeat this two more times. Then, I go and face the world boss - he's not overly difficult because I've been getting good skill manuals from my sect and have decent passives, but it's still pretty hard.
+
+ To get the six Qi Pearls, I need to wait for bosses to spawn in each of the six elemental zones in the region. These are hostile places where you can get attacked on sight, so I can't hang around there. I continue doing missions, participate in tournaments and wars while I wait, and one by one they eventually spawn and I run over and kill them. After 5 whole years I finally have all six, and I go back and get the items from my bank (I kept them in there because other cultivators can steal them from you) and then perform the breakthrough.
+
+I go for the G1 Golden Core breakthrough, the highest one, because I have all items. The breakthrough only has like a 95% chance of succeeding, so I save scum just in case, but it succeeds anyway. During my breakthrough, I am able to choose a permanent 'destiny' passive. I go for one which increases my lifesteal, because I use a melee blade build which uses lifesteal pretty heavily.
+
+Now that I'm Golden Core, I upgrade my skills and get to Late Golden Core again. I'm now one of the strongest in my sect branch, and I want a higher rank. I challenge one of the four Elders and beat two of his disciples, then him, in one on one duels. They hate me for this, but again, who cares. I am now Elder of the Sect's Treasury Department, and now only do I now have access to some of the hardest missions in the sect, but I can also allocate missions to my underlings to increase the sect's wealth.
+
+It's all going well and good, but soon I hit a bottleneck again, and now the only way to get stronger is to breakthrough to Origin Spirit. I check what I need to do to do this and... Yeah, it might take me a while. There also happens to be a giant sea monster in the way of me getting to the place I need to go to get some of the items, and an entire questline I need to beat to deal with that.  But I'm committed now, and also my smoking hot harem of chinese cultivation girls keep giving me gifts to help me along, so how can I give up? 
+
+There are tons of mechanics that all interweave in this game. Complex relationships, sect diplomacy, stats, character ambitions and desires, thievery, three different types of crafting, feng shui, geomancy, artefacts... There's so much I've not even touched yet, but I'm REALLY looking forward to continuing.
+
+The only bad thing is that there's still maybe 5% of the game not translated to English.",0.8951386213302612,98,True
+1468810,183982628,76561198125895975,"!!! BEFORE YOU PLAY !!!!
+
+Open Windows Settings --> language and time setting --> language tab --> administrative language setting --> Change system locale --> enable [Beta: Use Unicode UTF-8 for worldwide language support] (need to restart after setting)
+Otherwise the game won't launch
+
+(Stole it from Reddit, but making life easier for the rest of ya)
+
+Now, my review: 
+For a cultivation game, it delivers pretty much the experience I respected. Nice customisation, and rouge like starts. 
+Only negative, all partner relationships available are straight. Can't pair up fairy with fairy here.
+",0.8916735649108887,135,True
+1468810,155597775,76561199003702256,"Pro tips to actually enjoy this game:
+-To fix game launch and still be able to use mods: https://steamcommunity.com/sharedfiles/filedetails/?id=2892700098
+-Download one of the mods that speeds up spawn times for certain mobs, lowers the grind for the early game 
+-Download a mod that has better translations (should be one on the workshop somewhere) 
+
+Review:
+Pros: This game is basically vampire survivors mixed with a xianxia plot, except you make the plotline for the most part. Has a ton of content and have a nice collection of mods that support the English version. What truly makes this game fun is the actual relationship system in this game. The characters will remember what you did and do their own thing all together. It's really not an exaggeration for most of the reviews for this game that talk about their character's backstory.  Oh, and the reason why the game has mixed reviews are due to some controversial issues throughout development and modding debacles. Most of these issues are fixed.
+
+Cons: Quite grindy but you can fine tune it. Has some crappy mtl translations and the gameplay is definitely not all that balanced. Although I suppose that's pretty lore accurate to the genre lmao. 
+
+Verdict: 
+I'd give it a shot, this is definitely a game you will love if you end up digging the gameplay loop.",0.891312837600708,101,True
+1468810,90135253,76561198097605138,Good game anyway but we player REALLY AND REALLY NEED ENGLISH TRANSLATION. PLEASE =.=,0.9373123645782471,252,True
+1468810,204189005,76561197998656711,"I think this game is great, but frankly its been years and the game still isn't completely translated yet.  There are many events that they still haven't gotten around to translating.  So as an English speaking customer I can't recommend this.  Now if you can read chinese then yes I'd highly recommend.  I'll re-review it once everything has been translated but the last time I got to the end it was some pretty bad translated dialog which you can't have when most people aren't familiar with this genre.",0.885278582572937,119,False
+1468810,116450497,76561198006454680,"For those that cant open the game it seems an error happened with the update.  you need to navigate to \Steam\steamapps\common\鬼谷八荒 and then find and delete version.dll.
+
+I believe you will find other workarounds in the discussion page if needed.",0.8719898462295532,89,True
+1468810,117361629,76561198184450737,"Update: If you're having trouble opening the game go to your game folder and delete the "".dll"" file. It should start after that. I still play from time to time. Hope you guys are well on your ways to immortality. GLHF!! 
+
+FIRST: In order to play the current version of TOI you have to right click the game in your steam library and go to local files. There you have to look for a file named ""version.dll.""Delete it and you're good to go.
+
+ I'm a huge cultivation and martial art fan and as such, I would highly recommend TOI to anyone looking to immerse themselves in an immortal adventure of their own making. Just stay away from the new mod system and you'll be fine. There's currently an issue where the game doesn't open regularly (this will be fixed soon), again this is due, in my opinion, to what I like to call over listening to the fans. That being said they shouldn't have rushed that system into the game seeing that most of the bad reviews are centered around that and not being able to play the game, versus the game play itself. I've played TOI for quite awhile, each play through being different than the last. The devs (contrary to popular belief) really due care about the fan base, choosing to animate the dialog characters and even going as far as having in game outfits and costumes designed by players and fans themselves. Overall this is by far my favorite cultivation game and if you choose to give it a chance (with an open mind) I'm sure it could easily be yours as well. People do not hesitate to heap bad reviews on something, trust me when I say the reviews are MUCH worst than the actual game. Just look at the hrs most of them have put in, the range is between 80 -300+ hours. That should tell you it's the patch/patches not the game. It's an epic game with even more content scheduled to release on TOI's road map. Do yourselves a favor, try it for yourself first. You can thank me later ;)",0.8670540452003479,73,True
+1468810,122127803,76561198450298867,"I really enjoyed the game when it came out, and loved the concept and playstyle of the game. The game was very incomplete, but what was promised was very enticing. 
+
+Fastforward to 2022, the dev is now shitting on everyone in the Chinese community for complaining about new bugs and unfixed issues. 
+
+Mod workshop has been a big issue for a long time, where other China based dev have released with 0 repercussions, where this game dev is scared of someone coming after him. 
+
+The way this game is being managed by the dev, is a complete turn off. 
+
+The way this dev interacts with the gaming community (the base community that he depends on, the Chinese gaming community) is horrible. His language indicates that he is a greedy fuck and already planned a sequel without completing this one. 
+
+I have 0 faith on the support that will be provided for the English community.",0.850286066532135,139,False
+1468810,119480935,76561197973136881,"The bad reviews are 1 of 2 things. The devs pulled some shady stuff with the Modding community but has since come back and implemented the Steam workshop so that is no longer an issue. The second issue is one of the newer updates somehow made it so the game won't start unless you go and delete version.dll from the local files. Once that is complete you are free to game to your hearts content. 
+
+That being said, this game has so much to offer. I honestly don't even know how AAA companies can't even get a fraction of this games content in them. I 10000000000% recommend this game as it is a blast and I just can't stop playing. This is CRACK i tell you, the game is just so much fun and offers so much to do. If you are a fan of Wuxia then this is a MUST PLAY!!!",0.8498408794403076,99,True
+1468810,162292812,76561198101090518,"Despite all my time in the game I can't personally recommend it. 
+
+If you're like many before who are just desperately trying to scratch an itch that you developed from reading power-fantasy cultivation novels, go ahead and pick this up. The core gameplay loop is what you've been looking for. You become strong, move to the next region, realize you're at the bottom of the food chain again, rinse, and repeat. The story isn't spectacular, but it isn't terrible either. There is fun to be had in this game if you look at it from a particular perspective. 
+
+I say this because if you're here for any other reason, such as looking for a new enjoyable game, or perhaps you're familiar with cultivation games and want to find the next great one. More than likely, you will be a bit disappointed in this game. It becomes tedious the minute you realize after an hour of gameplay that you will keep doing the same thing for the next 30-40 hours. The game does try to make each stage FEEL different. However, the game's basic mechanics don't change how you try to break through and get stronger. In short, You gather materials and search for skill books. These activities are based almost entirely on RNG and can take a LONG time based on how unlucky you are. 
+
+Though the way to get stronger isn't technically the same every time, even if it feels novel, it wears off the first time you do it. That's not good since the game encourages/expects multiple playthroughs. How can you have the desire to keep playing, let alone run through the same story repeatedly, if the core game has become boring? Additionally, tons of randomly generated characters are sprinkled throughout the game world to spice up your adventure. However, unless you go out of your way to mess with a specific character, they might as well be logs on the road. They quite literally add nothing beyond what you've designated in your role-playing.
+
+There's an entire relationship system built into the game. However, that only manifests as short cutscenes when you enter a town or sect and a character you've met before says some inconsequential dialogue to you for the thousandth time. They might also try to spar or debate you of which the former is a waste of time and the latter while having a use, is just part of the tedium I was talking about before. Or they try to give you stuff that would be trash even at the start of the game. What arguably should be the most prominent feature outside of the central cultivation theme is, unfortunately, an afterthought. 
+
+I could harp on every system in this game in the same way. However, this is already way too long of a review. There isn't an aspect of this game I do not have issues with. However, to end on a positive note. I think the developers have the recipe for an undeniably fantastic videogame. If they ever make a sequel. I suggest going to the drawing board with everything they've created and adding a healthy dose of depth and polish. The ingredients are there, but the current product is massively undercooked.",0.8475196957588196,73,False
+1468810,185901830,76561198035002568,"Basically all the negative reviews come down to the fact that the english version of the game just straight up doesn't work if your computer can't parse unicode. And on it's default settings, it can't. You change your settings so it does with very little trouble (it's one button in your control panel), but the game doesn't tell you that. The game just won't start and nothing else happens. It really feels like they could have done something in an update somewhere to just give it a pop up that tells you what happened and how to fix it, but they never did. It's the kind of decision that you make because you just don't care about the English market, right? Like, it would not be hard to do.
+
+But It's especially weird because the game has a very solid English translation. And there is SO much game to have translated. It's a pretty big game with a lot of text. I can't imagine why they have made the decisions they have. It's weird. But the fix you need to do to get the game running is pretty easy. And the game is pretty fun. I don't know why they've decided to do things this way, but here we are. If you can look past the 5 minutes it'll take you to get the game running right, it's a solid recommend.",0.8456175327301025,67,True
+1468810,94526162,76561198044593188,"A highly addictive Xianxia simulator with awesome randomly generated characters, places, and skills, an exemplary character relationship system idea that has a lot of potential, and a somewhat entertaining bullet-hell-esque combat. If I were to anagolize this game I'd say it is a combination of Rogue-likes with a lot of Random Generation, Mount and Blade, Elona, Touhou Project and Dwarf Fortress' Legends and Adventurer Mode, wrapped in the very popular theme of a Chinese Xianxia novel.
+
+The main draw for the game for me is the procedural generation of characters and their development of relationships which is in particular is highly entertaining (quite reminiscent to Dwarf Fortress, but with much more breadth). Each generated character has their own alignment scale (how Righteous or Demonic they are), their own likes and dislikes (which you can consider when giving gifts), and comes with their own family tree and relationship tree that outlines the rivals, people they have a grudge against, friends, companions, parents, spouses, masters and disciples - allowing you many possibilities for ideas for role-play and creating a story in your head as you play.
+
+For instance, in my first playthrough when I first joined the demonic Sheng Xing Hong (Holy Star Rainbow) sect filled with many demonic characters despite my own character's somewhat neutral disposition. There, impressed by my performance in the sect's entrance duels, one of the sect seniors, the venerable Kang Qin (70 years old) offered to become my master. I accepted hoping to receive guidance and training of the martial arts of fingers and lightning spirit arts. But my master rarely checked on me as he was far too busy getting his ass handed to him by other righteous sects, and especially kept getting defeated by his rivals and enemies. To make matters worse, other members of the sect and other acquaintances kept coming up to me and badmouthing my master, calling him despicable, evil or hypocritical, advising me to break ties with him. Of course being a neutral fellow my character was I just agreed with all of them, making many friends on the way at the expense of my Master's notoriety. One day, while I was breaking through the Foundation stage of cultivation, I received news that he was finally slain by his rival, whom I never even met before. Come to think of it I only met my Master for a second time just after the entrance trials where he told me to work hard on my cultivation and development of my skills. And so was the rather hilarious Master-disciple relationship between me, Yu Tuo the agreeable fellow, and Kang Xin, the old timer who kept getting humiliated by literally everyone around him including his own disciple.
+
+Another interesting story that I can share is how my character met and eventually married his spouse. Also from the same Sheng Xing Hong sect was my female sect senior, Xiahou Hanyun. Intially she invited me to some leisure activities in a nearby pavilion, and was impressed by my art of gift giving and defeating and sparing a rival of mine (who killed me twice before and was quite shocked by me being alive after she slit my throat) who insulted her and my appearance (despite my high appearance stat XD). From then on, we coincidentally met a number of times and grew in amiability. Somehow, she ended up as the sect's leader, and named me an honorary disciple as I moved on to another region to further my cultivation. One thing that was very interesting was how Xiahou Hanyun had more of a demonic alignment but somehow still clicked with my slowly growing righteous character, which opened up many possbilities for thinking about their relationship. I simply just explained it for myself that my character was a very carefree fellow though and my own character was not really as amiable to her as she was to mine (perhaps due to the fact that I kept giving her cultivation breakthrough materials that I no longer needed). My character and Xiahou eventually tied the knot in a snowy village of Feng Kou (Phoenix Mouth), and that was the start of all the badmouthing by strangers and other acquaintances pertaining to her demonic alignment. What is even more hilarious to me is how the righteous sect I joined later gained me a few female admirers, and when one invited me to a pavilion for leisure, my own wife came to find me, demanding an explanation. Thankfully she did not think that it was my fault and developed a grudge and enmity towards that female sect colleague who invited me there. Such Shuraba. 
+
+While the combat is can be said to be rather repetitive, reminiscent of bullet hell games like Touhou Project (but thankfully very much less intense) - it allows a bit more room for customization, offering you up to 4 different moves that have procedurally generated stats and effects alongside equipable passives that boost your abilities alongside pills you can buy or make yourself (which can be more potent than those available in shops or stolen from people). This system lies on top of 6 different martial arts (sword, spear, blade, fist, palm, finger) and 6 different spirit arts (Earth, Wood, Water, Fire, Lightning, Wind) - which have various types of moves each, allowing you many possibilities to mix and match and create your own build. One lost opportunity though for builds which I hope the developers add more on is the cross compatibility of moves from different martial arts and spirit arts which only seems to apply to defensive passive skills for now... which means that if you stick to one art, you will most likely only use that for the rest of the mid to late game.
+
+Nevertheless overall, I was satisfied with this level of combat which provided indeed some challenge especially when fighting bosses mid-game, and sometimes beating a character whose cultivation stage is higher than you (which is often very difficult) using your own strategic build can be extremely satisfying. A word of advice to those seeking to fight those of higher cultivation level - focus on dealing damage + criticals + optimize your build to activate Divine Power immediately as they can deal a ridiculous amount of damage even to higher level cultivators.
+
+As the game is still early access, there are still a lot of systems still not present such as Fengshui, Talisman making, Tool Crafting, Sect Management (sadly you cannot become a Sect Leader yet) etc that will be slowly updated as the game takes shape. So far, as it is I highly enjoy this game and am around halfway through (Hua Shen stage), and the gameplay loop is fun and challenging enough (at mid-game especially). The music is decent, and the artwork is very nice to look at, especially the world map cells which unfold like a neat Chinese painting. I will perhaps update this review again when I am complete, but if you read Chinese, enjoy a good Xianxia novel or comic, love thinking about the in-betweens of character interactions, and love that neat random generation in roguelikes then this game is for you.",0.8402943015098572,57,True
+1468810,233304231,76561198078153668,"English speakers beware. I suppose its just ok enough to play ... but the downsides are REALLY bad. This game is super repetitive, let me emphasize: R E P E T I T I V E. Localization is hot garbage. Most mods that fixes things are in Chinese, you also have to teak setting on your computer just LAUNCH the game. All that said, I WAS gonna give it an okay review, but then i learned some history for the creator....holy one of the most anti-gamer corpo-vile human beings:
+
+The dude was just super vile towards his players just because they wanted steam workshop (which he promised in EA) and he wanted more money so he hard forced 3rd party mods that requires IRL IDENTIFICATION ... Players aren't happy. He opens stream and openly cuss out his players as ""ungrateful, i gave you a mod what do you want"". Then he proceeds to issue an apology letter because this became the worst reviewed game on steam. He also LIES IN HIS APOLOGY LETTER. Saying he didn't open steam workshop because he wasn't familiar with how it worked, and all Chinese games are like that (bold faced absolute lie). He promised to turn off 3rd party software, but dragged his feet. Promised to open steam workshop but dragged his feet. Got more pressure - he finally caved and said Valve worked with him for an additional feature of workshop just for him, so he can have workshop now. LOL, who tf are you bro? You expect anyone to believe this? CSGO and Dota had this approval thing years ago
+
+Nah bro, this is one horrendous person, that's a thumbs down from me",0.8357634544372559,107,False
+1468810,224307178,76561198395174796,"To even be able to play the game YOU NEED TO DO THIS since the developers were to lazy to translate their code for the translation other than that haven't played the game yet apparently plays like kenshi though. looking forward to it
+
+-------------------------------------------------------------------------------
+1. Exit from Steam
+2. Go to game folder \SteamLibrary\steamapps\common\鬼谷八荒 (it is a folder with hieroglyphs)
+3. Rename it to Tale of Immortal
+4. Go to folder \SteamLibrary\steamapps and open file appmanifest_1468810.acf (with notepad++ or else)
+5. Change
+""installdir"" ""鬼谷八荒""
+to
+""installdir"" ""Tale of immortal""
+",0.8274500370025635,66,True
+1468810,98576179,76561199123160097,"Mod Update: Okay, this game has been bombarded with negative reviews from Chinese customers. If you are a western customer and have gone at least once to Nexus Mods for your mods, you can install mods for this game from there easily. Yes, it's a bad decision to have a CCP backed mod support, but I don't think the game deserve this many negative reviews.
+
+Wow, I did not even know I played it for 2 hours in the go!! A perfect game with exciting future potential.
+
+Developers, if you are watching this single review, please keep adding the contents for higher cultivation like Gods and Immortals found in the novels nowadays. I want to break through a realm to become cannon fodder again in a different world where even janitor is stronger than me and rise again to beat those pesky maggots as I did in my old world, just like the never-ending novels where the main character is just never enough powerful. Please make it happen; many more fans of the genre will come here if you can do this,
+
+Btw, English translation is dope, and it is great that this time it was not botched.
+
+Please take this suggestion, and there are many fans of this genre rising throughout the globe; you guys will not be disappointed with the sales if you can tap into them.",0.8250799179077148,68,True
+1468810,98894444,76561198072744321,"While I'm recommending this game, its mostly down to the fact that its an indie game that is being developed with good care by the people behind it, and because has good playtime to price ratio. There's a lot of replayability in here which can allow you to tinker with various different builds. The base foundation of the game is looking solid, and I'm writing this while keeping in mind that its still in EA, and there will be more stuff added. 
+
+That said, there are some points I didn't like, as is pretty much bound to happen in most games. Here they are:
+This is something of a sandbox cultivation game. The story is very loose and only serves to nudge you along further in your path of cultivation. It won't have you grabbing your mouse and staring with wide eyes by any margin. Once that is realised then you start to look at whether or not it is a good sandbox game.  Can you do anything you want? Pretty much.... there's nobody to stop you from not going on a rampage if you want, or from trying to be a do gooder and be in everyone's good graces, or trying to woo  every lady you meet (hark all ye harem wuxia novels out there :D). That said, to me at least there are two things that are most important in any sandbox game to feel worthwhile long term: 
+
+1. The player must be able to affect the world. 
+2. The world must be able react authentically to the player. 
+
+And it is here where this nice little indie game falls short. To be honest I'm not surprised. Its something that any sandbox game will struggle with, no matter developed by a small or large number of people. The two things sound simple but I'm sure anyone can imagine how difficult they would be in practice since they basically have limitless scope. 
+That said, realistically speaking, what I can expect is that if I am a Grand Elder in a particular sect, that some pipsqueak kid of one of the disciples does not come to attack me, then get defeated, and then threaten me that if I kill him, his mommy (who is just a pathetic little disciple in the sect) will ""deal with me"". Not going to happen kiddo. 
+What I also do not expect is for everyone everywhere to be aware of who is fighting whom, and who is killing whom despite the said fights happening in the middle of nowhere. 
+
+Moving on to the next big thing that goes against this game - grinding. This game is a huge grindfest. And if that wasn't enough, there's heavy rng involved in particular things, which just multiplies the grinding exponentially. Now I don't mind grinding if it is fun. But here it is just too repetitive to be fun. There will be a lot of loading screens you'll have to go through if you're grinding a particular realm or for artifacts, and the fact that this game has a moving timeline which saves every month, thats also like a loading screen in itself considering the time it takes to make the save and give all alerts for the month. 
+
+There are a few more nitpicks like lack of in game explanations of various systems, but the game is still EA and translation is being worked on, so I'll hold out on that. Considering this is first cut translation, its quite good. I was hoping this would be the wuxia / xianxia game that would hit the sweet spot for me, but it wasn't to be. Lets see though, there's more to come here, and if they improve some of the things mentioned above, it could get close-ish for me. 
+
+P.S. - Congrats for reading to this part if you actually did. Here's a cookie.",0.8151758313179016,44,True
+1468810,116149283,76561198047198354,"I stopped playing this game a long time ago due to it's repetitive nature, and was waiting for mods to come out. (Which the owner promised to support BTW.)
+
+When the mod finally launched I was thinking, wow, finally. Maybe I can start playing this again, but it turns out this is all a big fat lie, the mod support is NOT on steam, it is on a third party site. And from all the information I read about that site, and this is the important part, YOU LOSE OWNERSHIP OF THE MOD AS SOON AS YOU UPLOADED, BUT CAN STILL BE CHARGED FOR IT LEGALLY  FOR WHATEVER OTHER PEOPLE DO TO IT, also, the site HAS THE RIGHT TO EDIT, DELETE, AND MAKE WHATEVER CHANGE THEY SEE FIT TO YOUR MOD WITHOUT YOUR PERMISSION. 
+
+This is just outright ridiculous. So basically, to mod, you have to do all the work, take all the blame, while they get all the credit, and can charge other people for the mod YOU made as they see fit. What is this? Slavery? I feel it's probably even worse than that. I thought we were in 2022 people, be a human being.
+
+So yeah, would definitely not recommend. In fact, would not recommend anything that comes out from this author at all. This mentally just cannot be supported.
+
+PS: If after all that you still want to buy, just know that they are also sending most of the people in the company to work on a new mobile game, while this game is unfinished, so there is no guarantee when this game will be finished, or will ever be finished at all. You have been warned.",0.8627617955207825,139,False
+1468810,102545878,76561198018383786,"I gave 10/10. This is the very first Xanxia novel. 
+
+WISHLIST
+- Having children
+- Have a family/clan management system similar to the Sect
+- Have events for your descendants (EX: Offending a powerful cultivator and your clan may be wiped, or become a slave to that person, and many more)
+- Having children is harder in later cultivation stages. Easier in the lower realms but the cons is that you are not powerful enough to defend your clan due to your cultivation level
+
+- More complex and robust random events such as a Young Master that offends you. With Big clans/families behind them
+- More Complex Sect Management System
+- Sect members being able to contribute by providing materials, cultivation manuals 
+- More Sect activities to interact with your senior brothers and sisters. Including Elders and Grand elder. Supposedly even the Patriarch themselves
+- Additional positions like Guest elders, and a position for retiring elders staying in the sect until their lifespan ends (provided that they dont see any more chance of breaking through the next stage)
+
+
+- More Robust and complex Cultivation System. Where minor Dao, Major Dao and Grand Dao that exists (only matters in higher cultivation realms)
+- A more meaningful Talent System.  Set of Physiques 
+- A new path. On top of the Daoist Path, A body forging path focuses on physical attacks and defense like in the novels. 
+
+Talent System should have 3 sections and make it more robust compared to the current game now. 
+- Talent for Comprehension (Insight) - How great are you comprehending Dao. You may be limited to breakthrough at later stages if you have low comprehension. 
+- Talent of the element (Spirit Root) - Has something to do with comprehensions of Elemental Dao too like Dao of Fire. It also has something to do with your body. Will explain later 
+- Talent of the body (physique)
+Note: These talents are interchangeably relating to each other. I will explain below
+
+INSIGHT wouldn't matter much in the lower realms. You don't have to complete or comprehend a Dao at this stages. What matters more is how solid and perfect your foundation is (your body as a vessel). 
+
+Thats why when you are starting, your physique and Spirit root matters. Example: 
+
+I am born with a emperor Yang PHYSIQUE. which means I have good INSIGHT for FIRE and YANG related DAO.  My Spirit root is also high in FIRE and YANG elements. Now this is the importance of cultivation. Right now in the game, you can change your cultivation manuals. Because you only use them for four things (basic attacks, Movement, Special and Ultimate Attacks). 
+
+Techinically what I am saying is that we don't have any cultivation manuals TOWARDS OUR OWN CULTIVATION. What am I saying? In the novels we read, cultivators practices a manual because they use it to advance their realms. So in my situation, I can use a FIRE/YANG Manuals and with this I can easily advance my cultivation. I may not even require a pill to breakthrough smaller stages (middle and late stages). Or even Large breakthroughs (next level realm). Because I am perfectly taking advantage of my PHYSIQUE, INSIGHT and SPIRIT ROOT to use a CULTIVATION MANUAL that complements it. 
+
+Now to add something interesting, there will be LEVELS of Cultivation Manuals. A Foundation Cultivation Manual, can only get you to Advance to a Foundation Establishment. There will be a huge penalty when breaking through to Golden Core because your Manual sucks and is shitty. So your chances of breaking through is close to ZERO. You can eat pills that lets you breakthrough (not a perfect one due to a lack of Foundation too) but your Talent will severely penalized. We called this pills in the novels something forbidden. Its something cultivators only use when they see no chance of breaking through anymore. So they get contented to eat it and stop in the next cultivation level. But monstrous genius from a lower realm may still defeat them due to their SOLID FOUNDATIONS. 
+
+Review ends here, text is already full, Sorry. I still have a lot of ideas and
+
+",0.8080059289932251,55,True
+1468810,88205922,76561198139310464,"Great game, also there's an Unofficial English mod available check Discussions for this game.",0.8574404716491699,72,True
+1468810,102643415,76561198223212980,"DON'T KILL PEOPLE
+DON'T KILL PEOPLE
+DON'T KILL PEOPLE
+UNLESS THEY'RE FROM 'kill a sect traitor' MISSION, THEN ITS OKAY
+
+Rule number 1 to enjoying this game. There are a lot of 'kill this dude' quests, random people who attack you, random near dead guys who seem to always attack if you help them, etc. You kill a guy, his entire goddamn family will inexplicably instantly know. One of them will be stronger than him. They will never forgive you no matter how many times you spare them. You have to manually buy their forgiveness 1 at a time while under constant attack. Kill the dude who is 1 step above the first guy? Enjoy being attacked by guys 1 step above that. Quite possibly, guys at a level literally not attainable in the game right now. 
+Its the single worst aspect of the game, effectively softlocks you unless you get the 1 skill for guaranteed escapes or reload every single month until you don't die and makes the game insanely tedious.
+But its entirely avoidable.
+
+With that out of the way, the game feels similar to something like Elona. Very similar gameplay loop. Go to town, get infinitely generated identical quests, do them, use resulting resources to get stronger.
+
+You aim to get
+ - Exp: Gained via paying sect or humping blue gas on the map
+- Soul stones: Doing quests in town, used for buying stuff in town
+- Sect points: Doing quests in sect, used for buying in sect, where you can buy fruits to up your fire, ice or whatever skills
+
+ An annoying aspect is that when you finish the first area and go to the second, your sect makes you an 'honorary member' and stops you doing quests or buying at it. But fruits are more expensive in later ones. It feels entirely arbitrary and like being punished for progressing. It should be EASIER to get these less important items, not 2.5 as expensive. You make more points in later areas, but overall, it feels slower.
+
+ All of this helps with your combat ability. You can't use attacks without enough of its respective skill, like 50 or so blade to summon the avatar ultimate. But not all sects have the fruits you may want. And the option to leave the sect and go to another is hard to see. 
+
+Combat itself is fairly simple. Poorly balanced. Because the skills are poorly balanced. If you don't kill people, its generally pretty fair, but you can really tell the skills aren't remotely balanced. 
+You just run around in a square room, hit everything to death, move on. No one takes any hitstun. And your base agility (move speed) is so low and cooldowns on dodges so insanely high that there's no real skill involved. You just have good enough stats and win, or don't and lose. 
+
+Why are the abilities imbalanced? 
+There's a few reasons.
+Some skills, like blade and fist just give massive bonus like nearly 10% life steal and free shields in every room for having them equipped.
+Others lack any such bonus, do less damage and hit less enemies.
+One of the dodge skills turns you into wind for 3 seconds, totally invul, sucking enemies in, doing damage and able to act. Most other dodges just make you dash. 
+Right mouse buttons tend to be less overly imbalanced.
+Ultimates are hard to even comment on. Because unless you get a very specific passive, you can't use them until you do some arbitary task mid-fight. Its a complete no-brainer to get this passive, just really tedious to reset for it, so all this does is limit your options and make ultimates feel really bad unless you do. Imo, those passives should be removed and ultimates should just be castable.
+
+Breakthroughs are where you have to exit the games core loop of do quest>buy stuff. Go fight bosses. Collect a dozen items. Then... very exciting... quit game and reload or close game and reload if it shoots lighting at you. Over and over again. Because when you break through, you get to pick a new ability. But it doesn't just present them all to you. No, it presents about 6. And you pick one of those. And most of them are bad. Incredibly bad. Why would I ever want this garbage, really? Bad.  So you just sit there for potentially hours resetting, settle on a worse character as punishment for not wanting to deal with this tedium or use the chinese trainer like everyone else to just get the trait you want.
+When its considered normal to cheat your progression in your game, your progression is seriously messed up. 
+
+Another incredibly tedious aspect is item management. You get too many items. Every area you beat gives you 10+. You have like 12 slots by default. 24 later. Then more later. But for some reason spacial rings, the items used to just carry more stuff, require ranking up a greater layer. I don't get why this is. Or why item limits are so low to begin with. Its tedious. You have near infinite storage in towns, but you can put everything away with a +3 spacial ring, then literally less than 10 mins later be full on items. Its the worst item management I've ever seen. And since you constantly put everything in storage, it becomes very easy to lose track of what you have. Since while you DO forge in town and your storage IS in town, forge won't use items in storage. 
+
+Translation is good. Very good. The best in any chinese game I've played. Its missing some stuff for the recent update, but that's to be expected, its an EA chinese game. But what is there is entirely understandable.
+
+Overall, the game has a lot of flaws. Actually a lot more than I mentioned here. But the core gameplay loop is fun. The main flaw is entirely avoidable (although, to be honest, I kind of WANTED to play an evil character). And the balance issues are only an issue if you use the weaker options. But I don't. Because they suck. So I don't really care.
+
+Harder rec now. The fact the game doesn't open at all unless you manually delete a file is sad. The fact it breaks mods doing this is worse. But the game is just constantly shooting itself in the foot, adding insanely imbalanced (eye start option that gives you broken super moves) or insanely unpolished (dragon path) that ALSO requires you to start the game over to access it. Your guy with 40 hours? Who you made before these were added? Can never get their benefits. Ever. Start the game over. 
+But starting the game over just shows how repetitive it is.
+Things that were fun the first time are not the second or third.",0.8507946133613586,92,True
+1468810,103257090,76561198064838002,"I bought this game less than a week ago, now look at my hours. And I have a dayjob. Speaks for itself aint it?
+Well if you want details read below:
+
+Tale of Immortal (Gang Bang Guang in Chinese:)) is a great sanbox with persistent story, choices, and endless character build customisation possibilities. Set up in the world of classic Chinese martial arts, you are to go from a useless nobody to leader of one of the sects or more. The world here is alive, and is not centered on your character - it has similar system to what Space Rangers 2 have for example - your character is merely one of the actors, NPC's are not static, they have dynamic relationships with each other, then clear bosses, missions, factions fight each other and develop and compete with you. Kill each other, too. The game is still in beta, but is already fully playable.
+
+General pro's, why would you want this game:
+-Sandbox, you choose you path in this vivid dynamic world
+-Endless character build customisation. I say ""endless"" because Western players who never played any other cultivation/CMA games likely cannot even comprehend the possibilities that are present here
+-Interesting combat. NPC's and even monsters (certain bosses) are no pushovers, especially in Soul Formation (VII) and later stages.
+-Choice and consequence. Choose wisely, your choices will have a profound efffect on gameplay.
+-Super fitting music that you'd not grow bored of
+-Graphics are decent, yet at the same time game is very well optimised, it can run on very old laptop or a wooden PC. But still, SSD and AMD processor is advised, since there is a lot to calculate with 2k NPCs being in constant move
+-It can't replace Age of Wulin/Wuxia/LKF of course as it being a singleplayer game, but it can help alleviate nostalgia for players of these old masterpieces:)
+
+""A matter of preference"" moments:
+-This game is grindy. For people like me this is good - I am kinda tired of other games, where after initial struggle you basically steamroll everything in lategame, and here it is not the case, you'll only struggle more with level:) But, people who want an easy effortless ride might find this a bit too hard for them.
+-Only one save per game, kind of lite version of Ironman is the only available way to save. I love it, I think the inability to abuse saves makes your adventure more realistic, and it makes your choices to be based not only on what you WANT to do, but also on what you CAN do. But, again, I know many casual people won't like that, so keep that in mind.
+
+Negative things that are still present:
+-English translation is not fully completed. When it is done, I will update my review. But so far it is like about 50% of all texts are translated. But they are making rapid progress on that and I'm sure we'll see a decent English translation of everything by the end of the year.
+-Sect war is a work in progress, so it may work a bit weird for now. They are also working on improving it so it is to be updated in the future.
+
+Overall 10/10 A worthy buy not only for CMA universes fans, but is a must have for any RPG/choose-your-own-adventure enjoyer. 100% worth.",0.7983967661857605,38,True
+1468810,98802652,76561198185697447,"UPDATE: You will be spending most of your time fighting the same few enemies using the same few spells twenty hours into the game, just with higher stats. Exact same enemies, exact same patterns, just with more tedious things to grind and higher numbers.
+
+UPDATE: What I have said still stands.
+UPDATE: Don't buy this game. The dev does not respect players at all and has turned into a greedy person. Use DeepL to translate the longer chinese reviews if you want to know more.
+
+By the way, the grind problem is worse than ever.
+
+Look, this is a decent game, but in it's current state I cannot recommend it if:
+1. You are new to the cultivation genre
+2. An English-only speaker
+3. You don't like grinding
+
+Wait for the translation and grind to improve.
+
+Since there are many English reviews praising it, I'll point out some pain points instead. 
+
+1.Grind. Most of the gameplay involves you walking around the map to reveal locations like cities, sects, dungeons and other areas, while running into mini events or sidequests while doing so. However, the main gameplay loop is to grind for materials in said dungeons and some dangerous areas to rank up. This becomes either very boring or addictive, sometimes both. One issue pointed out by the CN community is that the devs keep making ranking up to a higher level copy and paste with the previous, just modifying the rank up item names, which makes the grind even more boring.  Most importantly, 80% of the game is basically combat, shooting the same little monsters and big monsters with higher stats over and over again, so you might want to take that into consideration. Of course, sometimes it's addicting because you get to see numbers go up (eg: stats increasing from rank up, sect contribution increasing)
+
+2. Little story: I know it's early access, but it's worth noting that there are only around three sidequests for each map region, and each map region takes around 10+ hours to finish. The sidequests are interesting, but still feels too little for each region.
+As for the main quest, the main quest mainly involves you just ranking up which leads to you discovering characters based on Chinese mythology and helping them carry out their legend. Honestly it's pretty nice, but there is a large gap between reading story content as you often need to grind and rank up before triggering the next story event. However, there are nice item descriptions that you can read based on Chinese mythology, which are plagued with the next issue:
+
+3. Poor translation. As a game in the cultivation genre, it is expected that many things are hard to translate and still have the same meaning in Chinese, like sect names that are actually generated based on the elements/weapon skills they focus on, many of the treasures' names and many item and event descriptions that are full of poetic and written flavor.  However, many of the easier-to-translate parts are also translated poorly, leading to loss of flavor and humor in the game.
+
+Most importantly, translations for skills and gameplay are strange and sometimes leads to confusion, especially when the game does not have a very clear tutorial on what to do in the game on many subjects. Another glaring example is that dual cultivation is translated as ""training together"". This leads to people being confused at why you can only ""train together"" with the opposite gender, and why people who dislike you get very insulted and try to kill you when you suggest it to them.
+
+Additionally, dialogue translation is weird. A person who just met you might say ""When I saw you I got shivers....your noble bearing, the glint in your eye, your broad chest, your magestic presence...I can't wait to get to know you better"" which really gives a different meaning from the original, which was just complementing you in the polite cultivator way.
+
+Last but not least,, simple translations in events that are meant to be hilarious like the [spoiler] sidequest with the ice girl that cannot control her powers, she wishes for you to help her stop freezing everything she comes across to death. If you say you can help her, one option available is to(effectively) say ""Hey brat, why don't you just run back to the freezing north where you belong?"" that is basically an insult that contrasts with the other two options that are worded in a polite way. The translation used in-game is ""Young lass, why not just return to the Northern a=Arctics?"". Hearing this, the girl gets angry and puffs up her little face, throws you into an unwinnable battle with her before her father appears from the sky to take her back home. [/spoiler]
+
+As I play in Chinese, I got most of this from seeing people be confused at the text and sending in screenshots of the game for help. I played it in English for a little while to see the issues myself.
+
+When the translation and the game improves, I will change the review.
+
+My review comments are open.",0.7962691187858582,76,False
+1468810,85865872,76561197994433647,"Keep in mind that my review is based on this early access game. After playing for 20 hours and reaching the golden core stage the main thing is that the gameplay is very repetitive. Hopefully this will change as more content is added to the game increasing the variety. But as of right now, i will only recommend the game to those that really enjoy cultivation theme games and grinding. Granted, due to the current price, it is still a decent deal. 
+
+Now with that summary out of the way, let's take a comprehensive look at what is good and bad.
+
+Pro:
+-Good Graphics. I really like the character portraits, there are a ton of variety and I dont think i've encounter any of the same character in my 20 hrs or gameplay. The same cannot be said about some of the other games i've played like Scroll of Taiwu and ACS.
+
+-Variety in usable Techniques/Skills. There are 6 elemental, and 6 martial school/category of skills. Each with at least two different basic attacks, special attack, movement, ultimate, and passives. Then there is the rng system which increase those flavor with ""minor"" attributes and stat. The issue is that currently, you probably wont switch in mid or late game as those skills will have a hefty stat requirement .
+
+-Good UI. The user interface is a lot better that Scroll of Taiwu and ACS imo. You wont need a ton of screen hopping just to compare the different techniques or look up certain stats. There are good tooltips, which should help especially with translations. The design is pretty clean, relevant information are generally shown on the same screen. Obviously other QoL features can be added but those will probably be knocked out in the final polishing stages.
+
+-Interesting breakthrough system. Basically you have to collect certain boss treasure for higher breakthrough chance, or better stats after breaking through. However this is only interesting initially while becoming a chore later on; as a Munchkin there is no reason why i would not get all the necessary items for the best breakthrough always.
+
+Cons
+-Obviously the lack of English translation.
+
+-Repetitive zoning. This is my main qualm with the game. Basically your first initial three cultivation stages will be stuck in the starting/initial zone. Then you progressed to the next zone for the next thee-ish stages. And you probably repeat this process maybe for a total of 3 times? Once for each corner of the map, at least this is what it feels like from the first half of the map. And in each of these zones, you basically track and hunt those ""boss"" creatures for treasures so you can breakthrough to the next stage. This is a major design questions which may or may not get addressed; but its symptoms can be alleviated with more variety. Currently each of these major zones or segments of the game just feels too similar.
+
+-Repetitive boss/elite/monster. This will probably get changed as more content is added to the game, where we will get more variety in enemies. But as of right now, a lot of creatures are recycled between zones. And this is not helped by the fact that you will be repeating a bunch of similar quests in order to farm up sect contribution points, money, or stat consumables. The other major issue with this is that i get no joy from killing all those popcorn enemies; it really starts to feel like a chore once you are doing the same thing in the next major zone. I personally think the gameplay will be better if some of those dungeons are shorten and kept to be just boss/elite fights (with more variety of course).
+
+-Repetitive combat. Basically just hold left mouse button to spam your auto attack, then click right mouse button to cast your special skill whenever its out of cooldown, and same with the ultimate. Press space to dodge enemy's ultimate with the movement skill. While there are a ton of variety in skills and their animations etc, the core concept is the same. Just keep casting them when they are not on cooldown... Perhaps some form of defensive skill in addition to our current movement skills should be added.
+
+Closing remarks
+Npcs are still lacking some basic functionality if you compare this to Scroll of Taiwu where they actually have more useful items, along with the ability to teach you skills. Its really weird that you can kill some high level cultivators (when they only have 1 hp), but they only drop sucky high grade pills or garbage ingredients which you cant use anyway. I guess too many items are tiered or stat locked.But functionality wise, this will probably be improved as more development is done.
+
+Also, sure the game may get ""updated"" daily, but this is all due to modern software's more Agile release cycles. Having more updates does not mean you have substantial content in each update. However this has yet to be seen as the game has only been out for a couple of days. One thing for certain is that the developers are at least passionate enough to add content each day for minor fixes. 
+",0.7890875339508057,51,True
+1468810,216115756,76561199000789334,Young master stole my martial art manual and beat me up in front of jade beauty. I don't want to live no more.,0.8387776613235474,51,True
+1468810,176005899,76561199366193726,"how to fix cant launch /play the game,, 
+goto local game installer and DELETE ""VERSION.DLL""
+
+good game and enjoyed.",0.786971926689148,34,True
+1468810,147690163,76561198002972943,"Every NPC will rob you, send you to kill a monster and stab your back or demand absurd things from you. If you fight back, they will humiliate you if you lose; if you win, they will claim that their parent, master, spouse, child, grandchild, sworn sibling, adopt mother/father... are mighty figure, and if you killed them, you will doom. 
+
+If you let them go they will come back for revenge, If you killed them, their friend, parent, master, and everyone that close to them will come at you... if you killed one of those guy their parent master husband/wife..... everyone will come....
+
+10/10 The most shameless NPC I've ever seen.",0.8368633985519409,48,True
+1468810,90467814,76561198042096878,"This is exactly the game I was looking for.
+
+Where Cultivation Simulator has you controlling an entire sect and does a very good job about simulating cultivation by comparison to this it is very shallow. The two things Cultivation Simulator has that this doesn't is Shendao and Body cultivation. With that said the Ki cultivator path includes some body cultivation methods and is true to that path of cultivation as per the stories of heaven and earth.
+
+The game has a fan made English translation you can patch it with. The Discord leading to the download is talked about in the Discussion section. I would say about 90% is translated and the translation is pretty good. 
+
+Graphics: This is stuff from maybe 2001, this wont be impressing you on the graphical side at all but this is a small team doing fantastic work in other areas. The particle effects, shading and so on are nothing to really write home about but are still passable.
+
+Art Style: Bringing this up right after graphics because I don't want these two confused, the art style is a mixed bag some places it seems bland and in other places its fantastic. There is no consistency to the quality of the arts direction but the direction is constant. Where the game is doing the art well it does it knowing it's doing it well.
+
+Music: Pretty generic music from the orient, nothing to write home about here but it does match what you are looking at and I could ignore it and still enjoy the game.
+
+Story Design: The way the story is told doesn't work well with the game design, that is you have a set amount of time to accomplish things but really it's like Skyrim in that you can pretty much explore and encounter things at your own pace... But the story can mislead you to odd dead ends. It's better to ignore the story and cultivate. Then go back and attempt the story. After a while it gets better about telling you that you can't accomplish things without being stronger. This might also be the fault of the translation or just my understanding.
+
+Game Design: Amazing, we buy games to play games and while none of the other parts of this game are bad, in fact they are mostly mediocre, this is one of those weird moments where game play alone saves the day... a game that remembers it's a game. As mentioned above this is about cultivation so there is that, then it's also about creating your own cultivator and finally executing your build on the world.  This does all of that and then includes those xianxia tropes we all love. Unlike path of Wuxia that forgets its about the main character and keeps throwing characters at you to learn about this game simply adds aging to the mix which then forces you to take a CK3 approach and at some point start making a family before trying to conquer Tainyu. 
+
+",0.7710393667221069,43,True
+1468810,99486365,76561198054347820,"1) Finally made it to grand elder. Got my first red scroll, it was stolen when i was 93% into learning it.
+
+2)My wife had true love traits. She pretty much gave up on her cultivation and keep following me into higher region. She died after being killed by a cultivator with 4 realms above her. She spent last of her remaining years trying to find good item or even good scroll for me.
+
+3)Always equip yourself with fastest mount, since you can get away easily if your wife found out u had a date with another girl.
+
+4)Went into a wrong dungeon and suddenly every hit was only 1 damage. I died.
+
+5)Save a guy in a normal dungeon. Was expecting him to ambush and betray me, and he did. Beat the crap out of him. Went into another dungeon later with hell difficulty, fought against a boss and the same guy just ambush me and i died. Never belittle one's need for revenge.
+
+6)Now im at the top. i finally got revenge on my first wife. killed the killer and her entire family, friend and sect.
+",0.7698485255241394,36,True
+1468810,185013161,76561198324488505,"This game used to work marvelously when it was first released but recent updates have killed that.
+
+The game even crashes if your rig isnt set to chinese and even then there are issues with it running, if you even get that far.
+
+I want to love this game but cannot recommend it.",0.7654143571853638,40,False
+1468810,91094772,76561198002991464,"Game already has english translation mod which does a pretty good job. 
+
+Gameplay is fun and engaging if you're into the cultivation genre. The problem I have is how repetitive it gets after about 20-30 hours played, and you hit a crazy difficulty wall around the nascent soul/spirit forming breakthrough (probably 3/5 of the game). 
+
+The game, even at the easiest difficulty, requires some min-maxing for you to have a smooth time in the last few breakthrough realms, which seems absurd considering its the easiest difficulty and new/casual players at easiest difficulty wouldn't know much about builds, useful perks, etc. Going for min-max strategy feels like something you should be doing only at the harder dificulties.
+
+ [strike]At this point I highly doubt I'll go on a 2nd play-through coz it just feels exhausting. [/strike]
+
+*Update:
+ Just did a 2nd playthrough.
+It would be great if there's a choice to skip the initial tutorial/starting area. 
+For the new players, do not worry about the character's age. It's almost impossible to die of old age, so take your time farming the best materials you can get for breaking through realms as they matter in the long run (eg, red-tier mats instead of purple-tier mats)
+Best advice I can give is to take it easy and not get burned out by rushing since in-game age doesn't matter at all.",0.7633784413337708,31,True
+1468810,121853831,76561198110143374,"Good game, if yours ins't starting there is an easy fix: 
+
+Open Windows Settings --> language and time setting --> language tab --> administrative language setting --> Change system locale --> enable [Beta: Use Unicode UTF-8 for worldwide language support] (need to restart after setting)
+
+There you go people, now you can play the game.",0.7611232995986938,31,True
+1468810,123727509,76561198151820404,"[UNABLE TO OPEN FIX HERE]
+
+The game is really fun, especially to those who are interested in the xianxia/xuanhuan/wuxia genres, this game allows you to scratch that itch quite well alongside freedom to make your own traits/etc in the in-game mod menu. The gameplay is being updated fairly atleast and there's more than enough replay ability to master various different skills to maximise your characters strength/playstyle.
+
+[HOW TO FIX] [WINDOWS SETTINGS, NOT THE GAME]
+So if you are pressing play and the game just doesn't open and says ""play"" again, all you have to do is to go into your settings and go onto languages. Proceed to administrative language settings and go onto change system locale, enabling the Beta: unicode option allows you to play the game without any issues. This will also prevent similar issues happening with other games that are not your system locales language (presumably English) 
+Hope it helped.",0.7586634755134583,44,True
+1468810,89042459,76561198052347458,"If you are a fan of Xianxia novels definitely give this game a try. It nails the experience of being a character in a Xianxia setting. The game is surprisingly deep, and has a ton of gameplay even though it's far from finished. I have only scratched the surface and I have 45 hours already.",0.7575293779373169,28,True
+1468810,233316119,76561198013240999,"There is only one way to play this game: Chaos difficulty. Any other way is a grind fest that feels unpleasant. Sure, you only have one extra life until you can rebuild yourself at Golden Core, but the extra loot, the higher tier manuals to purchase, and being forced to learn the game mechanics (because any other difficulty you can pretty much ignore them) makes Chaos the best and only way to play this game. I played this obsessively (95 hours) for a week. The most fun I had was playing this in Chaos difficulty, and all hours I put on this in the future will be on Chaos difficulty.
+
+I have had a complete and total blast with this game as a roguelike and as a roleplaying experience. The experience is challenging and rewarding. I have only recently gotten to early late game after struggling my way up mostly without guides as the game is fairly good at giving all the information needed to progress if you are willing to use your brain here and there. The early game Qi Refining until Golden Core is all about playing with whatever will get you to the next level. The mid game Golden Core until Nascent Soul is about finding your actual build and even then it will transform and evolve as needed as well as pushing your Mind skills to the limit. I have yet to make it through Soul Formation and beyond, but the boss fights to achieve Soul Formation are a challenge and yet all feel like the fight is winnable. I am not the greatest gamer even though I've been gaming for a couple decades at this point, but when I play a challenging roguelike like this where I can see an eventual path to victory through learning the fight it feels so rewarding.
+
+On the roleplaying side of things, if you are someone that enjoys wuxia/xianxia stories this is a way to build your own. One of my memorable stories I've developed is I joined a sect a started building a reputation, and a nepotistic and jealous kid noticed I was starting to build a name for myself and decided to start extorting and bullying me for money. Initially, I grit my teeth and accepted paying tribute to him, but after he doubled his expected money I refused and got beaten up by his peak Qi Condensation (3rd level) friend while I was still peak Qi Refining (1st level) a fight I was only going to lose. Eventually, I used the sect's resources to achieve Foundation realm and I left the sect because I felt it wasn't worth being bullied. I gained a Transcendent (max level) Master via an event who helped my breakthrough to Qi Condensation. At this point I was becoming a reasonably effective lightning rogue cultivator. My life came to an end when I ended up fighting a mirror of myself in a Void Realm. That is just one of several memorable roleplaying experiences I've had in this game.
+
+I have truly had a blast of a time with this game, and if you like roguelikes with a solid roleplaying experience then I recommend this game. Doubly so if you are a fan of the wuxia/xianxia fantasy. There are complaints about the translation, and honestly, I've seen worse. You can't really expect a Hoyoverse level translation experience when you're playing a game from a smaller company here. In fact if anything what is delivered for English translation here is impressive and where it's needed it really counts and where it makes less sense it is more fluff than anything. Chinese is not something you can easily translate to English. In fact there are words and phrases in Chinese that outright do not translate to English in a way that makes a lick of sense. It definitely isn't something that causes an issue on my side of things at least. I've had way too much fun with this game, and happily would recommend this to any action roguelike enjoyer.",0.7558262348175049,30,True
+1468810,125223420,76561198090605743,"The game itself is amazing, if you're wondering why the reviews are ""mostly negative"" here's why.  
+
+This can basically be summarized by bad Early Access practices but here's the full list of things that I know of.
+
+1:  Not fully testing updates before releasing them or having a separate ""unstable"" build.  This at least once led to the game being completely broken unless you went into the game files and deleted a folder which the devs should have.
+
+2:  Putting in new content on all language versions without translating them first.  I've been basically playing the game while trying to avoid certain new additions to it because I don't read Chinese and don't want to complete those missions and not be able to understand what I just did.  This is easier said than done.  
+
+3:  The whole Korean localization debacle.  My understanding of this is that basically what they did was to decide that they were going to outsource the Korean translations to a local Korean company.  The problem is that they didn't do this through Steam, and now Korean players have to buy the game AGAIN through that Korean company if they want to play it in their language.
+
+All these problems are reflective of what is likely really shitty top level management since they're easy problems to fix.
+
+Solution 1:  Have an unstable version where updates are released first before being pushed over to the main branch.  It's basically like letting Steam do the QA testing for you and for free.
+
+Solution 2:  Create new branches for each supported Language.  Doing this will allow them to push through development of the Chinese version and back burner the other versions until they have time to fool with them.  
+
+Solution 3:  Refund the Korean players on Steam and direct them to the Korean publishing site.  Assuming they're going to have DLC after the game is completed, make the first major DLC free in Korean, and that will roughly compensate them for their troubles.  It's not a massive market anyway so it's not like they'll be missing out on a lot of money, and it would be better to retain a good reputation there.",0.7530990839004517,54,True
+1468810,231164580,76561198287082251,"Fix your files, its been so many years, the launch bug is still not fix.",0.7510280013084412,39,False
+1468810,114299669,76561198387073311,"不要买！！！
+Don't buy it! ! !
+買わないで！ ！ ！
+Ne l'achetez pas ! ! !
+Не покупайте это! ! !
+Kaufen Sie es nicht! ! !
+
+假工坊！收集用户信息！！举报！！！
+Use a third-party website to fake the official steam workshop, and force the collection of user mobile phone numbers and other information. At present, only the mobile phone numbers of Chinese players are collected. The studio claims that the full version of the ""workshop"" will be provided to players around the world. This means that The full version of ""Workshop"" will violate the privacy of players around the world! ! ! ! ! Please report this game! ! !
+サードパーティのウェブサイトを使用して公式のスチームワークショップを偽造し、ユーザーの携帯電話番号やその他の情報の収集を強制します。現在、中国のプレーヤーの携帯電話番号のみが収集されます。スタジオは、「 「ワークショップ」は世界中のプレイヤーに提供されます。これは、「ワークショップ」のフルバージョンが世界中のプレイヤーのプライバシーを侵害することを意味します！ ！ ！ ！ ！ このゲームを報告してください！ ！ ！
+",0.8007501363754272,119,False
+1468810,214704905,76561198259639329,"Before I started playing, I did a little research and learned that the game was originally made mainly for Chinese players, and the English version came later. The developers added the localization gradually. Most of it is translated now, but you still run into moments where some text shows up in Chinese. There are also community mods that help with translation, which says a lot about how dedicated the community is.
+
+I really enjoy cultivation style stories, so this game immediately clicked with me. The world feels authentic, and the slow climb upward fits perfectly with the genre. The combat is fun, the art style matches the tone of the world, and the NPCs actually feel like they have history. Sometimes choices you make come back to you later, like someone hunting you down because of what you did earlier. That makes the world feel alive instead of scripted.
+
+The sect system is one of my favorite parts. Working your way up, earning respect, dealing with rivals, and seeing your position change over time all feel rewarding and believable.
+
+At the same time, I still think there is a lot of room to grow.
+
+In many cultivation stories, powerful families and factions shape the world for generations. They control multiple sects and influence everything around them. In Tale of Immortal, you do not really get that generational side. You cannot build a lasting family or create a long legacy. It does not ruin the game, but it feels like a big missed opportunity. Being able to form a family or faction and watch it grow over time would add a lot of depth and replay value.
+
+I know there are mods that expand the game, but many of the bigger ones are on Chinese platforms that require local phone verification, and most of the instructions are in Chinese. It is not that they are intentionally locked away. It is simply harder to access them if you are not in that ecosystem. Honestly, I would not even mind dealing with untranslated menus, because when a game is good, you are willing to learn.
+
+The developers do have official mod tools, but they are somewhat limited, and most of the documentation is still in Chinese. I really feel that if the tools were opened up more for players outside of China, the community could create some incredible things.
+
+Even with everything I said, I still think this game is amazing. I am going to keep playing it because it is that good. It has flaws and things I wish were there, but the world still pulls me in. Even if the features I want never get added, I am still going to enjoy it. I really hope this genre becomes more popular where I live, because games like this deserve more attention.",0.7501944899559021,30,True
+1468810,195271120,76561198028723099,"FOR EVERYONE THAT CAN'T LAUNCH THE GAME, HERE'S A FIX !
+Go into the game folder, delete version.dll and launch the game again.",0.749897837638855,29,True
+1468810,106718577,76561198285466197,"This game is a dream comes true for wuxia fans, you can literally role play as the main character you see or read in wuxia novel. It has a bit of learning curves so take your time to finish the tutorial quest.
+
+For start, it has a bit translation issue but its not game breaking, if it bothers you use an app to translate it so you can get a rough idea.  
+
+The combat is fun and challenging early on but if you build your character a certain way you can get past most of the content a bit easier. There are 4 skill you can do in combat like martial/spiritual skill which is your basic attack, special skill, motion, and ultimate, all of this skill come in different style like aoe, single target, long range and melee. For the ultimate, you can only trigger it if you met a certain requirement in combat, its nothing complicated so make sure to read the requirement and build your character accordingly, you can bypass some of the requirement with certain destiny (traits). There's also gear you can equip like artifact and elixir to restore your health, energy or stat boost to help you in combat. A bit of warning though its a bullet hell games
+
+Relationship is a bit lackluster, right now the only advantage i know is being given random item...sometimes its a junk sometimes its a skill book, however for the NPC having good relationship with other seems more beneficial, for example if you defeat an NPC in battle you are given 4 option which basically allow them to go, kill them, or take some item they offered. Now, if you choose to kill them, be prepared because their relatives be it friends, family or their lovers will avenged them, most of the times their cultivation will be so high they can literally end you with a couple moves, so be warned.
+
+The progression on this game is simple, you gather your qi to a certain level, collect several item in the open world, rinse and repeat. it can be a bit grindy but after your breakthrough you will be awarded with stats, new skill in the higher realm, and destiny which is some kind of traits that benefit you either in combat or in the open world setting. The destiny mechanic heavily favor the combat as i see little benefit in the non-combat destiny. This is due to combat oriented destiny can ensure your safety in combat and give you higher chance to defeat other cultivators.
+
+overall the core mechanic of this game is to grind your way through to progress.
+
+It's simple yet addicting gameplay will make you lose countless hours",0.7492806315422058,38,True
+1468810,196374158,76561198008069552,"If you need a short review:
+Is it worth the money? - it is. The $ to hour value is pretty insane, however, once you get tired of it, you're unlikely to go back. 
+
+If you need a slightly longer review: 
+The game, pretty much, is the best cultivation RPG sandbox we have on steam. There are roguelite elements, so your playthrough won't feel the same, and there's workshop with a ton of mods. The hand drawn graphics and music are nice too. Then, there are also cool boss fights and wacking ""pvp"" against other cultivators.
+
+However, as you're enjoying your first playthrough, you'll end up noticing A LOT of bad stuff.
+1) Most of the systems are extremely simple, pretty much barebones. Like interactions with other NPCs are a pure ""whatever"", map generation just exists, enemy pools vary only from map's theme (only bosses are affected by your cultivation level), quests you can encounter in this or that location are always the same (luckily, there are different ways how you can finish them). Basically, the only thing that makes 1st and 2nd playthrough different is your character - getting the same skills or stats are pretty much impossible. Pretty much every single mechanic this game has would start feeling repetitive, except maybe fights between cultivators.
+2) This one is purely for informing you - the workshop is mostly in Chinese with no translation whatsoever. Even if a mod doesn't require a translation (like, for example, adding new cosmetics) - it is still, likely, has only a chinese name/description with one random image (completely random, doesn't help to understand what the mod does) being a cover. Obviously it isn't a problem caused by the dev or modders themselves - Steam could just have a better workshop. I do have an experience browsing this workshop without speaking Chinese and after learning it (pretty basic, but I can talk and read, I guess? (Chinese games are the main reason why I decided to learn it, gj China)), and I can tell for sure, unless you know both Chinese and their culture when it comes to naming mods, it is pretty painful. If you don't speak Chinese - most gameplay mods (a lot of them are pretty good) are off the table or will provide a ""worse experience"" with auto translation plugin because of the language being used (if you have a hardware power to back it up - I suggest using XUnity.Autotranslator with a local Ablitirated (Instruct) Deepseek 2.5, Qwen 2.5 or the model you think is good). 
+3) Even though it is supossed to be somehow a roguelike experience, you're still going from A to Z, and getting to the Z takes a really long time. More or less, it is a sandbox with existing main quest that just kinda exists. Think of it as playing Minecraft - the End Dragon does exist, but you aren't exactly playing to finish the game - this game is pretty much the same, except that the randomness is placed in a different places",0.7488200664520264,25,True
+1468810,177824320,76561198115521974,"I am huge fan of Xianxia, and I know there aren't many good Xianxia games available right now. 
+
+The game is beautiful. Everything is rendered in a gorgeous art style. The music is beautiful. 
+
+It's probably one of the only games available right now that truly feels like a proper cultivation simulator. The way you can adventure across the map, running into lucky and unlucky encounters while slowly cultivating, learning new skills, and reaching new realms of cultivation as new portions of the map open up. A special mention to the Fate system at Character Creation and during Breakthroughs. Even though the character creation Fates end up being meaningless within an hour into the game, it's still one of the best ways I've seen to handle the uniqueness of characters in a cultivation setting. This game seems like it has everything, and yet...
+
+The game is expansive yet shallow. Each region has 2-3 unique quests, and everything else is copy/pasted random encounters. By the second region, you'll have seen nearly all the unique interactions, and from that point forward, you will keep seeing them.
+
+Extremely grindy, but I can give that a pass. It's an RPG that is very loyal to the genre, and cultivation as a concept is inherently a grind. 
+
+The game's combat is poorly balanced, and frankly, uninteresting. Each element has three variations of the main and special skill, and you will have encountered them all by the second or third region. The skills themselves are all variations on 'shoot projectile.' It plays like a bullet hell shooter, but the pacing is glacial. You move too slowly to dodge most attacks, so you have are constantly eating damage. It's to the point where most of the game's hard core players consider ""life steal"" to be a must have, and after playing through the game to the end, I agree. 
+
+You will randomly be attacked by other cultivators from realms above you who you have never met before and who seemingly have no hatred for you, and due to the way cultivation works, they will wipe the floor with you. Most story-based bosses have extremely poorly explained mechanics that are exercises in frustration. 
+
+If you're a die hard fan of the xianxia genre, and you're struggling to find games to scratch that itch, I think it's worth a play through, but between the repetitive quests and the shallow combat system, it's a game that pretends that it can be played over and over again to enjoy different adventures, but the story hits the same beats, and the combat ends up the same. 
+
+If you're not a fan of the xianxia genre and are looking to get into it, I would NOT recomend this as the game to start.",0.7475217580795288,34,False
+1468810,123542675,76561198039482738,"Freshly re-downloaded it, clicked on start, does not start anymore.",0.7461886405944824,84,False
+1468810,206334899,76561198039511130,"As of Oct 2025, I would say perhaps 95% of the game is translated in english, including the five bloom DLC. The remaining 5% is on some minor dialogue and random sidequests, I think it's fine and I personally didn't miss out much on it, but your mileage may vary.
+
+Regarding the game itself, this is my favourite Xianxia or Cultivator game thus far, the combat and sense of progression is done really well. It's not just ""numbers go up"" ala borderlands style, rather, each increase in cultivation rank brings about new gameplay options, such as artifacts, spirits, summoning dragons, etc.
+
+The build diversity + power scaling is especially commendable, with 4 elements + 5 martial arts, each having 3 different basic, 6 special skill and 2 ultimates. I'm only 50 hours into the game and I already played more builds than i have in popular arpgs such as POE/Titan Quest/Diablo etc. Definitely well worth your money.
+
+Story-wise, it's done well enough, the main story quest is a bit loose, you're dropped off into the world with little explanation, but the ending does stick pretty well and explains quite a bit(i did spoil myself on the ending). Something I wish was done better is the lack of linearity in obtaining quests, instead of the usual yellow exclaimation marks on NPCs in a central hub town, a lot of the well written quests were actually encountered randomly while traversing the world. Some may prefer this approach, but I always get the feeling like there's a whole bunch of quest that i missed, so it's not quite my cup of tea. However, the quests that I did encounter were well written and enjoyable.
+The DLC story is a bit hit and miss, it adds 5 NPC lady companions with their own storyline. The first 2 that you encounter, the dimension traveller and the snow lady were definitely the highlights, while the other 3 could have been focused more on in later areas of the game. Instead, you meet them and do their quest bits and pieces throughout the game, making their storyline feel quite disjointed. But for a few extra dollars, i would still recommend it. Despite the glowing negative review on the DLC, many of which pointed out the lack of english translation, I'm happy to say that 95% of it was properly translated for me as of writing.
+
+A huge negative is how grindly and lack of QOL the game seems to be intentionally doing. I do see what the developers are trying to do, but it's not for me. Thankfully, there are numerous english mods that solve this issue and make the game a lot more enjoyable. I would definitely recommend the following mods ""Get forge items - KnightedWarrior"", ""God's eye - KnightedWarrior"" and most importantly ""Cheat Menu – Dynamic Multi-Language Support"", just to solve certain grindy aspects. Even with mods and cheats, you'll likely still get 100+ hours out of the game.
+
+Would definitely recommend.",0.7445662617683411,21,True
+1468810,148707405,76561198074711719,"I started as an demonic path character. Nobody really liked my character. Righteous path npcs would talk to me in town or the wild and tell me I'm dumb for being kinda evil and relationship would go down. 
+Finally meet a girl who is demonic path like me, Hu Henyu. We become friendly, we train together, we trade items, I follow her on my map so I can help her if shes in trouble. Years go by, gaining strength, doing dungeons, getting loot, training techniques. She's stronger than me, she gives me items for my cultivation, talks me up to people and we eventually we become sworn sisters. 
+NPCs who follow the righteous path tell me to stop talking to her, that I shouldn't be friend with her. I tell them to buzzoff. She is my most trusted ally. Get stronger, join a Sect. A higher up in the sect tells me I should become his disciple, I do. Years go by, I get stronger and still very close to my Sworn Elder sister. One day i get a message "" Hu Henyu was heavily injured in a battle with ""Loser A"" but narrowly escapes him. 
+Oh fuck no, I search the map for Loser A, how dare he attack my only true ally. Hes hard to find but on the day of the great auction I find him in town and beat him with-in an inch of his life. Loser offers me every item he has to spare him. I take the option that says ""Keep your items loser"" and humiliate him in front of the entire town. ""Relationship with Master goes down a lot"" turns out Loser is my Masters son. 
+Years go by they clash multiple times injuring each other. Finally my Sworn Elder Sister wins and kills Loser A. Finally its over, I was wrong. 3 Months later "" Hu Henyu barely escapes from an attack..from my Master. I'm worried she my die while my Master seeks revenge. I find her in a town and give her some items to help her advance her cultivation. I meet her father while I'm there it was nice to make more friends. Two months go by i meet her again and check her relationship board. ""Father(deceased)""...by my masters hand. I'm furious, I JUST met him and its already done. I let this go on too long. I've grow, its been years of My master chasing my Elder sister and beating her close to death. My spear techniques now surpass my entire Sect. Its time to end this, I chase my master down and we fight to the death in a grassy field. He begs for his life, I ignore him and end it. My Sworn Elder Sister is safe, revenge for her and her father taken.
+Continue the game, none of that was part of the games story or missions or anything. Every NPC has their own thing going on and you sometime get wrapped up in this crazy shit that sounds like it was part of the planned game but its not. Its not my only weird game NPC story either. Love it for its NPC system/relationships. Only wish Eng translation was slightly better.",0.9396775364875793,186,True
+1468810,100035326,76561198030427851,"One guy tried stealing my manual, i beat him up and spared his life, then his master 2 tier higher than me came for revenge and beat the shit out of me.
+10/10 accurate world of cultivation.",0.739518940448761,26,True
+1468810,101474928,76561198049044507,"This game has so much charm and potential for insane storytelling situations, I can already hear the  ""Hey hey, people""
+
+But yeah, the bit I've played so far has been very enjoyable, and I hope that the team continues to work on getting this to its full potential, even if the English translation will be a bit slower to receive.",0.7391390800476074,25,True
+1468810,139033901,76561198293191568,"I waited for official launch to see if they would fix the launch problem. still broken, you cannot launch game unless you edit game files.",0.7300316691398621,50,False
+1468810,177038420,76561198131608137,"You can ""dual cultivate"" with every woman you encounter.
+10/10 horny points",0.7271114587783813,20,True
+1468810,170956127,76561198020807312,">""game won't start""
+>comments disabled
+Have you even tried looking for a fix? Had that issue a few times. Always managed to fix it in a few minutes. Yes it is annoying that the issue even exists, and STILL exists (has existed for years at this point), but the fix is very easy to find and do.
+
+Edit: EXACTLY AS I HAD HOPED WOULD HAPPEN WHEN I STARTED THIS REVIEW!
+I HAD THE EXACT ISSUE RIGHT AWAY!
+>Click play
+>wait
+>nothing
+>Play is back
+>Right click game
+>Manage
+>Browse local files
+>Delete ""version.dll""
+>Click play
+>Works
+
+Exact same fix as a couple years ago when I first had this issue.",0.7260085344314575,30,True
+1468810,117557585,76561198080707326,"If you are having trouble/your game does not open anymore, do this: Open Windows Settings --> language and time setting --> language tab --> administrative language setting --> Change system locale --> enable [Beta: Use Unicode UTF-8 for worldwide language support] (need to restart after setting). This is the current workaround to get the game to launch.
+
+
+I expected this game to receive backlash when the aformentioned launching problem happened with the latest MOD update, and I also believe the fact the problem is still present and no patch has dropped yet in at least *an attempt* to fix it is extremely unprofessional; and despite those things, I still recommend this game. 
+
+As a fan of Wuxia/Cultivation novels, this game is the only one I have played that gets the closest to actually replicating the experience of being a protagonist in one of those settings, going along the struggle of making a place for yourself in this world, your objective being nothing but reach the peak; no matter if you go down the path of a Righteous or Demonic cultivator, what matters in this world is having the strength to live in it.
+On a more technical angle, this game is the epitome of grinding; you need Spirit stones (money) for whatever you want to buy, even if its just Teleport talismans to reduce travelling time. If you join a Sect to buy juicy, stronger Skill books, you are gonna need Contribution tokens earned by doing sect missions. Heck, if you want to level up a skill without throwing yourself at combat like a cannonball, that in itself is gonna need Soul stones, and Comprehension sands to upgrade their rarity, as well as a couple of Days in-game. To put it briefly; there is a lot of things to do, and the world will not stay still waiting for you to finish them.
+
+Before you get a Genshin Impact induced ptsd from the words you just read, bear in mind there is a ""Main Storyline"" that awaits in the world, with a ton more side-stories that really makes the world feel alive; from simple things such as ""save girl from crab, then be asked if its alright to escape from your sins"" to ""please get me a feather of a Phoenix so I can become a beautiful bird and confess my love to the girl I fell in love with"". What I am trying to say is, there is no paimon waiting to treat you like a 5 year old, and you can very much betray the people you offered your help to if the rewards are tempting enough; on the path of cultivation, all that matters is strength.
+
+I do have gripes with the game; systems such as the Sect not really making sense on some of the finer details, because you ended the month doing like 15 missions, basically putting the same effort of 30 cultivators on your own, and then ""silent criticism"" just takes 90 points of Prestige away from it at the end of the month because F you, thats why. The higher difficulties fall into the same old song of ""your damage same, enemies now have 8 times the amount of HP"", and the fact *only* the highest difficulty offers something to balance/make things fairer is simply outrageous. And god forbid you actually kill a Cultivator, because it just so happen their Step-Aunt is 4 realms higher than you, and she is coming at Mac 5 at your location with nothing but the purpose of burying you alive. (yes I know that its very common in Wuxia novels, but since this game has a limited live system, you cant exactly get killed 3 times in a row and get away with it). Also, f*ck Heaven-Chosen.
+
+Since this game native language is Chinese, expect some of the newest things added to the game to have unfinished or lack an official English translation on release; all core systems and most of the game has been succesfully translated, and stuff will get properly translated over time. It is still on early access for a reason.
+
+I can keep going for hours talking about anything, even if its just mentioning stuff like ""hey, your Furnace can explode while doing Alchemy"" moments before my furnace does, indeed, explode while trying to make me some potions/Elixirs that heal me from more than 30 health... and I have 500. Point being, I like the game, and I think on its current state, despite the fact  its not finished yet, I would recommend it. I think the game has a lot to offer, and unless you are prone to heart attacks due to the fact you must *grind* for stuff, I think it will suprisingly grab you, just as it did for me. Also, forging an Artifact just to have the Snow Fox waifu be linked to it and talk about how she will protect you its an extremely valid reason, and let no one tell you otherwise. #MengyiMyWaifu
+
+Before I end it here, I also want to bring up the matter about MODs; as I understand things, apparently the company has sadly taken a page from Blizzard, and is currently taking the stance of ""whatever mod you put on the workshop is now ours, and we can do whatever we can with it, even if its marketing"", to put in a simplified way. I am no content creator of any kind, but I think thats a really fucked up thing to do, and they deserve every single piece of backlash for it; thats a wrong thing to do, and they deserved to be chastized for it until they change it so. For any interested, as of writing the Workshop seems to only have Chinese content, but there are English mods being published on nexusmods.
+TL;DR the game can be a grind, some stuff take time to be translated, and the fact the community had to come up with a temporary fix for something as impactful as ""I cant open the game"" is worrisome, but as someone that has had the game for a while, I trust that while not immediately, the game will head in the proper direction and fix what needs to be fixed on the long run. (also, Stockholm Syndrome)",0.7232491374015808,27,True
+1468810,88454783,76561198139800922,Was able to download an English translation mod and have really been enjoying the game. Fun gameplay and I really enjoy the story. I've always appreciated Chinese culture and it's nice being able to play games other than just the typical western games on Steam.,0.7227723598480225,36,True
+1468810,117043702,76561197995632077,"After the most recent update ( I downloaded it on 6/15/2022), the game no longer launched. A comment had me navigate to my local game files, and delete ""version.dll."" I can confirm this works for making the game launch again, and my saves are OK. The exact file location for me was, ""C:\Program Files (x86)\Steam\steamapps\common\鬼谷八荒"". Hope this helps!",0.7214921116828918,31,True
+1468810,125790018,76561198020062182,"The game is worth your money and time.
+
+P.S If your game won't open
+It seems the devs installed Melonloader incorrectly with their update. I managed to get the game functioning again by going to the melonloader website: Melonloader [melonwiki.xyz]
+From there, download the melonloader.x86.zip file, and extract its contents into your game folder, overwriting the previous files. This seems to allow the game to run normally again.",0.7153191566467285,24,True
+1468810,138777972,76561198122487820,"This is a game that deserved overwhelming positive review, and then the company apparently made the stupid mistake of lying to it's players and just making the downright terrible decision to host mods on a shitty platform instead of steam workshop.
+
+This one mistake sent it spiralling down, now sitting at mixed reviews, honestly I still love the game, I think it deserves overwhelming positive reviews even if it was not compatible with mods.
+
+Honestly just sucks to see one decision put such a stain on this remarkable game.
+
+I would recommend this game to anyone. Read the reviews, and you will see pretty much all negative reviews do not relate to the game itself, but rather some launch issues that are fixable and the modding issues.",0.8646101951599121,151,True
+1468810,86426104,76561198035712695,"This game does a very good job of emulating the feel of martial arts novels. As a result, if you are interested in them you will probably enjoy playing this game. There is a pretty good English translation mod out there and an official translation is on the way.
+
+Pros:
+Good art style.
+Fun combat system with the ability to become op.
+In depth relationship system (you build up rivalries and friendships).
+Devs seem pretty good at putting out new content.
+
+Cons:
+The grind, this game is extremely grindy.
+",0.7133561968803406,22,True
+1468810,221032088,76561199227833474,"A game that truly embodies the cultivation I read about in manhua; it's really good. Unfortunately, most of the mods are in Chinese. While the vanilla game is nice to play as is, it feels like a rough diamond—you’ll know what I mean if you play Skyrim and like modding it to perfect your gameplay. That’s why I hope a bunch of 'Heaven Chosen' English modders will suddenly spawn and help us fellow cultivators achieve game perfection.",0.7087351679801941,18,True
+1468810,138445303,76561198026436579,"Has various pros and cons based on a player's taste but overall it's one of the few Chinese cultivation fantasy games available. If you enjoy reading novels about Chinese mythology and fantasy you should give this game a go.
+
+NOTE: there have been a lot of negative reviews due to the game not launching unless you remove a file.
+
+https://steamcommunity.com/id/Gaming_Mom/recommended/1468810/#developer_response",0.7077202796936035,25,True
+1468810,108931192,76561198076897270,"After playing for 150+ hours within 2 week and cleared the whole content ..I would say I'm recommending this game to other
+
+Reason to recommend - 
+1. If you like china cultivate style of game
+
+2. The freedom to do whatever you want in a game that wasn't force plot n role to you
+
+3. Training a waifu up from scatch was surprisingly grindy but fun.
+
+4. There a lot of skill for you to try (too bad i never get to learn all of them) u can watch how the skill work in the skill tutorial. (why do final ultimate doesn't have a preview at all tho?) 
+
+5. playing the game at your own pace 1000 age is prob gonna took few hundred k of time anw, 150 hour and i just used 91/1000+ years. 
+
+The flaw that I felt the game has 
+1. early breakthrough was surprisingly easy, until mid game, u just need to gather resources all around the area n there u go, but for the last 2 stages..is all about rng stats and rng reroll...it took nearly 1~4 day for ea breakthrough unless u are grinding it..
+
+2. The grind you need to make lv 5 artifact spirits are ...hellish RNG+ 20 of the spirit needed sometime i need to go over 30 run for 1 similar spirit 
+
+3. You can SL for your left and right ability and farm on bosses but beside that is RNG in auction house..it took me nearly 30+ years of skipping to get half of my passive n dodge done. which is bad
+
+
+Overally I'm recommending this game cause I have alot of fun regardless the flaw it has.
+Wishing when they release the 2 final stages the game would be more refined..not more RNG stats, RNG reroll to advance in a Single player game, i felt is bad.",0.7068964242935181,29,True
+1468810,190131571,76561198856879976,"If you can't open the game then go to your games folder and delete the version dll file, that fixed it for me.
+
+I'm still early in the game, but am having fun, even so being unable to boot the game up unless I google a solution makes me wish I could give a neutral rating. Still a good game if you're fan of the genre.",0.7064644694328308,18,True
+1468810,206838141,76561199095858862,"You need to use this fix for the game to launch: (Win11) SETTINGS -> TIME & LANGUAGE -> LANGUAGE & REGION -> ADMINISTRATIVE LANGUAGE SETTINGS -> CHANGE SYSTEM LOCALE -> CHECKMARK: BETA: USE UNICODE UTF-8. 
+
+If you delete the versions.dll (another fix I found but didn't use) you won't be able to use mods. This fix cleared it up for me immediately. That's really my only complaint about the game! After that, I've been having a baller time on this thing. 
+
+No kidding, this game is great, and the mods make it even better. There's even in-game mods that you can load without using Nexus and stuff if you're less tech savvy. There's a lot of freedom to do whatever you want while also having objectives. The progression feels meaningful, but you can also grind endlessly if you'd prefer. You can get adopted parents and siblings and a spouse, too.",0.7061657309532166,15,True
+1468810,139384295,76561198208531996,"无法启动解决方法
+1.进入游戏文件位置，或者直接搜索，然后把version.dll删了。这样游戏就可以正常运行了。
+
+How To Fix Cannot start game
+1.Open Game Folder and search version.dll, Delete it .Enjoy the game.",0.7033990621566772,23,True
+1468810,142582352,76561198422628316,"It's a great game, especially if you pair it with 1 or 2 mods that cut down the late game grind. A lot of people have issue that it doesn't start. My recommendation is that you don't delete the dll file. As cosmeo said ""Just go to Control Panel > Clock and Region > Region > Administrative > Change System Locale > Tick ""Beta: Use Unicode UTF-8 for worldwide language support""(Because this game has non-English assets)"". You only have to do this once, and I have had this setting for over a month now. It hasn't affected anything else on my pc.",0.7031053900718689,19,True
+1468810,98538742,76561197986362899,"This game is ****** sweeeeet. Get it. Go into settings. I think the 3rd button down on the main menu. Once in the settings, go into the language dropdown. It's just under the checkbox. There you should see English. Once you select it, you will still need to restart the game for the language change. Then enjoy this dank freshness!",0.9020814895629883,242,True
+1468810,100089893,76561198198928570,"I got intrigued by cultivation manhua/comics for a long time, and then, I saw this popping up on my recommendation because I put Amazing Cultivation Simulator on my wishlist, well, to be honest, I played the pirated version of this game for the first time to try and see how's it going, and guess what? Playing the pirated version of this game really made me wanna buy it! You know when you try a pirated version of something and then it made you wanna buy the legit version is the sign of a great thing right? Therefore, this game is really-really great!",0.7013764381408691,21,True
+1468810,159710514,76561199628640251,"IF YOU BUY THIS GAME AND IT DOES NOT LAUNCH: ENABLE UTF8 IN YOUR SETTINGS!
+Directions: Control Panel > Clock and Region > Region > Administrative > under ""Language for non-Unicode programs"" click ""Change system locale"" and then click ""Use Unicode UTF-8...""
+
+THE ABOVE IS FOR WINDOWS 10. 11 SHOULD BE SIMILAR, NOT SURE. JUST GOOGLE HOW TO ENABLE UTF8!
+
+Review down below.
+
+The game is pretty good. I recommend playing it. Has an inbuilt mods menu (to play with mods), multiple RNG encounters (although some happen in every playthrough) and RNG stats/start/destinies (extra stats and unique things), along with randomized rewrite destiny (extra free destiny per breakthrough), later on the ways to advance cultivation gets more unique and replayable.",0.849844217300415,53,True
+1468810,228038832,76561198200187017,"I have played this game for over 100hrs and to be honest this could have been a magnificent game, but it is just average. For the money it is an ok game. Here is an honest review
+
+Everyone said the playthroughs are not the same, except IS the same. Endless grind to transcendent and the grind is all the same. Cultivate, find items, breakthrough. 
+There is maybe a dozen of random events that keep playing through for hours and hours on end and feels repetitive. 
+This is not a sandbox - you just level up and breakthrough to reach to the next region until you get to the last region. There is nothing to explore or no rare items to be had, No Armor, No Weapons.
+Artifact system is very lacking you don't even need it to get to transcendent.
+
+I give it a 5/10
+",0.6954419016838074,14,True
+1468810,141208048,76561198377190632,If I don't need to delete the version.dll file to run the game that would be great.,0.7944821119308472,50,True
+1468810,120237907,76561198070690377,"Don't get me wrong, this game is absolutely amazing and has already gobbled up a lot of my time. I thoroughly enjoy my playtime with this game,
+
+BUT: The dev continously fail their own deadlines/promises on the english translations. With the update to the realms of reborn and trancendance the note roughly said ""English speakers: please wait another 2 weeks before you play the game as translations are still in the works""
+It's been well over a month at this point and the very first dialogue going into the reborn questline is all Chinese.
+
+No communication on discord or in the patch notes that followed either. Can't give a thumbs up for that.
+
+Side Note: Installing google lense will let you read the untranslated parts anyway, but who in their right mind enjoys playing like that?",0.689355194568634,29,False
+1468810,108250846,76561199114021427,"I just finished my first run through of the game completely on Nightmare. Was it a blast. Im still testing out many many different builds. every build has its pros and cons. Man I feel like this is gonna be a game in which I can probably blow a good 1000 hours on. And it's not even the full game released. Although some of the game has not been fully translated and I have no clue on what its saying in the dialogue. 
+
+The Pros in this game:
+Many different builds you can invest your time to finding out what you like with what play style fits you the best. 
+Easy enough, but challenging at the same time. 
+It is extremely addicting, makes you want to max out yourself before moving onto the next part of the game. 
+Main quest line have very good story to it, feels like making your own WuXia story.
+
+The Cons in this game:
+Some parts of the game isn't fully translated and is a bit of a pain to use google translate. (But the patches comes out pretty fast, so don't worry about it too much)
+DO NOT pick spear for now, it is literally impossible to finish the game on Nightmare or harder with it. (Hopefully they change this as Spear is probably my favorite in any WuXia Genre)
+Rerolling for the Perfect Destiny on Nightmare or Harder is EXTREMELY TIME CONSUMING. I am about to start my first Chaos run and took me almost 2 hours rolling for the perfect Destiny at the character creation page. (Maybe its just me and my terrible RNG haha ^^)
+
+Overall: I am extremely satisfied with this game, money well spent for hundreds or maybe even thousands of hours ^^ Definitely recommended this to many friends who also bought the game already.",0.6888843178749084,19,True
+1468810,192965010,76561198173550437,"So I hate long reviews so a very short one.. Do you like cultivation/xianxia novels well if you do and you still haven't bought this game then you are making a monumental mistake. This game is a great cultivation game and anyone who even slightly enjoys cultivation are being the biggest villains in their own story by not buying this game. I as a westerner never heard of cultivation or xianxia before this but let me tell you I played this game a little and got absolutely hooked on the idea of cultivation. Let me tell you I started readind a few cultivation novels just a few weeks before my midterms thinking I would get bored of this game and the novels but let me tell you as plainly as I can. I will have a very hard time at the finals passing my tests as I botched my midterms as spectacular as the heavens willed it to be. So If you havent heard of cultivation or xianxia just give this game a chance and if you heard of them why are you still reading this just go and buy the game you will not regret it. 
+
+Note:For my fellow westerners this game will not work on your computer that's why the reviews are so low. But do not worry this game is great and to open this game  you just have to complete a 3 sec process simply find the game's folder by right clicking on the game on your library and delete version.dll and you are all set! Also game's translation is almost complete and there are very little places that haven't been translated so you can play this game with ease.",0.6886153817176819,20,True
+1468810,123369352,76561198031521343,"unless you can read and speak Chinese this game is Borked. To bad it was fun when it worked
+but they fixed that and now all the patches have done nothing to fix the fix that fixed the game into not working.but before that the map function worked but they stopped that with a patch also.",0.6876082420349121,62,False
+1468810,119743632,76561197996129648,Game stopped launching several months ago - dev hasn't bothered to fix despite it being trivial to do so.,0.7347118258476257,36,False
+1468810,139032707,76561198083391333,"As a casual enjoyer of eastern cultivation fantasy, this is by far my favorite of the genre I've played. There is a staggering amount of content, with many random storylines to encounter and progress through. The 1.0 update has also made the game significantly less grind-heavy, which was one of the few complaints i had. The english translation can be slow to release at times, which can be frustrating, but the vast majority of the game is already complete. While I'm not entirely sure on the reasoning, the game's reviews tanked because of some controversy relating to modding, but seeing as most mods aren't in english I haven't been affected by this at all. All in all, an excellent game with plenty of character customization and power fantasy, which i wholeheartedly recommend to any fan of the genre.",0.6802274584770203,18,True
+1468810,128330645,76561197979901205,"Game wont start. Cant play. Been waiting for a Fix. 3 patches 3 months no fix. They want you to change your System time to allow play for some reason. Was a good game now worthless.
+
+Game updated today. My AV Blocked a Trojan. 
+
+Filename: UnityEngine.TerrainModule.dll
+Threat name: Trojan.Gen.2Full Path: F:\Steam\SteamApps\common\鬼谷八荒\MelonLoader\Managed\UnityEngine.TerrainModule.dll
+
+____________________________
+
+____________________________
+
+Threat type: Virus. Programs that infect other programs, files, or areas of a computer by inserting themselves or attaching themselves to that medium.
+
+
+____________________________
+
+
+UnityEngine.TerrainModule.dllThreat name: Trojan.Gen.2
+Locate
+
+
+Very Few Users
+Fewer than 5 users in the Norton Community have used this file.
+
+Very New
+This file was released less than 1 week  ago.
+
+High
+This file risk is high.
+
+____________________________
+Source: External Media
+___________________________
+
+File Actions
+
+File: F:\Steam\SteamApps\common\鬼谷八荒\MelonLoader\Managed\UnityEngine.TerrainModule.dllBlocked
+
+___________________________",0.6778759956359863,83,False
+1468810,114763943,76561198439761792,"明明答应了要开创意工坊的事，但是现在却开了一个会收集个人隐私的第三方制作平台（并不是steam的创意工坊），条款里居然还强制把MODER们的作品占为己有，简直罪大恶极，完全不可原谅！RNM！退钱！
+
+Having promised to start a creative workshop, but now it has opened a third-party production platform that collects personal information (not steam's creative workshop) , it also set up a clause that forced the moders to give ownership of their productions to Game publisher. This is simply heinous and totally unforgivable! Con Man!
+
+クリエイティブ工房を立ち上げると約束していたのに、プライバシーを収集するサードパーティー製プラットフォーム(steam のクリエイティブ工房ではない)を立ち上げ、MODERに作品の所有権を渡すよう迫る条項を設けた、まったくもむて罪深いい、まったく徐しがたい！ 詐欺師！",0.6731617450714111,22,False
+1468810,103678182,76561198018470005,"A very fun sandbox RPG that plays very differently from the Western ones. There are a lot of discoveries you can make. Have fun with the first attempt of play through. Try to reroll another character with things that you've learned, once you get the hang of the fundamental. It is a game on ""cultivation"". The path to immortality is long and challenging. Your character ages as you play and gain lifespan after reaching a new tier of cultivation. While this is a single player game, there are tons of NPC's moving around the towns and interact with  you in a positive or negative way, mostly your choice. If you hurt their families, they will go after you. You can fall in love, form bonds with NPC's. You can join sect - clan or guild - and participate in sect war.
+
+I would recommend this game. You may check out some of my in-game videos.
+
+https://www.youtube.com/playlist?list=PL0Gs0pQSKsu02TzyBpazm9OAzV8LCGw1y",0.6730491518974304,15,True
+1468810,121879858,76561198207642931,"1. The issue with playing the game has persisted for over than half a year. (Can be fixed by doing some steps)
+
+2. The game itself has been in EA state for more than a year, despite the promised 1 year EA. 
+
+3. The game is sold as fully english, despite that, 100% of the end-game is still in Chinese, even updates from several months ago is still untranslated.
+
+4. Fully reliant on RNG, especially in the hardest difficulty. Destinies, in game, shape your character as you go, but some Destiny at the same rank completely obliterates others, with no method of altering Destiny, you pretty much waste 20+ hours or more just to get trash MC.
+
+5. The game developer said that ToI focuses on relationship and interactions between cultivators. With my over 100+ hours of gameplay, I haven't really feel that, beside some occasional interaction each month.
+
+6. The speed of your cultivation is so far ahead of any other people, including your spouse, disciples, masters, and other sect members. This leads you to move your sect (if leader) to higher area, leaving all sect members etc behind, or else, they will die in the higher area.
+
+7. Because of the countless random affixes on skills (kung fu), there are bound to be bugs and glitch when the effects are combined. This make the game is INFESTED with bugs.
+
+8. Mods exist, but mods with ""ENGLISH"" tag are filled with Chinese mods, which is dumb. Just shows that there are no regulation regarding mods in the game.",0.7225832343101501,27,False
+1468810,85910487,76561199098602047,"For those who really want to play this game but cannot understand Chinese, just download the app Google Translate with your phone. Use your camera to instantly translate the Chinese characters with the app. It may not translate perfectly and it will be tiring to scan out every line but atleast you now have an idea about what you're playing. I hope this helps!",0.6680876612663269,27,True
+1468810,99032047,76561198153758897,"As an avid reader of xianxia and wuxia novels (english translated), I basically lived the dream of being a cultivator with this game. It's a simpler and more action packed alternative compared to Amazing Cultivation Simulator game. So you can imagine how fast i bought this game the moment the english update dropped. 
+
+The combat is quite interesting and instance based, the level up elements is nice but grindy. However, being an early access title , there are several glaring areas that needs a lot of polishing/revamp. E.g (just to name a few) sects update will be coming next month (estimated), npc interactions/relationships still need major work and the last 2 realms/level up (Reborn & Transcendent) is still locked due to development phase.  
+
+For now I have basically completed the game on hard mode at enlightenment realm. I am looking forward to the next update to continue playing.
+
+Make sure to delete Version.dll in order to be able to start up the game.",0.6663435101509094,17,True
+1468810,96252126,76561197996319603,"This is hack&slash rpg set in xiania genre. You create a character, pick your starting background (perks), get assigned one of 12 fighting styles (6 martial and 6 elemental ones) and embark on your journey to immortality.
+
+In this game you can:
+-Join sects and eventually rise to the position of a sect master (not currently implemented at the time this review was written)
+-Find friends, fall in love, get married, watch your waifu run off with some golden core scrub
+-Encounter a random person, who designates you as their archenemy because you repeatedly refuse to spar with them, thus offending them deeply
+-Worship someone as your master or get yourself some useless disciples who can't even breakthrough properly
+-Discuss dao, drink tea and wine
+-Craft artifacts and brew pills
+-Get severe depression from studying techniques for several months without any rest
+-Murder animals and cute mushrooms to get materials for a dope mantle
+-Participate in auctions to sell your rare stuff or buy some manuals (without any risk of offending anyone, i might add)
+-Grind mazes full of zombies to level up your fox spirit waifu (at least it won't leave you like the human one)
+-Grind for materials to breakthrough
+-Grind for money
+-Grind for sect contribution points
+-Grind for pill materials
+-Grind for crafting manuals
+
+
+Really, there's a lot of grind. Which, thankfully, gets easier if you manage to get your build right.
+
+All in all, a must have for any xianxia fan. This is a very unique and fun game.  And it also has official English translation!",0.666029155254364,15,True
+1468810,116427624,76561198028380514,"IF, your game is not launching, delete ""version.dll"" in the game files below the launcher.
+
+As of 7/5/22 - we're unable to ascend from Enlightenment to Reborn Realm, as the function ""Condense the feather"" doesn't work. This causes us to be unable to really do anything in Chi You. Will check back periodically for bug fixes.",0.7142141461372375,27,True
+1468810,224964797,76561198262633216,"If you can't start game, you open SteamLibrary\steamapps\common\鬼谷八荒 and delete Version.dll",0.6620161533355713,12,True
+1468810,223644271,76561198021134526,"老玩家回来。 现在整个游戏已经无法正常运行。
+如果你可以接受 完全 不用 模组，你可以玩。
+
+2026 apr - 要让模组可运作，你会被气疯！！！ 
+花了几天，大部分模组都没法完全正常运作！！！",0.6606277227401733,13,False
+1468810,231274596,76561198421671532,"First of all, the game has a major launch issue that took me about 15 minutes to research and fix before I could even start playing. Second, the English localization is poor, with many translations feeling inaccurate or awkward. Lastly, after about an hour of gameplay, the game started to become noticeably laggy.
+",0.6588971614837646,17,False
+1468810,86422826,76561199127099468,"Fantastic， 游戏非常好
+期待完成品
+能不能空格代替左键，对话的时候，我手指要点的疼死了",0.6582496762275696,11,True
+1468810,160930057,76561198246840666,me cultivate me strong new area me weak me cultivate me strong new area me weak me cultivate me strong new area me weak me cultivate me strong new area me weak me cultivate me strong new area me weak me cultivate me strong new area me weak me cultivate me strong new area me weak me cultivate me strong new area me weak me cultivate me strong new area me weak me cultivate me strong new area me weak me cultivate me strong,0.7077825665473938,25,True
+1468810,89944187,76561198040059195,need more localization also turn uft - 8 beta on you can run and it fix unplayable crash,0.7068448066711426,17,True
+1468810,167850563,76561198107980999,Come back after few months and now the game unable start at all.,0.6536449790000916,15,False
+1468810,155389933,76561198006521597,"Normally I dont like just putting blanket positive reviews, but the game is being review bombed for bug that for sure happened. Was fixed, but still shows terrible ratings now for a game that has a lot of effort put into it. I enjoy the game, hadn't started it in awhile loaded it and it loads fine. There is a post in discussions that states some fixes and hints mods could cause extending issues. 
+
+Beyond that the game is great for the kind of game that it is. If you are familiar with and enjoy cultivation and the combat style detailed in the video appeals to you, then you will more than likely enjoy the game. It is one of the few that the combat isn't turned based of this style of grinding game.",0.653512716293335,11,True
+1468810,162889342,76561199663608715,"[b]Positives[/b]
+
+[u]Rich Cultivation Theme:[/u] If you’re a fan of xianxia stories, this game is a treat. It immerses you in the world of cultivation, where inner strength, mystical realms, and destiny intertwine.
+
+[u]Unique Gameplay Loop:[/u] Core gameplay loop involves growing stronger, moving to new regions, and facing fresh challenges. It’s a satisfying progression system that keeps you engaged.
+
+[u]Fully-Realized NPC World:[/u] Each character in the game has their own life trajectory, independent of your progress. You can choose to meddle or let their stories unfold naturally.
+
+[u]Combat Mechanics:[/u] While simplistic, the combat is enjoyable. It’s a blend of strategy and difficulty, making each encounter engaging.
+
+[b]Negatives[/b]
+
+[u]Shallow Dialogues and Relationships:[/u] Some dialogues and character interactions can feel lifeless. Improving the depth of these interactions would enhance the overall experience.
+
+[u]Story Not Spectacular:[/u] While not terrible, the main storyline lacks the wow factor. It serves its purpose but doesn’t stand out.
+
+[u]Limited Customization Options:[/u] Players might crave more customization features. Expanding options for personalization would be a welcome addition.
+
+In summary, [u]Tale of Immortal[/u] caters to cultivation enthusiasts, offering a unique experience in a vibrant world. It’s not without flaws, but its strengths make it worth exploring.
+
+[i]84/100[/i]",0.6529526710510254,17,True
+1468810,140780965,76561198041591532,"It may be wierd doing a negative review after playing 84 hours but the thing is... I still have a few tens of hours to finish my character.
+
+The game is fun for most of those 84 hours, doing esoteric stuff, getting treasures, finding spirits, etc, fun but then you hit the Endgame, Transcendent X Late and the game just grinds to a halt. In fact it makes you Grind FOREVER. I ended up cheating in Skill Points because it was frustratingly long and even know its frustrating to level your Fire/Sword whatever skills, the game randomly kicked me out of my Sect where I was Sect Master after a story event, getting manuals is a boring loop of do random quest after random quests until you get eneugh money and MAYBE you get to buy an useful manual.
+
+Until now I was having fun, its over. I wanted to craft a good Level X sword artifact, to do so you need a rare material, but due to an endgame scenario you can only do that by ABANDONING YOUR SECT or grinding bosses in a zone which have a 1/5 chance to drop 4-5 of the material you need, bosses that take MONTHS to respawn.
+
+It's just an anoying and boring grind, play the first 75 hours, but if you want Immortality, you better be born with divine patience.",0.6512110233306885,46,False
+1468810,174122292,76561198202831521,"In short, i got the game, played it, roommate just went to work....i played it 8 hours straight.... 
+
+(combat is lacking after a while) this game 
+
+This game really seems to aim to bring the player in to the world of cultivation.
+
+This is an updated review: First review was about 8 or 9 hours of playing _ above_ 
+
+update is below:
+
+Combat = Brotato but  more user controlled  and the effects are quite nice but after the polish wears off it's def lacking.
+
+Open world  = 2d board game style-  travel (mostly) freely from square to square, each on may trigger event, or has an event already there such as dungeon, town, mini boss etc.
+
+Cultivation = Feel like the main character in martial peak/ nano machine / TODG ( well if one uses mods). yea i am the person that wants a game i can play as a cultivation isekai, transported to another world with an incredible power. this power is known as the workshop... heheh
+
+Also, manuals, scripts, pills, elixers, chances to fail breakthroughs, levels, sects, relationships, mother father, friend, brothers, elder, disciple, all with responsibility and other effects on the world all the time. Everything effects something as far as i can tell. 
+
+Enjoyability: 
+
+i have had it less than a week and have played more than 24 hours. havent had this much fun since either Noita or maybe project zomboid. 
+
+
+Mods caution: Get as strong as you want if thats what you like but i recommend not advancing placement too far in the first full playthrough. (example: An elder cannot participate in the sect tournament as a contestant) soooo you may miss out on an awesome chance to show off your new Golden Core IV: Heavenly Flawed Palm of Sorrow, instead you will be watching and chatting with other elders and giving special items to contestants to help them fail...because Yu Nu is freaking useless, why even accept my freakn manual and Legendary Breaker Talisman of protection if youre going to get wiped by a Qi Condensation III? Bro got demoted with the quickness, almost kicked him out of the sect buttttttt it was my first tournament so maybe i should have just given him all three of the damn items. You know, no, he, we placed behind the Perfect myth sect where Lin Shou, ( attacked my master and humiliated them) is but i cant seem to locate his beach arse. but i found his sister at YuYa town and used some Qi to keep an eye on her, so now everymonth, i check her location, then see if they happen to rendezvous? you know Ron Day Vu? haha anyways, they must not like each other because its been 23 months and 13 days and still nothing. 
+Dont matter, his parents are only Golden Core IV... I can just start there.
+
+
+
+Yea, this is Tale of the Immortal jackass hahahah
+
+[update]: IT'S that damn good! 
+
+so after realizing i ""gotta catch 'em all"" i figure i should tell you all. Imp catching is so great, you catch em, use em in battles, send them out on adventures to find treasures and help them evolve  ( they are spirits so they have cultivation levels as well, you feed them and after you capture them they get all cute, Until they are unleashed and destroy everything around them! I can summon 3 spirits at once ( ultimate skill summons a legendary being, artifact summons a hot, i mean umm spirit, and the imp Guard summons imp.
+
+CONTROLLER SUPPORT IS A LEGENDARY ADDITION!!!!
+Works almost flawlessly, has issues with selecting no. ( do you want to culitivate here for training? YES OR NO) selects no and still has to cultivate for 3 months.... now Lin Shou has left Hua City since i was getting stronger by accident... been looking for this guy for 3 years 9 months and six days. I took out his whole family, let his mom and sister live with embarassment so their cultivation is essentially wasted. His dad? gone, i left his corpse in tact, his master? obliterated. most members of his sect are attacked on sight. If only they had the ability to ask why, but they dont, even if they did. I have acquired the title of 'Heavenly Demon', have 11 partners and a Wife whos cultivation is 3 realms above mine..... haha, talk about taming a beast. She never wants to Dual Cultivate though...marriage hahah. Actually i am only Golden Core right now so my accomplishments by comparison are ridiculous. 
+
+oh yea, controller support, right. Auto-aim for battles is a  neat touch. dpad works great for traveling while joystick for battles, there are just enough buttons to cover all battle actions except? Capturing a beast spirit. it says press ""X"" on xb controller butt it doesnt work. (tried to capture a Harpy only to summon my Six Tails and have it obliterate it... Proud and sad alll at the same time. Sooo the simple fix is to press E on the keyboard instaed of X on controller and it works fine. maybe with an update or patch it will be addressed buttttttt im not really complaining.
+
+
+also, the game runs smooth but the first 3-5 minutes there is lag or stutter, but it smooths out after a few minutes (in case others were having this issue) i just assume tis becuase my character is Sofa King Powerful, he needs more RAM!
+
+
+overal 3.99999999987654321/5
+recommended",0.6502189040184021,11,True
+1468810,219403140,76561198067671177,Its 2026 and the dev still can't fix the issue of starting the game.,0.6494577527046204,40,False

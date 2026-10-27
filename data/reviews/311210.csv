@@ -1,0 +1,812 @@
+appid,recommendationid,author_id,review,weighted_vote_score,votes_up,voted_up
+311210,85573592,76561198388953770,"I love black ops 3, I never get tired of the zombie mode. However there is zero excuse for Activision to still price this game at $60 five years after it released.",0.9664074182510376,761,False
+311210,176135931,76561198979754142,"You buy it because of Zombies.
+You play Zombies.
+You like Zombies.
+You play it even more because of Zombies.
+And then you get bored because of Zombies.
+You take a break from Zombies.
+You get bored of other games because other games aren't like Zombies.
+You come back to play Zombies.
+You play Zombies.
+You remembered you like Zombies.
+You play it even more because you realize how much fun you have playing Zombies.
+
+Anyways I play it because of Zombies.
+10/10 Zombies",0.9583790898323059,327,True
+311210,104023321,76561198088824872,"Campaign: Train go boom.
+Multiplayer: Dead
+Zombies: MODS. LOTS OF MODS. 
+
+You are getting this just for zombies.",0.950106143951416,370,True
+311210,141359443,76561199106156747,"Dont open any old COD's anymore. Heres a long explanation written by some guy. 
+
+POSTED: JUNE 26
+Good game, one of the best in the series but I can not recommend.
+DO NOT BUY.
+While it is still possible to play zombies safely with the use of community patches you can not play public servers safely and activision are actively removing safe ways of playing the game.
+
+*DO NOT OPEN ANY COD PRIOR TO IW*
+They took away Xlabs, Sm2, and soon will take away Plutonium which are all the ONLY safe way to play these older CoDs.
+Opening any CoD prior to IW will result in a chance for people to gain access to your pc. 2 security breaches are known:
+CVE-2018-20817
+(SV_SteamAuthClient in various Activision Infinity Ward Call of Duty games before 2015-08-11 is missing a size check when reading authBlob data into a buffer, which allows one to execute code on the remote target machine when sending a steam authentication request. This affects Call of Duty: Modern Warfare 2, Call of Duty: Modern Warfare 3, Call of Duty: Ghosts, Call of Duty: Advanced Warfare, Call of Duty: Black Ops 1, and Call of Duty: Black Ops 2.)
+CVE-2018-10718
+(Stack-based buffer overflow in Activision Infinity Ward Call of Duty Modern Warfare 2 before 2018-04-26 allows remote attackers to execute arbitrary code via crafted packets)
+These are some things they can do even if you just boot up the game and get to the menu:
+Hidden Remote System Access
+System Information
+File Manager
+Hidden Desktop Usage
+Monitor on/off
+Hidden Browser Usage
+Open/close CD
+Hidden Chrome Usage
+Show/Hide taskbar
+Start Up Manager
+Hidden Firefox Usage
+Show/Hide Start Button
+Task Manager
+Hidden Edge Usage
+Show/Hide Explorer
+Remote Shell Usage
+Show/Hide Clock
+TCP Connection
+Show/Hide Tray
+Reverse Proxy
+Show/Hide Mouse
+Registry Editor
+Hidden Explorer
+Enable/Disable TaskMgr
+UAC Exploit
+Enable/Disable Regedit
+Disable WD
+Disable UAC
+Format All Drives
+DDOS attack
+Audio recording
+Webcam recording
+Device information
+Process hollowing
+Credential stealing
+Discord token stealing
+
+Report every older CoD as harmful and put those 2 CVE's under the description why.
+Write negative reviews to warn others not to spend any money on these CoDs (which are mostly overpriced for how old they are as it is)
+We need to take these CoDs from ""Positive"" or ""Mostly Positive"" to mixed or mostly negative",0.9444925785064697,863,False
+311210,143143380,76561198025417342,"Dont open any old COD's anymore. Learned this the hard way, yes it is still happening. No it has not been patched, regardless of what Activision claims. Heres a long explanation written by some guy.
+
+POSTED: JUNE 26
+Good game, one of the best in the series but I can not recommend.
+DO NOT BUY.
+While it is still possible to play zombies safely with the use of community patches you can not play public servers safely and activision are actively removing safe ways of playing the game.
+
+*DO NOT OPEN ANY COD PRIOR TO IW*
+They took away Xlabs, Sm2, and soon will take away Plutonium which are all the ONLY safe way to play these older CoDs.
+Opening any CoD prior to IW will result in a chance for people to gain access to your pc. 2 security breaches are known:
+CVE-2018-20817
+(SV_SteamAuthClient in various Activision Infinity Ward Call of Duty games before 2015-08-11 is missing a size check when reading authBlob data into a buffer, which allows one to execute code on the remote target machine when sending a steam authentication request. This affects Call of Duty: Modern Warfare 2, Call of Duty: Modern Warfare 3, Call of Duty: Ghosts, Call of Duty: Advanced Warfare, Call of Duty: Black Ops 1, and Call of Duty: Black Ops 2.)
+CVE-2018-10718
+(Stack-based buffer overflow in Activision Infinity Ward Call of Duty Modern Warfare 2 before 2018-04-26 allows remote attackers to execute arbitrary code via crafted packets)
+These are some things they can do even if you just boot up the game and get to the menu:
+Hidden Remote System Access
+System Information
+File Manager
+Hidden Desktop Usage
+Monitor on/off
+Hidden Browser Usage
+Open/close CD
+Hidden Chrome Usage
+Show/Hide taskbar
+Start Up Manager
+Hidden Firefox Usage
+Show/Hide Start Button
+Task Manager
+Hidden Edge Usage
+Show/Hide Explorer
+Remote Shell Usage
+Show/Hide Clock
+TCP Connection
+Show/Hide Tray
+Reverse Proxy
+Show/Hide Mouse
+Registry Editor
+Hidden Explorer
+Enable/Disable TaskMgr
+UAC Exploit
+Enable/Disable Regedit
+Disable WD
+Disable UAC
+Format All Drives
+DDOS attack
+Audio recording
+Webcam recording
+Device information
+Process hollowing
+Credential stealing
+Discord token stealing
+
+Report every older CoD as harmful and put those 2 CVE's under the description why.
+Write negative reviews to warn others not to spend any money on these CoDs (which are mostly overpriced for how old they are as it is)
+We need to take these CoDs from ""Positive"" or ""Mostly Positive"" to mixed or mostly negative",0.9067436456680298,454,False
+311210,209873481,76561199146733353,"One of my favorite games ever, even after all these years. I spent basically my whole middle school playing this nonstop, and Zombies still has endless replay value today.
+
+But in 2025 there are two things that are just unbelievable:
+
+1. Playing BO3 online still means risking your PC. You have to install community protection patches or some random person in a lobby can mess with your system. How this is still a thing in a paid game is beyond me.
+
+2. And then there’s Activision, proudly selling a 10-year-old game at FULL price like nothing happened. No fixes, no support, nothing. Just a price tag stuck in 2015.
+
+Amazing game trapped under one of the worst companies in the industry.",0.9027215242385864,146,False
+311210,161464255,76561198447344048,"Love the campaign, even though it's sometimes frustrating on Realistic difficulty.
+When they said ""Brutally difficult and entirely unforgiving."" they were totally right!
+You know you can see where the enemies hit you in the bottom left? Yea? It was always the head. ALWAYS?!
+I remember playing the game online with my cousin on split-screen back in 2015 on the PS4, miss those times :(
+",0.9026143550872803,132,True
+311210,83043703,76561198132878131,"LOWER THE GOD DAMN PRICE!!!!!!!!!!! Old games with community support, maps, mods and add ons will continue to do well for example Left For Dead or Fallout 4. But when you are still charging 60 dollars basically for zombies, as the multiplayer (never that good to begin with anyway) is hacked and finding a good game is RARE. So 60 dollars for the same zombies maps you used to play and 1 new map which will leave you confused if you stopped playing zombies awhile ago. it is not worth 60 dollars. That being said its a VERY good zombies game. The Community SAVED this game from being forgotten, as new maps drop every week (Maps drop daily as well but normally need a while so its not glitchy) This game is very good looking, and you will be shocked when you enter most of the custom zombies maps how well done they are.
+Some look better than ANY map in the base game, as well as some looking like it came with the base game. If they drop the price of chronicles to 30, buy it with no regrets but please DO NOT BUY AT 60! Buying at 60 will only keep the game at that price for longer. You could be the biggest cod zombies fan ever and I still don't think you should pay 60 buck for it, as customs alone can be fun, its way more fun with freinds, and im not sure how many friends will wanna drop 60 on a game they've played and that's almost 6 years old. GET THIS GAME TO 30$!!!!!!!",0.9022418856620789,146,True
+311210,208676364,76561198354594907,"This game is absolutely worth it and might be the best workshop map game on Steam ever!
+
+The amount of custom content and creativity from the community is insane.
+You can play for years and still find new stuff, like for real I've got almost 5000 hours in this game and I’m still finding awesome maps from creators like IceGrenade and many others.
+
+If you’re into CoD Zombies, you’ll fall in love with the custom maps instantly.
+I’m not even joking, this might be one of the best purchases you’ll ever make on Steam.
+
+There’s just endless gameplay value, because there won’t ever be another CoD with this level of workshop freedom again, since newer titles focus more on monetization...",0.8974406719207764,186,True
+311210,88303643,76561198063951820,"Why in the name of our blessed lord is this game still $90 Activision you moronic ****ing *****. It has been 6 years since this game was released and there have been 5 main series Call of Duty games you have released since then. It's not even just this one too, Black Ops 2 is still $90 as well and this is ignoring the zombies and multiplayer DLC still being charged for weeell over $100 in itself. Please, I am ****ing begging you here. I just want to play a crumb of zombies with my friends while I'm burning through University and I have to shovel out well in excess of $200 for 6 to 9 year old games I played when I was still in primary school. I am at my limit.",0.8965697288513184,258,False
+311210,231805214,76561199087977501,"I love zombies in this game, but I cannot recommend it due to its rampant security issues that will never be addressed by Activision. This isn't a ""haha get banned"" issue, this is a ""people can install and run stuff on your rig and you have no idea + grab your IP address"" issue. Activison is selling an unsafe product to customers for full price without a disclaimer stating that the game is unsafe to play online.
+
+This makes a part of the package, Multiplayer, completely unplayable. If you bought this game for the multiplayer, then you got sold a product that is not safe to play. If you are an average joe who wants to relive the old CoD games on PC and naturally does not know about T7patch, you are in danger of having malware installed on your computer, or worse, having your personal information stolen by bad actors.
+
+If you want to play this game, download T7patch and run it before you boot Black Ops 3 every single time. This should not be a requirement.",0.8898143768310547,194,False
+311210,163377303,76561198011524072,"BE WEARY! the edition you buy matters a lot! 
+Zombies Chronicles deluxe is usually the cheapest version with all zombies content! 
+Avoid zombies Chronicles (normal) edition!
+DO NOT BUY THE MTX, infinite gobblegum mods are available free on steam workshop!
+
+Still the best cod zombies, we prey gulf war is good.
+
+UPDATE:
+Bo6 is aight, not great at this point, but lacks staying power. at this point bo3 is still the best zombies game.",0.8881309628486633,87,True
+311210,201412474,76561197961012244,"Download the CleanOpsT7 patch if you want to play MP safely!
+
+For Zombies download the T7 Patch and apply the custom games plugin that lets you earn xp and achievements when playing with mods or custom maps while allowing you to play safely as well!
+
+This game is goated, easily a top 5 cod due to zombies + workshop support alone.",0.886144757270813,110,True
+311210,219320040,76561199564793209,"recently Treyarch/Activision decided for f*ck all reason to 'update' their game, breaking just about EVERY client patch or mod including T7patch, in case you care about the security or safety of your PC or yourself, you gotta downgrade BO3 to the previous version where these patches still work on.
+
+To do that, enable the console for steam, look up how, it depends on the OS you are using. after that, enter ""download_depot 311210 311211 9084453472036406216"" in the console, its the exe file of the previous version so its only a ~100 MB download, after that you go to the location of the exe file you just downloaded and copy/cut it over the 'new' exe file of BO3, after that your good to go and can continue with installing T7patch or whatever you want to use, assuming you haven't installed it already.
+
+Its honestly BS how a random nonsensical update like this gets released, doing nothing but nuking compatibility with all these patches, honestly makes me think whether this was intentional or not, hopefully sooner or later T7patch gets updated to work with the new update but until then this is the only way to stay secure while playing BO3.",0.8846948146820068,121,True
+311210,169508627,76561198202639263,"To anyone who is even looking at this steam page, please for the love of god do not buy this game unless you know what you are doing. This game, along with all the other pre-MW2019 CoDs on Steam, are riddled with security exploits allowing people to perform RCE and install RATs on your PC, and grab your IP address.
+
+If you want to get this game for MP, just forget about it. If you want to get it for Zombies, please install the T7 community patch, play offline, and you *should* be fine.
+
+Ever since Activision killed XLabs and by extension the BOIII client any potential hope of playing this game's MP again is dead.
+
+BO3 is a great CoD. Offers a great MP (if it was safe), the best zombies content to date, but is just left to die by Activision. If you want to play it, as I said, please be safe.",0.883913516998291,187,False
+311210,128496488,76561198161422818,"Only reason you should be getting this is Zombies. The Multiplayer is kinda dead and the Campaign is fun but weird.
+
+A lot of people still play the Zombies and there are a ton of quality custom maps, weapons etc. 
+
+Overall a fun experience, would be a good buy on a sale.",0.8829116821289062,126,True
+311210,222770162,76561199804681228,11 years later and you still keep this game at the full price???? Online aspect of this game is unplayable because your lazy asses refuse to fix the game but hey! Atleast the game costs 60€ WOHOOOO,0.8811876177787781,269,False
+311210,157532368,76561198089251904,"Game is fun and despite issues, is still worthy of a recommendation.
+
+INFORMATION FOR THE BUYER IN 2024:
+Boot the vanilla version once, then get a community client and NEVER boot up vanilla ever again, reasons being multiple security exploits endangering your entire PC, worse performance and a lack of players in MP.
+
+Immediately lock your fps to 60, regardless of version. Otherwise, your FPS will fluctuate rapidly, certain parts of maps break and game just runs worse for whatever reason.
+
+Also, only buy the base game AND at a discount, you can get the DLCs online for free, Acti doesn't deserve more money than needed.",0.9309461116790771,241,True
+311210,100212039,76561198139572687,"If you're not going to lower the base price then how about making a
+
+    ""Call of Duty®: Black Ops III - Just Zombies And Nothing Else Because Nothing Else Matters Edition""
+         - I mean you are scamming people by making them think that the multiplayer is enjoyable after all. You're also fully admitting that you're aware of the fact that a large majority of your players (The ones that aren't cheaters) -only play for the zombies and custom maps, solely by calling the base game ""Zombies Chronicles Edition"". You obviously just want people to buy the full package for a higher price and that would be fine if it wasn't for the fact that it feels like it never really goes on sale and the game is what, 6 years old now? Can't forget that the sale prices for these games are always the same every single time as well.
+
+Can only recommend buying it when it's on sale. -(Can only recommend buying ""Call of Duty®: Black Ops III - Zombies"" when it's on sale)
+
+Edit: Just finished the campaign and I already forgot what happened",0.928852915763855,436,False
+311210,137761385,76561198055463629,"1. buy on sale only
+
+2. plain and simple zombies shoould be the only reason for the purchase. 
+
+3. multiplayer is dead and if you get into a game everyone hacks 
+
+4. campaign? meh",0.9256433248519897,432,True
+311210,209173963,76561198332351849,"How can you sell this game full price when you cant play multiplayer without being hacked, and half the time you cant play zombies with your friends because the game won't let you join them for no reason (i've literally had this problem since the game came out 10 years ago). Fix your shit ass games Activision.",0.8727899193763733,383,False
+311210,148902546,76561198027481838,"Nothing better than watching a Mister RoflWaffles video for 20 minutes while your friend circles a zombie. 
+
+10/10",0.922490119934082,191,True
+311210,208023194,76561198255897204,"Ill make it quick:
+
+If you only care about playing Zombies then BO3 is the ONLY best option to buy, Why? because its the best optimizated and also has the workshop for a infinity of maps.
+
+Only buy it when its on sale or get a CDKey tho. Thats all i have to say.",0.8697956800460815,84,True
+311210,216344506,76561199590748790,"I only bought it just to play custom zombie maps, It's amazing and alot of fun! I highly recommend it!...
+I've watched Vanoss and his crew playing custom maps and it inspired me to try it myself and MY GOD IT'S SO MUCH FUN!",0.8697251677513123,75,True
+311210,184535118,76561198062961840,"DO NOT BUY if you plan to play multiplayer or zombies with friends.
+
+There are RCE vulnerabilities which I experienced myself while playing solo zombies. After uninstalling, it didn't happen again. A Chinese IP was trying to install a Trojan remotely through BO3.
+
+Be really careful. Treyarch and Activision don't care at all about games which are not the latest ones (you could even argue if they do in that case).
+
+Edit: There are community patches that you can use to be safe from those vulnerabilities like T7patch. Still, not all code is open source for obvious reasons, which also makes it opaque and not fully trust worthy IMO. If you want to play it, you should use a community patch. Keeping the negative review as this is something Treyarch should do, not the community.
+
+As people are asking me, I detected such through Malwarebytes. Any antivirus should do.
+
+I still have the logs, it was detected as blocking a website from within ""SteamLibrary\steamapps\common\Call of Duty Black Ops III\BlackOps3.exe"", category ""Trojan"", with a connection of ""Outbound"". The IP was a proxy one from China (Alibaba Cloud).
+
+Be safe!",0.8677021265029907,223,False
+311210,226814537,76561198197668974,"This is more of a warning than a review, if you do buy this game, PLEASE play with a 3rd party launcher to keep yourself safe from modders, [b][u]EVEN IF YOU ARE PLAYING OFFLINE![/u][/b]
+
+[b]There have been reports of RCE (Remote Code Execution) being done through this game and the 3rd party launchers help mitigate those attacks. If you do not feel comfortable using them, then don't buy this game on PC. Your best bet is on Xbox One/Series or above or Playstation 4/5 (DDoS attacks and mods still happen on PS4/5 due to jailbroken players, just not as bad, but on Xbox Series or PS5, you are pretty safe, as its regarded as the best official way to play online. Look for ""A Complete Guide on How to Play Black Ops 3 in 2026"" by iSpetsnazZx on reddit for more info.)[/b]",0.865050196647644,69,False
+311210,173926863,76561198827020653,"rip to the greatest game ever made.
+BO6 cant even cover 5% of the greatness this game intriduced to gaming.
+to all the devs who worked on the masterpiece ""ZOMBIES"" was back then,
+Hats off to u !",0.8645447492599487,203,True
+311210,192274847,76561198276297986,"I'll say this, the only reason why I'm giving this a negative review is because of what happened to this game and it's lack of security, If you're a singleplayer guy and want to experience the workshop content, play this game offline. Want to play with others? use t7patch. Activision doesn't want to support this game? Want us to play their ass Warzone and all? Vote with your time and money, they took down the BOIII client and they choose to not support this game, and now the servers are sold to China, so, this game is super unsafe to play stock. I hate Activision for having official tools but they choose to let this game rot just for Warzone.",0.8636148571968079,183,False
+311210,226615613,76561198801540164,Steam COD games are malware and allow hackers direct access to your pc. not to mention they are still making you  pay 60$ for games that came out 14+ years ago.,0.8614353537559509,317,False
+311210,110502921,76561198114029069,"It's 2022 and the price of this game is insane, but that's corporate greed for you. Anyway, Call of Duty Black Ops 3 has the BEST zombie mode compared to all the other CODS. The workshop mods are a lot of fun and I find myself constantly downloading new zombie maps everyday. The best part of Zombies is that you can look up servers in-game that are using custom zombie mods which makes the game even more fun. 
+
+I do not recommend buying this game for multiplayer because well its dead 100%.
+The zombie community however is very much alive and lots of players still playing that whether its in on the server list or the actual zombie mode itself. 
+
+I do not recommend buying this game at $60 but if you ever see it on sale for $30 or less then sure it's a lot of fun and worth it as long as you're a zombie fan.",0.8612797260284424,73,True
+311210,232499572,76561198125161058,"Let me start off by saying I absolutely LOVE THIS GAME, it is a childhood staple for me, and this flaw does not take away from that fact, it just is unfortunate.
+
+RCE exploits heightened by the February ""security update""
+
+Multiple RCE exploits still exist in the game, allowing malicious actors to remotely execute code on your system when connected to servers. 
+
+I don't believe this will ever be fixed, so I can't recommend the game currently, unless you're using community patches to fix the security issues. Private matches are not inherently safe and ""friends only"" doesnt guarantee only trusted people connect.
+
+Be safe. Im intentionally not going into detail, to avoid spreading knowledge of the exploits, especially since I assume this will never officially be fixed.",0.8609579205513,91,False
+311210,92567958,76561199147560169,lower the price lets be honest  we all want to play custom zombie maps,0.9603459239006042,334,True
+311210,115651086,76561198208461501,"straight up just over priced on god your money is SO MUCH BETTER SPENT ELSE WHERE
+
+BUT you can simply not get the zombies experience anywhere else. activision has a fucking monopoly on this shit so of course youre gonna buy it
+
+
+here's a pro tip for when you buy it at full price because this game never goes on sale
+
+on the game page, before installing, scroll down and click manage my DLC
+make sure multiplayer and campaign are unchecked
+saved you 50 gigs of storage space
+
+oh also be careful alt tabbing, the game sometimes crashes to desktop if youre in full screen
+a good fix is going windowed full screen
+
+edit:
+if you want to play black ops 2 maps check out plutonium
+it's by fans for fans has a lot of quality of life additions
+its just a mod but the site also gives a very easy to follow [strike] torrenting guide [/strike]  completely legal install guide for the entire game and DLC
+it also has guides for world at war and mw3 if youre interested!",0.8592422008514404,160,False
+311210,170446885,76561198076332165,"Great game!
+One small issue.
+If you have any intention of playing Black Ops 3 online, not just multiplayer, but ANY of the gamemodes, USE T7Patch. Call of Duty's older PC ports have horrible security and hackers can insert Remote Access Trojans into your PC by just being on the same server as you. Stay safe, everyone!",0.9059885144233704,152,True
+311210,97774899,76561198073323554,"6 year old game is still full price
+
+-2 years later 8 year old game is still full price, except now its hacked",0.9058516025543213,247,False
+311210,170674101,76561197975710540,"Dont deny it, its 2024 (or later) and you're only buying this for zombies.
+
+
+It's worth the cost. do it.",0.9538053870201111,413,True
+311210,102505475,76561198041096680,"Custom maps make this one of the best COD Zombies experiences available. Get on the biggest sale you can find, hella expensive otherwise.",0.8535484075546265,94,True
+311210,175116506,76561198062520814,"This game was my childhood. BO3 has the absolute best zombies experience however. exploit after exploit makes this game unsafe to play. There used to be a RCE exploit meaning if someone wanted too they could brick your pc or make you install viruses, that got fixed after a years of it being in the game. Now it seems that the servers are compromised and some pcs are flagging the game to have malware in it. it is shocking how little Activision seems to care.
+
+**TLDR: 9 years later and this game is priced as a full triple a game while simultaneously being borderline malware and activation is doing next to nothing to fix it.**",0.8507186770439148,132,False
+311210,172345402,76561198079479295,"The modding scene for Zombies is AMAZING and easily worth the money [strike]but this game has a major remote code execution (RCE) exploit that allows your PC to be completely hijacked by malware. 99.9% of people will be unaffected by this exploit because it requires you to be targeted as a victim, but you're risking your PC being lost. Think of it like leaving your front door unlocked when you leave the house, its probably gonna be fine unless someone is waiting for you to leave it unlocked. 
+
+You can ""Lock your front door"" and fix this exploit by running [/strike] 
+
+The above writing about an RCE exploit that I have struck out is incorrect. BO3 is not affected by the RCE exploit, only games before BO3 are affected. The community made T7 Patch (thoroughly vet where you download this from) is used to fix framerate issues that some people have and to avoid the issue of hackers joining, then crashing your game.
+
+If you have no interest in zombies, dont bother with this game at all.
+
+Exploit that allows people to forcibly join your game and crash it, if you do not have the T7 patch: https://www.youtube.com/watch?v=3W_N0ULOp5Y&t=685s
+
+",0.8500712513923645,105,True
+311210,234804152,76561199133367786,"Love the Game, but don't play online in public matches at all costs!
+
+you can get everything on your PC hacked!
+
+you can: buy the game, play online in PRIVATE matches (with your friends), or offline (solo/splitscreen)
+
+same goes for Zombies and campaign!
+
+you can still buy and enjoy this game, just not the same way you used to.
+
+stay safe.",0.8494747281074524,63,True
+311210,233926753,76561198350856710,"It is unacceptable that this game has unpatched RCE exploits.
+",0.8489066362380981,227,False
+311210,57076289,76561198076416756,"Now is the PERFECT TIME TO GET BLACK OPS 3 (mostly for zombies)
+Here's why
+Bo4 Zombies terribly sucks - okay it doesnt suck but it's missing the charm the all previous Black Ops games. Weapons variety is lackluster in Bo4 but there's a good amount of weapons in Bo3. Don't like em? Mod the game so you can have Bo1 weapons or Bo2 weapons, or MW weapons, EVEN HALO WEAPONS.
+As for Multiplayer, its sorta alive, It's not as alive as other games like MW2 or Bo2 but it still has enough players to get a match going. Even though it has Exo Movement it's executed perfectly.
+As for Singleplayer it's okay, I only found real enjoyment in coop and Nightmare mode.
+The price is pretty expensive, buy in sale.
+hope this has been useful.",0.8916559219360352,136,True
+311210,228153766,76561198064302836,"Best COD for zombies - potentially the last good game ever published by activision. 
+
+Buy on a sale",0.8405831456184387,78,True
+311210,217318183,76561198113593074,There are greater chances of every atom in the universe simultaneously disappearing than for this game to drop below $60,0.8398394584655762,132,True
+311210,134790827,76561198052805881,"I slept on this game for the longest time, but now, having played it for just a few hours, I can safely say this is the quintessential CoD game on PC.
+
+The full package for this 2015 game has:
+- A decent length campaign that, although the story itself isn't the best, has full co-op support, custom loadouts and challenges;
+- A multiplayer mode with a vast variety of maps and weapons (though many are locked behind the black market), alongside specialists who don't feel out of place and progression that ACTUALLY rewards the player, including weapon camos, specialist cosmetics and calling cards;
+- A Zombies mode that contains every single map from World at War and Black Ops 1 + its own original maps, which are some of the best of the best in CoD's history;
+- A fourth mode that's a series of varied challenges that exists for no reason other than because it can, giving the player a fun distraction from the three core modes;
+- Fully editable custom emblems;
+- Fully editable custom paintjobs for your guns;
+- A decent variety of gamemodes, which also includes...;
+- ... In-depth customization of private matches, including a hub for sharing custom gamemodes;
+- And, to top it all off, OFFICIAL MOD TOOLS AND FULL MOD SUPPORT, STEAM WORKSHOP INCLUDED!
+
+This game is a blessed package. Yeah, it sucks that Activision is a company ruled by a sexist pedo that threatens to kill his secretary on the daily, never lowering the price on this game. And yeah, it sucks that there's a damn season pass and a market for some in-game content. BUT DON'T SLEEP ON BO3! The gameplay is fantastic, being the best futuristic CoD of the bunch, and every part of it feels as if it was made with love.
+
+There are a few performance issues related to recent updates, but fan patches have aided with the situation. It's honestly equally surprising and depressing how this game has more value than the current CoD title.
+
+Besides, the base game is worth it thanks to the Workshop alone!
+
+[b]EDIT (May 22nd, 2023):[/b] Rapistvision has shut down SM² and X Labs. It's only a matter of time until H1 Mod and Plutonium come next. Fuck Activision. Pirate their games and make sure to pirate BO3 ;)",0.8379510045051575,78,True
+311210,203582088,76561198121849877,"5/5
+
+Great game but paying $60 for a game thats 10 years old is crazy. In 10 years you cant drop the price at all?
+
+I'm not going to recommend a game that you have to wait to go on sale or acquire through different means.",0.8355574011802673,283,False
+311210,224241030,76561199171795941,"Thanks Activision we definitly needed an update to this 10 year old game to brick tf out of it so that we can move on to your newer, crappier, and more boring games. Thanks but I'll keep milking this COD and only this COD forever.",0.8334630131721497,55,True
+311210,129060985,76561198389696706,This is THE game to own if the zombies mode is your jam. Loads of free user submitted maps and mods that are as good or far better than treyarch made maps. Don't hesitate and get this game......Be like NIKE and just do it ;),0.8257527351379395,63,True
+311210,216554761,76561198102302476,"Fun game when it works but Hackers broke the online experience.
+
+Edit: They literally updated the game on February 19, 2026 but they didn't make the multiplayer any safer to play without the T7Patch. WTF are we doing here... If you are going to actively update the game, then fix the security issues! Its absolutely insane to charge $60 full price on a game from 2015 when players are risking their hardware security playing this.",0.8230493664741516,78,False
+311210,224931268,76561198094495170,"Use T7Patch if you want to play Online, improves FPS too. 
+Custom Zombies is peak! Use All Around Enhancement Mod for a flagship experience.
+Stupid Activision for keeping this game at $80. Either wait for a sale or use ezBOIII client to play for free",0.8225516676902771,50,True
+311210,233605469,76561198149401778,"This review is all about Call of Duty Black Ops 3 Zombies. I’ve had this game for about 5 years now, and I still have a blast playing Black Ops 3 Zombies. The best part is the workshop maps and how the community keeps the game alive, even though it's over 11 years old. My favorite workshop map is called “Dead of High.” People are still making new maps, and it’s awesome that YouTubers like the Vanoss Crew still play it. If you're into zombie games, I definitely recommend waiting for a sale, like the winter or summer sales, because Activision won’t drop the price, even for this old game. I also want to play Call of Duty Black Ops 1 zombies since it's super nostalgic for me, but they’re still charging around 30 or 40 bucks, which is kinda ridiculous.
+
+The game runs great for me and has some really cool mechanics on custom maps that people create. Just be careful with public matches in zombies because you’ll run into some modders. They might give you maxed-out levels, but some of them are bad apples there. I remember hearing about modders being able to grab your IP and dox you, so it’s best to be cautious when jumping into public matches. USE VPN!
+
+Overall, if you’ve been inspired by your favorite YouTubers or friends telling you to get it, I’d say go for it! The custom maps are awesome, the community keeps everything strong, and just remember to snag it on sale. I would never pay full price for it since the company is kinda greedy and hasn’t had the best luck with new game releases lately, especially with the buzz around Modern Warfare 4, which I don’t even play, but it's interesting to see how the community reacts.
+",0.8222719430923462,53,True
+311210,71402455,76561198313898301,"I adore this game for zombies but 50 bucks (on sale) just to enjoy the whole zombies experience on a 5 year old game that’s not very active 🖕
+Get it on sale obviously",0.9208472371101379,265,True
+311210,72228738,76561198373992091,"The game is fun don't get me wrong, I pretty much just play it for zombies and I just think that considering the game is 5 years old at this point it really shouldn't be priced where it's at. Too expensive imo",0.9201595783233643,355,False
+311210,135962600,76561198124949585,"[b]Campaign:[/b] Go Boom. If you don't get that reference, you should be counting your lucky stars you never played this godforsaken storyline. A couple interesting nova 6 + Menendez tie-ins.
+
+[b]Multiplayer:[/b] My favourite of the 3 black ops. Good movement, great progression, and interesting specialists to play. Kind of dead now, and quite a few hackers, but at least your IP won't get stolen anymore.
+
+[b]Zombies:[/b] An unbeatable experience; infinite FREE content with the insane modding community. This is the reason 99% of people buy BO3 now adays and is the reason people play it over the more modern call of duties.",0.8176591396331787,61,True
+311210,113884369,76561198960055399,"tips: scroll down and press ""manage my dlc"" and remove the multiplayer and the campaign.
+
+you have now saved 40gb of space.",0.9653709530830383,1018,True
+311210,224489923,76561199076294348,The goat. Do not play this game without downloading whatever the current patch is,0.8138711452484131,47,True
+311210,217050221,76561199088031245,It is a great game just make sure you download the boiii client from alterware. Its called T7x and it prevents you from getting hack or whatever because this game is not secure without it or the T7x patch which I have not used.,0.8131574392318726,39,True
+311210,115927804,76561199231247121,"I worked a 12 hour shift for 4 days straight and didn't show up for the fifth and got fired. I spent my last $100 on this game and don't regret it. There is nothing better than killing Nazi's. It helps me get my anger out and helps me forget about my ex and my job. I sometimes take my anger out on 13 year old kids on cod but zombies is just so much better. There is nothing better in the world than taking some kids ray gun, its better than a gold scar. The screams and crying makes my game experience so much better. 10/10 would recommend.",0.8124476075172424,73,True
+311210,215093838,76561198183714341,"DO NOT PLAY THIS WITHOUT THE T7 PATCH OR A CLIENT!
+Black ops 3 is still phenomenal if you're a die hard zombies fan the amount of maps is crazy especially factoring in custom maps off the workshop personally the multiplayer or campaign in this one never did it for me but one man's trash is another man's treasure, just know this before you buy this game, it has a rough reputation on pc due to rce exploits and hackers that can dick with your pc so for that reason make sure to use either the t7 patch or one of the many modded clients that are out there to play this, if you're on Linux or steam deck I recommend t7 as its litterly as simple as dragging and dropping some files and you're done but yeah provided you jump threw those hoops first bo3 is still an absolute banger of a game that dogwalks basically any cod game made in the last 8 years 10/10 you should absolutely play it!",0.8081879019737244,46,True
+311210,200322763,76561198396974073,Why in gods green earth is this game from the Obama administration sixty United States dollars in the year of our Lord 2025... not to mention the hackers. Activision can die off already,0.8078577518463135,256,False
+311210,104032022,76561198143523497,"Black Ops III. I have mainly only played the zombies of it, but i have enjoyed the hell out of it, especially the custom maps. Even if this game didnt have custom map support, it would still be really fun.
+
+DISCLAIMER: This ranking is pretty much only for zombies, but some things (Grind, Audience, Gametime etc) are also transferable. 
+
+Gameplay-
+☑  Very good
+☑ Good
+☐ Okay
+☐ Bad
+☐ Nothing special
+
+Graphics-
+☐ Masterpiece
+☑  Beautiful
+☐  Good 
+☐ Will do
+☐ Bad
+☐ Awful
+
+Audio
+☐ Amazing
+☐  Very good
+☑  Good
+☐ Decent
+☐ Not too bad
+☐ Bad
+
+Audience
+☐ Kids
+☑ Teens
+☑ Adults
+☐ Everyone
+
+Difficulty -
+☐ Just press a bunch of buttons
+☐ Easy
+☐ Significant brain usage
+☐ Easy to learn / Hard to master
+☑ Not so easy
+☑ Difficult (EE, but fun difficult)
+☐ Dark Souls
+
+Grind-
+☐ Nothing
+☑ Only if you care about leaderboards/ranks
+☑ Isnt necessary to progress
+☐ A bit grindy sometimes
+☐ Average grind level
+☐ Too much grind
+☐ Insanity
+
+Game Time-
+☐ Short
+☐ Average
+☐ Long
+☑ Depends on you
+☑ Endless
+
+Price
+☐ Just buy it
+☑ Worth the price
+☑ Wait for sale
+☑ Maybe if you have some spare money left
+☐ Not recommended
+
+Overall, 8.5-9/10",0.8066108822822571,84,True
+311210,206506559,76561198121609860,10+ year old game long abandoned still at full price should be illegal. Zombies is one of the best in the series since it includes almost everything that came before. Please don't spend over $100 on this. Get it for sale or yar har it.,0.8039186596870422,60,False
+311210,191323242,76561198062771062,"The best Call of Duty Zombies of all time. A near flawless map roster, great mechanics, and the inclusion of the Steam Workshop gives the game endless replay ability. This game is worth the full price just for the Zombies alone. Revelations is the only ""weak"" map I would say but given the sheer amount of wonder weapons and things to do on that map, once you start a game and get into it, it can be very fun too. This truly was the peak of Zombies in my opinion.
+
+The Campaign, not so much.",0.8037275671958923,47,True
+311210,155733420,76561199369258242,"*DO NOT OPEN ANY COD PRIOR TO IW*
+They took away Xlabs, Sm2, and soon will take away Plutonium which are all the ONLY safe way to play these older CoDs.
+Opening any CoD prior to IW will result in a chance for people to gain access to your pc. 2 security breaches are known:
+CVE-2018-20817
+(SV_SteamAuthClient in various Activision Infinity Ward Call of Duty games before 2015-08-11 is missing a size check when reading authBlob data into a buffer, which allows one to execute code on the remote target machine when sending a steam authentication request. This affects Call of Duty: Modern Warfare 2, Call of Duty: Modern Warfare 3, Call of Duty: Ghosts, Call of Duty: Advanced Warfare, Call of Duty: Black Ops 1, and Call of Duty: Black Ops 2.)
+CVE-2018-10718
+(Stack-based buffer overflow in Activision Infinity Ward Call of Duty Modern Warfare 2 before 2018-04-26 allows remote attackers to execute arbitrary code via crafted packets)
+These are some things they can do even if you just boot up the game and get to the menu:
+Hidden Remote System Access
+System Information
+File Manager
+Hidden Desktop Usage
+Monitor on/off
+Hidden Browser Usage
+Open/close CD
+Hidden Chrome Usage
+Show/Hide taskbar
+Start Up Manager
+Hidden Firefox Usage
+Show/Hide Start Button
+Task Manager
+Hidden Edge Usage
+Show/Hide Explorer
+Remote Shell Usage
+Show/Hide Clock
+TCP Connection
+Show/Hide Tray
+Reverse Proxy
+Show/Hide Mouse
+Registry Editor
+Hidden Explorer
+Enable/Disable TaskMgr
+UAC Exploit
+Enable/Disable Regedit
+Disable WD
+Disable UAC
+Format All Drives
+DDOS attack
+Audio recording
+Webcam recording
+Device information
+Process hollowing
+Credential stealing
+Discord token stealing
+
+Report every older CoD as harmful and put those 2 CVE's under the description why.
+Write negative reviews to warn others not to spend any money on these CoDs (which are mostly overpriced for how old they are as it is)
+We need to take these CoDs from ""Positive"" or ""Mostly Positive"" to mixed or mostly negative",0.9008106589317322,358,False
+311210,110593582,76561198097671495,"At full price, don't do it. Wait till a sale if you must try this. 
+Heads up though, even if Steam says 5000+ are in game, they are not on multiplayer, they are mostly playing Zombies. 
+If you want multiplayer, you are more likely to get struck by lightning twice than getting into a match.
+If you like Zombies then you should be happy (but not at full price, no reason to pay that much for 1/3 of a game).",0.797846257686615,60,False
+311210,219940177,76561198314700426,best cod zombies ever. no debate. 19/10. missing one point because the game franchise is owned by morons and they'll never make a good zombies again or give us what we want :sob:,0.797391414642334,42,True
+311210,67271765,76561198287518386,"call of duty zombies at it's finest. should only buy this game if you're into the zombies mode, as custom zombies is at its peak in black ops 3. Only caveat is that this game be pricey as hell, so try to cop this game on sale (even then it'll be pricey for a near 5 year old game)",0.8427733182907104,77,True
+311210,59700428,76561198145572270,Don't bother with multiplayer. If you are gonna buy this game its probably for the zombies only.,0.8926563262939453,188,True
+311210,139958710,76561198048318008,I bet they still charge full price for this. Get it on sale and play zombies with friends.,0.8396959900856018,125,True
+311210,237336980,76561198126652558,"[b]Fetch me their souls![/b]
+
+Zombies is easily the highlight for me. The base game already offers a great experience, but the Zombies Chronicles DLC makes it even better. Workshop integration is another huge W, giving players easy access to awesome custom maps and mods. Another thing that surprises me is how well the game has aged. The graphics and sound design still hold up incredibly well today. Multiplayer was a ton of fun back in its prime, although I can't really speak for its current state. I haven't touched the campaign yet either, so I can't give an opinion on that. 
+
+Highly recommend picking it up if you're a fan of Zombies, as well as the Chronicles DLC. You should wait for a sale though, because Activision is greedy...
+
+[h1]9/10[/h1]",0.789193332195282,33,True
+311210,213969655,76561199348463516,"RIP Vince Zampella (1970-2025)
+
+I wasn't able to afford any of the games when i was little or play any do to my families beliefs but i would always watch the campaigns and funny videos of creators who play every COD game and he brought us such joy and amazing gameplay with these titles. We will miss him and he will always be part of our childhood. RIP Vince, and as always Press F to Pay Respect",0.7868742942810059,60,True
+311210,22591585,76561198014766672,"Call of Duty: Black Ops III is a game which I was actually thoroughly enjoying. The gun play and new mechanics added an interesting twist on the Call of Duty series. 
+
+I am however not going to write this as a positive review, simply because the game has marked me as cheating. Firstly I haven't even touched the multiplayer mode of Black Ops III - anyone who reads my reviews or checks my profile will see I have absolutely no interest in the multiplayer side of this type of game.  I was playing the single player campaign, in offline mode.  
+
+Secondly, I wouldn't even know HOW to cheat, even if I wanted to. But one matter which really irks me is, even if I was cheating in single-player mode, why would anyone get a ban for that in the first place? Surely bans from playing multiplayer games should come when you play multiplayer? People who know me will know I am not that sort of person, where as people who read this will probably think I am just throwing my toys out of the pram. Believe who you wish at the end of the day. Heed my warning though. 
+
+Due to the lack of any support from Steam or Treyarch themselves, this will be the absolutely last Call of Duty game I ever buy, review, or even lay my eyes on.  After doing some research into the matter, many people have been experiencing this issue, even people who play online, who just happen to be on a server with a cheater have received a ban as well. 
+
+I'm sorry Treyarch - take your game back to the consoles.
+
+[b][u] Tom's Score Card[/u][/b]
+[b][u]1) Stay away[/u][/b]
+2) Not Recommended
+3) Only recommended when on sale
+4) Recommended
+5) Highly recommended
+6) This is a must play
+
+If you found this review helpful, please give it a thumbs up. If you would also like to follow my reviews more easily, be sure to join my group by clicking [url=http://steamcommunity.com/groups/TeamTomsReviews#curation]here[/url].",0.8326507210731506,1471,False
+311210,182106954,76561198010945928,"still amazing, especially when on sale, if only for zombies.
+start with the basic zombies chronicles edition, then buy the season pass later if desired.
+make sure to use T7 patch.",0.7800360321998596,42,True
+311210,171335625,76561199641455620,"call of putty black frogs the third is a game about overspending on a release from a decade ago that should include all dlc at that price but does not, selling (or god forbid accidentally buying) a 'multiplayer starter pack' for a dead multiplayer game which should be illegal considering if you connect to it your computer gets hacked by any kid who can go on github or malicious hacker that wants to nab you and add u to their botnet or steal your credit card like its full on remote access tools... and like nobody plays.
+
+its also a game about having to run a community patch to play the game on modern operating systems to MAYBE avoid that rat. its also about lacking multiplayer dlc maps that came to consoles with a pre order of bo4 since bo4 never came to steam.
+
+its also unfortunately fun.",0.7747988104820251,57,True
+311210,230301833,76561198770876792,"10 years later and its still the best cod 
+
+-thats a sad thing ngl :/",0.7731109261512756,41,True
+311210,120857763,76561198849882872,Best zombies to exist in any cod.. why did it go down hill after this game :(,0.8721767067909241,196,True
+311210,234413371,76561199015737072,"Love the game, great to play for chill sessions.
+Please make sure to download t7 patch before playing however.
+Until we don’t need to use t7 patch to play safely, this will stay negative.
+
+Edit: forgot to mention that every few months or so they’ll “update” the game, not anything that fixes the rce exploit, only to condemn the game by making the t7 patch incompatible for the millionth time.",0.7716053128242493,55,False
+311210,19046582,76561198039843064,It only took until 2065 for soldiers to finally learn how to swim in multiplayer,0.8149611353874207,2323,True
+311210,146543838,76561198449172354,"[h1] THE ULTIMATE ZOMBIES EXPERIENCE ! [/h1]
+
+The only reason I recommend this game, even this long after the release is because of the zombies. This game is hands down the ultimate Call of Duty Zombies experience and I don't mean the regular zombies. 
+If you're buying this game today:
+It's not because of the campaign, it sucks ass. 
+It's not because of the multiplayer, it's broken, don't touch it unless you want to be brutally hacked and have your personal info leaked.
+
+It's because of the zombies, and more specific: [b]The Ultimate Experience Mod[/b] for the zombies mode. 
+It's one of the best things to happen to the zombies community within CoD since the initial release back in World at War. Pure love and you definitely have to get it, there is no going back after playing it. 
+
+If you're buying this game for the zombies, get the mod! You will not regret it. 
+
+[b]Important links for this game: [/b]
+
+[h3]T7 Community Patch by serious: [/h3]
+https://github.com/shiversoftdev/t7patch
+
+[h3]The Ultimate Experience Mod website: [/h3]
+https://ultimate-experience-mod.com/
+
+[h3]Ultimate Experience Mod Discord link: [/h3]
+https://discord.gg/6QHyj7hkkA
+
+[h3]Ultimate Experience Mod by Sphynx: [/h3]
+https://steamcommunity.com/sharedfiles/filedetails/?id=2942053577
+
+[h3]Only buy it for the zombies and buy it once there is a sale for 60% or more for the complete game with the zombie DLC maps. Never pay full price for a game this old! 
+
+[b]Enjoy![/b][/h3]
+
+https://store.steampowered.com/app/311210/Call_of_Duty_Black_Ops_III/
+
+[hr][/hr]
+
+[i][b]Thanks alot for all the rewards and that you all think the review in question is helpful. Makes me really happy, and It's my first review to go ""viral"". 
+I appreciate all of you![/b][/i]",0.9131178855895996,130,True
+311210,72190683,76561198884493788,"Campaign: 6/10.
+Multiplayer: Would be 9.5/10, but it's unplayable, so 1/10.
+Zombies: 11/10
+
+Zombies is realistically the only reason to buy this game anymore. You can't get into multiplayer lobbies, and campaign is lacking in comparison to other games within the ""Black Ops"" series. At least zombies makes up for this and is well worth the DLC money you pay for. Plus custom maps are a whole new experience.",0.812569797039032,63,True
+311210,188302047,76561199144556237,"This is one of the best call of duties to date, from amazing multiplayer (Security risk has been patched and its safe to play) and incredible zombies with so much mod support and endless replay ability this game does it all well for the most post here Is my quick break down and if its ACTUALLY worth the 60$ as unbiased as possible.
+
+Pros
+- Zombies is amazing and nothing but fun with friends or alone maps range from easy to impossible.
+-Mod support is INSANE and the community never stops making maps and so much more.
+-Multiplayer is amazing and does not feel pay to win and it rewards you for playing
+-Co-op campaign, while the story is okay at best you can still play with your friends if your looking for something different 
+-Game is still active with players and decent community.
+
+Cons
+-The game is dated, this is not a brand new call of duty where people are still grinding or lower levels etc.
+-People have been getting bugs and common issues on start ups (personally have never had any)
+-60$, the biggest issue in my opinion, this game is older wait for a sale 60$ for a game that should be 40.
+-Past security risks (has been patched and fixed as of Feb 2025)
+
+Overall the game is amazing and is beyond fun if playing alone and even funner with friends i cant get enough of this game no matter how many years it has been since the PS4 days, but wait on a sale. 60$ is not justifiable anymore for a game with the bugs people have been stating overall the game is fun. If you cant wait for the sale you cant go wrong regardless.",0.7596932649612427,30,True
+311210,114202672,76561198074910113,"My review is mainly going to cover Zombies because I really can't be bothered to even try and play the campaign and multiplayer.
+
+It may not have the look and feel of OG WaW and BO1 zombies, but it's truly just as good, if not better. The first time I turned the electricity back on in Kino der Toten really brought me back to playing BO1 splitscreen with a friend on the Xbox 360 more than a decade ago. My nostalgia glasses are on nice and tight and I have absolutely no shame in that. The BO3 zombies experience is truly amazing as a time killer and even if you want to go all out and look for easter eggs and the sort, as well as hanging out with a couple of friends to chill and try to get to the highest round possible, probably the best way to kill an hour.
+
+Double pack a punch, gobblegums, new wonder weapons, every major WaW and BO1 maps (except Five, rip) all around great map designs just make this the absolute best way to experience zombies for the first time.
+
+10/10 would shoot myself with the raygun on accident again",0.8077958822250366,50,True
+311210,220094554,76561199048665597,Talking to Valve and Steam directly. Why is this game still on your store page when everyone is being hacked playing it? The first step would be removing the purchase so activison actually does something about it. Someone needs to do something.,0.7573592066764832,68,False
+311210,53980305,76561198053219298,"Zombies is fun, but Activision doesn't care about your satisfaction. I bought the base game, and when the Zombie Deluxe edition went on sale, I wanted to buy it so I could complete all the DLC zombie maps.
+
+But Hey! If you own the base game, you CAN'T buy the cheaper bundle. To make it abundantly clear all they want is your money:
+Black Ops 3 + Zombie Chronicles + Season Pass = $50 USD (50% off of normal $100)
+Zombie Chronicles by itself = $21 USD (ONLY 30% off of normal $30)
+Season Pass by itself = $40 USD (FREAKING 20% off of normal $50)
+
+What does this mean? If you own the base game, it's CHEAPER to delete Blops 3 from your library and buy the bundle, than buying ZC and Season Pass individually. What a fucking scam.",0.8068335652351379,76,False
+311210,223276971,76561199136635080,"Really good game, only worth it really for the zombies/custom maps, otherwise if you want multiplayer you should use clients like BOIII or something like that, campaigns mid asf tho.",0.7558202147483826,31,True
+311210,178425195,76561198143590029,"20/10 game. Worth every dollar. Sadly we'll never get a round base zombie experience this good again. After you play all the regular maps, you can play the countless handcrafted maps that blow Treyarch's out the water. Also the graphics hold up, even in todays standard. :)",0.7532932162284851,31,True
+311210,69491893,76561198172727981,I can play as Kermit The Frog while t-bagging on the corpses of anime girl zombies. 11/10.,0.8503408432006836,87,True
+311210,195984673,76561198093676402,"This review is mainly of the Zombies mode of this game as that is what I bought the game for, if you are buying it for the Zombies mode, the ""Zombies Deluxe Edition"" is the best bundle to buy. Black Ops III is the gold standard for a solo round-based zombies game, even in 2025 IMO. Between the Treyarch remakes of classic maps and the stellar community made maps like Leviathan, Shoot haus, and the numerous remakes of classic maps this game easily has hundreds of hours of replay-ability in Zombies mode alone. I bought this game during one of the many sales that it is in, but would have happily payed full price for it. It has been years since I played the campaign but it was great nonetheless, as was multiplayer, which I'm not sure is still active. This game is a must have for anyone that loves zombies games, especially traditional round-based style games. Easy 10/10 for this game even as someone who loved Call Of Duty but has been disappointed with recent installments, especially the most recent ""Zombies"" modes.",0.7500115633010864,24,True
+311210,155007069,76561199522157556,"Game is carried by its zombies and mods, multiplayer is riddled with hackers and campaign is trash.",0.749617874622345,40,True
+311210,199818953,76561198133143566,"[h1] This game was once a massive hit, and it still actually is.[/h1]
+
+Call of Duty: Black Ops III was a game that had it's peak for a very long time until it got abandoned by its playerbase... If we are talking about the Multiplayer.
+
+You had a very advanced arcade 'n shoot mechanic that worked flawlessly and was satisfying each time you used it to kill the opposite player, the graphics were really ahead of its time back in 2015, literally beating Battlefield 4 at that time and the overall gameplay was just a blast. A lot of clips were made and legends were born that year... until... everything just came to an end. 
+
+Now when you try to boot up the game on its own, trying to hope to get a match, you would literally risk yourself getting DDosed and even hacked on your System by another player and the only way you would be able to bypass this problem is through a tool called ""T7"", which did work but the hassle needing to get a specific software just to keep playing this game and STILL getting cheaters almost each round was basically just not worth it anymore. 
+
+So if you want to get this game to play the regular multiplayer, I would not only say that it's not worth it but also it's advised that you don't do that.
+
+The devs and the publishers literally just abandoned this game like they would nowadays almost each year.
+
+[h2]So why is it that I'm giving this game a thumbs up?[/h2]
+
+The answer is very simple, [b]Zombies[/b].
+
+They have left us with a very huge gift that made this game still be an absolute hit, and that is Steam Workshop support! You read it right, this game literally has [b]Workshop support[/b] that you can use to simply download any modded content and play it as much as you want and the best thing is that it can also work on Linux! (As a proud steam deck user myself, this is indeed a welcoming surprise)
+
+From all the Zombies that I have experienced in the series, this by far is the best that you can still get, especially because of the workshop support. The gameplay is just smooth, the vanilla content for zombies is also massive, the graphics make things pop up even in today's standard and most importantly, the game is just very well optimized. As I mentioned above, you could literally play this game on the steam deck with around 50-60 FPS on intense waves if you wanted to. And with being able to do modded stuff, if you would be out on a trip for weeks your content could be enough for even MONTHS.
+
+[h2] Is the campaign also worth it?[/h2]
+
+People also asked about the singleplayer and what I thought of it myself, and I must say, it wasn't as bad as people made it out to be. The story itself was actually good and you could have a good time through it, of course it was getting a bit confusing, especially on later scenarios, but if you would follow the plot, it can still be a pleasing trip. Compared to previous Black Ops titles though, this felt least fleshed out on the main character.
+The main plot of the story however can still go deep and can come with it's own meaning towards the player, in fact when I played the series myself, I actually felt closest to this game's story telling than the others.
+
+If you already got the game for the Zombies, I think you should also at least try out the campaign too.",0.7485669255256653,31,True
+311210,227982421,76561198032798314,"Best cod zombies experience, get the zombies chronicles dlc. Even if you get tired of that you have steam workshop with thousands of new maps, weapons and other stuff",0.7977667450904846,49,True
+311210,207666453,76561199105284492,"after 10 Years one of best call of duty in world
+i play console ps4 first time
+zombie legendary 
+multiplayer  absolute cinema
+camping is mid 
+but memory is always never forget 
+i miss old days",0.7468447685241699,37,True
+311210,192150386,76561199369741399,"Zombies:
+
+---{ Graphics }---
+☐ You forget what reality is
+☑ Beautiful
+☐ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{ Gameplay }---
+☑ Very good
+☐ Good
+☐ It's just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ Audio }---
+☐ Eargasm
+☑ Very good
+☐ Good
+☐ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{ Audience }---
+☐ Kids
+☑ Teens
+☑ Adults
+☐ Grandma
+
+---{ PC Requirements }---
+☐ Check if you can run paint
+☐ Potato
+☑ Decent
+☐ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{ Difficulty }---
+☐ Just press 'W'
+☐ Easy
+☑ Easy to learn / Hard to master
+☐ Significant brain usage
+☐ Difficult
+☐ Dark Souls
+
+---{ Grind }---
+☐ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☑ Isn't necessary to progress
+☐ Average grind level
+☐ Too much grind
+☐ You'll need a second life for grinding
+
+---{ Story }---
+☐ No Story
+☐ Some lore
+☐ Average
+☑ Good
+☐ Lovely
+☐ It'll replace your life
+
+---{ Game Time }---
+☐ Long enough for a cup of coffee
+☐ Short
+☑ Average
+☐ Long
+☐ To infinity and beyond (if u play it with mods)
+
+---{ Price }---
+☐ It's free!
+☐ Worth the price
+☑ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{ Bugs }---
+☐ Bugs? (I dont even know what is that mean)
+☐ Minor bugs
+☑ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{ ? / 10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☐ 7
+☐ 8
+☑ 9
+☐ 10
+☐ 11",0.7464253902435303,45,True
+311210,181604960,76561198828962158,Insane that a vulnerability issue for online play is just left unpatched for a game still full priced for most of the year,0.8455173373222351,106,False
+311210,110017861,76561198373732700,"BO3 is probably the best COD Zombies game to date. Its maps are timeless, the primis crew is as entertaining as they've ever been, the wonder weapons feel satisfying to use, and the custom maps are unlimited content. If you're gonna buy this game, don't get it for the multiplayer cause its on life support, get it for the zombies instead. BO3 is what brought me back to zombies, and it'll be what gets you hooked to zombies.",0.7438229322433472,41,True
+311210,234945080,76561198339573201,"> game goes on sale
+> a friend buys it
+> we try to play together
+> game updates so t7 doesn't work
+why are y'all still updating the game and preventing safe methods of playing from being used?",0.7435207962989807,38,False
+311210,193466957,76561198146274387,"i've been a fan of Black Ops 3 for years, but the PC experience always had frustrating quirks until now. The recent updates have addressed nearly every major issue:
+
+    Security Fix: The game is safe to play again. No more worrying about exploits. Huge relief for anyone who enjoys Zombies or multiplayer.
+
+    Steam Friend List Crash Fixed: I have a massive friend list (hundreds of friends), and previously the game would stutter or crash trying to load the social menu. That's completely gone. It's impressive that the devs finally tackled this, especially since many other Steam games still struggle with this.
+
+    Main Menu Performance: No more annoying FPS drops on the main menu. Navigating between Zombies, Campaign, and Multiplayer is buttery smooth.
+
+    TI7 Patch No Longer Needed: The community-made TI7 patch was a band-aid for years. Now, the game runs flawlessly without any third-party fixes.
+
+If you own this game, reinstall it. It feels like a brand new experience. Thank you to the team for circling back and giving this classic the polish it deserved.",0.7432056069374084,34,True
+311210,185571121,76561199004421942,"Black Ops 3 IS a great game, however it's arguably one of the worst games you could play through Steam.
+You'll know this already from the other reviews but the RCE and RAT issues aren't just annoying or tedious, depending on who you are they're absolutely DANGEROUS.
+
+Play with the T7 patch and Boiii/T7x client if you absolutely can't live without BO3
+
+I refunded my one because my PC wouldn't let me play on the client for some reason, probably my own issue tbh, but I'll be buying again to get into modding and making custom MP maps for people like me who love offline bot gameplay. Plus the new clients are worth trying.
+
+BUY ON A SALE AND USE EXTERNAL CLIENTS/PATCHES, DO NOT spend £45+ on this 10 year old RAT riddled game. If the RCE/RAT issues weren't present I'd still say the asking price is absurd but with the issues it has the price is downright criminal",0.7430819869041443,76,False
+311210,172326606,76561197993698973,"imagine charging $90 AUD for a 10 year old game that is riddled with security exploits that can get your PC literally infected with malware and then acting like ur the good guy for issuing a C&D against a community mod that seeks to resolve all that shit, ON THE DAY OF ITS RELEASE.
+
+Activision was once a great publisher. Last time I could say that was true was maybe 2007. Now they are the height of corporate greed and apathy. Fuck them.",0.7917488217353821,52,False
+311210,206752845,76561198299338015,"Hours Played: 900+ (not even counting console hours, heheheh)
+
+Even with just The Giant and Zombies Chronicles, BO3 Zombies is easily the best version of Zombies ever made. The gunplay feels tight, movement is smooth, and every map looks amazing.
+
+What really makes this game shine though are the custom maps. The community has made thousands of them — some are better than official ones. It’s endless replayability, and that’s not an exaggeration. You can boot it up any night and find something new to play.
+
+Sure, GobbleGum RNG can be annoying and the netcode isn’t perfect, but that doesn’t matter when you’re knee-deep in zombies with a Ray Gun and a death wish.
+
+Rating: 10/10 – Still feeding the dragons after 900 hours.",0.7413323521614075,34,True

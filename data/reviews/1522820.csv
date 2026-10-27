@@ -1,0 +1,881 @@
+appid,recommendationid,author_id,review,weighted_vote_score,votes_up,voted_up
+1522820,96372208,76561198091535899,"Amazing game don't be put off by others. 
+
+Very similar to the others but that's not a bad thing.
+
+If you're like me and want more than 60fps you will have to change it manually which is a bit of a nightmare but it's easy to do. Just do the following;
+
+1 - Go to the below directory
+
+C:\Users\[USERNAME]\AppData\Local\Robot Entertainment\Orcs Must Die! 3\Saved\Config\WindowsNoEditor\GameUserSettings.ini
+
+If AppData doesn't show up, go to ""View"" at the top and check the ""Hidden Items"" box. Alternatively, open WIN+R and type ""%AppData%"". Go back one folder and go into ""Local"".
+
+2 - Open this file in Notepad
+
+3 - CTRL+F -> Search ""Frame"" -> ""Find Next"" until you reach ""FrameRameLimit""
+
+4 - Set this value to your desired Frame Rate (e.g. 120, 144, 240, 360)
+
+5 - Save the file and close -> Right click ""Properties"" -> Set to ""Read Only""
+
+<3",0.9351950287818909,358,True
+1522820,128617408,76561197984580201,"This is a tough one.  I avoided the Unchained disaster entirely, waited for Steam release for OMD3.  It feels more like a subexpansion of OMD2 more than anything.  The new things they try end up hindering the game in my opinion.  As one other reviewer mentioned, its less an action tower defense game with some 3PV action, more of a full 3PV action game, with a few towers to support.
+
+I played the previous ones and many others as a strategist, I like to set up funnels, kill boxes, and trap layers that handle the mobs for me - minimal help from me needed.  OMD3 does not permit this.  As a matter of fact, many early waves on many maps you simply have too little resources to even set up a basic trap box and you have to take out the entire wave by yourself.  Not a terrible thing, but not a thing many Orcs! players likely would have wanted in a sequel.
+
+They don't give enough resources, and the traps for the large part are underpowered.  The devs seem to really want you to engage in high intensity close combat personally and I don't like that.  The winning combo for me was tar, blockades and archers.  Everything else is superfluous.  You get an area where you can slow them down and the archers will machinegun them to death.  
+
+I remember OMD2, needing to stagger and layer traps, with a variety, to deal with mobs with chain combos, all that seems to be forgotten here.  To futher make this an action game and not a tower defense game, many maps are simple and non-combinable.  Meaning each source of mob has its own lane, and you have to deal with them seperately.  Few are the maps that allow for proper channeling, funneling, cross killing and narrowing attack avenues.  There are even maps that have spawn points very near the rift, giving you very little time and room to deal with them. 
+
+That seems to be where the challenge primarily lies in this game.  In having to run from one lane to another, often right next to the rift, and shoot or cut down the mobs yourself, rather than letting the traps handle it.  More fortnighty than a true TD - even an action TD in execution.  
+
+The story is meh.  You get a cutscene here or there, some before map dialog, but thats really it.  The primary campaign is supposed to be about this ancient defender who was abandoned in orc territory and turned evil and is returning for vengence.  You see him on a cliff in the last mission and then he esplodes if you win.  Thats it.  Thats the whole thing.  Underwhelming.
+
+To me this feels like a game that was rushed through production, for whatever reason.  Maybe Unchained was such a bomb, they needed profitable product out fast.  Maybe they had to rush to be a Stadia (lawl) launch title.  Doesn't matter.  Its a game that feels like corners were cut and design/mechanics principles were abandoned in favor of a quick turnaround.  Just my feeling on things from playing.
+
+There are some positives.  The war scenarios and warmachines are NOT one of those positives.  They can only be used on specific maps and only in specific places, and are very expensive.  You are better served to use normal traps in normal areas, and massacre like a true war mage.  Scramble mode is great though.  Scramble mode is an Ironman endurance match where you have to play 5 maps back to back, each successive map adds a penalty and a bonus, and you have some choice about them.  Its a terrific mode for replayability and interesting experiences.  I got bonuses once for deadlier traps, cheaper traps with penalties for dying and it almost felt like a real OMD experience - putting out many traps, staying out of danger for the most part and letting my machines do the work.  
+
+Bottom line, its a lesser version, a shadow, of OMD2.  There are a few new ideas, most fall flat.  It shifts the pendulum from trapping to avatar action (shooting/slicing/magic), so if you're wanting good tower defense gameplay, go elsewhere.  If you're a fan of the series, getting this on sale is a good move.  If you like simple 3rd person action against hordes of mobs, this is for you.",0.8883095979690552,322,False
+1522820,127237496,76561198011802490,"OMD3 is not a bad game, but it does not compare to OCD2 and that is a shame.
+
+First off depending on your GPU ( running a RTX3080 ) there's a good chance it will max it out despite just running in 60fps despite the primitive cartoony graphics ( your electrical company will love you ) - so I hope you like to listen to your fans run at max for hours..
+
+Second and more importantly the maps are not trap-based - you constantly have mutlple enemy spawn locations close to your rift with very few options to make the killboxes that the first 2 games were all about - WHY?
+
+Thirdly you don't get enough money to build up your trapzones - when playing endless don't even expect more than 3seconds between waves so good luck selling and building before under attack again - and when enemy arches keep blowing up your blocks that is where your money will go in an endless cicle of frustration..
+
+No workshop support either btw :(
+
+So I'm finding myself stuck using archers in drowes because you simply do not have resources enough to make good trap-setups and all the time playing ( the campiagn is short and endless is limited ) I wish I was playing OMD2..
+
+Honestly just play OMD2 it's a better game in all ways!",0.8875890970230103,365,False
+1522820,101099150,76561198032340673,"As a big fan of OMD 1 and OMD 2, this game feels like a very expensive DLC. It also takes the game further away from the tower-defense genre, and further into FPS. There is almost no new towers in OMD 3.
+
+The voice acting is considerably worse than in the older games. I like the overall plot, but it failed to translate into cool traps. I finished the first campaign, and I'm unlikely to play it again.
+
+Was it worth the buy? Meh, maybe. I got 10 hours of fun out of it, but compared to the older games; it's a bust.",0.880685031414032,211,False
+1522820,112057427,76561198073323913,"[h1]EDIT:[/h1]
+As of v1.2 some of the weak trap problems were addressed buffing some traps and reducing the price of others. It doesn't solve all problems, but it certainly made the game more enjoyable and the learning curve less steep.
+
+[h1]💬Forewords:[/h1]
+It frustrates me to have to write a negative review about a game in a franchise I like so much. But I do it to vent out some of my annoyance with the changes they've done to the game compared to Orcs Must Die! 1 and 2.
+
+[h1]📉""Balance""[/h1]
+This is the reason this game feels so unfulfilling. It seems like the game was tailor made to be less rewarding and less pleasant than it was before.
+
+A lot of traps are unbalanced and many are so weak/expensive that they just don't cut it for Rift Lord, the highest difficulty (just to name a few: Decoy, Swinging Mace, Acid Geyser, Floor Scorcher). Nerfs when they happen usually make traps near useless while buffs are so meager they barely help change anything at all.
+
+Weapons suffer from lack of balance too. Only a handful are worth using in higher difficulties and some are so weak they're not even worth considering (Elven Shortswords, Alchemist Satchel). Even weapon Mana Regen is completely absent.
+
+The game does its darnest to counter the use of certain traps (Arcane Dragon and Saw Blade Launcher) for no reason other than the ""balance"". Such thing did happen before, but not the extent of OMD!3.
+
+Characters have just marginal differences between Health and Mana, but no special trait beyond a small mobility skill triggered by double jumping, so all of them feels ""samey"" to play and nothing helps you try out new playstyles outside your own self-interest. Again, the reasoning behind this was, most likely, ""balance"". OMD!1 had Weavers and 2 had characters with a big enough difference in Mana and Health (and exclusive traps) to force you to adapt and learn or test new builds, but there is no such thing here.
+
+In the end it seems Robot Ent. was too worried about balance, so much it ended up making for some very obnoxious level design and questionable enemy and gameplay choices. Whenever a company worries too much about game balance it inevitably ends up killing a lot of the fun in the game.
+
+[h1]❌About War Scenarios:[/h1]
+The War Scenarios in particular could've been done better. They drag on for too long and overstay their welcome. 
+
+The War Machines can be only used in these maps. However, in most cases, you're better off arming places with regular traps instead of placing War Machines which is a pity. Later maps are designed in such a way that War Machines can feel downright detrimental and being a waste of money. 
+
+Another thing is that you cannot place them inside buildings. This kills many would-be nice strategies and is just another factor in what makes War Machines so underwhelming for veteran players.
+
+Even bosses add very little to the mix due to how easy they are to deal with. Scramble Mode shows they could've been into the regular game just fine (albeit not on EVERY wave), but they are present mostly in War Scenarios.
+
+Having two currencies and enemies that should be specifically targeted by War Machines would do wonders to avoid the problem of War Machines being outdone by regular traps. Downsizing them or their effect a bit so they'd fit into buildings would also be a good option to place them in tandem with the regular traps.
+
+[h1]⚖️How does it hold up against Orcs Must Die! 1 and 2?[/h1]
+Sadly, comparing this game to the previous ones only serves to highlight the flaws of this game.
+
+The game lacks pre-battle music except for War Scenarios.
+
+Graphically, the HUD design was changed from colorful to a bland, minimalist, dull style:
+https://steamcommunity.com/sharedfiles/filedetails/?id=2793488611
+
+Characters (and Orcs) have nowhere as many lines and start repeating the same phrases and one-liners very often which is particularly noticeable in longer games, like War Scenarios or Endless, and they don't even have wave start/end lines. And ALL of them share the same animations, including victory dance ones. Everything just feels lazy. Quality over quantity should be the lesson here.
+
+The gameplay was simplified and some status effects and damage types were removed. Chill, an alternative to slow, is absent. Damage types; impact, cutting, piercing and explosive were reworked into a single type (Physical).
+
+This simplification becomes a problem because Physical damage type is resisted by the vast majority of enemies in the game. And by vast majority I mean that it's easier to pick enemies that AREN'T resistant to it than the other way around. This renders Physical traps and weapons, one of the most common damage types, very ineffective.
+
+On enemies, we have Fire Fiends. Fire Fiends are enemies that are as numerous as Orcs and are completely immune to fire element. Why? What made the developers assume bringing an entire enemy faction immune to an element was a good design decision? 
+
+In previous games Fire and Frost Ogres (which are unexplainably absent here) were enough of a threat to force you to mix different elements, an entire faction of enemies feels just ridiculous.
+
+Enemy design also became blander. Regular Orcs are all copy-pastes of each other instead of having a few distinct features (different skin colors or different armoring, like OMD!2 Orcs had) which could help players visually gauge how dangerous an Orc mob could be. 
+
+Elementals also suffered from design change becoming boring, generic, looking enemies that could be seen in any fantasy game. Armored Ogres instead of wearing armor now seems like they just have bits of scraps all over them.
+
+Many weapons are absent here too: Vampiric Gauntlets, Dwarven Missile Launcher, Polymorph Ring, Bone Amulet. As for traps that are missing: Boulder Chute, Healing Well, Acid Sprayer, Ice Vent, Dwarves, Mana Well, Coinforge, Void Wall, Spore Mushroom, Web Spinner.
+
+Strategy-wise, the game became too focused on using a single core strategy: using Barricades to funnel enemies into a narrow space instead of being able to create big, open, killzones, which the game makes sure to discourage as much as possible with the small map design and weak/expensive crowd control and larger area hitting traps. Whereas Barricade killzones was a polite suggestion in previous games, in OMD!3 this strategy is so blatantly superior that not using it makes most of the maps more difficult.
+
+Par times are needlessly demanding which punishes many, less aggressive, strategies as well. Previous games had maps with tough Par times, but OMD!3, again, exaggerates doing this in almost EVERY map.
+
+The decision to cramp three storylines (the new Apprentices, the two ancient War Mages, and finding Max) with such limited time and levels to tell it was also a bad idea, as bad as leaving the face of the game, Maximilian, out of the 99% of the story. Again, everything feels rushed and ham-fisted at best and at worst half-heartedly which, for me, feels worse than not doing it in first place.
+
+Kelsey and Egan, the newcomers, lack any of Max and Gabriella's charm with their lines being most about uninspired and soulless banter or clunky exposition.
+
+Multiplayer also has a lot of missing features compared to the previous game: no in-game text chat, no pause, no in-game Voip, the inability to see your partner's loadout and not being able to see where they'll place a trap are the key ones. The host can also move to the next screen without your input before you upgrade which can be annoying.
+
+Lastly, there are several bugs and glitches that were reported by players a year ago and most of them are still in the game. Like pre-order skins having no voice since *day 1*, no ""Final Wave"" warning in Rift Lord, clunky physics especially with Sappers and several Scramble Mode glitches in the wild.
+
+[h1]💭Closing thoughts[/h1]
+If you're coming from 1, 2 or Unchained you will notice the flaws right away, so this is a big cautious recommendation.",0.8781082630157471,318,False
+1522820,118093277,76561198000651632,"It's a game about traps, except the traps suck. Seriously. 
+
+The traps feel like they do almost nothing, (Edit: My stats even show that 75% of my kills are from non-traps.) and that every problem has to be solved with guns, magic, and barricades. So solo play sucks because you can't rely on your traps to do anything, and you'll spend 50% of the time headshotting trolls and ogres. 
+
+The best strategy in solo, is instead of laying tons of traps, is to use barricades to funnel them into a narrow area where you can gun them down.",0.8702028393745422,222,False
+1522820,130979008,76561197960938493,"The game is decent, but in my opinion, [b]Orcs Must Die 2 is better[/b]. I would recommend buying this game [u]only if it is on sale[/u]. This game could have been great, but it feels like the development was rushed.
+
+For example, we have the [b]War Stages[/b], a very cool new feature. In these maps, you can use special [b]War Machine Traps[/b], but it is pointless to purchase these traps as [b]the normal ones are better and way cheaper[/b].
+
+Also, this is the easiest game of the entire series so far: you just have to protect a [b]single Rift[/b] (easy killboxes), there are [b]no penalties when you die[/b] (the Orcs get the [i]Rift Rush[/i]* buff when you die), and there are [b]almost no flying enemies[/b] (so all your floor traps will work 95% of the time).
+
+[u]It is not a bad game[/u]; if you like the genre, you should definitely give it a try. The new [b]Scramble[/b] mode is extremely fun.
+
+Here is a table comparing the current [b]OMD3 (v1.2.0.2)[/b] content to its predecessors:
+[table][tr][td][b]Game[/b][/td]
+[td][b]Levels[/b][/td]
+[td][b]Traps[/b][/td]
+[td][b]Weapons[/b][/td]
+[td][b]Trinkets[/b][/td]
+[td][b]Enemies[/b][/td]
+[td][b]Heroes[/b][/td]
+[/tr]
+[tr][td][b]Orcs Must Die[/b][/td]
+[td]29[/td]
+[td]19[/td]
+[td]8[/td]
+[td]0[/td]
+[td]14[/td]
+[td]1[/td]
+[/tr]
+[tr][td][b]Orcs Must Die 2[/b][/td]
+[td]34[/td]
+[td]35[/td]
+[td]16[/td]
+[td]10[/td]
+[td]33[/td]
+[td]2[/td]
+[/tr]
+[tr][td][b]Orcs Must Die 3[/b][/td]
+[td]33[/td]
+[td]33[/td]
+[td]14[/td]
+[td]9[/td]
+[td]42 + 5 bosses[/td]
+[td]6[/td]
+[/tr]
+[/table]
+
+[h2]Improvements[/h2]
+[list]
+[*]Better pathing preview from Orcs
+[*]No guardian limit, you can place infinite Archers
+[*]Greatly improved the minimap
+[*]New weapons and traps
+[*]Great graphics
+[*]Colorful stages
+[*][b]New stage type[/b]: War Stages
+[*][b]New mode[/b]: Scramble
+[*][b]More heroes[/b]: We can play with 6 characters with their own stats and skills
+[*][b]Bosses![/b]
+[*]Better stability
+[*]Holding down left click [b]spam attacks[/b], bye carpal tunnel syndrome! (only 4 weapons have not this feature, though)
+[/list]
+[h2]Downgrades[/h2]
+[list]
+[*]No flying enemies in the [b][u]main campaign[/u][/b]
+[*]Only [b]one[/b] Rift per stage
+[*]You can die without any kind penalty but dying enables the [b]Rift Rush[/b]* mechanic
+[*]Clunky interface, [b]you can't even see the trap price in the spellbook[/b]
+[*]Steam Workshop Mods removed
+[*]Some cool traps from older games removed
+[*]Custom sort in spellbook removed
+[/list]
+
+[quote]
+*[i][b]Rift Rush[/b]: The Orcs moves 25% faster for a short time when the player dies. This buff is not actually a punishment; it helps you to earn more points due to how score is calculated. The faster you end, the more points are earned. That's what I mean when I say that [u]the game feels rushed[/u].[/i]
+[/quote]",0.8551172614097595,63,True
+1522820,121785316,76561198057315074,"Noticed a lot of reviews complain that traps are underpowered and that the game is built for 2 players, but I always play solo and didn't have much difficulty completing/5skulling the game on rift lord difficulty alone (it can be a bit tricky to learn which traps work well together etc though). For me traps do most of the work. Anyhow the game is even better than omd2 imo, and theres enough differences to make it worth a buy.",0.8496718406677246,92,True
+1522820,97427954,76561198010748161,"Not sure whether to recommend this game or not... Low hours I realise, and part of the reason for that is purely because of the state of the game. So if you're on the fence about purchasing, I'd probably hold off until a sale and/or updates change it.
+
+Putting it simply, I loved OMD and OMD2, and this is technically the same. The graphics are definitely better, and certain aspects of the game (especially character control) are better. But... that's not really that surprising. Or at least, it should be expected, given the release dates respectively.
+
+So why do I struggle to get into the game? I think it's primarily because of the traps... Or lack, thereof. It feels like it takes ages to get a good kill-box going, and by the time you do, your 6+ waves in, probably 1 from the end (or at the end...) and have killed ~50%, possibly more, of the orcs yourself.
+
+You can argue balance issues, but I feel like this is intentional and will not be changed (considering the game is 1 year old, technically). And so each and every map I find myself in the exact same situation: Kill 80% of the orcs myself early waves, and slightly less towards the end. I thought the harder maps, or the onslaught (or whatever it is called) mode would be different - Alas, it's still kill 80% yourself early waves, but instead of 8/10 orcs, it's 80/100 orcs, and that's actually far worse!!
+
+If I wanted to play a 1st/3rd person shooter killing obscure enemies, that's what I have L4D2 for... What I was hoping for was to be a master planner for in-house renovations to keep out the enemies for me whilst I munch on tea and biscuits. But I find myself tending to so much of the work myself regardless, that I don't even know why I bothered with them in the first place..
+
+Overall, the kill box DOES become a thing, and you CAN watch them destroy hordes of enemies. But you CANNOT take your eyes of it for a second, because something will inevitably get through, and it takes time to get there - So that feeling of satisfaction takes a while to kick in.. Quite a while, comparatively to how long it lasts, as well.",0.8146671652793884,264,False
+1522820,108516694,76561199059083590,Needs a workshop for mods and maps.,0.9097653031349182,185,True
+1522820,134692677,76561198022564688,"Orcs Must Die 3 is a nice and casual action tower defense game. Having played the second game, OMD 3 has a lot of the player power shifted towards the action part and much less on the defense building. The main weapons are powerful enough to hold early waves on their own and the freeze or petrify are crucial for stopping the big enemies including bosses. Traps serve best as crowd control in the form of flip traps, ceiling and wall stunners to keep the orcs busy enough until the players come to kill them, as traps are rarely good enough to hold a wave on their own and some enemies having elemental resistance rendering some traps useless. Some maps are impossible to beat without the barricades that redirect the enemy spawn points into a single corridor.
+
+Like in the second game, it's a lot more fun to play in co-op and having the partner cover the other spawn point than having to do everything yourself. The weapon and trap mastery system would have been a cool idea, but skulls still need to be spent after meeting the requirements for them, luckily they aren't grindy. Melee weapons are a weird addition since there are ogres that chase the player to stun them, ranged is definitely the way to go. One weird mechanic is how the enemy speed up works in this game. The enemies only speed up when a player dies. This encourages one player to die on repeat while the other clears the early waves to reach par times required for the 5 skulls which I don't think is very fun for the player dying. Chasing high scores in endless is simply exhausting. The gameplay turns into perma freezing the big units to slowly chip away at their health because they get incredibly tanky. But the main levels are the main fun, especially with the war scenarios truly representing orcish hordes.
+
+For achievement hunters:
+The 2 paid DLCs are required. Most of the achievements are for completing all maps on rift lord with 5 skulls. Score chasing in Scramble is easily done with different trap effects.",0.8076728582382202,46,True
+1522820,155441880,76561198018790410,"Once upon a time maybe this was balanced differently; but by the late game and especially DLC you're playing a 3rd person shooter more than a tower defense. The maps become uninspired and theres little good synergy between traps and enemy variety by the end of the game. It starts out strong, there's maybe like 10 good maps in the whole thing. I've heard from others traps used to be a lot stronger and capable of dealing with threats and the player was more of an additional power- now the traps feel like they're just there to thin the weaker enemies so you can pour headshot after headshot into the larger ones.",0.7982887625694275,97,False
+1522820,98294076,76561197979252406,I would not suggest this game to those who were a fan of the original. My biggest gripe is how worthless traps are. You will do so much of the killing yourself it just ruins the fun for me. I used to love just watching my awesome trap designs slaughter the orks. but its clear in this you need to take a major role in their destruction. which may be fun for others. but i prefer the tower defense style. its not a bad game. but just not what i was looking for. good luck :),0.7960314750671387,139,False
+1522820,96996873,76561198012893953,"TL;DR If you have never played Orcs Must Die before, this is unfortunately not the place to start. 
+Currently this game is basically a much less polished version of Orcs Must Die 2 with overall less content (roughly the same amount of loadout options but a lot less stages) for double the price (about the same after factoring in 2's DLCs)! So if you haven't already, definitely get OMD2 over this one! If you have and want more OMD, prepare for some very annoying and disappointing issues.
+
+The new, extremely plastic looking design, the very basic UI, and the even more basic plot reveal Orcs Must Die 3 as a cheaply made and seemingly desperate attempt to revive the franchise after the Unchained disaster. I'm not gonna riff on the horrible humor and cringy dances, because they have always been part of this franchise, but for some reason this is the only time they felt really annoying to me. Probably because they seem so utterly soulless when the rest of the game just screams ""shovelware"". At least the orcs' battle chatter is as good as ever. 
+If you're playing on a language other than English, be warned that the translation may not be complete! At least in German, some text and orc voice clips are still in English, which again does not speak well for the amount of love and care that went into this project...
+
+The gameplay feels wonky at times and not nearly as impactfull compared to its predecessors. Many attacks really don't have much feedback anymore. The biggest offender for me personally being the Wind Belt, as grabbing an enemy with it never seems controlled but rather a dice throw against the physics engine, which may very well put your enemy under the floor, making it impossible for you to continue the stage.
+Other fun bugs I encountered include:
+-Progress for unlocking the unique upgrades for the Bladestaff not working at all [b] (this has just been fixed with a patch. After one year of this game being out on Stadia already, but better late than never I guess) [/b]
+-All weekly challenges being playable, no matter if they're actually active ore not (not really a bad thing, but how on earth did they screw this up?) [b] (my bad, this is actually not a bug! see further down) [/b]
+-Several problems for the non-host during coop, related to poor netcode and QA. For example: 
+[list]
+[*]Vorwicks teleport ability not stopping propperly, sending you flying forward instead of being the intended short blink.
+[*]The Rapid Fire Ballista being completely unusable, because it stays firing in a fixed direction, no matter where you aim (this has apparently also been a long reported bug by the community, but was not fixed in the recent patch for whatever reason!)
+[*]The coop partner not being able to select his own perks during the Scramble mode, instead being assigned a random one after every stage
+[*]General laggyness that was never present with my same coop partner in OMD2
+[/list]
+
+The weekly challenges are apparently supposed to be all playable all the time. The ""weekly"" only reffers to the opportunity to place in the leaderboards for the challanges, which seems utterly pointless to me. At that point, why have a time gate at all? It's an absolute nitpick, but it  just seems like such a weird design decision.
+
+In terms of traps and other loadout options, the overall amount ist roughly the same as in OMD2. There are some new additions, but also some very disappointing removals. The most heartbraking one for veterans possibly being the Coin Forge. In fact the money in OMD3 always feels way too tight to actually get an effective defense going. The moment you finally can afford the last crucial piece for your setup, it's already the final wave. A lot of the later stages - and many scramble challenges - basically rely on you constantly mopping up about half the wave yourself, because the traps are so ineffective. 
+In order to get one of the two unique upgrades for a piece of equipment, you now have to grind some amount of kills or damage with it, instead of just unlocking them with skulls like in the previous games. So if you wanna test every trap and weapon to its fullest potential you are forced to do some grinding runs with inferior versions of them, which is not fun. Especially when they turn out to still be underwhelming after the upgrade.
+
+With the recent patch Robot Entertainment has at least shown, that they have not completely abandoned the game, but honestly it seems like too little to late. Remember that this game was out on Google Stadia for [b] a year [/b] before it came to Steam. And they still have not fixed all the bugs that have been there since day one. Admittedly the amount of feedback the devs got during this time was probably not the most (har de har). 
+Should they continue to develop on this game and add new content , it hopefully won't be in the form of paid DLC. Because right now and at this price, it feels like they're asking for a donation from the fanbase to maybe get the funding for an actually decent revival of the franchise going. Or they're just cheaply milking the last, sad drops from their horribly abused cow...",0.7795560956001282,231,False
+1522820,97989134,76561199080109544,"[h1]Robot Entertainment, fraud and unauthorized data theft[/h1]
+With Orcs must Die! 3, Robot-Entertainment (USA, Texas/Dallas/Fort Worth Metroplex) has published a successor to its strategy series. Unfortunately not without annoyance.
+
+The review is also about ingame-data, but this time for an extended reason. Well, related Ingameconnections from [url=https://www.gameindustry.eu/search/index.php?suchbegriff=Orcs+Must+Die%21+3&suche]OMD3 [/url]are already published. Feel free to block them via host, PI or other systems to get own privacy back.
+
+---
+
+Unfortunately, I am one of the people for whom the product does not work (up to date OS, drivers and hardware), because already during the initialization a ""Fatal Error"" appeared, which ended the game immediately from the beginning. Compared to other error messages on the forum, mine was without any additional information.
+
+It should not be forgotten that the ""GameAnalytics"" (BigData company for Realtime-Analytics, Event,- and Crossovertracking, Insights, Monitoring) service with connection to Amazon is active in the title, which is always activated, collects and send session data.
+
+Customers are not informed about this behaviour on the sales page, nor do consumers have a chance to stop the behavior. If data is even recorded before the actual main menu is reached and permanently crashes, that is even more annoying.
+
+I posted in one of the countless forum discussions about ""Fatal Error's"" with additional ""GameAnalytics"" infos which are included in OMD3.
+
+https://steamcommunity.com/app/1522820/discussions/1/3050610474002711377/#c3044982241553964291
+https://steamcommunity.com/app/1522820/discussions/1/3050610474002711377/#c3044982241555054446
+
+The first report about ""Fatal Errors"" in the game forum just appeared after release (24th July) and beside of a copy/paste message in several threads about hidden files there was absolutly no official response.
+
+Above all, this shows once again that despite data collection, development or even bug fixing does not take place.
+
+[h1]Community Manager contacted me[/h1]
+Thanks to the entry, a short time later I received a community message (WTF, why hidden?) in Steam - asking me to cooperate in helping the developers to fix the Fatal Error.
+
+I even uploaded data to my web server and also noted again in the ticket that the action on the part of the company is not correct.
+
+In addition, an E-Mail with log files was sent to Robot Entertainment. Along with the information posted in Steam. A reply never arrived. No ""thanks"" or ""we'll take a look"". Nothing. Although feedback was requested.
+
+[h1]The end of the story?[/h1]
+The product has not been usable for about one month and the so-called community manager thanked me in a 2-liner for the cooperation and that's it. The developers can't do anything and i (we) as a customer are left with the damage. In short a ""Fuck you"" and ""Sayōnara"".
+
+Neither does it offer to pay damages on its own, nor does it address the spyware. Also, nothing is done about the actual hanger, the ""Fatal Error"" itself.
+
+The company's behavior will also be reported to local privacy as well as consumer protection authorities.
+
+Unfortunately, the ridiculous refund-system in Steam works against the customers when it comes to broken products and such a backstabbing kind of developer.
+
+If I do not get my money back, further steps will be taken.
+
+---
+
+If the text here should be censored or banned or otherwise changed, there is the possibility to read this shortly externally on the usual website with further information including ticket correspondence and related E-Mail content. Together with timestamps and names.
+
+Customers don't have to get screwed here 凸(`･ω･´)゜｡",0.7641648650169373,79,False
+1522820,96434280,76561198031872227,"Now that I have completed everything the game has to offer (only solo because I have no friends) I feel qualified to give a review. I've played OMD1-2-Unchained and now 3 and honestly it's a good game albeit very short. There are a total of 18 base maps and 5 drastic steps maps.
+
+For sure there are a couple of bugs but in my 40 hours of play none of them have been game breaking. VERY disappointed that endless doesn't have any siege maps.
+
+Overall if you played any other OMD games other than unchained then you will enjoy this game but with such a lack of content I feel OMD2 is better bang for buck.",0.8136453628540039,58,True
+1522820,205200468,76561198321069112,"Single-player mode does not work properly offline. At least two crucial features don't: selling placed traps (no money gets refunded) and unlocking new trap upgrades (progress does not get tracked at all).
+
+There is obviously no technical reason for this other than a myopic attempt at DRM. Playing while connected to the internet fixes this, but I encourage you not to support this kind of anti-consumer practices.",0.7508643865585327,57,False
+1522820,96479126,76561197971648406,"I don't write reviews much but this game is very significant for me, personally.
+A little over 5 years ago I started dating a girl who lived about an hour away from me, so we could only really see each other on the weekends. Around that time, I saw Orcs Must Die 2 was on sale. I thought it looked fun so I got both of us copies to play together while we voice chatted every night. We both loved it. It was so much fun and it was so nice to have a game that was ""our game"".
+Fast forward to now, I have now married that girl, and much to my surprise I see that Orcs Must Die 3 has been released! I immediately bought it for us both and we've been playing it nonstop, often way past our bedtimes. It's super fun! I feel like they've added some new layers of complexity that get my brain cooking up new ways to kill orcs efficiently. At the same time though, the game feels very nostalgic for us. While we've been playing, we've been reminiscing about when we first started dating. It's been super nice.",0.8984474539756775,1186,True
+1522820,97570293,76561198045067653,"The replayability of this game lies mostly in the endless mode so the issues I'll have with the game are mostly there. Robot listen well. 
+1. Pathing issues are a real problem, getting your barricades destroyed for no reason is frustrating enough to make you want to leave the game right then and there. 
+2. The cash diminution in endless is too severe. It's not even that it is too steep, just it goes too low. It's nearly impossible to make money on maps where you cannot have huge kill streaks to make money. Have enemies return a minimum of 5% of their original worth, rounded up, would be my first suggestion to try.
+2.1. Enemies scaling in endless. Again I have an issue with this... I understand the player eventually needs to lose, but I feel like certain things should probably stop scaling or have a kind of diminishing returns to how fast they scale. I do not know for example how mountain trolls regen works, but if it scales off of their max hp it's a problem, they take way too long to kill too early. How fast enemies get is also not very fun, they become too fast for your traps to hit them. I do not know the perfect solutions for all those scaling issues but there certainly should be a discussion about this.
+3. Items balance in general. This also pertains to replayability. Trying new combinations makes it fun. But the problem is so severe you have best in slots (as in best ceiling trap(s), best wall trap(s), best floor trap(s) and also best weapons. Trinkets also have issues for me they are only a shadow of what they were in orcs must die 2. There is a lot, and I mean a lot to say on issue number 3 and I might keep posting in steam discussions to go into details and to give suggestions.
+3.1. Fire element. It is garbage. Few enemies are weak to it, a lot are IMMUNE, immunities aren't quite fun to begin with, and the ""on fire"" affliction is a real joke. The slow and damage over time are ridiculously bad. If not reworked entirely both the damage and the slow should be drastically buffed.
+3.2 You do not seem to understand how to make similar traps all viable. Some uniques need to be looked at. Trinkets need to have better passive effects before any purchase are made. Again I can't go into details here, too long
+4. This is just as important as the rest if not more. The map themselves. They do not make use of possible trap combinations or specific trap themselves that need a particular configuration or type of monsters to shine. The most cruel thing of all, the war scenarios are most of the time easier with normal traps, making the use of the special traps very scarce. Why is there no game mode where you can bring war scenario traps to regular maps for fun? Most of the traps should be placeable indoor, not be a unique upgrade. Terrible decisions you have made there. The choice of maps for endless is also horrible, there would be a lot of better choices for endless maps but you picked things like the basement or switchback,where there is almost no spots to place traps before orcs reach the rift and you have to barricade to path the enemies all around the rift, and that's it, that's the whole and only strategy. Overall I am not happy with the maps and what you do with them. I wish I could be more specific and I hope others voice their complaint about the maps. I am sure they require great efforts to make, which is why you should think a lot more of their configuration and their specifics. Hopefully you do before releasing new ones.
+
+I'm sure I have a lot more to complain about, but unless the game is improved, you will lose your Orcs must die 3 playerbase way quicker than Orcs must die 2 ever did, despite its flaws orcs must die 2 felt more of a solid game with decent replayability, and I think it is because it has more levels, a nice difficulty curve, better balance for items. In game chat wouldn't hurt. Keep making this game better and I might change my review. I do not hate your game, I love it, indifference is the opposite of love. Keep up the good work team Robot.",0.7461481690406799,87,False
+1522820,96478895,76561198118069085,"Orcs must Die. - A series that has had some hurdles indeed! -
+
+I've had a long history with the series, and followed Robot since the first game release way back when I was a kid. Honestly, the game has been replicated a number of times since but nothing quite matches the original! Orcs provide a returning pleasure of setting up effective kill-boxes, providing constant entertainment alongside casually unlocking skulls to further improve traps to try out new combos...
+
+Orcs must die 2 improved on everything, Character variation, victory dance variations, subtle animations, new traps, clever use of character design and sound. Having studied game design myself, the talent was clearly there and I honestly loved to support it by buying up the game multiple times for friends to enjoy in hearty co-op.
+
+I feel Robot themselves had some freedoms taken when trying to jump into the MOBA craze, and converting their property to a different type of game was incredibly jarring, resulting in a poor reception that strayed a little too far from its roots... but the fact that towards the end they took critical feedback and made massive changes to completely convert into a more old school experience. Changing a games genre that late on by completely refurbishing everything is a massive time soak, where as other companies would of simply dropped it.
+
+MASSIVE respect for the hard working employees.
+
+IF this was any other company, you know they would of pulled the entire team and left the IP to decay, but they tried so hard to make it something we could all enjoy and if given more funding and advertisement, I believe they could of pulled it back to some degree.
+
+Moving on finally to Orcs 3... and wow, they have returned to form with gameplay but not without difficulty. Some scars of the bad call launching on Stadia killed a decent launch chance, and some obvious cuts to staff and project scale have forced a few extra features to be downsized or simply removed. The trimming isn't all bad though, they have taken the best items and further balanced and improved them. I find myself using trinkets more often now and the variation of traps aren't lacking either... though I thirst for more! They have properly taken to the elemental damage system which can carry them with more trap variants in the future for sure, and despite these pains I can see them clawing back to the top in time.
+
+As I write this they already are patching in and listening to feedback... Though I don't know them personally, the attention they put in the games is enough to give me more faith than most triple A companies these days. I'm happy to keep buying this game to support them, and expand the roster of friends I play co-op with.
+
+I'm going to mash more orcs for sure, and ROBOT, I do hope you read this as you are appreciated for the work, and I'm honestly looking forward to whatever you add in next. (P.S the bounty hunter enemies that came after you during waves in unchained remind me of the bosses in war scenarios, they even have some similar abilities, would love to know if any of the old models and even ones unreleased could even be spruced up and implemented to make life easier for yourselves in future expansions!.. same as those unique guardians you could set up, like that fat pirate orc.. what a unit!)",0.7455582022666931,43,True
+1522820,220242128,76561197960287511,"From here, the series goes downhill imo.
+
+If you want to play any of these games alone, play the first.
+
+And if you wanna play OMD with a friend, play the 2nd.
+
+I still don't think this game deserves a negative review, cause it's not terrible. The 2nd is just better. 
+
+So buy this if you want more of what you enjoyed in the 2nd, and you'll get an okay-ish version for more of the same type of gameplay.",0.743933379650116,25,True
+1522820,109234019,76561197968494638,"I was a big fan of the original OMD, and a somewhat less impression of the second. I'd say this is a fair successor to the second, but never really moves past the somewhat tired formula for the game. The addition of larger army maps was a nice change, but the implementation of killing massive armies usually just felt like a chore. I've always felt like the whole game was one big tutorial before getting to a whole lot of nothing in the end, and some ""end game"" type variety in map style would've gone a long way to making the game feel worthwhile. All in all, a soft recommendation.",0.7390262484550476,25,True
+1522820,96583626,76561197961267377,"It's basically OMD!2 but with better graphics, more traps, more orcs, new game mode... 
+
+This is easily my favorite Tower Defense game/franchise and I think that people who don't like or don't have a strong opnion about the genre should give this game a chance.
+
+I usually wait to buy games when they are heavily discounted, but the Orcs Must Die! franchise is an exception, the price is great, especially when compared to other developers/publisher who don't give a shit about regional prices, and ofc.. the game is just so much fun. 
+
+(People should probably buy and play OMD! 1 and 2 too. The first is a little dated, but they are both still amazing games)
+-----
+
+
+
+[_ About Orcs Must Die! Unchained _] -The previous game that was discontinued-
+
+People complained about OMD! Unchained -with reason- they tried a new formula but it was, well... a disaster. The devs actually reworked the game and IMO they did a fantastic job -except for the 'always online' bs- I just feel that people didn't really came back to try it.
+
+I had like over 800hrs on record playing the reworked version, I honestly think that they could re-release it today ( B2P -no random loot boxes- and solo offline mode) and people would probably love it.
+[url=https://orcsmustdieunchained.fandom.com/wiki/Heroes]19 Characters[/url], [url=https://orcsmustdieunchained.fandom.com/wiki/Chaos_Trials]Chaos Trials[/url], [url=https://orcsmustdieunchained.fandom.com/wiki/Sabotage]Sabotage (Indirect 3v3)[/url]...
+
+People who didn't know about the rework or didn't give the game a second chance before it got shutdown/discontinued missed all the fun.
+
+[_ About Orcs Must Die! Unchained _]",0.7383036613464355,28,True
+1522820,139626540,76561198063512448,"Even while the game is 2 years old and on sale, they release a patch that rebalances the game to be more enjoyable.",0.7854961156845093,49,True
+1522820,96242117,76561198861527890,"Once you set up your first killbox dam it feels amazing. Game itself is great fun so far, better than orcs must die 2. If your into TD and need that itch of urge for tower defence this game is FOR YOU.
+
+
+Edit: Finished game, got all steam achievements only downside of the game is, it's too short, hardly as much content as orcs must die unchained. i say wait till it goes on sale",0.7283864617347717,71,True
+1522820,128453629,76561198100054783,Its not as good as the second game in the series but it aint a bad edition. But dam does it make me wish they would try again and make a new one,0.7243580222129822,23,True
+1522820,156531904,76561198005257680,"With so much time invested, one would think I would recommend this game, but I don't. The issue is that the makers have INTENTIONALLY designed it to be less about tower defence and more about third-person combat. There are also massive bugs which I am shocked they still have yet to address. Collisions and hit detection issues abound but the real travesty involves the tendency of traps to not work. This is especially true of any turrets and humanoid. The worse offender are archers, which were vital in previous games to take on flyers but are nonfunctional. Let me stress. People may say they require strategy. There is no strategy--they don't work.  They will not attack flyers. As such you spend all your time trying to take out flyers because few of your turrets will bother to act. I don't regret my purchase but this will be the last ROBOT title I purchase.",0.720328152179718,62,False
+1522820,96338396,76561197971065229,"Orcs Must Die 3! (OMD3) is a third person tower defense-shooter hybrid game where you play as a real-life Google employee ... err ... fictional hero to prevent hordes of orcs from reaching your rift by using traps and weapons.
+
+OMD3 starts a bit slowly, but you soon unlock the infamous orc-slowing tar trap and nasty orc-deviating barricades. Now, you may funnel the greenskins into neatly organised kill boxes. This will be the perfect time to lean back in your comfy chair and feast upon delicious snacks while watching how the orcs are shredded in your devious trap set-up. Yes, it's as satisfying as it sounds! OMD3 builds on OMD2 and adds new traps, brings more weapons and introduces bigger war scenarios. Once you complete the campaign you unlock the entertaining main protagonists of the franchise (Max, Gaby and Cygnus) as playable heroes.
+
+I highly recommend OMD3 to everyone who enjoys tower defense games and similar genres. Go, get it now and make those orcs suffer! They are counting on you! There should be more content coming: The devs have been teasing that there will be expansions. Here's hoping that we'll get more of the awesome Orcs Must Die! Unchained heroes and complex maps, so that Blackpaw and Midnight get to play with their food again!",0.7149645686149597,65,True
+1522820,114394728,76561197988223219,"Coming from the first title, I am dissapointed by the overral quality of the game in term of level design and user experience.
+It has lost its tower defense spirit. You don't have enough resources to build a complex path. Instead the game wants you to kill most enemies with your hero (TPS) (which is not that rewarding: weapons are boring).
+
+Looking forward to play the next title, hoping for a better level design!",0.7042370438575745,32,False
+1522820,105535753,76561197969417125,"Orcs Must Die 3 is a hybrid tower defence and third person action game where the player must use a combination of traps and their character’s melee or ranged weapons, to kill large waves of orcs and other monsters before they reach the rift located in your base.
+
+[h1]The Good[/h1]
+
+•	The basic gameplay loop of placing traps to deal with as many enemies as possible, and then finishing off the survivors yourself, will be familiar to fans of the previous games. Combat is enjoyably fast paced.
+
+•	This game has a similar quality level as OMD 1 & 2, and is significantly better than Unchained, the terrible free to play game.
+
+•	There’s a wide variety of enemies. In addition to the orcs there are ogres who have more health and can stun the player, trolls regenerate health, gnolls focus on attacking the player, kobolds are more difficult to hit because they’re smaller and run faster, fiends are immune to fire damage, and bats can fly over some traps. While the combat can occasionally feel chaotic with lots of enemies on screen, the colourful graphics make it easy to identify each different enemy type.
+
+•	There are many different traps which can be placed on the floor, wall, or ceiling, and either deal physical or elemental damage (fire, ice, acid), or affect enemy movement in some way, for example by slowing them down or sending them flying through the air.
+
+•	Good level design. Most maps have multiple entrances and different routes to your rift, but I didn’t feel disadvantaged by playing in single player, especially as my main tactic involves using barricades to force enemies into a single path, and then finding a narrow corridor to create a chokepoint of death. Some maps have acid pits or wall grinders that you can knock smaller enemies into for an instant kill.
+
+•	It only takes around 10 hours to finish the campaign on medium difficulty, but you can spend more time trying to get a perfect 5 skull rating on each map, which requires not allowing even a single enemy to reach the rift.
+
+•	There are also three extra game modes which add more value. Scramble asks you to beat 5 randomly selected maps from the campaign while giving you random buffs and debuffs affecting things like trap cost and damage, adding more enemies, giving them more health, increasing movement speed, or making them immune to certain damage types. You can play each map in Endless mode and just try to survive for as long as possible, and there are also weekly challenges.
+
+•	I didn’t have any crashes or framerate issues, even with dozens of enemies and traps on screen.
+
+•	Controls are rebindable and work great with mouse and keyboard.
+
+[h1]The Bad[/h1]
+
+•	Trap upgrade system discourages experimentation. Each trap can be upgraded 3 times to either increase damage, reduce cost, or reduce cooldown time, and then after you’ve used that trap to kill a few enemies you’ll be able to upgrade it with an extra effect, for example spike traps can do lightning damage and freeze traps can do acid damage. Its better to keep using the same 5-6 traps all the time and upgrade them to maximum, rather than buy new traps and do low damage. By the time I’d beaten the campaign, I hadn’t even unlocked half of the traps yet. Fully upgrading all traps will require replaying maps many times.
+
+•	I wish it was possible to restart from the beginning of the current wave. Especially when trying to get a perfect 5 skulls, having to restart from the beginning just because 1 enemy got through on the final wave is annoying. 
+
+[h1]The Recommendation[/h1]
+
+Orcs Must Die 3 is a fun tower defence/action game which is definitely worth playing. You don’t need to have played the previous games to understand what is happening (there is a story, but its not important), and there’s enough content to justify buying at full price or on a small sale.",0.7038623690605164,16,True
+1522820,121812965,76561198870598804,very good for ten bucks especially co-op. alot of fun. just wish it was 3 player co op.,0.7513668537139893,32,True
+1522820,96702174,76561198022232627,"Having completed all campaign and DLC maps, five skull'ed every map and managed to get into global solo leaderboard top 10 on 6 maps and top 20 on 7 other maps, I can say with confidence that, as someone who loved and played OMD2 quite a bit, this game is worth every single penny. Get it if you like tower defense mixed with some 3rd person action, you will not regret it.",0.6969296932220459,41,True
+1522820,160486947,76561197962397563,"Components are solid. Great character variety, good arsenal of weapons & trinkets. Lots of cool & fun towers, and upgrades.
+The problem is how this game plays out, it's like 80% Hero Defense and 20% Tower Defense, which is a damn shame.
+Flip those stats, and this would be incredible. As a hero defense, this game is simply ""alright"", nothing to write home about.
+There's just so little focus on the Tower Defense, always starved for money, you never really get to build anything satisfying, always just the bare minimum, and when you actually reach a point where you start mazing and building proper defense, the map is over.
+",0.7968960404396057,73,False
+1522820,96421318,76561198037114789,"""Orc killing at its best!""
+This is yet another great addiction to the orc must die series, and to actually be able to make a game better then 2nd one is a hard goal, yet somehow they did it! with alot of the old traps/weapons and tools there are just so much new amazing stuff here, and the graphic is just amazing, the Gameplay feels really smooth and killing orc is way to fun for some reason. they also added alot of new modes to the game making it even longer then before, the replay value here is insane and for this price, this game is a steal for sure .
+
+Graphics: ""looks like gummy bears"" 8/10
+Audio: ""it works well"" 7/10
+Gameplay: ""Really satisfying"" 9/10
+Difficulity: ""it can get rather challenging"" 9/10
+Story: ""Silly and great"" 6/10
+Game Time: ""Forever"" 10/10
+Price: ""Its a steal"" 10/10
+
+I would Recommend this to anyone who enjoy tower defence games, and who enjoy 3rd person combat, there is just so much to do here and you can spend so much time in this game without even realising it!",0.6914214491844177,21,True
+1522820,162433262,76561199472547742,"It's pretty fun for what it is, but it feels under-developed and under-realized, despite having satisfying graphics and functionality in general.
+
+Good:
+- Level design is pleasing
+- Solid functionality
+- Difficulty rating is good
+- Some UI choices and tower mechanics are nice
+Bad:
+- Tower defense is limited, too much hero defense
+- Game is fairly short
+- Choices feel rather small
+- Story is bare-bones/ world building is bad, feels almost like a tease for an open world game",0.680682897567749,21,True
+1522820,96243336,76561198029396312,"I waited nine years for this, it's everything I hoped it would be
+
+No graphics issues yet, but I only use one monitor",0.7213416695594788,94,True
+1522820,96427320,76561198002900596,"I really do not get this negative reviews. 
+
+OMD 2 was already a great game but they even improved with OMD 3. Tons of traps and trinkets. Good maps with many possible playstyles.
+
+Runs smoothly even in Coop. 
+
+Grab a friend and play this game! You'll have lots of fun!",0.6690868735313416,29,True
+1522820,96488520,76561198042322038,"now while i enjoy the game and suggest playing it , however you should only play it after beating orcs must die 1 and 2 and still want more. the game is sadly subtly worse then the last two.
+
+ The sound effect for casting spells and getting head shots are not as pronounced making them less apparent  and therefore less satisfying .
+
+in 3 barricades are pretty much needed in every level to prevent the horde from getting to the rift to the point i feel most of my money is spent on them only a few early mission don't need them, compared to earlier games where you could use just traps, or guardians or a mixture of both, guardians have pretty much been removed and Nerfed, This makes the game play and strategy in 3 feel less diverse sadly.
+
+while there is more characters  in 3 they don't comment on weapons, enemies and traps as much as they did in the last two games making it feel less immersive,
+
+most waves in 3 have ogre or another bullet spongy unit in it, making it unlikely for your traps alone to be able to finish it off.  this is in contrast where in previous games they where stronger but rarer and felt more like a threat challenge then a chore.
+
+the fire demons in 3 are honestly a horrible balance choice their existent in the game makes using fire damage a horrible idea for half the maps, only flyer in the dlc currently have  immunity to any other damage types. if they came in other resistant types and where paced out in different maps they would work but as it stands it just full waves you cant use fire traps on. I don't know why the devs made such a large in balance in damage type.
+
+I haven't done the math on this but there seems to be less money for traps i never feel like i have enough to set up the trap combos i want, i never get to a point even on easy where i feel like my traps will handle the wave and i can just sit back and enjoy the chaos i created as I Rube Goldberg machine Orcs to extinction",0.666594922542572,28,True
+1522820,181436614,76561198832814475,"I love the game, when it lets me play. I constantly get ""failed to connect"" error whilst balls deep in scramble or endless, makes this game almost unplayable with friends and absolutely frustrating.",0.6613460183143616,30,False
+1522820,160729745,76561198121928396,"As someone with over 225 hours in OMD2, I can say that this game definitely has the same feel as that game. Similar strategies work between the two games regarding what trap placements work well in different scenarios, and coop definitely makes the game more doable. Unlike the second game, they have added in war scenarios to the main campaign that play out with bigger traps and massive hoards of enemies. The fun of this game all comes from the game play and designing efficient kill boxes. I ignore everything about the story and what the characters say, because the game play loop is all this game needs. Picked it up on sale, and it felt like a steal for the amount of content and enjoyment I will get out of it.",0.6603146195411682,11,True
+1522820,184964926,76561198044414208,"There is some entertainment value to OMD3, either in 2p co-op or solo, but it also suffers from a lack of polish in a variety of areas which makes it worse than its predecessors.
+
+[h1]Map Design[/h1]
+[list]
+
+[*]In previous OMD, maps are designed like a puzzle for single players to complete, with the option of 2p multiplayer in OMD2. In OMD3 however, maps are designed with more multiplayer focus in mind, which in my opinion makes it less appropriate as a single player experience (though not impossble), especially with the trap nerfed and bullet-sponge enemy health increased, which makes them unreliable to actually stop one lane while while you focus on another.
+
+[*] Some kind of major F’ up occurred in production that has allowed map 16 (the basement) to be included in the final product, a large portion of the map (including the basement floor) serve no purpose, completely disconnected from any of the three routes. 
+
+[/list]
+
+[h1]Gameplay changes[/h1]
+[list]
+
+[*]Traps nerfed and number of orcs increased (which in part makes traps less effective). I don’t mind for the more active gameplay requiring you to actively shoot orcs, but it does get dull with the limited variety of enemies, particularly in endless mode.
+
+[*]Big enemies like ogres and trolls (particularly armored trolls) seem to be more bullet-spongy than previous entries, requiring dozens (or hundreds) of headshots to put down. Because the big enemies requires so much time to kill, freezes/petrifies become practically mandatory to stop bullet sponges from reaching the rift. This design choice contributes to the lack of variety, since all light and medium enemies tend to die to traps before they get close to the rift, you’re only ever shooting at the same few enemies by the end-game.
+
+ [*] Physics traps are significantly less reliable in OMD3, partly because different weight classes are affected much more drastically differently, and partly because the maps aren’t well designed to fling orcs into the air.
+
+[*]Wall grinder no longer sucks orcs into them and reduces them into giblets, it just passively damages orcs as they pass by, which is pretty lame.
+
+[*] Archers are nerfed, which I’m fine with, they were rather ridiculously OP in previous games.
+
+[*]I’ve used the crossbow in OMD1, which requires careful aiming and patience for accuracy to reset between shots. I’ve use the domination staff in OMD 2 which is a bit OP in crowd control. Weapons in OMD3 in contrast is much more spammy and requires less careful consideration. You’re practically required to spam headshots with a ranged weapon (gatling gun or crossbow, which uses no mana to spam, any inaccuracy spread just means you have to stand closer while shooting non-stop). Every weapon that doesn’t do headshots, such as the melee weapons, are practically useless unless they have good secondary properties (eg. freezes).
+
+[*]Traps block bullets, which is really annoying, and disincentivizes use of traps that pops out and blocks at head level.
+
+[*]camera angle often has your character's head blocking view of orcs, particularly when up close.
+
+[*] One of the DLCs introduces cyclopses, which take (extra-)extra damage to the head; I'm not sure the devs realize it doesn't help with enemy variety if you're doing the same exact thing (headshots) with them as with every other enemy type under the sun.
+
+[/list]
+
+[h1]UI[/h1]
+[list]
+
+[*]Campaign main page lacks details about enemy details, you have to go inside to check the enemy list, then go back out if you want to respec skill points. Campaign main page is also lacking in map details, you can’t view how many floors are present in the level and switch between floors. (This was also the case in previous games, didn't have to adopt it tho)
+
+[*]Trap UI lacks details about damage, cooldown, etc.
+
+[*] Lacks bestiary/compendium to read about all enemy types outside of campaign.
+
+[*] Character select screen lacks details about their jump abilities.
+
+[*] The unique upgrades to equipment and traps has a questionable design: in OMD2, you can freely switch between 2 unique upgrades upon purchasing either; to switch between unique upgrades in OMD3, you have to refund skulls for that equipment and pick the unique upgrade you want to switch to, and re-upgrade its stats. I don't understand why you want to give players extra busy work for something that is done in one click in the previous game.
+
+[*] Previous games’ stylized UIs looks better than the purple screens in this one.
+
+[*] The big splashy headshot indicator from the previous OMD1 is downgraded to a tiny one, which does make it less satisfying to hit headshots, along with how many of them are required to kill bigger enemies.
+
+[/list]
+[h1]Multiplayer[/h1]
+[*] Multiplayer lobby needs work, no passwords means randos can join while you're waiting for friend.
+
+[*]no communication available in lobby
+
+[*]no voice-comms or text chat in-game, only a limited chat wheel (developed for console peasants, probably) by which it is impossible to communicate plans and strategies in any sort of depth.
+
+[*] There doesn’t seem to be a way to view MP scoreboard without opening a MP lobby, where people can randomly join regardless of whether you intend to play.",0.6545422077178955,25,False
+1522820,121189984,76561197961580954,"I have been looking for a game that has trap building / tower defense mechanics that wasn't a 2.5D topdown.  This is 3rd person over the shoulder with a lot of variety and customization., game modes, monsters, traps, and weapons.  Thoroughly enjoying it.   9/10",0.6525571346282959,15,True
+1522820,96253747,76561197992784508,"The game is fun, devs said they are working to fix the Graphics & HDR issues - seems to be the only complaint from negatives.
+
+A good return to the OMD 2 gameplay after Unchained didn't pan out.",0.648902416229248,32,True
+1522820,181898092,76561197972310636,"Compared to OMD1, the level design has less ways to play your own way. Many of the levels didn't have a single place for a wall trap that didn't need a barricade, and just as many others lacked ceilings. Lots of stairs, and still no stair traps. This led me to rely on Guardian Archers and Barricades far more than was enjoyable. There's also a lack of consistency in difficulty compared to the first game, you'll notice it sharply at the Dragon Boneyard. Trap balance is really everywhere (looking at you overpowered frost dart spinner). Flyers are also absent for the main campaign entirely, only the secondary short campaign has them and fixates on their inclusion, weird choice.
+
+Compared to OMD2, the story is a touch dull and the environments lack charm. Characters don't grow, even if this seems like a coming of age story for the apprentices. The morals and motives of the Warmages are completely unchallenged except for a credits roll gag. The exclusion of certain traps were sad to see; I get it though the game is much higher fidelity with the war scenario traps taking up even more development. Less kobold sappers/barricade destroyers are around than in OMD2, with more predictable spawns for when they are around. Honestly I don't like how easy it made barricades to use, and you can't place Knights or Dwarves around as an alternative either (Knights return in war scenarios, but they can only be placed outside forts). Looking back now, OMD2 is still my favourite release in the series.
+
+Compared to OMD Unchained, the Male & Female Warmages didn't really stand out as impactful characters in the available roster. The main protagonists have locked slots for their signature weapons, but you can have the same character twice in coop and even pick the other's character's signature weapon. Now I'm all for cool characters being the reason for cool stuff, but I like blank-slate characters to be choices too. When the core game revolves around choosing a loadout, the ""except this slot"" really stands out and punishes exploration of the other weapons.
+
+All that said, OMD3 has a lot of new features and the most orcs yet. The most tower defence the series has gotten to date, but there's not a lot of additions to support the wall-less, ceiling-less, stair-heavy open ground levels (the incentive is to use barricade mazes). For those who like alternate game modes, OMD3 has many challenge modes for when you're done with the campaign. Legacy levels are not included like they were previously for owners of the previous games however, big miss. All said, Robot Entertainment returned to form and did deliver what makes OMD an easy favourite.",0.7474625110626221,22,True
+1522820,192374427,76561198035252035,"The BY FAR worst version of the trilogy.
+Unbalanced, outright bad level design, just not fun and:
+Not a ""tower defence"" anymore.
+The forementioned balancing is focused on weapons only, traps provide at most some crowd control while you chip away with your gun or bow on insame bullet sponges. 
+Its a shooter now, and for that there are thousands better ones out there.
+Go back to 2, skip this.",0.6455085873603821,11,False
+1522820,200999462,76561198028603971,"At the moment this game is completely unplayable offline. When offline, selling traps doesn't refund money. Also buggy at times where clicking doesn't do anything (eg I want to buy a trap, it takes several clicks to register). 
+
+The game is fun for me personally when these issues don't arise, but due to these game breaking bugs I won't recommend the game to others.",0.6446359753608704,19,False
+1522820,134664340,76561198040795905,"Crashes in a lot of levels, forcing you to replay the level. Additionally it often disconnected my friend with an good connection, once again forcing you to restart the level. It really should just pause the game and wait for the person to reconnect in both scenarios, especially when some stages are 20+minutes long.",0.6444230079650879,26,False
+1522820,107816131,76561198341708174,"To begin with, this game by no means on a gameplay standpoint is terrible, but its missing a lot of things that made 1 and 2 really nice.
+
+For example, this game heavily buffs weapons but nerfs traps which takes a lot of spirit out of the game imo, this is pretty easily fixed by just changing damage numbers, cooldown times, etc.
+
+Another thing I dont like is that this game is missing a lot of details in the traps, for example in OMD 1 and 2, the wall grinder trap would actually pull orcs inside of it and, well grind them to pieces, but in the game they just kinda burst, not to mention some traps (like the snow cannon) completely lack animations.
+
+And the survival mode in this game (infinite waves for those unfamiliar) they HEAVILY reduce the money you get (Which may of been a thing in 1 and 2, but MUCH less extreme) which makes the game mode super unenjoyable to me, the main thing I loved about it was eventually gettings these massive fortresses of traps, twists and turns and seeing how well you could truly optimize such a contraption, but this games lack of viable trap options and dps, combined with it relying on the weapon more than the traps, makes this mode go from one of the most fun tower defense experiences to date, to very short lived and frankly disappointing. 
+
+And to top it all off, the dance animations in this game are actually horrible, in the first 2 games it had a lot of character but in this one, its very unfitting.
+
+If you are a seasoned Orcs Must Die veteran, then you will most certainly find some joy in this game, but if you are just starting to look into Orcs Must Die, honestly look to the first game, or the second if you want co-op, at least until some things change.",0.6431328058242798,21,False
+1522820,96469030,76561198101090663,"They removed the death penalty and made it more casual.
+Why use projectile weapons and stay back when there is no death penalty? Might as well use melee and rush attack and die over and over to aggro all the enemies, giving your traps time to reset.. Its pretty stupid to remove an entire objective to the core gameplay and replace it with nothing in return.
+
+It has less content and is generally not as good as omd2.
+
+It seems difficult until you find a good combination of traps then its easily exploitable for the entire rest of the campaign. Just poorly balanced.
+
+
+
+Orcs must die 2 is the superior game on all fronts. This game has nothing special going for it at all.
+War scenarios is supposedly a new game type, but all it is are more enemies at once and you are allowed to use guardians, which you are now not allowed to use them in standard missions any longer.
+So... To make a ""new gametype"" they just removed content and cordoned-off that content to said gametype...
+Talk about lazy and downright insulting.
+
+Yes, i played for 3 hours and got through more then half of the entire game already.
+
+Edit: was still able to get a refund thankfully, at least there was one good thing that came out of this.. It put me in the mood to go back and play omd2 again.",0.6425684094429016,95,False
+1522820,122104399,76561197963902299,"The game design is very loosey-goosey. I really, really enjoyed OMD1 back in the day but this does not feel like a culmination or development.
+
+For one, there's a lot of options but most of them are clearly sub-optimal. Even in the weirdest stages, the way to get the best score is to build the same exact killbox and route everything through it. There was exactly one mission where I couldn't get all entrances routed to a killbox with walls/ceiling, so I had to use only floor traps. Besides that none of the obvious bait laid by level designers (lava pits for pushing in, and such) were as efficient as the standard killbox. Decisions don't mean anything if one option is clearly superior. (There's something to be said for player expression as well, but it doesn't apply here unless you're self-imposing a challenge because you're bored of dunking on monsters the same way over and over.)
+
+Another example of loose design: in the final mission, enemies can spawn from anywhere at any time. This might appear to violate the idea the game has built the entire time, that you get advance warning of where the enemies will come from and get to plan out your emplacements in advance (i.e. basically the whole point of the game). But don't worry, you can kill them all with your standard weapon. Ahh, okay, so you need to watch the map and go attend to emergencies, okay, I'll give it a pass. Until you play for 30 minutes and suddenly toward the end of the entire stage, no, you CAN'T kill them all with just your weapon, you NEED traps for them because suddenly it spawns a crazy number. OK so this completely violates the basic design language and invalidates the entire design. And what's worse, when you say ""got it, I will move the killbox ultra-close to the end zone so it can catch everything"" and restart the level, the ""anywhere at anytime"" spawns turn out to be HARD-CODED. Meaning there is even less reason to hide that information from the player. It's just a big middle finger to the player's first attempt at the level, and the entire reason why, in the FIRST GAME, they realized they needed to show where enemies would come from before the level starts. And at the end of it all once you know it's going to pull that BS, it's not even different, just the same killbox as always.
+
+These are a few particularly bad examples but the whole game feels like this. They didn't know where to go but they had a profitable franchise and so they churned out another one, with no clear idea of how to go bigger and better. (The ""big big battlefield with big big traps"" thing is bogus, because it's usually better not to waste money on the battlefield and just let them into the end area with... you guessed it, same killbox as always.)
+
+The art is quite polished, but the pathfinding and player controls are very buggy. Sometimes enemies will walk through a barricade, or you won't be able to fire your weapon until you stop moving because it thinks you're still sprinting when you're not, or any number of other annoyances.
+
+I played it to the end (kind of a short campaign, disappointing) and it killed some hours decently enough, but overall I'm just... disappointed in the execution.",0.6380811929702759,22,False
+1522820,96282667,76561198027605620,"Same fking issue as OMD2 (~8 years ago)... So annoying!!!! If you play co-op on the same network, the game will randomly crash on one computer and both will be disconnected and LOST all progress.  This is definitely STEAM issue.  We played OMD3 on Stadia and did not experience this issue at all.  P/S: Stadia has its own problems but not this disconnection bs.
+I still recommend this game.  Please fix the disconnection issue.",0.6846554279327393,44,True
+1522820,138529880,76561197993775163,"Just as good as 1 and 2, and co-op is nice as always. Still hoping for a multiplayer that allows for more than 2 players. Feel like not a ton of new innovation among traps but no need to fix what aint broke I guess. Decent split between the trapping and over shoulder action play.",0.6346465945243835,11,True
+1522820,101954171,76561198005362867,"It's been a while! As a single-player, I found this entry a little easier to manage than the previous game.
+
+Orcs Must Die 3 has a few new characters, just enough story to hold the thing together, and more traps. This game carries over the big thing I didn't like about the previous entry, that you spend skulls for more damage on the traps. You'll always be running around to shoot things, never quite able to just let the traps do all the dirty work. That aside, the War Scenarios are a nice shakeup to the formula.
+
+It was nice to get a little more of the tower defense/shooter, a little heavier on shooter this time. Recommended.
+
+p.s.: brimstone is great",0.6323603987693787,16,True
+1522820,96663269,76561198010019404,"It is a good game but recently the game crashed my whole desktop and when everything booted back up i got this error: lowlevelfatalerror [file unknown] [Line: 724] Bulkdata compressed header read error. This package may be corrupt. 
+
+Now my cloud save is so bricked that any time I launch the game, regardless on which computer I use, the game will give me this error and immediately close. I have looked over the discussion section on steam and a BUNCH of other people have this same issue and no one has been able to fix it without permanently deleting their cloud save data, reinstalling the game and then starting completely over (only for some of them to have the same error happen again and their game be bricked again). I would like an official statement from the developers on this because they have been completely silent while a bunch of players are essentially unable to play the game.
+
+I will update the review if my issue gets fixed. 
+
+Edit: I reset my save and disabled cloud savings but now my game will crash my computer and force it to power off my computer after every level...",0.6305708289146423,24,False
+1522820,96331040,76561197975761062,A lot fun especially co op. Wish it allowed more than 2 players.,0.6793440580368042,19,True
+1522820,171367449,76561198380920232,"Everything is bigger than in the 2 game. Bigger maps, more trapps. And to compensate, the devs reduceed the impact of each trap and action you take. It was the wrong trade to make.",0.6276940107345581,11,False
+1522820,96245939,76561198041262598,"For now i do have to give th e game a thumbs down however, it is a great game. Because of the game enabling hdr on my monitors, the colors go to shit, and also flicker between all 3 of my monitors, making it almost impossible to play. I will have periods of time where i can play, but eventually it will flicker for a minute and during this i am unable to do anything in game. This is my ONLY problem with the game. Other than the mentioned issue, the game is amazing, i feel they have delivered on their word as far as ""more"" and ""bigger"". I love the war mode as well, i think its a neat adaptation to add. I look forward to seeing the hdr issue fixed, but until then i have to give thumbs down cause the game is nearly unplayable with a multimonitor setup.
+
+Edit: I love this game, hot fix came quick and now i have no complaints at all whatsoever about this game, it is amazing, and i look forward to finishing it and having endless hours of fun thanks devs for the hotfix :)",0.6756806373596191,22,True
+1522820,100699702,76561197966124631,"I waited until this came off Stadia to get it, and it was worth it. Super fun game, just like the first two. 
+
+-My favorite improvement is being able to refund skulls on individual traps. That was my biggest gripe with the 2nd game when I was trying to figure out optimal layouts for Endless Mode.
+-War Scenarios are very fun, hoping with the DLCs that they add more. 
+-There's a few bugs here and there but they are doing monthly patches and fixing most of the ones I have seen. 
+-Scramble Mode is so fun. Do hope they add a ""Reset Scramble"" button in the mode instead of having to back to the main menu
+-Endless is fun but I prefer Scramble for skull farming. 
+-Graphics are slightly improved, looks nice
+-Music is awesome as always
+
+Great game though and I can't wait for the DLC on November 11th!",0.6248487830162048,11,True
+1522820,96261556,76561198020781657,"Can't say I'm a fan of the new characters, but the new gameplay and enemy scenarios are awesome :)  
+
+There are orcs, and they must die.  'Nuff said.",0.6248111724853516,8,True
+1522820,101860262,76561198864485917,"its my first OMD game, but i did used to play a hell of alot of dungeon defenders on ps3!
+
+its not like a regular td game/fps td game, in fact its not really that at all!
+
+its more of a deal as many types of damage to an enemy and finish them off yourself type game!
+
+this game features a combination of traps, weapons, ""trinkets"" and more!
+each of these takes up an inventory slot you can take into the battle with you, (10 total)
+supposedly you unlock the final slot on completing the game (weapon locked to charachter)
+
+i got to the first 5 levels on ""intended difficulty"" and switched to easy to finish upo to where i am now (second war scenario)
+
+in my 11 hrs of playtime, i have discovered you need to grind your way to unlocking skulls (upgrade gems essentially) these skulls are earned for completing weekly challenges, campaign missions, and so on...
+they can also be picked up on the battlefield!
+
+you can buy equipment, or see what the campaign gives you each level instead (some traps are unlocked via campaign but can be unlocked by player first for a price of skulls!)
+
+i have admittedly played with a few streamers/you tubers ion the background...
+just the generic things you might search for like weapon tier lists, etc...
+a streamer got to 1k rounds in endless, but in all honesty i havent gotten past wave 9 (so far) i also have yet to unlock all the traps, l;et alone upgrades, and have only just really gotten into understanding the importance of combos (more score = more spending coin) so like slow+physical+acid+fire+lightining+arcane? etc... the more you stack the higher the combo, the higher trhe cpmbo, the more cash! (coin)
+im getting x3 and x5 alot atm on just 5 base traps.
+
+theres 2 playable characters in the main campaign, honestly as much as i love the girls shotgun (erspecially the secondary) the guy has a better ability (stun/knockback) and his bow is pretty powerfull.
+
+there are some things only available at certain missions, etc
+overall if you want to shoot orcs, and punish them in a million different ways, while trying to get your combos, score, and get highscores then this game is pretty fun...
+also if you enjoy grinding games and defense games, i would defo consider this a look in!
+
+however, if you are expecting automation like some other tower defense 3rd/fps hybrids, its not really a lay back and let your turrets (traps) do all the work...
+you have to clean up!
+
+(i have over 1k hours in bloons td6 for example, and in that game you can literally play as a beginner onm the hardest difficulty, and lay back with the right strat) this game, is not that otoh! its strategy, failure, rethink etc.
+
+im pretty sure there are walkthrus out there! but i dont wanna ruin it.
+maybe this game could have some improvements in actual gameplay its not perfect, and i still wish DD (the first one) had a like bigger following, but yeah...
+as for co op, its kinda dead ngl.
+if you play this game you are playing solo, or you have friend to play with already...
+(just my take on it)",0.6228163242340088,16,True
+1522820,97538147,76561197990620586,"Mostly fun to play with my son, but has changed to be more of a first person shooter than a tower defense game since the earlier versions. A lot more running around and attacking rather than coming up with intricate (and fun) trap mazes that you can kick back and enjoy.",0.6227681040763855,11,True
+1522820,183230813,76561198004929825,"Proper continuation of the previous version including some new mechanics (base game and 2 dlc-s review).
+
+- I liked the campaign and the humor of the characters
+- More than 20 maps with great environment (except that sewer map I don't like those :P)
+- New and old weapons, traps, etc. with different upgrades
+- I liked the war scenario maps which were more monumental with the gigantic weapons.
+- More playable characters with unique abilities and weapons
+- Many games modes like endless, weekly quests, coop, etc.
+- I preordered the game and there were only minimal technical problems on day zero
+and the optimalization is good and containing a proper graphic upgrade
+- I liked the reset mechanism and I can try different traps for the maps
+and I need to get points to upgrade weapons which may inspire people to play more
+- No more minus points if your character dies +++
+- Winning the maps is ""easy"" but to make it without losing any points is can be a challenge on harder levels.
+
+The game included a great amount of content with great price/content ratio.
+
+Maybe a dynamically changing level would be fun like destruction, etc.",0.6227462887763977,8,True
+1522820,100751476,76561197969327904,"This game seems to have gone the same way as Sanctum 2 did. I.E. more towards a shooter than a TD. In the first game the traps were the main thing and you were a support. Here it feels the other way around. Traps are generally under performing in every aspect, feels like to have a fair chance of this I had to have another player with me the entire time. Traps can not most of the time handle one lane while I shoot the other. And also it seems like you get less money per wave than you get in the beginning? How backwards is not that?
+
+First orcs must die was amazing, 2nd one was ok, this one is just frustrating.",0.6220325827598572,39,False
+1522820,232442287,76561198040903481,"very fun even playing solodolo
+
+good nostalgia to the first two orcs must die
+
+this & dungeon defenders (1) are the best tower defence games if you don’t count Warcraft 3 custom games",0.6218931674957275,7,True
+1522820,196768927,76561198044573399,They broke the game and they refuse to fix it because they don't allow the updates from unreal engine to work. It's sad but so many people can't even get the game to run anymore and they just don't care so don't waste your money on this franchise anymore. It's just sad because I spent quite a bit of money on the games and the DLC and now they are unplayable. I used to love this game series too but unplayable is unplayable.,0.6214857697486877,15,False
+1522820,96432062,76561197991738514,"As a long time OMD fan, I can confidently say that this is by far an inferior game to what Unchained was before it shut down. I miss the large variety of characters and varying play styles that each of them had. 
+
+The maps in Unchained were a lot more enjoyable than this game. As well as the traps and how they functioned being much better in Unchained. While the War maps are really, really cool and probably the single best feature of the game, going back to the bare-bones root gameplay of the OMD series compared to what Unchained had to offer after it stepped away from the primary PvP elements it was originally developed for, just feels too basic now.
+
+The characters in OMD3 exist essentially as skins and offer nothing to the table. Where as in Unchained, each character had their own unique kit which made playing missions different depending on what character you brought.
+
+Overall, it's a good game for anyone who enjoys a well made tower defense. Pick it up if you want some quick satisfaction, but I wouldn't bet on any longevity or unique replayablity. Hopefully things get added down the line to create some variety, but as it is right now, there isn't a whole lot offered.",0.6712713837623596,23,True
+1522820,118155805,76561198018237030,"If you haven't played the old games, you should play this one.
+
+If you have played the old games, you should also play this one.
+
+It's basically the same formula as 1 and 2, with the same excellent Third-Person Shooter + Tower Defense hybrid gameplay, but with some new mechanics, new traps, new weapons, and a pretty sweet graphical upgrade. It also seems to provide a bit more of a challenge than its predecessors, which is nice. It's like OMD2++. 
+
+All in all, if you think this seems like fun, you'll probably love it. It's especially fun in co-op, and it runs beautifully on Linux.",0.6201746463775635,17,True
+1522820,118818337,76561199064029272,"The best FPS Tower Defense out there. This may be an extremely controversial review however in my opinion this is more enjoyable than the Dungeon Defender series, and the Sanctum series. I have played Orcs Must Die!, Orcs Must Die! 2, and now Orcs Must Die! 3 and can genuinely say this is a great buy. No micro transactions, no pay-to-win elements, however an amazing trap progression system that has been developed further since the first installment of Orcs Must Die!. As you play levels and play the game you will unlock new traps, which you can from there choose what you'd like to invest your skulls (points) into, in order to unlock new variations for your traps. I see a lot of reviews stating the multiplayer is dead, if you head over to the dedicated Orcs Must Die! discord server than there are plenty of super helpful people that you can play Co-Op with, but none the less this game is a must play experience for anyone that enjoys Tower Defense games.",0.6200860142707825,9,True
+1522820,96604784,76561197962500440,"If you liked Orcs Must Die 1 and 2, then you'll enjoy 3. There's nothing exactly groundbreaking, but there's a few nice additions over previous releases:
+
+1. More heroes to choose from, each of which have a unique ability. Nothing spectacular, but nice.
+2. War Maps where you can place enormous traps and control large turrets.
+3. A few new traps and weapons. Again, nothing revolutionary, but more options are nice.
+
+The two new main characters are likable enough, but the campaign feels quite short. I would have liked to see either another dozen maps available or, even better, a map builder with Steam Workshop Integration. Really a shame third party content is still not a thing in OMD.
+
+There's also a few user interface oddities and, while you can change your traps before starting the first wave, you cannot change your trap upgrades - so if you forgot to upgrade something you wanted to use, you have to quit and start the whole map over again. Not a great design decision.
+
+Still, short content and some annoyances aside, it's a very solid game and worth a buy if you enjoyed OMD 1 and 2.",0.6678136587142944,16,True
+1522820,128843692,76561198043867464,"DO NOT BUY EVEN ON SALE.
+Check the community forums... or google Orcs must die 3 crashes, takes 30 second to do that and see for yourself.
+Game becomes unplayable once you get to longer maps/endless maps. 
+Its a problem that has been around since 2020 and devs have stopped replaying or checking the support tickets leaven people waiting for months and month with unusable game. 
+Since it only happens on longer games u wont see it in first maps so u'll be way past the refund time too.
+And STEAM support will basically will just tell you - f*ck u, we don't care, we help them sell a broken game to people, we got ur money and u played 2 hours so bye bye suckeeer.
+
+AND FOR THOSE WHO THINK IT WONT HAPPEN TO ME, here are few bonus bugs and problems for u to enjoy if it doesn't crash!
+
+- Path finding doesn't work about 20% of the time, placing a barricade can make them either get stuck in a wall, just break another even tho there's a path to go trough or just figure they can go trough a hole and die
+- Archers and other aim and shoot towers like mounted xbow work about 50% of the time. other 50% they just dont shoot, another bug that has been since 2020.
+- MULTIPLAYER WITH NO CHAT! NONE, want to talk and sort what to do with the random dude u found a group with? well.. too bad.
+- finding a party is really really hard the player base a day was 300 ppl normaly, and at 80% sale its 1200 /bout to drop soon/
+- if ur team mate leaves EVEN IF UR THE HOST, game just ends. 30 mins into a map? the random dude leaves, so do u.
+- Sometimes it just bugs so that neither ur mouse nor keyboard work ingame doesnt matter if u alt-tab, minimize nothing fixes it but a restart! Aw man u were at wave 8, 4th tier in the  scramble so like 50 mins in? too bad start over.
+- holding attack some times just stops auto attacking but wait theres more! not only stops wont work again till u swap to another weapon then back to this one!
+- all this gems i found in just 29h of playing it most of which many many times.",0.6176464557647705,32,False
+1522820,181896676,76561198051214487,It just is not as good as the previous two installments. I am rather disappointed with it. I would recommend to buy the previous games instead.,0.6168074607849121,12,False
+1522820,96249271,76561198034087687,"Pros: 
+- Is it fun? Yes. 
+- Is it silly? Yes. 
+- Is it easy af and relaxing? Yes. 
+- Are there some improvements compared to the other games? Yes, like the visibility on some items on the minimap.
+
+Cons: 
+- I was quite fond of the other upgrade look so unfortunately that's not an improvement. Note that this is purely nostalgia on my part. The new design on the upgrade view feels a bit more like an RP board game update than the old fairytale approach.",0.6656394004821777,40,True
+1522820,113588505,76561198028080243,"Just play OMD2 instead.
+
+OMD3 is almost a straight downgrade from its predecessor.
+
+It really is jsut a less fun, less funny,  less satisfying version of its OMD2. Where instead of increasing enemy and stage variety, they just reduce trap and character capability and say it's ""more challenging"" instead of just ""less fun"".
+
+The campaign is also very short... Which might be a blessing in disguise, since I get tired of the game pretty quickly.
+
+You'll find yourself getting on a giant ballista in battlefields and then shoot the exact same spot over and over again.
+
+OMD3 isn't a terrible game, but it isn't particularly good either. It's just mediocre and disappointing. 
+
+I can't recommend it, unless it's REALLY cheap... As in ""less than 10 bucks"" cheap. And even then... My initial recommendaiton remains: Just play OMD2 instead. It's a FAR superior game.",0.6152694225311279,44,False
+1522820,184933665,76561198179725123,"Orc Must Die 3 is... I would say the easiest entry out of previous series. A lot of traps are dumbed down, weapons are insanely stronger. There are not many orcs that are resistant to specific types. It is very easy to cheese through the whole level with the traps, especially on Lord Rift difficulty as it pushes you to the limit.
+
+Overall, it's not really that bad of a game. I genuinely enjoyed it, it is also not that incredibly co-op centric like OMD2 but it sure is an enjoyable experience for newer player that wants to get into the game.",0.6152649521827698,15,True
+1522820,116173360,76561198019025644,"Save your money and just play 1 and 2. 
+The level design is horrible, game have no balance at all IMO. 
+Traps are way too expensive and under power. You literally have to cheese most of the maps and it's like there's a specific build style to actually succeed. Some of the maps the route is so short that even if they are just pack of Snails, they will be able to make it to the Rift...
+Also some of the traps are worst compared to the 2nd game. Some of the special features are missing.",0.6128954291343689,50,False
+1522820,96919984,76561197970339840,"Very enjoyable, and a return to form for OMD after unchained. 
+Loads of new traps and maps, unlockables, characters, and new game modes. 
+
+Worth every cent.",0.6107572913169861,10,True
+1522820,106154826,76561198001206822,"It's fine. It's a lot like the previous ones. The map design feels a bit uninspired. It's been tuned to the point where the power fantasy of holding off hordes of orcs has been optimised out by walls of meat with various counters to the kinds of strategies that you're all but forced to adopt due to the stingy skulls system. In OMD2 this system rewarded changing your loadout every time. Now, you're stuck desperately grinding for skulls with broadly the same set of traps every time because those are the ones you've used enough to allow every upgrade on. 
+
+It's feels like it's meant to be played coop, especially with the number of maps that have a ""here's an orc backdoor that will split your attention or force you to spend all your money on barricades (and not traps, so you'll be endlessly headshotting orcs over, and over, and over, and over....)"".",0.6102511882781982,8,False
+1522820,139679094,76561198120188609,"I had this game along with the first (Orcs Must Die!) and second (Orcs Must Die! 2) one in my library for some time but did not think to play it.
+
+Somehow, I recently decided to try this one (Orcs Must Die! 3) out first and I gotta say, it's really fun! It's also challenging, again in a fun way, if you decide to go for perfect scores beating the level within the par time. Plus there are several other challenges which I have not tried yet!
+
+At the time of this review, I'm still only on the main campaign Level 11, so it is quite a long way to the end but this game gets my thumbs up! Highly recommended!",0.6093022227287292,7,True
+1522820,96493327,76561198092220464,This game combines third person shooting with tower defense the gameplay is addicting. The graphics looks like its straight out of an animated series. I see myself playing this at least another 40 hours.,0.6079779863357544,7,True
+1522820,97558946,76561197967136608,Great game! I played all 3 so far and this one is the best. There's a lot of replay ability. Also coop is a blast. Keep making awesome games.,0.6078025102615356,6,True
+1522820,149292973,76561198156106597,"After completing this third game in the series, I've come to enjoy this installment the best out of the entire batch. I don't know why the reviews are mostly positive. Orcs Must Die! 3 is a fantastic sequel to the series and it got a much needed makeover.  The game changed art styles, engines and for once, this is not a bug infested crash inducing mess like the last two games are still. One of the things I like about this game is a more refined customization tab for all your traps, weapons, and skins. I really like the simple change that allows us to change characters that was missing in the second game. I for one actually like the new characters and don't mind their existence. The story is good too and not that complex. The one thing that annoys me is that the game still has broken stat system which won't record your stats prompting some achievements to never unlock. Hopefully the devs can re-implement this system. I like the DLC content albeit it is a little short. I wish the game includes previous campaign stories from previous games. Other than that, there is really not much to complain about. Heck, there is even any monetization for this game. Shocking. This is a really good co-op game and I am so happy I manged to finished it.",0.6063147187232971,7,True
+1522820,106681428,76561197972273299,"A great game for both Co-op and Singleplayer. 
+
+Robot Entertainment does these games really good, with the design and gameplay and story, it all just comes togheter so good.
+
+The only negative thing I would add is that theres not that much content in the game, I would like to see Pirates or other orc factions and more maps, but sure It takes time to make but hopefully in the future we get more.
+
+Great game I highly recommend this for anyone.",0.6052572727203369,13,True
+1522820,96893226,76561198393949788,"the game feels very nostalgic for me but it was very short and don't worth the full price, buy it at a sale.",0.6545887589454651,22,True
+1522820,97167082,76561198068927556,"I've been a fan of the Orcs Must Die! series for quite some time, and I've particularly enjoyed diving into the endless mode. However, it's disappointing to say that the current state of the game has introduced some significant problems that are seriously affecting my experience.
+
+One of the most glaring issues revolves around the Unreal Engine 4 (UE4) that the game utilizes. While playing the endless mode, I've encountered repeated fatal errors stemming from the UE4. To my dismay, this issue has cropped up three times out of my seven total runs on endless. It's disheartening to witness top scores on leaderboards being achieved through exploiting these glitches, which casts a shadow over the game's competitive integrity.
+
+The problematic state of the game, coupled with its persisting bugs and glitches, compels me to share my negative feedback. Despite the passage of time and the lessons learned from the shortcomings of Orcs Must Die! Unchained, it's disheartening that an unfinished and buggy game has been released.
+
+Unfortunately, even two months after my initial encounter with the fatal crashes, no fixes have been implemented, and technical support remains unresponsive. This lack of attention from the development team paints a concerning picture.
+
+Fast forward to three months later, and the situation remains unchanged. The developers continue to overlook these issues, leaving players frustrated and unable to fully enjoy the game. The game feels as if it's stuck in a pre-alpha stage, with the prospect of more resets looming.
+
+Bugs have undoubtedly marred what could have been an enjoyable experience. It's disappointing to observe the developers' apparent lack of concern for these issues. This sentiment is further compounded by the release of new DLC that introduces even more bugs while failing to address the existing crashes.
+
+A year has passed since my initial encounters with these problems, and it's disheartening to note that not a single response has been received from the development team. Technical support seems nonexistent for the game, leaving players like me to deal with a multitude of bugs, crashes, and cheaters. Even the scoring system is riddled with inconsistencies.
+
+As we approach the two-year mark, a new patch has been introduced. However, it's disheartening to see that the major issues that have plagued the game remain unaddressed. The Orcs' AI still leaves much to be desired, and barricades continue to break unexpectedly. Archers, cannons, and ballistas still exhibit subpar AI, rendering them ineffective against hordes of enemies. Crashes persist, the lack of in-game communication is glaring, and even the basic game resolution settings are broken.
+
+Additionally, Robot Entertainment has reset the leaderboards due to trap balance adjustments. Consequently, players are now unable to register new scores, as they must achieve new high scores on all maps in order to record their latest achievements.
+
+It's baffling that ROBOT Entertainment seems incapable of rectifying the technical issues that plague the game, preventing players from enjoying it to the fullest. The journey with Orcs Must Die! 3 has been marred by the frustrating persistence of these problems, and it's a shame that the potential for a great experience remains largely untapped due to the lack of adequate fixes.",0.6038782596588135,13,False
+1522820,103563628,76561198001533056,"1 and 2 are better, this one has worse traps/map design and a bit buggy.
+the positives don't matter really when the core game need more work but i don't think they will fix since DLC's are the main focus it seems.
+get it if its on sale.",0.6029278039932251,17,False
+1522820,97134772,76561198105778306,"The coop is nice. Though after playing 15 hours you kinda finished the game already, not enough content to last longer (maps, weapong, scenarios).",0.6024799942970276,7,True
+1522820,96270779,76561198048294140,"I fell in love with the first two games years ago. I never played Unchained unfortunately, but tried OMD3 the day released on Stadia. I beat it and kept playing for a while but stopped because I enjoy the co-op and my co-op partner wanted to wait for the Steam release.
+
+We just spent nearly four hours playing it, and enjoyed every second of it. Though a bit of that was him sitting there while I went ""OOOH, new trap! This wasn't on Stadia. I gotta try this!""
+
+If you've played the previous OMD games... Yeah, it's an OMD game. If you enjoyed the previous games, you'll almost definitely enjoy this one.
+
+If you haven't played OMD games... It's tower defense with some shooting involved. You place traps. Orcs run from the entrance to the exit, and you wound, maim, crush, smash, slash, stab, shoot, burn, fry, shock, melt, freeze, explode, confuse, charm, explode some more, slow-while-doing-some-combination-of-all-of-the-others, and probably a few other things... them until they're all dead or they overwhelm you.
+
+I adore this series, and OMD3 has not disappointed me at all. Chances are that the game isn't going to result in 1,000 hours of gameplay, and that's fine. It's not an MMO, and it's not a AAA game.
+
+However, It -is- a massive amount of good, innocent fun for the whole family*.
+
+*Depending on your family and definition of innocent, also with the understanding that co-op is two players only. So if there are more than two of you, pick the family member you like most.",0.600743293762207,24,True
+1522820,96246596,76561197996450068,"More fun Orcs must die gameplay, if you enjoyed Orcs Must Die 1 and 2, give this a go. Fun campaign, endless mode and the old school feel of the early Orcs games. Best tower defense series is back. Pretty much the same as Orcs 1/2 but with more stuff.",0.599822461605072,6,True
+1522820,164972984,76561197960435873,"New heroes are a little bland, but the game still plays well and is a great time.",0.6487630605697632,12,True
+1522820,184612499,76561197990971424,"The game is fun, but the voice acting makes the game the game worthless.",0.598540186882019,5,False
+1522820,221493594,76561198877869748,"This is one of my favorite games of all time, I would watch my dad play this series when I was little and I'm glad to be here now.
+
+If you love trapping and slaughtering thousands of ruthless orcs, this is the one for you!",0.5972965359687805,5,True
+1522820,106655249,76561198035391503,"Orcs Must Die 3
+-------------------------
+fun, seriously fun
+Third entry in the fantastic and fun tower defends meets rpg game.
+it does everything i wanted it to do.
+Awesome traps, funny story, funny characters.
+
+If you like this franchise, then do not wait and get this one as well.
+Really solid title.
+
+Enjoy the game !",0.596388578414917,8,True
+1522820,97130066,76561198032083183,"Exactly what it should be: a proper sequel to OMD2. New maps, more traps, improved graphics, and the war scenario mode. What should have been made previously instead of that Unchained abomination.",0.5954670906066895,17,True
+1522820,159459710,76561198096826077,"Orcs must die 3 is similar to all the other orcs must die games, but with more orcs. new maps and such. It does tower defense really well",0.5931060910224915,7,True
+1522820,96942901,76561198058223508,"If, like me, you are an OMD! Veteran looking for more Orcs Must Die!, that isn't Unchained, then this may be for you. 
+
+If you are new to the franchise then I HIGHLY RECOMMEND skipping this entry entirely and starting with the better, Orcs Must Die 2!.
+
+OMD2! Is better in NEARLY every way. Level design, character design, content, skins, weapons, traps, bugs, story, UI, soul, etc.
+
+OMD3! does have some new traps/weapons/trinkets, but also completely removes or changes ones from the previous entry. 
+OMD3! does only TWO things better than OMD2!:
+One, you can refund individual traps (but not the trap itself!). 
+Two, dying no longer counts against your rift points, at least on Warmage (default) difficulty. 
+Whether this is better or not is debatable, but I like it personally. 
+
+Things I don't like in OMD3! (Minor playable character spoilers ahead):
+
+-Forced to play two new characters who, while not terrible, are no replacement for the second game's Max and Gabriela.
+
+-Characters no longer have different health/mana pools as far as I can tell, and only have different ""secondary jumps"", which mostly suck compared to those of Max and Gabriela. This makes Cygnus feel unplayable, comparatively. 
+
+-Some things are still bugged, like the Bladestaff, which cannot be leveled up unless you have a pre-order version of the weapon. Mind you this game came out like a year ago as a Stadia exclusive so.... wtf.
+
+-Skins suck. Max is the ONLY character with a skin that isn't a simple recolor, and its just a worse version of his Classic skin. All skins in this game are kinda lame, and there is only ONE per character, with the exception of Max, who gets one PLUS the same recolor theme as everyone else.
+
+-The UI is super simplistic and soulless compared to the second game. Every character has the same victory dance too, which I am pretty sure Max and Gabs had separate dances in OMD2! There is still different dances for how many skulls you got though, at least two (4 Skull and 5 are the only I've seen).
+
+-Flyers have been COMPLETELY removed until the (short) secondary campaign which i think was originally DLC before OMD3! came to Steam. Again, why remove things from a sequel that worked in the original without a suitable replacement or REASON to be removed outside of laziness?
+
+-This might be a problem in the second game too, I really don't remember, but SOME maps are made in such a way that playing alone makes it VERY difficult to 5 Skull (Perfect) a stage, even on Warmage difficulty. 
+
+Finally. Siege battles (The ""big new thing"") are boring, at least on Warmage difficulty. They take way too long, are not really challenging or even much of a spectacle. They can all be handled pretty much with some barricades and a couple of condensed super kill boxes, which are easy to make with how much coin you are given for these maps. One can ignore MOST of the new SIEGE ONLY traps, after the first siege mission, because why bother with them!? Also, everyone of them has a BS mechanic. Usually it is a Boss being introduced in the Final Wave that has some BS mechanic that will ruin whatever you have set up. IF you have played the map before, its no problem because you know its coming. But if you were doing really well on your first run and one of these things shows up and ruins your perfect score with absolutely no warning before the Final Round, then you might get upset. 
+
+(EDIT): A recent patch has fixed a few of the major bugs, and made some traps a little better (usable). The review still stands however, as the primary issues with it would require more than just a couple patches. If they fix and add enough, to make it on par with 2, I will consider a positive review. A sequel should never detract the good things of its predecessor, without suitable replacement.",0.6425266265869141,19,False
+1522820,96670613,76561198036305257,"OMD3 does have 1 fatal flaw. If an orc DOES NOT move out of the rift he cannot be killed. If he cannot be killed you cannot kill all orcs. If you cannot kill all orcs you CANNOT WIN.
+
+So if an orc glitches and does not leave the rift you cannot win, and by default will be forced to quit.
+If this happens to you during a ""Scramble"" for instance, on the 2nd map after you completed all waves on both maps WITHOUT losing a rift point you would be well within your rights to be angry.",0.5914449691772461,7,False
+1522820,96766601,76561198024753734,"I like Orcs Must Die games. Although this one lacks the content that previous games had, I liked Orcs Must Die 3 too. To sum it up, you build traps, kill orcs and defend your base. It has a simple premise, and I like it. The graphics look beautiful. The soundtrack is nice. Just like the previous games, the humorous storytelling is good. At the end of the day it's a good game but in future I prefer playing the first game or the second. Here are my reasons for that:
+- There are lots of new traps in this game, but most of them are useless. There are only 6-7 traps that are worth using, rest of them are just waste of time. I prefer quality over quantity.
+- War Scenarios! These levels are huge, and they throw hundreds of orcs at you. They spawn from 3-4 different spawn points and trying to control them is exhausting. While playing these levels most of the time, I was praying for the level to end. I wasn't having fun, it felt like a chore.
+- Co-op element. It is very clear that most of the levels are designed for co-op. They didn't think of the single player aspect while designing these levels. You hardly get breathing room between the waves and trying to get a 5 star while playing single player is too hard in some levels. In previous games I always had the time to mess around and have fun.
+- The main campaign is too short. If you are not a perfectionist and not trying to get a 5 star on every level you can easily finish it in two days.
+Overall I had fun while playing it but I think first and second games are superior.",0.5900439620018005,5,True
+1522820,102669529,76561197971781316,"as many other wrote: this is not a tower defense game. It's a shooter with traps. After realising that the traps are pretty much useless, I started leveling the weapons + barricades. This is not fun at all.",0.6391119956970215,107,False
+1522820,141574509,76561198022869219,"Fun game to jam with a friend, strategy involved. Works great on Linux as well so a win win tell the orcs kill you.",0.6389682292938232,12,True
+1522820,131466940,76561198115267858,"excellent game, beautiful and balanced, challenging , funny and most important fun game, thanks to the artists and developers",0.5893996357917786,9,True

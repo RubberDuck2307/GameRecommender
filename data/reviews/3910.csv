@@ -1,0 +1,532 @@
+appid,recommendationid,author_id,review,weighted_vote_score,votes_up,voted_up
+3910,13772955,76561198159728624,"*Plays an Arab country*
+*Discovers Oil*
+
+2 Turns later: ""America has declared war on us!""
+
+
+
+11/10 for historical Accuracy",0.8706335425376892,791,True
+3910,198152861,76561198013224387,"Firaxis recently changed their Terms and Conditions to harvest data and present vulnerabilities and breaches to software and operating systems. Under no circumstances update, launch or install the game. This practice must be named and shamed. No support! Vote with your wallets!
+This game is now spyware!",0.8622037172317505,95,False
+3910,41289183,76561198027851183,"What makes Civ3 stand the test of time? Combat. The only Civ that can compare to Civ3 in terms of combat is Civ4. Every Civ after 4 wants you to play with a handful of cities and no army. Civ3 is literally about taking over the world with massive armies of 500+ units. Even 4 reigned this in because in 4 you need siege units to take cities. The unit sound effects in Civ4 don't sound like battle hardened bad asses like they do in Civ3. Civ3 is not a perfect game but it is solidly designed game, built by solid PC game designers, prior to the corporatization of video gaming. 
+
+The later Civ's don't improve on the flaws on the previous versions, they are completely different games with new flaws, and in my opinion they do not provide a good experience for military conquest of the world, while Civ3 perfectly encapsulates this.",0.84964519739151,63,True
+3910,188380069,76561198002812788,"It's just like I remember it. There are some things you need to fix before playing this game, sadly.
+
+Resolution is wrong for modern systems.
+1. Browse the game local files.
+2. Find the folder Conquests and open it.
+3. Find the file named conquest.ini and open it with notepad.
+4. Add KeepRes=1 at the bottom of the file and save.
+5. Start the game and enjoy normal resolution
+
+Into movie is kinda broken.
+1. Find the file named conquest.ini from before and open it with notepad.
+2. Add PlayIntro=0 at the bottom of the file and save.
+3. Start the game. Now the Intro won't be playing.
+
+When you open diplomacy, there is a sound bug. 
+1. Go to https://www.indirectsound.com/
+2. Download the file and browse the game local files.
+3. Find the folder Conquests and open it.
+4. Extract the dsound.ini and dsound.dll into the Conquests folder.
+5. Start the game and the sound bug is now fixed.
+
+Enjoy the full experience with this old great classic game on modern systems.",0.8438602089881897,55,True
+3910,7750402,76561197978716145,"One of the best games of all time for Strategy genre fans. The interface is not as streamlined as Civ 5, nor is the game play as intuitive as Civ 4, but it is the best of the Civ series to operate on an old computer. Bear in mind that the AI is not as sophisticated as most would like - the computer controlled opponents will gang up on you for no reason. However, this game is well worth the low price of $5. A physical copy at Wal-Mart will still set you back $10.",0.8931252360343933,146,True
+3910,43505835,76561198446906929,"Loved this many years ago & it is still an excellent strategy game in 2018
+
+Info: Windows 10 users will need to do a few tweaks to make this run correct & look as it should on a modern HD monitor, first find the configuration file conquests.ini, open with notepad, scroll to the bottom & add the line ""keepRes=1"" to run the game at your display resolution, next find the file civ3conquests.exe, right click & in properties select to run both as administrator and in windows XP SP3 compatibility to fix a bug where the game freezes at the end of a game.
+
+You're welcome & enjoy this classic ^_^",0.8912785053253174,79,True
+3910,8479052,76561198046702487,"Having played Civilization 2-5, as well as the games made by the original team of Civilization : Call to Power 1&2,
+I would say ANY Civilization game so far is a buyer and a keeper, if you are into turn based strategy games.
+The only reason Civilization 1 is missing from my collection is the rareness of finding someone having and willing to sell his/her copy, I woud jump at the change;)
+
+every Civ Game adds a little and removes a little, the one that you like most is personal flavour.
+To me this one certainly ranks higher than the later Civ 4 and 5.
+This game was and is the height of ""classic"" Civilization games.
+
+For you people ariving at this from Civ 2 : you only will miss the old advisors (civ 5 and they still not have returned them sadly enough)
+For you people ariving at this from Civ 4 and 5 : no religion, but instead you will love the stacks of doom, army units, and other things that were removed in later game.
+
+This game is also somewhat older and a lot lighter on system requirements than later civ games, making it great to play on any device you want to. Also for a mere 4.99 (and it's often on sale for 2.49, and more rare for 1.25) you have an asolute bargain!",0.9235159158706665,274,True
+3910,13073820,76561198031039328,"I've played this game a little more than I should. Granted this is the only game I play, I own the the entire series of Civilizations. I like this one the best. For a few bucks you can enjoy it for a long time to come. Definite buy.",0.871803343296051,129,True
+3910,232687958,76561198921157012,"I started playing civilization way back in 1991. Then they came out with CIV3. In my opinion CIVILIZATION 3
+Is the best computer game ever created. Then they came out with civilization 4-5-6 I didn’t like those games, I couldn’t even figure out how to play them. They ruined the best game on earth civilization 3.
+Civilization 3 is the pinnacle",0.8152111172676086,43,True
+3910,148220253,76561197991608920,"This game is the gambling addiction of civ design.
+
+Less features than the newer ones, but also less fuzz.
+
+Simply one more turn.
+
+
+To get this game running in your desktop resolution. Find conquests.ini in the conquests folder (*\steamapps\common\Sid Meier's Civilization III Complete\Conquests)
+and add:
+keepres=1
+
+If you require a custom resolution, also without potentially changing your desktop resolution with the above ini line.
+Use this:
+https://www.bcheck.net/apps/reso.htm
+I recommend 1600x900 for 16:9 on a 24 inch monitor. The city menu will be 4:3 regardless, but I don't mind. There are custom menus and stuff over at civfanatics.com
+
+This game's music can glitch out, stuck in a loop, and with no music for leader negotiations.
+Here's a fix:
+https://www.indirectsound.com/
+Extract the two files into the conquests folder.
+
+Source:
+https://www.youtube.com/watch?v=_psi0Lxoh2E
+
+Lastly, a quality of life mod for beeing able to browse leaders in negotiations (similar to the newer games), better unit stack management, fix for AI to use artillery and much more:
+https://forums.civfanatics.com/resources/c3x.28759/
+
+:D",0.8124930262565613,42,True
+3910,14884807,76561197963736646,"I love Civ III.  I didn't like having to search for my CD to play it every time, or find the original CDs every time I wanted to install it on a new computer.  $5 later, I have Civ III Complete on Steam now!  Way more convenient, fully patched, works flawlessly.  If you are still messing around with your old version on CDs do yourself a favor and just grab the Steam version.  Considering how many hours you are going to put into it, you deserve it.",0.8466095328330994,77,True
+3910,65554430,76561198048551819,"In excess of 3,000 hrs played via Steam download and that doesn't include all the hours played of my previous disk version.  The ability to download fan-created scenarios or make your own is amazing and this is the BEST version of Civilisation...sorry but I think they screwed up in the later versions and lost some of the best bits about Civ. Stick with Civ3 for the ultimate game :-)",0.7754191756248474,36,True
+3910,185727909,76561198158058464,"This is the peak of Civilization, I say this as a completely unbiased person. We have MILF Montezuma and GI Jeanne d'Arc, stacks of 20 spearmen treading through nuclear waste, railroad spaghetti so good it'll make your toes curl, man's first interpretation of facial micro- sorry, macro-expressions, ... This game is the meme that keeps on giving and I will forever cherish it. ♥️ 
+
+It's also legitimately fun to play, not just funny. I found Civ 6 so bloated and busy with its many menus and DLCs that it sort of turned me off. I was surprised to return to this fossil of a game and then have more fun with it overall. Civ 3 also has a couple of features that aren't in the series anymore, like having a city view, designing your palace, the civ leaders and your advisors having a wardrobe update every era, ... it has spirit, it's a vibe.",0.8250758051872253,43,True
+3910,154766156,76561197983387573,"I didn't even know it was on Steam until I grabbed it for around 1$ on sale, what I believe is an insane deal.
+
+Civilization III still beats a lot of modern titles when it comes to replayability and the gameplay loop fun-factor. There are also a lot of mods out there so you can easily change your world to e.g. Middle-earth, Warhammer Fantasy, Game of Thrones, or even Star Wars.
+
+I honestly think this is the best purchase I've ever made on Steam.",0.7675132155418396,33,True
+3910,12422064,76561198002608541,"I played this game way back in 2001. The problem I faced was at that time, I had an ancient Pentium II 300Mhz PC. So you can imagine how I felt as the game was nearly unplayable for me.
+
+Coming into the present time of 2014, I was glad that Steam offered Civilization III for sale. I quickly bought it and played on my modern top of the line laptop. It sure brought back the memories. 
+
+This game can be considered a classic in the turn based strategy (TBS) genre. TBS fans would most definitely love this game despite the dated graphics. I must also like to add that the Steam version of the game works perfectly fine in Windows 8.1. A TBS haven to say the least!",0.8168361783027649,101,True
+3910,87248718,76561198193737125,"I have played Civ II, III, IV, and VI. III is my favorite.
+
+Here's some of the reasons why:
+
+- The graphics/visual display are just so clear, everything is so easy to see. It can feel like a lot is going on on the map, but this art style makes it really easy to take it all in.
+- While I always felt this base game did lack things like religion, civics, and city-states, I never felt it was implemented so well in the other games that they rise above Civ III.
+- Although you can manipulate the pacing of the game, the actual pacing of the game-play always felt great to me. Things like world size, how far troops move, how long it takes to start a war, conquer an enemy, grab a new resource, etc. 
+- The soundtrack hits the themes of your scientific age really well. Whenever I was in the modern age, I really felt like my civilization had culturally & emotionally matured, and knew their place in the world. I felt the soundtracks reflected this journey.
+- Wide range of civilizations, unit choices, wonders, structures, etc. Without feeling overwhelming.
+- The AI are actually pretty challenging. On max difficulty, almost no one has beat the game, especially without trying ""cheap"" tricks. But, that actually makes it really fun for role-playing as a less powerful nation, trying to hang on to its identity throughout time without being wiped off the planet, or technologically backward. It's almost like they bundled ""The Sims"" for cities/civilizations into this game too!
+
+The mod support for Civ III can really extend its shelf-life too. I have sparingly played the multiplayer, I was able to be perfectly satisfied with just the singleplayer. Like all Civ games, it may have a slight learning curve, but you can jump in and start having fun playing immediately. The learning curve is more about how you might play really well against harder AI. Finally, note that this game is not heavily about combat, or visuals relating to combat. They exist, but the excitement of something like a large tank-battle in Red Alert 2 would not be present in this game. It's more about calculated, strategic decisions and movements, similar to a board game.",0.7571931481361389,27,True
+3910,106546409,76561198046219083,"I grew up playing this game, it kept me very much sane as a kid during rough times. Its a great game, made right before the transition to full 3d. I like this style better than the cartoony 3d of the later civ games.",0.7546756267547607,28,True
+3910,132265121,76561198832534082,"I'm not sure if it's just nostalgia and me being old and set in my ways, but I own the most recent civ on the nintendo switch and it is just not the same as civ 3. This game has filled many of my nights in both my youth and now my 30s. Worth the buy and should run on just about any computer now adays, I do not have a gaming laptop myself, just a thinkpad with a ssd swapped in.",0.7477257251739502,24,True
+3910,21063124,76561198025297465,"I share my steam account with my Dad. 
+He plays only one game - Civilization III.
+He's clocked in over 4000 hours on this game. 
+He plays it religiously and has recently gotten my uncle (who is the same age as him) addicted to it as well.
+
+Let's just say my mom and my cousin's mom aren't very happy with them being addicted.
+
+Mom and Aunt: ""How can you even keep playing this game over and over again? Don't you get tired?""
+Dad and Uncles's response ""You must understand. I'm getting civilized""
+
+11/10 - Get Civilized. Play Civilization III.",0.8447793126106262,68,True
+3910,118666813,76561199327940862,"I'm an old school old man.  I've played many a game , but I always come back to this little classic.
+",0.7925019860267639,44,True
+3910,2067652,76561198001752554,"The third installment in the Civilization series which is getting pretty old these days, with it's successor Civilization IV and V.  This is another one of those titles that you might have grown up with as a kid and have had nostalgic value to you. This is at least the case for me. I remember that the game took a chocking 700 MB of space on my hard disk and it was generally tanking my late 90's computer. I have sunk a huge amount of hours into this game and for me this is the best game in the series.
+
+Civilization is probably the most dominating Turn-based strategy game in the gaming industry. The Total Wars games for example are RTS/TBS hybrids, while CIV is completely TBS. True Civilization enthusiasts probably rank Civ3 pretty low, compared to Civ2, Civ4 and Civ5 which were very well received for their times. For me however, Civilization 3 is the favorite among the ones I've played (Civ3, Civ4 and Civ5). Again - because of it's nostalgic value.
+
+All Civ games start out the same way unless you play a scenario or campaign. You start off with a settler and a warrior of some sorts. The settler can build a city, and as you find a suitable location for your capital - let your Civilization begin! Beware though, once you have started a game you won't be able to leave for at least 4 hours. This game is honestly best played during the night and is mostly a single-player experience.
+
+There is a Campaign/Scenario mode, where you play historical events or just silly settings. As well as a multiplayer mode, but I have never enjoyed these ones at all. Nothing beats that random map mode, select the terrain, the climate, map size and your opponents/allies. Let the history get rewritten as you choose the path of the righteous, or the path of the tyrant. Through exploding expansion, racing technology, crushing warfare and cunning diplomacy you must stand victor as the one and only dominating superpower.
+
+[b]I only recommend picking this up if you have a personal connection to it, or if you are entirely out of gameplay from modern titles.[/b]
+
+[u]Note: You might want to check out [url=http://store.steampowered.com/app/8930/]Civilization V[/url] ([url=http://steamcommunity.com/id/mendozacheers/recommended/8930/]Review[/url]) as it's a modern take to the genre and series.[/u]",0.7919498085975647,56,True
+3910,17316038,76561197991394048,"I have the games on hard disk got them when they first came out. Love this game so much that I bought the steam version, and to my amazment it seems to play smoother then the disk version. To me this game is better then the newer ones. I still play this game to this day. well worth the fiver I spent to get the steam version.",0.773941159248352,36,True
+3910,221097553,76561199801323705,"- Start a game
+- Meet another civ
+- They ask for everything I own
+- I refuse
+- They declare war 
+11/10 realism",0.7235724925994873,20,True
+3910,35553702,76561198096964639,"One of my favorites ever. Prefer civ 3 to new civ games. I have literally played this game for 1,000's of hours(I had the disc version too). My college GPA would have been half a letter grade higher without this game.",0.8198356628417969,79,True
+3910,125780486,76561198125618289,"When i first played Sid Meier´s Civilization I was almost 10 years old. And yes, it was the first part. I didn´t had my own PC and played with my friend Benjamin on his father´s Computer. I was so excited about the game that I told everyone from the 4000 BC timeline until about 2000 AD. The cities and nations, which you could expand at will, were such a nice game concept that when I wasn´t sitting in front of the computer with Bejamin, I would spend hours in my children´s room imagining how our civilization might be progressing.
+
+The second part of Civilization was published almost 5 years later. In the meantime I had my own PC. So I already played the second part extensively and had partly built up such large nations that the rounds seemed endless to me. I still remember a score with Russia on the real map; it was one of my greatest saves in Civilization II.
+
+Sid Meier´s Civilization III was published in 2001. When i heard about it, I immediately ran to the computer store near my parents´house. I begged my parents until they agreed to buy me a new PC. So, i ran back to the computer store and bought a new PC for Civilization III.
+
+And I have to say it was the best Civilization of all time up to that point. The intro was cinematic at the time and the animated units enthralled me so much I thought I was in Sid Meier heaven. The expansion of the palace is also still present in this part, wich was taken over from the first part.
+
+Okay, you could see this text as a clumsy advertisement for Sid Meier´s Civilization series. But in truth, only the little boy is speaking here, who sat down in front of the game Civilization a long time ago and has been a real Sid Meier fan ever since.
+
+",0.7148881554603577,24,True
+3910,228079974,76561198875204725,"I've been playing this game for 25 years. I was 11 when my mom got it for me at Costco. I have played 1237 hours just in the time I've had it on Steam, maybe 2-3 years. So yeah, it's pretty good. I mostly play for the exploration/settlement aspect, or to conquer everyone on Chieftain mode. Sometimes it's fun to play a huge Pangaea map with 0 other civs, and make two cities really far from each other. Then try to protect the road between them from raging barbarians. Ha ha. I had no idea this game has mods, time to try some out.",0.7146371603012085,22,True
+3910,8626826,76561198109352174,A good game to waste countless hours of strategical planning and destroying other civilizations. If you get bored of the vanilla textures you can go and search googles for different ones. This by far got me right into the Civilization series and others. If you want to play multiplayer good luck finding a host. You can host your own but no one will play so the best is just host a hotseat or a lan party. I give this game a 10/10.,0.7621239423751831,58,True
+3910,148172757,76561198035388138,This is my favorite of all the CIV games. I had this game for my old Windows XP when it came out and I've put so many hours of my life into this game. The world creation editor and scenarios are great. Units stack. It's everything.,0.7096113562583923,18,True
+3910,158954064,76561198277822254,"• The best Civ of the entire series. Every Civ after has departed from this, which is a real shame. I would've loved to see some quality of life updates and a remaster. Still an easy recommendation.
+• The gamestudio mentioned wanting Civ to feel more like a board game. Civ 4 doesn't accomplish this, Civ 5 does so a little bit, Civ 6 absolutely does, but it's to its detriment. The uncomplicated nature of this PC game, that gets as hard as you like, makes it an absolute masterpiece.
+• Be prepared to play for hours on end, there's no such thing as a short game in Civ 3. You'll be saying: ""One more turn"" as the sun goes down, only to see the sun come up, feel tired all day, and do it again the next night.",0.7091677188873291,25,True
+3910,105678303,76561198800083534,"The ""35hrs"" above is what I put in on Steam. However, I spent thousands of hours on the original, physical version over years and years. It was basically my entire teen years.",0.7552108764648438,28,True
+3910,187673092,76561198399831227,"People call civ 4 the ultimate classic civ, but honestly, civ 4 is more of a weird inbetween than it is a true classic game (which IS why it's the best one) This however, is probably the best true classic civ game. CIV 1 and 2 are really fucking old and dont really even run on modern systems, and their UI is nightmarishly old. this game was the first one to have a functional UI, and somehow, is still better than civ 7's on launch despite being from 2001. it's also extremely moddable.",0.7044817805290222,22,True
+3910,18430486,76561198026329103,"This is the game that started my love of the Civilization series, and strategy games in general.   I have fond memories sitting down and spending hours playing this game, even though I didn't fully understand it's mechanics at the time.  As I grew older, this was my favorite game for a number of years.  This game holds it's own in just about every key aspect, even compared to the newer installments of the Civilization series.  Online multiplayer? You bet!  Unique mechanics and smart AI for it's age? Yup! Good graphics for a game made in 2001? Heck yes!  The replay value of this game makes even Civ 5 blush.  I've been playing this game since 2006, and I still never get bored of it.  Every scenario pans out differently, and no two games are ever quite the same.  Even to this day, I prefer this over Civ 5.  Maybe it's the nostalgia talking, but this is definitely my favorite Civ game of the lot.",0.7508590221405029,26,True
+3910,173978589,76561198121127570,"Civilization 3 was and is, by far, the best Civ game ever. I do not understand how Sid Meier could deviate from the concepts, GUI, look-and-feel, etc., of this great game. Civ4 started to deviate by removing the 'defensive' stats of units, diplomacy seemed much more limited, and the graphical design was very bad with the 'giant units.' I won’t even mention Civ 5, which I played for maybe 30 seconds before immediately uninstalling: Civ 5 is an insult to the Civ lineage. Civ 6 I played for a few hours, but it just feels painful—it’s as if they deliberately threw away all the great ideas in Civ3.
+
+Combats, for example, which were always central to Civ, are now almost nonsensical to me. First, it is nonsensical and a pain to remove unit stacking. 'Ghost' garrisons that 'magically' exist in new cities are just nonsense. Unit movement points causing units to 'wait' until the next turn to move to hills or similar terrain is just a pain—all the excitement of combat in Civ 3 was removed. Diplomacy feels 'pre-defined' and dull compared to Civ3. And the interface is catastrophic compared to Civ3—the wonderful and very practical advisors's screen where you could see all your cities (and citizens' heads!) and all your units (per city or per unit), etc., are gone and replaced by useless and awkward elements. Wonders don’t feel like wonders. Shields are gone. We no longer have the 'feeling' of the process of building and accumulating shields. New 'features' like the 'civics tree,' districts, and other additions are merely minor and unnecessary complications that don't add any real value... I could go on for a while. 
+
+I really beg Sid Meier to reconsider Civ3, which is objectively a wonder of the world. I am sick of people thinking that they need to change things just for the sake of change—even things that worked well! Keep the things that work. There are, however, many minor changes and improvements (e.g., new units, some details or 'bugs' in the diplomacy, etc.) that can be addressed. But 'change for change’s sake' is simply equivalent to stupidity and generally leads to very unsatisfactory outcomes. In the culinary world, you don't improve a recipe by randomly changing all the ingredients.
+
+Please, Sid Meier, if you read this: It’s time to revive and continue a 'true' Civilization lineage that fully embraces and builds upon the core principles that made Civ3 an unparalleled masterpiece.
+
+
+P.S.
+Please note that I have been playing Civ 3 since it was released around 2001-2002, and I still play it today. Before that, I played Civ 2, which was a fantastic game as well, though I must admit that Civ 2 now feels a bit ""dated"" to me.
+Civ 3, however, still doesn't feel like an old game, even here in 2024, which is solid proof of its enduring greatness.",0.6993097066879272,36,True
+3910,7851766,76561198047367968,"Sid Meier's Civilization III is a must own for people looking for something with a little strategy. The game may be 10 years old, but it still packs a punch that can ease anyones hunger for strategy. It still surprises me after playing it for nearly 6 years, and I'm happy to report that you can't get more bang for your buck than this.
+
+EDIT: game is still goated",0.7487684488296509,60,True
+3910,92535724,76561198418718890,"While I've played more of Civ 5 and 6 at this point, this is the game that got me into the franchise. I still remember playing it at a friend's house when I was a kid--years later, that memory was powerful enough that I looked it up on Steam. Still a great game!",0.7455192804336548,22,True
+3910,64667936,76561197993023804,"In my ongoing and likely futile effort to write a Steam review for every game in my library (#267 out of 612)... it's time for Sid Meier's Civilization III.
+
+Arguably the most important, if not the best, entry in the venerable Civilization series. While today Civilization 5 may be the definitive version of Civilization, Civilization III used to claim that spot, and is still very much worth revisiting today--especially if you're looking to play Civ on an older PC that might groan and creak under the strain of modern games.
+
+Civilization III is incredibly polished and boasts an enormous amount of content, especially with regard to mods. The 2D visuals still look gorgeous today and a modern CPU can bruteforce its way through that usual murderer of Civilization playthroughs, the late-game slog. Be warned, however, that Civilization III is a very old game, and it shows its age. Mostly this manifests in the UI, which is considerably less intuitive and clear than we're accustomed to these days--and, perhaps most problematically for new players, there aren't any tooltips. If you've never played a Civilization game before, you're in for a steep learning curve. And if it's been a while since you've played Civilization III and you're looking to revisit an old favorite, well, unless your memory is much greater than mine, odds are you'll have a fair bit of a learning curve to muddle through as well. Who'd've thought the most important innovation in the 4x genre over the last 20 years would be something as simple as tooltips?
+
+Well, anyway. It's Civilization III: one of the finest turn-based strategy games ever produced. In many respects it falls short of its successors, most notably the wildly imaginative expansions of Civilization IV and the perfectly polished systems and mechanics of Civilization V, but it remains an excellent title nonetheless.
+
+Note: Also played on PC, sans-Steam.",0.7866300344467163,37,True
+3910,20591773,76561198126926034,"It's the year 2000. 
+All the remaining civilizations have nuclear weapons, and my civilization is caught in a massive war with the French.
+I can tell they're about ready to take my capital, so I want to make peace with them.
+*opens up advisors panel*
+Military Advisor: ""The [b]French[/b] fear our [b]Archer[/b]!",0.7352468371391296,60,True
+3910,32284821,76561198143902121,"Solid gameplay, catchy soundtrack. Great price too. Would recommend it to someone looking to play a Civ game but maybe their toaster can't run Civ V.  
+
+Only downside is the game doesn't do a great job of explaining its mechanics to newcomers, but just play it for a bit and you'll get the hang of it.
+",0.732505738735199,84,True
+3910,196735380,76561198353230601,Best Civ game of all time they should make a remaster with better graphics and the exact same gameplay.,0.6819233298301697,16,True
+3910,129815785,76561198057734042,"So I am a poor old man and I cannot afford a nice computer right now. Life. I can play CIV III on my little weenie hp laptop. I have CIV VI, and played it a great deal, but CIV III it is until I get a computer with the guts to run it. What I have found is this: the older versions are far more combat oriented. I suspected as much, as religion became more important in later versions, as did diplomacy, with the addition of city-states. The simplicity of the earlier versions lends to conquest victories, as cultural and diplomatic victories offer little in regards to actual gameplay. These victory types seem much more passive in CIV III. But I love this version, because the AI is brutal and unforgiving. You cannot make mistakes, you always pay. I believe that makes these versions a tad more realistic in feel, though low reward visually.",0.7284569144248962,32,True
+3910,30786713,76561197987084977,"-America keeps getting angry because my workers are entering their land while building roads.
+-America says they must leave or risk war.
+-Declare war.
+-Destroy all but 3 of their cities.
+-Offer peace in exchange for all the gold in their treasury and New Orleans.
+-They accept.
+-Peace.
+-2 turns later capture their second-last city.
+-Offer peace in exchange for all their gold.
+-They accept.
+-Need 2% more land to secure domination victory.
+-My mechanized infantry roll into Atlanta and are greeted by Spearmen and Archers.
+10/10 would be bully again.",0.7283627390861511,21,True
+3910,25916754,76561198107506609,">Be me, 10 year old kid
+>Play Germany
+>Start conquering in industrial age
+>Kicking the third reich off right
+>Conquer India first
+>Glorious Panzer army conquers all
+>Start hiring workers out of their cities to remove the native population
+>Replace with true German people
+>Displaced citizens slowly get assimilated into glorious Germany
+>Start conquering Russians
+>Kick their ***
+>Start hiring out workers
+>MFW 10 year old me is a better Hitler than Hitler
+>Pick up game again on Steam 8 years later
+>Dig out old clunker desktop and find the save file
+>England is looking awful tempting",0.7280369400978088,41,True
+3910,71650,76561197961124823,"Building on the classic Civilization II, Civ III introduces several new game mechanics including expanding City borders & also for the first time animated units. The player starts off in the year 4000 BC with a small group of settlers and some basic knowledge of road building, irrigation & farming. After choosing the site of their first City the player then has to explore and expand their empire to other locations. The ideal placement of a City would be close to natural resources & luxuries, this will help increase trade, production & happiness of the citizens. Connecting City's via roads also increases trade and the sharing of resources / luxuries across your empire. During the early game roaming Barbarians may cause problems along your borders and any unprotected units or land will be either captured or pillaged. As you progress through the centuries you will eventually meet other Civilizations. Some of these will be friendly and willing to trade, others more hostile and may attack you completely unprovoked. You have the opportunity to influence the opinions of other empires by your actions towards them, giving them gifts or trading technology is usually a way to get on their good side. Later in the game you can also forge an alliance with certain empires in the form of a mutual protection pact. This is especially useful during times of War to help seal victory over your enemies. The game ends in one of six ways, the most traditional being conquest (destroying all opponents). The Space race victory occurs when any Civilization completes and launches a Space Ship to Alpha Centauri. Other victory types are Cultural, Diplomatic & Domination. If the game ends and no one is victorious by any of these, the game uses a ""histograph"" to determine the winner by points.
+
+This is one of my all time favourite games, though Civ IV has more depth by adding religion, unit promotions and other special abilities. I still prefer this version to any other.
+
+There are no in game options for changing to widescreen resolutions but if you do the following: goto your Steam/SteamApps/Common/Sid Meier's Civilization III Complete/Conquests folder then find the file called conquests.ini. Right click to edit the file then goto the bottom and add the line Keepres=1 this will force the game to your monitors resolution.",0.7274172306060791,41,True
+3910,114159518,76561198858956779,"In my 30's now , every time I  turn this game on  it brings back memories rushing from elementary school . The franchise took a total shit after civ 5 . This is still my favorite version still to this day .",0.7252627015113831,24,True
+3910,136897885,76561197989766649,"As old as time itself and about as archaic in its crude simplicity. Anyone picking up a 22 year old game in this day and age either has a fondness for unrefined and quite clunky game or a heavy dose of the memberberries.. However in the case of old Civilisation games the graphics have truly not altered that much of the core gameplay that will be very familiar to enjoyers of the later Civ-titles. Personally I picked this title up to game through the “Middle-earth: Lord of the Mods” pack that truly transformed the generic Gandhi vs Attila gameplay into a more mellow fantasyesque theme where you can shoulder the mantle of Theoden, KING! in an all out struggle for domination against the forces of darkness.. 
+
+The base game is fine and has aged quite well, however there are alot of players reporting issues with compatibility and getting it to play smoothly. This is the pure bane of retrogaming these days and though I had no problems with my arguably ok-ish rig your mileage may vary. If you truly enjoy the other civ-titles this is more of the same, and if you, like me, was there 3000 years ago, bashing in barbarian skulls and taking names, you might find a strange familiar feeling when booting up this relic of a bygone past. 
+
+I recommend it, but I assume I'm already preaching to the choir.. Who in their right mind would pick up a 22-year old Civ title on a whim? Well, in that case, good on you kind fellow, we will make a deity out of you yet!
+",0.6745705008506775,16,True
+3910,30125752,76561198111277333,"Originally I had some crashes with this game version (Steam), but managed to fix it. The info is at the end of the review. Civilization III Complete was one of the games I spent the most time with, and really enjoyed it. For me, it's easily one of the best 4X games ever made (at least in the time I type it).
+
+If you did not play Civilization 3 in the past and are wondering if you should buy it - below is some basic info that should encourage you to do that.
+
+++++++++++++++++++++++++++++++++++++++
+The pluses:
+
++ Lots of civilizations, each plays differently
+
++ Lots of different units + special military unit for each civilization
+
++ The AI scripts are demanding (unlike in most modern games)
+
++ Resources on map force you to play strategically
+
++ Depending on the size and type of the maps, games might differ quite a lot
+
++ You can play in really big maps
+
++ The game has fine mods that you can find on the internet
+
++ It's hard to stop playing it
+
+------------------------------------------------------
+The minuses:
+- It's hard to stop playing it
+
+- At higher difficulties the military victory is the most viable option (only)
+
+- When you control most of the map it's just boring killing of the remaining weaklings
+
+- At the industrial age, you probably control most of the map
+
+- At higher difficulties AI is cheating
+
+- Civilizations are not balanced (some are really good, some - really bad)
+
+- After you learn to use workers and diplomacy, it's not that hard (but still fun)
+
+- Old 2D game, so in native desktop resolution units and fonts might be too small
+
+- Old 2D game, so in native game resolution units might be too big (and no widescreen)
+
+======================================
+
+For native desktop resolution in game:
+
+1. Go to the Conquests folder in your Civ 3 folder conquests.ini
+2. Put ""keepRes=1"" in conquests.ini file (without """")
+
+======================================
+
+Those settings should fix crashes in Windows 7 64 bit.
+
+1. Go to the Conquests folder in your Civ 3 folder
+2. Rename LSANS.FOT to -LSANS.FOT
+
+If that does not help:
+Set Windows compatibility to Windows XP Service Pack 2 and run program as administrator.
+
+If the game runs too slow delete keepRes=1 from ini file (in Windows XP mode the game is slower)
+
+======================================
+
+That's it. You can now go buy the game.",0.7186661958694458,16,True
+3910,61043089,76561198025491854,"The AI is a cheating bastard, Spearmen can beat tanks in battles, Hannibal has muttonchops in the modern era, the late game music has a serious 90s vibe. This game is my childhood; even all these years later it's still one of the best, if not the very best 4X game ever made in my opinion. Sure, it lacks some polish (no put those hussars away, I said *polish* not *Polish*), but it is still immensely playable even 20 years later.",0.7176278829574585,22,True
+3910,54549433,76561198039580049,"Typical ""magic trick"" for Civ games - somehow the hours vanish, I could swear I was sitting here for around 15 minutes, but no, 3 hours passed ... there are some negatives (graphics, combat) but overall I would have to say this is a great classic game. https://steamcommunity.com/sharedfiles/filedetails/?id=1816333510 https://steamcommunity.com/sharedfiles/filedetails/?id=1815767026",0.7626989483833313,34,True
+3910,194392006,76561197993234152,"I love this game; almost 25 years since I first played it, I still find myself coming back to it multiple times a year.  It's deeply flawed- the balance between different units and leader traits is terrible, the AI blatantly cheats, all sorts of now-standard QoL elements are missing (why is Joao always ""Annoyed"" with you?  The interface won't tell you, and it doesn't matter because all of the AI can and will declare war at random).  None of that detracts from this being the only Civ game where it feels like a dynamic, living world, with real empires and massive battles, without being bogged down in so many options and mechanics that late-game turns take an hour each.  I wish there was an option to just observe the AI play entire maps against itself- it does a better job colonizing land and keeping matches lively than any 4x opponent before or since.  It's also like two bucks on sale, so just buy it if you have any interest at all in the genre and haven't experienced it before.",0.6626588106155396,10,True
+3910,22760003,76561198014237183,"I have played this game since it came out brand new back in the day (my hours don't reflect the amount of time I've put into it) and I still believe that it's one of the best games ever made.  Out of everything I've played, I come back to this game over and over again and am constantly amazed at the replayability it brings.  It's always different and interesting to see how the enemy will attack you and what it takes to defend yourself/territory.  Taking over the world is my favorite, but may take days.  If you blow it then just start a whole different one.  It's easy to understand and learn but very complicated to master.  It's right up there with Chess and Axis and Allies in my book of classics. I've found nothing else quite as great........",0.7120686173439026,21,True
+3910,169377346,76561199274146074,"I played Civ 2 for years until it would no longer run on the current version of Windows. Civ 3 is similar to Civ 2 but it will run on Windows 11. The game is complex, but not as complex as later version like Civ 4, which I found to be too complicated - Way too many decisions about type of government, diplomacy, etc. Civ 3 hits the sweet spot for me: Not too complicated but definitely challenging.",0.6596455574035645,10,True
+3910,13675621,76561198110032927,"Nothing beats a classic! 
+Old school modern strategy game. Not too much complex or hard, but not too easy. I bought  the steam eddition, but  before, years ago i had thousands hours of fun with it! 
+For an old PC it's perfect. Great game!",0.7090959548950195,27,True
+3910,162564982,76561197996401038,"It's a BIT touchy, given how old the game is, and the layers of emulation that must be going on to make it run at all.  That said, I still enjoy playing this version, some 20 years on.  The newer games are absolutely cleaner, more board-game-like, but there's something satisfying about having a few HUNDRED units sloshing around the map, to me, and Civ3 still delivers.",0.6571428775787354,10,True
+3910,60055510,76561198412681826,"I have recommended this game for my grandchildren because of the  history synopses. Your description of the era gives a feeling of the times and sets your imagination on fire, I like the strategy challenge it offers. It is fun and allows you to take a break into another time.",0.7054260969161987,17,True
+3910,177291079,76561198190705546,"This is one of the best games of all time. I have been playing it since I was in the 6th grade. I more then likely have well over 1,000 hours of real play time of this game over all the years. I used to come home and pick up my civ from where I left it. Before I knew it hours had gone by. I am now a grown man and I still play this game. IMHO it is far superior to the civ games that have come after it. They tended to make it easier to play and more orientated toward the casual or kid player. I will continue to play this game as long as I can run i have an OS that will run it.",0.6554005742073059,12,True
+3910,103264675,76561198051561868,"If I'd have to choose only one game to play for the rest of my life,
+it would probably be this one.",0.8548036813735962,64,True
+3910,149104381,76561198177958258,"Ancient, convolted, a maddening jumble for younger people playing it, This game was the pinnacle of the series before it became an easy day trip romp in 4. i recommend this to teach kids and young adults the value of balancing the books and to have a blast learning it.",0.6525647044181824,13,True
+3910,77728788,76561198127908974,Arguably the last great Civiliazation game. Every version after this one is all graphics and no substance.,0.7015084028244019,34,True
+3910,198250913,76561198064225162,"Sadly I will not be playing this game anymore. The license agreement is no longer acceptable. First they take my money, then they change the agreement. And do you think they will give me a refund? If this ain't a bait and switch scam, I don't know what is!",0.6503564715385437,16,False
+3910,218349463,76561198799023476,"I can't understate what a brilliant game this is.  Even in 2026, given what gaming has become, Civ III shines for its complexity of game mechanics.  
+
+It starts easy: you explore some land, build and connect a few cities. Soon, you'll be playing a chess of a thousand factors -- as you risk a deficit economy to be the first at some tech tree milestone, or pull five adversaries into a complex web of well-timed alliances, allowing you to successfully invade neighbouring territory with your reputation intact.  
+
+Behind the flat (almost board game) interface, it's a masterpiece mostly for all the cleverly balanced factors you can control, the large variety of angles you'll want to learn to manage, and the way those seamlessly escalate through several ages that reveal shifting priorities.  War, diplomacy, trade, economics, domestic policy, culture and technology -- they're simplified to make it fun to play, but they're woven together so each affects the other. I promise you'll be on the edge of your seat watching your careful plans come to fruition. Or, have to regroup because you misjudged.  That risk is what makes the reward. 
+
+And btw you'll probably learn something.  Genuine effort was put into giving the user insight into the history and context of government types, military units, etc, via a ""Civilopedia"" that you'll want to refer to often to succeed.  (An artifact, probably, of the ""educational game"" era that gave rise to the Sid Meier's Civilization series.)  This is an old game, so expect some archaic UI choices, but it's a timeless classic and worth thousands of hours of your enjoyment.  I can see why so many are still playing it today.
+
+Speaking of hours: my one caveat is how long it can take to play, especially if you decide to play carefully.  It's likely you'll have many unfinished saves, but you can always just start fresh.",0.6488161683082581,11,True
+3910,31935722,76561198162485404,"This is really a fantastic game for $5.  Tons of strategy, tons of replayability, tons of content, and a GREAT soundtrack.   
+
+This may have been released 16 years ago but I can still play it and it feels just as fun as any other strategy game I've ever played if not more.  This game stood the test of time and it's a great buy if you're looking for a cheap strategy game that can run with the best in terms of gameplay.",0.6977335214614868,15,True
+3910,129813985,76561198050807294,"Played the Disc version back in the early 2000's to death, bought the game again on GOG a few years ago, put another couple hundred hours into it. Bought again recently on steam, playing it and still getting that ONE MORE TURN feeling. 
+
+This is a game i will never get bored off.",0.6955095529556274,17,True
+3910,232728350,76561198032332111,"They don't build games like this anymore. Its a perfect time-drain for autists wishing to roleplay historical scenarios focused on core dynamics without gimmick distractions. Yes, of course I can explain why tanks loose-out to a spearman or how RNG Jesus keeps my dice rolls between 1-3 - its called guerrilla war, poor logistics and anything else my imagination can justify.
+
+Who the hell needs graphics anyways! I sank hours manually clicking 100s stack units for the attack sequence back in the day - now with the hotkeys there's no stopping me boys. 
+
+Serisouly, though. Nothing beats the scale and delight of conquering entire continents like in Civ3 - it just feels so grandiose.",0.6428571343421936,9,True
+3910,135450406,76561198076834296,"If you ever liked any strategy game, this game is a must have... I played, probably, more than 15 000 hours and still going strong. There is no better entertainment  value, for money, out there. I would pay not 5 bucks, that I payed, for this game, but 1000$, if I had to...  It is the best, Civilization game, in the series, by far, as Civ 4, has been destroyed, by nonsense such as artillery, ""trowing"" itself, onto the opponent to do damage, no lethal bombardment for planes and few other things. The only three things, that Civ 4 has, is health in the cities (making a game richer), ""live"" in-game editor (must have, for this kind, of long games), and great peoples concept. But Civ 3 Complete, has the most comprehensive editor, of any game, I ever played. That is why I was able to play, for 20 years, and still be entertained. I created 200 additional units, from strategic bombers, to static bunker defences, and I found an Icon, for each, on Civ 3 Fanatics, web site. So. now I have everything, from hummer, to Suhoi Su 35, as part of the game, that works (there is a web link, on Civ fanatics site, that explains how to do this). I also created a scenarios: from my infantry scenarios, where you can build modern infantry units, even from ancient start to the game, to my modern scenarios, where AI starts with bunkers, over all of his strategic resources. Also you would think that bombing (modern me, all others ancient start), the ancient enemies would get old, but trust me it is great fun, with locked alliance option, you can have 31 enemies and fight them, all at once...Note: If you want to use editor, you need to find it first, in the Civ 3, directory and then use help menu to teach you what is what. It is the best help menu I encountered anywhere (not just gaming) , but still far from perfect. Anyway enough said, buy a game and play on easier level, as playing, Sid difficulty, without the editor, is not much fun. AI gets 3 settlers (to your one) and advances 2.5 times faster than you, in technological age. I played a game now-days, without editor and with all my knowledge of the game, all AI had tanks, while I had swordsman's. But, with editor, I created games, in which only I can build, all the Wonders of the World. Lol. It is about having fun, not adhering to, Mr Data's, sense of justice. It is all about abundance and only then, realism - only when it is fun to do so...I also deleted coal, from the game, in order to delete, railroads as they are, too unrealistic, with its infinite movement, on those railroads. So, game, with just roads, is way more entertaining and realistic, at the same time. But, even without editor, Civ 3 is so much better, than Civ 5 or six, and I have never completed, either Civ 5 or 6, but played, Civ 3 instead, even though I own all three games. In Civ 5 and 6, they destroyed the game, by not allowing to place, more than one unit, per hex. I spent more time, trying to place units, on the map, than playing the actual game, overall. Civ 4, on the other hand, I played, 1 to 50, compared to, Civ 3. That tells you all you need to know about this franchise...Civ 3: graphics, concept and editor, is the best, in the series, so you can not go wrong. There is some issues with interface, as it is poorly done, in a sense, that automatic unit activation, is all over the place, and it makes game harder to play. Also AI, does not use artillery, armies or sea invasions properly, but every game's AI is still like that, even now-days, and if you are looking for perfect computer game - you end up playing none...Enough said - have fun, anyway, and good luck....",0.7881608009338379,37,True
+3910,71624703,76561198303639540,"Domination is the only really interesting victory, but what an interesting victory it is. This game is far superior as a military strategy game than later iterations. If you want to have fun playing for culture, Civ 5 beats this any day. But if you want to conquer the world, this is the real civ.",0.7378051280975342,24,True
+3910,43957050,76561198061164965,"Sid Meier's Civilization III is a turn-based strategy game on where you can play as one of many nations/countries and play on various maps which would be the ""Earth"" for that map. This complete edition concludes of the base game, Civilization III, Civilization III Play the World & Civilization III Conquest. We have many scenarios in this game with examples of them being Rise of Rome, World War 2 Pacific and even Earth type maps which you can either have true starting locations as your desired nation or have the spawn randomized. 
+
+PROS
+- CIv 3 has the biggest maps out of any other Civ game.
+- We have no limitations on units like we had on every sequel. Units can stack which gave a much more war feeling to the game.
+- If you want a game to last at least a week or even a month. On this game you can make it happen.
+- For an old game it still runs smoothly.
+- Multiplayer still works, so you can play with friends and/or family.
+- Gameplay is simple, but you can make mistakes easily and the enemy will take advantage of that 
+
+CONS
+- Dated graphics (can be a + or a -)
+
+Overall
+This is and always will be my favourite civ 3 game, the sequels are all about fancy graphics and less war. If you want to actually feel like you have a civilization then this is the game for you. If you want the ultimate experience, on an earth map and the biggest map you can dream of. Then pick this map. TETurkhan Test of Time. This comes with various game types that include of spawning with pre-made cities like earth is today with the available civilizations in the game, true location start which allows you to where your country's first capital was. Or have it randomized. So you could have England in India or the Japanese in Africa. This is the biggest map the game has to offer and with the size of it. You are talking at least a couple of weeks to finish, if you plan to go with a total domination game. Well I'ma say it'll take you a little over a month.",0.680307924747467,15,True
+3910,22704514,76561198031119088,"Can't... stop... playing...
+
+Creators of new Civilization games should take a look at this particular classic to understand how to make a game with real gameplay.  
+
+It's the gameplay, stupid.",0.7300131320953369,27,True
+3910,85915124,76561198024440612,"My first game to mod, it was a long pain staking process, but after a few years of creating new assets for this game it pretty much changed my whole perspective with PC's over consoles and I never went back.",0.6291965842247009,11,True
+3910,165293650,76561198018264309,"This is straight up best of all the Civilization releases. 
+
+Although I have tried most of the Civilizations, the third one still remains unbeaten in my heart. This is mostly because despite all the technical/graphical improvements, the latter editions were never able to deliver that ""raw"" and ""tribal"" feeling that this one has. I think it strikes just a perfect balance between gameplay and technical realization, which amounts to not being as graphically dated as the previous games while still retaining similar (more complex) vibe and gameplay.",0.6283783912658691,7,True
+3910,40459087,76561198123513396,"I've played Civ3, Civ4, Civ5, and Sid Meier's Alpha Centauri (also known as SMAC).  Civ3 and SMAC are still the best of these to me.  I wish Steam had the full version of SMAC, cuz I never was able to get the expansion pack for that one.
+
+I got THIS version of Civ3 as part of a package deal.  I already had a CD-ROM of the original game and played that a lot.  I had plans to hunt down the expansion packs for it as well, but then Steam came into my life.
+
+I compare playing Civ3 to a Poker tournament.  It's pretty easy to learn how to play, and hard to win in the long run.  Despite all the hours I've put into it, I've never won a game, even when I thought I was supposed to.  The point isn't to win, though; the point is to play.  Every time I've done that, I've learned something else.  I've also quit many games due to the fact that it was obvious I had been dealt a losing start.  Replay value approaches the infinite due to the sheer number of variables that go into a game, most of which are customizable, and some of which are procedurally generated (including the map, which will make or break you most times).
+
+I was hoping that Civ4 and Civ5 would prove to be closer to this game and SMAC combined.  That turned out not to be the case.  Because of my love for this game and SMAC, I've found it difficult to enjoy 4 and 5 for what they offer.  They didn't feel like improvements on the formula, TBH.  I say that cuz, well, Civ3 is just that frickin' good.
+
+For me, Civ3 is a fine, and also somewhat extreme, example of how gameplay is superior to graphics.  I can't say that pining for the days of sprites is in everyone's best interest; but sometimes, awesome polygonal renderings are just too much, or they wind up being more of a hindrance or distraction.  That said, Civ3 is not particulary known for its awesome sprites, either.  Still, you know what is what in this game.  Plenty of people made mods for the game as well.  I've seen Lord of the Rings mods, and one or two intended to improve how terrain features looked.  I never got into these, myself, although I do wish some things were easier to see due to design.
+
+If you like strategy games, or are looking to try one, give Civ3 a shot, or let it be your introduction.",0.6783459186553955,11,True
+3910,24662931,76561198277628477,"Here's what I think of this game, I'll compare it to Civ 5 since most people consider that to be the best Civ game.
+
+Music: Both Civ 5 and Civ III have fantastic soundtracks as with pretty much all Civ games. CIV 5's soundtrack is better, but that doesn't mean this soundtrack isn't worth listening to. 
+
+Diplomacy: The diplomacy here in Civ III, in my opinion is better. You can trade maps technologies, change how agressive the AI is. The AI does get quite a bit agressive once you get to medium agressiveness although.
+
+Scenarios: The scenarios here in Civ III are quite interesting. We have Rise of Rome, Fall of Rome, Napoleanic Europe, WW2 in the pacific, etc. I honestly can't choose between Civ 5 and 3 in terms of which had better scenarios.
+
+War: And here is where we start to see the flaws of Civ III. There are certain units made for attacking, defending, and seige units. The seige units must be protected otherwise they will be either captured or destroyed immediately, and the attacking units are vulnerable to counterattack. Defending units ensure your cities are protected and your attacking armies. This part of war, I liked, It made sure I don't just build completely one type of unit. 
+Cities are instantly captured if there is no unit inside. I wasn't as fond of this as the unit diversity, but it was tolerable at least.
+But then their's the battle system. It's luck based, which I have a burning hatred for. I could attack a spearman one time with an archer and not take any damage, while another time, a defending spearmen exactly the same as the other one could take out my archer, without taking any damage. How does that make any sense? I get it it's an old game an all, but come on.
+Also the AI seem way too powerful. I met Scandinavia on turn 2 and it already said his forces outnumbered mine.
+
+CIv 5 definetly, has better war mechanics.
+
+Barbarian encampment and ruins/friendly encampments: Whether you love 'em or hat 'em these guys are around, some encampment are friendly and will give you something like gold or a settler to give you a huge early game boost. and of course the hostile. You can make the hostile encampments non existant, sedentary, normal, roaming or raging. Since there is more option than Civ 5, I'd say these are slightly better.
+
+Civilization balance: Civilization 5 isn't exactly balanced, (Babylon is much better, is pretty much better every aspect compared to let's say the Iroqouis). Civ's are more balanced here. Each Civ have a unique unit, 2 free technologies and 2 bonus'. Military bonus' allow you to build stronger armies faster, science allows you to build science buildings faster, religious allows you to build cultural building faster, etc. In my opinion the two best are science and religious (Which Babylon ironically has both XD). Besides that Civ's are quite balanced besides early game Unique units (I'm looking at you bowmen)
+
+Victory types: Time victory is always on here, which I don't like (although you can push back the counter for time victory to kick in) cultural victoy revolves around how much culture you can get in either one city or your entire empire, dominatuion requires you to own at certain percentage of the world's population or land area, conquest is to eliminate all rival civilizations., wonder is to build a certain amount of wonders, diplomatic is to get people to vote for you once the UN is built, and space race to leave this filthy planet. All good, although most of the time you will win by either cultural or time.
+
+Graphic: I don't really care for graphics much, but the graphic here are at best, pleasing to the eye and at worst, tolerable.
+
+Conclusion: CIV 5 is obviously better, but Civ 3 is extremely enjoyable also, I have many hours into this, and many more will be put into playing this. I know the flaws I listed here aren't going to be changed unless everyone at Firaxis gets high. I haven't seen any bugs, just a great game.
+
+I rate this 9/10- Aged beautifully, like a gem.",0.6781069040298462,12,True
+3910,69149722,76561198293799888,"I love this game more than any other game, but playing on Steam is so frustrating. There are so many problems I cannot even begin to talk about them. In a nutshell, be prepared to never enjoy a multiplayer game unless you want hot seat because as soon as you do, a crash occurs. I have had this game on Steam for a decade; trust me, there is no fix.",0.6276727914810181,27,False
+3910,117375971,76561199347285670,"So far its a dud. I played this game years ago and loved it, but it will not run in Steam on Win10. I've spent several hours pouring over forums and trying all the compatibility, resolution, run-as-administrator variations that are posted out there, but they all end up with the same result. The opening video runs fine, but at the end, the screen goes dark and and error message pops up saying ""Input Not Support"" - yes, verbatim - it says ""support"" not ""supported.""",0.6270047426223755,27,False
+3910,50746296,76561198044472061,"Incredibly biased opinion since this is based on nostalgia (still have played a lot even now) but I love this game to death. Later civs really try hard to develop things like diplomacy, religion, social policies etc. but I'm out for global domination which is very possible in this game unlike later ones where they make it much more difficult and I'd say they actively discourage it. The later ones feel almost like accounting games with all the things you have to consider but this one is simple enough and straightforward. Old game but always a blast to make stacks of death and mow down every civilization you find. When on sale you can get it for about a dollar. I'll take being able to play this over a mcchicken any day.",0.6759399771690369,16,True
+3910,91772440,76561198092118764,A lot of AAA games nowadays can't get even close to Civ 3's complexity and replayability. Great game.,0.6743923425674438,13,True
+3910,199930633,76561197974144168,"Civ 3 is great. Don't sleep on it. It has gorgeus 2D graphics, simple to read, unlike the later entries. It has less bloat, games are a bit quicker and yeah, you have less options, but I think whats there works very well.",0.6239496469497681,12,True
+3910,223020010,76561198037691830,"Click during the 2K logo at startup and it won't crash.
+Have fun, this game is frustrating as hell",0.6232742071151733,8,True
+3910,190732416,76561198136185760,Civ III is the best of the series with fixes to all the bugs from the original 2 versions without going detail crazy with the later versions. Good old fashioned strategy with a difficulty level for all skill levels to challenge you or let you relax and have fun.,0.621575117111206,7,True
+3910,121045469,76561198050455318,"As someone who has played quite a bit of Civ IV, V, and VI, this game is a whole different animal than the newer ones. It's relatively simple, there arent many menus and UI elements so if youre coming from the newer games itll feel like youre missing a lot of information. Mechanically there isn't a ton of depth either, the focus is on expanding like crazy and then micromanaging your population and finances and everything more intently vs the more specialized mechanics and strategies of the newer games. It makes each game and all of your cities feel pretty generalized and the game itself have a lot less character to be honest. All in all it seems much more like a scaled-up, turn based version of Age of Empires than what I'm used to from Civ at this point. Its also extremely long, research is way slower and you stay in each era much longer than the other games as well, which isn't inherently a bad thing if you like longer games anyway (I usually play epic speed in the other games so it doesn't really bother me). Edit: I'm realizing that there are less ""eras"" in the game than in its sequels, eg. the ancient and classical era are merged, medieval and renaissance are merged, etc. so each age is much longer but there are fewer of them so it probably balances out.
+
+I will give it a thumbs up, I didnt entirely dislike it though it doesnt scratch the same itch. I do especially like the atmosphere of the game, the visuals and music are pretty interesting. I'll probably come back to it at some point when I feel I want something to fill that niche. And considering its very cheap I would say its worth picking it up and trying it regardless. I do recommend looking up a guide for your first game if youre coming from the newer games like me, the flow of the game is just so different and a lot of concepts dont translate over as much as you would think.",0.6195822954177856,7,True
+3910,13227191,76561198093442102,"My friend introduced me to this game a long time ago, and I can't thank him enough! although I only have 2 hours on the steam version I happily spent hundreds ( at least) on the disc version he loaned me ( back when you could do that). 
+   But anyway the reason your reading this is to learn weather or not this game is worth 5 bucks to buy. To answer that you must ask  yourself some questions.
+1) do you like running your own country and mercilessly clicking other countries to death?
+2) do you like exploring randomly generated worlds and clicking other countries to death?
+3) do you like sending hundreds of units at enemys to make them fight to the death with other countries units by clicking?
+4) do you enjoy classical music while clicking other countires to death?
+5) do you care that there are 3 newer versions of the game?
+
+If you answered yes to 1-4 and no to 5 BUY THE GAME
+If you answered yes to 5 don't buy the game you nostalgia hater
+If you answered no to 5 and yes to 3 of the first 4 questions then BUY THE GAME
+If you answered no to 5 and yes to 2 of the first 4 questions you may want to consider waiting untill the game goes on sale
+If you answered no to 5 and yes to 1 of the first 4 questions you may be looking at the wrong genre of games 
+If you answered yest to 5 and no to the first 4 questions you ARE looking at the wrong genre of games
+
+
+           - TheCanadianGamers Bman 
+youtube.com/gamersofcanadaeh",0.6683831810951233,32,True
+3910,77978943,76561198286097485,"I love this game more than the other Civilization games. I watched my dad play this game when I was a kid and I am still playing it today. People say it does not work or res does not work. All it takes is a simple line of code you imput and boom res is just fine. Otherwise the game is perfect. Never crashes, is harder than any of the other Civ games. I love the art style a lot I would pick it up and give it a try. If you are having issues with the res look up a quick guide takes 2 mins max to fix. And everyone saying it's bugged or the AI cheats. They are wrong and probably are not good at the game or don't understand how everything works. I keep beating the game and slowly getting to harder difficulties and have found no problems in the game play or functions.  Give the game a shot and if you are someone who gave it a bad review maybe try and read up on how the game works :)",0.6179775595664978,7,True
+3910,186511003,76561198824476857,"
+
+
+
+
+
+In the conquest.ini file add ""KeepRes=1""  
+Go to the CivConquest.exe file.  Right click the CivConquest.exe file
+Click ""Compatability""
+Near the bottom of the screen click ""Change high DPI settings""
+Click ""Override high DPI scaling behavior""
+Below that it reads ""Scaling performed by:""
+Choose ""Application""
+---------------
+Separatel the graphics in the control panel should check  ""maintain aspect ratio""
+The game will now work at the higher resolution.
+This may make the print a bit small and perhaps difficult to read.  You still have the option to lower the graphics resolution.",0.8674811124801636,71,True
+3910,110656677,76561198205391792,"This is one of my favorite games of all time.
+
+What this game lacks in graphics is overcompensated by being able to progressively optimize your strategies. 
+Secure strategic locations and resources to better ensure victory. 
+Refer to the Civilopedia in-game (assuming you already own this masterpiece) because it's incredibly helpful.
+Sure, there are limitations to the AI, but the penalties for increasing difficulty become brutal by Demigod.
+Oh and you can rewrite history.",0.6165955662727356,10,True
+3910,144915872,76561198369939007,"I am a 67 old civ fanatic, it is not for everybody, not for the young players who needs everything animatws and automated. CIV VI is too overworked for me, boring I have nothing to do, everything is done for me there. This is ok, I enjoyed CIV II even more.",0.7662671208381653,31,True
+3910,12730773,76561198030739873,"Back when resources could be depleted...
+
+Ahh the memories this game brings back, From playing this, Starcraft, and MoOII (which needs to be rereleased for modern OS), It was a good time. Sometimes it's good to step back from the super high res graphics that triple-A titles give you and get some nestalga with older graphics, not to mention play one of the greatest TBS games ever released. Plus it's Five dollars. Why would you NOT buy this?",0.7140604853630066,37,True
+3910,201261331,76561198122028525,Used to play this with my dad as a kid so it has a soft spot in my heart but it doesn't hold up. Its not designed or ported to run properly on newer hardware and the resolution is fucked so I can't recommend it. If someone made an actual more functional port though id have to reconsider.,0.6134039759635925,14,False
+3910,20780780,76561197967718132,"The Steam edition of Civilization III does not work correctly on Windows 7, which kind of defeats the purpose I had in getting it to begin with. Unlike the retail CD version of the game from years ago, it installs without hassle. What it doesn't do without hassle is run correctly. Every time I've started a game, I've encountered audio bugs where the music stops and the sound effects run an in endless loop like crickets. Heaven forbid you ever try to quit the game, either, because it will not only crash, but lock up your entire monitor and not let task manager launch over it.
+
+If a game is going to be sold on steam, I expect some kind of work to be done to make it compatible with current operating systems. If Gog.com can do it, so can Valve.",0.663253128528595,71,False
+3910,12598184,76561198013292330,You sit down and play 15 minutes and when you look outside 4 hours have passed.,0.9126237034797668,441,True
+3910,32887218,76561198277508081,"2 thumbs up, WAY up! Graphics are becoming dated but the fun isnt. Be aware that you may see a sunrise or two due to the ""just a few more turns dilemma""
+
+I've bought this game exactly 4 times for myself. The first copy wandered off to a friend who never got around to returning it and after a while I realized I missed it too much as I walked past the""Gold"" CD version that was on sale at my local Frys which was promptly purchased. On to copy number 2, Yay! I've played that for a good long time on both Windows and Linux but finally got tired of slapping in the CD every time I wanted to play for its antiquated copy protection. Along came a Steam sale and I said 'Hello' to copy number 3. This version is slightly different than my ""Gold"" version (d*mn volcanoes) but still enjoyable as ever. Finally, just like clockwork, right after I bought #3 ran across another sale on that other game site that doesnt have any silly DRM on it in the first place and I was the proud owner of copy number 4. 
+
+Add this :
+KeepRes=1
+to its own line in your ini file ""./Civilization III Complete/Conquests/conquests.ini"" to get proper widescreen support (non 4:3 aspect). This line used to be in Civ3PTW.ini but apparently got moved to this file at a later version. Depending on the version you have, this might be somewhere else too....perhaps one more directory down at ""./Civilization III Complete/Conquests/Conquests/conquests.ini""
+
+For Linux, see WineHQ for more info on how to get the ""squaking"" bird sound to stop once it starts. The quick fix is to turn off those sounds in options but slightly less enjoyable as it removes all the environment sounds. The short of what the fix entails is you just have to replace the bird sound file with a silent version which is easy enough to craft using something like audacity.",0.6602269411087036,17,True
+3910,98265972,76561198032387023,"I chose Civilization III as my first Civilization game because I wanted to see how the series evolved over the time. As a newcomer, take my review with a grain of salt since there may be some concepts I did not fully comprehend.
+
+Civilization III had big ups and downs. It’s an aesthetically beautiful time sink and similar to Heroes of Might and Magic and X-COM (although mechanically I would say Civilization is more similar to Settlers), it hypnotizes you every time you play it. You lose concept of real life and time and end up playing for several hours non-stop. I’ve had the feeling it plays very much like a board game and I wouldn’t be surprised if Civilization series were heavily influenced by them.
+
+There is no real campaign. You decide the rules (map, weather, victory conditions etc.) and start your custom game which can easily take dozens of hours. There are many civilizations to choose from but they are diverse enough to offer unique gameplay. You start in ancient times, build cities, research technologies, conquer other civilizations. 
+
+There are some aspects I did not really like though. Firstly, some early strategies have too much influence on your fate. Don’t build enough cities or invest enough in technology, you may find yourself in an unwinnable state. AI obviously cheats in harder difficulties so you’ll have to play in specific strategies in order to win rather than a flexibility on strategies. Diplomacy is pretty much broken and the AI never accepts your fair proposals, making the entire game mechanic obsolete. Corruption may sound like an interesting idea but in the case of Civilization III, it does more harm than good. Also, in mid to late game, you end up micromanaging hundreds of units and one turn can take quite a long time. I think it would be fair to say a game in Civilization III takes way too long with plenty of downtime. 
+
+I would say Civilization III aroused my interest to the series and I will definitely be playing other titles. On the other hand, I can’t ignore its flaws and I’m pretty confident I won’t return to Civilization III specifically. 
+
+[b]8/10[/b]
+",0.6087117791175842,7,True
+3910,123233044,76561197997893488,"Took me about twenty years to master the ""monarch"" difficulty setting. I hope for twenty more years of fun.",0.6583109498023987,13,True
+3910,175180,76561197964153663,"Sid Meier's Civilization III, the sequel to the great Civilization II, a game that by some is still to this day considered to be the best of the series, has the heavy duty challenge of not only living up to the standards set by it's predecessors but also to innovate the franchise enough that players of the previous installment can be bothered to upgrade.
+
+It starts out with a somewhat mixed feeling. Some of the great ideas from Alpha Centauri has been brought over creating a much more versatile playing field with a living map and more unique factions but many of Alpha Centauri's greatest assets, such as the ability to build your own units and terrain elevations are notably absent. and others, such as unique factions, are only half implemented.
+
+These improvements however do still manage to increase the interactivity of the game substantially particularly when combined with the many new features, such as culture, that Civ III brings to the table.
+
+Factions are not longer defined simply by their city names but now have a few unique units of little consequence and civilization traits of great consequence. Unique units are simply beefed up versions of regular units that give a faction a small military advantage during the time period in which the unit is present, this can be a nice boost if you happen to go to war in that time but it can also be ignored completely if the time for war is not right. The traits each faction receives now however are of a much greater importance and can range from getting a free technology every age to a half off cost on religious buildings. These traits are big enough in effect that they tend to define your entire game.
+
+A new and important feature in Civ III is culture. Each city generates culture through it's various buildings and the culture in turn defines the size of it's borders. A heavily cultured city can even envelop the city of an opponent and flip it to your side. While the realism or historical accuracy of such a device is laughable at best it does provide players with a new means of expansion and a way to deal with those pesky resource stealing late game cities that the AI is so fond of placing in whatever unoccupied corner of your empire it can find.
+
+Graphically Civilization III is passable as always, the city view is pleasant but the rest of the game gives only a mediocre visual experience. Nothing pretty but nothing that'll ruin your gaming experience either. The soundtrack is still mostly orchestral epics and works very well although the rest of the sound effects in the game are pretty forgettable.
+
+All in all Sid Meier's Civilization III is a good sequel. It doesn't create quite the same feeling of amazement and enjoyment that going from Civ I to Civ II does but it manages to provide a good solid experience with enough innovation to justify the purchase.",0.6562156081199646,14,True
+3910,60619794,76561198034876070,The best Civ Game.  I broke up with a girlfriend once because I had a really great civ going with the Persians and she wanted me to go to some wedding or something.,0.8555829524993896,100,True
+3910,12689308,76561198086054607,"Personal Experience: This is the first Civilization game I've ever played and before I knew it I was getting angry sitting at school thinking about how the Mayans were advancing on Moscow. I finally get home and load it up to push the attack to get flaked and then have Moscow taken. 
+
+10/10 Would buy for loads of fun.",0.6555438041687012,41,True
+3910,228856440,76561198073465471,"This, IMHO, is the best of the civ games. The rest have been continuingly dumbed down to the point of where they are no longer fun to play, Civ 7 takes control away from you and makes you play in Ages whether you are ready to start again or not.
+With civ 3 with some excellent mods, the game takes on awesome proportions allowing hundreds of cities and thousands of troops and STACKS! you can stack your troops! they took that away  in the later games and just killed conflict. 
+As a gamer in my 60's who has played this game from the begining, I keep coming back to 3 because it lets me have fun",0.6054628491401672,8,True
+3910,176840644,76561198020934298,Its a fun old school game.  Likely the newer versions are better but its good fun none the less,0.6054098606109619,7,True
+3910,11128930,76561198060133892,told Gandhi to move his Warrior out of my territory as kindly as possible and he declared war on me 10/10,0.8050442337989807,355,True
+3910,160480398,76561197992969984,"Sid Meier's Civilization III has stood the test of time, remaining a classic strategy game even two decades after its release. While its graphics may show its age, its game play and depth are as compelling as ever.
+
+One of Civilization III's greatest strengths lies in its historical authenticity. Each civilization feels unique, with distinct traits and units that reflect their real-world counterparts. Whether you're leading the Greeks to cultural dominance or the Mongols to military conquest, the game offers a rich tapestry of historical possibilities.
+
+The gameplay mechanics are straightforward yet endlessly engaging. The familiar ""one more turn"" mantra still rings true, as players find themselves immersed in the cycle of exploration, expansion, and diplomacy. Every decision feels meaningful, whether you're managing your economy or negotiating with rival leaders.
+
+Despite its ageing graphics, Civilization III retains a certain charm. The hand-drawn art style may lack the detail of modern titles, but it has a timeless appeal that draws players in. The game's interface is intuitive and easy to navigate, ensuring that even newcomers can jump in and start building their empire.",0.6026490330696106,6,True
+3910,18564182,76561198040191355,"Not without its bugs and problems, but still a very fun game to play. Civ3 is easily of the best civilization games made (in my opinion). Even better than civ5. While newcomers from later civs may have trouble adapting to this game, if given time, it will grow on you. After playing out the main game, mods and scenarios will continue to take up your time and amaze how much can be accomplished with just a simple and easy to use editor.
+
+If you have problems installing and playing this game, dont worry the game works great even with steam. I see other users having problems with steam installation and modern operating systems, but the game does actually work fine it just may need a few tweaks depending on the issue. I myself have never had a single issue on Windows 7 (apart from if in a long session for several hours, like 3+, there's a possibility of it crashing, but this is minor and can be quite common on other games as well) using the steam version (I also have the disc version which works fine being on the same computer with the steam copy).",0.6524425148963928,12,True
+3910,194597834,76561198134891519,"FYI: My hours in Steam for this game are not my real hours, I played this game since I was a kid around 2004 and had the CD, so take that in consideration when reading this review.
+
+Best Civ game ever made, even today with less features than recent Civs, it is still more addicting, more rewarding and more challenging. It also doesnt have the cartoonish artstyle on the rulers like in the new games and that for me is a plus! The game overall feels more like a boardgame and the civilization traits and special units actually matter and are not some passive  modifiers that you will forget in a few hours or not always have in mind. Wonders also have a real value to get ahead in the game  (specially the Pyramids) and they are really worth building.
+
+The only con in this game is that religion wasn't a feature yet, which is one that I enjoyed in new Civs, other than that this stays my favorite game.
+
+Don't let the old graphics fool you, this is a masterpiece.",0.6011080145835876,6,True

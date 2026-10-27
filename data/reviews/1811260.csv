@@ -1,0 +1,564 @@
+appid,recommendationid,author_id,review,weighted_vote_score,votes_up,voted_up
+1811260,124807300,76561198007373999,"(UPDATED AS OF 1/1/23 AT BOTTOM)
+
+Game doesn't load. Running steam/EA (Origin)/Fifa23.exe as admins doesn't work. Reinstalling EA Anticheat doesn't work. Allowing everything thru firewall and antivirus (even turning them off) doesn't work. Changing bios to secure boot didn't work. Reinstalling game doesn't work. Any and all combinations of the above does not work.
+
+Requested refund from Steam. I have played maybe 4-6 hours right when it came out before the small update they pushed stopped it being able to load. I tried reverting to that initial version, doesn't work. But because Steam said I played more than 2 hours they won't refund it, even though it doesn't work. They told me to talk to EA. Requested refund from EA. They said to talk to Steam.
+
+Game won't work. EA wont fix it. They steal your money. Filing a report with the Better Business Bureau AND a deceptive practices report with the State's AG office, against BOTH Steam and EA. F them both, thieving C's.
+
+
+UPDATE:
+
+Filed a BBB report on EA. They said they cannot offer resolution such as a refund since I purchased through Steam. When I ask for a refund through Steam they state even though the game no longer works, its past their refund window and they cannot refund. 
+
+So, filing a BBB report on Steam. If that fails to refund, then I am filing a Deceptive Practices report with my State's Attorney General's Office. I'll update further, potential class action lawsuit in the works.
+
+Also Steam has an F rating on the BBB - I wonder why??
+
+
+UPDATE 2 (1/1/2023);
+Finally got the game to play, here is how (worked for me - may not for others)
+-Uninstall Fifa 23
+-Uninstall EA App
+-Uninstall EA Anticheat in Programs Folder 
+-Delete all EA Folders in Programs Folder
+-Close Steam, right click, Properties, Compatibility Tab, Run As Administrator.
+-Used CCleaner to delete all temporary files and clean registry errors
+-Settings, Gaming, Xbox Control Bar, Turn the Slider Off
+-Restart
+-Install Origin App, login, close, set to run as administrator
+-Reinstall Fifa 23 through Steam
+-Set Fifa 23 to run as administrator in the steamapps folder.
+-Set EA Anticheat to run as administrator in both locations: Programs Folder (under EA) AND Programs(x86) Folder under Steam
+-Restart
+Open Steam, Open Origin, Run Fifa through Steam - WORKED FINALLY
+
+NOTE: I have been running in secure boot mode this whole time, so if you arent set to secure boot, you will also have to set that.
+
+I still dont recommend this game. It took me 4 months to figure out how to run this POS with zero help from EA and Steam. They also dropped the price of this sh!t game to like 25$ after I paid 85$ for early access and couldnt play it for 4 months. Think they'll refund that extra 60$? Fk no. So done with EA, never buying again.",0.950051486492157,714,False
+1811260,127633672,76561199091221851,"[h1] The biggest fall from grace I have ever seen [/h1]
+
+[b] Technical Issues [/b]
+If you buy this game you might not be able to start it like the majority of people as you will see in other reviews. In order to start this game you will firstly need to enter your BIOS, on your high end PC, and change some settings, which if you don't know what you're doing can be extremely risky to the health of your PC. And from then on you will need to uninstall and re install EA's anti cheat on every start up of this game. Once in game you'll find that despite your ultra expensive custom high end PC, the menus are extremely laggy and unresponsive. If you want to tab out of this game, be sure that when you tab in, to move your mouse cursor to the very top right of your screen and out the way, because this game cannot disable the mouse while playing so if the mouse is hovering over a certain menu icon, and you try to navigate with your controller instead, the game will simply bug out. So just from a technical stand point this game is already atrocious.
+
+[b] Gameplay Issues [/b]
+The game should be advertised as arcade, not the hyper realistic game it markets to be with all these new motion captures, ball physics etc that mislead. The gameplay is arcade, plain and simple. Remember FIFA matches being 5/6 mins a half, [i] by default. [/i] Well this time the default is now 3 minutes a half, why? Because any longer, even on the highest difficulty, the score of the match will be 7-7 and you will be fighting against the game just to keep the score down to actually feel a sense of realism. Dribbling is so stupid I can't even put it into words, players are on ice here, no studs in the ground, every player has 1000 agility, because the way they chop and turn and dribble makes no sense, not even Messi can dribble like this in real life, and this is amplified against the AI on any high difficulty, you will not get the ball for at least 2.5 minutes of the 3 minute half because their dribbling is simply uncontrollable.
+
+[b] Career Mode [/b]
+We all know career mode has been on the decline in forever, which every new feature either breaking the game or being pointless, the dynamic sim feature where you watch dots play like its FM needs so much work, its so bare bones and you will always need to jump in to save your side losing. The new highlight mode is complete garbage with only having a select few highlights, so once you've seen and played a few, you've played them all, and the scenarios get extremely repetitive because of this. Transfers get a transfer rating and whoever rating your business literally has 0 business sense, and you'll likely get sacked for making good business, not to mention you can't loan players out because every loan offer is a loan to buy with a stupid price that can't be negotiated without the deal falling through. All in all another stinker for career mode.
+
+[b] Online [/b]
+I never got round to playing online as I spent all of my short time in this game troubleshooting and trying to fix the offline game play with various slider settings. But I can imagine the arcade feel of this game translates well to an online simplified experience where you do ridiculous skill moves and score plenty of goals. FUT mode is absolutely packed with features and I would recommend this mode if you have plenty of money you want to spend on getting the best players and items.
+
+[b] Conclusion [/b]
+I have played FIFA all my life, since FIFA 2004, growing up with the game, buying it every year and without fail playing hundreds of hours. FIFA 17 onwards my hours declined as did the game, but it was still playable up until this release. I can't understand how this game was even able to release in the technical state its in and I genuinely can't believe the huge decline this franchise has gone on over the past half a decade. I'm extremely disappointed. But this game really shows EA for what they are, with extreme amounts of income, can't even spend on the resources to make this game actually playable, its a complete ripoff of all its fans and the kids that spend serious amounts of money on FUT every year, and everyone who has bought this game year in year out faithfully to play career mode.
+
+Utter disaster, don't purchase this game.
+
+[h1] 0/10 [/h1]",0.9492747187614441,1616,False
+1811260,128313133,76561198061645380,"- bought on sale
+- downloaded stupid EA launcher
+- stupid EA launcher didn't install properly
+- reinstalled stupid EA launcher
+- reset password for an account I forgot existed
+- game still didn't launch
+- EA anticheat didn't install properly, tried it a dozen times
+- refunded 
+
+I don't know who's the bigger clown: me for buying the same broken Fifa every year or EA for somehow releasing a worse Fifa every year.",0.9424906373023987,614,False
+1811260,124971934,76561197988296313,"I've played this around 200 hours. I was elite division in the previous game, have played games professionally throughout multiple platforms. Hands down without a shadow of a doubt this is the worst game i have ever played, if you want to feel like you are being completely robbed out of any competitive experience throughout the whole game then this is the game for you. It seems to me this is another case of great idea yet with a terrible, unreliable and straight up horror of a company executing it. 
+
+Short list of my major issues with this game.
+- Majority of defending is automatic in this game so normal through balls are basically magnet practice for the defenders (My own players included doing unbelievable and quite frankly impossible tackles without me pressing a button)
+- Passing is a joke and could go anywhere at any random moment.
+- Someone can press one button and make the game unplayable with man marking and pressing tactics.
+- Ballon d'or level players heavy touching the ball, not being able to even control a simple pass.
+- Sometimes the ball resembles that of the black out ball from men in black.
+- Tackle someone multiple times to watch the ball magnet back into one of the oppositions players 
+- Visibly being able to see my players get held back/ handicapped from going for the ball.
+
+I could honestly make these stupidly long, there is so many more game play issues.
+
+I'm not one for conspiracy theories but the DDA thing that everyone raves about seems quite visible in my eyes, some kind of momentum system built into the game or it could be the game play is that bad its turned a large portion of this community to even think it exists. On top of that they basically have a gambling system built into the game to scrape as much money as they possibly can even being visible to kids and vulnerable people.
+
+I hope they never get another FIFA contract, should be a criminal act to release a £60 game in this state. I have never wrote a review on a game in my life but this one has angered me too the point where if i can save one person from buying this game it would be worth it.
+
+Edit: People asking why i keep playing. I play the WL for coins and every time i do it makes me so angry to a point that no human being should ever feel like from playing a video game, the other time is just sat in the menus wishing the game was fun. Follow suit if you enjoy mental torture.",0.9225966334342957,376,False
+1811260,135952786,76561198224537556,"After more than 6 months, the game still doesn't work. In the beginning, the game wouldn't launch in the EA launcher. I think it was some sort of ""verification problem."" Now the game won't launch and it's telling me that I'm not connected to the internet, even though I can see my friends on the EA launcher.
+
+Steam refuses to issue a refund because I ""used some sort of in game content,"" or whatever. Maybe it's because I got the Ultimate Edition. I've never actually successfully loaded this game... but Steam says I've used some sort of in-game content? What a scam.
+
+I've checked online, and this is a very common problem. I've literally spent hours trying to fix it. I waited for several patches, done the dns flush, the admin mode ""fix,"" the reset the cache on the EA app, changed the certificates on certain files... everything you can imagine. No dice. I just tried recently, thinking that the patches may have ironed things out and now it appears as though there are new problems. But the result is the same, and the game still won't launch.
+
+It's really sickening that EA can sell games that won't even launch and get away with it, and Valve will deny refunds for them. It's honestly something should be settled with a class action suit.
+
+All of my other EA games launch, like Battlefield 1. This one will go all the way to the Anti-Cheat screen (I don't even care about playing online) and then say my computer isn't connected to the internet.
+
+Completely disgraceful that EA stole $70 from me, and Steam is aiding them in their theft.
+
+Completely pathetic.",0.9015552997589111,178,False
+1811260,130590716,76561198409906379,"very poorly optimized, cpu usage way too high
+pc fan going faster than traore
+scripting is crazy 
+bought it for hypermotion, def not worth paying full price",0.8782173991203308,264,False
+1811260,135149018,76561198098177623,"A steaming pile of dog shit on PC, recent change from Origin to EA play just makes the game unplayable, constant stuttering + controller bug makes your player jogging all the time, dc hackers, AI cheat, invisible cheat, fucking giant player aka ant-man cheat. Sure if you play on a console you can just disable the cross-play but that just means that all the innocent PC player are now stuck playing against hackers, cheaters, what's the point of the cross-play to begin with. Buy a Ps4 or Ps5 if you really want to play this game. If you are on PC, avoid at all cost, the game just gonna get worst and worst, you going to find yourself looking for guides and fixes on Youtube for 3-4 hours and if you are lucky, the game is going to run fine for 1-2 weeks until the next update and you will have to do the same thing all over again until one day the game is completely unplayable no matter what you do. Just avoid it, play other games, controllers life matters.",0.8641158938407898,118,False
+1811260,128665318,76561198954472404,The EA anticheat successfully prevents players who aren't cheating from entering the game.,0.960340142250061,962,False
+1811260,123112114,76561198069594804,"HOW HAVE EA MADE SUCH  DOGS DINNER OF THIS GAME
+My socks should be able to run this shit
+
+***Post update two***
+Still absolutely shocking, game still runs terribly on lowest graphics and reolution. Somehow they've done some black magic and I suffer from ping like lag in single player career mode. Career mode is laggy, ultimate team is laggy, this game isn't worth shit
+
+***Post update ONE***
+Game still runs like shit and has loads of input lag, fps lag and crash issues. Update did fuck all....
+
+***Pre update ONE***
+Runs terribly on any graphical setting. I have a decent setup and can't run this game on low graphics and low resolution. I can only play singleplayer game modes like career and squad battles on ultimate team. If i play ultimate team online my controller just doesn't work.
+
+Game never starts on first try of launching from steam, having to open origin and ""ea anticheat"" makes the game shit itself and crash without launching. When you do eventually launch the game it starts off with a delayed response main menu, then when you get into a game you're constantly facing issues with fps lag, input delay and all out freezes or crashes.
+
+Do not buy this game until it's fixed. It is pain.",0.8533481955528259,161,False
+1811260,129056525,76561198061949742,"Ok, I'll start with saying I'm still currently playing this game, and for the most part am having fun. I'm not experiencing the issues Windows 11 users are, and the game starts up just fine for me. That being said, this game has serious issues that shouldn't be present in a game that has basically followed the same formula for the past decade. It should be getting easier to get this stuff right, not harder.
+
+1. On start up, I can't load my existing career save. The menu option just isn't there. To get around this I have to start a new career, and as soon as I'm able to, exit out. I'll then have the option to load my existing save. 
+
+I have to do this everytime I load up the game.
+
+2. Not as serious, and probably for the best... I can't purchase FIFA points. I wanted to invest a small amount just to get started in FUT. Nope, constant error with the store. Just doesn't work, this is fine though, means EA don't get any more money from me, and I get to focus on career and other game modes.
+
+3. Menu and UI glitches. Trying to manage multiple transfer requests at once is buggy as hell. Can't move up and down the list half the time. This issue is not limited to this menu, however this is where it is most annoying, as I have to constantly leave and re-enter.
+
+Gameplay: It's fine, and the only thing about this game that seems to work as intended. It's a bit slower, but FIFA over the years changes it's focus from time to time when it comes to gameplay and the rest of us just have to adjust.
+
+It's abundantly clear that EA don't give a **** about this game on PC.
+
+",0.8456961512565613,143,False
+1811260,140838203,76561198333601373,Remove anti cheat software EA. its not in consoles then why here. Launches ultra slow because of that. Been playing Fifa since 12 years. This is the first time on pc and the experience sucks even though the game is decent to have fun. Cant play offline which sucks because i am a sailor and i dont get frequent data. Offline mode should be here for career mode and other offline stuff. Also why there is no support for deck. You guys make shitty game for mobile users but cant make it playable on deck. Handheld is raging right now. Get into it EA.,0.8440326452255249,170,False
+1811260,123188843,76561198047916396,"FIFA 23 is not a sports game, its a simulator. A simulator for troubleshooting why the game won't launch. Don't buy it: REFUND PENDING",0.8881456255912781,255,False
+1811260,138431007,76561198306067197,Do not buy this game at the moment. I could not even launch the game due to EA Anti Cheat. Tried every solution I found online to no avail. Avoid this game like the plague.,0.881855845451355,408,False
+1811260,131596165,76561198318166890,"Even when we're halfway in the season EA didn't fix their game.
+
+You want to play this game but it won't launch? Don't worry, this is all the ........ time :(
+1. Reinstall the anti cheat....
+2. Did step 1 not fix your issue? Of course not, it's EA. Try verifying your game files...
+3. Did step 1&2 not fix your problem? No worry's, reinstall you game....
+
+FIX:
+Just ask for a refund, it is not worth your money and time",0.8801494836807251,102,False
+1811260,141536164,76561198006898454,The anticheat system is garbage as it stops the game from even booting 4 out of 5 times. The 5th time the game takes five minutes to load even though I was playing on a modern system with a fast SSD. I refunded it and I recommend that everyone stays well away from it.,0.8152560591697693,93,False
+1811260,137674061,76561197970221498,"I had stopped playing FIFA in 2020, but decided to return to the franchise after 3 years and was impressed with EA's ability to make a worse game every year. The game is full of bugs, except for the FUT Champs mode, all other game modes are stressful, div1/elite is so sweaty, 90% of the players play the same way, always running down the wings and passing the ball into the box for Mbappe to score the goal.",0.8054571151733398,210,False
+1811260,127819559,76561198258548421,"Nice game but, there is a main issue!, 
+FIFA 23 Won’t Launch or Not Starting on PC while steam says it's running.
+
+See below how you can fix your game.  
+
+Uninstalling EA Anti cheat 
+1. Open Windows Explorer and search for C:\Program Files\EA\AC
+2. Run EAantiCheat.installer.exe and select uninstall .
+3. Reboot your game and your Anti cheat will be re-installed again.
+
+The problem is that EA Anti Cheat software will not start when you try to run the game therefore you need to uninstall the anti cheat software and it will be reinstalled by simply launching the game again.
+
+Good luck fixing your game! 
+",0.8046332597732544,285,True
+1811260,123327631,76561198031062432,"This is THE worst piece of garbage I've ever seen. Game won't start and can't get a refund if you download the premium edition. Simply put, my guess is that they knew they had issues and added this mess so that no body can get a refund. In my 40+ years of gamin, I've never seen such utter trash and what's even most disappointing is STEAM supports their actions by allowing it. 
+
+Keep this garbage up and we'll see how long STEAM lasts before an exodus to other platforms and this is coming from a guy who has hundreds of STEAM games.
+
+",0.8026601076126099,145,False
+1811260,158615854,76561198393005716,"FIFA 23 is a farewell letter to millions of football fans around the world. 
+With amazing visuals and an improved gameplay, FIFA 23 delivers a well rounded experience. 
+It ain’t perfect, and maybe not the most entertaining, but it’s as close as real life soccer that FIFA has ever been in 30 years of history.",0.8009656071662903,92,True
+1811260,137802025,76561198045937728,"The EA anti-cheat makes it impossible to boot the game up as for 5/4/23 and it's been that way for a while. You will have the game crash on start up, get ""secure boot"" errors, anti-cheat software won't install properly, and a bunch of other issues. Pretty frustrating if you just want to play career mode, which, when you can get in the game-play is alright this year. I would not recommend purchasing it.",0.7847565412521362,58,False
+1811260,133929865,76561198125730280,"Lots of cheaters on pc, trash servers, many bugs",0.8736809492111206,144,False
+1811260,123256091,76561198405152001,Will not run on bluetooth controller. Took forever to figure out how to run it at all in the first place. Absolute joke that a company like EA is too incompetent even recycle the same game every year correctly.,0.7591472864151001,68,False
+1811260,124407717,76561199137044224,"time wasting simulator
+you should play 40 matches squad battle matches ,8 win in division rivals and 30 matches in fut champ every week till u can get shit packs and get so many duplicate players and do this over and over if u want have good team in fut u cant have life or play another game u should just play this game or spent a lot money so u can have powerful team 
+servers are terrible they disconnected even in squad battle 
+matchmaking in this game is joke you play against team with rate so much higher than yours even in low rank
+game so laggy and unoptimize even in menu
+just dont buy this game and enjoy ur life",0.8090900182723999,119,False
+1811260,137224347,76561198058947182,"Dogpiss game with bunch of bugs and 8 y.o lobotomy retards paying their parents rent for packs to trash on you in starting division. LMAO you should fucking pay me to play this beacuse not even League of Legends has this stage of cancer. I lost my mind when I qued again against invisible messi with mbappe, legit only ball was visible all enemy players were invisible.",0.7575210332870483,68,False
+1811260,133870096,76561198332030964,"This game should be the final nail in the coffin for EA and Football games. We all know the next game won't be FIFA, and we've also all known for a long time now that EA simply think very little of their player base, but we're also at fault. We buy the game year-in year-out because we love football and want to play football, but the problems with this game series isn't necessarily with the gameplay itself, otherwise we wouldn't play it. Our biggest issue is how EA treat us and how we let them get away with it every year.
+
+With FIFA 23, I haven't had any issues while playing the game, but as all of us know, this game has problems opening, a lot, and it's down the anti-cheat that EA has implemented with this game. The anti-cheat has ruined this game for almost everyone. Everytime there's an update there's a new issue, a temporary fix, and the cycle repeats. Lately, I haven't been able to play the game for the longest period since I got it, but the consistent issues have pushed me beyond frustration. 
+
+I have played every entry in this series since FIFA 07, but I have never been this insulted by EA. I hope this game is the one that shows all of us players that they really, truly do not care. And if they want to prove me wrong, put out a statement, address the fans, tell us what you're doing to fix this stuff.",0.7537469863891602,42,False
+1811260,144687708,76561198142540174,"Anticheat works perfectly so far as I can tell. I can't cheat if I can't even start the game, right?",0.7997646927833557,52,False
+1811260,128604014,76561199110642473,"I love this game!
+
+Read a lot of comments negative comments, but I still bought the game because of the 60% discount. I've only played Offline so far
+For me:
+1. Game started on the first try, no problems with launching the game so far
+2. I play with an XBOX controller, and it works perfectly
+3. No problems with EA anti-cheat 
+4. No lagging or graphics issue
+5. No audio discrepancy",0.7398259043693542,142,True
+1811260,144468324,76561199162104601,if you want to keep your sanity (not guaranteed) play career mode trust me,0.8306364417076111,77,True
+1811260,127096404,76561198053441863,"Ok, let me make things clear for those who are confused. Basically:
+> If you are an old fan of the series or have played Fifa 21, 22... Stay away from this. It's pretty much the same game with some new (neat and terrible) features. Simply don't buy it 'cause you're going to hate it and feel like a clown.
+
+> If you're new to the series or haven't played any football game recently, it's a must-buy. Amazing game with a deep curve of learning and plenty of stuff to do. Absolutely recommend it.",0.7285047769546509,217,True
+1811260,175430871,76561198869705376,"Game is fun but match objectives are the dumbest thing they could have added. Either remove them or give the player an option to turn them off. 
+
+""Oh you had a hat trick? Thats cool but did you have 25 short passes and a 60% cross conversion rate? No? Guess youre riding the bench for the next several matches.""",0.7271549701690674,18,True
+1811260,129850770,76561198008025673,"iam a FUT player, this game actually entertaining, but:
+- so many UI bugs from last year title still exist! (not fixed), like progressbar rank in rival, win-lose counter in rival/champions, cant see formation in ultimate draft, etc.
+- not optimized, consume same wattage in (Gameplan/SBC/others feature with no 3d display) and gameplay.
+- cheaters in FUT, opponent controlled by ultimate ai in gameplay, cant pause game, player different from postgame (ex: Mbappe RTWC in game, but its Mbappe Gold in Postgame player performance)
+- swap player in FUT Gameplan slower than FIFA22
+- better remove EA App Launcher / DRM when running FIFA23 Steam version, like Apex legend
+- DSR not working
+- FPS Lock not working",0.7255526781082153,55,False
+1811260,123921041,76561198001712323,"Honestly... The franchise is getting tired... I love the FIFA franchise and own every single title since FIFA 94. The animations are good with the mo-cap, and the additional teams etc are nice. 
+
+HOWEVER.
+
+Still can't play this game without having to perform programmer level shenanigans. EA-Anticheat is so broken, that even uninstalling it and reinstalling does nothing. You can't have any overlays on which sucks major donkey bolas for those of us that play and use discord, or even our cards overlay like Nvidia's. 
+
+It's SUPER unoptimized. maximum and medium settings run the same for my rig which runs most modern AAA titles on ultra or very high. CGI cutscenes are choppy. gameplay is sometimes choppy depending on how it feels and it all adds up to an experience that would make you a pendehoe playing it in it's current state. 
+
+I've tried getting a refund due to the dismal experience but they claim i can't because of the hours I have logged... Yes... Hours I have logged leaving the game open when I slept so I could still play without having to get a degree in computer engineering to get it to run.
+
+If this still hasn't dissuaded you from purchasing this game, then wait until the game launch bugs are fixed or you're going to uninstall it out of frustration like I have. Typing this as i get ready to try for the 13th time, to see if they've fixed anything.",0.8686913847923279,295,False
+1811260,126662256,76561198964994020,"I've bought every single FIFA since 2016 and this is by far the worst. The amount of problems it has on PC is insane. Here's a list of some I encountered:
+
+- Game doesn't start when I press play on Steam (I had to close Origin via Task Manager and try a few times)
+
+- Once that works, it says that anticheat is already installed and crashes the moment the game opens (fixed by manually uninstalling their anticheat and reinstalling it, but it doesn't always work)
+
+- Very high GPU usage and temperatures in the menus, much higher than when I'm actually in game. I have a good PC and no game has ever used this many resources. It runs at 144fps, but the temperatures and % usage is unacceptable.
+
+- Limiting the game to 60fps via the graphics menu does not work since it's a Vsync setting (full or half frames) based on your monitor refresh rate. This is something that hasn't been fixed for a few years now.
+
+Both this and gpu usage were fixed by changing graphics to low and limiting fps to 60 via Nvidia control panel.
+
+Keep in mind that even if you manage to make the game work, it's not guaranteed to keep working in the future. The gameplay is also a considerable downgrade from last year, but some people like it so I suppose that's subjective. Overall, it's clear that they don't care about PC. The price is the same as console version though, so I expect the same quality. 
+
+I'll change my review if things improve, but that is very unlikely.
+
+EDIT: As of 8 December (and a game update later), I am still encountering the same issues. Do not buy it regardless of price.
+
+",0.9170485734939575,398,False
+1811260,143777168,76561198109537351,"After 168+ hours, I can finally say that career mode with world class or above difficulty is a scripted mess as usual. I'm glad I bought this during sale but its still hard to justify buying it if you already have the previous game since it's literally the same EA shit. Old bugs/glitches still exist. Anti cheat is trash with lots of launching issues. Literally no transfer and squad updates over the year. Wished there are other alternatives football games. Anyway, 2/10 rating.",0.7664002180099487,33,False
+1811260,123913210,76561198399643406,"The product is broken, this new engine does not serve all fifa 22 consumers, that is, it is a product incapable of guaranteeing the entertainment of users of the old game, I will wait for a patch, at the moment I do not recommend it.",0.7106777429580688,66,False
+1811260,138370454,76561197961925603,"-Cant play carrer mode
+-Couldnt even play carrer mode offline
+-No background pictures in menus
+
+Refunded...",0.7577261924743652,69,False
+1811260,123436965,76561198117248727,"I've always kinda defended FIFA. With the standard phrases like ''It's fun because it's a football game'', or ''You don't understand because you're not a football fan yourself''. But this is different. Way different.
+
+FIFA 23 doesn't even work... It's now a week after release and some folks still aren't able to even launch the game, I have to start Origin in Administrator Mode for it to work, but at least I can play. That being said, servers are trash. They always were, but it's even worse this time. Navigating through the menu's feels buggy and rough around the edges, the game is poorly optimized, and they even haven't fixed some issues that were in FIFA 22, which is astonishing to me.
+
+But now for the most important part, the gameplay. This is where FIFA 23 has it's occasional shine. PC-Players finally got Next-Gen after being completely ignored with FIFA 22 last year. While playing the game, you can feel the game isn't as arcade-like anymore. It's much more slow-paced, and you have to actually think about your next move or pass on the pitch. On the other hand, the AI is mind-blowingly dumb... Players are standing still when the ball rolls past them 15 centimetres away from their feet. Or suddenly your attacker cancels his run past the last defender, which is incredibly frustrating. And maybe the most ridiculous and game-breaking one, if you play against the AI, for example in Career Mode or Squad Battles, the opponent's goalkeeper can't even receive a pass... Like seriously, they are scoring own-goals like it's nothing.
+
+Some new features like the Power Shots are fun and make for some absolute bangers, but the game overall is underwhelming. This combined with the fact that some people that paid 70 or 80 bucks (!!!) can't even start up the game, gave me the feeling I should write a review for this 5/10 game. For now, stay far away from it.
+
+Congratulations EA, you've made the last FIFA, the worst FIFA.",0.8542942404747009,92,False
+1811260,129143854,76561198248638684,"Wow, where do I even begin with FIFA 23? This ""masterpiece"" of a game is truly a work of art. From the endlessly frustrating gameplay to the buggy and glitchy graphics, it's clear that the developers put a lot of time and effort into making sure this game was as terrible as possible.
+
+But let's talk about the real star of the show: the AI. Wow, what a thrill it is to be completely outclassed by the computer at every turn. It's almost as if the game was designed specifically to make the player feel completely helpless and incompetent. And let's not forget about the matchmaking system, which always manages to pair me up with players who are significantly more skilled than I am. It's like a never-ending cycle of misery and disappointment.
+
+But the worst part has to be the microtransactions. I mean, who doesn't love spending their hard-earned money on virtual players that are completely and utterly useless? It's a great feeling to know that I can spend real money on a game that is already so overpriced, just to have a slightly better chance at winning.
+
+Overall, I can't recommend FIFA 23 enough. If you're looking for a game that will drain all of your motivation and self-esteem, this is the one for you.",0.697787344455719,86,True
+1811260,136962267,76561198286644397,the game decides either u win or lose. scripting is real. deleted the game. it was fun while it lasted.,0.7454439997673035,52,False
+1811260,126345849,76561199102839839,"Now that the game is on sale and a lot of people would be looking to get it, here is my honest opinion about it. The game wont feel like it's worth the full amount as it is a Fifa 22 re-skin. However, it still is a solid pick up for the offer and you wont feel let down. After so long the game looks better on PC and the gameplay is solid too. Defending feels way less sloppy and keepers are more closer to their human counterparts. Attacking can be done cleverly and defenders no longer catch up to you as pace ratings play a more important role atleast from what i have experienced. That said, the game isnt completely bug free with occasional glitches popping up even in my short span of play but it isnt cyberpunk level broken. I obviously do not support the way EA milks the FIFA series but this game definitely deserves a slightly better rating. As for anyone experiencing frame drops, turning off dynamic resolution helped fix that issue for me.",0.695160448551178,133,True
+1811260,144840991,76561198275079256,"Launch problems can be solved in hard way and easy way.
+
+HARD WAY:
+When you received the security boot problem, you can reboot your PC and go to the motherboard settings/advanced and turn it on.
+Then you will receive:
+This software cannot be used at same time as the game. please make sure it's not running, or restart your pc.: security violation (262146)
+If this error mentioned ""Hypervisor"", you have to go to the configuration of your PC and disable it, if the error was as long as mine without mentioing a program, then i have found no solution for it but don't worry, still it can be solved in the easy way.
+
+
+*After finding a solutions i asked my self: how much EA did cared for the last FIFA game they released and after almost a year to have time to at least solve the launch problems. so suddently i found the easy way solution.
+
+EASY WAY:
+REFUND
+
+PS: Besides that, thank you for stop supporting FIFA after they helped you building your name. now have fun rereleasing a same games with little polish (and some times worst) each year, this time with fc brand.",0.6888052821159363,20,False
+1811260,123024052,76561198086630243,"More than 80% of PC users cant  get the game to launch regardless of the spec of their PC. All because of AntiCheat. Here's a novel Idea EA,test your product before release. Hope you are enjoying all of our money!!",0.7361234426498413,70,False
+1811260,123078531,76561198117427381,"STEAM DECK USERS can't play FIFA 23 on the deck because of the EA kernel-level anti-cheat software that detects Proton / SteamOS as ""hacks"", sort of. The only way to have it working is installing Windows 10 on the deck, which is bad news cause the overall performance gets worsened on the deck with Windows. 
+
+And why does it even have a kernel-level anti-cheat, if the FUT transfer market isn't shared with us PC players? If you're on console, the market is shared between ALL the consoles: ps4, ps5, X1, XsX & XsS. But we PC players are excluded & can only trade between us. 
+A kernel-level anti-cheat has way higher privileges then it should & having it installed is like having a hole in your PC's security that can be exploited by viruses. Now have in mind EA will be on charge... what could go wrong? [url=https://youtu.be/PY41wMvwrLQ?t=221] Here's a video explaining this & its consequences in depth. [/url] 
+
+Putting that aside: This game lays off a foundation on which they should build upon in the following game. It's a step in the right direction compared with the last title, since at least now we got Hypermotion2 & crossplat for the first time in PC, but sadly there are aspects to improve (+ tons of bugs). 
+
+[list]
+[*]You can't play Volta online with your friends like you play online friendlies, leaving a massive mode (volta) to be played only against bots. Horrible decision. 
+[*]If you enable ""listen to music while on gameplay"" [spoiler](which allows you to listen to FIFA songs INSTEAD of the commentators)[/spoiler] you WON'T be able to skip songs while you're playing a match & you'll have to wait until the match is finished in order to skip the song. Also, no songs in online modes. For some reason is just plain silence for me. 
+[*] EA has DISABLED [url=https://store.steampowered.com/remoteplay?snr=1_7_7_230#together]""Remote Play Together""[/url], so you won't be able to invite your friends & play remotely, instead each one of you will have to pay $60. (Note that game publishers in Steam have the ability to enable or disable this).
+[*]The mouse cursor hides itself at the center of the screen but in some instances it's still functional, meaning that if you're trying to select an option located on the edges, it won't let you & you'll think your controller is unresponsive, but is just the invisible mouse in the middle. So you'll have to move it away in order to be able to select the other options. You can reproduce this issue going into FUT > Moments. 
+[*]If you have 2 controllers & want to play split-screen, both players should use the same button layout. None of you can use different control settings because if one is different, it will overwrite the other player controller settings.  [url=https://www.reddit.com/r/FIFA/comments/qjt7sk/xbox_series_x_fifa_22_second_controller_settings/]This happens to some users since FIFA 21 across all platforms,[/url] yet it has never been addressed by EA, which tells us they only care about FUT. 
+[*]After scoring a goal, the ball keeps rolling even if the player takes it with their hands as a celebration. 
+[*]The ""classic"" button scheme has been remapped, which doesn't affect me but I'm just mentioning it for those who care: [b]LB+RB[/b] has been changed to ""power shot"". To execute a ""Low Driven shot"" you should gently press [b]B[/b] and release it asap. [b]LT+B[/b] does an outside foot shot if you're running. 
+[*]Sometimes your controller & camera settings won't get saved after closing & opening the game, it's a pain having to set it up every single times.
+[*]Australia women's national team has been removed. 
+[/list]
+
+There's a 10-hour trial of this new FIFA 23 on [url=https://www.xbox.com/en-US/xbox-game-pass/pc-game-pass]Xbox PC GamePass ($1 the 1st month)[/url], & the whole game will be added to PC GamePass 7-9 months after its launch day (May-July 2023) like when they've added Fifa 22. So you should go try it. If 10hs aren't enough, you can buy EA Play Pro ($15 a month) & you'll get to play the whole game for 30 days, all the hours you want. Personally I would recommend waiting till the game hits $30, only then I'd buy it.",0.8814230561256409,176,False
+1811260,178769880,76561199143420927,"Its aight, better than FC24 or 25, better career mode than prev games.",0.6744529008865356,13,True
+1811260,131521491,76561199206795902,"I have hundreds of hours on older titles mostly on the Ultimate team mode and i could easily say do not buy this game. It's beyond broken on PC and i will point out everything bad me or my friends saw after 130+ hours on it. 
+
+I will start with the few positives about it so i can give credit where i can.
+- Career mode is fun and well done and most likely the only mode where you will enjoy the game. 
+- Pro clubs is okay and Online Seasons too. 
+ - Fun to play with friends (when it works). 
+
+ And here are the negatives. 
+- First and the most important it's a gamble if the game would even start because the anti-cheat is so broken and after every patch there is some kind of problem that you need to fix for it to run and it's just a joke EA doesn't bother doing something about it after so many months. 
+- The PC version of the game is not optimized at all compared to the next gen on console's it uses a lot of CPU for no reason. Even if you are in the menu browsing and doing something you could still feel the slight delay especially compared to older FIFA's.
+- Graphics on PC aren't good even on maximum settings. 
+- Connection is again awful in most of the game modes especially in FUT which is unacceptable for a company that makes so much money every year and doesn't buy any proper good servers.
+- This is something that happens to a friend of mine and i've heard it happens to a lot of people as well, when you open packs in FUT if there is a high rated walkout player the game crashes (He is with an Amd graphics card it seems there is no problem with the Nvidia ones) 
+- If you make a custom settings for your controller the game resets it all the time for no reason so you have to pause during the match and do them again which gets super annoying. 
+- Compared to older Fifa's they made huge FUT events like Team of the year for example which is running right now awful for the players making SBC's drain your coin balance and make you give more players than you get in return which just forces you to buy more and more Fifa points to keep up. 
+-  A big reason for me to buy this game was the new Cross-play they promoted so much and the Cross-Market in FUT but guess what? You can only play FUT friendlies with a person who has a console, You can't play seasons , Pro club , Co-op or anything fun. FUT market is also not cross platform for PC for absolutely no reason (only PlayStation and Xbox share market now)
+- And now the most annoying thing in the game in my opinion is the Scripted gameplay in Ultimate team mode and what i mean by this is the game makes you lose. It doesn't matter how good of a player you are the game will make you lose against worse players than you. You will hit the Goalpost nonstop the ball will randomly drop in the enemy player's foot , after tackles the ball will stay in him, you can have expected goals 5 and your opponent can have 0.9 but still he will win 3-2 against you and this usually happens in matches you really need to win for FUT champions or draft. 
+
+Seriously don't buy this game and don't give EA money if you really really want to play it just buy it on a next gen console on a big sale or have someone gift it to you other than that you will hate yourself for wasting your money for buying another EA game which is completely broken.",0.6697745323181152,18,False
+1811260,128839013,76561197975530070,"Cap a la dreta per Xavi, assistència de Xavi més cap a la dreta per Messi Messi Messi Messi Messi Messi Messi Messi i més Messi i encara Messi encara Messi encara Messi encara Messi encara Messi encara Messi encara Messi encara Messi encara Messi encara Messi encara Messi encara Messi GOLGOL GOLGOL  GOL !!!
+GOLGOL GOLGOL GOLGOL GOLGOL GOLGOL GOLGOL GOLGOL  G O L !!!!!
+GOLGOL GOLGOL GOLGOL GOLGOL GOLGOL GOLGOL GOLGOL GOLGOL GOLGOL GOLGOL GOLGOL GOLGOL GOLGOL GOLGOL GOL!
+Increïble, increïble, no m'ho puc imaginar, no m'ho podia imaginar, no ho he vist mai això, no ho he vist mai, increïble quina jugada increïble quina jugada Messi, Messi Messi, per a més i més i més, per a més i per a més, per a molt molt molt més i encara més i més i més i més i tot i tot i tot, i tot i més i tot i més",0.7079166769981384,159,True
+1811260,143048350,76561199257483094,Don't do it. I promise. If you have a good life DON'T GET THIS GAME.,0.8538556098937988,201,False
+1811260,150167737,76561199141651019,Game file got deleted. 60hrs of gameplay gone down the drain. Thanks fking EA,0.7520288825035095,27,False
+1811260,147488757,76561198141834756,"downgrade from Fifa 22. 
+
+- much more GPU usage
+- downgrade in gameplay mechanics 
+- better graphics as a plus
+- randomly deletes saves",0.7002379298210144,35,False
+1811260,123065612,76561198376976062,"I purchased the Ultimate version of this game which allowed for 3 days early access. But due to the fact that these games are dependent on poorly performing services and tools, the game is entirely unplayable and won't launch at all due to the Anticheat issue.
+
+It is now the actual day of the launch already, and I still cannot play the game, the advantage of being able to play the game early is lost, and people buying the regular version are now playing it before me.
+
+It is absolutely absurd that you can pay for a game and not be able to play it at all.",0.8990440368652344,205,False
+1811260,136693517,76561198007039337,"Worst Fifa experience yet - as in, I did not even get to play after half an hour of trouble shooting startup issues. Never had these issues in all past Fifa's I have played and thought the bad reviews were a bit over the top, until I bought it and the first thing that greeted me was ""Secure boot not enabled""... Ok then, - after some googleing I came accross some solutions that mentioned issues with the anti-cheat, so followed all those, but none worked. Ok sure, I'll turn on Secure boot then purely for Fifa as I generally think the games are worth it. After that the game finally ""started"" but got stuck on the startup screen with 3000fps and my GPU going haywire.. tried a couple times and gave up as I didn't feel like troubleshooting even more then I already spent JUST TO GET THE GAME STARTED. Refunded, what a buggy mess, even before getting in-game. Do not buy on PC, unless they get rid of the ridiculous anti-cheat that causes most of these issues. DO NOT BUY ON PC. 
+
+-> Edit1: Gave it some more troubleshooting and put a manual FPS limit on the game - so the startup-screen is now locked at 165hz from my monitor, and it did eventually start. Still not recommended unless you are willing to go through the trouble to get it to work.
+
+Edit2: After every update you will have to go through a couple of steps to get it to work AGAIN... otherwise the game does not start at all (even though it says it's running on Steam). This has to do (still) with the anti-cheat, you will have to go through some trouble with installing certificates and manually updating the anti-cheat client. Maybe some day they will fix it, but for now still really NOT recommended!",0.7936656475067139,92,False
+1811260,123039678,76561198319196424,For those having anti-cheat problems. Try going into c:\program files\EA\AC\ then uninstalling the anti cheat then start the game. If that doesnt work then try running origin or steam as administrator and then start the game from one of the two you chose. If origin didnt work with that then try steam as it worked for me.,0.688727855682373,255,True
+1811260,147823278,76561198880365576,"this game has cost me over $300 in terms of property damage and an additional 16 racks on legal issues through online play, would recommend",0.637385904788971,15,True
+1811260,126313257,76561198035964481,"edit2: You have to change Secure Boot setting from BIOS and run everything as administrator. I still regret this purchase because of everything I went through for hours!
+
+Game wont launch! DONT BUY IT! I researched and tried everything to fix but no luck. And here is the best part, THEY WONT REFUND! The game didnt run not once and they say ""We cannot grant a refund at this time. This purchase included in-game items that have been consumed, modified or transferred."" 
+
+THE GAME DID NOT RUN, NOT ONCE! What a lame excuse! So.. I got ripped off!
+
+edit: My setup is 32gb, i7, 3080 and 1tb sdd. So it is not hardware problem.
+
+edit2: You have to change Secure Boot setting from BIOS and run everything as administrator. I still regret this purchase because of everything I went through for hours!",0.9367101192474365,898,False
+1811260,146242477,76561198117265107,"It definitely has its fair share of flaws, but in this genre, it’s still the undisputed king.",0.6324801445007324,8,True
+1811260,133133805,76561198819327730,"I was quite disappointed with EA SPORTS™ FIFA 23, to be honest. As a longtime fan of the series, I was expecting some significant improvements and exciting new features. However, it felt like I was playing the same game as last year, with very little added innovation or changes.
+
+The graphics and animations were also underwhelming. In an age where other games are pushing the boundaries of what's possible in terms of graphics, FIFA 23 felt outdated and unimpressive. Additionally, I experienced several audio glitches and poor sound quality, which made the overall experience quite frustrating.
+
+To make matters worse, the game had numerous bugs and glitches that affected gameplay. These issues were so severe that I lost progress and, in some cases, lost matches. It was quite frustrating and took away from the enjoyment of the game.
+
+Finally, I have to say that the pay-to-win elements were really disappointing. It felt like the game was designed to force players to spend money to progress and improve, which really took away from the sense of accomplishment that comes with mastering a game through hard work and dedication.
+
+Overall, I have to say that FIFA 23 fell short of my expectations. It lacked innovation, had outdated graphics and animations, and was plagued by bugs and glitches. The pay-to-win elements were also a significant downside, and I can't say that I enjoyed the overall experience.",0.6299426555633545,16,False
+1811260,151273442,76561198345411129,Only dislike about this game is that I need money each year for almost same game,0.7274946570396423,22,True
+1811260,123113100,76561198157389009,"Wasted my money buying ultimate edition, and anti cheat meant I couldn't even play for half the early access",0.6774292588233948,69,False
+1811260,132995523,76561198030385492,"How is this even legal to sell this game? This utter garbage is not launching after forced update from Origin to Ea Play. 
+
+Tried these solutions: 
+- Reinstall the whole game
+- Reinstalling Anti-Cheat
+- Installing Certificates for Anti-Cheat files
+- Updating GPU/Windows Drivers
+- Run Fifa as Administrator
+- Allowing Fifa on the Firewall
+- Setting High Priority
+
+And many more..
+
+How is this possible that it still doesn't launch, event after re-installing the whole game? All above mentioned solutions been found on Reddit, what if someone is not using Reddit etc. and just wanna play the game? Should everyone know about some random certificates re-installation? 
+It's not even a joke no more, truly disappointed with this ""game"".",0.9268571138381958,400,False
+1811260,130841979,76561198956931302,"After some update, the game is impossible to launch on my system. I got a recent system with all up to date drivers. No support at all from the devs. Waste of money.",0.6259068846702576,15,False
+1811260,126897267,76561197976209603,"Fix your game you absolute fucking donkeys. 2 months after launch and you have to uninstall the anticheat for every game launch. Did i mention the anticheat also makes your pc run hot as hell for no fucking reason even in the menus. Well atleast on this garbage 23 edition the anticheat allows you to alt+tab in the middle of games unlike it's predecessor, thank fu*k.  $80 for this sh*t, are you fu**ing kidding me?????? FU*K!!!!!!!!!!! The game play is fine tho.",0.6245474815368652,14,False
+1811260,138480715,76561198055530765,"Rarely i leave a negative review because i always try to see the good sides of every game , this one has ONLY BAD sides ( or at least thats what i believe if i ever managed to get the game to finally run so i can play )
+
+Off Side -  Red cad immediately  and someone to kick this game out of the pitch ( Steam )",0.6744186282157898,14,False
+1811260,123376307,76561198385385526,"It's been a week since the game was released, but you still haven't been able to solve the anticheat error. You are the most scandalous company in the world. If there are problems with anti cheat, remove the anti cheat and people can play the game at least until you fix anti cheat. Are you too mediocre to think that? Even companies with 1/100 of your budget are 1000 times more professional than you guys. Such a shame",0.9210066795349121,470,False
+1811260,123024371,76561199398299415,"poor optimization, lag, frame drop, shuttering, all kinds of graphic problem.
+DS4 controller problematic (and also generic gamepad). cant work on Rivals thats mean literally cant play.
+Menu are slow, mindblowly slow while changing the squad and SBCs
+",0.6196143627166748,15,False
+1811260,227355266,76561199199615705,"This game compares to prime fortnite, on everthing. Fifa 23 was the best Fifa i played since 18. I forgot how good fifa was until I played this game, every song on the soundtrack is good, every single song is just perfect. The gameplay is great. Sadly they will never make a game like this in life again.",0.6166694760322571,8,True
+1811260,130591734,76561198800014957,"CAREER MODE PLAYER REVIEW:
+
+When i first bought this I had problems with settings not saving, turned out to be I had multiple controllers plugged into my PC and everytime I loaded up it reset settings for a new controller. Easy fix, only have one main controller in. 
+
+I haven't played since Fifa 17 on the good 'ol Xbox 360 and recently bought Fifa 22 which I was blown away with. Fifa 23 being 45% off I bought it and well, I'm generally impressed. The PC graphics from 22 to 23 have improved tenfold, new animations and the gameplay generally is more realistic in my opinion. I feel as though I'm rewarded for scoring against AI.
+
+THE AI:
+
+Bloody AI is so unpredictable you have a League 2 team starting to be prime barca with the passing. Easy fix, sliders. Other than the occasional ""wtf"" goal, it's not too bad out of the box. 
+
+70/100 recommend to a career player.
+
+I've been lucky and haven't experienced any glitches which makes me upset. To each their own. Enjoy the game lads!",0.6137175559997559,15,True
+1811260,187425230,76561198044191652,"EA sports is just evil. They force kernel-level anticheat to play a stupid football game. Not happy with that, since it clearly is a useless piece of garbage that doesn't actually prevent cheating, they decide to randomly block Virtual Machines YEARS AFTER THE GAME HAS BEEN RELEASED.
+
+I have played 126h all of which using a VM with GPU passthrough. Why? Because I will not allow such malware to run on a Windows installation where I keep my own data. And neither should anyone, really, considering the risks this software poses if hacked.
+
+So either allow turning off the anticheat to play in offline mode! Or, JUST REFUND THE RESIDUAL VALUE OF THE GAME as this is essentially a breach of contract.
+
+EDIT: my hours went up because I found a workaround. If a guy like me can find a workaround why even having the AC running in the first place?",0.6129946112632751,8,False
+1811260,123974970,76561198208533265,"Do not recommend this game, the current state of the game is unplayable on PC. I bought the game for pro clubs, yet it's the only mode still without cross-play, why? 
+
+Even when playing Pro-clubs it's unplayable due to the AI not even working in the game. 
+
+The game has serious bug issues for PC users like myself with constant crashing, slow menus and controllers not working with the game. 
+
+If I could get a refund I would.",0.6065578460693359,15,False
+1811260,123041312,76561198215360199,"This is the most difficult game I ever installed. why? because the SECURED BOOT must be ENABLED first. if you NOT ENABLED yet, be prepared, google it. but, after Done it. you will face another problem. the second problem is EA Anti Cheat Failure to update. You should run Origin as Administrator and Fifa 23.exe also. Ready to play? of course not. in the menu will have to wait 2-5 min to get in Profile Menu. but, in Profile menu you cannot be Saved. GREAT EA !!! you made everything so difficult.",0.6061681509017944,10,False
+1811260,123128963,76561198074757486,"Huge problems with EA Anti Cheat, the servers are not stable either and the perfomance of the game is also not very good (at launch). The gameplay is good in my opinion the new hypermotion is quite nice and finally on PC we have the same version as on console, also very nice graphics. Ultimate Team is pay to win as always but that is part of the game i guess :D Overall a solid football game.
+
+7/10",0.6054628491401672,6,True
+1811260,129765310,76561198093765253,"UPDATE
+------------
+The game is even worse. They fix none of the already known problems that are waaay too obvious but on top now they broke the ultimate team even further. connection problems, black screen, stuck loading etc
+------------
+This game in no way deserves a positive review despite me enjoying a solid 20 hours of local coop with my friends and the reasons are:
+- THIS IS THE MOST IMPORTANT ONE OF ALL: if you connect your controller your game depends on its mood sometimes will recognize it sometimes not. if you connect a second controller good luck loosing your mind before you get to make it work
+- The game needs extra uninstall and reinstall of the anti-cheat just to launch first time
+- The online games are horrible in a way that even if you have the best internet you will still lag and i can't figure out how to fix it
+- The game sometimes will just overheat you computer even if the most powerful graphics games can't do that fifa 23 WILL
+- IDK why over 15-20 nations are missing even those who played in 2022 World cup
+- Horrible music
+- Horrible commentator he literally says 2 sentences over and over",0.6052860021591187,8,False
+1811260,235033336,76561198095475337,"I bought the game 2 years ago, i still don't see a need to upgrade to the EA FC games. I only play offline career mode and local PVP, it has everything I need. There are many mods to update graphics, team rosters, kits and player faces. Not saying I used the mods , but they work like a charm ;P",0.6051687002182007,6,True
+1811260,153656995,76561199015408027,This game so bad and pay to win shit. imagine paying 60$ just to play one year in the ultimate. just to play with shiity players against icons. i will never ever buy another EA game even for 7$.,0.604790449142456,9,False
+1811260,123013084,76561199133148836,"i dont understand why it use my cpu 80-90% during game time and my gpu only use 20-30%.. but when on menu, it use my gpu more than cpu and i even got 1++FPS.. but when i start playing a game, i only got 25FPS because it use my cpu more than gpu even though i play offline.. ea never fail to let me down even on another of his game.",0.6030987501144409,49,False
+1811260,124628782,76561198370377191,"Great game if you spend 5000$ on ultimate team or you have friends to play pro clubs with.
+Since most of us do not have 5000$ or any friends, I can safely say this game is dog water.
+<3.!",0.6000797748565674,12,True
+1811260,196573230,76561199383469558,"Never in my life have I enjoyed a game so much that I would recommend so little. I've put so many enjoyable hours into this game, and I don't regret buying it.
+
+HOWEVER:
+It's just like every other FIFA game. Its the same game. EA is a terrible company, the game doesn't work half the time, when it does work its glitchy, the live service Ultimate Team market is just gambling (or was its dead now). If you already own a FIFA even remotely close to when this one came out DO NOT BUY THIS ONE! Even then there's got to be something better.
+
+I love this game because I love football, not because its a good game",0.598540186882019,6,False
+1811260,163805325,76561199229189093,"Your servers are worst in the world, i made a mistake that i bought this game, i will not buy any version of ea's game until you guys fix your servers, even ludo and chess have better servers than you. not worth money, not worth time, i spent a lot of time to reach finals, connectivity was red, again reached finals again red connectivity, even though my internet is working perfectly fine.
+these type of things give me mental issues. you guys are after money and only money and you do not care about your customers at all. this will be the downfall of ea. this will be the downfall of ea football
+I wish you guys lose all the money. and nobody ever buys your games.",0.5947860479354858,7,False
+1811260,123041333,76561198131723487,"Dear EA company, can you compensate all for this time and money? I represent the voice of every user who complains and this is a real, really sickening incident that hopefully doesn't become a joke everywhere.
+
+When it was first released globally, there was an error saying ""The application encountered on unrecoverable error. Click OK to create a memory dump,? Are you kidding me. And at the same time this happened again and again until my PC turned itself off then forced into booting with failed results saying 'Secure Boot Violation' Invalid signature detected Check Secure Boot Policy in Setup, it really surprised me and surprised my PC so blackscreen can't enter Windows after several tries to check into BIOS and what happened ? My SSD is not detected as a normal boot program, the error is mushrooming everywhere because of EA Anti Cheat, are you aware of this messing up all plans? including the high hopes of fans for EA's presence in collaboration with FIFA for the last time very sorry, I am very concerned, I am very sad, sad for trying to play this game with n the condition of EA's unpreparedness to face and stem all problems with considerations that will occur in the future, my PC is a victim, my SSD is damaged undetected, and my secure boot is on but is not considered by the system to have been turned on.
+
+I decided to take a temporary break until I was able to pay a quarter of the damage to my laptop because of this~",0.9438313245773315,847,False
+1811260,128501667,76561198306769515,"Game constantly lags while playing. Even on single player mode. I have looked for a solution online and nothing works to fix the issue from in-game settings to computer and NVIDIA settings. It is a common issue based on forums and tweets. EA have done a very poor job at optimising this game for PC. Game also stopped launching all together so I had to waste time installing and reinstalling. Upon re-installation the game had issues with EA anti-cheat and continued to lag. My 6 hours of playing time on steam for this game has consisted of about 4 matches of lag along with constantly trying to sort the settings and attempting to launch the game. My rig is an RTX 2060, Ryzen 5 2600, 16GB RAM",0.5932812094688416,5,False
+1811260,123646210,76561198331969159,"Apart from: 
+- The game being released late on launch
+- Not starting for most people without doing some ridiculous roundabout methods due EAAC which even after doing doesn't guarantee it'll work 
+- Slow menus 
+- Awful ping when playing rivals 
+- No cross-play function for co-op game modes 
+- EA releasing a hero pack which is tradable for some users which puts them a mile in front of the current power curve
+- Awful pack weight 
+- The inability to buy points for those who want to using the steam interface 
+- And finally the unfathomable amount of DDA
+If you can overcome all of these short comings and are extremely mentally ill or hate your life I think this game is for you",0.7926912903785706,356,True
+1811260,147071395,76561198100299762,"Game is stuttering and sound statics like hell; did all kinds of ""sOLutIoNs"" to fix the problems, no budge.... possibly because of the nonsense ""aNtI - CHeAt"" that EA plagued the game with. Formatted my pc 4 times, works for a bit, downloaded other and the problem persist. Whoever make this sh!t unplayable and the anti cheat should be killed in their sleep. a waste of $60 I paid just to stutter and static on my screen.",0.5911033749580383,12,False
+1811260,212860753,76561198882142978,its fifa,0.5918367505073547,5,False
+1811260,123232809,76561198008530972,"You're better off squirting lemon in your own eyeballs and pouring vinegar in your open wounds. Your money is better spent by burning it, or giving it to the homeless.",0.9409353137016296,988,False
+1811260,123025534,76561199191922465,"the last and the worst FIFA of all time , by far the world most top worst of worst scripted gameplay i had ever play  , really disgusting dirty tactic an absolutely pure garbage.",0.6365112066268921,15,False
+1811260,140675277,76561198010096616,"one of the worst game ever , too many scripted games if you don't pay money you wont get anything useful  mot only that the game will play against you constantly , not to mention how slow the game can be if you are wining , very bad game really bad , the iq of the players is zero you will amount of stupidity you can't even imagine 
+those developers need to quite the game field they are hopeless 
+i recommend you guys to learn from PES games",0.5863828659057617,7,False
+1811260,123071853,76561198003588227,"TRASH GAMEEEE !!!!!!!!!!!!!
+
+
+Pre-order bonuses that you'll receive:
+
+Anti-cheat error, which won't allow you to play the actual game.
+The worst possible optimization (very bad FPS for owning a 3060).
+Server issues (when the full game hasn't even been released).
+
+They don't care about the PC community.
+
+Never gonna purchase any EA titles.",0.5849056243896484,6,False
+1811260,157720927,76561198131151467,"Playing as Ted Lasso in career mode and storming the lower leagues with Roy Kent and Jamie Tartt are the reason I come back to this game over EA24
+
+With no pes there isn't a real alternative, the football is a little arcade-like but overall this games career mode is fun. It just lacks any real depth",0.5834951400756836,6,True
+1811260,208046672,76561199032467383,"You fking scammer. I paid a fortune to buy this game and after one year and a half, you decided to shut down the server to force us to buy your latest copy. We players ground so hard to get the cards we aimed for and after all, you ruined all the fun and hard work. Screw you. You think doing this can force me to buy you shjtty FC 26? Really?",0.582335889339447,9,False
+1811260,127877281,76561198074838295,"Unfinished, at times unplayable bag of d**ks, flickering with updated GPU drivers unless playing in windowed mode and regular severe input lag/delay on wireless controllers. Well done EA, you really f**ked us hard and dry this time",0.5820139646530151,4,False
+1811260,132708599,76561198293638202,I paid 3500 rupees for a bag of stinking trash. They want this game to be an esport when there is obvious and glaring scripting going on in actual online PvP games. Please save money and do not buy this hot pile of shit,0.5807309150695801,7,False
+1811260,128245510,76561198053111168,"my hours played isn't time actually playing the game It's the time I've spent with the game running after i've tried the 500th time to sort this crap. I've reinstalled the game and anti cheat, tried every combination of admin, deleted easycheat and a random user that gets added to security in C users, my pc runs with secure boot enabled... THere's nothing I havent tried to get this crap to work. 
+
+I bought it because it was on offer 60% and now I see why",0.5804195404052734,7,False
+1811260,174107892,76561197978689227,"The game will not work because of the unnecessary EA software and built-in anticheat.  Error code 115.  Nothing helps.  It's a fresh install on new hardware.  There's literally nothing but a few Steam games and my hardware drivers installed.  Windows is the only other thing.
+
+I'd love to be able to play this, but for some reason it won't work and there's no one to get help from or talk to.  I requested a refund, but since I was able to play it for around 25 hours a year ago it must just mean I'm on my own.
+
+EA, I sincerely hate you and everything that you've done to the world of video game sports.  I hope shareholders tear your soul to shreds while they're clawing you down into the hell you belong in with them.  You're a cancer and the only proper solution is for you to get too large to get doctor government to notice you and inject the EA tumor with legal action that makes them unable to get monopolies on sports licenses in the future.  You ruin literally every single franchise once you get exclusive rights.  NHL.  NASCAR.  FIFA.  Everything.
+
+Thank god you lost FIFA.  Now we might get a good honest effort from someone.  Until you disappoint me next time, farewell.",0.580152690410614,4,False
+1811260,162375711,76561198262733903,"Last update rendered the game useless. Have to sit through all the initial play videos, setup everything, see's extra controllers that aren't there. Wants me to let EA sell my email address, I mean I guess thats one way to push folks to buy the new game, but for folks like me, just makes me avoid anything EA.",0.5795985460281372,15,False
+1811260,123032605,76561198293625600,"Not only they scammed us with the ''Early Access'' having to wait +6 hours for the ''real'' release, not only they did not give any compensation or apology, not only they released a broken mess with a broken kernel level anti-cheat, they also decided it was a good idea to change the gameplay to a more e-Football style.
+
+And PC market is still broken with players being extinct, they fixed console market in less than 2 hours, but 2 full days have passed and PC market is still capped and broken.",0.5784061551094055,7,False
+1811260,123042114,76561198133548975,"[b]Years go by, things get changed, new generations of consoles and graphics cards... but the menus in FIFA are still lagging. [/b]
+
+It's just ridiculous. Minor changes from game to game, but the old errors, bugs and crutches remain. 
+As if the developers need 2 parts of FIFA to fix 1 little bug. It's a laughing stigma for a company like this.
+
+But as if that's not enough, the game continues to abound with a bunch of ****. Broken anti-cheat, which causes 75% of errors on launch, crashes and bugs in career mode that ruin save files, some strange [strike]s**t[/strike] with disconnects in the middle of matches.
+
+And all this will not be fixed. Why? Because there are a million different colored cards of one and the same player from France, which will always drop you, once again giving you a momentary feeling of happiness that it may be Mbappé.
+
+UT's Moments mode is cool. Thanks for that one, but everything else is... 
+Only in UT could it be that a golden ball winner's card is worse than a rookie's card, with speed and strikes boosted up.",0.5769666433334351,5,False
+1811260,123031336,76561198077308535,"Played every FIFA since 98 and this is by far the worst FIFA every made 
+
+Don't know why EA has an anti-cheat for when it doesn't even work
+
+The games script literally determines how the players act before you even kick off
+Players feel slow and unresponsive 80% of the time
+There's zero reason to have a defending stats when the ball bounces uncontrollably when tackling
+Passing is a joke, doesn't go where you want it most of the time
+Through balls are non existent as the game never allows you play the pass you want 
+
+FUT is complete pay to win is time round as it's 'which team has the most players with 5* skill moves/most pace wins'
+
+Thank god it's the last FIFA made by EA 
+Save your money and buy a good game not this hot mess
+
+0/10 Edit: it was a 1/10 but the script is so BS that i had to drop it",0.5759934186935425,5,False
+1811260,136550812,76561198214599363,"Absolute piece of shit that some call a game. Just don't give them any of your money. People that have never played this shit show say it's the same game every year but boy are they wrong, it's just getting fucking worse every fucking time. I give up and if anyone reads this just do yourself, your wallet and your mental health a favour and don't buy this pile of fucking shit. The only consistency in this fucking mess is the lack of consistency, the running, the tackles, the passes, the shots it's just dogshit. Besides FUT being a cashgrab and its so called gameplay being ""totally accurate"" and reflecting the stats on the cards like William Carvalho catching up to Mbappe during a sprint or Jorge Campos (playing outfield) winning a header against VvD or even Insigne winning dribbling past Coates while being pressed by him. Not even Career Mode is safe, despite the player's stats are somewhat ""accurately"" represented, tthe ""gameplay"" itself is still aweful.
+If you've got this far into this review/rant please don't buy this game or any other FIFA or whatever they're going to name it next, don't be like me and waste your money on this franchise you're better of just getting high and drunk for a whole year nonstop and still be in a better state of mind.",0.5754716992378235,6,False
+1811260,136066225,76561197983986367,"Finally the damn thing ran, I did this:
+
+1. Enable secure boot in bios (game will say secure boot is not enabled until you do it)
+2. Run both EA and steam as admin, make sure both are updated, and restart them
+3. Make sure graphics driver is updated
+4. Install game from steam
+5. Verify game cache (steam, fifa 23, properties, local files, verify)
+6. in the game install folder, I went to the anticheat folder and ran the anti cheat installer as administrator, I did uninstall all, then selected fifa, then installed again
+7. In the game folder, I set the game exe and the launch anti cheat exe to compatibility mode all users, run as administrator
+8. In the game install folder, I reinstalled digital certificate (both local user, and machine) for both the launch anticheat dll and exe (until you do it, game will just show up as running on steam, but anticheat won't show up at all and game won't actually start)
+9. Disabled advanced threat detection in bit defender, and added exceptions for steam exe, game exe, and anticheat launch exe
+10. Sacrificed 100 vestal virgins on mount Olympus! (based on EA recommendation)
+11. Ran the game, I got a message that admin access is required, and to click ok to apply it, once I did anti cheat showed up for the first time and updated.
+12. Game started
+13. Buy everyone you know free beer
+
+Can anyone in good conscience give a positive review with all the trouble we have to go to?
+EA, please hire better developers, and pay them well instead of....",0.5754386186599731,7,False
+1811260,144463973,76561199043964468,"In 2012, a young bright eyed me bought FIFA and fell deep in love with not only the game, but football as a whole.. I rose to division 1 in ultimate team, I had amazing LAN matches with friends. But.... and I mean but... this game franchise has left me so upset. this game is unplayable. Every cutscene renders at 1 frame per second, Ultimate team is more pay to win than ever before, and the entire game lacks any hint of character. Sadly, nothing will change with when EA makes guaranteed massive profits year after year while cutting development time & standards because its simply an after thought. Nothing needs to be updated, people will always buy the name. EA, you're the fucking worst.",0.5751900672912598,6,False
+1811260,220250407,76561198848627423,"normally I wouldnt even review a fifa game or a sports game but this one was some of the most fun ive had playing a game and I never even touched multiplayer.
+
+Career mode is genuinely too fun and I put way too many hours into it to not recommend JUST THAT PART OF IT (idgaf about clubs or anything like that)
+
+im not reviewing the other fifas because the careers change only ever so slightly and lately the controls have felt worse in the new ones
+
+8.5/10 if its just career mode, WAY lower if we count everything else",0.5728155374526978,4,True

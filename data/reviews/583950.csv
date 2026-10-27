@@ -1,0 +1,947 @@
+appid,recommendationid,author_id,review,weighted_vote_score,votes_up,voted_up
+583950,48531459,76561197965942959,"[h1]Valve got greedy.[/h1]
+  Apparently Valve forgot everything they learned from TF2, CS:GO and Dota2. Making fun games fully accessible to everyone. Online games without players and communities are destined to fail.
+[b]But... Nope.[/b] Valve decides to exclude 90% of the World.
+[list]
+[*] Pay for the game.
+[*] Pay for cards to play the game, making the best cards the rarest and therefore most expensive. (when they said power level wouldn't be related to rarity)
+[*] Pay to enter prize modes.
+[*] Take a % cut of prize mode entry fees.
+[*] Make a Trading Card Game where you can't trade. You can only buy and sell on their market, while taking a 15%+ cut. Sell a card for $0.03, get $0.01.
+[*] Slowly inject cards behind a weekly time-gate to ensure the market decays, making it impossible to break even in prize modes.
+[/list]
+
+There's so many things they could charge for that don't affect gameplay. People love hats.
+Why not charge for: different imps, hats for imps, different card fronts/backs, different boards, animations, dyes for cosmetics and features (river color), props like trees/flowers/dota2 heroes to decorate/place and make unique boards, chatwheels, emotes, and everything else you did in your other successful games.
+
+[h1]The game isn't fun.[/h1]
+This is supposed to be the best card game possible? They had complete design freedom to do anything they wanted on a digital only platform with a 3D game engine. And they made 3D versions of 2D cards with static art... They literally have 3D models, animations, and cosmetic systems to work with for every hero from Dota 2.
+
+The gameplay is essentially completely reactive and plagued due to RNG at every step. It's not complex with the current card set and it's nothing like Chess where the initial state and immediate possible moves can be determined by a human skill level.
+
+[list]
+[*] Random initial placement of heroes and creeps
+[*] Random card draws
+[*] Random creep deployment every round
+[*] Random attack directions
+[*] Random draw of which item from your list you get to purchase during the shopping phase
+[*] Random secret shop item and consumable item during the shopping phase, different for each player.
+[*] Random card procs (Bounty Hunter, Ogre, etc)
+[*] Randomness of card actives (Chainfrost, Eclipse)
+[/list]
+
+Is it possible for a better/perfect player to win 100% of the time? [b]No.[/b]
+
+[b]The game just isn't complete.[/b] There have been a few features added since the game released, but they just aren't good enough.
+[list]
+[*] The chat interface is terrible. You can only chat by bringing up chat wheels. No chat log/box. Really, how hard would it be to have a chat box like your other 3 main games? Add an option to disable the chat box if you get butt-hurt by social interactions and can't handle it.
+[*] No voice comms (with a disable option)
+[*] Once a game is over, that's it. No replay, no stats, no game history, can't even tell who you just played against. Literally the only thing you can do once a game ends is immediately add them as a Steam Friend to chat... Any other game you've ever played is basically like it never existed.
+[*] Progession system: Earn levels mainly dictated by a weekly time-gate to unlock a bunch of Icons.
+[*] Ranking system: How can you tell if someone is good? You can't. There's a 1-75 rank bin it puts you in based on your hidden MMR, but it's essentially meaningless. You can't even see your opponents rank level! You can only see their Icon level which is basically just a measure of how much they play.
+[*] No matchmaking leaderboards. (Featured mode win streaks leaderboard is useless)
+[*] No unranked global matchmaking mode. Want to test some really bad ideas out? Play against a bot or else it's counting towards your hidden MMR.
+[*] No demo mode. Want to try out cards you don't own? You can play against a bot that uses them, but you can't use them yourself.
+[*] No anything profile related that you expect as standard after playing other Valve games.
+[*] Basically, the only thing you can see about other people playing the game is their name and icon level in your current match only. (Or the dwindling concurrent user count online)
+
+Because the game isn't inherently fun for the average person, there is no incentive to play. Valve's only option is to finish the game, make it more fun, more complete, and then relaunch as Free2Play without any paywalls so the other 90% of the world can try it out and create a better community. No players = no game.
+
+Also, what about the $1,000,000 first place Artifact tournament scheduled for Q1 2019? When you consider the time it takes to announce and run qualifiers, and for players to secure their Visa's and schedule travel. There's only 2 possible options.
+[olist]
+[*] The 1st tournament is invite only and the invite only players are already decided, and Valve isn't telling us.
+[*] The tournament is cancelled/postponed, and Valve isn't telling us.
+[/olist]",0.9550835490226746,1150,False
+583950,50909417,76561197975672336,"The game literally doesn't say anything just brings up a f*cking book or something in my face
+Guess I'll click it... It was the starter pack. Okey. Now I have cards.
+
+I wanted to ask for a refund, because I didn't like this game.
+I had 36 minutes in the game. Steam says they can't refund me because I have opened a pack...
+
+But the game wouldn't have started if I dont open it and I didn't even know it was a pack.
+
+This is a scam by Valve and if you later want to refund the game [b]DO NOT BUY IT[/b] because you won't be able to.",0.9521384835243225,883,False
+583950,50613148,76561198024454626,"Gameplay 10/10
+Card art 10/10
+P2W? Hell yea!!
+Playerbase? What playerbase? Only 50+level people are playing with several hundred dollar decks. (I know it is around 40 now)
+You cannot win unless you pay extra money.
+THIS IS FROM VALVE, one of the most respected developers. WTF???
+Do not buy this game just yet",0.9274238348007202,344,False
+583950,48314623,76561197977913227,"Congratulations new player! Here are 5 card packs that won't make any difference because you basicly had nothing interesting to combine them with anyways. Oh there comes your opponent! Someone 20 times your level because; well, there are no starting players for you to play with.
+Enjoy getting wrecked until you pay more :)",0.9205276966094971,1011,False
+583950,47609450,76561198263341124,"Calculations about why people are leaving this game
+
+Here are some calculations about expected return of Expert Draft/Constructed mode.
+
+Assume an average player who's got 50% win rate, here's how much he is expected to get after a Expert Draft/Constructed run:
+expected return = C(1,4)*(1/2^5)*7 + C(1,5)*(1/2^6)*(7+14) + (0.5^5 + C(1,5)*(1/2^6) )*(7+14*2) = 6.34375
+So, average players' expected return rate is:
+(6.34375 - 7）/ 7 = -9.43%
+
+Explanation:
+I use rmb as currency, which is 7 rmb for 1 ticket, 14 rmb for 1 card pack. But it doesn't matter what currency you use, we are calculating a ratio here.
+C(1,4) means choose 1 out of 4, the same applies for C(1,5) which means choose 1 out of 5.
+C(1,4)*(1/2^5)*7 is the expected return of 3 wins.
+C(1,5)*(1/2^6)*(7+14) is the expected return of 4 wins.
+(0.5^5 + C(1,5)*(1/2^6) )*(7+14*2) is the expected return of 5 win (with 0 lose or 1 lose).
+
+Conclusion:
+
+So, average players with 50% win rate is expected to LOSE 9.43% of his money each time they play an Expert Draft/Constructed game. This is astonishing and unacceptable. This is the only negative sum game that I know of (except lottery and gambling ). But Valve, you are a game company, not casino.
+
+What's even worse is, when average players and below-average players find themselves constantly losing money, they just leave the game. That's what happened in the last 2 weeks. And with daily peak concurrent players of Artifact drops to around 10k, that means more than 80% of players have left the game. When that happens, those above-average players' win rate drops to 50% or below and starts to lose money. Then they will also leave the game. Things are getting worse day by day. Only the few top players will get positive expected returns. It's kind of like the poison circle in Player Unknown's battleground.
+
+If there's no substantial change to this, daily peak concurrent players of Artifact will drop below 10k in the following few days.
+
+I love the core mechanics of the game, and have spent more than dozens of Expert mode tickets. And I don't care about if it's F2P or not. But this Expert mode is just broken, because it keeps punishing players of the game until they just leave. I think Artifact has a huge potential but it's simply ruined by the arrogance of the people in Valve who ignore the urgent call of the players who actually pay for the game.",0.907146692276001,1621,False
+583950,48385997,76561198020232433,"Even if you can overlook all the issues with how the game handles cards & microtransactions, a rapidly falling playerbase, a lack of meaningful progression, and its general poor launch - at it's core, Artifact's gameplay is an unsatisfying chore. 
+
+There are very few times playing the game where random chance plays a small enough element for the average player to make a significant outplay, or carry out a game-long strategy outside of the premade 7+ mana game ending cards. The game includes a random element at each stage of gameplay - creep random lane spawns, attack direction arrows randomly generating, random card draw from your relatively large deck, random shop items each turn. This in my opinion leads to the vast majority of games being decided by which player draws the right random chance at a critical moment, rather than which player predicts the play of an enemy and plans around it. 
+
+Sometimes all you needed to win a lost game was 1 card the whole game, a tp scroll to change a heroes lane after getting it deployed in a bad matchup for example, but the shop does not have a standard set of items, so you're out of luck. While winning, games feel very straightforward - you draw the right cards once or twice, and the game ends, in spite of losing your heroes over and over, or many misplays along the way. There is no clear path to victory without a good measure of luck, which makes a lot of your wins feel hollow and almost out of your hands.
+
+Having said all that, the visual and audio design are fantastic, with a sleek menu system in the style of Dota, and an incredible amount of voiced lines for each card. There is clear effort and care taken with every part of the game, which only makes me more disappointed at how much of a near miss this game was. I do not see a way for this game to see a meaningful revival in playerbase outside of a complete overhaul and rerelease of a lot of the core gameplay and monetization, and even that could be a roll of the dice.",0.8830074071884155,438,False
+583950,87864791,76561198052981171,"I think this is going to be the first Valve game that I have ever negatively reviewed or looked down upon. I've been waiting to write this review since 2018.
+
+What your getting when you install this game is a genuinely fun and easy to get into card game. I won't go too into specifics when it comes to the gameplay, I personally think it's very good and of course it could be improved upon.
+
+The reason this is Valves biggest failure is due to making an online card game that you had to PAY for. And it was priced at TWENTY dollars. Not only that but you had to buy the cards as well. I just do not understand what they were thinking when they put this game on the store.
+
+Twenty dollars is way too much to pay for a card game, but if it has to have a price tag at least let the cards for the player be free. But no, you had to buy the game AND the cards. In what world does that make any sense for a consumer? Cards for the first three months on release could range anywhere from fifty cents to fifteen dollars. What they should've done is made the game free, but maybe you can buy card packs/earn them, or have the game itself be 5-10$ but have the cards be free.
+
+It took them almost THREE years to make the game free to play, something they should've done within the first month of release. But no, they took the backlash from the community and disappeared, promising they would try and fix the game. This is when they started development of Artifact 2.0 and let only a select privileged few try the beta. From what has been discussed, Artifact classic and foundry are nothing alike in gameplay.
+
+And that right there shows how DISCONNECTED Valve is from their fans. ALL they had to do to save this game was make it F2P, something they ended up doing anyways down the line. They thought the GAMEPLAY was the problem, and decided to try and remake it, when the only problem was how EXPENSIVE the damn game was. They announced today that they are completely stopping development of both games. 
+
+Like I said, it's a fun game. But the reason I don't recommend this game is if your getting it right now, your playing only season 1 and that's all the content we are ever gonna get. 
+
+
+It's really a heart wrenching letdown that they are giving up on it. All of the story elements we see in Classic and Foundry are so interesting and deserved to be explored. Juggernaut was a prisoner of the dire? Rubick is being held captive by Silencer? Abaddon, Omniknight and Lycan have some pact? 
+
+This is a game that had real potential in the card game industry, a game that could've shared with us the untold stories of DOTA 2, now just a complete failure of a project from Valve. Best thing that comes out of this is that perhaps more developers shift from this to TF2 or DOTA. 
+
+
+Valve, I gave you my money on release day because no matter what, I thought you could give me an amazing product. Instead, I gave you my money and I got a half finished game.",0.882582426071167,322,False
+583950,48876632,76561198037984589,"After 110 hours of playtime, I can say:
+""This game is a waste of time and money.""
+Yes I own all cards,
+Yes I tried various technics.
+Yes i played other card games.
+
+DO NOT BUY - I did that mistake !",0.926249623298645,969,False
+583950,47296097,76561198008576523,"The game is fun. Games take some time, like 20ish++ minutes a match.
+
+In my opinion, the most important aspect for complexity in these type of games comes from the possibility of being able to interact/disrupt your opponent. Hearthstone doesn't have any of it except for its Secret mechanic while Magic and Yu-Gi-Oh allow you to play cards in the middle of the opponents turn. Artifact, much like Gwent, takes a middle-road of sorts in where each of you play a single card in turns. This, by itself, gives it already a lot more design space for complexity than many other games of this genre.
+
+Then there is also the game-design by itself which is simply pure genius, and honestly really refreshing compared to what else is out there. If you're looking into buying this game, and actually reading a review, I'm sure you're already aware of how it functions. There are a lot of small decisions to make that ultimately amount to your victory or lose and a lot of cool cards that allow for diverse playstyles. Concepts like pass bluffing and manipulating initiative are important. So is deciding to abandon a lane or purposefully keeping an enemy hero (in draft, which has limited mobility options) alive to lock him out of the game. It's just immense and you really have to take a step back and think about the overall situation rather than blindly following your simple game-plan. 
+
+Then there is the RNG, with the advent of digital CCG/TCG there comes a myriad of advantages that just weren't possible in a physical format. Such as changing existing cards. One of such possibilities is the inclusion of RNG-esque things. The main-three RNG elements are the card-draw, the item-market, and the direction of your creeps and heroes attack - which can be manipulated. Those are all fine and fundamentally balanced parts of the game. But then there are some really heavy RNG cards. My personal rule of thumb is: Can this card more-or-less single-handedly win you the game, even if it's just a miniscule chance? If so, bad RNG. There are some cards like that in the game. Like Cheating Death which turns the death of your units into a coin-flip. Every. Single. Time. (Imagine doing that in reality, takes a while)
+
+Compared to the most famous digital CCG, Hearthstone, the amount of such RNG-centric cards are really just miniscule. BUT they give an insight into the design philosophy of the future of the game. Essentially, it's not impossible for more of such cards to be printed and, sooner or later, they add up. An example of this would be the digital CCG Shadowverse. Which, at its release, only had a single relevant card of 'target a random enemy and deal 1 damage'. This was years ago. Now, after many expansions? There is a whole lot more.
+
+Despite all the praise and fun I have with Artifact, I have to give the game a negative review, however. Why? Because of the pricing policy Valve is displaying and thus, by extension, that they care more about profit than their consumers.
+
+Just for the record, I despise an f2p experience like Hearthstone, too. Blizzard designed the game in a way that, unless you spend actual money, you progress really really slow or have to invest insane amounts of time. If I had to name my ideal f2p experience it would be Shadowverse or Gwent. My ideal digital CCG experience would look like something akin to a monthly subscription with card-progression that isn't designed to get you to spend more money.
+
+I also want to mention that it's theoretically possible to increase your collection without spending more money. By winning 4 games in a draft you get your ticket back and a card pack. And this possibility is what made me ultimately buy the game.
+
+Now, with all that out the way. Their pricing policy. I am not talking about being able to 'only' buy more packs with actual money. I'm talking about the cut they take from selling cards on the steam market. You already pay money to receive the cards in the first place. Valve made their profit. But they want more. Because more profit is good, but it costs the consumer.  Capitalism, ho! What will this bring for the future? Nothing good. 
+
+It's sad to see a company that used to make games(lol) now 100% exploits it as a business opportunity.",0.8256680369377136,445,False
+583950,47216541,76561197973057214,"Pros:
+Better visuals than most card games. Unique 3 lane gameplay allows for fun and varied gameplay styles. There are a ride range of cards at release and I can see some very big plays with certain decks builds. 
+
+Cons:
+There is zero way to gain cards other than pay out of your pocket. Every other card game has a ingame currency where you can grind to progress but not here. I am already bored of this game as there's no method of progression.",0.8649693131446838,870,False
+583950,49659422,76561197993101289,"I'm not happy to write this review, the game is good and well made, every cards has his lore and voice acting, the three boards mechanics is not so complicated and you can master it after a couple of hours (the time you need to practice with the most common cards).
+
+What is wrong with this game is the microtransaction system, if you want to build your deck you need to pay, there is no trading with friends or other people but right now the cards are very cheap on the market (because the game is dead), but let me say that if you want to play for fun with pre-build decks you can for free.
+
+What is more wrong with this game is Valve, they killed the game after two months, last update was at the end of January and right now there is no info about the future of the game, they also fired RG and other members of the team.
+
+The game is dead and Valve killed it since start.
+
+There is rumors out there that maybe it will become free to play ""in a few months"", i will not talk about this rumor because is a rumor, i don't want rumors from a 4Chan user, i want an official statement from Valve.
+
+The game is dead and Valve killed it.
+
+(ok, ok, there is other 99 wrong things but who cares, the game is dead and Valve killed it.)
+
+UPDATE:
+
+After months Valve gave us more info about the future of the game:
+
+https://steamcommunity.com/gid/103582791461919240/announcements/detail/1819924505115920089
+
+and also:
+
+http://blog.dota2.com/2019/05/dota-auto-chess/
+
+judge yourself.
+
+UPDATE (7 March 2021)
+
+Hey, look, is dead! surprisedgaben.jpg",0.8643343448638916,185,False
+583950,86241868,76561198066476413,"A unique and enjoyable card game, that was victim to a poorly executed ""pay-to-play"" business model. Despite an attempted resurrection with ""BETA 2.0"", the game is now essentially abandoned, with an average player base of 35 people over the past 30-days (at time of this review). Purchase at your own risk.
+
+Better Alternatives: Monster Train, Slay the Spire, MTG Arena",0.8088686466217041,144,False
+583950,47200145,76561198033664282,"When you start the game for the first time and go trough tutorials, you're met with a pop-up message that claiming and opening your free packs makes this game non-refundable on Steam platform. Despite that red flag I accepted and continued to play for 2 days straight, before being met with a cruel realization that this game has many more microtransactions than I expected.
+
+You start the game with 5 tickets and 10 card packs.
+How to get more card packs:
+
+[*]In order to get card packs, you need to use tickets that allow you to play in special game modes.
+[*]The special game modes are just a highly RNG based (minus one) PvP battles (Not to mistake with TES:L PvE Arena system).
+[*]One of these game modes allows you to draft 2 cards out of 5 pools of 10 cards and keep them after the game, but to start this mode you need to spend 2 TICKETS and 5 UNOPENED CARD PACKS.
+[*]after you start one of the special games that consume tickets, you need to win minimum 3 games against other players, with maximum of 2 loses to get anything at all out of it. And that is just a refund of a ticket. Otherwise it's 1-3 tickets and 1-3 card packs, depending from wins.
+[*]In case you didn't win 3 times and already lost 2 times, you get absolutely nothing and your used ticket/packs are gone.
+[*]Or scratch all that and you buy card packs for roughly $2, because it's simply unlikely to win anything with the amount of out-of-control RNG that is going on in this game (No joke, it even randomizes the direction in which your creeps/heroes are going to deal damage)
+
+Other ways of getting cards:
+[*]Selling and buying them on Steam Market. However keep in mind that all the good cards are going to be much more expensive than any common board-filler. Many of them being more expensive then the card packs themselves.
+
+How to get more tickets when you spent all of them on the game modes in hoping to win card packs:
+[*] You spend irl money, around $5 per ticket.
+[*] Recycling 2 card packs worth of cards (20 cards) to get 1 ticket.
+[*] That's about it.
+
+To sum it up - I really, REALLY hoped this game would be much better than what everyone else already guessed it to be. And I would lie if I said it wasn't a brand-based purchase.
+Even with the crazy amounts of RNG, the game itself is pretty good, but the amount of paywalls is indeed downright disgusting. Some articles said you can play this game without spending any money, but how do you even expect to fight people who actually bought/earned enough cards to build reliable decks?
+
+I do not recommand this game in its current state. The microtransactions are ridiculus. I only hope someday it will get a reasonable update with ways to get cards without spending money.
+
+The fact alone you need to BUY an online card game is crazy enough.
+
+EDIT: Isn't that just ridiculus in itself that people would need to come up with some plans and financial strategies to overcome the paywalls/make it worth your time?
+Instead of advocating such behaviors and thinking workarounds, it should be brought down to the ground level and call it what it is - a ridiculus amount of microtransactions.",0.8494758605957031,1258,False
+583950,47175159,76561197993273273,"Enter the Pay2Pay era!
+
+Awesome production value, great mechanics, beautiful lore, but the game is built around a single purpose, dumping money on it. Everything requires payment, including the competitive mode, and as of now, there's no ladders, rankings or a progression system, not even achievements, imagine that. If you're not planning to burn hundreds of euros on a digital card game, steer away from it.
+
+Waiting for Artifact 2.0!",0.8493174910545349,3172,False
+583950,47424645,76561198033159368,"Amazing card game that I'm probably never going to play again because of 2 reasons. Why? Read on my brief comments below...
+
+After 50+ hours of gameplay, here are my 2 cents:
+[h1][b]1. NO PROGRESSION [/b][/h1] - why in the world wouldn't you add a progression and gamification/level system to a game like this? You absolutely cannot level up or feel the ""completition"" achievement in any of the game modes...
+[h1][b]2. EVENT TICKETS [/b][/h1]- now this one is a joke. Basically, if you want to play ranked (called ""expert"" in Artifact and earn packs) you need an event ticket that, guess what.... Can only be BOUGHT for like a $1 (or you can farm these tickets if you have high win-rate ratio in ranked), so basically you either need to be REALLY GOOD at the game to continue playing ranked or just spent bucks TO PLAY RANKED. Bear in mind, you've already bought the game for 20$.
+
+also: 
+- - - NO PROFILE TAB TO VIEW ANY STATS
+- - - ZERO INTERACTION WITH OPPONENT
+
+Isn't this ridicolous?",0.8384013175964355,613,False
+583950,49328075,76561197971323591,"Much more than just a bad game: this is definitive proof that Valve's corporate culture and flat hierarchy are failed experiments.
+
+You were once capable of greatness, Valve. You can't just keep buying projects that are already successful, chewing the teams up and spitting them out after they release a single product with your logo on it.
+
+Reorganize your company, re-hire the people with creative vision, and make real games again, please.",0.8342305421829224,195,False
+583950,54618663,76561197975192105,"Nah, 
+
+Valve used to influence the gaming world.. 
+
+.. now they just chase money. 
+
+How could you guys abandon your most successful franchises to produce this?",0.8834676146507263,251,False
+583950,55236618,76561197971650213,"Pros:
+
+You can be a top 100 player by playing a single game.
+
+Cons:
+
+You have to play a game.",0.8763391375541687,182,False
+583950,54848835,76561198029097519,My 200$ worth of cards is now worth nothing. Game was broken and they weren't competent to fix it. It will never be a thing. please dont buy,0.874593198299408,180,False
+583950,55136519,76561198058051521,"what if you wanted to play a conceptually cool card game but then god said:
+80 concurrent players",0.8737514019012451,176,False
+583950,87864421,76561198118965617,"Well that's a shame. I played just over a hundred hours of it and really enjoyed it at times. Was even waiting on 2.0 to come out since it was announced.
+
+Sure a lot of cards were broken strong, but it really did give off that dota vibe. My main issue with it was just the lack of new content to keep playing.
+
+As for card packs, I literally never bought any because the dev team added account leveling which gave them for free a month after release. It wasn't the most generous but it was decent.
+
+Also, full-deck draft gauntlet made it so the cards you own didn't really matter because you could just make a temporary deck from cards from the full set. It was entertaining as hell to run like 6 copies of the same card or 3 of a hero.
+
+The game had a lot of issues when it came to economy but it was definitely enjoyable.",0.7727563977241516,48,True
+583950,89082011,76561198119607388,"bought this game, tried to return it within 0.7 hours of purchase, couldn't because of some card pack i opened because  I HAD TO OPEN IT TO PLAY THE GAME <3...
+
+
+just for it to become f2p.....",0.821398138999939,77,False
+583950,141580556,76561198036481966,"Artifact is a card game that could have really taken off. It could have been the type of card game for a niche audience of card game players who love to play 3D chess in their games and who think half a dozen turns ahead. But it was also a game that no-one really asked for either.
+
+Its announcement at a TI wasn't received well at all, but only because every TI has hardcore Dota fans that couldn't care less about a card game, even if it's a part of the franchise. Now if Artifact was announced separately, that would have been a different story perhaps. Richard Garfield tried to make this game too much like Magic the Gathering - not MTG: Arena, but the regular CCG, with cards you pay real money for. And this was one of the main problems with the game on launch.
+
+Not only did you have to pay $20 or so for the game, cards that made you ahead of the curve had to be purchased with real money. But what annoyed me more was the draft games and the ticket system at the time. The objective was spend a ticket and then to win 5 games, but if you lose 2 games, you don't get that ticket back...and the only way to get new tickets was to buy them with real money. Since then the system changed because Valve saw the massive backlash and relented. But by then it was already too late. Player numbers shot down in a space of a couple of weeks, the game wasn't getting patched that much, and new cards weren't coming.
+
+But to those who are interested in playing now, then they'll be happy to hear the entire game is 100% F2P. However...
+
+It has complex game mechanics that not everyone is happy/willing/comfortable to learn. Unlike something like Hearthstone or Legends of Runeterra or Shadowverse, it isn't the type of game that can be picked up and played quickly. Games last for a long time, and evenly-matched opponents can make games stretch on for well over 30 minutes. It is also very heavily reliant on RNG, which can make games either really fun or really unfair. But this are still very interesting game mechanics that haven't really been seen before in card games, and Garfield's genius in game design shows here. He has no regrets in his part in making the game though; by the time Artifact was launched, he moved on to design another game.
+
+Classic is the one to pick though if you're interested; Foundry has very different and confusing rules and made Artifact far more complicated than it already was. Finding players now though is another matter. We're talking double digits the last time I checked Steam Charts. So the way to go is either play with bots or find friends who are also interested in the game and make matches with them.
+
+If Valve had spent more time doing researching on their competitors, then perhaps Artifact wouldn't have been in the place it is now. The game would have had patches, new cards would come to make the game fresh, and while that $1m tournament they announced never came, ranked play and small tournaments would have made the game more accessible and noticeable.
+
+Now if Valve let a third-party come in and use the game mechanics to let them bring a revamped and revitalised Artifact (with new cards, patches, etc.), would that make the game better? Well there's no way Valve would let someone officially do that without getting copyright sued, so I guess we'll never know.
+
+Dota was my first MOBA, and I thought the game design, aesthetic and world-building was great. To see it in a card game (as in a functioning card game that is frequently maintained and updated) could have been great too. Except not everyone asked for it, and since Dota is designed to be a complex game anyway (it's what draws players in), a similarly complex card game would falter behind the likes of Magic, Hearthstone, Pokemon, Runeterra, ES Legends, Gwent, Shadowverse, and so on.
+
+I still recommend it though, if you like the Dota franchise and have no issues with what is now a dead game that will never be updated.",0.7651516199111938,39,True
+583950,47469332,76561198017067308,"Famous quote: ""When people in beta complained about Drow being OP, Valve didn't nerf her. Instead, they changed her rarity from uncommon to rare.""
+
+My dear reader, have patience and let me tell you all the truth about Shartifact, truly a unqiue game full of hype and fan anticipation (ok?)...
+
+Artifuck is a game with awesome balance. More than half of the cards are completely worthless, some of them being straight up terrible in every possible situation being completely outclassed by others. (Some of them are also entirely outclassed by items everyone can buy, so no niche color specific mechanics hehehe). You would think a basic introductionary set of cards consisting almost entirely of raw stat buffs would be easy to balance... oh no! That is of course not true, it's intended as the creator of this awesome game is no other than the TCG GOD himself, Richard Garfield, with his genious philosophy of:
+""People who play with the bad cards are stupid because they haven't figured out which are the good ones."".
+
+So yes, having filler worthless cards to fill up a booster box is of course something very valuable to have in a digital card game. Artifatfuck is exactly that, a very close emulation of your typical scummy greedy TCG card game where your average competitive match consists of the same deck in every fucking damn game... It's all about skill, getting that +4 all possible stats instawin card first before your opponent. You shouldn't question why all tournaments use random draft games when this game has such variety and balance (random draft as in ""pick random cards, but not the useless ones, that wouldn't be professional"").
+
+The promised ""highest fidelity"" gameplay is evident, with skills such as ""50% chance anyone survives on 1 hp"", ""completely stop your opponent from doing anything this turn as long as you act first"", you are left with awesome mindful games consisting of: uncontrollable random creep placement, uncontrollable random hero placement, uncontrollable random attack targetting, uncontrollable random variety of shop items... Wait, wait, I am just telling you this game can seriously be run on a casino slot machine and no one would notice.
+
+Valve made sure to bring some very successful capitalist practices and they did well emulating your greedy uncle's game shop. With the slogan of ""no free breakfast"", you are ready to get into this TRADING card game. Just open the Steam Market and buy some effin cards (thank God the prices got lower and Axe doesn't cost more than the actual game now!), Valve will thank you for purhasing this game and then get another 15% tax on each bought card too. Don't think about direct free trade with your friends, that's illegal and hurts the free market economy... you understand, goyim?
+You can't bring cards out of nothing, so NO GRINDING, sorry! This is real life TCG (but also this game is very unique and innovative don't forget!). You should know how much work has Valve put into making and distributing these cards. The only way to actually get more cards is.. you guessed it right? It's good to remember your greedy uncle's game shop now. You can play with the good guys only if you pay tickets to enter the ""local tournament"", your prize, of course, is the ticket you paid to enter.. and a card pack if you manage to finish well enough. Or you know, just buy the cards you need from the market, as that would be the only way to win anyway. (Here I should be telling you to invest in crypto instead, and make your greedy uncle pay your taxes. You can go one level further and make your video card more useful and happy to not render Artifail.)
+
+Don't get me wrong, you probably heard lots of good stuff about this game. Valve made sure to organize a closed invite only closed beta closed tournament with all the good card professional players you all love, they surely loved this game too and weren't there only for the money. Ahm.
+Of course, you heard all the good stuff about Artifag from them and how they are happily still playing and streaming this best card game ever made, and also talking about it non-stop to their friends and their friends' mothers (and their mothers' friends' friends). You should follow them too and do it exactly as well (that is: continue playing Heartsone/Gwent/thatothergameyoulove, you don't have to think about it too much, you will do well sabotaging the competition). Valve carefully listened well to all their honest positive feedback, such game consisting of masterfully perfected core mechanics barely changed throughout the whole beta period. Even the official post-beta release is still lacking basic game functionality like chat, replays, any leaderboards or any rank system or any game history/statistics at all...
+Numbers don't lie. It is THAT good and E X C I T I N G! (now pat yourselves on the back Valve)
+
+As a good reviewer, I would tell you to definitely get this game. That is, if there are still people playing it by the time it goes free to play. :)
+
+Either way. May RNGesus have mercy on your green paper!",0.8135754466056824,757,False
+583950,54542508,76561198081880367,"Pro:
+- Nice mechanics;
+- Big differences in gameplay from other cards games , such as Hearthstone;
+
+Against:
+- It's not free;
+- You don't pay only for the game, but you have to pay for cards also because there's not possibility to have them for free;
+- Too much time and less gained experience for each match;
+
+
+",0.8135270476341248,98,False
+583950,47271178,76561198016318428,"Bought it.
+Opened first free 10 packs. Received cards that expensive than game itself.
+Sold them for 40 bucks.
+Uninstalled game.
+Profit.",0.862665057182312,1868,True
+583950,49654100,76561198029739280,"[b] Valve [/b] has literally [b] abandoned the game... [/b]
+
+[u] [b] Edit: 13/03/2021 [/b] [/u]
+
+This game was so hyped at the time, and for me, the [b] gameplay lived up to it [/b] for me when it launched, it was so different from everything that I’ve tried before and [b] I did not even know Dota 2 universe… [/b] But after years waiting for something, it’s finally Official, both versions of the game, Classic and Foundry, will not be in further development… Here is some of the main things that were impactful during all this time being a casual player.
+
+[list]
+[*] [u] [b] Art Style [/b] [/u] – Artifact is visually amazing, the design they took for this game made me fall in love to it at first sight, from the main screen to the board, it is just stunning and gives a unique touch to it, something mystic and interesting to get into, with an amazing soundtrack to help build it. The animations in-game are good too, I love the 2 fellows (Lux and Nox) that stick with us during the match.
+[*] [u] [b] Innovation [/b] [/u] – The game features five heroes and three lanes to play, each one has its own tower and mana. I’ve never seen a game that was so close to a Moba game before, the core of it made me interested and trying to learn it, in a time I was really invested in this game.
+ [*] [u] [b] Difficulty [/b] [/u] – This game has the same difficulty when you start learning any card game, but there are features that makes it harder, by having 3 different boards, you must be very careful about your decisions on where to move your resources and what time of the game that you become stronger than your opponent. Took me a while to get used to it, but I saw a very good potential in competitive scenario in this game.
+ [*] [u] [b] Draft [/b] [/u] – There is a game mode called Draft, which consists of you randomly choosing cards until the 5 packs end, it helped me out to know all the cards and have creativity with combinations, learning the game faster while having a lot of fun.
+ [*] [u] [b] Business Model [/b] [/u] – Here it is, the thing that made this game one of the biggest failures of the industry. Valve decided to release this game for US$20,00, but you wouldn’t receive any cards in the game, having to buy packs and even tickets to participate in non-casual matches, making it pay to win. Justified, people were calling out Valve that did nothing for the past couple of years.
+[/list]
+
+While the player base was slowing getting away by all the negative things surrounding this game, Valve didn’t help at all with their silence and by changing all the focus to a brand-new Artifact game, that was so exclusive that very few people got the invitation to try it out. In my view, Classic Artifact was amazing, all they had to do is change the monetization…
+
+It’s definitely a [b] Sad Journey [/b], but not an unexpected one, Valve made it again, they developed something amazing and left it to the community, to keep playing until there is no one there anymore…
+
+[u] [b] Rate: 8.4/10.0 [/b] [/u]",0.8113869428634644,138,False
+583950,47290212,76561198074293333,Game feels dead after a while with no progression unless u pay. Not sure why it was priced so high just to purchase the game when you can't have fun unless you pay more,0.8610928058624268,478,False
+583950,122954675,76561198041614407,"Probably the best card game when compared to other games like MTG:A, Hearthstone, etc. The IP is really strong and the game-play is something incredibly fresh within the genre. I believe Richard Garfield was involved in terms of its' design but that might just be rumor. I remember hearing talk about that during its' development. It's a complete shame it got ruined by the monetization scheme. 
+
+If you could get a dedicated friend group together specifically to play the game it's worth it, but for all other intents it's essentially dead now with a small straggler group of some Chinese accounts still in it for the long haul. Probably less than 20 people or so, and usually late at night if you're NA. 
+
+Long story short though, don't bother.",0.7565296292304993,38,False
+583950,48232235,76561198006907452,"As a longtime CCG player, I've experienced a lot of games.  Been decent at a few... not pro level but could follow a meta and win a local tourney or two.  Magic, Star Wars (the original) CCG, LOTR, Hearthstone, Eternal CCG.  All had/have flaws, but I don't regret any of them.
+
+I regret Artifact.  It kills me but I do.
+
+Never in my time playing card games has a collectable game been so... unfun.  I read the hype about how it was designed by Garfield, was made to be an extremely competitive and cerebral game, and it sold me.  I would have tried it had the reviews been entirely negative, because I would have rationalize those people just weren't ready for a competitive card game.  Man was I wrong.  And I'm not even sure WHY I was wrong... it just isn't good.  It may be extremely tactical, and for all I know at the very top level of play it's the greatest game ever.  But for us average to even ""good"" players?  Horrendous.
+
+The three lane concept is cute but ultimately unrewarding and extremely frustrating.  Part of the joy of playing these games is the cards, and Artifact uniquely is designed to prevent that.  Crucial moment in a lane?  The enemy can kill/silence your hero and prevent the play of that entire color of card.  Tactical?  Sure.  Fun?  Absolutely not, its awful.  I've played vintage through standard magic extensively, the mind games are not new.   What is new is the sheer amount of ways to prevent cards from being played.  Not countered, or nullified via clever play.  Stuck in your hand, useless, for extended periods.  Add this to the fact that the game is extremely long and tedious (single games can take an extended amount of time), and it really isnt any fun to play at all.
+
+Flavorwise?  None.  Like dry toast left in the rain.  The cards, the characters, the mechanics... its painful to even look at.  How do you enjoy a game when everything from the art to the style of interaction is so dry?  I can't do it, I'm sorry.  
+
+I really get the sense that the entire focus of the game, from A to Z, was twitch streamers.  Somebody thought this would be a great E-Sports game.  They lost sight of the idea that E-Sports games require an audience that gives a crap, and from my experience and the reviews I've read I don't think anyone will in a year.  A painful flop, that I really didn't want to be a flop.
+
+If it's still around in a year, read the current reviews and see if they've fixed anything.  But I doubt it.  I think this one is stillborn, sadly.
+",0.8053280115127563,244,False
+583950,48563353,76561198005606463,"I don't recommend this game for the following reasons:
+
+1. Silly economy. 
+The description ""pay to pay to play"" pretty much sums it up. The game is not free to play, yet expects people who are interested in prize play to constantly pay for tickets... AND pay for cards on the market on top of all that? Very much feels like they're trying to have the cake and eat it, too.
+
+2. Lack of a progression system. 
+They more or less tried to fix this with a rushed leveling system... but it's far too slow and far too unrewarding to incentivize staying in this mess of a game. 
+
+3. The game itself. 
+All of the above might not be that bad, if the game was awesome. After all, abusive business models in digital CCGs are pretty much a given nowadays (unfortunately)... But it's just not that good. The gameplay is unintuitive for newcomers, full of infuriating randomness (I'll say it: much more so than even Hearthstone.) and just feels clunky overall. The three lane thing might have been a neat idea in terms of translating the DOTA feel to a card game, but it doesn't seem to bring all that much depth to the table, in my opinion. It's just a BO3 in which all matches are played simultaneously. What you're left with is a game of trying to stack more numbers on your side of the board. Boring.
+
+4. Valve's silence. 
+I know that's just the Valve way and all that, but maybe that approach just doesn't cut it anymore in 2019. Considering the magnitude of the trainwreck, some more info on what they're actually attempting here might have gone a long way in helping people trust that betterment is on the way. Personally, I have given up and sold all my cards already, with a lesson learned to not believe the hype of big names.",0.7892411351203918,180,False
+583950,77180827,76561198068308692,"Great game, unfortunately cards were too expensive. Constructed almost impossible to play without spending at least 50$; The game itself was fun, but economy ruined everything
+RIP artifact",0.7297962307929993,60,True
+583950,87921023,76561197999828405,"As someone who invested 167 hours into Artifact Classic, I'm gutted with how the game was handled post launch. I never had issue with how game was played. The 3 lane structure added great variety and depth to the combat phase as you could employ more than one win condition at a time and you had a way to rebound if a lane was lost, adapting as you go. This made each match highly varied and fun. Certain hero and color combinations lead to great chain reactions and counter plays. Truly the core game play and ideas here were solid and well realised.
+
+I think everyone can agree that the monetization choice for the game was a huge mistake. Dota 2, the game Artifact takes inspiration from offers the entire roster for free, and yet still breaks it's own record for profits generated every year from it's own competitive scene and consistent flow of balance tweaks and cosmetic items to keep the game fresh and interesting. Whoever thought it would be a good idea to treat Artifact as if it was a physical card game and give up on releasing new content should honestly be fired. You can't just emulate the greedy business structure of Magic the Gathering or Hearthstone without earning the playerbase to carry it first.
+
+I was eagerly looking forward to the re-release of Artifact and hoped to join the beta, but before I even got an invitation to play it was already cancelled and considered a failure. Why? There are still plenty of ways to monetize this game and yet whoever is in charge insists it's a gameplay problem. The sheer amount of new content in Artifact Foundry would have been enough to carry Classic well past it's first year if it were incrementally released for free and would have rekindled good faith with the playerbase who were rapidly abandoning ship for games with actual support from developers.
+
+I loved the idea of a Dota card game and the potential was certainly there to make this work but what the community wants clearly isn't what Valve wants for this project. You figured it out for underlords by making it free with payed cosmetics, why crash against the rocks clinging to a draconian business model here? What a waste of an IP and a damn shame.",0.776262640953064,43,False
+583950,47231615,76561198022347123,"This is going to be a long and lengthy review, but before I start I want to give myself some credibility.
+First of all, I have never played dota 2, so I am in no position to comment on the lore/truthfulness to the game/etc.
+
+However, I consider myself a hardcore TCG/CCG player, I've top 100'd in hearthstone 8 months in a row, I played MTG for 15+ years and top 8'd many ptqs and gps, I won the champion cup in shadowverse, and in general I play a LOT of card games, and tend to do well in them.
+
+That being said I think I am in a good position to critique this game.
+
+First of all, the graphics:
+This has got to be one of the best looking card games I've seen in my life. Every card has it's own voice, lore, and is rendered wonderfully, the board, hands, and little devil-sprites (I'm sure they have a name) are fantastic looking. In my books the graphics are 10/10.
+
+Second, HUD:
+The HUD menu out-of-game is a little unintuitive, some buttons are placed in weird places, opening or editing your decks requires you to ""load"" them (instead of all your decks being listed, you have to hit a ""load"" button and then ""save"" when you're done), deckbuilding is ok-ish. Your deck is a list of card names, you drag other cards from a list (your collection) unto your deck (another list). I would've liked to see some kind of binder or catalogue where either the deck, or the collection is spread out with full size cards instead of just a ""name"" in text that you have to click on to find out what the card does. In game HUD, again, looks fantastic, but sometimes when the opponent takes a while on their turn there's nothing to do (in hearthstone you can click the environment, in MTGarena, shadowverse, and others your mouse has particle effects that you can draw with) - not really a big deal to be fair, I'm just being anal. There's also always a card pack floating in the ""buy packs"" screen, this card pack shows whether or not you have a pack, which get's a bit confusing because the game makes it look like I have an unopened card park in my collection.
+
+Next and the most important aspect of the game - what to do:
+Unfortunetly there isn't much to do outside of playing the game. There is no ranked mode, there is no leaderboard, there is no rewards of any kind, no in-game currency, no profile icons, no cardbacks, no new voicepacks/game tables, no rank beside your profile, no progression of ANY KIND. If you play a game and win, what do you win? Nothing. Play and lose, nothing. In effect there is no grind, no climb, and overall this is the ONE thing that keeps me from recommending this game to people. This encourages players to play wacky/stupid decks instead of competetive decks, which is fun for those players, but not for players who want to win. The one ""competetive"" game mode in the game consists of spending a ticket (a currency) to enter an ""expert tournament"" - A gamemode that ends when you lose twice, and has rewards for up to a maximum of 5 wins, which is a grand prize of a ticket and TWO packs. Yes that's right, TWO packs.
+
+If you're the best player in the entire game you have to grind out this boring ""tournament"" for two packs, which is redundant for two reasons, first of all, the cards in this game are very limited (as of now) and you can effectively buy 3 of every card in the game for $30 thanks to the in-game market (you can buy and sell cards, however 95% of the cards sell for $0.02). This means that it's cheaper to buy your decks that open a bunch of packs to get the cards, and second, you get prettymuch 90% of the cards in the game from opening around 20-30 packs ($50), since only about half the cards are playable, packs become useless (especially 2 as a grand prize) and most people will just buy other players' excess cards for cents. This results in the game's ""expert tournament"", a mode where you pay 1 ticket, and if you WIN ALL YOUR GAMES, you get back 1 ticket, and 2 packs, being completely unsatisfying.
+
+I would like to see the wins extended to 8 or even 12, and bigger prizes.
+
+Next, I want to explain something to all of you, in any given card game, there are what are called ""whales"", these players make up 0.5%-1.5% of the playerbase but account for 50% of the revenue for card games.
+
+I want to bring this up because there is something missing from this game. Foils.
+""Premium"", ""Foil"", ""Animated"", or ""Golden"" cards are animated or holographic versions of cards that are hard to obtain. Players like me want a fully foil deck - and we are willing to pay for it. If valve implements Foils into the game, the ""whales"" will spend A LOT MORE MONEY on packs trying to get foils, the community will open a lot more packs trying to get expensive $100 foils that they can sell on the marketplace, there is FINANCIAL reasons to add foils, but also it makes opening packs much more exciting! Casual players will gamble because there's a chance to get big money, and packs will suddenly become appealing, because again, after spending about $40 you own every card in the game, and card packs become useless.
+
+I wanted to talk about gameplay but I feel I've rambled on too much. If you're still reading this by now, this game needs a way to progress, so a win FEELS like a win, a ranked system - with monthly or yearly rewards, an esports scene, a profile that you can show off, a way to communicate in the game, and a way of determining who the best is, and ofcourse, FOILS.
+
+Until any of these are implemented I cannot recommend this game with good concious.",0.7696376442909241,102,False
+583950,47549953,76561198047717029,"Old Review | Before the update of December 21th :
+---------------------------------------------------------------------
+This is a PAY TO HAVE, PAY TO PLAY and PAY TO WIN game, with 0 game and deck progress for players who want to play ""free"". Has not any features or modes which will intigue you to play, as other card games do.
+If you willing to pay some money, you can buy specific cards and make spesific decks which are practicaly and literally unbeatable. 0 challenge, 0 strategy.
+That's my opinion after 72h playing, as a DotA, DotA 2 and many card games player. Very disappointed.
+
+
+Updated / Additional Review | After the update of December 21th :
+----------------------------------------------------------------------------------------
+- You can now get up to 15 tickets and card packs for the current season for free ( season will last ""few months""). I don't know if this is gonna be on every season, if it will be the same number of tickets and packs and how long will a season last to tell if 15 are many of few. It's better than nothing, which it was before, but maybe -or maybe not- it's a little cheese for the 48% of bad ratings. We'll see on the future.
+- Account progress is now enabled and trackable, that's good, but I would like to see which are all these ""playstyle awards"" which give you extra exp. They are there, they work, but you don't know who they are.
+- Some cards were nerfed, like Traxex and Axe, but still, there are these cards combinations that i reffered on my comments earlier which are unreal. That's still a big problem on the game balance.
+
+I stopped playing Constructed, because I was mostly encountering these 2 decks and I'm playing only Draft for now, which I find more fair, because you can't pay just to copy unstoppable decks, it's based on strategy and a little bit on luck. I enjoy playing Draft, I don't like playing Constructed.
+
+In conclusion, the update was a good thing. Of course they had to do it to fix the ratings ratio; it's a product and they want good ratings for good money. But there is still staff that needed to be added in my opinion; It's a big company with a big product on the background (DotA 2) to be just this. I guess more staff will be added on the near future.
+Since there is not a ""neutral vote"" on the review and also the game is not balanced yet, I'll keep the ""No"" recommendation, which I hope I'll change on the next update(s).",0.7691845297813416,514,False
+583950,50041789,76561198035353235,"It's a great card game, but comes in an awful package riddled with issues, lacks core features, and awful monetisation system.",0.8175284266471863,78,False
+583950,55633664,76561198085389572,"I bought the game on release date.
+I instantly knew it sucked, asked for refund, even when i opened the packs.
+Got the refund, got to keep the cards. 
+Sold the cards right away and bought Yakuza 0 with the money.
+
+Basically got a much better game for free.",0.7644113302230835,158,True
+583950,101409460,76561198000102764,"Fantastic game! Very in depth, complex, and strategic. Really makes you feel smart when you succeed. I'm sure plenty of people are still playing it. It's a Valve game, after all. They are pretty on top of their stuff. They wouldn't just leave something to rot, right? I mean, it could still thrive with a niche audience, all you have to do is patch it and... guys? Hello? Is anyone there? 
+
+...
+
+sure is quiet around here...",0.7643812298774719,27,True
+583950,118891952,76561198005930084,I love this game. One of the biggest tragedies I've seen. Wish I was in an alternate universe where they had released the game for free day 1.,0.7635809183120728,46,True
+583950,159294543,76561198072641884,"Valve really missed the mark on this one. Artifact had an eager player base and a giant company to back its game, but it completely flopped. Needed to be play tested and worked on more prior to release. Lack of interesting card design, poor visuals, and greedy monetization drove this game into the ground. I would have loved for this game to be a slam dunk, but unfortunately I am stuck reminiscing on what could have been.",0.7130644917488098,22,False
+583950,223817100,76561197983832927,"Artifact did something almost no card game has ever done: give you the entire game. Every card, no store, no packs, no battle pass. Just the game
+And people killed it for that
+The irony still gets me. The same crowd that dumps hundreds into Hearthstone packs logged off because Artifact ""felt like pay to win."" It wasn't. It was just a full game with a price tag, something we apparently forgot how to handle
+Strategically it's one of the deepest card games I've tried. Three lanes, real decisions, no RNG safety net to bail you out. It rewarded actually thinking
+Dead now. Valve pulled the plug and that's it
+Still recommending it because what it tried to do mattered, and if you can still get in it's worth seeing what a card game looks like when the devs actually respect your wallet",0.7111863493919373,34,True
+583950,47677931,76561197977918917,"Valve have taken feedback from launch on board and resolved a bunch of people's top criticisms.
+
+- Lack of progression: Added account XP and skill rating along with weekly bonuses.
+- No way to earn cards without spending: Earn packs from leveling up each season.
+- Unbalanced or un-fun cards: Regular balance patches.
+- No in-game communication with opponent: Added chat-wheel and pre/post game chat.
+
+Unfortunately negative reviewers are unlikely to update their reviews, so don't just Artifact on it's review aggregate. Valve has shown they're willing to change their approach and listen to feedback. This is why I recommend Artifact.",0.7596576809883118,563,True
+583950,47284153,76561198079042299,"The game itself doesn't look bad. In the beginning you will have tons of fun, building decks, opening your first 10 packs and luckily acquiring Axe as rare hero, just like I did.
+After that, I was playing around in the social plays and I was really enjoying the game.
+But later, it gets boring and boring. The cards that matter are so expensive! You will get stuck in a way that you can not expand your library if you don't spend some money in the market or by buying some packs. 
+If you like being competitive (like I do), you have 5 tickets on the beginning and that's it... you need to satisfy yourself with the casual play or buy some tickets with real money.
+For those who have played MTG Arena you will understand my point here. MTG has a system that you can play for free. Are you going to take a long time until you build your deck? The answer is yes! But at least you have the feeling that you're moving forward with the deck you wanna build.
+As a result... ARTIFACT: no money = no cards = boredom
+Unfortunately!",0.7521874904632568,167,False
+583950,86237744,76561198068924626,"This game seems very dead, so I almost don't want to burden it with another bad review. That being said, I have a tendency to impulsively buy into new online CCG's, and I know there are other people out there who like to do the same. Dodge this one. It's too complex, and not nearly rewarding enough. Try Legends of Runeterra out instead. You can definitely see that an attempt to put some sort of love and care in here was made, but it just didn't pan out, and there's a very good reason for that.",0.6951892375946045,52,False
+583950,81153389,76561198076883236,"this game really had a lot of potential. it has some of the coolest design in the TCG scene right now. too bad it was kind of buried by poor management before it could've had a chance to flourish; i really really wish this game did better than it did, and valve probably does too. too bad they cant go back in time and make this game free. then again, since they still havent made it free now, it's doubtful that valve wants it to succeed that much.",0.6921429634094238,20,False
+583950,51359169,76561198239376834,"This game very fun & simple but...
+[list]
+    [*]Expensive
+    [*]No Events
+    [*]No Enthusiastic Player
+[/list]
+Make Artifact Great Again or DeadGame",0.6889023780822754,52,False
+583950,47268078,76561198012158202,"This is one of the most fun games I've EVER played, super addicting, but the systems in play are f---ing horrible. 
+
+Pros:
+- Great gameplay, addicting
+- Barely feel 'helpless' and that there's always outplay because of the unique gameplay
+- Represents Dota as a card game well (I have 4k hours in D2)
+- Great unit interactions (like in Dota 2)
+- No rigid 'objectively best' deck, lot of variation and RNG involved in determining what decks will control momentum. 
+- Seems relatively* balanced in my experience? I've played many multi-colour decks that I thought were powerful. 
+
+Cons: 
+- Terrible social features, non-descriptive and basically not there. (e.g. You can't add your opponents in-game.)
+- No in-game viewer for Pro-games (like in Dota 2)
+- No progression system whatsoever
+- No ranked/ladder, it's basically the wild west in non-expert constructed. One game is against whales (Modify Player with Big Credit Card), and another is against someone who is running 4 colour. 
+- Terrible monetisation, you're basically stuck in a 'Expert Loop' where you're basically going to go 3-2 (T H R E E  H O U R S  W A S T E D) most of the time and get perfect runs only if you get insanely lucky on Draft, or lucked out on your free packs so you have good items and heroes to beat the crap out of people in Constructed. And guess what, if you run out of tickets you better hit the market place to buy 20 cheap cards that cost slightly less than a dollar, it's better than how they force you to buy tickets in sets of 5 for 5 dollars. 
+
+Rant Section - Suggestions & Frustrations (feel free to skip): 
+If I had to sum it up, the only people who plugging the hell out of this game are streamers and people willing to play by the 'real card game economy' type structure because they believe that it works, because they have enough extraneous money to just not give a damn about it. Yes, if card packs were easier to get, card value inevitably goes down, and that would destroy the ticket system. But you know what? If this game had /DAILY QUESTS/ that gave you ONE ticket per day it would not destroy the economy, you know why? Because you still have to buy in to this game. You still have to win the 4/5 games in Expert to get card packs, and honestly based on the way most people who aren't 500 IQ players goes, it's not going to affect the market severely. Sure, some rarer cards might go down, but cards will always be worth something *because* of the ticket system. And the fact that people can't grind alts or throw games by multi-boxing means that a lot of the problems of f2p card games goes away. 
+
+""You're just mad because you're bad"" - Calling out Reddit/Steam Forums: 
+There's honest criticism to be given to this game, because it's a great game, but plagued by terrible decisions. Honest conversation can only be had when people who are paying out the arse for this game shut the hell up and actually understand that not all experiences will be the same. They make tonnes of money from this shit, you don't need to defend them. Especially when they're driving away people who you KNOW would love this game if not for the horrible model and [lack of] systems. 
+
+Also the tutorial explains things, but they should have like a card ruleset or something
+
+Ending Statement: 
+I don't give a shit what 'real life card game economies' are like, Credit Cardifact is going to drive away players, Influencers and streamers are doing them a favour by being able to avoid criticising monetisation, seeing as they already have a shit tonne of money since they're not advertising it for money but because they know the game is fun. Valve won't back down from drawing people into a game because they think they can 'profit by playing', but people should at least know it's pretty unrealistic to just farm packs out the ass unless they shell out for a solid Expert Constructed deck. 
+
+TL;DR - Best card game, terrible monetisation, non-existent Quality of Life, no quests or sense of progression. 
+
+Why the hell did you think about an economy first and player experience (outside of matches) second?
+
+Update: April 2019 - https://i.imgur.com/HoG5G6H.png",0.7337035536766052,78,False
+583950,47796334,76561198057291909,"The game itself plays perfectly fine, if not a little on the way too slow side. It's a fine enough Magic style tabletop game with the added functions only a digital environment could achieve. It's fun at times, but not something I can really sit myself down for often enough.
+
+ But I just cannot get behind the games monetization. One of the advantages of making a digital ccg over a physical one is that you can get rid of all the problems the distribution of physical card games have, like replacing paying for individual cards with things like Hearthstone's dusting system (which is admittedly on the stingy side when it comes to actually dusting cards but I digress). 
+
+Not only does this game not try to break free of traditional methods of card distribution, it actively encourages it with how easy it is to just put cards onto the community market. The game is also twenty goddamn dollars at base, with the justification being they give you packs (which they just recently cut down to 5 from 10 btw), some event tickets (which are also for sale and your only way to enter the competitive ladder and drafts) and two semi-playable decks. But even games like Magic make and give away free decks to dip your toes into the game and figure the basics, and Hearthstone has the decency of things like Brawls and quests to earn more packs.
+
+The entry fee of $20 is utterly unjustified here for the actual beginner's experience. I wanted to give this game a chance since I love Mr Garfield's game designs, but I just can't. For a similar enough experience, just go play Magic.",0.7329644560813904,153,False
+583950,49838512,76561198027616793,"Valve released a 2013 card game, in 2018. It didn't turn out well... This game is dead atm, Valve said they will try to fix it but probably not until the end of 2019 or 2020 or maybe never... ""Valve time""",0.7814963459968567,102,False
+583950,47311554,76561197999686949,"The monetisation of Artifact has been done to death, ultimately people will decide if they want to put money into what I would say is a relatively cheap card game compared to others on the market, so instead I'm just going to discuss the gameplay.
+
+First up, the gameplay itself is very engaging. It's undeniable that matches are incredibly intense and absorbing experiences. There're plenty of things to keep track of without being too overwhelming, and the cards are fun to play around with even if there's a lack of fancy visual effects to everything. One of Artifact's least touted, but I believe best, features is that you're very rarely out of a match until you lose your last few structure points. I've eked out wins from opening positions that went disasterously and I've had victory snatched away from me in situations where I'd been ahead all game. That kind of balance in a card game, particularly in Artifact which has relatively few board clear effects, is pretty impressive.
+
+On a bad note about the gameplay, the learning curve to the strategy is somewhat fiddly. You make a lot of decisions in Artifact that, unfortunately, you never really get to find out if they were good or not. For instance, if you choose to abandon a lane then you'll never really know how it impacted the game outcome, even after the match finishes, because games generally run close anyway. You could argue that this just means that figuring out the strategic nuances in the game will take longer and so players will remain invested in playing, but it's sort of frustrating when you're trying to learn, and I suspect it's the kind of thing you only really have an understanding of after a considerable number of hours.
+
+However, engaging gameplay aside, Artifact does have one big problem at the moment and that's that there's not actually anything meaningful to do in it yet. There's no progression. If you play at the moment then you're just playing for the thrill of the matches themselves. The only meaningful progression available is the Expert Phantom Draft, which rewards card packs. If you're good then you can technically grind up a collection this way while still playing and enjoying the game. You could also get packs from Expert Constructed wins to expand your collection, however to play Constructed in the first place then you've probably paid to get a fair bit of the game collection already anyway. But that's it. There's no ladder, no visible ranked matchmaking (the casual matchmaking will put you against someone at your MMR, but it's not a visible number), no achievements, no campaign adventure, nothing.
+
+It's understandable that the game's essentially in early days and the game itself works beautifully, but there's just not a lot to do at the moment that earns you any kind of progression. Arguably, playing the game itself and getting more skillful at it is meaningful progression, but, let's face it, the gamers of today (myself included) want something visible to show for their time. Even an account level experience bar like in DOTA would be a start!
+
+To finish, I've enjoyed the ~20 hours I've put in so far and I haven't spent a penny other than the initial buy in. I've Casual Phantom Drafted the whole way and enjoyed it aplenty, but I'm going with a negative review overall because matches, while intense and fun, are also fairly mentally taxing and when you remember that you get nothing to show for the effort you put in then it does make the prospect of playing another match seem a bit daunting. In other games, playing for the sake of playing would be fine, but a competitive card game needs something to show for your efforts. I'm sure Valve will implement something like this in time, and if they do then I'll likely change this to a positive, but for now I'd avoid unless you really want to sink your teeth into the gameplay itself.",0.7227655649185181,86,False
+583950,47194756,76561197976515749,"I can sit here and write about how much fun the gameplay is (because its awesome), but it that actually looks like something most reviews agree upon. So instead I think I'm going to address the pricing model, since that seems to be the only controversy.   As a person who has well over 5k Hearthstone ranked wins, and spent hundreds of dollars, I just do not understand all the ""credit card best card"" comments. It is true that there is ONE CARD that costs $15, but that's literally the only one. There is one other card that costs $10 as well, but you absolutely do not need these cards and almost  all of the cards are around .10-.30. If you went and bought every card on the market except the literal only 2 expensive cards itd maybe cost you an extra $15-20. Thats EVERY SINGLE CARD. Do you really belive if you bought 10 hearthstone packs that you would get that value? You have to open 20 packs just to get one random legendary in Hearthstone, not to mention if you wanted to get dust enough to craft one. With the avg pack being 40 dust you would need 40 packs to craft a legendary of your choice. 
+
+Thats the crazy part, while in Hearthstone your deck usually revolves around the legendaries, in this game it revolves around your heroes. If you wanted to build a Hearthstone deck with 3 distinct legendaries chances are even if you open 60 packs you will not get the three legendaries you desire AND on top that you sure as hell wont have enough dust for them either. Yet  literally today I bought a green hero I wanted for .48. That means I not only get the hero, but also every hero comes with 3 copies of their special card. Then I went and bought like 5 more cards for $1 TOTAL. That brought my entire total to $1.48. So now lets do some comparison, in Hearthstone that wouldn't even be enough to buy one pack, but even if it was that would be 5 random cards. So now I basically just bought 9 cards one of which was a legendary for LESS THAN ONE HEARTHSTONE PACK. And on top of that I got to choose each card individually! So, yes the game does require an initial cost of $20, and yes there is no free way to grind packs, but holy crap the exxagerations on the pricing of cards in these reviews are out of control. People all pointing to the one card that cost $15, while ignoring the fact that all the rest combined barely equal that price. 
+
+
+As far as I'm concerned the pricing model of this card game is one ofthe BEST features and certaintly not a detractor. So yes the game costs $20 upfront and yes, you will probably have to pay a couple more bucks after that to get some good cards, but please do not believe the reviews out there trying to make it seem like you'll have to pay $15 for every card, thats just absolutely false.",0.7192829847335815,603,True
+583950,47594075,76561198051157097,"Edit: Balance changes were made and a mockup ranked system is now in game, also now there are 2 tickets and 2 packs obtainable for free each week, up to a total of 15, but they halved the packs you get with the initial purchase, so now the price you pay to play is just ridiculous. Apparently the real issue is just in the monetization model, paying 18 € to play a game where you have to pay for everything else is not viable when competitors give you stuff for free and playing doesn't feel like a chore. Anyway, since my first review, literally nothing changed, even with this patch. The ranked system works in a weird way and you don't usually get matched with the same rank, meta decks are still there, no way to use a hero that's not fucking disgustingly strong, and the exp system to level up your account and get more free packs, is quite fast in the first levels, but since each level needs more point to get to the next, you get to the point that it's not viable. Someone on reddit even made the maths and found out you need a ridiculous amout of time to get to max level, because you get 60-70 points for each win, and like 8\10 for each loss. The real core of the game is really interesting, but the delivery is quite frankly a disaster, looks like valve didn't learn from their mistakes in the past, or worse, is testing the market to see where they could push their greed, but stats show it's not working. Expecting this game to go f2p soon, maybe with its monetization model reworked or something like that, because now to break even with the tickets system you need a 65% winrate, which is possible but for a very limited number of skilled people that can easily go infinite with their 40-50$ decks.
+
+-------------------------------------------------------------------------
+
+This game is very fascinating, the gameplay is just one of the best in the genre. Having to distribute properly the resources in your hand is really interesting as a concept, having spells, improvements for the map, creeps, and most importantly, different colors for different kind of playstyles. Summoning a creep or using a spell requires you to have deployed a hero of the same color. Games can last up to 40 minutes because of the intensity, and every choice you make can cost the game. It's a very nice TCG experience and i would totally recommend it. There are 2 different game modes, the Casual and the Expert. Casual is free to play, with different modes, such as a single-game matchmaking with your deck, a Phantom Draft gauntlet where you have to win 5 games in order to complete your run and you can lose up to 2 times, but before joining the matchmaking you have to create a deck drafting random cards out of some packs, and then there's the Constructed gauntlet, with the same 5wins-2defeats as its Draft counterpart but with your deck of choice. Expert is literally the same as Casual, with the only difference you have to pay to partecipate in a gauntlet in order to win some rewards. Basically, the entry fee to play in Expert mode is literally 1€ for every gauntlet, and this honestly is absolutely not viable for the average joe that wants to have some risk in his games. The whole system of Expert mode, to be honest, is bad and leads players to leave the game more and more. Players who are average, finish their tickets fast, and since they don't really win anything from the Expert mode, they'll leave the game, making the stronger guys waste tickets on people who's stronger than them. 
+
+The only game mode that is viable is Phantom draft, both Expert and Casual.
+
+But let's be honest, you play a card game for the constructed experience, you don't want to pay 18€ to play random drafts forever, the real core of the game is creating your deck and testing combos and shit. The problem with the game comes exactly at this point. You're having fun crafting your deck, then every constructed game is dominated by the meta heroes and spells, and every single game is just a random selection in the meta decks pool. The real issue is that this situation is dictated solely by the fact there are only 2 type of cards in this game: trash tier and god tier. God tier cards are expensive, like in any normal TCG, so it's still a ""normal"" situation. The whole point is, this is a online game, and balancing cards should be a literal change of some variables in the source code (not a programmer but i guess cards stats are hard coded). This lack of balancing is most likely a problem that comes from the monetization system of the game, which in my opinion is the weak point and the main problem that led away most of the playerbase in less than a month since launch. When you have a literal stock market with people investing in axecoins and drowbucks like they're a cryptocurrency, nerfing the strong heroes would just lead whales away, and that's not gonna happen. This game was clearly made to get money, but it's a totally anti-consumer way to do it. Any average player that likes the game, will just be crushed by some rich boy with the best cards, and altough it's true skill beats money, that works only for actually skilled players. 
+
+Spending money for cards, is not that bad per se, every card game requires you to get the cards to play, so in a sense the game is doing what it's supposed to do. But it's not working, and numbers show it. The complete lack of anything remotely player-friendly is encouraging people to leave, once they've finished their 5 starting tickets and are left in the pain of playing constructed vs axe legion forever. 
+
+I wouldn't recommend this game in its current state. There are some features missing like player profile, replay + spectate system, and altough a ranked system is coming next week, i really don't think it's going to fix anything. 
+
+I didn't have high hopes for this game to be honest. When i saw the announcement during TI7 i thought this was complete bullshit and valve fucked up, but i bought it anyway, just to try it out and give my personal opinion on this, and here we go. The core game is incredibly good, but then after you play for 15-20 hours, and start to understand what's going on, you get that the meta is already stale and the game isn't interesting anymore at all. 
+
+The positive side of abandoning this game is that you mostly get back all your money selling the cards without having to refund, which is nice. And also you can't refund because the game almost forces you to open the 10 packs you get with the initial purchase, making it very explicit that you can't refund the moment you decide to take those starting ""rewards"".",0.7165671586990356,92,False
+583950,47199448,76561198034539414,"TL;DR If paying for anything after buying a game is on your list of no-gos, then you shouldn't buy this game. If you're expecting a CCG experience including buying booster packs and competitive runs then you may find a complex, fun game here.
+
+Very fun game, more similar to Magic: The Gathering than Hearthstone. Gameplay is very much easy to learn, difficult to master. Tutorials show you the basics, but you're expected to learn the nuances of the game by playing, experiencing and of course losing until you get better.
+
+ECONOMY
+A lot of reviews are focusing negatively on the economy. To be clear, if you expect to buy the game and have that be the only money you spend, you will have a negative experience. But if you go into the game hoping for a similar experience to card collecting that a physical card game provides (occasionally buying booster packs, some cards being extremely common while others are rare, buying and selling cards in your collection) with a few welcome differences (so far no single card or cards that are insanely expensive, so far most expensive cards are ~$25-$30, draft/competitive runs that charge a small fee and include prizes for win streaks) than you may enjoy this. Even without paying, you can do social/casual drafts and experience all of the cards available in the game. I'm curious to see how it pans out in the long run, but so far I seem to prefer this experience over ""free-to-play"" economies like Hearthstone. 
+
+Overall, I can see how people who might expect to buy the game and own the entire experience without planning to pay anything more would be disappointed and angry. But if you go into this feeling excited about the idea of gradually learning the game, building your collection and expecting to drop some money once in a while for competitive runs or booster packs, then you may find something you enjoy.",0.7160356640815735,361,True
+583950,73458407,76561198027907667,"Don't buy it!!!
+
+At the time of writing this game has about 50 players average (it's a multiplayer game)
+
+Opening your starter decks will disqalify you for a refund! New Boosters cost € those few youll get by playing the game dont really add up to much of a collection. The game is milking whales.
+
+(yes there is a little disclaimer right at the bottom of the game description.. make of it what you will).
+
+The game itself is good. Its the cheesy ""specials"" like the refund**** that makes me write a bad review.",0.7091278433799744,47,False
+583950,92496524,76561198017100390,"As a hearthstone veteran who also tried other digital card games such as Runnetera, Kards, Gwent and also played some magic the gathering IRL. I must say Artifact is probably the most unique and fun experience I've had with fantasy card game. It's a pity that opinion on this project was ruined by greedy monetization. Finally the game is fully free as it should've been in the first place, but sadly it didn't increase the playerbase and overall popularity.",0.6572836637496948,15,True
+583950,64111776,76561197960559402,Definitely the biggest scam Valve has ever released. Getting screwed out of a refund because you purchased additional content leaves a really sour taste in your mouth.,0.7568420171737671,75,False
+583950,48077510,76561198009659695,"This game has so much potential but in its current state is not fun. The fundamentals of a good game are there - this game takes a lot of strategy to play well. The presentation is also great - card art and sounds are top notch. The number one issue with this game is progression. Unless you pay money, there really is no sense of progression in this game. Sure, Valve added a barebones progression system in a recent patch but it's laugable how poorly that was implemented. If you're on the fence about this game, do not buy it now. Valve will likely fix several shortcomings with future patches and expansions so at some point this game will be worth buying.",0.7054736614227295,151,False
+583950,67126273,76561198149148013,This game is dead and I can't refound it. Thats bullshit. Furthermore Valve still sells it for full price W T F,0.7482079863548279,44,False
+583950,47224066,76561198142245942,"Okay so I want to MEH this game so hard. It makes me so confused when I think about it!
+
+I love this game a ton and it's the second TCG I've been wanting to add to the fold for months. I play Magic like mad and I've wanted to jump into something new and complex and Artifact is EXACTLY that.
+
+This game is ridiculously fun but not being able to win cards in any fashion other than by paying isn't all that cool. As a Magic: The Gathering fan I understand that that's how tabletop games are played (that if you want new cards you HAVE to buy them, even events require a buy-in!) and so Valve is imitating this practice here, but it simply doesn't translate into the digital sphere. There has to be a way to make progress. 
+
+Valve, all you have to do is imitate MTGArena's system. Allow us to win in-game currency. Then institute a system for spending the in-game currency for small packs of 3 cards rather than 10. Or allow us to simply win random singles. Singles would satisfy SO much of this games problems.
+
+I will likely continue to play this game for better or for worse but something has to be done. Until then, I can't recommend because goodness you'll find yourself spending a lot simply to buy cards that are worth while and viable for Constructed Events to win more cards.
+
+Of course, I also DO recommend this game...? I mean, it's a far cheaper alternative to Magic: The Gathering! But if you want to play with randy's they're probably running high-end decks as opposed to your friends who are running jank.
+
+Man, this game really IS confusing, and it has NOTHING to do with the mechanics!",0.6976136565208435,95,True
+583950,49581953,76561198034721339,"My favorite card game I have ever played. Sadly, I cannot give it a positive review in its current state. Microtransactions, P2W, (However I will say it is the cheapest card game in terms of purchasing a full collection) lack of updates/commucation from Valve, and lack of playerbase=unfair ranked MM.
+
+Until a roadmap is released, or the game is overhauled and updated completely with cosmetics, daily quests, and a revamped ladder system, this review will remain negative.",0.6876668930053711,54,False
+583950,55414662,76561197990973855,"Its been nearly a year, with promises for a ""Long Haul"" fix and support. Valve with no news and nothing promising any adjustment since the  ""were in it to win it"" dev announcement. i cannot recommend this fantastic card game.
+
+Such a shame Valve, ya had something good that could have been fixed in 3 months and you pissed it away.
+
+just make it free to play already, like csgo. since you fucked the buying players already by killing the community down to nothing the least you could do is try to rectify it so i can still get games...",0.6859615445137024,37,False
+583950,47178079,76561197984362474,"Don't buy it. Terrible economy model, pay-to-pay-to-win structure, drawn out gameplay where a strong start will decide the match. Man do I regret the purchase.
+I'm guessing it'll be free in a couple of months anyways. What an awful money leak.
+You'll have to be totally committed and put money into this for it to feel even remotely fair or fun.
+Play literally any other free-to-play card game if you're looking to have fun without paying your way to the top.
+
+The gameplay mechanics are fresh and interesting, but the economy spoils any potential enjoyment. Get ready to lose!",0.6843366026878357,83,False
+583950,57591597,76561198142247081,"EA: We make the most uninteresting titles!
+Valve: Hold my beer...
+
+I wouldn't recommend this game to literally anyone.
+
+[spoiler]If you actually looking for a good card game try GWENT.
+https://www.playgwent.com/invite-a-friend/A7XC2ZBE0S  [/spoiler]",0.6341056823730469,130,False
+583950,63667624,76561198059522914,"Just make the game f2p,no one buys it anyway,and at least there are players who will become potential buyers of tickets.",0.7281869053840637,29,True
+583950,60478914,76561198020604451,"I liked the game even with the faults other users mentioned.
+
+It had so much potential but it turned out to be one of the biggest fiascos in recent gaming history from the company that is so loved among fans.
+
+Regardless if you like the game or not it proved to be a disgrace of an example of how you treat consumers and fanbases.
+
+",0.6751104593276978,25,False
+583950,47209690,76561198072085886,"Pretty sweet game with a God-aweful economy. Basically pay for everything...
+
+The game itself is freaking amazing, it has to be the best strategy CCG I played. It's deep, complex, engaging. 
+
+But the way you can't earn anything for free, and have to pay for absolutely everything is a huge deal breaker for me.",0.6685460209846497,62,False
+583950,82966179,76561198006628984,The game is trash. Tried to play it on release day and my refund request got denied because I went over 2 hours by 10 minutes. This is by far the worst game Valve has released in a long time.,0.6179540157318115,18,False
+583950,95722876,76561198082067715,"(Pre-Purchased it for --60 bucks--)
+""Hey guys, devs here, we flopped the game since day 1. We got all the money we could ever get from this sham, but now everyone knows about it, so we are not gonna make any more money-but it is your fault because you didn't give us even more money and time to fix it-so we are now also officially abandoning it and you can have everything for free"". One of the biggest game scams of my past 10 years. The game was overhyped to be a fresh polished card game where you could even make money out of, turning out to be a ridiculously unbalanced half-baked troll project. I remember back in the day, all heroes having stats like 2/4 and Axe having 3/9, which is so obviously unbalaned. Shows that they clearly can't even understand basic math. Even their dirty selves knew it, which is why they gave you ""10 packs for free"", and by doing this, they void you of your right to request a refund because "" you already used up these packs, which is a legal loophole of no refund"". Pre-purchasing is the way of the consumer to tell you that they have faith in you and are backing you up so you can be more flexible about developing your product / not run out of cash before you complete it. People like you are the ones who give a bad rap for the rest of the developers who ask for pre-purchase in order to help them. You used the good faith in people towards you against them. Such filth.",0.767593264579773,69,False
+583950,47215403,76561198160537477,"STAY AWAY FROM THIS GAME.  Shady AF.
+
+Steam has a refund policy for any game you purchase through steam.  If you play it less than 2 hours and have not had it for more than 14 days you can qualify for a refund for said game.
+
+This shady game states the money goes toward in game items.  Even tho when you look at the purchase history for the game it states you paid $19.99 for the Artifact game and $0.00 for the starter pack.  They will deny you a refund because of the starter pack being opened even tho you're directed to open the starter pack and were given the starter pack for free.
+
+After that hogwash, you must continue to dump money into the game to stay competitive.  The microtransaction scheme is about as much pay to win as you can be.
+
+I do not recommend anyone try this game until they stop the flagrant abuse of steams refund policy.  Run very far away from this game until that happens or you will see more and more games try to circumvent the refund policy with shady practices.",0.6660297513008118,154,False
+583950,51309273,76561198018783764,"The issue isn't the monetization. The issue is that the game isn't fun. Its visually stunning, but the game doesn't reward great play. 
+
+The amount of RNG is borderline unacceptable.  You can play near perfectly but get screwed bc the game decided that your hero should die this turn by random chance.
+
+That's really why I stopped. The $20 entry fee was fine. The gameplay was just unrewarding.",0.7154809832572937,76,False
+583950,88127742,76561198031528243,"Still the best CCG I've ever played. The fact the Valve pulled the plug on it is a tragedy, but sadly hating on it was all the hype of winter 2019, and people love to hate. Economy was its downfall (apparently), and even though developers added enough ways for obtain cards for free (or even play with whole deck without buying it) to never have to pay a cent, the hate hype could not be stopped, nobody cared about the quality of gameplay (which is SUBLIME and absolutely unique), or the polish, or potential. Memes and drama are where it's at, people love mocking AAA titles and companies, and when they get a rare chance to do it, you can be sure they will milk it to the max.
+Even having to wait a while for matchmaking, I still keep coming back to it, nothing can replace the sheer satisfaction of winning a complex game against a good opponent in this game. Maybe now that it's free, more people will try it and form some playerbase for Valve to give it another chance? Probably not.
+But one can hope, right?",0.6152282953262329,15,True
+583950,47250559,76561197981503523,"So after playing this game all I can say is wow, simply wow. This game is so Pay to win it makes me sick and I will explain.
+First things first, besides the cards you get in the begining, you must either sell your cards to purchase new ones or spend real money. Outside of that their is no in game currency or method to earn packs by simply playing. They give you ""tickets"" which you can use to play an arena mode, if your familiar with hearthstone its like that, but you only get 10 tries. During that if you lose twice your out and need 3 wins just to earn the ticket back, problem is you will be facing people with op cards and I will further explain.
+
+People will say that you can play draft and that it isn't pay to win, BS after you draft it allows you to add cards that you have to the draft and swap them WHICH COMPLETELY DEFEATS THE PURPOSE OF DRAFT.
+Don't buy this game, it uses the skin of Dota 2 to lure fans and cover a sea of microtransactions, this is not worth the full price I paid. I think Valve knew this as well as they even go the extra mile to make sure that once you realize this you cannot get your refund as is stated and I quote, ""Refunds: Once you've claimed your Starter Decks and Card Packs you will be ineligible for an automatic refund of Artifact via Steam. Before claiming your Starter Decks and Card Packs, you will be able to play games against bots and other players using pre-constructed decks.""
+
+Thats like right after the tutorial why would you give players free cards and say if you open them, too bad so sad no refund for you, that is so idiotic, seriously what were you thinking !?!
+
+In conclusion I cannot reccomend this game, it was fun don't get me wrong, but the pay to win and overflowing microtransactions with the game ruin it.",0.6651676893234253,28,False
+583950,168540720,76561198057076026,"Still a great game, concept is innovative and gameplay addictive. I like the community tournaments. Hopefully Valve surprises us with an update soon!",0.6134785413742065,9,True
+583950,47182639,76561198016693057,"I cannot reccomend this game.
+After paying close to 30SGD, you do not get the full game.
+Instead, you pay 30SGD to be told that you do not have access to the entire game.
+There is NO FREE WAY to earn card packs; the only way up is by spending money.
+
+Too Long; Didn;t Read
+DOTA 2 is great because its a free to play model. 
+Artifact is bad because it is a Pay to Win model.",0.6628603935241699,102,False
+583950,47468562,76561197962140115,"Worst Valve game ever.
+
+First of all wouldn't refund as I had apparently opened the tutorial packs (you have to accept otherwise it freezes), yet there were unopen. 
+
+Secondly, it is major pay to win. It says ""matching with your skill level"", yet these players have Axe, Legion Commander etc and are pro's.
+
+Thirdly, there is a very big learning curve that has put a lot of people off. The ranking system does not work either. I would highly advise against buying this game. It should have been free like Hearthstone, although thats pay to win - at least it doesn't charge you at the beginning!",0.661933183670044,157,False
+583950,88520768,76561198003276492,"Free to play is how this game should have always been. 
+
+It's not because because it was not ""worth"" your money. Its an excellent but flawed game. If the game were free from the start, with micro-transactions only over cosmetics cards could have been balanced freely without affecting axe-coin allowing for a competitive environment to flourish. 
+
+Instead they killed it, attempted to rebuild it into Foundry (which removed the fun parts of the game and became a boring game), then killed it again.
+
+As a lover of the game I can only hope that they one day return to the formula. Its worth a play to try out this piece of valve history. You can still find matches in the draft gauntlet within a few minutes at most.",0.6109809875488281,14,True
+583950,47252241,76561198014668281,"This game has promise.
+
+That said, don't buy it. It's a mess currently. The amount of RNG in this game is staggering, it makes Hearthstone look like a good game. Now if you play TCGs you'll know that managing RNG from draws and resources is par for the course. It's literally the bread and butter of deck construction. Minimizing bad outcomes and maximizing good ones. However this game has 4 layers of RNG, all of which work against eachother to make preparing a winning boardstate almost entirely a matter of chance and very little skill.
+
+The 4 layers of RNG are 
+
+Your spell deck
+Your Item deck
+Your lane placements
+Your arrow placements
+
+How do we prevent ourselves from being fucked in other games? Well we build a good deck with a good resource curve and a win condition, then we fill out our deck with ways to get our win condition on the board, OR survive long enough to get our win condition on the board. We can do that in this game, for the most part. We can still get bad luck and draw cards we don't need or can't play, but that's ok, we're used to that RNG that's part of deck building.
+
+Now you also have an item deck, you put 9 cards, they show up in the shop in random order, hopefully you have the resources to play them when they show up. Maybe you won't. Maybe you won't see the item you need. Same kind of thing as above, however these compound as one of your items may be part of your win condition. AND the resource generation for this deck is based in... ANOTHER LAYER OF RNG.
+
+Lane deployments! Your first turn your heroes go to what are essentially random lanes. I honestly can't remember if the 1/2/3 order puts them in left middle right, or if they just randomly get assigned to a lane, However it doesn't matter since you don't actually get to see what heroes the enemy is fielding before the decision is made, so they're essentially random anyways. You don't know where the turn 1 creeps are going, and you have no option to perhaps double up heroes in 1 lane and sac a lane. You also don't have your cards drawn at this point either so you wouldn't be able to make an informed decision about what spells you have when deciding lanes. Then at the same time Creeps are sent to the lanes randomly. Enjoy that. Do you have a hero who buffs creeps? well he might be alone. he may NEVER get creeps in his lane. Sure there are cards that create creeps, but that's another layer of RNG of course. Now, Depending on how the game matched up your heroes and creeps in lanes, 1 or 2 of 4 situations will occur in each lane. You'll have a hero vs a hero, your hero vs their creep, their hero vs your creep, or creep vs creep. Depending on how this Randomly assigned lane organization plays out in each lane, you may just lose a hero on your first turn, giving the enemy a gold advantage. Maybe you drew into a 1/2/3 cost card of the color of your hero that needs it, but maybe you didn't. Anyways now you have no gold, and your enemy has some. Turn 2 comes around! They buy items, you don't. Welp snowballing has already occured, and now it's time for RNG 4.
+
+The arrows! you get to deploy your 4th hero, Maybe you're putting in to a lane to replace a hero, or into a lane to support another hero. Who knows! Well one thing you do know, you won't get to choose where in the lane it goes! You just send it to a lane and hope it ends up where you want it to. And you also hope that it is attacking the thing you want it to. YAY more RNG. Sure there are spells that will move arrows, or move units. However they're rare, there are 2-3 effects that swap units, and under 10 that change attack targets accross all 4 colors. Sure it's set 1, but this is a HUGE part of the game. Hope you draw into them, oh btw arrows reset after things die. hope you get an advantageous 2nd arrow.
+
+If you're still reading at this point, know that I've been playing card games for 30 years at a highly competitve level. I have no problem with the draw RNG inherent in deckbuilding games. However these layers of RNG compound on eachother to take away any and all agency you as a player should have. That is why I cannot recommend this game despite how excited I was for it.
+
+I should point out, I only ever write reviews for games that I care about. There are plenty of other games out there that I hate, that I silently just uninstall. This game could be amazing, however currently it's not worth your time, let alone your money. You'd be better off sinking quarters in a slot machine Less RNG.",0.6591812372207642,25,False
+583950,47302418,76561198042234000,"Dont let the mixed reviews fool you. Artifact proves to be fun, engaging, rewarding, and overall a fantastic experience. I cant recommend it enough. 
+
+If you want a card/strategy game. Looking to just sort of chill, have fun, Think a bit. Ive enjoyed other card games, but couldnt really get into them. This game pulls off what the others couldnt and I'm really enjoying it.  
+
+---THE BAD---
+You WILL be spending more than $20. It is not however, an expensive game, you just need to understand what artifact aims to be. Also, Ive got some advice to make the game cheap(er) than some may lead you to believe. (we are talking less than $60 total)  
+
+-Understand that artifact aims to be similar to REAL card games. What you are buying is a starter pack of cards. $20 gives you 120+ cards.  This guarantees 10 Hero's and a good number of rares.  Plenty of deck building fun right off the bat. enough to play and understand what you like or dont.  
+You also recieve 5 tickets. These grant you access to a competitive tournament style of game. AGAIN, this is no different than if you wanted to go play in a board/card game tournament anywhere else. Not only do you win your tickets back, but you also earn more cards. Save those 5 tickets until you have a good deck/feel for the game and you may never need to buy more.  
+
+-Speaking of tickets. A pack of 5 cost $4.99 + tax ($5.45 for me) OR 20 cards. Cheap cards cost as little as $0.05 WITHOUT tax so $5. DONT BUY TICKETS.  As you win tournaments you get cards, so you can use those cards for tickets too.
+
+-CARDS. As I mentioned, many cards cost $0.05  probably 75% cost under $0.20.  a card pack of 12 cost $1.99+tax. So, if you buy all the cards around $0.17 and below it is cheaper than packs and you have more than half the carrds in the game for like $15. From there you can spend $15 on packs and maybe another $10 just on cards you dont have and.... you have almost every card in the game for under $60 which is what most full games cost anyways. Recycle your duplicates and you have a handful of tickets.  Use those tickets to earn the rest of your cards.  Or be the paying, working, adult that you are and buy cards/packs as you want them.  
+
+---THE GOOD---
+Not like the bad is all that bad...but that seems what people are stuck on with these reviews. I felt it important for everyone to understand.  
+
+-GAMEMODES: 
+CONSTRUCTED: Custom deck, one match OR Tournament style. 5 matches with your deck. The deck cant be changed for those 5 matches. 
+DRAFT: 60 cards from 5 packs. You can change your deck each round with those cards. 
+
+     BOTS:  Try your decks against bots. Make decks for the bots to use too! AI seems solid, challenging and provides stress free fun. Play w/ or w/o timer.  Constructed mode only. Single match.
+
+     SOCIAL: This makes it easy to play with people on your friends list or in your steam groups. You can even create or join FREE tournaments that you, your friends, or group members make. Play how you want, with whomever you want.  
+
+     CASUAL:  This is online mode, matchmaking. All game modes are available here as well. Free.
+
+     EXPERT:  
+          Constructed 5 match (1 ticket): 
+               3 wins = 1 ticket
+               4 wins = 1 ticket + 1 Pack
+               5 wins = 1 ticket + 2 Packs   
+          Phantom Draft (1 ticket):
+               3 wins = 1 ticket
+               4 wins = 1 ticket + 1 Pack
+               5 wins = 1 ticket + 2 Packs 
+         Keeper Draft (2 tickets 5 packs)
+               3 wins = 2 ticket + 60 drafted cards
+               4 wins = 2 ticket + 2 Packs + 60 drafted cards
+               5 wins = 2 ticket + 3 Packs + 60 drafted cards  
+
+CARD VARIETY
+     Cards do many things and support many styles of play. Focus on strong hero builds items, maybe spell casting, amass an army, build a wall, win with gold, debuffs, lock out the other player from using cards, be an assasin, and so much more. There is enough variety that is viable and fun, that you should have a blast if you like creating decks.  
+
+     4 colors: red, green, blue, Black. each has its own hero, spell and improvement cards. Red hero plays red cards, black plays black etc. No hero in a lane? Cant play color cards.  
+
+DECK BUILDING
+Easy and intuitive interface. A must have for the genre, very solid. Lots of easy ways to sort and find what you want.  You will spend a lot of time here not because you have to but because you will want to. It is very easy to make a deck, then go try it out and perfect it to your liking.  
+
+GAMEPLAY
+Its deep! there is a lot to learn and master, but the game is VERY good at telling you what you CAN do. What makes a good player and a bad one is knowing how that plays out and predicting your next moves with an opponent. Its not a question of how do I play, but rather what should I play.  VERY easy to learn, much harder to master, and of course learn what cards you like or not and adjusting decks.  
+
+Pacing is perfect. And I've had a bunch of matches where im on the edge of my seat just excitied to see how things play out and if I will come out on top. So many very close very intense matches. 
+
+The game is simply fun. If you are even looking at the game or thinking about if its something you would like, chances are you will not be dissapointed. I bought the game skeptical and am very glad I did. Wonderful game.",0.6542782783508301,127,True
+583950,50006495,76561197977470239,"The cards being so cheap on the market thanks to everyone cashing out does make draft a huge joke. Same with buying packs, complete waste of money. Just buy the cards you want for 3cents each. The whole card economy and incentive structure for this game is screwed.
+
+Game is sadly dead right now. Finding matches takes forever.
+
+I still like the game itself so far. It's a pity there are huge fatal flaws.",0.6535188555717468,35,True
+583950,50907064,76561197979521890,"Ironic and funny  
+Artifact became an Artifact in just 6 months
+
+(note to self)
+Next game Valve puts out, wait 6 months",0.8508390188217163,194,False
+583950,218688498,76561198003112812,"Absolute shame it's been abandoned, last updated was 2021. Don't spend any money it. 
+
+I wish Valve would just keep updating some of their other games.",0.5979259014129639,8,False
+583950,66276180,76561198061224645,"In my opinion, it's great that the new development team has some distance from Richard Garfield. That's not a criticism of him--the guy invented Magic: The Gathering, for Pete's sake. Yet, the game did suffer, I venture to say, from Garfield's unique vision of what would be fun or exciting in an online card game. In particular, the focus on random in-game elements was a misstep.
+
+A card's ability would either trigger or not; a spawned minion would either battle straight forward or to one of its sides. Why were these mechanisms, which left, it turned out, too much of the battle's outcome to a flip of a coin in the game's engine, so prominent? One clue may be in how MTG: Arena has developed over the years. There, the ability to add any random effect has been available from day one, yet the new expansions have mostly stuck to the traditional categories of interaction--it's that these interactions are now handled quickly and efficiently by the software. Even new keywords are ones that could be printed on physical paper and used in play with little challenge.
+
+So if the game Garfield is best known for hasn't gone the route of Hearthstone--pulling cards out of thin air, randomly assigning damage, etc.-- then why this emphasis on random chance in Artifact? My guess is that Artifact was his best attempt to integrate random chance into a game with the strategic depths of Chess or Go. Freed from the reliance on rolling dice or drawing cards to achieve randomness, the development team at Valve offered him the opportunity to see if he could fairly and seamlessly integrate those effects into a card game while keeping alive the tactics and dynamic analysis present in the games he has been known for creating. Suffice to say, that venture ended in failure. Garfield, to be clear, shouldn't be derided for attempting this. If anyone could do it, he could. It just turned out that no one could do it--at least, do it without the game leaving you feeling that victory is arbitrary and capricious.
+
+So, kudos to Valve for trying to learn from failure and re-imagine the game into something both sustainable and interesting. Garfield has given the new team a rich and complex gold mine to work with, and I can't wait to see what's in store for us all.",0.6471089720726013,17,True
+583950,47282415,76561198041569087,"DO NOT BUY THIS.
+
+They will not allow you to refund if you open the card packs.
+The ONLY way to get new cards is to pay real money.
+Complete scam. cant get my money back and cant do anything unless i spend more money.",0.6936460137367249,315,False
+583950,47195879,76561197976733993,"I did two tutorial matches, and hit next through the 'congratulations for finishing the tutorial' modal.
+Which apparently unboxed an in game consumable without my knowledge.
+Which disqualifies me from requesting a refund.
+Shady as shit, Valve.",0.6928648948669434,95,False
+583950,47185140,76561198011688395,Not being able to earn cards without paying money or useing the market. is the biggest reason i cant reccomend this game. its super fun and really fresh but its just half a game even if you pay the 18 euro it asks its no where near enough to play for real.,0.6418164372444153,107,False
+583950,48464103,76561198006758620,"I've have been using steam for 10 years and this is the first product I feel have really tried to screw me with its marketing and information when bying the product.
+
+The tutorial felt good and were well done. The gameplay seems intresting. I open my 5 packs packs and think OK now I'm gonna get into this! I test out a couple of bot matches to realize that they give 0 xp of progression. Ok, well then I'll try test my newly aquired skills against som fellow players. Getting matched with only people 15-25 lvls higher then me. The turn timer is really short and stressful. And of course I do lose since i dont have any cards. Well thats learning the hard way I guess. No hard feelings. But...
+
+Losing games have rewarded me with between 8-16 xp. You need 500 to level up to level 2 which grant you the 1st reward that I have already PAID for. So I have to lose ~40 matches to get my first already PAID for pack? WTF... One match is at least 15 min. So to progress as a newbie I have to spend around 10h losing against people that are 20 lvls higher than me to get my first tiny pack that I have paid for. I have purchased a lot of Early access titles and those are a bit of a gamble. But they mostly lacking gameplay or have a little more bugs than usual. Thats what you expect. But bying an premium title from no other company than Valve with the marketing of unlocking most of the things I paid for being force to spend countless of hours of scewed gameplay (you need lvl 16 to unlock all pre paid rewards). THAT'S JUST HOAX.
+
+Most normal companies have pre paid content unlocked through the tutorial/getting familiar with the client. To get he things I've paid for in this title I have to switch to full Vanilla WoW grind. The is unacceptable.
+
+I'm VERY disappointed. No other game with forced gameplay to unlock PAID content expect you to grind 100+ hours. That is nothing but a scam. I have to WORK for what I have already PAID for. I have better things to do. You are prompted to open the packs after the tutorial so no refund is available. That is NOT the problem. The problem is HOAX marketing. I have never run into another game that have pre paid content unlocked by 100+ hours of scewed matchmaking losing to unlock your stuff. Get yourself together Valve. This is not only silly, but a VERY unserious way of selling and marketing your products.",0.6416467428207397,37,False
+583950,165953937,76561198007855263,"Best CCG I've ever played and it's a damn shame what happened to it. 
+
+Who knows, maybe 1 day we might be able to see a triumphant return but until that day I guess I'll stick to just playing against bots every now and then when I'm bored.",0.5896133184432983,10,True
+583950,53945033,76561197993616504,Interesting attempt at a TCG with solid gameplay and mechanics but the lack of progression ultimately killed the game. Artifact now feels like a waste of money with no clear path for the future. Completely disappointing and can not recommend until the game is reworked.,0.6368921399116516,30,False
+583950,65333202,76561197970876480,"Legitimately good card game! I think it just came out too early. Also Valve: PLEASE release it on phones/tablets! Most people are hooked on Hearthstone because it’s easy to play on a lunch break, making an iOS release would be huge.",0.6852304935455322,50,True
+583950,216206736,76561198176610653,"Randomly opened this game and played a bit today. Frankly speaking it still looks very playable even in 2026, with a solid UI design and smooth actions even by today’s standards. It’s hard to say exactly what went the most wrong, but I felt the game was overwhelmingly complex for most casual players and even those with experience in less complex games of the same genre (Hearthstone, etc.). This was on top of the fact that both the game and the card packs had to be purchased separately, which immediately limited the player base to people who could afford it, had the expertise, and had the time to play, which is an extremely specific hardcore subset of people. Modern games usually need some way to cater to a much wider casual audience, which can then support elite players and content creators. On the other hand, the randomness of unit placements seems to be going in the other direction of a strategy-based game. If this is the design that is trying to 'increase variance and cater to the casuals', then it seems to have only disappointed both sides of the player base.
+
+It’s a real pity to see the game died with so many interesting concepts it introduced; I wish I lived in an alternative universe  instead where it flourished.",0.5836930871009827,7,True
+583950,47176284,76561198081099934,"*First 5 paragraphs talk about the marketplace system and value vs other CCG*
+
+Ok, ignore the reviews complaining about the marketplace system, this system is absolutely amazing!!! So I paid 20$ for the game, but you actually get 10 packs x 2$ (looks like 5packs now ) each plus a couple starter decks (not sure if a free player would get this) and then  5 event tickets, so basically 5 free drafts for chance to get more packs, not a bad deal.
+
+I didn't get a ton of great items from my 10 packs, but it was decent. Now here is why the marketplace is AMAZING. I wen't thru and purchased over 50 cards, mostly 1 of each I did not own of every single uncommon card I did not own (they are basic, common, uncommon & rare) along with a few commons I was also missing. Oh no, that has to cost a lot right, I mean people are crying about this system, lol... It cost me less than 4$
+
+Then I go and do the same thing with the rare cards (the highest quality in the game, aka legendaries). I did not purchase every single one, I read them and only grabbed the ones that looked pretty good, but it was the majority of them. I just did one copy again and also purchased some rare Hero cards (tend to be the most expensive). So another 50+ cards of the highest tier and it was like 17$. The grand total now is 21$ for over 100 rare cards and the initial 10 packs, but honestly you would be better off not to buy a single pack and do what I did. I received maybe like 1 rare and 1 (maybe 2) uncommons per pack that would cost a new player 2$ each. Based on my experience with the market, I imagine you could buy the cards equal to what I got in 10 packs for under 10$, maybe 12 or 13$ max.. It's mostly cheap cards that sell for a few cents. 
+
+The most expensive card sells for 18$ and the next highest one is 12$, but prices fluctuate, right now that 18$ card is 16.30, followed by 11.08, 7.18, a couple 4s then a couple 3s, then like 10 cards between 1-2$ and another 10 cards between 0.50$ and 1$.
+
+When I played HS years ago, the initial cost of the DLC (long before they swapped modes and only use more recent cards in ranked) and enough packs to get a semi ok deck going was pushing 100$. I played that game for a couple years, didn't spend a ton, but a good 50-80$ when new packs came out and I was still missing tons of big impact cards. To be able to spend 30-40$ and have at least 1 copy of almost every card on day 1 is very cost effective, so much to the point that I don't see why people would waste time buying packs and it's going to force valve to remake this system.
+
+The Elder Scrolls Legends was another one I played a lot and that game is much cheaper to build a collection than HS. Even in TESL you would need to buy the expansions which are 10-20$ each and then twice they released card pack expansions which require a purchase of 70$ to get enough of the important cards to make you happy and on top of that you need to have been playing for a while to have enough mats to craft what you don't get on that 70$ purchase of cards. I  basically have a full collection, multiple copies of everything in that game, but I played at a high level for well over a year and spent roughly 200$ on it. 
+
+GENERAL GAMEPLAY
+
+So far only played a few online matches, went 4-1 so if you are experienced in these type of games you should be able to jump right in, but I did have to practice against bots for about 5 matches. It uses a 3 lane / board system, but the downside is that matches can take a while, anywhere from 20-40 minutes and it sucks if you lose a match you could have won after 40 minutes. Each board has a tower with 40hp, destroy 2 of 3 to win, after one destroys it comes back with 80hp, you could also destroy the same one twice to win.
+
+The potential is great because it means you should see less rush / face decks like you see in a lot of other card games. I personally can't stand those type of decks because I feel they lack skill and are basically coin flip decks. If enemy has counter early or you don't win by turn X, you almost surely will lose. Those are not balanced styles which really show off the complex gameplay of a CCG. 
+
+I have always been drawn to Tempo / Control playstyles, but pretty much anything other than face rushing. It's such an amazing feeling when you make several efficient plays and now have 6 cards in hand vs 2 and you also have board control. Let's say a rush deck takes 25 minutes to win, a more complex deck takes 32, but also plays much more consistently with a greater chance to win, I think you will see more of the latter due to the initial investment of time. It wouldn't make sense to gamble so much when it's going to already take 20+ minutes, you might as well focus on something more complex which I'm hoping is going to lead to some really amazing matches.
+
+MECHANICS
+
+A huge pro for me is the ""mana"" system. You start with 3, so you can play 3 cost card from turn 1 and gain +1 per turn plus some cards will add to it like any other games. When I saw who was involved in making this I was worried it would be another CCG where we have to draw our mana. You also gain money from defeating creatures, heroes or towers which you can use to buy cards from the item part of the deck which are mostly buffs, +x armor, hp, attk, etc...
+
+Let's say I go first on board 1 and decide to play my unit, then other player drops a unit and I end turn. Now it goes back to the other player he might play a weapon on his unit, then it comes back to me again even though I end my turn, let's say I end again, but now it goes back to him again and they can keep adding more and more, but I can also decide at the last second to add something as well. I think this system would be a little better if you could lock in and the other player can only go X amount of times before the turn ends as long as you don't do anything else. Maybe it max out at 2-3 times for the second player to then keep playing. I don't know, maybe this will grow on me as I play more.
+
+
+A huge negative is how the Hero and auto creep cards are played. Each turn random cards are playing with the same stats on both sides. You pick what lane to put the hero, but you have 0 control on where to place any cards. Once the turn starts you can choose where to put your normal minion cards, but too often things can be decided by where the computer randomly places the other cards. You could have an amazing Hero that randomly gets put into a horrible spot you would never play him in and he instantly dies. We need some sort of control over where units will go even if it's some type of auto system where units will always place on the far right / left and go from there, this way you have at least some control over where they land.
+
+Where a creature will attack is also completely random which is really bad imo. Now part of this mechanic is fine like if a creature is in front of another creature it attacks that creature, if nothing is there it hits the tower. Some creatures gain cleave which can hit both sides for less dmg, ok this is all good so far, but then this happens. 
+
+You have your card and enemy card head to head with nobody on either side. You play a card to the right side and there is a 25% chance (still not sure if this is random each turn or decided on the play, think it's decided on the initial play) that the card will gain the ability to attack to the side to do less dmg and help kill the enemy card, but it might just attack straight, it's 100% random. 
+
+Maybe this won't be a huge deal as I play more, but I am really against adding more RNG when you don't need to. Just make certain cards always be able to hit the sides or not, add something that tells us for sure because it sucks you are forced to constantly gamble on something like this. Maybe the enemy needs 2 dmg to die, well it's random if u can hit him or not. Last main issue is that there is no ranked ladder, this will be key issue that drops playerbase.",0.6323255300521851,217,True
+583950,107388744,76561198011152291,"The most complex online card game on the market.
+
+It was basically killed by bad marketing and the fact that the average card game player is only able to 1) Buy overpriced packs and 2) Play 1cost -> 2cost ->3cost.
+
+Grab a couple of friends, download it for free, play a couple of phantom draft and then quite after 30minutes because your brain has turned to mush from the possibilities.",0.5822231769561768,18,True
+583950,47229154,76561198290371674,"buy the game -> open 10 card pack -> sell all rare card -> get money back or half money back (based on  your luck in opening 10 card pack) -> enjoy call to arm and phantom draft (two mode where you don't need your own card/deck), without spent more money you still can have fun at this two mode and bot match mode. and enjoy one month dota plus for dota player as a bonus
+
+*you also get 5 free ticket to play in expert mode to try earn free card pack
+
+update :
+free card pack and ticket when level up. worth it",0.6308627724647522,216,True
+583950,170425109,76561198165227115,"Very controversial game which died right after its birth XD. Everyone hated it for the cost but in reality it was the price for  few card packs which could be sold for even larger amount of money. As I understand it was made for creating interesting economic just like you play cards with your friends on the street. I liked the concept of 3 lanes and other cool mechanics, very beautiful arts (Abaddon and Luna ecpecially) and game-graphics all in all and very nice main menu theme. I lost mostly all matches but anyway liked the game (I played blue-green cards only) and also earned more money than spent on it. Too sad its not popular now :( 6 sold cards for 10$ / 10",0.5807867050170898,9,True
+583950,192586295,76561197995496519,One of my all time favorite games. No other card game has matched the level of strategy offered here for in-game decisions. Love the draft mode.,0.5791532397270203,12,True
+583950,47174910,76561197990830187,"I honestly can't stand scrolling through my collection and seeing $ values to all my cards. 
+
+And, it might actually be cheaper to buy everything in Artifact, compared to buying everything in any other card game.
+
+But theres never going to be a point where I just play the game, and don't worry about the $ value of cards.",0.6277796626091003,46,False
+583950,62711031,76561198010328268,This one hurt me. Especially the card packs in the beginning that made you ineligible to ask for a refund well before the 2hrs or 2 weeks conditions.,0.6751222014427185,19,False
+583950,47322671,76561197993919954,"Over 60 hours in now so I felt compelled to leave a review. Having played CCGs competitively for over 20 years, I have seen a lot of different game styles and mechanics, and despite this, I was pleasantly surprised by how refreshing and strategically deep this game is. The unique take on the simultaneous turn system offers a lot of interactivity while not being overly complex to figure out. The level of balance between randomness (ie variance) and skill feels very good to me. So far I have only played draft, and only now do I feel I've mostly figured it out, but still yet I learn something new each day I play. Given the small pool of cards on initial release, and the depth it offers, I expect this game to hold it's own for years to come and never get dull in the foreseeable future. Richard Garfield the master has added yet another notch to his legacy.
+
+Pros: 
+
+1) Cost is inexpensive. 20 bucks for the game and you can slowly build up cards through playing phantom drafts. Or, if you just want to buy cards, they are around a few pennies to a few bucks each, the most expensive as of right now being 20 bucks. And you can buy and sell cards, and trade cards, so once you have a decent collection you can cycle through them for other cards and spend very little money to do so.
+
+2) Fun! Multiple strategic paths are possible and it's never purely clear cut. Or if it is, it takes an extraordinary level of competence to know 'the best play' which would take more hours to achieve than most people have.
+
+3) You can set up tournaments at will with your friends any time at no cost. You can play against bot AI any time at no cost. Fantastic!
+
+4) Beautiful to look at. From start to end, the graphics and sound are top notch, animations are fluid, the cards talk to each other. Just stunning.
+
+Cons:
+
+1) Learning curve to be 'very good' at the game is quite high, though to be 'decent enough' to have fun and play doesn't take much. A lot of things are going on and it's a lot to take in at first. I personally have no issue with this, in fact the challenge invigorates me, but I can see how for some people it would be overwhelming.
+
+2) Tough to appeal as a spectator game to the general public. If you have never played, watching someone play just won't make a lot of sense, and you won't understand who is winning or losing, let alone why they are doing certain things for the most part.
+
+3) Stale constructed meta (allegedly). This will likely change when more cards are released, and this is what I've heard from people who have played longer than I, not my own opinion since I have not played constructed yet.
+
+4) No signals in draft. Since the card draft mode uses a global player pool, there is no way to know what colors are open or what signals are being sent or who is passing to you, so you just have to go with strategies that involve 'good' cards in a generic sense, that you can cast. This method feels robotic and more shallow in terms of strategic depth than it could be to me. Also, even in a private friends only tournament there is no passing of cards between each other, which would have been a lot of fun if that was how it worked.
+
+5) No mulligan. Opening draws being inflexible makes getting 'curved out' on by an opponent due to RNG feel particularly lame. Most CCGs do have a variance off-setting mechanism via a mulligan. I feel this should exist here too.
+
+6) Invisible match maker ratings system. There is no way to know where you stand in terms of rank or what pool of players you are being paired against, despite the fact they admitted there is a MMR system in place.
+
+Over all though, this game is fantastic, and I would highly recommend it for any serious or casual card game player. I already think it's just a better game than hearthstone, and it is giving MTG a run for it's money.",0.6236836910247803,34,True
+583950,47246992,76561198005733218,"THE GAME IS FUN but there are MANY THINGS THAT CAN BE FIXED
+
+Hear me out, sorry for the rage.  The idea and game play is really up to preference but the way they managed the ecosystem of the cards is really really bad. 
+
+1) It is modeled after a free to play model
+
+Facts:
+- Your cards are not worth the same value after you open it
+         - After opening your cards the only worth is for you to turn 20 cards in to create a ticket
+         - What is a ticket? you might ask? it is a gambling chance to get a pack
+         - In Hearthstone or Shadowverse, the cards are directly marked down to 1/4 their market value
+                    - However, this is done for a number of reasons:
+                            1) The game is FREE TO PLAY
+                            2) There is no trading
+                            3) You can EARN packs
+         - So the game is made in such a way where trading with your friends is required to make the best use of your pack opening and you are supposed to sell your extra cards for cash. WHICH brings me to the NEXT reason
+
+2) it is linked to the STEAM MARKET
+- THIS IS EXTREMELY BAD!!! Why you may ask? we get cash instead of dust back which we can then use for packs?!
+- Firstly it is on the OPEN STEAM MARKET and not just the players of ARTIFACT. 
+        - This inturn leads to a number of issues
+                          1) Price flipping!! People who are not invested in the game are just increasing the price needed to let's not 
+                              say compete professionally but to even ENJOY the game
+                          2) Pay to Win no real need for explaination This will lower the new comer's fun of the game on an even 
+                               greater level than Hearthstone or Shadowverse. Including the fact that the game is not free to play and 
+                               that there are price flippers, the entry fee not just 20 USD but maybe in the hundreds range
+                          3) But isn't that the same for MAGIC or any PHYSICAL card game? You might add. In my defence, the 
+                               steam market is WAY too open for this game. In the real world if a person comes to you to purchase a 
+                               rare card, you will be able to tell 3 things if he is a price flipper, a collector or a player. In the steam 
+                               market it is all handled by algorythms and the cash is just flowing outside the game and also in to 
+                               steam. 
+                          4) STEAM MARKET TAKES A CUT OF THE SALES 
+
+
+In other words ARTIFACT is a VERY lucrative business
+They get money from MANY places and by they I mean STEAM. 
+They do not protect the ARTIFACT community.
+
+Places they get money from:
+1) initial purchase
+2) packs
+3) tickets
+4) SALE BETWEEN PLAYERS (which also includes FLIPPERS which allows them to earn more MONEY)
+
+Things they can do to help protect players:
+Close the ARTIFACT MARKET: 
+DO NOT LET PEOPLE WHO DO NOT OWN THE GAME PURCHASE OR SELL CARDS
+but Mr you might add why won't these flippers jsut purchase an ARTIFACT game to do so?
+There you just answered your question most flippers will not do so unless the returns outweigh the risk.
+
+GIVE A PACK STRAIGHT FOR THE EXCHAGING OF CARDS 
+or 
+HAVE A DUST SYSTEM BUT INSTEAD GIVE STEAM WALLET CASH straight (85%) of market rate or something
+or
+GIVE A PACK FOR 0-2 wins but only allow unlimited for the 3 and above winners.",0.6231235265731812,194,True
+583950,47609906,76561198399945049,"About 100 hours in now. can't say that I am a veteran, but can't say I didn't give it a shot, either.
+The pay-to-play-aspect didn't bother me too much in draft. Usually I make enough packs to recycle cards/sell cards for tickets and be playing endlessly, more or less. The inital price is justified thinking about how much time I could genuinely spend on the game.
+
+Drafting was a lot of fun for a while, but now that I have explored the process, the novelty fades. 
+The endless RNG is becoming frustrating. 
+Slowly farming booster packs isn't incentive enough to cover this up for me.
+Getting 3 very bad drafts in a row, losing a highly favored game to cheating death and I must say: I've had it for now.
+
+Haven't gotten behind the paywall for constructed yet, but watching streamers I get the impression that this mode has some serious issues. I won't spend the extra money just to try it.
+
+
+I think the game has a lot of potential, but for now I must answer the question
+""Does my life quality improve from spending time on Artifact?""
+with a clear ""No"".
+
+I'll have more time for more fun things now.
+",0.6216702461242676,40,False

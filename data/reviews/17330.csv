@@ -1,0 +1,1011 @@
+appid,recommendationid,author_id,review,weighted_vote_score,votes_up,voted_up
+17330,61570682,76561198189257813,"How to play on steam:
+
+1. Go to the local files of the game
+2. Delete Bin32 folder
+3. Rename Bin64 to Bin32
+4. Go into that folder you just renamed
+5. Inside the folder rename Crysis64.exe to just Crysis.exe
+
+Now the game will start. If you experience crashes then follow these extra two steps:
+
+6. On steam go to the properties of the game and under set launch options type "" -dx9"" the space is important
+7. Turn off all anti aliasing in game.
+
+These are the steps I followed to make the game run most stable. I played for more than two hours with no problems. I heard people said that the gog version is stable but if you like me and got it on steam I hope this is helpful.",0.9310480356216431,196,True
+17330,29601985,76561198145969945,"Oyunu çalıştıramayan arkadaşlar, Steam\steamapps\common\Crysis Warhead\Bin64 klasörünün içindeki Crysis64.exe'yi çalıştırın.
+
+English : If you can not run the game , run Crysis64.exe in the Steam\steamapps\common\Crysis Warhead\Bin64 folder.",0.8754466772079468,114,True
+17330,8465367,76561197983276232,"If you can find my user review for the original Crysis I noted how the quality of its level design seems to fall off a cliff later in the campaign. A lot of other people will probably tell you this too. Warhead feels as if Crytek made it specifically to address that problem. It’s pretty much a more tightly-designed package of Crysis levels with a couple new weapons and vehicles.
+
+If you were actually interested in what the original Crysis game’s story was about I don’t know what to say, but Warhead’s is slightly better. It’s kind of like the difference between Predator and The Rock respectively, the latter being slightly less cheesy, but still bombastic in its own way. Warhead follows Psycho (the British guy) and features a somewhat decently played-out character arc between him and a new supporting character. That’s all I think I can really say about it.
+
+Aside from the original game’s suit powers, a new grenade launcher, EMP grenades which weaken nanosuit-equipped enemies (who are far more common in this expansion) but you as well, drivable APCs, and a couple new kinds of mounted gun, Warhead’s selling point is its superior level design compared to the original game. Luckily the level designers managed to stay strong throughout. 
+
+Crysis is a game that, behind its graphics, is hailed for open-ended mission design reminiscent of GoldenEye or Thief with huge maps. Ironically, almost all Warhead’s missions are pretty linear compared to the first game’s. But it manages to be linear without feeling like a Call of Duty-style corridor. It’s a very “wide” sort of linear.
+
+The first mission ends with an open-ended base infiltration similar to some levels from Crysis, but after that everything is technically a straight line that still manages to give you a lot of options in how you play the game. The vehicle chase sequence immediately following that infiltration somehow doesn’t feel like a scripted event but instead simply has you follow a target within an open area. This is followed by what is, actually, a pretty well-done boss fight to contrast with the first game’s mediocre final boss. Afterwards there’s a section inside a battleship where Crytek actually manages to play some scripting tricks on you without automatically controlling the camera or putting you in a quick time event or anything. It’s almost more Half-Life 2 than Black Ops in this way. Warhead makes even its literal tunnels dynamic enough to let players have a say in how they tackle each combat situation, including a train section.
+
+Visually, Warhead looks slightly better than the original Crysis but hasn’t had nearly as many mods made for it. Fortunately Crytek actually tried to optimize Warhead a bit so for most people the game should run better than Crysis. Warhead’s highest graphical features also aren’t locked behind DirectX 10.
+
+Compared to the first Crysis, Warhead is kind of like the same meal with the same ingredients but prepared more diligently after the chef got some experience.",0.8388186097145081,56,True
+17330,101376358,76561198914201154,"A terrible experience. Don’t buy this game, Really don’t waste your money here it crashed three times in 1hr of gameplay i cant finish mission Frozen Paradise cause it crashes all the time. better go for gog version",0.8462092280387878,75,False
+17330,39028827,76561198286203843,Don't buy this version. Either buy the Origin or GOG version. The reason is because this version only contains the 32bit version of the game. If you did buy this version like I did. You can ask EA to give you a copy of the game. They asked for my cd code and they gave me a free version. (You can find your cd code by right clicking the game and clicking View CD Code) There is a 64bit fix but it didn't work for me.,0.8394145965576172,230,False
+17330,31276514,76561198078193056,"[b][i]""CLOAK ENGAGED""[/i][/b]
+
+I have two personal stories with Crysis 1 and Crysis Warhead. First one is not really a story. It's more just a fact that Crysis 1 with Warhead was my first PC DVD retail copies ever. I was buying PlayStation 2 games before, but for PC they were first. I got them in supermarket and not in gameshop, during late 2008 with currency that doesn't exist no more (Slovak Crown) and during times when inflation basically didn't exist over here in my country, where only games and movies had prices of the Western World. To give you comparision, so you can imagine that - range of game prices used to be from 300SK as cheapest to 1999SK new ones. For 300SK you could easily have full varied food for weeks, even for a month. 
+
+Second one is kinda rare. I saw Crysis 1 in 2007 on maximum settings running smoothly and looking stunning. It was not on any convention or expo, it wasn't in any gaming club. It was just next house to the right from ours. My schoolmate knew the guy that lived there, and he just told us that his older brother wants my schoolmate to go visit him (well, I was lucky bastard so I went with him also, uninvited, and before I saw that tropical island on the max settings I ate all of their fries with ketchup :D) And then I saw it. [h1]Words will never describe what kind of feeling it was, seeing that thing, without even knowing what it is, but to only know, that it's impossible.[/h1]
+
+Well, enough of childhood sentiment, let's get straight into the Warhead. Released year later after first Crysis, [b]we're playing as Psycho, member of Raptor Team, destroying every Korean settlement on the opposite side of the island, while Nomand is catching chickens and turtles on the other side.[/b] In terms of graphics, game runs smoother, so I believe optimalization was done a little bit better. I had problems with the sound to be honest, cracked speakers, sound cut off, but when I used headphones, sound was working correctly, so it was error on my part.
+
+While Crysis 1 will last you above 8 hours, also it depends on how you play it, and if you enjoy it, if you using slow approach, it can go up to 10 hours or so, with Warhead you will be done within 5/6 hours. I have feeling that some parts even outside caves might feel like a corridor, but almost every is just up on your approach. Also, infiltrating last airfield was super easy, and you could easily reach the container in stealth without notice. Yes, on hardest diff. 
+
+I don't want to step into ending that much, just wanted to say that it wasn't good at all. Absolutely not. But it doesn't mean it's going to ruin your gaming experiences. Level-design is (at least for me) better than in first Crysis, and some levels really took my breath. I've liked the VTOL evac, in the middle of the game, after the running on APC.
+
+To sum it up, Crysis Warhead is most definitely stunning brilliant game worth every single penny. It's younger brother of first Crysis and it's his lighter version. You'll enjoy every single moment out of the game. It's great FPS game, it's great stealth game and it's pumped up action with no brakes.
+
+[b]Bonus Point: Crytek[/b]
+[h1]Rating: 9/10[/h1]",0.823992133140564,58,True
+17330,89036595,76561197996978823,"Do NOT buy this Steam version of the game. I have confirmation from Steam that EA disabled all Steam keys for a number of their games. Also it requires Gamespy installation which is a defunct company.  I bought this game in 2009 now can't play it.
+Buy from GOG and it's DRM-Free so you can avoid future problems. Same goes for Crysis.",0.7502171397209167,61,False
+17330,147721691,76561199437808801,"Crysis Warhead, a true gem from 2008, remains a pinnacle of gaming excellence. With stunning graphics, engaging gameplay, and a gripping storyline, it easily earns a solid 10/10. A timeless masterpiece that every gamer should experience.",0.7194008827209473,25,True
+17330,78565350,76561197969489829,"Remember when these games killed computers? 
+
+Crysis Warhead is the expansion pack for Crysis, or standalone expansion? I don’t know what to call it.
+You play as Psycho, the Jason Statham-American who was in your squad during Crysis 1 and follows his adventures during that time. So now with Nomad busy being important, its up to you to fight a North Korean general guy that isn’t really important to the overall plot all that much.
+
+I like his glasses, though.
+
+Crysis Warhead is a shorter, more exciting game compared to its original counterpart. Clocking in at only 3-6 hours long depending on if you know what you’re doing or not, because of it this, Warhead just kind of turns everything up to 11.
+
+From the get go, you’re fighting big boy battles against North Korean forces across the island, teaming up with Marines and other Nanosuit wearing buddies to shoot at NK soldiers and aliens. Its not a spoiler, you see one 10 minutes into the first game. 
+
+Although sold as a kind of graphical power house, Crysis: Warhead actually has some neat stuff going on with gameplay, nothing to write home to your neglectful parents about, but its still fun. The nanosuit gives you ways to approach conflict or just avoid it entirely, meaning you can play the game as a balls-to-the-walls action game or a clunky stealth game if you really wanted to. 
+
+The NKA or KPA or whatever they’re called have a kind of uniformity to them, I wasn’t even aware that they had classes until someone told me, and you can tell what they’re going to do just by looking at them. Each one of them has a job from entrenching to attacking to flanking to telling everyone what to do.
+All of them get shot by me, so its kind of a wasted effort. 
+
+Going into the Crysis Wiki, because that exists, there’s actually a lot going on under the hood. I’d be impressed if I didn’t just shoot all of them on sight. Or throw bricks at them. 
+
+Warhead does a lot right compared to the original. You have more weapons to play with, more ammo for your main battle rifle so you don’t have to switch it out for the AK early on. Weapon customization returns as well.
+I don’t know what else to say about weapon customization. 
+
+Warhead also did the right thing by focusing more on the KPA than the aliens, though they’re still there, they’re still unpleasant to fight. Not because they’re hard, they’re just not fun to shoot at, breaking the one rule of video games that is “Shooting aliens=fun”
+
+There was multiplayer at one point. It was called Crysis Wars and I remember playing it, it was fun. You could get enough points by playing the objective and killing enemy players to get a tank that fires nukes. I never got it, but I’ve been hit by it.
+
+EA shut down servers for Crysis Wars back in 2014.  At the time of writing this review there are 7 people playing Team Fortress classic. Just thought that was interesting. 
+
+Warhead was alright, but nothing to write home about. You’re basically getting a gimped game now that multiplayer is dead. Now, I’m not going to endorse [anything] but there’s still a way to sort of play Crysis Wars. Its kind of a big deal in some circles, its not really the same game.
+You probably wouldn’t be interested. Unless you’re a Living Legend. 
+
+Buy it for 5 dollars if you really need to play it, but just remember you’re basically getting half a game. 
+
+Crysis: I’m English you Muppet gets 6 out of 10. 
+
+A hybrid between a cow and a bison is called a Beefalo. 
+
+[url=https://store.steampowered.com/curator/7124597-The-Dickbutt-Experience/]Maximum idiot. [/url]",0.7107082009315491,20,True
+17330,17810726,76561198014766672,"Crysis Warhead is a first person shooter, and is a standalone expansion top the original Crysis game. This was released in September 2008.
+
+Warhead follows a side plot to the original story of ""Psycho"", an ally of the original protagonist, Nomad. You are thrown into challenges on the other side of the island at the same time as the original story.  One change with the gameplay that Warhead brings, is the chance to customize your weapons, allowing you to put silencers, different sights on, and other additions such as flashlights. All of the weaponry which was in the first game is still present here, with the addition of a few new guns such as dual wielding SMGs which are absolutely bad-ass.  We see the return of the super human style nanosuit too. 
+
+Warhead features a optimized version of the Cry Engine 2, but it still lacks 1080P resolutions which is a real shame. The game still looks really nice and blows alot of recently released titles out of the water graphically, even though it is almost eight years old now. The graphics menu has interesting options available, you are basically having to pick the style of gamer you are; you get pigeon holed into categories such as ""gamer"" or ""enthusiast"" for example - to me this really doesn't look good. I should be able to pick the graphics options with their regular choices, and not some predefined garbage categories which we see here.  The lack of high resolutions slightly lets the game down. There is a hot-fix you can do by changing .ini file settings, but this also messes with frame rates, and lord knows what else. 
+
+The story is a complete stand alone to the original game, you can play this game first and still be none the wiser that their is a prequel to it. I really like the idea that all of this story is going on at the same time as the original though, it makes the plot seem even deeper than before. 
+
+Warhead has some well recorded voice acting, all be it a very generic English accent on the main character, but all of the other dialogue and sound effects are all very good. 
+
+This game has various difficulties, much like the original. Playing on Delta mode, which is the hardest, will certainly give you a well worthy challenge if you are an experienced Crysis/FPS player, stick to the lower difficulties if you just want to see the story as enemies and gameplay takes a significant drop in difficulty. 
+
+Warhead, much like Crysis 1, could sometimes be considered as an open world game. The levels which you are playing in, are absolutely huge. There are so many different methods of reaching the same location, that you can play this game exactly how you want it. I personally opted to try a more stealthy approach, and normally games don't really cater for different methods like that, but I was still able to experience everything the same. There are tons of little nuggets of extra story to find throughout each level too, from computers to checkout, to radio broadcasts of propaganda. Plenty of stuff to keep you looking in every building you come across. 
+
+A full playthrough of Crysis Warhead will take you just about five hours; depending on how you play. My first run through was a regular all gungho all guns blazing playthrough, which took me just about four hours to complete. My second run, which was my stealthy approach, took me quite a bit longer. Normally I don't get as much enjoyment out of my second run through a game, but I was able to get the same, and if not more enjoyment out of a second playthrough, I was able to see a different side to the game which I didn't see before in the regular playthrough, and the higher difficulties add a little bit more replay ability too. 
+
+As well as the aforementioned resolution issues I had. I did notice a little bit of screen tearing on the cut scenes. Turning on v-sync tanks the frame rate to sub 30, which is unacceptable. nVidia users can enable v-sync in their control panel but you will still get a bit of tearing sadly. I guess that's what you get from older direct 9 version of games when you are running more recent operating systems/direct x versions.
+
+Crysis Warhead definitely stands the test of time when it comes to gameplay and story; it's hard to believe that this game is almost eight years old now. You wouldn't think so with the quality of the gameplay on show. It is a welcome addition to the Crysis franchise and one that should almost certainly be played by fans of the series, and just FPS fans in general.  For the low price of £7,99, you will be getting a significant length story mode, with plenty of replay ability with a very fleshed out story line to boot. 
+
+[b][u] Tom's Score Card[/u][/b]
+1) Stay away
+2) Only recommended when on sale
+[b][u]3) Recommended[/u][/b]
+4) Highly recommended
+5) This is a must play
+
+If you found this review helpful, please consider giving it a thumbs up. You can also find more reviews over at http://www.completingthebackloggroup.com/
+
+http://store.steampowered.com/app/17330/",0.7963995933532715,113,True
+17330,29243578,76561198068262862,"This is an awesome game! Got through it 4.8h on record.
+
+I will do some pros and cons for the game
+
+PROS
+-Graphics are awesome for a game from 2008
+-The campaign is kinda short but never gets dull or repetitive
+-I have only encountered 2 bugs, but they were only graphical bugs, so that's awesome
+-Cutscenes are great
+-A couple of weapon customisation choices, and some new weapons and equipement are added
+-A lot of vehicles and some new ones are added
+-Enemy variety in models, weapons which they use, great AI
+-Really small community but it's alive
+-With this game you get Crysis Wars which is a Multiplayer for this game
+-There are 4 servers
+
+CONS
+-No playerbase on the servers
+-Crysis Wars is broken in a way that you can't play Multiplayer but you can fix it if you follow this guide: http://steamcommunity.com/sharedfiles/filedetails/?id=289520690
+
+I recommend this game. I rate it 8/10 would be Psycho again!",0.7426334023475647,19,True
+17330,57359844,76561198322757815,"[h1] Why You Should Consider Playing Crysis Warhead? [/h1] 
+
+If you liked the original Crysis then you're gonna love Crysis Warhead! This is hands down one of the best action shooters of the last decade. To those who disliked Crysis due to its slow paced mission progression should find this game much more enjoyable. For starters this is a standalone expansion title and a PC exclusive to Crysis from EA!! That' really something!
+
+Crysis Warhead addresses almost every criticism from the main game. This is a very fast paced action shooter and I enjoyed every minute of my 7 hour campaign. Crytek engine has been updated and optimized so now Warhead not only looks better but runs better as well. 
+Overall it was like playing a action blockbuster movie. The soundtrack is also top-notch and really pumps up the action. You'll love it as soon as you see the intro cinematic!!
+
+The gameplay and combat remain nearly the same. Missions and environment are much varied, Crytek also took full advantage of driving. The enemies especially the aliens are much more stronger now and the A.I responds in a much better way. The graphics are just breathtaking as well. Keep in mind it's still a 12 year old game as of writing this review so don't expect it to look like a modern Call of Duty.
+
+My only con is that it's criminally short but remember kids quality over quantity is what you get here! Also the standalone multiplayer expansion is long dead since termination of Gamespy service so don't throw negative reviews because the multiplayer is not working. There's nothing the developers can do 12 years later. 
+
+So should you buy Crysis Warhead? Absolutely hell yeah!! Every FPS fan should play this cool adventure! It's really underrated and overshadowed by the Crysis 2 and 3 but maybe its because its considered as an expansion pack. It's okay....I guess? Regardless what I say, try it for yourself and let me know how you felt playing it. 
+
+For any questions comment down below.
+
+[h1] My Rating: 8/10 [/h1]",0.7388551235198975,29,True
+17330,195004314,76561198860019912,"A remastered version is urgently needed. It crashed at least 4-5 times during gameplay. Being an old game, it has obvious optimization issues.
+As for the game itself; it takes place in the same time period as Crysis 1, right after destroying the Korean cruiser with Nomad, and the ending of this game merges with the ending of Crysis 1.
+This time our main character is Psycho. I really enjoyed playing with this guy, he's a favorite character for many in this series.
+It's a bit more tactical than Crysis 1, but you have the same freedom. The game is action-packed. Almost the same sandbox style as the first game.
+Shorter than the first game.
+Despite being released in 2008, I enjoyed it more than many modern FPS games.
+Finally, as I said at the beginning, a remastered version is definitely needed.
+Fans of the series should definitely play it when the price drops. 9/10",0.6845842003822327,13,True
+17330,85207891,76561198807997463,"[h1]Crysis Warhead[/h1]
+Its like Crysis's DLC but its not.
+
+- Graphics 92/100
+- Physics and Mechanics 87/100
+- Controls 100/100
+- Gameplay 100/100
+- AI 75/100
+- Story 95/100
+- Musics and Sounds 80/100
+- Bugs : not much
+
+- Missions are good and it does not repeat itself.
+- It also has quick-save system.
+- It also has in-game console.
+- Optimization is better than Crysis.
+
+90/100",0.681770384311676,18,True
+17330,10248764,76561198042966564,"It's an awesome stealth game where you destroy KPA soldiers and aliens. What's not to like ?
+PS: I had a problem starting it on my Win 7 64 bit. If anyone has the same problem just delete the Bin 32 folder and rename the Bin 64 folder to Bin 32 and it will work!",0.7170186042785645,30,True
+17330,207135379,76561198341120309,"A blast from the past. Psycho is an amazing character. I told myself I was going to play this game after Crysis 1 since 2010 and now 15 years later I was able to finish it. 
+
+It felt so satisfying to be able to play this game once again. All the good memories and nostalgia came back.
+
+The game crashed a few times but I guess that's what we have for a game made 17 years ago.
+
+Non-stop action shooter. Feels like a Sylvester Stallone sci-fi movie, with Aliens. The plot is similar too: recover, rescue, defend, conquer, destroy. A bit cliché during cutscenes, specially with the ""vilain"".
+
+Crysis franchise left a mark in my memory. I feel blessed to be able to play this game one last time.",0.6664247512817383,14,True
+17330,216976906,76561197960432447,"Crysis Warhead is pure adrenaline. More aggressive and faster-paced than the original Crysis, it grabs you from the first minute. Psycho is a charismatic lead, and the missions keep the tension high.
+
+It’s a shame that Warhead lacks an achievement. Honestly, it’s unclear why the game never got a remaster — though the original still looks amazing and holds up perfectly even today.
+
+💡 Add-on: Every encounter here feels sharper than in the original, and the game practically shouts: “Don’t stand still — act now!”",0.6551724076271057,9,True
+17330,50570982,76561198018965521,"Crysis, crysis, crysis.....We have 2019 here and still look perfect!! Check out my screenshots.. Nowadays we find this game a lot of mods and enhancements. At the time of release the game could not run on full details above 30 FPS, but it's still a technically challenging game mainly on the GPU (The game requires at least 3GB of VRAM to run with graphic modes - I finished the game with BLACK FIRE mod).
+
+Crysis together with WARHEAD (psycho) is the best of the series! 10/10 - I highly recommend - for older players it is a necessity!",0.7043420672416687,20,True
+17330,195330717,76561197963736121,"Warhead is wayyyyyy better than Crysis 1! It's too bad this wasn't remastered, cause right now this is my favorite Crysis game! I still gotta play 2 and 3, but this is still way better than 1.
+
+The Korean A.I. has been tweaked to the point being spotted isn't so ridiculous! But to the first game's credit, maybe it's the Remastered version that is so wonky with the A.I. and bugs. Perhaps I shoulda gotten the regular version, but knowing me as an achievement nut.
+
+Psycho is way more interesting than Nomad, this villain plays a much bigger role, the story is taken more seriously, and the best part: the final boss battle was fair and fun! I LOVED Warhead! 
+
+It had its fair share of issues, too, of course. Sometimes props would kill me on the spot, which is nerve-wrecking, but when it kills the enemies, it's funny! XD When I dual wield, one of the weapons fires automatically for some reason, which might be more of a keyboard binding issue, which might be personal. Plus, if I take too much damage, or an explosion happens, the whole screen blinks black for some odd reason. Though none of which really hurt the game all that much for me.
+
+If you're gonna play the Crysis trilogy, or at least just Crysis 1, you HAVE TO, I say, HAVE TO play this! Think of this as a part of the first game. It feels incomplete without this.",0.6530176997184753,11,True
+17330,76412342,76561198112810429,"Crysis Warhead. A standalone expansion. Set of missions, based on the first Crysis game. There we have a new main character, and supposedly some ""other side of the island"", with a different landscape and chain of events. At the start of sales, it was priced cheaper than the original Crysis game, and it was a valid point: there is the same engine, it's short (original Crysis wasn't that long, but Warhead is about 40-50% shorter). Most notably, a good half (if not 80%) of locations were in the original game, and were only slightly remade, to look different. As a good ""pro"" point, there was a ""Crysis Wars"" multiplayer, which was disputably better than in the original Crysis. But, multiplayer is dead at moment, so I'll write about the single-player campaign only.
+
+Today the game sells at the same price as the original - 18$ (4.5$ with 75% discount). However EA does not adapt prices for various regions, and in my country Warhead costs as half of Cyberpunk 2077 or any other AAA release. And that's a serious reason not to recommend this buy, at least to my fellow countrymen. But it's not the main thing!
+
+If you check negative reviews, you'll see that many players had difficulties with starting Warhead on their Windows 10 PC ""out of the box"", without tweaking. Well, good thing is that that issue was patched, and now you can play the game straight after installation, how it should be. I've only one middle game crush to OS, which is a really good result for that engine.
+
+My reasons to downvote Crysis Warhead are more personal and biased, so it's ok if you're not agreeing with it.
+
+For starters, the story is really worse than in the original game - despite the fact that the developers surely invested enough in that part, despite that we have there more deeply developed main character and a bunch of cutscenes, plus some ""behind the scenes"" drama between our man Psycho and his old fellow O'Neill... It's all the way more generic, more unbelievable, more out-of-any-sense. O'Neill was kicked out of Spec Ops, but have all credentials to fly hi-tech jets and VTOLs; is that's the way US military operates? They take unreliable persons to drive such things? Hmm. What's more, Koreans in this standalone expansion are surely even dumber than in ""Homefront"" games. A big turn around, actually, because they weren't like that in original Crysis.
+
+There we go from the story to the missions development and to the balance of difficulty. In the original Crysis, we had on average more spacious mission maps, and despite that, the enemies were situated much better almost every time. In Crysis Warhead, there was much less product polishing. As a result, just the same enemies, in the game from the same developer on the same engine, became much more stupid in all of their actions. They just don't have enough script strings, as it seems. And to make it even worse, the developers are going into experiments with widely mixing aliens and Koreans as enemies during some missions. Do I need to say that those missions are quite script-lacking? Oh boy, it's a seriously, Seriously undeveloped in technical perspective game. There Koreans, all of sudden, have broad access to gauss guns, and even to the super high-tech of all that US military science has to offer, the end game gun which was theoretically only a single working prototype during the original Crysis. But, for the sake of game balance, all of their most advanced infantry units in nano armor, will be using only SMGs and shotguns!
+
+I can call other lesser things for a whole hour, but I only want to share a general impression. Crysis Warhead is but a cheap standalone asset of missions, about the same quality that was produced after the release of the Far Cry 1 game by some amateurs using the Crytek SDK. Sure, the developers added some story - but it only makes the general game lore much less believable. ""Character exposition"" is looking cool only if you were raised by some comic-book-adoring cultists, and never ever tried to use logic in your life. The timeline of events is seriously inverted as if there were some little teneting Nolan in the development team. Mission maps are mostly looking exactly the same as in the original Crysis or only slightly refurbished. 
+
+All in all, Crysis Warhead was supposed to be a fine shooter for those who liked to run around a tropical island in a nanosuit, scattering Koreans along the way and kicking alien life forms buttends. Alas, I see a big downgrade on all stages, comparing to the original Crysis game. Especially while playing on the highest difficulty. Therefore, the mark is 5/10, and I don't recommend buying it even for 4.5$. For 1$ or less, maybe. But Crysis Warhead is certainly not a classy product which I will proudly display prominently in my games collection.",0.7011169195175171,46,False
+17330,203206210,76561199021599309,"Crysis Warhead is a stand-alone DLC for the original Crysis.
+In Warhead you play as Psycho fighting the Korean Soldiers while Nomad is fighting agains the Ceph. It is faster than Crysis, which makes it feel a bit shorter than it actually is. It adds some more weapons and characters. The ending is quite awesome.
+8.5/10",0.6504619121551514,11,True
+17330,39569748,76561198025599544,"Ez fix for windows 10 without DL(someone try with the original I haven't yet); 
+-Go into warhead local files from the properties menu 
+-Find a folder named bin64 
+-Run the app icon that looks like Psycho from the game
+- Game will prompt an EA screen asking for CD key
+- Right click Warhead in your steam library, copy/paste key in, have fun
+ 
+  PS -if you want the browser just + ADD A GAME... and use that icon from the local files from the ADD A GAME... browser",0.7000290751457214,15,True
+17330,7865811,76561198021563753,"More maximum mayhem
+
+CRYSIS WARHEAD is basically an expansion of the original game so everything I felt about that game also applies here. Even though it’s now 5 years old the game looks fantastic and has some impressive physics (apparently the CryEngine was updated for this). The story is adequate, given the limitations of a game such as this, and the voice acting is convincing throughout. The gameplay is perhaps a little more linear than in the original but it’s also faster paced and more intense. The combat is pretty tough at times, although the final boss battle was actually easier than much of what had gone before. There’s a lot packed into this short game, and that’s the only downside: it’s over way too soon.
+
+5/5",0.6957502961158752,20,True
+17330,124684750,76561198074661529,"I needed to do quite a bit of tweaking to get this working well on a modern system. After going through four or five different steps from www.pcgamingwiki.com, it ran pretty good. Although the performance is surprisingly demanding for a game that came out in 2007. Playing this game in 2022 makes me appreciate the remaster of the original Crysis even more. I’ve never played through the original version of the base game so playing Warhead was my first experience with the original game engine.
+
+This original version of the game is still pretty cool and I’m sure that back when it first came out people were very impressed. However all of the people who criticize the Crysis remaster should maybe go back and play this. So that they can actually appreciate how much Crytek improved the main game.
+
+I don’t personally like Psycho, who is the main character in Warhead. I didn’t really like him in Crysis 3 and I like him even less in this game. He’s like a cockney football hooligan and he just comes across as a boring idiot to me. The Crysis warhead campaign is also pretty short and just when I was starting to enjoy it… it ended. 
+
+It is for sure worth playing though if you are a fan of the series, even just out of curiosity. Also because there are some fun and interesting sections, like the frozen ocean area with frozen waves and destroyed ships. Crysis is one of my favorite game series and even though this game may be the weakest link, in a series as good as this the weakest link aint all that bad.",0.6438988447189331,19,True
+17330,196838557,76561198036732153,"This is the True Crysis 2
+
+Pro's:
+-New Enemies and guns
+-Fight Aliens a lot more of the game now
+-Fight more Nanosuit foes now
+-Kill way more Exosuits
+-The levels have so much ammo, every other room or building has an ammo cache
+-Mission variety is way better and more fun then Crysis
+-Final boss is actually fun
+-Music is way better
+-Characters are better than Crysis
+-More side objectives
+-You can still stealth almost the entire game
+-You get a nanosuit team to fight with you sometimes!
+
+ Con's:
+-Cutscenes are well below budget level
+-It a Harder game than Crysis a scout can solo kill you if it unloads one volley and the gauss rifle OHK you On Delta
+-It ends
+
+If you like Crysis Get warhead and try to play it on compatibility mode for windows vista/7 and youll have a blast
+
+8/10
+Story: 0.5 - in Crysis we already see how warhead starts and ends
+Stability: 1 - never crashed
+Bugs: 0 - I believe the issues this game has steams from it being 32 bit as half way through the game lighting effects and shadows start to artifact on the screen through entire levels and enemies in one level could see and shoot you through the entire map.
+Characters: 1 - Ma'am, Psycho, and O'Neil three peas in a pod
+Combat: 1 - fun and hell and never lacking for ammo!
+Enemies: 1 more nanosuits more aliens more action overall!
+Voice acting: 1 - Im British you Muppet
+Cutscenes: 0.5 - budget as hell almost looks like a story board draft
+Levels: 1 - more diverse and allow for more tactic options
+badassness 1 - They improved on almost everything from Crysis from Max speed lasting longer to all the weapons having a forest camo skin on them",0.6390493512153625,11,True
+17330,162001424,76561198299285150,"First playthrough review time.
+
+Crysis Warhead is a game set in the same timeframe as Crysis 1 but follows a separate protagonist's journey. The gameplay is quite similar, with some new in-game features which enhance gameplay.
+
+Despite not having a remastered version, Crysis Warhead still has excellent graphics that hold up well. The plot is intriguing, offering a parallel storyline to Crysis 1 but from a different perspective.
+
+Overall, Crysis Warhead is a very good game with an engaging plot, excellent graphics, and interesting gameplay.
+
+Note: To change in-game resolution follow the below steps.
+
+1. Go to Documents\My Games\Crysis_WARHEAD
+2. Edit game.cfg with Notepad
+3. Change these settings to your desired resolution (Example: 1920x1080 as shown Below)
+r_Height = 1080
+r_Width = 1920
+4. Save the file.
+
+",0.6373085975646973,11,True
+17330,82851787,76561198082649849,"[h1]
+Always good to loose some tension and play as a Psycho! Standalone DLC to Crysis, which is not included in the remaster. Still excellent shooting action and big open maps that offers great experience. Worth checking out as it introduces new weapons and allow to relieve same good story but from different perspective. Graphic wise still holds up to this day and original release date was 2008! Recommended to play here and now.
+[/h1]",0.6353380084037781,17,True
+17330,209735250,76561197970675521,"Single-player game,,,,,
+
+Uses Anti-Cheat Software: PunkBuster
+
+WTF?",0.6292519569396973,22,False
+17330,17199425,76561197998529661,"[h1][b]A step forward in the narrative[/b][/h1]
+
+After offering a graphic reference that is praised even to this day, Crytek brings us a parallel story of the events that occurred in the first game that brings some important contributions.
+
+[u][b]PROS:[/b][/u]
+
+- Best optimized and polished than the first part.
+- Best storytelling and character development (the inclusion of enhanced cinematic delves into the history and add more drama to the series).
+- New weapons.
+- Better level design (multiple ways to complete an objective, inclusion of more secondary objectives, the world feels better coupled to the gameplay).
+- New vehicles to drive.
+
+[b][u]CONS:[/u][/b]
+
+- Shorter than the previous game (less maps, 8 hours campaign).
+- The AI ​​is still ""simple"".
+
+If you liked the first Crysis and you were left wanting more overwhelming shootings, spectacular explosions and bullying your enemies using your Nanosuit abilities, Crysis Warhead is a no-brainer to add to your game list.
+
+[h1]My Score: 8.5 / 10[/h1]
+
+Note: Played it on Microsoft Windows 7 Ultimate - 64-bit",0.6784747838973999,17,True
+17330,106116237,76561197990503898,Warhead is the official expansion for the original Crysis. You get to play as Psycho in a new campaign lasting around 6 hours. The graphics and gameplay still hold up which is impressive since the game was released in 2008.,0.6245216727256775,9,True
+17330,97448432,76561197978054729,"Game has a bug where it locks weird fps in fullscreen mode with v-sync. In my case 24 fps. Read that a lot of people have this problem. Tried the solution with ALT+ENTER to switch between window and fullscreen. But in my case it doesn´t fix the fps even if hit several times. Sad that this problem seems to be out there since years. Now as I happily have a powerful PC with a RTX 2070 SUPER and other nice specs, I still can´t play this game smooth as the developers don´t fix this issue. Sad about it. With v-sync off, I get screen tearing. In window mode with v-sync it runs so smooth but that´s not how I would like to play it. Monitor is a DELL S2716DG.",0.6239590644836426,8,False
+17330,15098347,76561198010180088,"[b]This is a long review, so if you want a brief summary of why I recommend [b]Crysis Warhead[/b] skip to [u]Results[/u] and read from there.[/b]
+
+Crytek creates another epic continuation onto the Crysis series. Crysis Warhead offers an alternative story from the eyes of Physco another one of the nano-tech marines. 
+
+[b]Story:[/b]
+On the same island as the original Crysis Warhead starts the story with Sergeant Sykes, Physco, who is on a vital mission to capture Korean cargo. It is up to you and your friend O’neil to push through the forces of North Korea and aliens alike to complete your objective. 
+
+[b]Campaign:[/b]
+The campaign consists of approximately seven missions, which vary in length. The campaign lasts anywhere from around four to seven hours depending on your play method. The initial missions are before are against human AI, but as you progress the enemy shift begins to occur as you start fighting less humans and engaging more aliens. The enemies, weapons, and abilities are the same as the original meaning this expansion only adds new missions and story. Regardless the campaign is well planned and the levels keep you wanting for me. They offer  dynamic play-styles that allow you to choose your completion style. 
+
+[b]Gameplay:[/b]
+As in the original the gameplay varies based on your difficulty. I played Delta and noticed most of the game was more about utilizing my cloak ability and catching enemies by surprise. The enemies will fire in the same place if you cloak and run, but if you hide for a few seconds they tend to forget you even existed and continue on with their business. Realistically this game is pretty fun and the combat can be dynamic – if you’re looking for run and gun you’d probably want to play on an easy difficulty. On the other hand if you’re more into sneak and strike then I’d recommend going for a harder difficulty. The abilities are fun, but you’ll notice you tend to use some over others. I rarely found myself using speed or super-strength, but instead almost exclusively cloak and shields (which auto selects when cloak deactivates). 
+
+
+
+[b]Hints:[/b][spoiler]
+>If you cloak in mid battle and move prone most of the time you can avoid actually having to move as the enemies will be shooting above you.
+>If you see a gun with an attachment you have make sure to drop your gun and exchange for that one. Otherwise you won’t unlock the attachment.
+>The Plasma Accumulator Cannon only fires a short range then explodes sending missiles outwards.  This means to really damage your enemies you need to get close to them. 
+>IF you use a flashlight or a laser and cloak they can give away your position.[/spoiler]
+
+[b]Results:[/b]
+All and all Cyrsis Warhead is a great addition to the series and even if you didn’t play the first Crysis I would recommend giving it a go. It doesn’t really ruin any elements from the original if you play them backwards, but adds more depth to your Physco who in the first game seemed rather annoying. The campaign offers great complexity and amazing new environments. The graphics are of par to the original, annoyingly not 1080p, but still it looks good enough that you couldn’t tell anyway. I’d definitely recommend this game for someone who loves FPS games. 
+
+Pros:
++Suit abilities which allow you to change up your combat style.
++Loads of different weapons with unique attachments: silencers, lasers, flashlights, grenade launchers, etc.
++Decent enemy AI and good combat mix.
++Smooth difficulty curve accommodating for various skill levels.
++Good length campaign, which offers many new environments and combat scenarios.
++Good story and addition to the continuation of the series. 
+
+Cons:
+-Not too many check points, you can manually save but sometimes you’d forget in the head of battle die and be warped back to what seems like the beginning of the level.
+",0.671631395816803,15,True
+17330,199024083,76561198062506049,"A relatively short expansion mission for Crysis 1. The level design and action are more streamlined than the main Crysis game. There are a few new weapons including a grenade launcher, and I found them quite fun. I especially enjoyed three levels involving vehicles. Nevertheless, if you enjoyed Crysis 1, then you should also enjoy this.",0.6200349926948547,10,True
+17330,55133495,76561198036546770,"NOTE: many people have issues launching the game because of some licence server not responding. You can solve this problem by starting the game via the crysis64.exe in the bin64 file in your game files. Steam won't register your play time though.
+
+REVIEW: If you liked the first Crysis instalment and want more of the excellent action packed gameplay this stand-alone expansion is what you are looking for. It offers a 6-7 hour campaign that follows Psycho on his mission on Lingnam Island and expands on the events of the first game. Technically and gameplay wise this is very similar to the first Crysis, so if you enjoyed the original game this expansion is highly recommended. Crysis Warhead is well worth its money and if you are still unsure if 6 hours of singleplayer content are worth the price wait for a sale and you wont be disappointed by the game.",0.6678629517555237,11,True
+17330,42523712,76561198250544676,"This is an expansion for Crysis, that covers the events happening to the character Psycho (who was absent for most of its story). There's little point playing this standalone game (it doesn't require the original game to run) if you haven't played Crysis, so for the purposes of this review I'm going to assume you're familiar with it.
+
+First off - you don't need to play this to get any more of the plot, as it doesn't really add anything. Seeing as how the aliens are a known quantity it doesn't hold back on revealing them like the main game did, and they don't take long to show up.
+
+Gameplay wise it's very much in the vein of the last half of Crysis - pedal to the metal action, with a fusion of the open ended approach of the original to more defined set pieces. Oddly enough it's miles better than Crysis at doing that, with some great levels that offer a pleasant mix of relatively freeform shooting, but on a somewhat more linear path than the first game. Then there's very linear set pieces, like one set on a train where you're using mounted gun emplacements to shoot various enemies, that are boombastic and exciting - something that couldn't be said about Crysis for the most part IMO.
+
+It's still freer than the likes of Call Of Duty or Battlefield, but if you're hoping for the totally open approach of Crysis then you will be disappointed. Personally I thought Crysis didn't make much of that approach, so this game is a welcome refinement. Your abilities still don't add much to the gameplay, but that deficiency is lessened by the increased tempo of the action. 
+
+Unfortunately, as a consequence of this focus, it's fairly short. There's no fat here, no chewy bits of gristle - just prime steak, albeit no doubt overly expensive prime steak back in the day. I finished this in 6 hours...on the second to last difficulty level. Now, it's less than a tenner in 2018, so that's not bad value. But back then - no sir, I don't like it!!. I think then it would have got a kicking, despite the quality it's just not long enough for a higher price. 
+
+With it being much lower I have no qualms about recommending it. It's fun, and it still feels different from most games, and in truth it's possibly a bit more enjoyable than Crysis 2 or 3. However I haven't played them in a while to really verify that.
+
+Graphically it's still nice, though you can easily see the compromises they've made to ""optimize"" this from Crysis. It's debatable if it runs better, since that's a moot point ten years later (i.e most likely running on more powerful hardware than at the time of release).....I had no issues playing either at a steady framerate, though I did notice a few bugs and glitches with Warhead. Overall it's worth a punt if you're late to the party.
+
+EDIT: One final note - the controls on a pad are much more sensible this time around. Whilst it's still an annoying faff switching weapons, they have at least put things like iron sights / run / crouch on more sensible buttons than before. It was that bad in Crysis that it's worth mentioning here, if that's how you play of course....",0.6672565340995789,11,True
+17330,13294080,76561198006560453,"[h1]TL:DR? See Conclusion[/h1]
+
+[h1]NOTE:[/h1] 
+Also see my [url=http://store.steampowered.com/recommended/recommendgame/17300]Crysis 1 Review[/url] (though it follows my old review format): 
+
+[h1]INTRODUCTION:[/h1]
+Crysis: Warhead was released in 2008 and serves as the stand-alone expansion to the 2007 hit game Crysis. (Famous for being one of the most technologically advanced video game in terms of graphical and visual fidelity back in 2007, but at the same time, infamous for making most, if not all, gaming PCs at that time obsolete.)
+
+The player takes the role of former British SAS Sergeant Michael ""Psycho"" Sykes. He currently serves as a member of Raptor Team (a Spec Ops unit equipped with Nano Suits) who were sent to Lingshan Islands to investigate the presence of North Korean forces. The story takes place after Raptor Team is split up and Psycho is sent on a one-man mission to sabotage various North Korean targets and to capture and recover a mysterious container that the North Koreans are very eager to get their hands on. Discover a new side of the island and join in Psycho's action packed adventure that made some players during the first game wonder what he was doing while Nomad was waging a war as one-man army.
+
+[h1]PROS:[/h1]
++ Better optimized to run with more systems than Crysis 1
++ Beautiful graphics and scenery
++ Good choice of main character but...(see CON #2)
++ Large pseudo-open world map but...(see CON #3)
++ Intense firefights and action packed gameplay
++ Added Multiplayer (Though I personally haven't played it)
++ Nice straight forward story that features another aspect of the Lingshen Island Incident
++ Chicken bullet secret DRM
+
+[h1]CONS:[/h1]
+- Very Short (3-4 hours played at the highest difficulty)
+- Unimpressive voice acting from some of the cast
+- World map is smaller than Crysis 1
+- Not much re-playability
+- Full price tag does not justify the short campaign. (May be the multiplayer holds it up but then again, I don't play multiplayer)
+ 
+[h1]CONCLUSION:[/h1]
+GOOD EXPANSION but I can only RECOMMEND this game if it's bought while on SALE or with the Maximum Edition (Crysis 1 and Warhead) or Crysis Collection (Crysis 1, Warhead and Crysis 2).
+
+--------------------------------------------------------- 
+[h1]Like my Reviews? Follow my Curator's Page:[/h1]
+
+http://store.steampowered.com/curator/6861651-Miyumi%27s-Review-Corner/",0.7168303728103638,46,True
+17330,12535168,76561198046134748,"Crysis Warhead's level design is noticeably different than that of Crysis 1. It still has both open and tight levels (which are alternated between for better pacing), but they are presented differently this time around. The open levels don't quite offer the same freedom of approach and alternate routes as the first game, presenting instead a wide but more straightforward route to your objective. The tighter sections are much better designed and are pretty fun to fight in. Warhead is also more action-oriented, often rushing you into a battle rather than letting you approach a potential encounter from a distance. Fortunately, the game still offers plenty of freedom and options for the player to handle confrontations. Improvements over the first game include the alien enemies, boss battles and vehicle controls. Overall, a short but highly enjoyable campaign.",0.6666789054870605,19,True
+17330,218618735,76561199495104162,"Crysis Warhead: 80/100  ""the influence of Crysis knows no bounds... I underestimated it, honestly""
+
+Years may have passed since Crysis Warhead's release, but is graphical fidelity still feels light-years ahead of its time.",0.6165013313293457,9,True
+17330,219430245,76561198799991899,"Glad I was able to grab this game and the OG crysis for cheap 
+
+Warhead not receiving a remaster or being embedded into the OGs remaster was disappointing as it is in a very poor technical condition 
+
+",0.6127979755401611,8,True
+17330,131884940,76561198207475200,"Even though it was released in 2008, it still looks gorgeous. It is a great expansion of Crysis. The story is more intense while being shorter. If you like the graphically impressive Crysis, you won't want to miss Crysis Warhead.",0.6112454533576965,8,True
+17330,45915674,76561197987364378,"Good game, but I can't recommend purchasing this version. I can't get it to launch anymore because it either can't connect to EA's license server or decides to randomly check for a disk. The problem here is that I already own the disc release and specifically wanted a digital copy for a machine without a dvd drive. I could use a NOCD fix, but that isn't the point. Valve, Crytek and EA have failed utterly to maintain a working digital release here. Buy on that other, DRM free, digital distribution site.",0.6601725816726685,22,False
+17330,144405554,76561198057378996,"Standalone expansion to the original Crysis, follows another member of the team, Psycho as he stays on the island, following a different path. Shorter but overall better, more optimized too. Tedious parts of the first game aren't present here and it's a much more action paced game overall.",0.6086564064025879,7,True
+17330,198329648,76561198038074720,"Can it run Crysis? this was the question back in the day. 
+
+To this day this game remains a timeless gem that will never lose its shine",0.6048704385757446,7,True
+17330,212946540,76561198002039947,"Don't get me wrong - I loved Crysis Warhead back in the day. A short and sweet standalone campaign that runs in parallel to the original Crysis while also attempting to improve on the gameplay.
+It's just a shame that the game is critically unstable and tends to crash all the time nowadays, so I can't recommend it to a modern buyer...",0.6045609712600708,7,False
+17330,122525455,76561198081641450,"At least you can still play this one.
+[spoiler]Just kidding! No you can't! EA are pricks and disabled all Steam keys for a lot of their games, including Crysis. If you absolutely must play this game get it from GOG. There it's DRM free, is the 64-bit version of the game and won't require the installation of Gamespy (which has long since been shut down). Like the original it's kind of a piece of shit but this one has slightly better pacing I'd say. Very meh game.[/spoiler]",0.6523376703262329,15,False
+17330,228742852,76561198120135255,"The negative review isn't for the game itself but for the fact that its left broken and doesn't work on modern systems out of the box.Sadly I couldn't find any reliable community patches to get this working either, and as soon as I'd start to get into it the game would crash.",0.6018615365028381,11,False
+17330,85652437,76561197985235696,"Hands down best Crysis game out from what have played. Even if it's more of an expansion to the first game, it's run time does compete with several games in the end with 4 hours of tight action. It's more linear when compared to Crysis, but did like all of the sections and levels it had. Along with few added QoL improvements added like no need to pick up guns for ammo anymore, few new nice guns, much interesting main character Psycho who is in Nomad's team and already familiar, but open up more in his own title.
+
+Story fits well with original Crysis and shows what Psycho did meanwhile Nomad was dealing with his own issues and shows feats what Psycho had to do based on certain encounter towards the end of original game. Psycho is more built character with emotion and his face is shown unlike Nomad's, so it gives more care towards the character. Along with all improvements put in expansion while not repeating all the time same side quest and like wise like original does.
+
+There's clearer bad fellow and motivation through Psycho's storyline and objective to follow. Levels are more varied and interesting and fit well with what happens during originals timeline.
+
+Warhead was a blast to play even though 1 and 2 were lacking in their respective campaign. It's always better to have full time awesomeness than half dodoo and half good.",0.59713214635849,6,True
+17330,123924083,76561198083736752,"[h1]TLDR[/h1]
+Crysis Warhead is all polished and ""get the job done"" vibe unlike Crysis 1 where there was freedom to mess around and have some fun until the aliens come knocking on your door. The story telling department is lacking but the game offers more intense, short missions overall for a fun intense moment. This was supposed to be Psycho's show but the team failed to deliver the wow factor. 
+
+[h1]Non-TLDR[/h1]
+Crysis Warhead (CW in short) is developed by Crytek and published by Electronic Arts. The PC version was released on Sep 16, 2008. As of this writing, Metacritic (https://www.metacritic.com/game/pc/crysis-warhead) shows:
+[list]
+[*]#20 Best PC Game of 2008
+[*]#20 Most Discussed PC Game of 2008
+[*]#27 Most Shared PC Game of 2008
+[/list]
+
+A sequel to the original crysis in 2007. Does CW live up the expectations? and how does CW hold up in 2022? Hmm thats a tough answer. but i'll make it short, simple and cry-less.
+
+[h1]Controls, Audio, Visuals, Story[/h1]
+Visuals: It still looks good although time time around, its more focused on ""earth"" setting. You dont get to get on board the alien ship like in Crysis 1. Everything has been properly made; weapons, enemies, vehicles.
+
+Audio: explosions, vehicle explosions, weapons, voice acting, music, ambient, everything has been made properly.
+
+Controls: WASD and keyboard. similar to Crysis 1.
+
+Story: in CW, you play as Sergeant Sykes, also known as 'Psycho'. This is Psycho's story from Crysis 1, experience what he was doing on the other side of the island until everyone was onboard the ship carrier in Crysis 1. in other words, it's psycho's show. no nomad. no prophet.
+
+[h1]Mechanics[/h1]
+All of the mechanics from Crysis 1(C1) is being implemented over in CW. There are improvements technically but its subtle to consumer and this was made using the new CryEngine 2.0. It feels a lot more polished than C1. The biggest implementation would be the introduction of multiplayer. 
+
+In my opinion, CW is a very much polished game of C1 but it did not bring any new design or mechanics to the Crysis franchise or revolutionize the shooter genre. sadly.
+
+[h1]My personal thoughts/My Summary[/h1]
+The entire campaign feels shorter, and more ""packed"" in terms of level design as compare to C1 with massive travelling parts of the map with no enemies. So it's shorter, more intense and more focused. The campaign puts you up against more human enemies; the North Koreans as compared to C1 with the aliens. The boss fight however was a major disappointment.
+
+Did i enjoy CW as compared to C1? yes and no. There were many short and intense fights in the game which got my adrenaline pumping - but with that polished aspect of the game, i did not have the silly fun like i did in C1, with the silly AI. The vibe was serious and get to business. 
+
+As for our main character; Psycho, there were tiny moments which we got to know him better..but not enough. i couldn't relate to him but i had to complete the mission because of whats at stake. In c1, as nomad, i was fighting for a cause and getting to know everyone/the team/prophet, the freaking aliens and the events in the story. In CW i felt there was a very huge gap in the story telling department.
+
+The biggest disappointment moment for me in the entire game was how they handled the final boss fight. it was poorly done and the only reward we get is a ""cut scene"" after a major godzilla alien fight. I sincerely was expecting a final showdown 1 on 1 after all the things we went through with that character. tsk tsk tsk. Wasted opportunity. I cried in disbelief. as the credits rolled away...
+
+So, on the scale of 0 - 10, my personal rating for Crysis Warhead is a polished, shiny nano suit, thats empty. it's probably worth a 7/10.
+
+[i]Psycho is seen crying in the corner. being consoled by john rambo and john wick.[/i]",0.5969635248184204,8,True
+17330,44237215,76561198041263577,"Crytek has enhanced more than just the graphics engine. Vehicles are more fun to drive, firefights are more intense and focused, and aliens do more than just float around you. More emphasis on the open-ended environments would have been welcome, but a more exciting (though shorter) campaign, a new multiplayer mode, and a whole bunch of new maps make Crysis Warhead an excellent expansion to one of last year's best shooters.If you didn't play Crysis, Warhead's story may be initially confusing, given that you hit the ground running with little exposition. You play as Sergeant ""Psycho"" Sykes, the brash Brit who was a bit player in the original game. Psycho tends to play by his own rules, always willing to ignore orders and jump into the fray if that's what the situation requires. The story runs parallel to the events of Crysis, though his strident attitude--and a dramatic cutscene near the end of the game--definitely make this Psycho's tale, even if the actual plot remains the same. In any case, you and your US Special Forces team are investigating a tropical island besieged by North Korean invaders. However, your greatest menace comes in the form of aggressive aliens that turn the luxuriant jungles and glowing beaches into a frozen wasteland. You and your teammates, clad in nanosuits that grant you special abilities such as super strength, temporary cloaking, super speed, and additional armor, confront both threats across a variety of large environments.
+
+Graphic 9/10 same year as crysis but improved graphics thumbsup crysis developers !
+Sounds 10/10 realistic sound , characters are just great , Atmosphere to aliens everyhing is great !
+Optimize 10/10 %100 optimization no freezin or fps drop !
+Bugs 1/10 Rarely bugs if you try to do impossible like me >.<
+Equalization 10/10 Gives the battle atmosphere , strong against humans but same power against aliens and nanosuiter !
+Story 10/10 Crysis has many games and every each game connected with each other great storybased game !
+Map 9/10 well detailed map... gives feel like it's open world snowy side of is so like wow !
+Character 10/10 If there is Psycho ! Then it's great ! 
+Mechanics 9/10 Crysis mechanics are just one of the best and they improve it for each game !
+Animation 9/10 Animations same with crysis one improved and some of added , cutsceneensesee are great !
+Texure 10/10 same as crysis , 2008 graphics but they feel like its 2012 game graphics reality is fine !
+Skill 10/10 Nanosuit has special ability's that makes the missions more easier and makes you hype !
+Weapons 9/10 more weapon but still your nanosuit is the weapon itself !
+
+I would recommend you to the buy the entire cyris games to follow storyline and have fun !",0.6430606245994568,10,True
+17330,187893045,76561197979666557,"Crysis Warhead is a standalone expansion for Crysis.[url=https://steamcommunity.com/id/ZechsX18999/recommended/17300/] I highly recommended Crysis,[/url] so having more Crysis is always good.",0.6388376355171204,11,True
+17330,219769254,76561198405082594,"Crysis Warhead, although it doesn't significantly alter the formula, is a solid expansion to 2007's Crysis. With less focus on the aliens, new vehicles, better balancing, and faster-paced combat, Crysis Warhead addresses some of the largest issues present in the base game. However, even though Crysis Warhead does many things right, the story, like the base game, still isn't very good. While the story in Warhead is slightly better than the base game’s in some regards, overall, I still found it to be incredibly uninteresting and generic. Outside of the story, Crysis Warhead is also quite short; it took me around three hours to finish. Yet, even though Crysis Warhead is far from perfect, it's still a solid expansion that fixes many of the issues present in the base game. For those who enjoyed Crysis, I’d recommend trying Crysis Warhead.",0.5886266231536865,5,True
+17330,189242538,76561197995753028,"More Crysis action - sick. 
+
+Honestly don't find it looking too much worse than the remaster, but really lagged in the finale scene. Some of the older games don't benefit from modern multicore GPUs, IDK. 
+
+Played on Linux no prob",0.5862411856651306,6,True
+17330,23194608,76561198054477457,"This game is a midquel in the series, the events takes place at the same time as the first crysis, but you play as psycho who is on the other side of the island after he splits up with nomad following their raid on the North Korean Harbor. 
+
+With that being said this game is exactly as the same quality as the first one with added vehicles, minor tweakings and no multiplayer features but you can consider it like an extra 3 hours of story gameplay and they are good, not very exciting as the first one but if you enjoyed playing the first then you will appreciate this extra content for the gameplay and for the full completion of the story.
+
+Now since It's basically the same game as the first, my review of the first one is applicable here check it out using this --> [url=http://steamcommunity.com/id/44JAX44/recommended/17300/] Crysis Review [/url]
+
+In brief it has a beautiful environment, very good graphics for the time of release, a realistic shooter and very good stealth mechanism I totally recommend it.",0.5861434936523438,9,True
+17330,113135724,76561197984830216,"Crysis Warhead is a bless, a frenetic and intense Crysis standalone expansion.
+
+Straight foward, Crysis Warhead pushes the powerfull Cry Engine even more, the level of polishness and refinement of the graphics reaches the peak, also this is come with a better overall performance. 
+The new lunatic protagonist Physcho was born to this expansion, the gameplay and the Campaign level design was really worked at the finest, also the AI was improved. Superb sound effects and a exclusive new original soundtrack made just for this Crysis expansion.
+
+Very few Standalone expansion reach this level of quality and uniqueness.
+
+9.4/10",0.5856779217720032,6,True
+17330,32417636,76561198025702592,"I would recommend this game, but only on a radical sale.
+
+It was graphically spectactular for its day (much like Crysis) and tells of Psycho's perspective during Crysis and the war he underwent. However, this game really is just an expansion of the original game, and therefore should not be priced above the approximate 5 or 6 hours it would take to complete it (about half of the original).
+
+A positive additional note is that the game is better optimized for use on Windows 10. I experienced no crashes or issues. I followed a Steam Guide on playing Crysis Warhead on a 64 bit computer, and it worked fine.",0.635202944278717,10,True
+17330,33669327,76561198295816552,"Finished in 3.5 hours. That was pretty short. Doesn't deserve the full of price, worth it to buy when it is on sale. Story is good, enjoyed it a lot. Just there is too many robot thing and that sucks. Sometimes fps drops immediately. Last mission made me mad but that's all. Crysis games are great. I totally recommend.",0.6840823888778687,23,True
+17330,154647224,76561197968536252,"Crysis Warhead is standalone expansion to the original game.  You play as Psycho, another member of the team, following a parallel story to Nomad, but on the other side of the island.
+
+It's not a long game, but the story is gripping and the action is good.  All the great elements of the original game are here, as you use the capabilities of the Nanosuit to battle North Korean soldiers and aliens.
+
+As well as the single-player campaign, you also get the multiplayer Crysis Wars.",0.5830650329589844,6,True
+17330,213036709,76561197967645075,"Replayed this for the first time since it came out in 2008.
+The story is still corny as hell, but the gunplay actually feels better than in Crysis.
+
+Keep in mind you’ll likely run into issues getting this to run on modern hardware without some troubleshooting. But if you get it working — and play it alongside the original Crysis — it’s definitely worth a playthrough, if only to experience this little time capsule.",0.5825656652450562,6,True
+17330,200714783,76561197983968524,"An improved version of the first Crysis — less buggy and more engaging in terms of gameplay. However, boss fights and cutscenes are still complete garbage. If you take the main story out, nothing really changes: cardboard cutouts in bad cutscenes discuss their uninteresting affairs with other cardboard cutouts. Played it, ""put it on the shelf,"" and forgot about it — which is a shame, really.",0.5817625522613525,4,True
+17330,122087897,76561197998528386,"A fun yet rather shallow collection of set pieces and additional Crysis levels. Crysis Warhead delivers more of the same, polishing some areas whilst leaving previous flaws present.
+
+The most immediate strength of Crysis Warhead is the gunplay. Whilst the game is a recognized technical marvel in terms of its visuals, the complexity continues into the shooting mechanics which feature bullet physics, wall penetration, gun-sway, damage location multipliers, and satisfying recoil. Guns hit hard, and can wipe out enemies in only a few bullets, but skill and precision are required to handle these to their full effectiveness. As you progress through the game your shot timing, recoil management, movement and on-field tactics all improve leading to you genuinely becoming a better player.
+
+One area that surprised me was just how fun vehicles were to fight against. You're equipped with mines, claymores, C4 and missile launchers to destroy APCs, tanks and helicopters. However, my favourite moment was when I (accidentally) shot a small fuel canister on humvee, leading to its turret operator to be set ablaze and the driver to dismount the vehicle in a panic. The combat is addictive, skill-based and realistic.
+
+On the other hand, Crysis Warhead’s story is a painfully generic and dull military spectacle led by your typical “bad-ass” British SAS soldier. At its worst, the game’s story borderlines on racist Western propaganda. I’m not one to draw a long list of contrived political interpretations from videogames, but when your main villain is a Korean called “General Lee” it gives you an idea of where its heading. The most egregious moment has to be when your character Psycho grabs a Korean, who blurts out a sentence in their native language, to which Pyscho responds “I’m British you bastard” in a thick East London accent. A death of a teammate falls completely flat considering we’re barely introduced to him, and Psycho’s reaction where he executes yet another Korean by drowning him lacks any sort of emotional vulnerability to create a powerful moment of loss and anger. 
+
+Crysis Warhead give a better account of itself elsewhere. The visuals are even better than the original, and the excellent mouse optimisation means that you retain tight and responsive controls even when your frame rate inevitably dips. This makes performance drops feel much, much less impactful on gameplay and allows you to turn more of the settings up. The physics are also superb, with explosions propelling objects and dismantling structures with satisfying realism and weight. Firing an anti-tank missile at a decrepit beach hut and watching it cave in on itself, occupants inside, is fantastic without feeling comically exaggerated either.
+
+Level design is strong too. Crysis Warhead works best when it’s either completely linear, or directly offers you multiple approaches. For example: battling through the inside of a frozen aircraft carrier is a spectacle of lighting, sparks and gunfire; whilst being tasked to infiltrate a wide-open military base gives you complete freedom to slip in the back or drive in guns blazing. Some areas offer an illusion of freedom, which is less convincing as it punishes the players attempts at creativity. For example, a hovercraft mission initially presents a wide-open map to drive around on but fallen trees and steep terrain actually force you on a very linear path. Crysis Warhead is best when it’s direct in its intentions. 
+
+Crysis Warhead is also really short. Like, really short. I completed the game in 5 hours whilst on the harder difficulties. If I was on medium, I could easily imagine myself completing it in under 3 hours. For a cheap expansion pack that’s fine, but it does end rather abruptly, even teasing a final getaway which never comes to fruition. Overall, Crysis Warhead will provide fans of the series some extra entertainment, but is essentially a bonus mission pack that would I think should be bundled with Crysis 1 nowadays.",0.5801500678062439,4,True
+17330,13099893,76561198059679005,"4-5h story length, basically exactly same weapons and enemies as the original. Incredibly good graphics, physics for a 6y old game, even better then some of the latest games. Large open areas with many different routes and very beautiful enviroment, like the original. Gameplay and story are decent too. Game gets a 4/5 from me, for its time. If you can get it for 5-10 bucks, do.",0.6298912763595581,14,True
+17330,42678783,76561197970314107,"For anyone seeking more of the Crysis brand of open-ended military shooting, Crysis Warhead offers an interesting proposition. As much as I enjoyed the original game, the long stretches of hiking and occasionally frustrating battles made it hard to stick with at times. Warhead takes the core design in a slightly different direction, less focused on open maps and more focused on constant action. The result is something I found a lot more fun, if not as polished, than the game it’s ostensibly an expansion of, which is a rare feat in the realm of expansions.
+
+Crysis Warhead follows the exploits of Nomad’s nanosuited squadmate Psycho as he fights through another side of the war. Falling between the assault on the harbor and the final confrontation in the original game, Warhead has you following a container loaded with a mysterious specimen that everyone is itching to get their hands on. You’ll butt heads with the North Korean forces under the fabulous General Lee as well as the alien forces (do they have heads?) spilling out of the island’s guts. The adventure will take you through valleys and mines and strongholds, as well as some ham-fisted backstory between Psycho and an old pilot acquaintance of his.
+
+I appreciated the mounting tension and periodic reveals of the original Crysis, and in particular the focus on the mystery. Warhead tries to shoehorn in a bit too much drama, including one of those dumb scenes where the dude who just killed 800 people feels sick over offing one particular guy, and a cutscene battle between Psycho and his new nemesis that just comes off as awkward. It’s a good time to mention that the production values here are not up to par with those in the base game, with animations being rougher and cutscenes lacking that key cinematic quality. The game itself looks and runs as good as ever, but really the entire story side is pretty lacking.
+
+Fortunately, the story isn’t at all the focus here. Crysis Warhead is built around action, near-constant battles against the forces between you and the container. Where Crysis let you sneak around hotspots or choose which objective to pursue, Warhead all but locks you into firefight after firefight. It feels much more linear but at the same time more structured for satisfying combat, like a Call of Duty game that’s not all manicured hallways. Your opponents are constantly changing too, pitting you against soldiers in one level and aliens the next, and then mixing the two for most of the back half of the game. Some of the impressive vistas are lost but you’ll be so busy running and gunning, you won’t have time to notice.
+
+The weapons and enemies are all plenty familiar, though there are some neat additions in ammo types and smaller arms. The seven levels all lift pretty liberally from the base game as well (and I wish they had left the mine segment out) but there are some real stand-outs like a hovercraft chase across a frozen coast and a train defense mission. It’s not a long game, clocking in between three and four hours to pound through, but it feels like it crams almost all the action of the original into it. And ultimately that’s what I like so much about it, it takes the best parts of Crysis and cobbles them together into a new little kitbashed title. It’s very conspicuously an expansion, with all the production limitations that entails, but it’s one that comes from very good stock.
+
+
+
+Did you enjoy this review? I certainly hope so, and I certainly hope you'll check out more of them at https://goldplatedgames.com/ or on my [url=http://store.steampowered.com/curator/11322459/]curation page[/url]!",0.6784457564353943,20,True
+17330,189284086,76561198882332675,"""Crysis Warhead"" might not be as cool as the original trilogy, but it's a great follow-up to Psycho's story. I really don't know why Crytek didn't remaster this one alongside the trilogy... but graphics and gameplay still hold up pretty well!",0.5778824090957642,7,True
+17330,122019305,76561198429074257,"Many wondered where one of the members of the Predator squad had gone, while the Nomad wandered around the alien spaceship. And this add-on is ready to give an answer to this!  
+
+Pros:  
+\+ Localization into third-party languages  
+\+ Destructible objects  
+\+ Crowds of opponents  
+\+ Plot revealing the adventures of Psycho  
+\+ The story of the appearance of the Scout on the deck of the ""Constitution""  
+\+ Cinematic chases and fights  
+\+ New weapons  
+\+ New modes of transport  
+\+ New effect of freezing flora and fauna  
+\+ BFG9000  
+\+ Two games for one price  
+
+Minuses:  
+\- Bugs  
+\- Third person cut scenes  
+\- Linear levels  
+\- When fighting bosses, all the attention of opponents is on the GG, and not the surrounding characters  
+\- The absence of the Korean track of General Lee, on the bridge - in the Russian version of the game (it is present in the English version)  
+\- Bugs in the main story timeline  
+\- Pretentious but stupid cut scenes  
+
+
+Total:  
+An addition that has grown into a full-fledged game. Crytek listened to a lot of the feedback on the original game and made the game linear. Now the player did not travel through the jungle - but moved strictly forward from point ""A"", to point ""B"" - to complete the task. But the linearity of the level - was filled with battles with opponents. Now to sit in the bushes - it just won't work. And the player will have to get involved in battles that have become much more colorful and energetic compared to the original.  
+In addition to the usual battles with aliens and PRC soldiers, chase missions on a hovercraft were added to the game, as well as an escort mission on an armored personnel carrier.  
+The addition is quite short and does not have time to get bored.  
+Like the original, the game has a number of bugs, but they are minor.  
+I note that when buying warhead, you get a copy of crysis wars - a separate network game.  
+The game is recommended for passing if you liked the original part of crysis",0.5778785943984985,5,True
+17330,226782086,76561198003682769,"In case you haven't played, you aren't missing anything if you want more story/lore. But if you enjoyed Crysis 1 for its gameplay and want more, then definitely check it out. 
+
+I mistakenly thought that Crysis Warhead is a sequel to the first Crysis, turns out it isn't. It's not a prequel either as the timeline of the events is parallel with the first game. To sum up the story - you basically play as Psycho after the Raptor team was separated. If you played the original you'll see Psycho at the end who brags about bringing an alien to the ship. What happens in Warhead is that it shows the process of tracking and eventually capturing it. The whole campaign is basically you trying to prevent the Koreans from taking the alien with them. The ending is pretty cool but I would prefer if there was a boss fight against Lee. I mean that guy is the main reason we went through all that trouble. Instead we see Psycho give him a proper ass whooping in the ending cutscene.
+
+
+The gameplay is pretty much the same. Though the nanosuit's hud says "" Sykes mod "" there is nothing special about it, it functions the same as Nomad's nanosuit. There are however a couple of new weapons and vehicles to play with. Dual wielding submachine guns is pretty cool, not a huge fan of the grenade launcher though. I like how they kept the level design non-linear, meaning you can take different paths. You can in fact miss a lot of areas if you just choose the straightforward path. But I found out that playing on the highest difficulty kinda forced me to explore the map a little more, either to find cover or ammunition and I was surprised that I never saw those areas in my first playthrough. There are also some collectibles that unlock a funny ending.
+
+The graphics look great. You may notice a couple of outdated textures on some terrain, but the overall look still holds up. To my surprise it also looks and runs great on the Steam Deck too. Worked flawlessly without tinkering. Played it on "" Gamer "" ( or High ) settings.",0.5773295164108276,4,True
+17330,19335276,76561198081979873,"With the story set parallel to the plot of its predecessor Crysis, Crysis Warhead events occur on the other side of the island, Only this time we play as Michael ""Psycho"" Sykes, one of the elite members of the Nanosuit Program. While this game isnt really a main part of the Crysis Trilogy but more like an extension of original Crysis which explains how [spoiler]Psycho got his hands on the indestructible Ceph Scout which can be seen on the final mission 'Reckoning' of Crysis[/spoiler]. Its a must play for all those who want to play on the good ol' Cryengine 2 World but much more improved and optimised version of Crysis.
+
+The campaign is very short as the devs put a lot of effort in making the Multiplayer component like more maps. I used to play a lot of Crysis Wars back in the day, it was a great game but its all a waste as EA had to shutdown its servers on most of the old games (including Crysis). There is a mod though, where we can play the Multiplayer but the community isnt much active these days. Its a Sad Reality. Not worth the full price for what it offers but grab it on sale like for 75% off.
+
+[h1]7/10[/h1]",0.6269369721412659,24,True
+17330,178144799,76561197974471615,"2 minute TLDR:
+
+Warhead is a story spin-off focusing on Sykes instead of Nomad, so you are following along with the main Crysis story. Best to play through the vanilla campaign first to get the most out of the story elements dropped here. A couple of new guns too from memory, basically more of the same - worth going through if you haven't tried it before.",0.5767923593521118,7,True
+17330,191611046,76561198049649858,Great game its too bad they never remastered it or added it to the remaster of the original,0.5757109522819519,8,True
+17330,176205867,76561198158955498,"Before DLC plague our games, this is how an expansion was meant to be. As always Crysis Warhead was epic, brutal and interesting.",0.6751987934112549,20,True
+17330,7361732,76561198044016485,"Amazing game , Beautiful graphics and a fucking good story.
+When you get to the final cut scene , it'll leave you wanting more.",0.675026535987854,34,True
+17330,205522643,76561198028241902,The game is still good in 2025. I like the combat and story. Long time ago I was using 9600GT to play this one. Now i am using RTX4070.,0.5750241875648499,7,True
+17330,204491708,76561197974497006,"An incredible sci-fi shooter, that strongly deserves a remaster like the 3 regular Crysis games. 
+
+The whole game is great, but the last map....wow!",0.5726441144943237,9,True
+17330,110590622,76561198172417955,"[h1] ❤ Audience ❤ [/h1]
+☐ Beginner
+☐ Casual Gamer
+☑ Normal Gamer
+☐ Expert
+
+[h1] ☼ Graphics ☼ [/h1]
+☐ Bad
+☐ Alright
+☐ Good 
+☑ Beautiful
+☐ Fantastic 
+
+[h1] ♬ Music ♬ [/h1]
+☐ Bad
+☐ Alright
+☑ Good 
+☐ Beautiful
+☐ Fantastic
+
+[h1] ☠ Difficulty ☠ [/h1]
+☐ Easy 
+☑ Average 
+☐ Easy to learn / Hard to master 
+☐ Hard
+☐ Unfair
+
+[h1] § Bugs § [/h1]
+☐ Bugs destroy the game
+☐ Lots of bugs
+☑ Few Bugs
+☐ You can use them for speedrun
+☐ Nothing encountered
+
+[h1] ☯ Story ☯ [/h1]
+☐ There is none
+☐ Bad 
+☐ Alright 
+☑ Good 
+☐ Fantastic 
+
+[h1] ⚔ Gameplay ⚔ [/h1]
+☑ Frustrating
+☐ Sleepy
+☐ Boring
+☑ Fun 
+☐ Challenging
+
+[h1] ۞ Game time / Length ۞ [/h1]
+☐ Really short (0 - 3 hours)
+☑ Short (4 - 7 hours) 
+☐ Few hours (8 - 20 hours)
+☐ Long (21-50 hours) 
+☐ Very Long (51-100 hours) 
+☐ Extremely Long (101+ hours) 
+
+[h1] $ Price / Quality $ [/h1]
+☐ Full price 
+☑ Wait for Sale  
+☐ Don't buy
+☐ Refund it if you can",0.620072066783905,22,True
+17330,71265525,76561198059754051,"For a game from 2008 that takes just over 4 hours to complete, 20 EUR seems pretty steep, but if you grab it on sale or together with the original Crysis, then it's really worth it. It's a standalone expansion to Crysis that tells what happened on the island from Psycho's perspective. So while Nomad (the main Crysis protagonist) was doing his thing, his teammate Psycho had his hands full fighting both human and extraterrestrial enemies. And in no way was the experience less amazing than in the original.
+
+Warhead utilizes the same awesome nanosuit mechanics introduced in Crysis, so if you've played that you'll feel right at home. The expansion is action packed but I felt like it allowed for more stealthy gameplay - I'm not sure if it's the level design, but I found myself being able to use the cloak more often. One other huge improvement I noticed was that the character picks up ammo automatically off of dead bodies or weapon stashes whereas in Crysis you had to point towards an ammo box and press F. While it may be more realistic, during combat it sure wasn't convenient. So kudos to Warhead on this. Other than that, the UI color has changed, and that's pretty much all the differences I can think of. If you played Crysis and thought ""boy, I wish there was more"", well, Crysis: Warhead is exactly that.",0.6181147694587708,7,True
+17330,148312420,76561197966191450,"I love Crysis Warhead. I know the developers did not, but I know I'm not alone in enjoying this game. I wish they would remaster this one too, and complete the set, as the story is excellent and it totally ties in with the end of the 1st game section, when you start the tank campaign. If they don't do it, can someone help make this game playable again? It crashes too often to be enjoyable.",0.5654345750808716,5,True
+17330,115191630,76561198067783376,"Crysis Warhead is the forgotten title in the Crysis series, it has never gotten an update or a re-release like the other three titles since it launched back in 2008. Because of this it does not have the streamlining benefits that the CryEngine 3 upgraded Crysis remastered got that upgrades the graphical engine and simplifies the suit powers. Using suit powers can be a tad clunky on the fly just due to all of them being very situational on a wheel, strength, speed, cloak, and armor are all options in comparison to 2 and 3 where there was only armor and strength with speed and strength being passive. Despite this the game looks absolutely incredible for at title that is almost 14 years old and could pass for a modern title outside of the facial animations. The gunplay holds up pretty well outside of a lack of weapon options and the firearms lacking weight/punch in use. 
+
+The story of Warhead happens during the same time as the first game but is mostly inconsequential to the plot of it and the other two subsequent titles. Some of the set pieces are incredible though such as the frozen ocean waves and the various jungle scenery. 
+
+The game crashed on my 4 times in about 3 hours of play and it has a bizarre issue where the screen will black out for half a second when certain units are firing on you. 
+
+This is an extremely short experience being able to be beaten in less than 4 hours depending on your skill level, I would really only recommend it if it was on sale and you really wanted to play more of the original title or have access to Crysis Wars (multiplayer mode), I did not try it and do not now if even works after a decade and a half since launch.",0.5652173757553101,3,True
+17330,142226216,76561198009073659,"the fact that this game [i]constantly[/i] exits the first person, to show Psycho swanning about in overacted cutscenes, totally breaks it for me. Yeah, the gameplay is still good, but I can't get into it as much as the OG.
+Crysis 1 didn't break first person until the ending cutscene - and that sh[i][/i]it was important to me.
+
+I also remember this game having far more annoying vehicle-survival & railshooter sections than the OG, which left a really bad taste. 
+Crysis 1 gets so much sh[i][/i]it for the VTOL section (that I never had any trouble with) - but the MRAP escort mission(s) and train ride rail shooter segment in this get a free pass? - fu[i][/i]ck that!
+No amount of dual wield MP7's makes up for that.",0.5643452405929565,5,False
+17330,36800517,76561198077392896,"+Story
++Originality
++Fookin badass powersuit
++Gun upgrades
++PAX
++Gameplay
++UI
+
+-Length of story
+-Can it run Crysis?
+[9/10] an old classic.",0.7141938209533691,26,True
+17330,154954588,76561199249869521,"Fun playable FPS game for steamdeck, huge fan of the Crysis series, love killing commies.
+",0.6122056245803833,16,True
+17330,75342658,76561197963216119,"=== Story / Lore ===
+(This point is not meaningful in multiplayer versus only games)
+
+🔲 Masterpiece, had to cry
+🔲 Great experience
+☑️ Not a legend but okay
+🔲 Unconvincing
+🔲 Not available at all
+
+=== Music / Soundtrack ===
+(Based on music as well as ingame sounds)
+
+🔲 Absolutely amazing
+☑️ Beautiful
+🔲 It's okay
+🔲 At least there
+🔲 I have not heard anything
+
+=== Graphics ===
+(Based on the year of release)
+
+☑️ Breathtaking
+🔲 Very nice
+🔲 Okay but nothing special
+🔲 Well...
+🔲 Good old DOS days
+
+=== Difficulty ===
+(Based on high difficulty level if exists)
+
+🔲 Feels like Dark Souls
+🔲 Hard
+☑️ Normal
+🔲 Easy
+🔲 Deaths have to be provoked
+
+=== Requirements ===
+(Based on I9 9900 / 64GB Ram / Radeon 5700)
+
+🔲 Texas Instruments 84 Plus
+🔲 Runs on my old notebook
+🔲 Budget hardware can do it
+🔲 Good gaming PC required
+☑️ Didn't even run smoothly on Dev. Computer
+
+=== Microtransactions / DLC Policy  ===
+(Based on the review publication date)
+
+☑️ No microtransactions, thank you!
+🔲 There, but fair
+🔲 Could be better
+🔲 It feels wrong
+🔲 Like a mobile game
+
+=== Bugs / Errors  ===
+(Based on the game version at the time of review)
+
+🔲 Didnt notice anything
+☑️ At most blemishes
+🔲 Minor bugs
+🔲 Bugs and Crashes everywhere
+🔲 DayZ
+
+=== Fun factor ===
+(Based on my personal opinion)
+
+🔲 It changed my life
+☑️ I really enjoyed it
+🔲 Had its moments
+🔲 Rather boring
+🔲 Broke off after a while
+
+=== Replayability  ===
+(Based on story branches, decisions and multiplayer)
+
+☑️ And again, and again... oh I have to work
+🔲 Definitely play several times
+🔲 Maybe after a few months
+🔲 One time is enough for me
+🔲 404 - replayability not found
+
+=== Would I recommend it? ===
+(Based on my ingame experience)
+
+🔲 Absolutely mandatory purchase
+☑️ Highly recommended
+🔲 Good if you like games like that
+🔲 Maybe on sale
+🔲 No no never, no no never!",0.6121770739555359,12,True
+17330,96299675,76561197996663405,"Crysis 1 + Crysis Warhead were the best parts of the series. 
+
+Please give us Crysis 4!",0.6607153415679932,12,True
+17330,71628004,76561198044428029,"Its more action orientated than the first game and despite being very short its still very fun to play, adding some variety to the original storyline.",0.7104939818382263,29,True
+17330,109415645,76561197993455369,"This part of Crysis franchise is often being forgotten today but it's actually very wrong. Well, for me the franchise had ended with Crysis Warhead simply because Crysis 2 was already a soft-reboot, rather than a direct sequel and retconed most of setting elements and lore. I still played Crysis 2 but disliked it and never played Crysis 3 as a result. So, going back to Warhead, I must say that it's a very good game. With its story taking place in parallel with the events of the original game, Crysis Warhead is much shorter, however, it doubles all the good things about the original game, like features of nano suit and big open levels. And due to the fact that it is not that long as the first games and has much more intense action-paced levels, it doesn't have any boring moments like in the original. Also this time the protagonist is Michael ""Psycho"" Sykes, who is charismatic and can be called more interesting character than Jake ""Nomad"" Dunn from the original. So, the game is short and my review is short as well. I can recommend Crysis Warhead as good old shooter from 2000s era, which does not have any unrelated things and, of course, any donate elements, and is yet able to entertain.",0.5601660013198853,6,True
+17330,208003422,76561198023510897,"Crysis Warhead Review
+
+I absolutely loved this game. For its time (around 2008, I think), it looked incredible. There isn’t much bullet drop or realistic physics, but that never bothered me. I played on Delta difficulty and had an amazing time—it felt like I was superpowered, but not invincible.
+
+The stealth gameplay really stood out. Honestly, sneaking in this game felt better than in many modern titles. I had so much fun trying to stealth through missions, even though sometimes it felt like the game just knew where I was—like those older games that can magically detect you even when you’re invisible. In other areas, though, it was more balanced: enemies would only react if you got too close while cloaked, which felt a lot more realistic.
+
+One thing that did bug me was how vehicles reacted when you were invisible. They’d sometimes stop or move awkwardly back and forth, almost like they saw you but didn’t want to go too far away.
+
+The weapons were a blast—literally. The customization options were great, and you could approach combat however you wanted: full-on action or sneaky infiltration. Stealth was challenging (as it should be), but that made it even more rewarding. Driving vehicles and using different turrets depending on what you were in was also a ton of fun, though I did feel that enemy vehicles were a bit overpowered. Grenades didn’t do much against armored units—only rockets or mines worked, and mines were tricky to use without breaking stealth.
+
+There was one cutscene that was supposed to be serious, but I couldn’t take it that way. My character was supposed to be mourning, but he kept making this weird grunting noise that honestly sounded like he was… taking a dump. It totally killed the mood and made me laugh instead of feeling emotional. Maybe it was a glitch, but it definitely broke the immersion for that scene.
+
+The nanosuit powers were as awesome as ever. I loved the freedom to approach missions in multiple ways, and those overwhelming battles made it clear that while you’re powerful, you’re not unstoppable—you can still bleed, and you can die.
+
+Fighting the Koreans in their power suits was tough since you could only really take them out with headshots. The helicopters were a huge pain too, but they made firefights feel intense and high-stakes. The aliens were even harder to hit and did heavy damage, but fighting them was still a blast.
+
+The story was great overall, even though I noticed some issues—like facial animations not matching what characters were saying or doing. Everyone kind of had that “resting angry face,” and there were a few random audio glitches, like weird sniffing sounds. Still, the gameplay and story together made for an amazing experience.
+
+The ending was fantastic—the epic showdown between your character and the General was perfect. I just wish it wasn’t only a cutscene; some close-quarters combat would’ve made it even better. Still, the villain was awesome—great design, believable motivations, and a strong presence. My only gripe is that Psycho had so many chances to kill him earlier but didn’t until the very end.
+
+Even with its flaws, Crysis Warhead is an incredible game. The gameplay, story, and atmosphere all come together to make something unforgettable. I loved every minute of it.",0.557990312576294,5,True
+17330,138819497,76561198329211469,"This is a great game dragged down by EA's piss poor maintenance of the first Crysis game on Steam. I highly recommend getting the GOG version, but even then you might need to do some patchwork thanks to some very irritating bugs this game may have.
+
+Great going, EA. You've really outdone yourselves, as always.
+",0.5578039288520813,5,False
+17330,107460939,76561198151750113,"Yup, 2008 game that aged well. Especially with its graphics. Makes me miss the ""campaign"" types of straightforward games that lead you through various-feeling levels (forest, port, mines, frozen level, even the TRAIN level etc.)",0.5576812624931335,6,True
+17330,101589325,76561198104392527,"[i]Crysis Warhead[/i] is an extension of the original game, following a side character for a parallel plot. Altogether, there's not a lot to say other than ""play this if you enjoyed the original.""
+
+The game is a bit shorter as it wasn't a full sequel, but they did make some upgrades in the controls, and it still has some great action pieces, such as the fights in the snowy area and the finale. It also made me like the character ""Psycho"" better as he was a bit iffy in the original game.
+
+It kept the original [i]Crysis[/i] mission structure so go ahead and give it a try.",0.5565686821937561,4,True
+17330,45432709,76561197986324837,"Not loading on windows 7 64bit?
+
+THE FIX: Go to steam apps\crysis warhead\bin64\ *load the Crysis64.exe",0.6548788547515869,11,True
+17330,54980307,76561198139300640,"It's a good game, and a good exesntion of the series and a little, little underrated. But, it's a good game, and I really like it. It looks nice, plays nice, good controls, and very nice graphics on PC with a steady framerate. Play it anywhere from 60FPS or 144FPS laptop and gaming monitor, to get the full-detail. It's awesome! Even on a 4K Res' it looks stunning. And amazing! So I would recommend this game 100 %. But it now! You won't regret it. 
+
+Overall Score: 85 %",0.6018556952476501,6,True
+17330,29554640,76561198014096843,"what i like about warhead and crysis 1, is that they was made for pc gaming, to show off what pc could do over consoles. now all we get is pretty'd up console ports for pc games",0.6511189341545105,15,True
+17330,15825279,76561197965049785,"A side-story to Crysis 1 that takes place at the same time as the main game. You play as a different robot-suit man, specifically the British one who I don't think ever actually says wanker at all. Shame.
+
+This is smaller than the main game, but there are a few improvements to the UI, new weapons, and other fun things that were not found in the first game. To be honest, this compared to Crysis 1 feels a hell of alot like comparing Opposing Force to the original Half-Life: more of the same, but different and in some ways a little better. :D
+
+Fuck EA.",0.6005263328552246,6,True
+17330,9246205,76561198072573818,"This review is for the game ''Crysis Warhead'',a first-person shooter video game,developed by the video game company Crytek(Budapest).
+The game was published by Electronic Arts and released in Semptember 16 on 2008(in North America) for Microsoft Windows.The game uses the CryEngine 2.The game is only available for Microsoft Windows.
+
+Plot
+You are Michael ""Psycho"" Sykes,a former British SAS Sergeant and member of the Raptor Team,a squad of mostly American soldiers who are invested suits with advanced technology.The story takes place on the other side of the island in which the original game <<Crysis>> is set and after you split up with Nomad(the main protagonist of the first installment) you go hunting the Koreans.Psycho has to engage through numerous of tasks and orders throughout the game in order to discover a container which envelops an alien war machine.You will have to secure that container(in some point you lose it)and kill a big bad alien (a Red Hunter) and you proceed to the exctraction.A last attempt (cinematic) is being made by Colonel Lee to accumulate the container,a fight scene follows but he fails and gets thrown off the ship leaving him to the mercy of a massive alien warship.O'Neill takes off with the container, as Psycho kicks back.
+
+Character:As it has been stated you take control of a former British SAS Sergeant and member of the Raptor Team,Michael ""Psycho"" Sykes whom only from his code name (Psycho) you can understand that he is not the most conventional obedient military soldier.Even though he acts all tough and macho he does not take the life of a Korean(stating he was unarmed) and that wouldn't be fair.But as the story progress he watches his crew mate die helplessly,he snaps and kills by drowning a defenseless Korean soldier.After that he becoms a killing machine,always sticking to the mission and after he destroys the alien forces he successfully retrieves the container and leaves alongside O'neil having completed his mission.
+
+Gameplay:Updated and refined gameplay of the original game.Newer graphics engine(CryEngine 2).Includes all the standart weapons from the original game with the addition of futuristic weapon builds,the introduction of Mini-SMGs which you can dual wield,EMP grenades and the PAX weapon which will be used on the destruction of the exoskeleton of the Red Hunter(last boss).
+
+
+Multiplayer:The game comes with <<Crysis Wars>> ,a multiplayer mode.Even if this game is 6 years old you'll be surprise to see how many people still play crysis 1.
+
+Recap:Like it's predecessor this game is a must buy.Breath-taking graphics,simple yet enjoyable story,challenging gameplay and exceptional first person shooter elements weave the greatness of this game.Only thing i dislike is that it's really smal.Took me only 6 hours to finish the whole game.I guess if you go around the map and kill everything it could last about 8-10 hours.Maybe more.
+
+Thank you Crytek Developers for this wonderful game.
+
+P.S If you are into the game's story you will like this game even more(like that's possible).Throughout the game you can listen audio clips from four years ago which explain a lot about the original game <<Crysis>> even about the successor <<Crysis 2>>.I am not going to say anything more.Buy the game,play it thoroughly and find out yourself :D",0.5989590883255005,41,True
+17330,222554547,76561197987167966,"It's like Crysis but actually good.
+
+Unlike the first one - every single level here has some interesting hook, and the game gets going and never stops. All they had to do was lose some fat and adopt an all-killer-no-filler approach without changing the fundamentals - and the game becomes infinitely more fun to play, who would've thought.",0.5482184886932373,4,True
+17330,49390386,76561198050442170,"This is an “expansion” not “DLC”. Back in the day developers actually expanded on the original game with quality and lengthy content as opposed to a couple hours of new content. This is a full fledged 8 hour game that’s much more fast paced than the original Crysis, new weapons, new vehicles, new environments. IMO it’s one of the best FPS games ever made... but then again I’m just a Crysis fanboy 
+;-) buy it if you have a high end PC. The game is very taxing.",0.6458566784858704,10,True
+17330,165889255,76561197991857184,"(Playtime not representative of real hours; played on several other platforms.) 
+
+A game I will forever consider great. I grew up with Crysis and this game is a welcome addition to the series. 
+Really, this game is just Psycho's perspective of Crysis 1 after ""Assault"". 
+
+I write this after what is probably not going to be my last playthrough, and hey - it only crashed once! 
+Also, ""vsync"" in options is not really vsync - it's just a 60fps cap (Unless steam fps counter is lying to me)
+
+Do note that this is NOT a remaster. Crysis Warhead was not remastered, and honestly, it's probably for the better. 
+Dialog is kinda awkward because it was written originally in Hungarian afaik. And, might I add, the Hungarian version of the game is absolutely BRILLIANT in terms of dialog. Unfortunately, they didn't capture the same magic in English, in that regard. There also appears to be some mistranslations whenever there was a Hungarian double negative. If you can understand Hungarian and can get your hands on a Hungarian version of the game, I highly recommend going for it. 
+
+Regardless, highly recommend; must buy.",0.5441684722900391,4,True
+17330,18592149,76561198088790743,"Crysis Warhead is a successful stand alone, which offers a more rhythmical campaign, richer and more dynamic than the original episode. Reverse of the coin: its linearity affects the diversity of approaches, which was one of the highlights of Crysis. So, the experience is somewhat less successful, especially since the surprise is not the same and its short life leaves  the player hungry. However, by offering many improvements and an enhanced multiplayer mode, Warhead remains an indispensable acquisition, especially at the price where it is sold.",0.5937498807907104,8,True
+17330,87180429,76561198120528627,"The game itself is just fine. 
+
+The issue is that the game doesn't run properly. Regardless of what fixes I try (and I tried different suggested fixes for most of two days) I can't get the game to run stable. If I'm lucky I'll see an hour uninterrupted, but more often than not I only get a few minutes between crashes. It doesn't matter if I have the game set to 4K/Max or 1080p/min, it's just a crapshoot. Eventually I had to abandon the game because at a certain point the game just won't run foe more than a few seconds.
+
+So basically it's a good game that doesn't run.",0.5435927510261536,3,False
+17330,179915776,76561198041847294,"[h1]Crysis: Die Hard Edition[/h1]
+Warhead is a standalone expansion for Crysis 1 that follows the events of the first game but this time you play as Psycho (The British Dude, Basically Jason Statham). You run around the island as the aliens begin their attack all over the place with every weapon you could possibly need including the all new Dual SMG's. Guess we finally developed the ability for men to multi-task in this iteration.  
+
+Story is ...passable because I enjoyed the gameplay.
+
+More of an action shooter then the first with a few moments where it makes sense to stealth but its faster paced and quite a bit shorter at only 3-4 hours as compared to Crysis's 8-9 hours.
+
+Enjoyable and obviously... still looks great. Though in this one the shading does seem to be a little flatter and the textures not as crisp. Feels a little rushed out. 
+
+[h1]7.4/10 [/h1]
+[i]- Must Play alongside Crysis 1[/i]",0.54356849193573,3,True
+17330,228510679,76561199332140599,"---{ Graphics }---
+☑ You forget what reality is
+☐ Beautiful
+☐ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{ Gameplay }---
+☐ Very good
+☑ Good
+☐ It's just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ Audio }---
+☐ Eargasm
+☐ Very good
+☑ Good
+☐ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{ Audience }---
+☐ Kids
+☑ Teens
+☑ Adults
+☐ Grandma
+
+---{ PC Requirements }---
+☐ Check if you can run paint
+☐ Potato
+☐ Decent
+☐ Fast
+☐ Rich boi
+☑ Ask NASA if they have a spare computer
+
+---{ Game Size }---
+☐ Floppy Disk
+☑ Old Fashioned
+☐ Workable
+☐ Big
+☐ Will eat 15% of your 1TB hard drive
+☐ You will want an entire hard drive to hold it
+☐ You will need to invest in a black hole to hold all the data
+
+---{ Difficulty }---
+☐ Just press 'W'
+☐ Easy
+☑ Easy to learn / Hard to master
+☐ Significant brain usage
+☐ Difficult
+☐ Dark Souls
+
+---{ Grind }---
+☐ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☑ Isn't necessary to progress
+☐ Average grind level
+☐ Too much grind
+☐ You'll need a second life for grinding
+
+---{ Story }---
+☐ No Story
+☐ Some lore
+☑ Average
+☐ Good
+☐ Lovely
+☐ It'll replace your life
+
+---{ Game Time }---
+☐ Long enough for a cup of coffee
+☑ Short
+☐ Average
+☐ Long
+☐ To infinity and beyond
+
+---{ Price }---
+☐ It's free!
+☐ Worth the price
+☑ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{ Bugs }---
+☐ Never heard of
+☑ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{ ? / 10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☐ 7
+☑ 8
+☐ 9
+☐ 10",0.5432044267654419,8,True
+17330,33213798,76561198011965365,"A superb game! The suit is so damn fun to use. You'll do things like use invisibility to creep up on an unsuspecting Korean patrol. Changing to maximum armour, you ambush them with a well placed grenade and then finish them off. But now the Koreans have heard the noise and seen you, and are closing in to flank you. How's your energy? Can you hide behind cover to flick back to invisibility so you can invisibly creep to a different bit of cover, flanking your enemies as they close in on where they think you're still hiding? Or are they already too close, and you have to switch to speed and make a make a mad, desperate dash to avoid being killed? Or should you switch to strength and jump onto the roof of that building where they can't reach you? Or will someone lob a grenade at you and make the roof collapse? The open levels, suit powers, and weapon customisations give you so many possibilities. The combat is intense, brutal and visceral (best played on delta difficulty). And it's gorgeous. Awesome graphics are used to render intensely beautiful scences. The plot is standard action fare, but it's told with such visual flair and uses such beautifully atmospheric locations that I was still interested in it. The one issue I had is that there's now noticable pop-in, compared to the original crysis. And it's short but cheap. With this level of quality, I wouldn't mind long but expensive :) But it was still a 10/10 experience for me",0.5923173427581787,9,True

@@ -1,0 +1,525 @@
+appid,recommendationid,author_id,review,weighted_vote_score,votes_up,voted_up
+209160,217840127,76561199553150441,"Completed the game in Veteran mode, each mission has a separate vibe. Not everyone's cup of tea. But in 2026, we still owe this game an apology for the undeserved hate it got.",0.8887112140655518,90,True
+209160,198133181,76561198080974580,"This game is possibly not secure. There is a security vulnerability described below.
+
+Opening any CoD made prior to 2015 and connecting to the internet will result in a chance for people to gain access to your pc. 2 security breaches are known:
+CVE-2018-20817
+(SV_SteamAuthClient in various Activision Infinity Ward Call of Duty games before 2015-08-11 is missing a size check when reading authBlob data into a buffer, which allows one to execute code on the remote target machine when sending a steam authentication request. This affects Call of Duty: Modern Warfare 2, Call of Duty: Modern Warfare 3, Call of Duty: Ghosts, Call of Duty: Advanced Warfare, Call of Duty: Black Ops 1, and Call of Duty: Black Ops 2.)
+CVE-2018-10718
+(Stack-based buffer overflow in Activision Infinity Ward Call of Duty Modern Warfare 2 before 2018-04-26 allows remote attackers to execute arbitrary code via crafted packets)
+These are some things they can do even if you just boot up the game and get to the menu:
+Hidden Remote System Access
+System Information
+File Manager
+Hidden Desktop Usage
+Monitor on/off
+Hidden Browser Usage
+Open/close CD
+Hidden Chrome Usage
+Show/Hide taskbar
+Start Up Manager
+Hidden Firefox Usage
+Show/Hide Start Button
+Task Manager
+Hidden Edge Usage
+Show/Hide Explorer
+Remote Shell Usage
+Show/Hide Clock
+TCP Connection
+Show/Hide Tray
+Reverse Proxy
+Show/Hide Mouse
+Registry Editor
+Hidden Explorer
+Enable/Disable TaskMgr
+UAC Exploit
+Enable/Disable Regedit
+Disable WD
+Disable UAC
+Format All Drives
+DDOS attack
+Audio recording
+Webcam recording
+Device information
+Process hollowing
+Credential stealing
+Discord token stealing
+
+I have reviewed every CoD I own that is older than 2015 with these vulnerabilities as harmful and put those 2 CVE's under the description why. This is to warn others about the issues, as I am not a networking or security expert and can't advise on how to mitigate the risk other than to not install the game at all.
+It's my slim hope that by leaving this review, the issue might be noticed by Activision/IW/Sledgehammer and action may be taken.
+
+Update: note that a similar RCE exploit was found in Black Ops III and appears to have been fixed in a 2023 update. I have not found reliable information indicating a fix for this game, however.",0.8744866251945496,153,False
+209160,232546939,76561199601317972,Underrated campaign. Ends on a cliffhanger. Shame we never got a second game.,0.8708691000938416,78,True
+209160,211848361,76561198018609226,"Let’s all give this game another chance. You don’t realize what you have until it’s gone. Stop buying newer CODS that have AI slop in them. Let’s get these servers full again. Vote with your wallet, it’s the only way corporations will listen. Maybe we will even get a COD Ghosts 2. That would be so much fun! Then they can add what they missed in this game to make the next one better. This game needs another chance and please give it another chance 🤝🙏",0.8575639724731445,67,True
+209160,224733512,76561199759115429,"this cod game got the most hate for no reason ghosts , will be forever be my favorite cod.",0.8512658476829529,86,True
+209160,128130152,76561198298563471,"best cod game of all time however due to uncertainty of whether an RCE attacks could completely steal all your computer data and hack you, I can't recommend this game, its unbelievable this game is still on the store with major vulnerabilities along with the other older cod games and nothing seems to be being done about it by steam, the game developers/publishers
+",0.8488445281982422,116,False
+209160,209169819,76561198259311804,"This is just an epitome of an underdog. Extinction was cool, mp was fire, and the story was unforgettable. This game didn't deserve the hate it got but i'm glad I got to enjoy it.",0.8431129455566406,104,True
+209160,220191192,76561199008483797,"Activision silently shut down the Squads and Extinction gamemode servers which are the only reasons you'd buy this game nowadays (apart for the painfully short but good campaign). Multiplayer is dead and it has security issues.
+
+DO NOT BUY THIS!
+
+",0.8430430293083191,81,False
+209160,50724696,76561197975685495,"Pretty standard Call of Duty campaign (took me just under 5 hours to complete). I actually really liked the level/environment design in this game, and feel it's unique even for Call of Duty (destroyed cities, space). The combat and mission design is very much what you would expect; very linear, fast paced, things exploding a lot.
+
+The only reason I say ""No"" to recommending this game is the current $64.99 CDN price tag, I feel like this is asking too much for a 5 hour campaign from 2013/2014.",0.8430493474006653,131,False
+209160,163574231,76561198425281881,"I played this game a decade ago and in 2024 again. Maan, the singleplayer still hits the same. I played roughly 15 cod campaigns and this is the ONE. Idc, what anyone says, to me this is the most slept on, underrated and the deepest campaign in COD HISTORY. If this game gets a sequel I will literally cry.",0.7924715280532837,39,True
+209160,222981260,76561198984411768,This game got so much hate back in the day but it really wasn't that bad of a game. It does have a good story to it and they could've done a sequel with it. I guess will just have to wait and see.,0.7874534726142883,45,True
+209160,223254483,76561198123770139,"Played its campaign after 12 years and it is amazing, wish i had played it sooner. It still looks stunning this day. How they still didn't made the second game? WITH THAT ENDING??",0.7867622971534729,38,True
+209160,176140435,76561198867958726,"[h3][b]One of the under appreciated Call of Duty[/b][/h3]
+[quote][b] Rating: 8.5/10 [/b][/quote]
+Solid opening. Solid ending. This campaign is better than your average COD. 
+
+I think this was the point where they started to introduce infamous sci-fi stuffs like space and under-water shootings (there are few such missions here). Personally, did't like many of the maps and guns were not that fun. But the overall campaign, graphics, and plot saved the day for me. Unfortunately, there is no sequel even after 10 years, although the ending strongly suggest otherwise.
+
+Please note that these Ghosts have nothing to do with the character Ghost in other CODs.
+
+I couldn't test Multiplayer as no one seems to be playing it, but they have a new mode - Extinction, which felt good even on solo. It has some sort of locked story and its gameplay involves alien shooting and defence. Wish there were more players or friends to play with. Zombie lovers might give it a try.
+
+[b]Now release the sequel, greedy bastards.[/b]",0.7849010229110718,33,True
+209160,214386784,76561198973638432,"Does it have bugs? Yes it does
+Is the story very good? Yes it is
+If you ignore some bugs the game is worth it.
+The game deserves a sequel",0.7816954255104065,37,True
+209160,9097102,76561198064761806,"The good:
+Not a bad campaign. Some cool missions throughout.
+
+All the negatives:
+
+-S..t visuals for 2013. No physics, no real time destruction. Just reused textures and animations from the previous games in the series.
+-No F.O.V. slider. Who puts out a f..king fps without one these days? Apparently only these a..holes do. Using one of many f.o.v. changers solved this problem but, now that vac is in place, no more using it under the possibility of being banned for using something the retarded devs should have put in to begin with.
+-Valve anti cheat. Too little, too late. This should have been implemented right from the start as many legit players left the game after nothing was being done about the rampant cheaters.
+
+Infinity Ward and Activision are content with making subpar s..t because it keeps selling. I had the chance to speak with a few of the testers for this game and asked them ""What the f..k happened?"" Their response was, ""We brought up all of the problems that we knew everyone would see and were told by the leads, ""We don't care what others will think about it. We only care that it sells."" 
+
+That alone is why I will never buy another game from this scumbag of a studio and why this game gets a big ""No"" vote.
+
+Save your money. There are games several years older that are technically superior in every way to this game. Call of Duty is dead on the pc.
+",0.8310821652412415,255,False
+209160,158390246,76561199008347572,"A game from my childhood, a actual masterpiece in my eyes.
+There is.. Well, a lot of issues with the games PC version though, I'll be honest.
+
+I loved the game, I really did but I cannot play this game at all without modifying my PC or messing with my CMD prompt.
+My suggestion? Just buy the disk version of the game instead of on steam, the game itself may say you need 7GB to download it.. but it'll direct you to a 38.6GB download for only ONE version of the game, so you'd need around 70GB-80GB to have both the multiplayer and campaign installed.
+
+Overall.. I loved this game as a kid fully, but recently it's too buggy to play.
+Rest well, old friend.",0.8297073841094971,81,False
+209160,213479738,76561198885931403,"12 years later and in my opinion still the best cod. played it as a kid and didn't really fully experience the story so i replayed it as an adult and man, the feelings this game gives me. the optimization is a bit finicky but if you haven't played this cod yet or if you're thinking about replaying it like i did, i highly recommend it.",0.7796711325645447,36,True
+209160,182448623,76561199239490285,"honestly one of my most favourite CoD games ever, the hate is absolutely forced. (not considering online) I think it's a worthy 10/10! (Logan and Hesh make me cry</3)",0.7761614322662354,35,True
+209160,216276799,76561198158967602,"Overhated, underestimated, underrated. It was launched after the best CoD ever made. Campaign still holds up with one of the best gameplay sections and cool atmosphere. Extinction is casual fun and the multiplayer.... well it's kinda dead unfortunately.",0.7666402459144592,42,True
+209160,222856637,76561199825296763,"My favorite Call of Duty. This game has such an awesome atmosphere and the campaign is just so much chaos, Like when Rorke explodes the building with us inside, and we have to jump off the building, or when we watch ODIN activate from space, creating no man's land made this campaign so memorable for me and I will always appreciate this game for what it brought to gaming and all the memories it created.
+10/10 Game",0.7662107944488525,41,True
+209160,199927218,76561199700755513,"I really like this game, especially the campaign so it's sad to see it be so underrated.",0.7569060921669006,24,True
+209160,233859019,76561198271966483,"I really don't know why this game gets bad reviews. Story is good, graphics are great (especially for their time), mechanics are pretty cool, it's overall a really fun game.
+
+Shame we never got a sequel - this game really needed it!",0.7542412281036377,28,True
+209160,201643083,76561199033099897,They don't make it clear that a majority of the Call of Duty games REQUIRES online connectivity even though single player offline with bots is a thing on console. Im not paying for a waste of space on my ssd because my job requires that I be somewhere without internet for extended periods of time. I guess I'll download an xbox 360 emulator and PIRATE the game. That way I can play the game as it was intended before they decided to get greedy and make online connectivity mandatory for OFFLINE PLAYABLE ELEMENTS. As I will continue to do with advanced warfare and so on. I already have Black ops 2 pirated using RPS3 Emulator.,0.7501955628395081,32,False
+209160,145253332,76561199031436435,"One of the most underrated Call of Duty games ever. I grew up with this game when it first game out, and it was my introduction to Call of Duty. I've loved this game from the start, playing it almost everyday, after school and on the weekends. I used to play with my dad too, playing split screen and 1v1'ing each other. Those were the fun times. But all of that was on my PS4. And now comes the age where I got my first computer. I had gotten COD Ghosts around 2 years after I got my computer, 2023. I had gotten it for 60 bucks, ""wanting to relive some memories"". But after a while, I noticed the achievements. After that point, I had a small mission to myself, get all the achievements. And I started playing like I had never before. Playing with all the time I had. And after 10 years of having the game, tons of shouting, screaming, and memories made, I finally completed that goal. COD Ghosts is the first Call of Duty game that has seen ME complete the campaign on Veteran, and has seen me get all the achievements. And it'll stay the only game with those achievements. This game was fun, they were just trying something new, and I think everyone should give this game a try.",0.7498491406440735,34,True
+209160,194849581,76561199663970902,"good story line, graphics are good, and brings you back to the good ol' days",0.7497230768203735,24,True
+209160,218145653,76561199696776203,On everything there HAS to be a Ghost 2 I loved this game as a kid. I will die happy knowing the continue on Logan's story...,0.7494823932647705,27,True
+209160,186703683,76561198211278843,The story is short but man they went all out with this one. Still just as good as when I played it on release. Some of the best missions and story of any of the COD games. Totally worth the replay.,0.7479684352874756,33,True
+209160,143543418,76561199224164760,"Still wondering when Ghost 2 will be out. Don""t know why so many ppl hated on this game. Way better than majority of the newer cods now.
+",0.7933594584465027,39,True
+209160,233861275,76561198110201818,"[h2]Verdict[/h2]
+✅ Recommended
+
+Not the best Call of Duty, but definitely one of the better ones for me.
+
+[h2]My history with the game[/h2]
+I finished Call of Duty: Ghosts in 5.7 hours (on Veteran difficulty).
+
+This was my second full playthrough. I first played it sometime around 2018, but I actually wanted to play it much earlier, around its original release in 2013.
+
+Back then, I still had an older PC build from 2007, and Ghosts was one of the first Call of Duty games where the system requirements felt noticeably higher. I remember installing it, trying to launch it, and the game simply refused to start because of an error.
+
+I think this was probably one of the reasons why Ghosts had a rougher reception and why Activision never made Ghosts 2.
+
+[h2]Quick signals[/h2]
+💸 Value: ✅ Worth playing at least once
+🖥️ Requirements: ✅ Easy to run today, but demanding back in 2013
+🎨 Graphics: ✅ Still decent
+⏱️ Length: ✅ 5.7 hours for my playthrough
+📖 Story: ✅ Good enough and entertaining
+🎮 Gameplay: ✅ Classic cinematic Call of Duty
+🐛 Bugs: ✅ No major issues for me now
+
+[h2]What I liked[/h2]
+
+* I enjoyed the campaign again, even on my second playthrough.
+* The game still delivers that classic cinematic Call of Duty feeling.
+* The skyscraper mission with rappelling was one of the most memorable parts for me.
+* The jungle mission also stood out.
+* Honestly, all missions had something enjoyable in them.
+* The main villain was pretty good and carried a lot of the story for me.
+* The campaign is short, but well-paced.
+* It is not the best Call of Duty, but I still think it belongs among the better ones.
+
+[h2]About the story[/h2]
+I know some players did not like the missions or the story, but we also have to be honest here.
+
+After the original Modern Warfare trilogy and Black Ops 1 and 2, it was extremely difficult to bring another Call of Duty campaign with the same level of cinematic impact.
+
+Ghosts does not reach those heights, but I still think it offers a solid military action campaign.
+
+[h2]Nostalgic details[/h2]
+One thing that made me smile was the sound design.
+
+This game came out in 2013, exactly 10 years after the original Call of Duty from 2003. Because of that, it felt strangely nostalgic to hear some familiar sounds again.
+
+The footsteps in snow, picking up ammo from weapons on the ground, and walking on metal stairs sounded almost exactly like in the 2003 game.
+
+Maybe some people will not care about that, but for me it was a nice nostalgic detail.
+
+[h2]What didn’t work for me[/h2]
+
+* It does not reach the level of the original Modern Warfare trilogy or Black Ops 1 and 2.
+* The story is good, but not legendary.
+* Some players may find the campaign too short.
+* I can understand why not everyone connected with this entry.
+* It probably did not do enough to become the start of a successful Ghosts sub-series.
+
+[h2]Is it an endless game? How long to beat?[/h2]
+No, this is not an endless game.
+
+I finished the campaign in 5.7 hours. It is a typical shorter Call of Duty campaign, focused on cinematic missions and fast pacing.
+
+[h2]Who will love it[/h2]
+You will probably enjoy Call of Duty: Ghosts if you like cinematic military shooters, classic Call of Duty campaigns, short action-packed stories, and older CoD games from the Xbox 360 / PS3 / early Xbox One era.
+
+[h2]Replay value[/h2]
+Replay value is decent if you like replaying Call of Duty campaigns.
+
+For me, this was my second full playthrough, and I still enjoyed it. I do not think I will replay it often, but I am glad I returned to it.
+
+[h2]Final note[/h2]
+Call of Duty: Ghosts is not the best Call of Duty, but I think it is better than its reputation suggests.
+
+The campaign is short, cinematic, enjoyable, and has some memorable missions. The villain worked well for me, and the game gave me a bit of nostalgia because of some classic Call of Duty sound effects.
+
+After Modern Warfare and Black Ops, expectations were extremely high, and Ghosts probably could not fully live up to them.
+
+But as a single-player campaign, I still had a good time.
+
+Recommended to play at least once.
+",0.7430312037467957,25,True
+209160,207560801,76561198269239803,"Amazing campaign and pretty good zombies (extinction)
+
+The hate has got to be forced. The only major flaw is derived from the multiplayer which is completely dead, but does not deserve a whole negative review because of that.
+
+ALSO, the fact of the game price; however it goes on sale for pretty cheap during minor-major sales.
+
+This game ranks super low in terms of cod rankings when in reality it is among the best.",0.7367110252380371,36,True
+209160,7753904,76561197996694080,"Well, here we are again: another year, another [i]Call of Duty[/i], as the saying goes.
+
+This franchise has grown incredibly stale in the past five years or so. Infinity Ward has stuck to the same formula since [i]Call of Duty 4: Modern Warfare[/i], and as a result, almost everything in [i]Ghosts[/i] feels dated and unimaginative.
+
+Not that some widely acclaimed aspects of said formula needed any change. For instance, the core gameplay mechanics, such as the [i]shooting[/i] itself, still feel slick and polished.
+
+But how do you justify a 50-gigabyte installation size and the “next-gen” marketing this game received, when it looks barely nicer than stuff that was released in 2007? It’s not an ugly-looking game, sure, and the textures do look pretty good, despite what some people may say. But comparisons with [i]Battlefield 4[/i], [i]Metro: Last Light[/i] and other recent titles are inevitable, and the fact remains that everything else in [i]Ghosts[/i], graphics-wise (lighting, particle effects, physics, etc.), is subpar.
+
+I am not one to judge a game solely on its graphical fidelity, however. The problem with [i]Ghosts[/i] is that, sans the welcome addition of the ability to practice against bots, it has no redeeming qualities to speak of.
+
+The single-player campaign is short, cliché-ridden and does not give the player any freedom. You just follow scripted orders from your “A.I.” companions, moving forward when told to and shooting enemies that pop out of hiding (when told to). It doesn’t help that the story is entirely predictable and that the voice-acting is abysmal (and since we're on the subject of audio, what can I say about the game's single, useless ""master volume"" slider in the settings menu?).
+
+But most people seem to buy [i]Call of Duty[/i] games for its multiplayer portion. And it too is a colossal failure. Maps are poorly designed and don’t support more than 18 players (most matches have 12 or less players). The matchmaking system is terrible: teams are completely unbalanced more often than not. There are no dedicated servers, despite Mark Rubin’s (Infinity Ward’s Executive Producer) promises prior to the game’s release. Teamwork is non-existent, as people just run in circles and shoot each other in the back to get the best possible kill-to-death ratio and unlock ridiculous, balance-breaking “killstreak” bonuses.
+
+Then there is the fact that once again, Activision will charge a good deal of money for upcoming map-packs, since not only is modding unsupported, but frowned upon.
+
+The ""new"" Extinction Mode is not even worth discussing. It is basically an uninspired rehash of Treyarch's far superior ""Zombies"" horde-mode (from [i]World at War[/i] and the [i]Black Ops[/i] series).
+
+To top it all, [i]Ghosts[/i] suffers from a myriad of technical issues, such as glitches, crashes and framerate drops. And as a sign of Infinity Ward's everlasting ""love"" for the PC audience, there is no field-of-view slider of any kind, and a single slider for audio. Individual sliders for music, sound effects and voice communication would be too much to ask, apparently.
+
+The bottom line: don’t buy it.
+
+UPDATE (07/31/2014): I should add that, at this point (almost a year after release), the game has become nothing but a glorified DLC-selling platform, and there's effectively nothing to differentiate it from the dozens of low-quality free-to-play games on the market... except for, you know, the full entry price.",0.783256471157074,3717,False
+209160,120631576,76561198085673953,"1 Of The Most Underrated COD Campaigns Ever, We Need A Sequel To The Cliffhanger Of This Game.",0.8831459283828735,139,True
+209160,206484185,76561198405926983,"The game is over hated. Like any cod game the campain is fun to go through.. i uhh only buy these for the campain I've never played multiplayer on any of the cod games. I really wish this had gotten a secound game, thats how fun the story was",0.7322443127632141,25,True
+209160,177607278,76561198236823408,"Really enjoyed the game, campaign has an engaging story and a lot of potential for continuation. I liked the characters and the dynamic between them, even with silent protagonist. Riley is the best boy there is. One can dream for Ghosts 2.",0.7307690978050232,22,True
+209160,125843562,76561198088342032,"Aside from the cost of this game (ridiculous and greedy for a game this old), the campaign and story are actually pretty solid. If you can pick this up on sale then go for it, I enjoyed my time with it. Honestly it is not deserving of a Steam score this low.
+",0.7268580198287964,29,True
+209160,123262348,76561198302312165,"I'd trade modern warfare and black ops for a sequel of this campaign any day of the week.
+
+I could care less if the multiplayer for ghosts 2 is trash.
+
+This game just has way too much sentimental value for me as i played this years ago as my first cod campaign on my uncles ps4 a Decade ago.
+
+Now i finally have it in my steam library with a 100% completion rate, im so happy.",0.7244756817817688,38,True
+209160,191088661,76561198341343474,They say this game is the worst of the franchise but frankly I found it quite interesting. It's very short though.,0.7243107557296753,20,True
+209160,214787139,76561199862657699,"dont buy.. it crashes whenever you try to play campaign because for some weird reason it assumes you're still on windows 7 
+f##K activision, still selling a  nearly 13 year old game at full price 
+just get it on console if you really want to try it",0.712151050567627,26,False
+209160,231027129,76561198742038953,"Best CoD campaign out there compared to every other game, very underrated, I yearn for a Ghosts 2. Don't listen to anybody who says the campaign is bad. Multiplayer is not the best, doe.",0.7095922231674194,24,True
+209160,157449770,76561198102895102,i honestly feel the campaign in this game is super underrated is it going to win any awards HELL NO but i really enjoyed the pace and characters in this story and the locations are all nicely done AND IT HAS A DOG SO OBVIOUSLY that bumps it up imo but no seriously back when i first played it in 2013 i had no idea it'd be the last good campaign for a good few years. so please if you haven't already give this one a go 8.5/10,0.7058823108673096,23,True
+209160,207083708,76561199041559573,"This game is worth buying for the campaign, it´s one of the best CoD stories I ever played, filled with bombastic action and intersting story, making you experience it with decent graphics!
+I don´t care about the multiplayer nore if its hate is justified or not..",0.7057458758354187,20,True
+209160,228679550,76561198261988961,"Call of Duty: Ghosts was my first Call of Duty, so I’ve got a lot of nostalgia attached to it. I remember really enjoying the campaign back in the day, and the multiplayer felt solid enough at the time for me to sink a lot of hours into it.
+
+Coming back years later, though, it’s pretty clear where the problems are. The multiplayer is basically dead most of the time, and when you do find lobbies, the gameplay tends to slow down a lot because of camping. Maps don’t really help either — a lot of them encourage that kind of passive play, which kills the flow of matches.
+
+The campaign still holds up decently if you’re just looking for a one-time playthrough, but outside of that, there’s not much left here in terms of long-term value. It feels very much like a product of its time, and not one that aged particularly well compared to other entries in the series.
+
+If you’re buying this today hoping for an active multiplayer experience, you’ll probably be disappointed. If it’s for nostalgia or to replay the campaign, then it can still be worth a look. Otherwise, there are better and more active Call of Duty titles out there, like Call of Duty: Black Ops II.",0.7050938010215759,16,True
+209160,213336032,76561198988940568,"I love the storyline, gameplay mechanics, and most importantly, I love my doggy partner named Riley! But hey Activision, I am still hoping for a sequel of this game, and that to without any online only requirement and a full single player campaign just like the good old days! And please, don't screw next year again with another sloppy cod game, make something good like I've just said like you did before!",0.7049243450164795,19,True
+209160,115470280,76561197995578385,probably the most engaging call of duty campaign I've ever played. I thoroughly enjoyed it. graphics are still very good today as well.,0.6971595883369446,23,True
+209160,109570914,76561199088218859,"Robbed of a good reputation, trust me. 
+
+Fond memories of this game back in '14 on my XBOX, my only issue is the lack of Ghosts 2.",0.7424997091293335,25,True
+209160,7587379,76561197961492142,"COD Ghosts is the newest installment of the game series that consistently fails to address the gameplay problems of previous installments, while adding “revolutionary” new features that add nothing to the quality of gameplay. To get the full experience, stab yourself repeatedly in the eyeballs and genitalia with a rusty HIV infected syringe and send me your $59.99 instead.",0.7417944669723511,1061,True
+209160,225391724,76561198289591722,"I don't know if I'm the right person to say if this game is good or not because I have a lot of nostalgia for it. This was the first COD I got at launch. Played the hell out of it on the 360. I had fun with the story, and with that ending? It's a shame we'll probably never get a sequel.",0.6904314756393433,14,True
+209160,124891855,76561199069674821,"Wonderful game, the campaign is excellent, it was worth playing it, a different COD in which we have the opportunity to be in the universe, have all kinds of combats from wolves to hungry sharks, the confrontations have not been easy but in the end you feel part of the Ghosts. Story mode highly recommended.",0.6894301772117615,22,True
+209160,23678168,76561198093602094,"STAY FAR AWAY!! Banned after 1 minute of play for using Widescreen Fixer. The game now offers the widescreen fix and this is activisions response:
+Thank you for contacting Activision Support. The account in question has been found in violation of the games's Security and Policy. A permanently suspension has been placed on the account and will not be able to participate in online play. No further discussions should be take place. Please check the Call of Duty: Ghosts Security & Enforcement Policy for more info https://support.activision.com/articles/en_US/FAQ/Call-of-Duty-Ghosts-Online-Code-of-Conduct/ 
+
+Many have had issues but for me COD AW was my final dime spent for Activision.",0.7388060688972473,62,False
+209160,160819941,76561198076057821,"Dafuq why its so effing expensive ? did activision try to dry our wallet because they failed the mw3 release ? The last time I Bought the game is around RM65 include the DLC for the extinction (just extinction DLC), and now the raise the price ? WHAT THE HELL! I was about to invite my friend to play extinction with me this year, when i see the price it goes RM100 for just one extinction dlc. Now I effing hate activision for ruined the old school game. even though its under rated or forgotten games.",0.6872175335884094,23,False
+209160,202448119,76561198003263728,"Call of Duty; Ghosts for me it's one of the best COD games out there. Very good gameplay, story and the graphics are excelent on PC.
+I love this game. 10/10
+",0.6849340200424194,23,True
+209160,203390711,76561198819745049,"I love the game in general, one of my favourites COD games and definitely would love a second part... justice for Logan Walker",0.6831493377685547,17,True
+209160,143771683,76561199133551868,if this game doesn't get a sequel im going to bash my head in with a brick.,0.7327532768249512,24,True
+209160,123167459,76561198072409444,"Most hated COD ever, and it’s not that bad in my opinion, the single player campaign is fun, interesting, yes, really.
+
+Space station battle, underwater battle, rope down a building, satellite weapon and DOG, they are all new cool ideas, and it’s it’s fun gaming experience.
+
+Yes, there are some stupid writing, and bad dialog. But do they jeopardize my enjoyment of this game? No. It’s not Game of Thrones Season 8 ending bad, which makes the whole show stink. It’s just kinda awkward for a second and that’s it. The whole campaign is still good, at least on par with MW2&3. 
+
+The ending of the game strongly implies a sequel, but Ghosts is so hated, Ghosts 2 would never be released, which is a pity.
+
+I give a 8/10 for campaign. 
+",0.6820972561836243,17,True
+209160,33184115,76561198002608541,"I find the story line for the single player campaign interesting and fun. However, for the multiplayer aspect of the game, hardly anyone plays it. This could be a problem for hardcore multiplayer players. Other than that, casual players will find this game fun.",0.7295506000518799,43,True
+209160,73440692,76561197987192528,"Great game, but I am angry with Infinity Ward and Activision's greed. You can buy the complete bundle for 200 bucks? Really? I buy my games for no more than 30 bucks on steam. This is nothing but greed.  Woof!!!",0.7795331478118896,64,False
+209160,187865216,76561198351635774,"best cod game
+
+The perfect break from the cringe ""tacticool operator"" slop that COD is now. The game takes itself seriously yet still feels like an absurd action movie, which is what COD is supposed to be.",0.6785857081413269,23,True
+209160,164308927,76561198449250524,"(+) Points
+1. Good Story. ( Atleast Better than latest COD Campaign Story )
+2. Engaging Gameplay.
+3. Visual Outstanding.
+4. Optimized for low spec pc.
+5. Space , Ground , Water All type of Action Available.
+6. I liked the Dog action Gameplay and its Character ( Riley ).
+
+(-) Points
+1. Story is good but kinda underrated than previous COD games. But Its Good Enough.
+
+Verdict : This game is a complete action packed game with Space , Water and Ground type Action Sequence. I Enjoyed It. I hope Everyone will enjoy it rather than playing latest COD MW Series Game.
+
+Rating : 8 / 10 .",0.6738047003746033,21,True
+209160,171826651,76561199038043515,"One of the best story from the CoD franchise . It worth every second spend in it . If someone says is not so good , they didn't play it because they want only multiplayer section . MP is dead this days .. so play only extinction singleplayer , is worth.",0.673624575138092,16,True
+209160,234993265,76561198756115679,"Best Call of Duty, ion care what none y'all say i love this game and copped it immediately when i saw it on sale.",0.6734693646430969,13,True
+209160,139980771,76561199042283035,"Pretty basic multiplayer, aliens mode is interesting. One of the best Call of Duty campaigns I've ever played.",0.6701958775520325,26,True
+209160,155825510,76561199182647744,"[h3] [b] 8/10 [/b] -Single Player Campaign [/h3]
+Bought this game in the last sale and played for the first time in 2024. I would say single player campaign is still remarkable considering this is 2024. One of the best COD campaign. I didn't play [b] multiplayer [/b] since many reviews here suggested that it is 'unsafe' to do so.",0.6689803600311279,20,True
+209160,209896513,76561198823998836,"The Ghosts Campaign is actually really good, as well as Extinction. Playing back on the Xbox 360 in 2013 for hours alongside OG Modern Warfare 2 and 3. Now playing it on PC, it still holds up.",0.6674892902374268,26,True
+209160,85464801,76561198121644456,"This game is far too overpriced, but if that's what it will take to pet Riley...then so be it.
+In all seriousness though, it's probably not worth your money.",0.6673307418823242,19,False
+209160,119266613,76561198156021248,"Hello, DEVS!!!
+
+Still waiting on Call of Duty: Ghosts 2. Its been 8 years and you guys teased a second one at the ending of this one.... CMON!
+
+No but seriously, CoD: Ghosts is a great game with flaws. I encountered 2 issues on my playthrough of the campaign on Veteran. The first one was on the mission ""The end of the line"" when your on the truck and the missiles hit.... i kept falling off of the truck even though your not supposed to be able to. The second one (bit of a spoiler here so please read at your own discretion) was on the FINAL mission when your on the train confronting ""roarke"" and you get his magnum off of him and go to shoot him... the sound of the bullet glitched out on me and was played over and over again till the final sequence played. 
+
+Many people hate on this game due to the bugs and all.... but we can all agree... the golden Era of CoD was more than impressive. 8/10 for Ghosts! Sadly the multiplayer is dead but atleast you can play the Extinction gamemode when you are done with the main campaign. (if you like it ofc)",0.7160083651542664,29,True
+209160,199914143,76561198212308592," the best COD game yet, still waiting on the sequal to find out what happens with Logan. Survival at the end of the game brings the whole experience together. 8/10.",0.6638742089271545,11,True
+209160,141879962,76561198142269011,"This game has probably got to be one of the best Call of Duty Campaigns ever made. One of the best Campaigns ever made actually! Love it so much and cannot wait for a sequel to the story. Extinction is actually fun as all hell!
+BRING GHOSTS BACK!!",0.6635754704475403,18,True
+209160,113522506,76561198353205181,"In my opinion, this is one of the better Cods. I've loved everything from the campaign to extinction, I first played it in december of 2013 and i've loved every moment of it. I highly recommend this to anyone who would consider it",0.710487961769104,41,True
+209160,121506901,76561198116097544,Extinction shouldn't have been shelved and if infinity ward is watching I hope you bring this mode back as a game mode or even a full game of its own.,0.6578388214111328,13,True
+209160,202556424,76561199467366521,This game is EXTREMELY over hated. The story is 10/10 and deserves a sequel. Even if it's just a campaign I would still immediately buy it. Also the multiplayer gets too much of a bad wrap. Ghosts fans should start a petition for Activision to start developing a Ghosts 2,0.6565274000167847,14,True
+209160,204049733,76561197987520758,The most underrated campaign and COD game EVER. Please give this game more love. (Still hoping for a sequel),0.6565183401107788,14,True
+209160,134714309,76561198094845721,"hackers can make your game crash whenever they want , if they only played with you once.
+
+DO NOT PLAY ANY CALL OF DUTY GAMES , IF YOU DON'T WANT TO GET HACKED.
+
+ALL CALL OF DUTY GAMES CONTAINS SERIOUS SECURITY VULNERABILITIES,
+
+SOURCES FOR PROOF:
+https://nvd.nist.gov/vuln/detail/CVE-2018-20817
+https://www.opencve.io/cve/CVE-2018-20817",0.703770101070404,35,False
+209160,120136282,76561198076240551,The campaign is amazing! very nice Graphics for how old it is!,0.7535201907157898,40,True
+209160,7753860,76561198030734750,"No, I personally do not recommend this game. I use to enjoy all of the call of duty games for a time and thought i would enjoy this game more than Battlefield 4, so I purchased this game first. It was a mistake buying this game. No FoV slider, frame rates capped to 91, and all around just not enjoyable. If you were thinking about purchasing this, I would recommend against it.",0.7022802233695984,180,False
+209160,146180879,76561198839985101,"I bought this game on sale mainly because I was attracted by the reveal trailer and the 'dog' tag, and I am glad that I made this choice. The product I am reviewing is the singleplayer part of the game, as the multiplayer version is separate from the campaign on Steam and I never downloaded it. However, I know that this game is regarded as one of, if not THE, worst COD of all time for its multiplayer, and I can kind of see why that might be the case. Indeed, the gameplay is far from the best I experienced in a COD game, with gunplay being extremely average and movement feeling a bit odd at times. Although these features make the game slightly less enjoyable to play, they certainly do not destroy the singleplayer experience, as they are barely noticeable when you get used to them.
+
+This brings me to the most important aspect of the review, which is the campaign itself. I can confidently say that this game features an amazing campaign, probably one of the best in the genre from many points of view. First of all, the setting is different from the usual WW2, Cold War or modern days settings that we are so used to seeing in COD games, with its futuristic, almost post-apocalyctic America already making the campaign intriguing and unique.
+What the game does best from the beginning of the story is giving players the feeling of always being outnumbered and insignificant against the massive enemy 'Federation', making every mission seem almost impossible, which gives you an extra amount of motivation and an immense feeling of reward and satisfaction after a success, as well as immersing players even more into the story.
+Everything is executed really well by the developers, with a gripping premise to the story, a likeable protagonist and an exceptionally well-written, chilling villain. Also the structure of the campaign is very enjoyable, with always interesting missions with varied settings and gameplay mechanics, some of which I still remember in detail for just how good and memorable they were. Especially the stealth or infiltration-type missions really stuck with me as they perfectly incorporated the feeling from the previous paragraph and the 'ghosts' vibe. Also, the dog gameplay was extremely fun and Riley is certainly the most adorable character in the game and, in my opinion, in the whole franchise.
+
+Overall, I must say that there are so many wonderful aspects in this campaign that make the game so enjoyable and massively outweigh its issues. Indeed, the story is lovely from beginning to end (with an amazing ending sequence and a big plot-twist at the very end), the gameplay issues are almost unnoticeable in the campaign and overshadowed by some insane missions (although they do become slightly more relevant on Veteran difficulty, which was certainly not as nice of an experience as in other COD games), characters and settings are spot-on and graphics are not at all bad considering how old the game is. Don't listen to the critiques and buy it if it's on sale!",0.651656448841095,10,True
+209160,140427394,76561198412056590,"CVE-2018-10718
+Stack-based buffer overflow in Activision Infinity Ward Call of Duty Modern Warfare 2 before 2018-04-26 allows remote attackers to execute arbitrary code via crafted packets.
+
+CVE-2018-20817
+SV_SteamAuthClient in various Activision Infinity Ward Call of Duty games before 2015-08-11 is missing a size check when reading authBlob data into a buffer, which allows one to execute code on the remote target machine when sending a steam authentication request. This affects Call of Duty: Modern Warfare 2, Call of Duty: Modern Warfare 3, Call of Duty: Ghosts, Call of Duty: Advanced Warfare, Call of Duty: Black Ops 1, and Call of Duty: Black Ops 2.
+Bo3 is also included as it does not protect you from any security breaches.
+For anyone who isnt experienced with this kind of thing, RAT stands for ""Remote Access Trojan"".
+
+What the attacker has access to/can do:
+Hidden Remote System Access
+System Information
+File Manager
+Hidden Desktop Usage
+Monitor on/off
+Hidden Browser Usage
+Open/close CD
+Hidden Chrome Usage
+Show/Hide taskbar
+Start Up Manager
+Hidden Firefox Usage
+Show/Hide Start Button
+Task Manager
+Hidden Edge Usage
+Show/Hide Explorer
+Remote Shell Usage
+Show/Hide Clock
+TCP Connection
+Show/Hide Tray
+Reverse Proxy
+Show/Hide Mouse
+Registry Editor
+Hidden Explorer
+Enable/Disable TaskMgr
+UAC Exploit
+Enable/Disable Regedit
+Disable WD
+Disable UAC
+Format All Drives
+DDOS attack
+Audio recording
+Webcam recording
+Device information
+Process hollowing
+Credential stealing
+Discord token stealing",0.6996111273765564,36,False
+209160,198399968,76561198187447290,One of the best campaigns for a call of duty game. I wish they would get back to this and give us longer campaigns again. But  wait for the game to go on sale if your going to get it.,0.6488512754440308,11,True
+209160,18120811,76561198014766672,"Okay, I'm preparing my self for this being a very unpopular review; but here goes.  Please also bare in mind that this review is purely and solely based on the single player side of the game - I will touch on the multiplayer side but only briefly. 
+
+Call of Duty: Ghost is the tenth game in the COD series, and was released in 2013 on PC, PS3, Xbox 360 and Wii U, and then re-released on launch of PS4 and Xbox One. 
+
+This was my first COD game that I had played in a while, so the problems people have had with the gameplay becoming stale and lack of innovation didn't effect me so much. Yes the gameplay is very much the same as all of the other Call of Duty games, however I still had fun whilst playing it. I have yet to play the multiplayer, and to be honest, I probably won't. The single player campaign follows the character of Logan Walker. You also play as Baker, Elias Walker (your father) and a new addition of playing as a combat dog, Riley.  There are no new elements to be seen in the gameplay, its very ""Call of Duty"", aim and shoot is pretty much the whole game with the odd quick time event thrown in. There are some really interesting levels when you are in space and underwater, however my favorite levels were the vehicle based ones; where you take control over tanks and helicopters - they add a little something extra to the game in my opinion, breaking up the monotony of the classic ground troop fights. 
+
+Graphically, Ghosts is very dated; I was playing on 4K resolution, and it still looked very poor. Textures when close up are so low res it's hard to imagine this is a game which was released in 2013. The game uses an engine which was used in previous COD releases, but with apparent ""significant upgrades"", however I don't really see a difference in graphic fidelity in Ghosts and any of the other ""recent"" COD games. 
+
+Ghost had a story which kept me interested right until the end, however I felt that the game's ending really did not do the game any justice. I really felt like I was getting a big two fingers up to me when it happened. Not sure whether people will class it as a spoiler, but the cliffhanger at the end really relies on there being a sequel in the Ghost franchise, however unlikely that will be. Up until the end though, it is a compelling story - maybe if you quit just before the end credits you'll enjoy it more! 
+
+This is another game where you will not die or fail on the single player mode; you are with a squad of other characters for the majority of the game; and you could very easily just sit back and watch the fire fights if you were so inclined and you would still not fail. Even when playing on higher difficulties, there is no real ramp in the challenges on show. 
+
+With the games extremely linear level design, it leaves you very little time to explore the world in front of you, that being said, there is no reason to want to either though. There are one set of ""collectibles"" to be on the look out for, and that's it - I guess it is to be expected from a COD game though. It would of been nice to maybe find little bits of extra plot and story through hacking computers, finding files etc. 
+
+The single player mode took me just about seven hours to finish - I thought that was an OK length for the game;  I wasn't growing tired of the gameplay by the end of the game but there is no reason at all to play it through for a second time - expect of course if you want to play on a higher difficulty; but even then, I wouldn't say it's worth it.  Where you are going to get your mileage out of any COD game is the multiplayer - however I still don't plan on playing it simply because I am not interested in the multiplayer side of many games. 
+
+Technically I didn't have any bugs or issues whilst playing. I was able to play on a steady 60 fps on 4k resolution the whole play through. At times the frame rate was even in the 100s. It certainly looks like the PC version of the game came out on top of the consoles on the technical side of things, since the consoles could barely even achieve 60 fps on lower resolutions, Xbox could only handle 720p. This game is better off being played with a keyboard and mouse, however the lack of FOV sliders did make me feel a little bit nauseous with the camera swaying around all of the time when moving. You can change this in .ini settings but in this day in age, PC games need a FOV slider as compulsory in my opinion. 
+
+In conclusion, whilst there may seem to be more negatives than positives in my review for Ghosts, I did have a lot of fun whilst playing it, however the price of £39,99 is absolutely ridiculously especially for a game which has been out almost two years now.  If like me you are just going to play the single player mode, wait for the game to be around £10, but if you are going to be jumping into the multiplayer side of things (there is still a very active community out there too!) I would happily say you can pick this up for anything below £15 - since you will get the seven hour single player as well as many many hours of CODs core element, multiplayer.  
+
+[b][u] Tom's Score Card[/u][/b]
+1) Stay away
+[b][u]2) Only recommended when on sale[/u][/b]
+3) Recommended
+4) Highly recommended
+5) This is a must play
+
+If you found this review helpful, please consider giving it a thumbs up. You can also find more reviews over at http://www.completingthebackloggroup.com/
+
+http://store.steampowered.com/app/209160",0.698166012763977,281,True
+209160,177166053,76561199052324133,I know not everyone likes this game but this game is not that much bad yes multiplayer maps are desigened but story and extinction is soo good story is full of actions like you are john wuick and looking today goofy ahh cod games its better then all that shit show and also i beat veteren +100% achievements + got all collectibles,0.6471698880195618,18,True
+209160,122514126,76561198064106555,"Another fireworks of a CoD game!
+
+This title is from 2013 and still looks great and runs great 9 years later. If you have crashes, try to turn off Steam Overlay.
+
+I am doing a CoD Solo Campaign playthrough all of my CoD titles and after CoD WWII, Advanced Warfare already it was now time for Ghosts. An entry in the series that has been wrongfully hated by gamers.
+
+The campaign is not worse than in MW 1, 2, 3 and actually adds some really nice levels, good gunplay, decent graphics with the typical CoD gameplay. Also I welcome less car chasing or plane flying levels.
+
+For me Ghosts is a classic and I think this is probably my 4th playthrough and I feel like coming back every evening until I am down with it, once more. Great CoD. Great game. Good story, sympathetic characters.
+
+All good. Wish for a remake one day and yes please also for Extinction 2.",0.6463821530342102,18,True
+209160,216648825,76561199274058841,"the game is dying ngl everyone knows it the game has always been fun to play since it came out. i see why people still play this game coz the newa cods just suck fr. 
+the people that are left in this game are the best its fun but its not the same as the old games same for all OG cods. they need to bring out ghost 2 its been long over due",0.6462371349334717,13,True
+209160,134972562,76561198082419386,"Call of Duty: Ghosts has really good visuals in my opinion. Textures and effects are pretty nice, lightning is all right too, but at certain places, it's pretty overly exaggerated. Even though they used some old sound effects from previous COD games, the sound design is also okay, you can hear where certain noises coming from correctly and the weapon sounds are also fitting in general. There are not many elements on the HUD, which I found it all right and clean. It's not distracting and fits this alternative future scenario. The story and the overall universe of this game is quite interesting. The first mission was astonishing to look at it and had some pretty cool vibes. About vibes, playing this game is bringing COD 2 and COD 4 feelings in me, it's pretty similar to those games in my opinion, which I like. Most of the characters have their own story, which was nice to see. The ending was quite surprising too, which brings up a few questions, but it was interesting to see something unusual. The gun play was unusual for me at first. Most weapons have some insane recoil, but I think it makes the game more challenging, which is better.
+
+I'm not saying this is a negative aspect, but after Black Ops 2, this game doesn't have multiple endings, or strike force missions or custom loadouts for campaign missions. It was a nice addition, but it's not that bad if they cut those out in this one.
+
+However, what I didn't liked, it's the beginning of the game. After the first mission, the next several one was really boring for me. There were not many actions, it's mostly showing the situation in the world and introducing characters, which I understand it's not that exciting, but it was still really tiring to get through. Same goes to the story: after the first mission, it gets a bit confusing about why are we going and where, whats our goal and why certain characters are in that location. I didn't understood it well. The peaking system is different in this game: now you can't peak with buttons, but if you behind a cover and an arrow shows up next to your crosshair, indication where you will peak when you aim... and honestly, I was never able to utilize this completely and it was annoying to get into position and use it, quite a trash system. Even though I said the HUD is all right, which is, but the weapon placement on my screen is not. It takes so much space on my screen, it's criminal. There are many parts, where the game is quite dark and enemies are hard to see in general.
+
+I wasn't sure if I'm going to like this COD game first, but honestly it's not bad. Maybe it's the weakest COD games which came out before this, but it was solid and likable, after the campaign picked up the pace. I can recommend it to buy this game, but not for 60€, 20€ is fine for it. Do not buy the DLCs if you aim to play it in multiplayer. Get the Plutonium launcher and get the additonal DLCs from there.",0.6447857618331909,12,True
+209160,146885977,76561198961726227,Just a fantastic game wanna see Cod Ghosts to finish the Campaign. THIS game game didnt deserve all this hate. For me its in top 3 of my fav cod games I have ever play since I bought Cod Ghosts,0.6445861458778381,11,True
+209160,197051884,76561198796309800,"Took my sweet ahh time getting around to this masterpiece again.
+Love it still
+Much fun
+
+Review time is with all achievements, could've done it faster but I enjoyed every second of it
+10/10",0.6441834568977356,10,True
+209160,106700428,76561198261675178,I feel alive again but there is something missing once more.A void in my soul waiting to be filled by a story with the name of Ghosts 2.,0.6933179497718811,18,True
+209160,32842379,76561198022266051,"[i](Solo campaign review only as I didn't do MP)[/i]
+
+While the game has a few minor technical issues:
+- The graphics overall are great, but movement seemed a little jittery at times.   But I got used it and it didn't really detract.
+- Also the mouse would a couple times change from being too sensitive (it's norm) to barely sensitive (as you switch to controlling some other object with a different view).  If mouse sensitivity was consistently over/under sensitive, it's not a problem, but a couple missions it will change mid-mission, making this an annoying problem but nothing terrible.
+
+[h1]But the story and events... whew!  What a ride!   Good time!  Definitely recommended despite the short campaign.  My playtime was 5.4hrs for the solo campaign.  Overall:  8 out of 10.[/h1]",0.6933114528656006,15,True
+209160,182599762,76561198045264831,Multiplayer is filled with hackers and RCE exploits avoid the multiplayer. Singleplayer is decent.,0.6429793238639832,15,False
+209160,12759763,76561197999078633,"Infinity Ward is nothing more than a husk nowadays.
+This is easily their worst Call of Duty game and an abysmal PC port overall.
+I would recommend Advanced Warfare or Treyarch's new CoD in 2015.
+Don't bother with IW anymore.",0.738315761089325,410,False
+209160,8600188,76561198071039741,"I would only recommend this to die-hard COD fans. Otherwise give it a miss. And NEVER buy it for full price, it's just not worth it. Wait untill it goes on sale. 5.5/10",0.7380675673484802,164,False
+209160,93937557,76561198209081427,"[b]Call of Duty: Ghosts[/b]
+
+I believe most people's opinion of this title is clouded with the circumstance of its release, being right after one of the best in the franchise and not satisfying any new itch. In the same vein, my opinion is likely equally clouded with nostalgia. Being the first in the franchise I owned myself, replaying it again as an adult only further solidified for me that this game doesn't deserve the hate. If you compare it to the previous Infinity Ward titles, it is very similar, and with the following releases, much better. It is almost dead now but worth mentioning, the multiplayer was very average, more reaction oriented with a fast time to kill. Since they're so similar, it was more bland than Modern Warfare 2, but it was more fair with more content. There are a share of dull moments but overall, every mission in the campaign has you doing badass special ops sh*t and the whole plot goes hard all the way through. Being more modern of a title with better graphics, sounds and voices, it sells everything better than its Modern Warfare predecessors, but still has the solid story elements unlike the following titles. For me I think the developers made a goldilocks story, they made a great antagonist, made it personal, made a squad and cause you care about, made some solid unique settings then delivered. What especially does it for me is the scenes climbing around a skyscraper at night for intel, sneaking around the rain forest enemies everywhere, fighting in space on a suicide mission and of course the credits. Sounds so clique and corny, yes, but are we so critical and hard-assed that we can't pretend to play super soldier for a few hours? No one argues this game to be a list topper, but it is far from the game that ruined the franchise.
+
+[b]Rating: 7.5/10[/b]
+
+[url=https://steamcommunity.com/id/x6_ORANGE_9x]—Orange[/url]",0.6378830075263977,10,True
+209160,136643188,76561197969752619,"The single player campaign is as predictable as a bad Netflix action movie, you are hand-held all the way, there are plenty of quick time events, but it is actually one of the more entertaining CoD SP games.
+I didn't play MP because ugh...",0.6348483562469482,12,True
+209160,171455158,76561198095811265,"A different take on a Call of Duty game. Optional stealth, multiple paths and new mechanics. Great game. Can't wait for Ghosts 2.",0.6333287954330444,13,True
+209160,225174371,76561198153661929,"buy the game at your own risk! as much as i love cod ghosts campaign i cant recommend anyone to buy it. due to 1 issue that hit me hard, any sniper scope in this game uses dual rendering. pretty much rendering the world a 2nd time. since this wasnt done properly it will cause heavy stutters making the game unplayable and causing you to not use some of the content within the game the fact that activision is still selling this for $100 is insane with this issue present.",0.6326621770858765,47,False
+209160,91178860,76561198406029653,"Story: 5/10
+
+Graphics: 7/10
+
+Fun: 9/10
+
+Ending: 1/10
+
+Riley: 10/10 good doggo
+
+Final rating: i will put my balls in a blender/10",0.6312713623046875,14,True
+209160,215264808,76561198836834512,its ok def not worth price even on sale oh and play offline or use client cuz u gonna get hacked if u go in public servers,0.6310343146324158,17,False
+209160,7592888,76561198017593539,"Every year a new Call Of Duty game comes out and me and a lot of other people buy it just because we blindly trust this franchise to be the best FPS game.
+
+I was very skeptical about getting this game after seeing some videos of the gameplay, But silly me,  I WAS STUPID ENOUGH TO BUY THE DIGITAL DELUXE EDITION!
+
+Massive launch issues, horrendous amount of bugs and issues with the game, and the copy paste from the other games is really obvious this time.
+
+Do PC gamers get any benefit from having such great specs ? HELL NO, infinity ward poops on all of us PC gamers with them not giving a single FU*CK about the issues in the game, and the game isn't looking any better from the previous COD games, this game is a shame that it is considered as a next gen game!
+
+Bottom line, COD is now in an unenviable situation after their promises to bring a new different FPS game. 
+
+Biggest disappointment of 2013..
+
+4 out of 10",0.6790969967842102,14,True
+209160,14313771,76561198064369006,"Bad Rats is better.
+
+EDIT*** 
+Since this review got popular for some reason, allow me to give some insight to this mess of a game.
+I know it says 1 hour on record but I have 34~ hours on multiplayer.
+
+The story isnt necissarily bad, its just that this isnt their most original game *COUGH* reskinned cutscenes *COUGH* 
+
+The game is clunky and obviously rushed. The framerate is terrible on all multiplayer maps and even worse, the wretched community of this game. Dont get me wrong, I love COD as much as the next
+f4gg0tron_n00bskopre, but really, the community is terrible.
+
+People will defend this game (see comments) and call me fake, but honestly, why would you defend this? Play a real pc game and see the light that is not COD.",0.6778832077980042,84,True
+209160,211275355,76561199698952152,"This is my first time play Call of Duty Ghosts and wow people were wrong. The action is good, the stealth sections are good, and the gameplay is decent.  The story is decent. I wished they made Call of Duty Ghosts 2 but with all the other Call of Duty games I am glad they did not because they would ruin it. I would reccommend this if you are tired of the new Call of Duty or if you want to try an old COD game that everyone is starting to like now.
+
+""You would have made one hell of a Ghost.""
+-Rorke",0.6276849508285522,14,True
+209160,12811916,76561198018237178,"4/10
+This game's campaign was more confusing than fun, and felt very repetitive.
+The multiplayer got boring within hours, not nearly as fun as BO2.
+The Alien co-op thing was unoptimized and very very boring.
+
+The graphics were decent, but the game ran pretty badly.",0.6771106123924255,81,False
+209160,190232558,76561199487145569,"Obsessed with COD, enjoy the story, but the price is slightly expensive. I like to call it Activision's cybergold, and it cost me $12.ohhh f*♥♥♥♥♥Activision:-)",0.6266980767250061,9,True

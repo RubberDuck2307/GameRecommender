@@ -1,0 +1,1473 @@
+appid,recommendationid,author_id,review,weighted_vote_score,votes_up,voted_up
+680420,91502687,76561198051615084,"I like to think I'm a patient person, and I've waited a month to post this negative review. I honestly regret not doing it sooner. I waited because the game is genuinely fun to play, but at this point the issues are a lead weight on the other side of the scale. I can say that with 134 hours, I've gotten my $60 out of this game, but I had to actually ""try"" to get that value. By the time I was totally fed up, I was outside the refund window, so I kept going to get my money’s worth.
+
+Pros:
+1. When the game works, the gameplay is stellar. The blending of shooting and ability use throughout combat works really well. It is also visually entertaining.
+2. There is a lot of build customization available between your abilities, skill tree, and the mods you select on your gear. There is plenty to tinker with and you should easily be able to find a playstyle that will be fun for you specifically.
+3. All the classes are at least entertaining to play. Like every game, they aren't perfectly balanced against each other, but all classes can do all activities with varying levels of effort.
+4. The story kept me engaged. There was clearly a solid effort put into it. Not award winning, but not everything can be. The campaign with all the side quests completed, took me about 30 hours. It would probably have been a lot quicker if I didn’t raise the difficulty every time a new World Tier was unlocked. Between the campaign and the endgame content, I think there is enough here.
+
+Cons: This section is going to get salty. This game has so much potential that got blown here.
+1. The game, even in single player, is ONLINE ONLY. At the time of writing, the store page says that persistent online access is required for the demo, nowhere does it says this for the core game. This decision appears to be the source of much of the game's greatest failings. There has been a running joke since launch that the sign in screen is the greatest boss in the game, because you can't connect to the servers, or you may just have to wait 20 minutes to sign in. Getting disconnected from the servers multiple times a game session have been a constant issue, something I don’t have in any other game online. There is NO EXCUSE FOR THIS BEING AN ISSUE PLAYING SINGLE PLAYER, but we have to always be online for no reason.
+2. Adjacent to the online only issue, the game is peer to peer, and as usual that has turned out horribly. No matter if I’m playing with randoms online or friends who are in the same town, if you’re not the host, you’re gonna have a bad time. Since not only do you now need to connect with whatever toaster at PCF you need to for single player, but now you have to remain constantly connected to the host player as well. This results in ability cooldowns failing, weapon and armor affixes failing, and of course lag. If I had a nickel for every time I got stuck for 3 seconds after using Gravity Leap, I would have paid off the $60 for this game.
+3. Major bugs upon bugs. Only the major ones are listed here, these alone should be damning enough that minor bugs shouldn’t matter.
+3A. I have never played a game that crashes this often. Sometimes it might take a few hours, other times I get 4 crashes in an hour. After a crash the game decides to create a crash data dumb folder on my OS SSD, despite the game being located on my much larger hard drive. I've deleted 10 gb of crash files twice.
+3B. We had character and stash inventory wipes caused during multiplayer since launch, and it was a continuing issue for weeks. People Can Fly (PCF) deployed a ""fix"", THAT MADE IT ALSO OCCUR IN SINGLE PLAYER. It appears that further wipes have since been stopped, but it took weeks for an actual fix that didn’t make things worse to be deployed. Effected characters are still entirely unplayable. PCF says that this is intentional to prevent further save corruption as they are allegedly working on limited item restoration of effected characters. The game has been out for a month and we are still waiting. Honestly I expect them to say that they actually can't find a way to do that.
+3C. In the latest update to the game on April 30th, they ""fixed"" a bugged mod that should only apply a massive damage mitigation boost at 30% hp, but instead was actually operating constantly. In doing so, they managed to break damage mitigation FOR THE ENTIRE GAME. No matter how much resist you have, sometimes the damage mitigation has zero effect. And you’re not just getting one shot because mitigation no longer works. there is also supposed to be a hard stop point at 30% hp preventing one shots in general, that no longer works properly either.
+3D. It is absolutely baffling that the bugs in this game got through quality assurance (QA). At this point I’m thinking players are the official QA for PCF. In the current Reddit thread for the one shot bug, PCF is requesting players answer 20 questions. A similar thread existed for the item wipes. PCF has repeatedly shown that they can’t be bothered to detect and diagnose bugs themselves, and instead players are expected to write an essay for them. Rather than writing the essay PCF wants, I’ve decided to write my essay here as a steam review. It’s fine to ask for help from players, but at the level of help they are asking for, you are no longer a player, you are a play tester and you should be getting paid by PCF, not the other way around.
+4. The campaign works on a Diablo like Torment system, in Outriders this is the World Tier (WT). There are 12 WT levels that are unlocked as you play the game and your progress to the next level gets partially removed when you die. This is a good system that would be in the pros section in any other game, but PCF shoots themselves in the foot. WT becomes pointless the moment you unlock the expeditions endgame content, because there is a second difficulty scaling system for expeditions only, Challenge Tier (CT). WT gear from campaign max drops at level 42, CT gear max drops at level 50. Now you could spend resources to level up the lower level gear, but there is no incentive to even play WT campaign content because the drop rates of legendary gear is massively lower than in expeditions. This means that instead of spending time doing the 30 hour campaign again, you just do the same 15 expeditions over and over that take 5-20 minutes each at gold medal time. It just arbitrarily limits the content you can do if you want good gear, hurting fun and replay-ability. Said good gear being the entire point of a looter shooter.
+5. The endgame expedition missions have the same issue as Diablo 3, its timed content. Your worthwhile rewards for the missions are almost entirely dependent on finishing the mission as fast as possible. If you build anything but pure damage, you will not beat these timers. It shoehorns you into glass cannon builds, drastically decreasing the number of viable builds in endgame content. You want to build tank, your just wasting your time.
+
+Conclusion: This could have been so much longer, but if by now I haven’t changed your mind, nothing I add is going to change that. PCF, like many of developers as of late, clearly believes that it is alright too officially release a game that I’m not sure should even be considered a beta build. The demo was a more stable experience than the full game. This game has so much potential that has just been squandered. PCF didn’t deserve my money, and they don’t deserve yours either.
+",0.9551985859870911,1618,False
+680420,93332341,76561198815724624,"This has been, honestly, by far the worst release I've ever been apart of. This game lacks everything needed to be complete. Game breaking bugs, lack of Dev support, Dev's not listing to the community in fact they out right blame the community for the games problems. Almost zero updates since release, crashing servers, total char item wipes, empty promises and outright lies.... 
+
+I find it bizarre as well that this game claims to be trying to create the most immersive co-op experience ever and doesn't implement any sort of communication. That's right ZERO way to talk to the other players.. No Text... No Voice... hell you can't even ping targets. This is truly a single player co-op game. You have 3 playing but all doing their own thing, as well the add friend feature is also not working so forget adding them and trying a third party service.
+
+Overall I truly needed write a review seeing as how I spent $80 on something that's just so poorly done. If I can stop one person from getting this pile of junk then its been a review worth writing.
+
+** Update ** I totally understand the confusion based around the amount of time I've played and the recommendation to not get the game.
+
+I spent a lot of money on the title and, in my own way enjoy the game. I see potential in its current state but I would be hard pressed to think someone else would be as open minded. I mean some of the hate here shows as much.
+
+I will continue to play this game as much as long as I wish but I cannot see others enjoying this rocky experience and feel obligated to give my opinion.
+
+I still would not recommend this game I hope people spend their money elsewhere. Honestly, best of luck.",0.9217318296432495,1429,False
+680420,90383106,76561197977001211,"I like Outriders and the time invested so far can attest to that. But unfortunately I cannot recommend such a bug ridden game to anyone in good conscience. I will not go through the many bugs encountered, as other reviews have done so more eloquently than I could ever do. For me though, two game breaking bugs forced me to stop playing:
+
+- The _constant_ disconnections from the server. When I am playing solo, why is there a need for an always ON connection? There is nothing more disheartening than having gone through an expedition and at the last moment you get disconnected without any loot drops or resources to show for it. And it happens A LOT!
+
+- Co-op gaming is so buggy, I spent more time trying to connect to friends' games and via versa, rather than actually playing. Often when a connection is established, and a party has formed, a crash to the desktop follows. And today my inventory was wiped clean after such a crash for a good measure.
+
+Most of my friends are so fed up and annoyed with Outriders, that stopped playing some time ago, some even mid-campaign. Having lost all my items is a sign that I must move on too and a warning to all that still play this buggy mess, that this could happen to you at any time, so beware.
+",0.9146660566329956,777,False
+680420,101262431,76561198006870257,"Personally I'm rather fond of Outriders - I wanted a loot and shoot game, kinda like Destiny or Remnant. That's what I got. You pick a class, you get cool powers, you shoot some dudes, you get some cool stuff and neat looking guns. There's some end game grinds for item sets and such. I have played the campaign fully co-op and single player with 2 separate classes. I enjoyed myself enormously. 
+
+I think a lot of the negative reviews come from people expecting a live service game or MMO - which the game is not, however it feels like that in places with it's destiny Esq UI and inventory. As long as you adjust your expectations accordingly, go in for a good 25-30 hour single player game with some extra's for end game replay ability you will enjoy yourself.
+
+The graphics are fantastic, the music is good but not memorable. The voice acting ranges from absolutely fantastic to downright awful and hilarious. The gun play is rather fun and powers SUPER satisfying. This is a solid 7.5/10 game that I can recommend when it's on sale.",0.902570903301239,422,True
+680420,91841106,76561199000001971,"This game has amazing potential. I've played it for over 350 hrs so i think I've earned my right to say my peace. 
+
+The combat is good when you are not getting one shot
+The story is meh if we are really being honest with ourselves
+The endgame is a joke its the same 6 (15 Total) maps that people will grind to get a god roll weapon or piece of armor
+It is only a speed run simulator and that for me grows boring quickly
+The world they built is beautiful but its isn't used after the main campaign a real waste in my opinion
+The many multiplayer bugs really killed a lot of interest for my friends and I ended up just alone in a game that is forced to be online 24/7
+
+This game could be amazing if they 
+
+1. Fix the many bugs
+2. Admit this is a live service game and treat it as such
+3. Add new content (modes, expedition types, Story DLC)
+4. Make it so that it is not a chore to get a legendary weapon or armor 
+5. Make Tiago useful or get rid of him. 
+6. Remember that not everyone wants to play in a group. 
+7. Remove the timers from expeditions and make other builds truly viable in solo or teams
+
+I will recommend this game when the majority of the issues get fixed. It isnt worth the $$$ currently",0.8991165161132812,421,False
+680420,97828143,76561197968374672,"So, what can I say about Outriders that's good? Because there is some good interspersed between all of the glitches and poor game design and I want to give credit where credit's due.
+
+THE GOOD
+-------------
+* The lore of this game is just awesome. I really loved the setup and the depth that they go into in all of the various journals and articles. I realize I'm probably in the minority here because I actually read them, but they were enjoyable to read. It was really interesting getting the perspective of the chaos on Earth, the first year of being on the new planet, and all of the different character's thoughts and feelings throughout the game.
+
+* I played Pyro and I honestly found the abilities and how your weapons and armor all tied into and enhanced them to be really nice. Is it unique? Nah, but they did a reasonable job with it and there were times where I had some really awesome combo's that made me feel like a true pyromancer. 
+
+* Some unique and interesting weapons in the game, especially later on, and you weren't punished on ammo like in Destiny 2 where I hear they're still trying to find heavy ammo for their guns to this day...
+
+* There's some great side quests that were well written and had some unexpected twists. I enjoyed... most of them!
+
+* The game is extremely pretty. It's just a shame that it's all looks and no substance. 
+
+Okay that's... pretty much it. If you read all of that, you might notice some pretty important things missing. Don't worry... I got you covered in...
+
+THE BAD
+----------
+* Not gonna lie, this game pissed me off on multiple occasions. Why? Because the combat system is so poorly balanced and even unfair at times. By the time you're level 22 - 26 or so, you've unlocked most of your skill points and things have slowed down as far as new gear coming in so you can start to develop your build a bit and be a bit more stable and consistent in how your skills and weapons work. However! While you're leveling up, you're replacing gear so often that you can't really develop a build at all and you just feel gimped all the frigging time! Combine that with my next point...
+
+* The AI are dicks! The game offers itself as a cover-based shooter, yet the AI rarely respects that and constantly forces you to run around in the open while chunky boss enemies run right up onto you into short-range combat while their army of snipers pick you off from across the map. Or enemies constantly toss grenades at you or just blindly charge into melee range and start whacking you. As you crank up the world level the enemies get spongier and this becomes more and more frustrating as you can no longer quickly pick enemies off, especially since you're gimped for 1/2 to 3/4 of the game. I dropped the world level to 3 after multiple attempts on 7 and some extremely frustrating boss fights and just mowed my way through the rest of the game. It was always either too brain dead easy or too frustratingly difficult with very little in between.
+
+* The cutscenes and the lip sync and the subtitles... I was surprised to see ""Square Enix"" with their name attached to this game when I started it up every play session because while I know they didn't develop it themselves... oh my god the quality was not up to snuff. It's incredible... just absolutely... incredible how badly they screwed up the cutscenes. There were times when the characters spoke before their voice lines played and vice versa. There were also times where the subtitles didn't match up with the characters speaking on screen... and towards the end I had one cutscene where the subtitles played rapid fire and were done wayyyy before the characters were done talking. It was actually insane. The camera is jank as all hell and there's tons of awkward cuts all the time throughout the game. One second they're driving through a horrendous situation and the next they're chilling at camp with no transition. It was SO jarring. Just... not well done at all and made it so hard to get into the world.
+
+* They even messed up the quest marker! The janky thing will point to quests you've already completed in an area, even when you've swapped to another quest. They don't let you go back into the area once you've completed the quest unless you go back and redo it... so why is the quest marker telling me that the quest I just selected is going to the area I just completed?! How did this not get fixed in the 4 months since the game came out?!
+
+* There was a distinct lack of interactions with a lot of the characters. Many characters just... popped up for a brief time and then never had any sort of role ever again. They never had new voice lines as things happened in the world and in general they were all just throwaway characters to move the plot forward. No depth whatsoever to most of them.
+
+* Endgame combat is pretty much a joke... at least, it seems the balance was never really fixed. If you're a pyro, just go with a light machine gun with 150 rounds and Perpetuum Mobile. Congrats! You now have an infinite ammo machine gun that shoots fire rounds and will keep reloading itself as long as you keep killing enemies. Once I got this it made all of my other weapons obsolete and just pointless to use. It's that broken. Infinite ammo, infinite healing, cover no longer mattered and I was just a god running around in the game completely unstoppable. Fun for a few missions, but then it lost its luster.
+
+* There's a TON of repetition. The same enemies, the same mission types, over and over and over again. Hell, some of the Bounties you did had the same exact character model for the dude you were hunting. It gets really stale really quick and the final 1/4 of the game is just one area of repetition after another. Tldr; it's frigging boring. 
+
+* Annnnd finally... the game had an entirely unfulfilling ending. Some spoilers here btw! You've been warned. 
+
+There's no conclusion whatsoever... the bad guy that you fight... 3 TIMES... is still not dead in the ending credits. For some reason, your character just refuses to kill them and so now they're alive through sheer plot armor for another game. Absolutely nothing is concluded and the game just sets itself up for a really monotonous endgame all to get you to... wait for it... unlock another boss battle in the eye of the storm to..... FIGHT THE SAME GUY FOR A 4TH TIME! Wooo.... and I think he's actually dead this time... maybe. But who really knows? There's just a few comments by the characters from back at camp after this occurs and then that's it. The storm is absolutely the same and there's no extra cutscene or wrap up in any way. You leave and it's just right back to the pod grind.
+
+CONCLUSION
+---------------
+There's times where I had fun playing this game for sure! But they were quickly drowned out by all of the problems and poor design decisions that went into Outriders. When the final credits played all I could think about was the long list of issues I had experienced throughout the game more than the ""epic conclusion"" to the story. That makes me sad, because like I said earlier, there WAS good writing in places and it had some good moments along the way. I wish they had put more effort into smoothing out all of the issues in Outriders. It really needed another year of development. I'm betting that if it released in April of 2022 instead of April of 2021, we'd have had a much better game than what we got. Even if they do continue the franchise... I'm not sure I care enough at this point to continue playing. The endgame has no meaning and for me... this is going into uninstall land likely never to see my hard drive again.
+
+I wholeheartedly recommend that you don't buy this game, at least at full price. For $20? Yeah, it's a pretty okay game for $20. Don't pay more than that. 
+
+And that's my review. Thanks for reading!",0.8748881220817566,190,False
+680420,119761762,76561198039506238,"Heard about the update and was excited.  Until I figured out that it is 40 bucks to get worldslayer.  What was I thinking, talk about stupidity on my part.  Yeah, why would they actually give us the update at no cost.  Especially after all the hardships and bull crap we went through while they tried to band aid their issues on a game we paid for, to test for them.   I hardly write up an reviews, but, I could not let this one go.. Shame on you!",0.8670784831047058,293,False
+680420,90858227,76561198019844678,"[h2]Introduction[/h2]
+
+[b]Outriders[/b] is a third-person looter shooter RPG developed by [i]People Can Fly[/i] (PCF). The game is set in a distant future where Earth has collapsed, and humanity is nearing extinction. In a desperate effort to save humankind, the ECA (Enoch Colonization Authority) sends colony ships across the stars with Enoch as destination, a planet similar to Earth, humanity’s last chance of survival. Here, you fill the shoes of a member of the [i]Outriders[/i] - an elite group of soldiers - trying to survive on a new and dangerous planet, afflicted by an endless war for survival. 
+
+Considering [i]PCF’s[/i] last work on [b]Bulletstorm[/b], I wasn’t expecting much regarding the narrative. However, to my delight, [b]Outriders[/b] has a very well-written and engaging story, accompanied by dense lore and excellent world-building. I’m very fond of how they took a turn with this title and went with a more serious and mature approach. From every character with their distinct personalities and purpose to the dark themes depicted in the plot, it is clear that the writers surpassed themselves this time. 
+
+[h2]Gameplay[/h2]
+
+Once again, the devs nailed the combat system. When I thought they couldn’t exceed their work on [b]Bulletstorm[/b] and its combat system, [b]Outriders[/b] proved me wrong. The game’s fast-paced, fluid and brutal combat mingled with all sorts of overpowered abilities is by far the highlight of the gameplay experience. This game - at most times - made me feel like a powerful being. Right from the beginning of my adventure, I felt like I was a demigod, teleporting behind enemies and slashing them with my energy sword. The gunplay is also magnificent. From light machine guns to sidearms, every weapon feels authentic and pleasant to handle and shoot. All of that is what makes [b]Outriders’[/b] combat so great in my eyes - it’s all about the fun. I haven't had this much joy slaughtering my enemies and feeling all mighty in a while. 
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=2466949940
+
+Alas, the uninspired and flawed level design is the most mediocre aspect of the gameplay. After playing [i]PCF’s[/i] previous title, I was really hoping to see a superior level design here in [b]Outriders[/b] - though I presume my hopes were all in vain. The levels are very restrictive, following an old-fashioned design akin to other more traditional third-person shooters such as Gears of War, Spec Ops: The Line, and even a more recent title, Remnant: From the Ashes. Here, for most of the time, you will simply be running in a straight line, advancing through combat arenas towards your objective. At first, I thought this wasn’t so bad since third-person shooters usually work similarly. However, at the end of the game, I felt like I essentially played the same level repeatedly for over 30 hours - and that was utterly wearing. 
+
+Even with the limited level design, the game has a considerable amount of things to do and places to explore. First off, the game has a pretty rewarding exploration system. Throughout the levels, the player can come across loot boxes to expand their arsenal and document files that provide more knowledge about the world surrounding them. Secondly, on almost every map, there will be side quests and activities such as hunts and mercenary jobs, which will reward you with better equipment.
+
+[b][i]I Have The POWER![/i][/b]
+
+As I previously said, sometimes, [b]Outriders[/b] will make you feel powerful; and that is only possible thanks to the class system. The game has a pretty broad and meaningful class and skills mechanic. There’s a total of 4 classes available right from the start, these being: Technomancer, Pyromancer, Trickster, and Devastator. Each of those is unique, with its distinct abilities, skill trees, and roles in combat. For instance, the Trickster - the one I’m the most familiar with - is a more agile class, mainly focusing on close-range combat, with impressive powers such as teleportation, time rifts, temporal anomalies, and many more abilities that fiddle with the concept of space and time. After playing with each class, I must say that the Trickster is by far my favorite. I had so much fun toying with my enemies, shooting them, and then vanishing into thin air only to appear on the other side of the combat arena. 
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=2466983836
+
+Along with the classes, the game also has an extensive skill tree where the player can spend the points they received after leveling up. You will earn 20 skill points throughout the game to spend the way you desire - with the possibility to relocate them at any time you wish with no costs. For those like myself who fancy creating all sorts of builds, that is a great feature. 
+
+[h2]Performance & Issues[/h2]
+
+
+[quote] [i] PC Specs
+GPU: RTX 3080
+CPU: Ryzen 5 5600x 
+RAM: 32GB[/i] [/quote]
+
+
+[b]Outriders[/b] has a significant problem concerning the difficulty and balancing. The difficulty as well as the loot, are both tied to the World Tiers. Hence, the higher the tier, the better your loot and tougher your enemies. This mechanic by itself isn’t a problem. It is quite the contrary; it’s reasonably compelling and serves to encourage you to play in higher difficulty settings. However, the execution was pretty awful. The game on higher tiers is totally broken and thoroughly unfair - and this is more evident when playing solo. For example, I lost count of how many times I got one shot by a sniper with superhuman reflexes or had my health leeched in seconds by some random enemy scout - it is so unbalanced that it becomes frustrating. 
+
+I know for a fact that one of the concerns of many people - myself included - regarding games similar to [b]Outriders[/b] is: can it be played solo? Fortunately, yes, it can. Nevertheless, that doesn’t mean they designed this title with enough thought on the single-player experience. For starters, there’s no offline mode in [b]Outriders[/b]; you’re always required to be connected to their servers while playing - and that is something very troublesome, as every now and then, the servers will eventually go under maintenance or have some issue, making it impossible to play, even by yourself. Sadly, that is a recurrent issue. By the end of my journey, I was tired of getting kicked out of my game session and seeing that “Internet Connection Error” message. Unfortunately, it doesn’t seem like the devs will implement an offline mode anytime soon - if ever. So if you recently bought or are planning on purchasing this title, then you better hold on tight to endure the tiring and endless disconnects.
+
+If you thought [b]Outriders[/b] couldn’t have more issues, then I have some bad news for you. The entire game is a bug-fest, with several minor glitches and a few aggravating game-breaking bugs. These range from a crucial cutscene with no sound, inaccessible quest areas, and invincible enemies to even having your whole progress wiped. Throughout my time playing [b]Outriders[/b], I encountered almost every kind of bug present in the game, but what infuriated me the most was the constant crashing. I already lost count of how many times I saw that stupid bird flying across my screen when re-entering the game after a crash. 
+
+Performance-wise, the game lacks polish. I didn’t have a stable frame rate throughout my playthrough; it usually runs around 80-100FPS, but with huge stutterings, dragging down the frame rate, causing the game to be unplayable at times.
+
+[h2]Conclusion[/h2]
+
+[b]Outriders[/b] had everything to be one of the best games of the genre, with its amazing gunplay, entertaining narrative, and exciting class system. And I’d really have liked to recommend it. However, afflicted by many issues and questionable design choices, the game fails to deliver a solid and remarkable experience. Overall, regardless of the fun I had, I can’t recommend this game in its current state. Wait for a sale.",0.8645190596580505,872,False
+680420,95981320,76561198156142503,"I'm saying no here, but honestly I want to put ""indifferent."" I don't think it's a BAD game, I just don't think it's a GOOD game either. It's just a game. It's also a game that feels confused about what it wants to be.
+
+ Is it a third person cover shooter? Well, kind of, but cover is rendered meaningless pretty fast as enemies lob grenades CONSTANTLY behind cover, and a lot of areas and boss fights have little to no cover to utilize unless it's forced for a specific mechanic, meaning most of the time you'll just run around and dodge. 
+
+ Is it a looter shooter, all about grinding for gear and drops? Well, again, kind of. You DO get a fair amount of loot throughout the game, but it's much more sparse than something like Borderlands, and you don't quite get the same satisfaction from other ""looter"" games. Most looter games have regular enemies regularly drop some trash, with a chance of it not being trash, then bosses and big enemies explode with a lot of loot. Seeing that loot explosion is the fun of it, and it's just not here. You'll get a drop or two, maybe 3 or 4 from an encounter if you're lucky, but most of the time it's trash. It just doesn't have the same bang.
+
+ Is it an RPG? Kind of. You have different classes, with different skills and skill trees. However, 90% of the nodes in the skill tree feel entirely pointless and like they do nothing. There's big ones that DO do something significant, but it takes a while to unlock those. I do appreciate that you can respec at any time, for free, but overall it doesn't really feel like there's much choice involved when it comes to the skill trees, at least not until very late in the game.
+
+ Is it at least fun? Once again, kind of. There are some heavy frustrations that you'll deal with in the game, and while I found some of the boss fights fun, it still ends up being a bit frustrating due to how the game's systems work. Every class has a way to heal, which is cool. However, three of those classes require you to kill something in order to heal. Pyromancer is the most frustrating, as you have to use your abilities on something and then kill them in order to heal. This means you spend a ton of time waiting on abilities. The Phase one and Earth one (idr names) require you to kill something in close range to heal. Why is this mechanic a problem? Most boss fights give you no option to heal on these classes, unless you have weapon siphoning or something similar to that. That makes otherwise fun and well designed bosses frustrating as hell. There's also specific bosses I really fucking hated, but we'll get into that.
+
+ My last gripe, and the biggest annoyance to me, is the armor system. Enemies sometimes will have armor, and a lot of it. That means your gun that was doing loads of damage and you really like tickles them. So, you have to use skills or use a ""bullet mod"" ability. All of the ""captains"" or ""elites"" of the game have a bunch of armor, and 90% of the time you wind up using all your CD's, then running away and dodging until they come back up, then using them again until the elite is dead. Since your only way to heal is by killing things on 3 of the 4 classes, you can't save the elite for last or pick off the guys chipping away at your health. You throw your CD's at the elite, kill the little guys while you wait for CD's to come back up, then go back to the elite, and rinse and repeat and pray you don't die while you juggle all of this bs. It's beyond frustrating, and is a stupid system. Just make the elites healthier, and let me shoot them. If I want to shoot things in a shooting game, I should be able to. Don't FORCE me to use all my abilities on the elite, because they take no damage otherwise. It's baffling they thought it was a good idea.",0.863099217414856,244,False
+680420,157901736,76561198075731543,"DON'T LET THIS DEV SCAM YOU! THIS IS NOT A NEW GAME RELEASE. 
+
+They are repackaging old content together in a definitive edition while ignoring major bugs. THERE IS STILL NO OFFLINE SINGLE PLAYER. All community feedback ignored. The online for it is DEAD. The devs show back up every few months spamming sales and editions but there is legitimately no changes made to the game. ALL REVIEWS FOR THE GAME ARE SUDDENLY MARKED AS PRE-RELEASE WHEN THE GAME HAS BEEN OUT FOR YEARS.
+
+Check SteamDB for player numbers online before making a purchase. Not enough players online to make it worth.
+
+DO NOT BE SCAMMED",0.8518137335777283,341,False
+680420,209039007,76561197996170088,"Haven't touched this game in years but I saw the horrible reviews and just wanted to throw in my 2 cents. Yes, it was pretty buggy, and yes, they had some growing pains. But I have never played a looter shooter before or after this game that made you feel like such an incredible badass.
+
+The story was interesting and brutal, and very sci-fi with the classic ""the true monster is us"" twist. But what really made this game stand out so much was the incredibly smooth combat. When you got your build going and found the right gear, you were a god: mowing down waves upon waves, surviving incredibly difficult battles and making yourself FEEL cool in the process. No one has nailed the ""guns + powers"" mechanics so well. Destiny 2 has NOTHING on this game, folks. Borderlands has better jokes but the vibe in this game was truly something special.
+
+Sadly, I think after a couple of patches and updates the true game actually came through, but by then everyone had - justifiably - dumped on it for being so rushed, and so it landed with a thud. If it had been given 6 more months, I honestly believe we'd still be playing this game today, but the community never recovered.
+
+In the end, though: it's still an AMAZING game. Absolutely still recommend picking it up and enjoying the story. Just know that when you reach the end, what was supposed to be a post-story end-game never really came together, the DLC was a dud, and the game has been abandoned, so don't expect anything to change. But it's still worth the price of admission for a fun-as-hell base game.",0.8389080762863159,58,True
+680420,99247317,76561199102096886,"Build diversity and endgame is really lackluster, there's  really only 1 build per character. Unless you use blighted rounds or twisted rounds and 4 or 5 other mods the game is unplayable, the skill tree has absolutely no effect on damage. if you don't use the meta builds enemies take multiple clips before they die. If you enjoy just playing only the Meta in a game that already requires you to replay the same content, then knock yourself out. In all looter shooters you replay the same content but you get to experiment with different builds, mods, weapon, and armor, in this game however its either meta or nothing, In my opinion, the repetitive nature of looter shooters requires them to be Live Service, they need regular balance passes, new weapons added periodically, new cosmetics, vendor refresh, and a yearly DLC, and possibly even special events throughout the year. This game could have been great but it seems that this game is no longer a priority for PCF, I hate to say it but there are better options out there",0.8324708938598633,157,False
+680420,92249751,76561198001012158,"The best way to describe Outriders is a mixed bag. It does some things right, but A LOT of things wrong, certain decisions made by the devs give a feeling that there was no real communication between the various teams. I guess I'll start with the positives and then work my way to the negatives, expeditions will be it's own seperate beast because man do I have some things to say about that.
+
+The Positives:
+-The legendary weapon and armor design are amazing with each class's armor having their own flavor
+
+-The world of Enoch is beautifully done with all the environments looking spectacular 
+
+-During the campaign every weapon class is usable for the most part
+
+The Downsides:
+-The music is nothing to write home about, it just sounds generic.
+
+-Weapon sounds, to borrow an opinion from Angry Joe, sounds like the enemies are making popcorn, a minigun doesn't sound like a minigun would.
+
+-The map... dear god do I LOATHE this map, no cardinal directions, nor a way to set a waypoint which is something games have had for what, 15 years now? Also certain quest markers get bugged and either don't show up or point you to a wall you just came from.
+
+-Enemies: every sentient enemy faction has the exact same types, minus a few abilites... but the worst offender is the local wildlife, it's the same enemies regardless of whether you're in a quarry, a desert, a jungle, the mountains, or a volcano. Also the Alpha Peforos and Crawlers are the bane of everyone's existence, I swear these things were created from Satan himself to punish us for our sins. Alphas just charge at you and if you have multiple of them (which will happen in expeditions) can just stunlock you into hell. Crawlers have this ice beam that has no range limit and you can't dodge it unless you break line of sight.
+
+-The developers themselves, People Can Fly, let me just say this: nerfing the players abilities in a PVE only game is not a good idea, unless something is truly broken, especially when there's 9,000,000 bugs that need to be fixed.
+
+-Armor of the Cannonball, for those of you who played the game, you know the pain, if you haven't played the game, it's the only classless legendary armor and I swear it has a 99% drop rate... just to irritate you.
+
+Expeditions (yes this deserves it's own category)
+-Time trials.... that is the only endgame and the only consistent way to get legendary items. Also 2 pieces of each legendary set is locked behind expeditions so you can't just farm open world places and get everything.
+
+-Any map where you play king of the hill for two minutes, most of the maps that have these you're up against the local wildlife which is mostly melee, this wouldn't be so bad if the obelisk didn't halt it's progress whenever an enemy is within range or if you didn't leave the circle. Hey tricksters and devastators (the two close range classes)I hope you love not using 75% of your abilities.
+
+-No balance for solo, the same amount of enemies regardless of if you're flying solo or playing with a group, the only change is enemy health, so on some maps it's 4 crawlers (which are minibosses), a boss, and 6 alphas (which are alsominibosses), alongside the random trash you have to clean up, good luck doing that solo without a PERFECT build.
+
+-Armor of the Cannonball (yes it's on here twice, you know why)
+
+-Also remember when I said every weapon class was usable in the story for the most part, well PCF decided to say ""screw the people that like sniper rifles"" because yeah, time trials are not something that goes well with sniping... at all.
+
+Overall I'd say wait for this game to go on sale or if you can buy a key for cheap, go that route. There's just too many negatives surrounding this game to justify paying full price.
+
+
+Update: Appreciation Package
+
+- So we got 3 things as an ""appreciation"" a SINGLE god rolled legendary weapon that people have reported are duplicates despite PCF's claims that it would be one players haven't gotten before. An emote that looks like it was done in 2 hours and was done by a beginner animator. And titanium which means nothing to players that have enough drop pod resources to sell to Tiago and then buy titanium off of Bailey.
+
+If this is PCF's version of appreciation I wonder what their version of spite is, this doesn't feel like a pat on the back. It doesn't feel like a slap to the face either, no, this feels like Mike Tyson in his prime coming at you with all his might and punching you in the face.",0.8266110420227051,133,False
+680420,90014579,76561197985896796,"Some positives before shooting it down;
+Great weapon sounds, AI, skill effects/design. Storyline is better than expected and made me hate some characters and really get behind some of my characters actions.
+-----------------------------------
+Discounting the first WEEKs worth of server/account/player inventory wipe issues, this game has let me and so many others down.
+
+Keeping players up to date with their network problems was fine, but basing their whole first patch around the 1% (streamers who had the game [b]a whole week before others[/b]) has broken my faith in this being fixed any time soon.
+
+Nerfing a PVE only game because of 3 valuable skills that the community found to be useful was dumb, but what was dumber was removing the non-endgame replay value of the game and crippling the rest of the game. This will force more exploits, more cheaters, more of the [i]""not our vision for the game""[/i] aspects to become the meta.
+
+I ranked up a Devastator to 30 and expedition tier 10 before these nerfs were put in place, they've barely affected my main, but having tried to play with random people and being repeatedly kicked from groups for playing a non-DPS class shows how the community views the game should be played.
+
+I tried a Technomancer at 30, and without following the meta they've just nuked, most builds are [i]hopeless[/i] with endgame content so what's the point in grinding for any different build when I know they're just going to remove the benefits rather than balance UP?
+
+Class trees are almost copy-pasted between the 4 classes. Sharing a LOT of the same skills/buffs to mag size etc and add nothing to the variety of how people play.
+There is no incentive for me to play a purely defensive/team focused tank, no one needs it.
+
+The only way to get endgame equipment is to grind the endgame to completion....which means you're running 10-15min matches of PVE over and over to improve your chances (which are <10%) of getting drops that allow you to move up a tier to do the same thing again...till you reach Tier 15. At which point, all of that gear and time becomes worthless, because there's literally nothing else to do.
+
+Oh I almost forgot, it's a live service, which it was categorically stated not to be on release. Which makes the devs pure liars.",0.8168006539344788,195,False
+680420,117970786,76561197998412753,"looked forward to the game being updated, but for another $40. thats a hard pass. the game wasn't complete the first time and now you want more money for what another 5 hours of game play lol. what a rip off. will never support these money hungry devs",0.8155844807624817,188,False
+680420,115772229,76561198338678944,"Disconnect on servers, especially on the Eye of the Storm(Most Expensive dungeon/expeditions with the best loot) and Other PAID Expeditions! Relying on Servers even though you are playing Solo!!!!!!!!! 1 YEAR+++ BAD SERVERS STILL 
+
+New DLC
+No detailed changes(Secret nerfs and buffs). Scared of backlash and losing money
+Would love another Horizone Update Buff ALL!",0.8125280737876892,96,False
+680420,137502245,76561198085407770,"TL;DR
+Good game buried under a host of technical errors and the devs have already announced they aren't fixing it anymore. If you HAVE to buy it, wait for a sale and don't even bother with Worldslayer.
+
+Onto the full review
+
+Let's get this out of the way: I don't hate the game itself.
+
+In fact I rather enjoyed it. Played all the way to the end, in fact. But the game is still plagued by a slew of performance issues that can in fact get you killed. Freezes and stutter and the occasional ability failing to go off while still charging you your use and the occasional invisible incoming attack forces me away from recommending the game.
+
+I find this to be a damn shame. There was a good game buried underneath all of this technical baloney scuff sandwich. The loot is desirable, the customization aspects of the mod system (in base game) were intuitive and rewarded creativity, and the transmog system, which was a late addition, was welcome to keep the drip going instead of looking like a hobo wearing whatever he could find. The combat was satisfying, the abilities were excellent, and the expeditions in the endgame I tried later were a nice, steady grind. If the technical issues didn't exist I could easily see myself playing this with the boys after work. But they remain. I've more or less been with this game on and off since the open beta and the technical issues always made me go away.
+
+And the worst part is? People Can Fly has already stated they're moving away from continued development of this game, meaning the unpolished gem we have here is the best it's going to be. It will never be a truly stable experience. Though, looking at the fact that the game has been consistently below a thousand concurrent players since November 2022, can't say I blame PCF for dropping it. A damn shame.",0.8094210028648376,65,False
+680420,108728720,76561198071401000,"I was expecting a sort of hub-based MMOG where you hang out in public areas with other people and then split up into instances to do missions. But really Outriders is more of a surprisingly well constructed single player campaign, then some endgame dungeon diving, with a drop-in coop system that lets you invite (or randomly matchmake with) people at any point you have achieved.
+
+Outriders labels itself as an RPG but it's pretty light on the roleplay and very heavy on combat. There's one solution to any given problem and it involves murdering everything that isn't the solution. The story campaign is a satisfying length and unexpectedly well made. You have a clearly defined objective from the start, but it will take you in unexpected directions. I will warn you that the story starts off slow and the world seems very small. Give it time to build up. Multiple times I thought I was reaching what was going to be the final reveal, only to have a door opened and a new chapter of the story start. While there is basically no real room for you to make story decisions aside from which side quests to take on, the game also doesn't force you to grind for anything or repeat. It's a constant pressure to go forward and it's always got something new and fresh to show you.
+
+So, nice story, pretty linear, how's the combat then?  Not world-shatteringly original, you have enemies that have telegraphed AOEs, and stuff you can interrupt. Three different guns, shoot your primaries as long as you have ammo,  your choice of three class-specific powers on a cooldown. It's all very familiar to this genre....
+
+BUT it's masterfully tuned. They've taken the basic blocks most gamers are familiar with and put them together in a very pleasing way. Clearly a ton of effort went into making the player feel like a total boss and to inspiring you to build your character in ways that ""combo"". For example you can cause Bleeding on enemies in a radius when you get a kill, then add a feature where you do increased damage against Bleeding enemies and finally get ammo back when you kill a Bleeding enemy. It's a simple 3-note rhythm that turns you into a tornado of blood and bullets, and there's tons of these little combos waiting to be discovered. Enemies tend to come in hordes and be fairly durable so discovering how to commit war crimes in the most elegant and efficient way possible should be on your To Do list.
+
+Speaking of discovery, near the start of the game you will have a choice of 4 playable characters. As you level up you will gain access to new class-specific abilities, which can then be *heavily* modified by your passive skill tree (realistically there's more like 12 ""classes"" because the skill tree changes things so much), and then your equipped Mods, which you must find and learn from items dropped in the game. These are NOT revealed to you ahead of time, so you'll find yourself looking at every new weapon or piece of armor wondering what character-morphing superpower you might unlock; my character shifted builds multiple times in the course of the campaign and it felt like a good and satisfying process. You aren't punished for making a 'wrong' build choice at all, in fact the only thing you can't change is your overall starting class.
+
+Once you reach the end of the story you'll be able to participate in an endgame path called ""Expeditions"", which is basically the same combat but with reduced story and heightened difficulty to let you really explore all the most broken and terrifying character possiblities. There are separate matchmaking modes for story and expeditions which is nice. Cross platform play is enabled, and I never had any trouble finding other people to play with, though the game often complained about network conditions being bad. The gameplay experience was rarely visibly degraded by lag so maybe the game client is just overly paranoid.
+
+The caveats. Overall my experience has been positive with the game, but no game is perfect. A few things that bothered me:
+- The game's World Tier is like a difficulty selector. Do not set this to auto-maximum or think you need World Tier to match your story progress: **you will have a bad experience**. Set the World Tier higher only if you are finding the game too easy to be enjoyable. Higher WT levels are for endgame characters with massive gear advantages. Again: you WILL ruin your game experience you focus on this as a new player.
+- For a game that wants to get so much mileage out of coop play, especially in the end game, the total lack of communication features is a head scratcher. There's no text chat. There isn't even any in game voice chat for PC, nor across platforms. There isn't even a way to share a discord link (see: no text chat).  If you have friends that play Outriders, you sure aren't going to meet them IN Outriders.
+- Do not turn on vsync or frame rate limit within the game. For some reason this causes the game to run at half-resolution and everything will be a blurry mess. If you want to set a frame rate limit do it in your graphics driver control panel. I would think that a basic setting that totally destroys the visual quality of the game would be a priority fix, but reading the webs apparently this has been a thing for a long time now. It makes me slightly concerned.
+- There is no protection against getting stunlocked. Sometimes there are just so many enemies that I could literally could not even reload my gun because I was getting tackled, interrupted, and knocked around from every direction. While combat is overall the cornerstone that the game is built on, I wish they had seen fit to cut the player some slack and put a limit on how often enemies will try to interrupt you because getting stunlocking is just never fun.",0.8085088133811951,50,True
+680420,102893114,76561198002682943,"Came back for the New Horizon update and not disappointed.  Forgot how good the shooting and mechanics felt, and with timers gone on expeditions my friends and I have had a lot more fun playing around with builds.  Still just been a couple of runs since the update dropped, but already feels like a good place to vacation while Back 4 Blood gets their act together.",0.8042437434196472,65,True
+680420,92000803,76561198007164421,"I have enjoyed playing this game.  I have probably already gotten my moneys worth out of it, but...
+
+I do wish game makers would move away from  insisting that you have to be on their server to play a game.  I don't believe there is any good reason to make a person be signed into a server to play single player.  Lets face it every game that uses a server is going to drop dead one day because the server is shut down.  So basically the game you buy has a shelve life because it is for server use only.  Are they going to send out an update when they drop the servers so that the game can be played single player on your on computer?  I doubt it.",0.8018705248832703,145,True
+680420,92301802,76561198073416715,"Take it as an adventure game of about 15-20 hours. Not a looter shooter. if your goal is to get legendaries then when you have them, no content to use them into.
+Not to speak that you NEED to upgrade your gear and build with powerful stuff and legendaries to have HOPE to get legendaries. To eventually not really use them. Vicious Circle.
+Too much problems, 
+Always online : you  loose connection with theirs servers for a split second and boom you last 20 min in expeditions is vanished and you can't recover your rewards .. Do the expeditions again from start. If you happen to be in a party and the leader disconnect. Same deal do it all over again ... You  finished an expedition and about to get your hard earned loot BAM disconnect .. no loot for you  ... sorry do it again..
+
+Building your character: No targeted drop pool, you can farm for 400 hours or more and still not get the missing part of your legendary set ... because  if you do it at hightest challenge tier CT15 and managed to gold it ( finish the expedition under a certain restrictive timer) you get 4 chance at 25% for a legendary ( and usually you get nothing, i think the drop is rigged ) .. those 4 chances are drawn from a 46 legendary weapons pool and 35 legendary armor pool ...  that's 4 draw of 25% to get 1 chance out of 81 to get the piece you missing. if you do math .. 30% of expeditions you get nothing ... 70% of expeditions you get 1.2% of getting  the needed piece. Some builds are near impossible to finish. And we dont have the loot table (studio not transparent about that) some NOT sought after gear ( i look at you cannonball set ) seems to drop more often
+
+Stash is too small and you can delete you most powerful gear if not careful .. no buy back no undo.
+
+Endgame: It is only: How do i do the most DPS  to complete the fastest to get the best reward .. Tank build .. forget it ... heal build .. forget it ... you're too slow ... DPS  DPS DPS ... Max health or healing received on a piece of gear is direct trash ... all you want is DPS DPS DPS....
+
+I wont go over .. bugs ..  gear not working ... boss one shotting you and in solo you can't revive etc etc ...
+Only positivie thing is the mod system but a bit too random to make the perfect piece you want.
+
+To sum it up: Don't fall to the siren's call , remember the studio ""People can't fly"", and walk away.",0.7972776293754578,279,False
+680420,90654709,76561197966626941,"Been thinking a lot about if i should give this game a thumbs up or down. The gameplay are great, the guns are great, the story are great and the humor is also often good. 
+
+So whats the problem you might ask. 
+
+Wel...
+
+There is a lot of issues and bugs in this game and i kinda lost fate in the Game DEV. 
+
+*There was a bug that deleted your inventory, i was  not affected by this but even now they have no info on when or how the players affected by this bug wil get their gear and items back.  Players that have got every item removed are told to go to reddit and wait there. 
+
+* There is quit few thing that are bugged or just plain broken. One example is Golem mod. It gives you 65& reduced dmg taken when below 30% hp. Its bugged and you  get that bonus until you log out. Why this haven't been fixed or that mod just locked until fixed i really dont know. It really breaks the classes. 
+
+* you as a player have no immunity vs CC, some mobs/monsters and bosses have that. But you as a powerful outrider wil find your self chain cc'ed to death. Or you just get swarmed and body blocked to death. 
+
+* You are forced to play online, but their servers are still struggling even 20 days after release. I get kicked out of the game  often and are lagging often. 
+
+* The performance is often so bad, i cant even remember last time i struggled so hard with a game. The game crashes like once every 30-60 min for me and often i have to restart the computer to close the game. cant close the game, cant get to the task manager even alt F4 dont work. 
+
+* Return to lobby makes you quit the game half the time, and you are again forced to watch intro movies that cant be skipped and get stuck in log in screen for a few mins. 
+
+* There is no build diversity in this game, the only end game is a dps run and if you go for something else then a pure dps build you are just punishing your self. There is no tank or heal classes even if the game try to sell some classes as those roles. 
+
+*Scaling is a mess in this game. Some of the mods (upgrades to weapons) are doing way to much dmg. More then any skill/spell and if you are lucky to get that mod you are set for life.
+
+I still enjoy the game play but i also get more and more irritated by the poor performance, all the damn bugs, the lack of build diversity, lack of endgame and poor scaleing (lack of balance)",0.7966419458389282,145,False
+680420,157997734,76561198057533247,"Dodgy tactics from a company that hid fixes and updates that should have been in the base game (or at least as a free patch) behind an overpriced DLC... who then abandoned the game. Now they're trying to squeeze money out of it in a last ditch grab with a ""Complete Edition"". Make no mistake to those of us who loved the game... this came out of nowhere and isn't a good sign. Believe the reviews.
+
+This game had massive potential and, if the bugs were ironed out, could have been a huge community favourite. The gameplay is immensely satisfying, the gunplay / class trick balance is well rounded and the worldbuilding is, whilst linear and not incredible, still satisying and immersive.
+
+However, the game is riddled with server connection problems, character issues and stuck in online-only, not to mention carrying a history of game-breaking, character-deleting bugs. The devs fully abandoned this game not long after the last DLC, and the Complete Edition release should be in no way seen as a reflection of a new commitment.
+
+The release date of the full game was also changed to be 8th Feb 2024, the date the CE was released. This caused all prior reviews to be tagged as ""Prerelease"", as if the game hadn't been out for years already. Looks like Steam stepped in and corrected it. I absolutely would give them the benefit of the doubt over this, however given their history of game treatment (go see their announcement of their newest game's current buggy state), I'm not convinced it was merely a bug. Make your own decision about that.",0.7935267090797424,91,False
+680420,147973035,76561199520059038,"I didn't want my first Steam Review to be Like this. 
+
+I can't Wrap around by head Why Outriders is Dead?! 
+I've barely found anyone playing this Amazing game. 
+Have Gamers forgotten that games are suppose to be played to have fun. 
+
+There's no Micro Transactions. 
+There's No Pay To Win. 
+
+The Transmog effect is Free unlike some other games. 
+
+The Gun Play is great.
+
+The Effects are fluid. 
+
+The Difficulty scales alongside you. 
+So even if you get OP you can still get 1 or 2 shotted at times. 
+
+There's Numerous Classes & Subclasses to play this game. 
+So many Perks , Mods & A Skill Tree that can be Reset infinitely to try Different Subclasses. 
+
+It has So much Replay Value.  
+Game has barely Crashed. 
+I'm playing this on a Steam Deck. 
+(I already own this on Playstation4 & 5 more than 150hrs.)
+
+",0.7847636938095093,62,True
+680420,116774829,76561198027035640,"Note: played solo, maximum world level, pyromancer.
+
+
+[b] The story [/b]
+
+Well, the story is… simple, actually.
+
+It’s a bit like a classic sci-fi story. It’s really enjoyable to follow without ever being mind-blowing.
+
+On the other hand, the writing is… well, it never really soars, actually. The dialogue doesn’t stand out; it’s sometimes so poorly written that it becomes ridiculous. But it’s actually quite good.
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=2798568059
+
+The characters are quite endearing, the basic plot is okay, the villains are cool enough not to be ridiculous, the lore is substantial enough to keep things interesting, there are surprises and plot twists,...
+
+It’s a solid 5–6 out of 10 because, whilst it never surprises or reaches great heights, it’s still very decent after a while – but we’ll come back to that later.
+
+[b] the graphics [/b]
+Yep, it looks lovely.
+
+I tried the game without RTX and on DX11, with all settings on ‘Ultra’, and honestly, it looks the part, without being quite unforgettable.
+The environments are really lovely, but, er… after a few hours of playing, actually. But that’s a problem with the game itself; you’ll see why.
+
+I can’t talk about the graphics without mentioning the design, and that’s actually the game’s big problem. It has no real identity in the first half of the game.
+
+The opening minutes show generic vehicles and people in generic sci-fi armour traversing a ‘plain and forest’ on a generic, unknown planet. Even the first environments are: a war zone with trenches that just look like WWI but on a larger scale, followed by a forest with, er… a sawmill. Seriously, I’m not joking. OK, it’s pretty, but honestly, you’re supposed to be selling us a dream, aren’t you?
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=2809644879
+
+The worst bit is that the environments, armour and characters only really start to get a bit original after a few hours of play. Luckily, the storyline’s interesting enough to keep us going, because otherwise, after 10 hours, we’d be absolutely fed up of fighting in a forest in Montana.
+
+[b] The gameplay [/b]
+Well, I’m not exactly an expert on this sort of game as a service, but I’ll at least be able to assess it from a novice’s perspective.
+
+The basic gameplay boils down to something like *Gears of War* – in other words, a cover-based shooter.
+
+The added bonus? ‘Magical powers’ that depend on your class.
+
+
+Once again, simple and classic. Honestly, it does the job. There’s a whole range of weapons, plus class-specific weapon and armour customisations. We’ve seen worse.
+
+As for quests, they generally boil down to getting from point A to point B whilst killing everything that moves, with the occasional objective defence or mini-boss thrown in.  It’s clearly not hugely varied, but that’s why certain side quests, such as hunting or slightly story-driven quests, are there to ‘spice things up’ a bit without actually changing the structure.
+
+The enemies are quite varied in terms of their appearance but, unfortunately, often remain similar in terms of gameplay. The real changes come, once again, towards the end of the game, so after quite a few hours.
+
+
+The game isn’t without its problems.
+Obviously there are bugs, whether it’s minor sound glitches that can be a bit of a nuisance, crashes, or connection issues when playing online.
+
+There are also issues inherent to the game that make me wonder whether it was really tested thoroughly. For example, you sometimes face enemies that advance rapidly towards you, especially as certain types of enemies literally charge straight at you. Your instinct? Retreat. Except that, well, if you back up too far from the combat zone (even though the whole map is, in theory, more or less open), you get a countdown telling you not to abandon your mates. If you stay, you die and have to start again. OK, but why? What’s the point? Sometimes you can’t even take cover, and when you’re playing solo at the maximum world level (meaning enemies are always a few levels higher than you), well, it’s necessary.
+
+Similarly, using abilities whilst in cover triggers an animation where your character steps out from cover, performs their attack, then returns. That’s normal, yes, except that sometimes the delay between the end of the attack and getting back into cover lasts a few fractions of a second, during which you’re vulnerable to attacks but can’t do much about it. So once again, when facing enemies who are INCREDIBLY higher level than you, well, you get absolutely torn to shreds.
+
+And the game is full of little quirks like that which can drive you mad at times because it’s so frustrating. I’ve no problem with my own incompetence, but when you lose because the game is a bit poorly designed and you have to start ALL over again from the beginning of the area, it’s really frustrating.
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=2815956373
+
+[b] the end game [/b]
+Once you’ve finished the game, you basically unlock the Incursion mode, which consists of combat zones where you can earn legendary loot. These zones get progressively harder, and the loot you can earn isn’t necessarily that appealing in the end. Ultimately, it requires quite an intense grind for a reward that isn’t really that great, so… to be honest, I gave it a go and then decided that after 40 hours of playing through the story and side missions, it was best to call it a day.
+
+[b] Conclusion [/b]
+
+In conclusion, I think OUTRIDERS is a game worth playing overall, if only for the story or for playing sessions with mates.
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=2807924126
+
+It’s a game full of minor frustrations, but it never gets to the point of being infuriating. Whilst it’s not a Game of the Year contender, it’s an enjoyable and rather charming experience, accessible to both new and seasoned players, and one that even allows more ‘casual’ players to get to grips with it thanks to a customisable difficulty setting.",0.781482994556427,43,True
+680420,168733635,76561198961726227,"I played this in 2024 on a PC, so now idea how it launched, somehow it flew under my radar, i had a blast with it, especially with the monster hunts and bounties, the story is good enough, the characters are likable, hope there is a sequel in the oven for this game.",0.7769882082939148,39,True
+680420,114413661,76561197973861974,"The Outriders was a bust right from launch and then to add salt to the wound the developers continued to make promises they couldn't keep and now they want you to purchase the World Slayer which should have been the real Outrider's to begin with... If you’re a sucker that paid with your hard earned money for Outriders I hope that you learned a lesson from this. I will never pre-order another game and will wait a while until the reviews...
+The World Slayer should be free to all the players who purchased the game originally and had to put up with all of the nonsense, drama and promises from the game developers. I for one will not purchase World Slayer!
+",0.7733531594276428,152,False
+680420,141189577,76561198323115934,"Imagine if Destiny (loot / gear system) + Gear of War (3rd person / cover mechanics) + Borderlands (class abilities) all had a baby together. Could probably throw Remnant From the Ashes (level structure) and Diablo (multiple tiered difficulty system with incentives) in the mix as well. All this combined is the best way I can describe Outriders. And it works well.
+
+The gun play feels great; class abilities make you feel godly vs. enemies. Crafting / upgrading gear is pretty straight-forward. I've played with a friend and coop functions well. The tone of the story is good;l a bit more gritty / dark like OG Gears of War 1. 
+
+Give it a go, you won't be disappointed shlooting the day away.",0.7731198668479919,40,True
+680420,157305966,76561198076168026,"I mostly play looter-shooters (eg, Borderlands series) and ARPGs (PoE, Diablo, Grim Dawn, Last Epoch, etc). 
+
+I started playing this game in late 2023, and I can't for the life of me understand why this game has such negative reviews and/or flies under the radar.
+
+The gameplay is intense, fluid, and really fun. The skills you get are really varied and allow for a wide range of playstyles. And the variety of weapon and armour mods is just outstanding, and there's a lot of fun in trying out new builds, etc.
+
+As an example, I'll point to the Trickster class. Slow Trap allows you to pause time in a bubble around you, and you can literally see bullets coming in and slowing down. Hunt the Prey allows you to teleport to other areas of the map and come up behind enemies. Time Rift throws enemies in front of you up in the air. Or you can go melee with Cyclone... etc. It's just... fun.
+
+Pros:
+- The 4 classes, which are really different in playstyle
+- The class skills, the mods you can use for those skills, and the varied gameplay they offer
+- The weapon and armour mod system
+- The class tree & PAX tree (if you got Worldslayer)
+- The variety of interactions across all this, and the way it just changes how you play the game
+- The voice acting, cut scenes, etc
+- The areas and the beautiful design
+- The relaxed approach to looting (you don't need to pick up stuff individually, you can just pick it all up pressing H, or it'll be auto picked up when leaving an area). This means you can go through an area, stay immersed in the action, and when you're done you take a break to look at the new stuff you got.
+
+Cons:
+- The storyline is not fantastic, it falls into very usual tropes and is somewhat predictable. But, that's very much like most blockbuster action movies nowadays.
+- The cover system, which is kinda pointless, and you mostly end up not using. I'd have loved there to be a way to jump over stuff, and free movement.
+- Pointless repetitive cutscenes, like when you're entering an area and it breaks to show you squeezing through 2 rocks or jumping across a ravine. 
+
+Anyway, this game deserves to be played and enjoyed. It has the best loot & gameplay experience I ever experienced on a looter-shooter.",0.7728540897369385,96,True
+680420,104755381,76561197971919987,"[hr][h1]TL:DR[/h1][/hr][hr]
+[b]Pros:[/b][list]
+[*]Loot’n’craft is dope! 
+[*]Legendary items feels unique. 
+[*]Diverse landscape!
+[*]All Classes have unique playstyle and are interesting to play with.
+[*]Story is interesting, a lot of attention to the details (a lot of foreshadowing)
+[/list]
+[b]Cons:[/b][list]
+[*]Firearms remain viable option only on low-level difficulty.
+[*]Build diversity – near of state “almost exist.”
+[*]Prologue – is a confusing mess.
+[*]After 2/3 of the campaign is merely done, story start to slow down and became predictable.
+[*]Big variety of tech issues including network ones.
+[*]Other player abilities are to loud.
+[*]Game spoilers story via loading screen and tips in it...
+[/list]
+[b]Mixed:[/b][list]
+[*]Side-quests are interesting story wise, but not gameplay wise. 
+[*]Can replay campaign and side-quests endlessly, but it’s unrewarding because of how game structured.
+[*]Side-quests lacks in variety, there like 3 quests that don't require of you to shoot and even one trying to be a horror.
+[*]Enemy variation – a game about alien planet with anomaly storms that can force rapid evolution, yet we fight same enemy with a different color scheme!
+[/list]
+[b]Verdict:[/b] Bugs aside, purchase with the discount!
+
+
+
+[hr][h1]Full review[/h1][/hr][hr]
+Writhed around 1-2 week after initial game release, but was never finished, and with the power of [b]«Steam Autumn Sale»[/b] – I had to. 
+
+Also, the review is lengthy, and the number of characters is limited, therefore let's skip the [i]foreplay[/i] and get straight to the [i]action[/i].
+
+
+
+[hr][h1]White, Green, Blue, Purple and Orange.[/h1][/hr][hr]
+[i]If you didn't know what those colors represent...[/i] – let’s be real this stuff are in 90% of modern games nowadays. 
+As well as that one thing, which is persistent as your neighbor with hammer drill – [b]Trash loot.[/b]
+
+We all have our own answer to [i]“why trash loot exist?”[/i], but I’ve ne'er seen someone who is actually trying to fix it and… [u]succeed[/u] at it! 
+
+[i]“How Outriders done it?!”[/i] – You ask. 
+
+Simple – Crafting. It was made in mind to be useful in midgame and endgame.
+[i](There goes list “why is Crafting is great, but it’s useless on low-level."" If you read this, then I run-out off...) [/i]
+
+
+
+[hr][h1]Gun or glorified magic wand?[/h1][/hr][hr][i]“Y’all got any more of that [b]«Fortress»[/b] mod?”[/i][/hr]
+
+
+What is core focus of all looter-shooter type of games? 
+Right, Guns! And how they feels in player “hands.”
+
+[b]«Outriders»[/b] have around eleven types of guns and all weapons have stuff called [b]«variation»[/b] [i](semi to auto, bigger mag or bigger damage, etc.)[/i], which also can be switched via crafting menu.
+
+Weapons like the Armor have [b]«Mod»[/b] slot, which can alter gameplay. And sadly not all mods are good, and some are to op to not utilize them.
+
+But what prevents guns to be in main choice of dealing damage is enemy scaling (more hp and damage they do) on higher difficulty. 
+
+So on harder difficulty we left with only one thing to do – is adapt and transform our guns into utility gear to proc [b]«weapon mods»[/b] or player skills to slay an enemy. 
+
+Some skills even have strength to one-shot enemy, but pure dps from the gun can’t achieve that, [i]lol.[/i]
+
+Therefore after [b]WT6[/b] majority of players use [i]“two”[/i] type of guns:[list]
+[*]LMG with big mag, to proc mods or/and player skills often.
+[*]Any other gun that have required combination of mods. 
+[/list]
+
+
+
+[hr][h1]Build Diversity or lack of thereof!?[/h1][/hr][hr]
+We have [b]four[/b] playable classes with unique and thematically different abilities. 
+
+[i]Yet[/i], three out of four classes develop same ability with slight variation in name, color and stats department, and their… 
+
+[b]Skill-Tree[/b]’s is kinda bland.
+It’s made out of three sub-trees, all classes have unique names for them but they all do the same: 
+[table]
+    [tr]
+        [th]Universal name 
+for sub-tree:[/th]
+        [th]Placement in 
+«Class» window:[/th]
+[th]Main Focus on:[/th]
+    [/tr]
+    [tr]
+        [td]Firepower[/td]
+        [td]Top[/td]
+        [td]Weapon damage[/td]
+    [/tr]
+    [tr]
+        [td]Survival[/td]
+        [td]Middle[/td]
+        [td]Survivability[/td]
+    [/tr]
+    [tr]
+        [td]Anomaly[/td]
+        [td]Bottom[/td]
+        [td]Abilities[/td]
+    [/tr]
+[/table][list]
+[*]All classes start from same spot, with slightly altered nodes to be fitted for specific class.
+[*]Nodes unlocks in sequentially one after another.
+[*]Amount of skill-points you can naturally acquire from leveling is 20, but to fully unlock one skill-tree you need around 25~ points.
+[/list]
+
+If we look at some builds that, are available online, we can clearly see remarkable similarity in them, with exception of one or two nodes in skill-tree, and a bit different ability set up.
+
+This brings us to conclusion: game is in drastic need of node diversity or/and increased pool of skill-points to give us leeway in making more unique builds. 
+
+
+
+[hr][h1]Difficulty[/h1][/hr][hr]
+[b]«Outriders»[/b] use somewhat known difficulty modifier called [b]«World Tier.»[/b]
+Which is heavily modified, to make it work for a newbie and veterans alike.
+
+If in other games new  [b]Tiers [/b] can be unlocked after player hit certain threshold of [b]«Gear Score,»[/b] in Outriders case, you need to level it up. But  [b]WT[/b] gains exp only on last unlocked tier.
+
+[i]”But Wait, There's More!”[/i]
+It will loose exp, if your character dying a bit to much in same encounter.
+At-ease, soldier! You cant un-level yourself.
+
+Premise of a difficulty that will increase to consistently provide a challenge, intrigued me.
+In theory this is good idea, but like the rest, the realization of it leaves much to be desired.
+Because despite all of that changes game still just buff NPC stats, but not their AI and/or adding new types of enemies.
+
+
+
+[hr][h1]Story and it’s lack of pacing (w/o spoilers)[/h1][/hr][hr][i]“Looter shooters and the curse of bad writing.""[/i][/hr]
+
+This one is rough. You can fix bugs and broken mechanics but not the story.
+
+[b]«Outriders»[/b] story had lots of high and lows in the quality department. 
+But most of it is ruined by [i]“shaky camera man”[/i], I get why you need it – to show action, but where is the action in [i]“two men just talking a near table”[/i]? 
+
+The story pacing is all over the place. 
+Periodically we got straight bee-lined trough events.
+On the other hand in some parts of campaign, pacing feels stretched to beyond believe, almost like it was made intentionally to fulfill set quota on game length.
+
+Let's take a look at its rushed prologue for example:[list]
+[*]Amount of lore, story and events cramped in a very short prologue is mind boggling. 
+[*]NPC are dying left and right, and player character acts like we should care, but we don't since we knew them for 1 minute or less.
+[*]We can read more about events and our relationship witch characters in a journal.
+[/list]
+This prologue has same vibes; as when you are trying to watch new TV Series from last episode of first season and the 1st episode of season two, with x2 speed on.
+
+But how it can be [i]""fixed""[/i]:
+[list]
+[*]Instead of bombarding the player with text to make them care about all of this.
+[*]Make few extra missions on Earth to show how “bad” was on it. 
+[*]Including our “fight” to enter the spaceship «S.M. Flores.» (which, we had)
+[*]And a bit extended version of arrival on Enoch, extra time to chat with people on orbit.
+[/list]
+As one once told: [i]“Show, don’t tell!”[/i]
+All of this will give players some time to make an quick bond with NPC, and when game start killing them off, we will can relate to the pain our character feels when his friends/colleague was killed.
+
+
+[b]In the end.[/b]
+
+Game has many issues with its story pacing and some odd staged scenes, shaky camera; however, I liked main story plot and twists – even though they rather predictable. 
+
+If only those people have more experience…",0.8151806592941284,75,True
+680420,102871176,76561198136369284,"Disclaimer: In my experience, the performance for the demo might not be as consistently smooth as the full game depending on your hardware, so be wary of that (though that might just be me). Also, keep in mind that the game is not a live-service game akin to Warframe, Destiny 2 and Path of Exile, and therefore, does have an end. 
+
+I believe that tampering your expectations is the key in enjoying Outriders as it truly is, and not what it's supposed to be. An enjoyable third person shooter with solid gun-play, a robust RPG system with fun class skills to wreck shit, and despite having considerable endgame content, a journey that does ultimately end after 35 hours on average, instead of being endlessly re-playable like Diablo, Warframe, etc. (which is not a con by any means, and generally preferable for someone like me who may not have all the time in the world).
+
+While yes, the launch of the game has been questionable from a technical standpoint, a majority of the bugs and issues, if not all, have been addressed via patches, as well as a few QoL improvements from what I've been seeing. Personally speaking, I haven't experienced any bugs as of yet, and the story has been significantly engaging (and often campy in the best of ways XD), especially compared  to similar games in the genre. I almost exclusively played the game via coop with a friend, and the experience has been pretty consistent.
+
+Overall, while the game does not break any new grounds, I'm really enjoying my time with it, and I implore both new and old players to give the game another try whenever its on sale. Also, the demo may help you decide whether if the game is for you or not. At the very least, I'm enjoying the game much more than Borderlands 3, so take that for what you will. Though I can't give the game a full rating just yet, If I have to quantify my enjoyment of the game so far,  I'll probably give it a strong 7 out of 10 for me. So if the concept sounds interesting, give the game a try.",0.7649835348129272,63,True
+680420,106480712,76561197992006866,"★★★★☆
+Its like Gears of War and Destiny had a babby, and after being ashamed of its shitty game-parents, [b]Outriders[/b] went out and made something of itself.
+
+[h1]Reasons to Buy:[/h1]
++ Excessively satisfying combat
++ There is an actual story, with actual cutscenes, meaning this qualifies as an actual [b][i]VIDEO[/i][/b] game.  Mind.  Fucking.  Blown.
++ The free demo for this game is longer than most modern games in their entirety, and then you can purchase to seamlessly continue into the full adventure.
+
+[h1]Reasons to Bail:[/h1]
+- Coop is not accessible.
+
+[h1]Nitpicking & Biased:[/h1]
++ Action roll
++ Map variety
++ Badass guns
++ Great writing
++ Unreal Engine
++ Heal by combat
++ Cool sci-fi setting
++ These maps are art
++ Decent enemy variety
++ Useful quest path finding
++ Movement between cover
++ Helmet hidden in cutscenes
++ Equip-all transmog-set button
++ Freely respec skill tree anytime
++ Transmog is unlimited and varied
++ Leave trails in the snow and sand
++ Even the side quests are interesting
++ Gotta catch 'em alllll, Transmogmon!
++ Quickmark all for scrapping and selling
++ Lore and gameplay sync especially well
++ Detailed scoreboard at the end of expeditions
++ Freely recustomize your character from the hub
++ Explode enemies into blood mist with OP shotguns
++ Tricksters have epic abilities, in visuals and functionality
++ Change difficulty any time, even in the middle of combat
++ Temporal blade is the coolest looking spell effect of all time
++ This main character gives no fucks, in the best possible way
++ The cover based shooting is solid, but you don't even need the cover
++ ARPG style gear, with set-worthy ability upgrades, not just stat creep
++ Auto loot anything missed when changing zones (tho it doesn't default to commons)
++ Not only does this game have actual cutscenes, but even the usually generic facecam dialogue is decently animated
++ The side quests in this game have more value than the main quests in most modern games.  Each with a unique, fully presented story, and unique areas to explore.  If bounties had a fully animated execution scene, that explained the target (instead of just their text log) even those wouldn't disappoint.
+
++- Transmog isn't sticky
++- Repeatable sidequests
++- Voice acting could be better
++- Even with crossplay, coop is dead
++- Character creation, could be better
++- Graphics and performance, could be better
++- Scaling T* difficulty help counter stat creep
++- The entire game is madeup of mini dungeons
++- Randomly few cutscenes show coop partners
++- Weapon mods do more DPS than the weapons
++- You can rez yourself in coop, but not in singleplayer
++- If you can't 1shot trash, you have the difficultly set too high
++- Various settings need changing, but they do all have settings
++- Transmogs and achievements are cross-character, nothing else is
++- You can upgrade gear, to keep the good ones, but it is stupid expensive
++- 99% of the loot you pickup is garbage, requiring you to craft and/or buy progression
++- There is a suicide bomber enemy type.  Against classes that heal when enemies die near them... GG
++- Usually I'm a big fan of turrets, but considering how crazy many of the other abilities in this game are, tossing a turret is kinda boring.  
++- You can only fast travel from fast travel points, but its not as huge a deal as an open world, since maps are relatively small and the points are where needed.    
++- Not sure exactly how loot distribution works, but my level 30 character who finished the story gets literally zero commons and way more purps than he did while progressing.  
++- Text logs are treated as the irrelevant background noise they should be, if even.  When you do find an important one, they summarize it in dialogue, instead of expecting you to read a mind numbing wall of text.  
+
+- Can't jump
+- Can't pause
+- Buggy DOF filter
+- Glitchy cloth physics
+- Movement can be clunky
+- Radar doesn't track collectibles 
+- Can't pause cutscenes, only skip
+- Hold, instead of tap, to everything
+- Sprinting randomly stops sprinting
+- Can't coop demo with the full game
+- Sometimes the quest path bugs out
+- Character names are account locked
+- Mods aren't sticky.  Kanai's Cube when?  
+- Dialogue mutes when you open a menu
+- Can't ping/mark or communicate in coop
+- Can't change class, or access an all-class
+- Difficulty vs reward is not balanced equally
+- Half the features aren't unlocked until Town 2
+- Levelingup difficulty makes shop prices bullshit
+- Legendaries are unimpressive, compared to purps
+- Vaulting is derpy, being on the same button as roll
+- Internet connection required, even for singleplayer
+- Bosses are ridiculous bullet sponges at higher difficulties 
+- Ability points are given at weird levels, especially after 22
+- Coop is a stat fuck, because it only scales against the host
+- You can't preview locked mods, makes it hard to plan a build
+- You can't fast travel between zones, you have to take the bus
+- Weapon types need their own tabs.  And mods by trigger type.  
+- Expedition enemies don't drop loot, just one lump payout at the end
+- Its sad that what is fun, and what is endgame viable, are not the same
+- Abilities shouldn't be level locked, to encourage build variety and balance
+- Endgame starts at level 31, but I was only level 27 when I finished the story
+- There's a super car as part of the story and meta, but you can't actually drive
+- Some weapons become completely worthless when they can't 1shot enemies  
+- Loot from chests is still on your level, even when playing with a level 1 friend, cheese farm
+- The endgame expeditions for farming legendaries, have a 0.1% chance to drop legendaries.  Ouch.  
+- Downtime between expeditions is derpy in coop.  Should work more like an MMO dungeon finder.  
+- There is no mark for un/owned transmogs, would be useful in shops and quest reward selections
+- Quest path finding is hard to spot when it shoots out behind you, and sometimes bugs out completely 
+- Having to E to pickup loot is derp, though you can technically ignore it until the end of a mission to auto collect it all
+- Expeditions really miss the mark cinematically.  Irrelevant arena overlords and warlords followed by wildlife trashpacks.
+- Shield-on-hit is nonsensically under-powered, if not straight up bugged.  It passively drains away before you can even get a single pellet.
+- Scrapping and selling should be a singular system.  If you scrap things, to do the mandatory crafting, you never have enough money to shop
+- Game is dead.  There are no to players coop with.  Even with crossplay.  Either that, or matchmaking with randoms is completely broken.
+- The endgame is only accessible at endgame.  That might sound like it makes sense, but it gates you from playing the core coop with friends/anyone.
+- Half of the endgame missions involve standing near a pillar and waiting for it to sink into the ground.  There were none of these anti-fun anti-skill time gates in the campaign, so why now?
+- Targeting Technomancer abilities is derp AF.  Every other class's work fine, some even impressively so.  Turrets should violently explode into existence at an enemy location or something.
+- The game is lacking an exploration pillar.  Maps are linear shooting galleries.  Gets exhausting.  Something as simple as having 10x as many chests, dotting the radar, after combat, could probably resolve this.
+- If you turn the FPS limit on, not only does it secretly sub-sample in an attempt to maintain that FPS, but it lowers entire graphic settings, to a ridiculous degree.  To the point of being game breaking, so you can't see enemy bullets.  And you can't even turn that setting off for cutscenes.  I appreciate the idea of cutscene vs gameplay graphic options (similar to hiding your helmet in cutscenes), but this is a godawful implementation.
+
+* Bought on sale, 66% off, for $20.
+* You can get this game, and a million more, for $1, via Game Pass.  I did not.  Mistakes were made.  Tho I do like the extra Steam integration.",0.7647499442100525,182,True
+680420,157904177,76561198105260582,"Don't be fooled by the release date of this ""complete"" edition. Outriders has been fully out for [i]years[/i] now, and is still just as bad as it was then. This is just a last-ditch effort to get more money from this game where you're forced to be online even when playing solo, and the endgame is either a boring rogue-like maze with little variation or an extermination mission ending in a mini-boss fight.",0.7622048258781433,133,False
+680420,111970001,76561198021345640,"I have *struggled* to play this game. After the demo that went really well, I decided to prepurchase. I am never making that mistake again. The game isn't the greatest of all time, but it's fun! I enjoy the classes, I enjoy the gunplay, but I have never had a full game session. I have constantly crashed out of this game. I finally get to the end game, but I've never finished an expedition because it always crashes before it finishes. I have tried every few months to get back into it, with no luck. And by no luck, I mean I don't even often get to the main menu.
+
+I hate this game, and I hate everything they put us through for it.",0.7612606287002563,110,False
+680420,213276952,76561198046116258,"Not as bad as the mainstream make it. 
+
+Silly, fun and good combat. 
+Builds are also wide enough to make different playstyles viable. 
+
+If you don't take gaming too seriously, this might be for you. 
+
+Sometimes it is ok to play through a campaign and leave the game to be. Not every game needs endless grinding etc.
+
+8/10",0.75876784324646,33,True
+680420,89802979,76561197971186925,"This game had high potential but stopped in the middle of getting good.
+Every time I play it I try to compare it with Remnant: From the Ashes, and evey time this game loses.
+
+Interesting bosses with complex mechanics? Nope, most bosses in Outriders are simple and uninteresting. Except for mandatory spider boss maybe.
+Elite monsters for hunting sub-quests are a joke: ""Let's kill blue version of elite mob. Now let's kill green version of the same elite mob"".
+
+Different guns with interesting abilities? Nope. You have same weapon types just with different upgrade slots. Yes, upgrades spice up things a bit but in the end it's still the same shotguns and SMGs.
+
+World looks empty. It seems to have a lot of things but you can't interact with them - it's all decorations which you can't even break. What you actually have is a long static decorated corridor with maybe 1 or 2 side locations and you just run straight through it. This makes you feel disconnected from the world and everything that happens in it.
+
+Quests are boring. Side missions are divided in 3 types: kill elite monster, kill elite human, help someone. First 2 types are practically the same for all different targets and have almost 0 value. And the ""help"" quests are actually replayable making them negative value. What's the point of fulfilling a dying man's wish if he's resurrected to give you same side quest again?
+
+And finally the gameplay issues: matchmaking and network code needs to be rewritten from the scratch. Devs, you can ask creators of Deep Rock Galactic for tips, they have done it right. As of now, when lobby is closed game crashes to desktop. Not only that, you have no control over anything regarding the matchmaking: classes you wand to play with, ping to game host, picking missions, nothing. You just click ""find a team"" and join who knows who to do whatever matchmaking decides, possiby when mission is 80% over already. This will kill teamplay if not already killed it. And without co-op this game gets boring really fast.
+
+I'll put a litle bit of sugar at the end: the story is OK, classes are pretty good and the graphics are beautiful. Unfrortunately that's most of the pros.",0.757707417011261,586,False
+680420,204771279,76561197972358179,Always online horse crap with horse crap servers. Getting booted from the server while playing single player or experiencing lag while playing single player is outrageous. Dont even bother not even on a sale.,0.7521897554397583,47,False
+680420,221696732,76561199029624800,"A great storyline, good voice acting, good looking graphics, lots of enemy types and plenty of variety when it comes to locations.
+And then there's endgame content. Expeditions (like dungeons) give you materials (to upgrade gear) and legendary weapon. Though it can be a bit grindy but I still like it.
+
+Some bugs, like map quest markers not working sometimes or showing the wrong direction, but overall it's pretty bug-free.
+
+Gameplay : 9/10
+Graphics : 9/10
+Performance/ optimization : 10/10
+
+[h1] The biggest con of this game [/h1]
+is that it's an online service, even in solo play - which really sux if Server goes down it will be gone forever  even if you pay for the whole game .",0.7509211897850037,52,False
+680420,116108168,76561197994926259,"I bought this game in 2022 and I absolutely 100% recommend it!
+
+People Can Fly (PCF) made a AAA RPG Looter Shooter in 2021 that had no microtransaction store - no cosmetics and gear hidden behind a paywall, no ‘time savers’ to speed up a deliberately frustrating and grindy leveling experience. 
+
+As a result, the combat difficulty curve feels right. You don’t have to do any grinding to get to the end of the main story. It’s not that you can’t grind - you just don’t have to. I appreciate having that choice.
+
+I have read online that the initial launch was a bit rocky, but PCF have done a great job so far with patches and rebalances. Of course there are still bugs to squash and balancing tweaks to be made, but the gameplay in its current state is fun and enjoyable.",0.7492176294326782,120,True
+680420,89859815,76561198094166847,"the gun play is really solid, the class identity is good, the real problem here though is that the game is severely overpriced (by 30 bucks) and the polish is not there at all. why does it take a full cutscene to jump a log? why does snapping into cover sometimes not work? partner this with a rather weak story and its hard to recommend this at its current price. However, the building blocks are there for an amazing looter shooter if they improve the best parts of the game, and would highly recommend this on sale if the devs do a good job with solid updates.",0.7491416335105896,332,True
+680420,90787094,76561198020834478,"Decent story, I like how the controls work and for someone like me who has nerve damage it can be set low enough difficulty that I can successfully play it. As to the multiplayer functions I do not know as I rarely play with others (again nerve damage, kinda cannot compete). Love the graphics as well.",0.7399247288703918,77,True
+680420,90965845,76561198005090925,"One would think ""huh, 70 hours and a thumbs down"" and that's mainly because the endgame, Challenege Teirs 12-15, are an entirely different game than the rest.
+
+
+better hope you randomed into one of the 5-6 exotic weapons and armors in the game that are essential for CTs12-15 else good f'ing luck.  Ive tried firepower and anomaly builds and without the stupid broken mods, you simply dont do enough damage.
+
+and EVEN IF YOU DO ENOUGH DAMAGE, you always risk getting uncounterably 2 shot by enemies.  Brood Mothers can just swipe twice through armor, each swipe hitting for 80% of your health.  Oh and you'll be staggerd for 3s that entire time and all the other enemies will dish out their normal damange.
+
+There is no resistance to knockback either.  That benefit is reserved only for the enemies.  You just get infinite CC'd by charging enemies or every elite having a stomp attack because the people who made this game are fucking rank amateurs.
+
+Save your money, or refund it if you just bought this game.  They do a balance patch nerfing one class into the ground meanwhile I literally can't progress at my tier (T13/14, in mostly 48/49 gear) because i am missing all of the core mods.  Only way to get them is to drop the difficulty by like 5 tiers, only i still am threatened with being 2 shot at lower tiers.  You also get a fraction of your resources too, so that's fun.
+
+
+If you got this far, fuck the people who made this game.  They dont know what they are doing.  Just pass on this, even on a Steam game sale.  They dont deserve your money.",0.7380293011665344,191,False
+680420,89708674,76561198121005960,"The game had potential - but right now it is very difficult to get into. 
+It annoyed me enough to write down my first review, after using Steam for 8 years or so. 
+
+Firstly, I want to say i bought the game for the co-op experience with my bf and was sorely disappointed as it is almost impossible to play the game in its current state and enjoy it with someone else. For the purpose of this review, I will also note that both of us share the same fast and reliable internet connection and same high-end rigs. 
+Now, the main issues I have with the game are listed below:
+- lagspikes, server issues - considering the game has -just- been release, I do hope these issues will be addressed. Right now, the connection to the servers is mandatory, meaning every time you crash, you lose progress - or, depending on a mission - need to restart it from the beginning. throughout one boss battle, either me or bf crashed 4 times - and since you cannot rejoin mid boss battle - guess what? We had to restart progress all four times until merciful servers finally let us go through. 
+- rubberbanding, enemies teleporting - sucks to be you, snipers. I had it more times than I can count. Somehow, my bf (the server host) has no issues mowing down the enemies - but the moment too many of them appear on the map, me as guest experiened rubberbanding galore. One second I am shooting this one pesky elite, the next moment they are on me and from 100% health I end up dead. I have no idea what happened nor how they got there. Before someone asks - no, the type of the mob did not have teleportation as part of its skillset. The amount of times when I aimed and shot at nothing because mobs decided to rubberband few metres away is just... too damn high and damn frustrating. 
+- Bodyblocking. One could say - 'just don't get trapped and you will be fine, alrite?'. Well. Yes. Usually tactical positioning is a life-saver in these situations. Unless you have dozens of enemies rubbernabdning and surrounding you. However, there's no issue! Even as you die, you have one revive, right? So I click E... only for the game to revive me -inside- an epic mob. I cannot move. I cannot attack. I cannot -anything- as the mob quickly cuts down my health to zero. 
+- 'Reload freeze'. I don't even understand that bug, to be fair. Having ammo to reload with, my character just randomly decides that -you know what?- reloading is for suckers, let's see how good I am at dodging the enemies attacks instead of actually responding with fire. So, throughout my shared co-op experience, I had few instances of 10-15s where I simply couldn't attack back, for no reason. 
+
+The amount of glaring bugs, frustrations, server issues and the sheer inability to enjoy the content with someone else is definitely not worth the price. It needs a lot of fixing and I hope the issues will be addressed. 
+If you still can, refund. If you cannot - well, you and me, brother - I feel you.",0.7355365753173828,216,False
+680420,106307517,76561198053713440,"At first this game felt like it was a good game but as you progress it becomes boring, predictable and repetitive. 
+
+The game becomes boring due to the lack of consideration on its coop. I can understand why they would attempt to make coop with strangers to be 'random' but after numerous attempts to find a group you never get the right party. You either get someone too strong that would just bulldoze the fun out of the game (someone who had legendary gears in max tier world), people too scared of higher tiers (a max level player in a tier 1 was the worst I had) and the most worst of them all is a person in afk with his/her game open for players to join (I waited quite a while then decided to leave the game and join another one, guess what... I joined same person again twice and felt there was no point continuing to look for a random group as I will end up with same person). All of these could have been avoided if only the game devs considered more in the coop (worst of all, there is no way to communicate but through mic. yes... no typing cause of crossplay). (Oh yeah, queue time in matchmaking is really bad... you don't get a sense of how long the queue is as it does not show anything how many players are willing to matchmaking. The worst queue I had was an hour. Far more worst than queuing was there was no sound, a simple beep atleast, that would tell you ""Oh there is a match will you like to join?"" when you decide to grab a drink of water with a 30 second countdown...)
+
+The game is too predictable because after playing a bunch of games in coop. I realized that the enemies are the same in areas even in different tier levels, the only difference is that they get more HP or DMG (same elite in same location, same number of monster in same location). Although coop does offer more by adding more monster in the same location (like one more elite for each player added or adding a more troublesome elite for if you got 3 people or making the weak mob 2x the amount) but it is still too predictable. Although the map makes the enemies challenging, their location and point of spawns felt hard coded, another missed chance for the game devs as they could atleast made the spawn in same map have atleast 2 types of spawn points (what I mean is having atleast having the game randomly pick from two enemy spawn point to make it far less predictable).
+
+Lastly repetitive, the game being boring and predictable is the reason why it is repetitive. Teaming with random groups tend to be repetitive as it is. If I have to compare this to a successful game, they don't have anything that would tell the players to come back and play with seasonal content. They do release updates but at this point it is just a bandage over all the scars left untended before the game release.
+___________________________________________________________________________
+UPDATE:
+In addition to my review, I just recently started the thing they call 'expeditions'. Unfortunately my first impression of the expedition has been filled with bugs and crashes. 
+
+1st attempt:I tried expedition by myself and I got server disconnected at the final boss. Sadly no loot till you finish an expedition.
+
+2nd attempt: I tried to expedition by joining someone, I did get a drop pod loot but only since I joined halfway but I did not get any tier level due to host leaving.
+
+3rd attempt: joined another group, start of expedition and the game crashes.
+
+4th attempt: made my own expedition with someone joining it, the game crashed when more enemy mobs spawned.
+
+Overall 1 out of 4 did I get loot but in terms of game progress its not a nice feeling to play repeating an expedition with no hard earned gear or tier progression. My computer system should be able to handle it since I got more than enough RAM and GPU than the requirements has mentioned. Sadly I am no longer enticed to continue the game unless a friend would want me to play it. Why you ask? Well, an endgame is all about getting the end gear, but it you dont get it due to random crashes and bugs 3/4 of the time I feel like playing another game would be better since a game in general should be 'enjoyable' to the player not something like this where its not part of the game's gameplay but rather the game devs lack of fast response to bugs.",0.7334436178207397,92,False
+680420,131296301,76561197980598949,"It becomes addictive but gets repetitive fast. Story is laughable.
+You get a truck you can customize but you can't drive it...wtf is the point?",0.7314016819000244,60,False
+680420,102898979,76561198167762776,"I put a fair amount of time into this game (~250 hours).  I've played on and off since launch.  I can't recommend it with the current state (Nov 16, 2021).  The new content was just released and I can't even get to a point of trying it out.  The game just spins in circles when I load it up.  It's the last of many bugs, but I'm not willing to try and deal with this one.  The game has been a buggy mess since day 1.  Things don't work the way they should.  Every patch that fixes something breaks two other things.  Other folks can defend that the devs are trying, but for a AAA title at this stage it's just not in a good space, and frankly I'm not sure it ever really was.  The game had the potential to be great.  Unfortunately the lack of endgame and the MANY bugs throughout the months have just made it a disappointment.
+
+UPDATE (4/24/22):  So I reinstalled after seeing the DLC announcement.  I logged in and immediately faced some really bad controller settings that I had to (re)adjust for to get the game to be ""playable"".  Additionally there was a quest at the endgame camp that crashed my game twice when I talked to the quest giver.  Yeah, I'm done.  Amazingly bad product support for a game supposedly supported by a AAA developer.  My interest on the $40 DLC (wow!) went from mediocre to laughable very quickly.  Uninstalling (again).",0.7290399074554443,192,False
+680420,91014898,76561199093900312,"This game suffers from the same problems that sent Anthem to it's grave. Looking past the insane number of launch issues and a full inventory wiping bug. The biggest issue I have with this ""looter shooter"" is the insane lack of interesting loot. Tack on a very limited build system and you have a very dull Diablo with guns situation that lacks the key aspects that make Diablo type games super fun. I've been running the highest tier of endgame for a bit now and it just feels pointless and quickly causes a loss of interest when you realize how small the chances are of getting both an item you are trying for and it having a decent roll and having the right mod setup. Now, to make matters worse although there is a decent number of endgame counters, people only want to run a very few because they are the easiest to farm. The loot system needs a huge over haul or this game is dead in the water. Honestly as is, it is like they just removed flying from Anthem, reskinned it, and tricked people into playing it again.
+
+UPDATE: With each update, the game becomes more broken. Now, with one shot / two shot / phantom deaths running end game is beyond stressful and on top it has made leveling alts a nightmare. This game is officially dead in the water. A total waste of money.",0.7272183299064636,131,False
+680420,101333142,76561198021798799,"It's exactly what I wanted from borderlands but didn't get. A more complete package that delivers a looter shooter without neglecting the story. Bosses are weak point and if stuff becomes too bullet-spongy as you increase the difficulty (diablo 3 style), you can lower it a tier or two at any time and fix the problem.
+Combat is great, the game is beautiful, plenty of fully motion captured cinematics, plenty of biomes, aggressive AI. 
+What begins as a cover based shooter will eventually become a DOOM-like chaos and as in DOOM, it still requires attention and careful managing of your skills cooldowns. 
+I wanted a little more enemy variety. This becomes more apparent near the end especially because the game is very long and it also expects you to stick with it for a while after you finish, but it never becomes problematic because there are still plenty of enemies get thrown at you.
+
+Would recommend ! Especially with friends. Oh, and, by the way, I suffered no bugs or server issues.",0.7223246693611145,149,True
+680420,197890105,76561198065877448,"This is one of my favorite games. I've been putting this review off a long time, but this game deserves it, with one major caveat: it's always online. As far as I can tell this game will cease to exist if Square Enix ever decides to pull the plug, which would be a travesty. The game was never a live service despite immediate comparisons to destiny, and had a mixed initial reception due to the endgame and lack of updates. I could see the endgame criticism, but it was never a live service title despite the online requirement and shouldn't have been treated as one.
+
+I've played through the campaign and worldslayer expansion a couple different times with different people, and I did the grind to apocalypse 25 for the last achievement. Honestly, I'll probably play through it again in future. It has what I consider a perfect mix: enjoyable writing and setting, engaging gameplay, and buildcrafting that heavily impacts gameplay without being too granular and confusing.
+
+The writing tends to get mixed reactions, and I personally prefer the writing in the base game to worldslayer. The character writing and humor is very dry and cynical, and there are lots of casual character deaths and killings. They really drive home that life is worthless on Enoch. It makes for a pretty unique tone because it is very grounded and cynical, especially for the time when most productions had very overly optimistic writing. The setting is interesting but has a couple key issues (especially in worldslayer) which require suspension of disbelief. I really liked it though and if you want a more grounded experience stick to the base game. Love Jakub, love the casual approach to violence, hate Channa, 'nuff said.
+
+The gameplay itself is an ARPG crossed with a third person cover shooter. There's multiple skill trees you progress through, and you have to specialize between weapon types and skill categories, and whether you focus on weapon or skill power etc. Unfortunately snipers and rifles are useless because in worldslayer they patched them (the highest dps build in the game used to be a sniper build); you can use them for fun but I wouldn't recommend taking one of those builds to really high difficulties. The shooting feels good, weapons are all very chunky and have good effects. Skills look great and can make enemies explode, or turn into ash and blow away, or have exposed skeletons etc. Overall just a very good time.
+
+The buildcraft is really what keeps me coming back; it's very easy to make builds that feel broken that you use to challenge higher difficulty levels, with each level putting enemies at successively higher levels with more health and damage / damage reduction in exchange for better loot drops. The loot has what I'm going to call base statistics, the generic stuff you would expect: armor, damage value, etc. which scale with the level of the equipment. It also has a set of rolled upgradeable statistics and 0-3 mods. The upgradeable statistics are boosted by feeding fragments from disassembled pieces that have those same statistics, and the bonuses stack. The mods can affect your skills or introduce new interactions. An example of this would be making shots generate shield, a resource normally inaccessible to 3 of the classes, or to link 5 enemies within 8 meters and deal scaled damage over time. Mods from disassembled pieces go into a database and you can apply anything in that database to any component, but you can only swap out one slot. You can change your mind later, but only about the one slot you altered, and for the equipment with 3 mods the 3rd is always random and cannot be modified. There are also set bonuses for the legendaries, which come with their own unique mods. There's enough complexity to dig into, with the results having immediate (and highly visual) effects on the gameplay without being too granular or confusing.
+
+You can get the whole package for chips these days, so despite the online requirement I wholeheartedly recommend the game as long as you intend to play it relatively close to when you purchase it. Its biggest issues are its iffy netcode, the server requirement, and a repetitive endgame which ends on a hook for a sequel we'll never get, but they can't detract from what I otherwise consider the best looter shooter on the market. We'll never get it, but I want a sequel quite badly.",0.71790611743927,23,True
+680420,100927961,76561197961210325,"Do you love Scifi looter shooters with some RPG elements? Do you enjoy a fun unoriginal unique story about traveling the stars to run from your past? Do like to partake in a wold full of easily digestible lore with optional logs to read for more? Are you willing to ignore some obvious bugs and/or graphical glitches? Would a game that has no pause because its ""always online"" not bother you? Do you find simple game play loops such as, attack, loot, equip, run, interact, listen/watch some story, repeat, right up your alley? Then have I got a game for you!
+
+If you said yes to all of the above then you will enjoy Outriders. 
+
+Is it the best game I have played? No. Is it even in the top 10? I don't think so. Would I play through the whole story again with a different class? Probably not. Am I glad I purchased it on sale and played through the story at my own pace? You betcha!! Did I leave the matchmaking setting to open for some random drop in/out players? Heck yeah!! Did I take my time and play most of the side missions because I was interested in the world around me? For sure!! Were the check points, autosaves, and story beats correctly paced for an active adult with a only a few hours here and there to play? Without a doubt!!
+
+As long as you calibrate your expectations, you will enjoy Outriders! I enjoyed it for what it was and not what I thought it should be. I waited as long as I did because the reviews indicated it was a good game, but needed a little more time in the oven. I knew it would scratch that scifi looter shooter itch and that I would play it eventually, just needed to be patient. Patience paid off! I finished the main story, played some of the end game, and even have a few side missions to wrap up that I am looking forward to completing. 
+
+In the end, it delivered as expected! Easily worth $29.99.",0.7146018743515015,28,True
+680420,89518256,76561197978837955,"Update #2: I thought earlier today that I should test yesterday's update more extensively. After a few hours without any bigger issues, I then had the bug that was supposed to have been fixed with the last update as well. And it happens to be the worst bug you, as a player, can have.
+
+Because my [b]WHOLE GAME PROGRESS[/b] is gone. [b]COMPLETELY![/b] Inventory empty, loot gone. 80 hours of gameplay wiped. Thanks for nothing, you incompetent morons.
+
+–––––
+
+Update #1: They released a rather big patch today (April 9th, around 2.4GB in size) and the crashing issues still exist for me. ¯\_(ツ)_/¯
+
+–––––
+
+I wish I hadn't bought OUTRIDERS.
+
+But let me say one thing up front: OUTRIDERS is a really good game, or at least it [b]CAN[/b] be a really good game. It is extremely fun, especially in co-op, and thoroughly entertaining. The visuals are beautiful and the atmosphere is top notch, the aiming is very reminiscent of good old CS 1.6 times, making it very direct and snappy, and all in all you [b]COULD[/b] give OUTRIDERS a positive review.
+
+That is [b]IF THE GAME WOULD ACTUALLY WORK[/b]!
+
+Guys, I've seen a lot of really buggy games, and I'm talking about games like Skyrim, which needed community mods to fix bugs that Bethesda never seemed to be able (or willing?) to fix. Anyway.
+
+The things I encountered in OUTRIDERS during my ~75 hours of gameplay are hard to beat. I'm not going into the catastrophic and absolutely outrageous ""performance"" of the servers during the game's launch – servers that you need to be able to connect to in order play the game at all, mind you – because games like this often have to deal with server problems when they are released.
+
+What I'm talking about is the fundamentally terrible performance and stability of the game. I really don't have a bad PC (i9 7980XE @ 4.60 GHz, ASUS RTX TUF 3070 OC, 64GB RAM, SSD only, fully water-cooled), so the argument that I ""just need to upgrade"" is bullshit. Still, OUTRIDERS manages to crash [b]MORE THAN ONCE PER HOUR[/b] for me on average. Sometimes it's an Unreal Engine error, sometimes the game just shuts down, sometimes it freezes, then there's supposedly not enough VRAM available on my graphics card – although according to task manager and resource monitor there's never more than 6GB VRAM (out of a total of 8GB) used. As of today there are crashes when opening or closing the inventory, which were supposedly already fixed in the beta. lol.
+
+In a good 8 out of 10 cases (yes, really!) I can ""provoke"" the crashes by trying to modify weapons at Zahedi or travel to another area at Channa. Whenever I confirm the dialog with ""E"", the game crashes. This has now gone so far that I had to get a friend to join me in my lobby so that he could start the journey to another area for me instead. [b]WHAT THE FUCK GUYS?![/b]
+
+Despite changing the graphics driver versions (as recommended by the devs) several times, switching from DirectX 12 to DirectX 11 (as recommended by the devs) several times, experimenting with different graphics and game settings and more, absolutely nothing changes for the better and the game is and remains an unstable pile of crappy code.
+
+If we take into account the other things that could be legitimately criticized, namely: 
+[list]
+[*]always-online requirement (even for singleplayer!)
+[*]bad audio mixing
+[*]bad matchmaking
+[*]bad servers
+[*]bad and too many unnecessary cutscenes
+[*]no option for loadouts
+[*]no functionality for trading with your crew
+[*]no possibility to ""lock""/secure your equipment from accidentally selling/scrapping it
+[/list]
+... then it seems to be absolutely crystal clear what the developers should take care of with highest priority, right? [b]WRONG![/b] Instead of addressing and fixing the many, many major stability and performance issues, [b]THEY RE-BALANCED THE GAME BY NERFING SKILLS AND MODS FIRST![/b]
+
+All things considered it's really not surprising anymore that you [b]need[/b] an active server connection to get to the main menu before you can close the game properly. Yes, you read that right: Without a server connection, you can't get to the main menu, and you have to ""close"" the game (for example, in case of server problems) through ALT+F4. Think about that!
+
+I don't know what to say, guys, but I definitely wouldn't recommend to spend any money on OUTRIDERS right now. There are many issues to fix and I don't think that will happen in a timely manner. Maybe, and hopefully, the developers will prove me wrong, because as I said before, OUTRIDERS has the potential to be a great game. But until then I won't touch the game anymore.",0.7133093476295471,28,False
+680420,89579880,76561198067716202,"After 17 hours solo play, close to the end of the story, I can recommend the game.
+Pros:
+
+- satisfying, fast and very aggressive gameplay: 
+Seriously, if you are behind cover for anything beyond waiting for Cooldowns to drop to combo a group of enemies down, you are doing something wrong
+
+- the mod system is probably one of the best I've played myself: 
+It isn't anything complicated, but it's incredible satisfying to make your own weapons out of other weapons. Same goes for armor. You even need to do that if you plan to get through the game on higher World Tiers. Go back to your camp and switch your mods as often as you can. Things like Ash, Stormwhip and co are incredible useful
+
+- the abilities aren't anything special but they feel great and work very well with each other in singleplayer as well as a team enviroment
+
+- the story:
+ has it's good moments but can I please get some attention to the main character? I fucking love them. Just brutal honesty, no facades and no hero-syndrom. Just an ass that has a goal and wants to survive. I love that xD
+
+The bad:
+
+- it has some technical problems here and there. I've had micro-stutterings, got sometimes thrown out because of server connection issues and a few other things. You might want to wait for a bit until the devs can get them out but in my opinion, those aren't really that big of a problem. 
+
+Overall, if you like looter-shooters, chances are that you will like Outriders, simple as that. It won't replace Destiny, Warframe, Division or any other out there but the thing is...this is a full game. No need for MTX, no live-service bullshit where you need to wait for half a monthor even years until you get meaningfull and challanging content. It's the whole package and together with the devs being so open about the game, I can fully recommend it
+",0.7101805210113525,57,True
+680420,102863990,76561198017518036,"I liked it, but treat it as a fun co-op experience that ends. It's not something like a Diablo game, where you can play it over and over again for fun.",0.7051066756248474,34,True
+680420,225028312,76561198067699504,"The developers greed means that what would’ve been an awesome singleplayer game with multiplayer components became a game you cant play for long without getting disconnected several times. 
+
+ALWAYS ONLINE SINGLE PLAYER CAMPAIGNS? Shame on you!!!",0.7037376165390015,56,False
+680420,142439384,76561198014146141,"Good on sale for $8 or so. Not sure about worldslayers. The consensus is that you should skip it or wait till it's on sale for $5. That's what I'm gonna do most likely. 
+
++Story was rather interesting
++Outriders 2 would be cool 
++Hunting humans and animals for Trench Town
++I did like this game. Mostly cause the story wasn't that bad.
++Sad moments
++Side quests were pretty good. If not slightly predictable.
++Histories you can collect
++Lore
++Borderlands like epic and legendary drops for weapons and armour
++Most characters
++/- Game design reminded me of: Borderlands, Lost Planet, Remnant: From The Ashes, Resident Evil series to name a few.
++/- Ending was predictable
+-No offline mode
+-Pods combat is pretty much Serious Sam under a different name
+-Backtracking to same locations for side quests
+-Needs a ton of patches
+-Cities you visit are bland and boring
+-Most locations are pretty boring
+-Lack of customization in general for main character
+-Lack of hair styles for main character
+-Lack of hair colors for main character. The main vehicle you use to get around has more color choices than the main character. What The Hell is that about?!.
+-So many copy and paste battles and enemies
+-1 hit kills with that blue gun. Died so many damn times against that weapon.
+-Randomly not taking quests from Shira anymore. This was very weird. That whole interaction hit a brick wall.
+-Ending cut scenes has long drawn out black screens for some reason
+-Patch support on this game is extremely lacking and lazy and cheap
+-Quest marker is very bugged and will mostly not work or lead you into areas you can't pass anymore
+-Audio during cut scenes will randomly skip
+-Tons of bugs and glitches
+-Level design is pretty much copy and paste everywhere you go",0.6989296674728394,29,True
+680420,232601445,76561199550289771,"One of the most satisfying games I’ve ever played. Constant empowerment, excellent difficulty balancing, intuitive systems, familiar rarity tiers - and just extremely fun OP-god-building. 
+
+Often, I’ll start off enjoying a game but 75% into it, I lose interest and look forward to it being over so I can start something new. Outriders is one of those rare gems that held my attention tightly, all the way to the end! I’m now planning to play the DLC story and then play through with all of the other classes. That’ll potentially be hundreds of hours of content if I try and push into the high apocalypse tiers.",0.6981980204582214,14,True
+680420,91244161,76561198081384672,"This game was a lot of fun at the beginning. I was fortunate not having my char(s) wiped or anything serious on this level.
+
+But reaching the engame...everything went downwards pretty fast :(
+
+At some point grinding for ledgendaries is literally the only content of the game. The thing is, you will get the same legendaries over and over. Don't get me wrong, this is a looter shooter, and I am into this stuff (destiny, destiny 2 ...), but in outriders you just grind endlessly to get anything that might enable you to giving the engame a shot. 
+
+There are not many end-game-build-possibilities (boring) and the ones existing require you to have the highest gear already. Having grinding as the only thing in the game is very sad.
+
+As of the last patch (yesterday) the game quality droped severly. 
+
+* Characters with which I had no issues to clear ct-15 gold, are dropping like fly's now. Which makes the monotonous missions an even bigger drag.
+
+I had high hopes for this game, but at its current state I rather had my money back.
+",0.6967684030532837,57,False
+680420,89909015,76561198050938746,"If you have Corsair products which is dependent on ICUE, you're better off holding off buying this game as the anticheat program detects aura sync and ICUE as an security issue and the game will therefore not be able to run.",0.7466777563095093,455,False
+680420,105756124,76561198244886358,"Got this game to do some Co-Op with friends. The demo was decent and we got into the world of Outriders. Story started off good. It seemed interesting at first but became quiet repetitive as we progress. The lore just doesn't make any sense, there're weird plot twists that makes it even more of a non sense. 
+
+The Cutscene design is pretty weird. You get cutscenes on litterally everything? Open a door, cutscene. Walk to a different area, cutscene
+Use a rope, cutscene. This was annoying and hilarious. 
+
+Gameplay is fine. Its like your average shooter rpg game. If you are into the likes of The Division, Its for you.
+
+Also lastly lets not forget about the bugs. The game looks good Yes, But it definitely isn't optimized. There are random crashes. It will randomly crash mid mission without any progress saved and you will have to do it again.
+
+TLDR;
+Story ❌
+Graphics ⁉️🤔
+Gameplay ✔
+Optimization ❌",0.6966115832328796,20,False
+680420,187729420,76561198827495848,"It’s incredibly disheartening to witness a game with such a brilliant concept and engaging storyline falter and fail to deliver on its initial promises. What began as a game bursting with potential quickly devolved following a DLC that not only failed to live up to expectations but also seemed to overlook the core elements that made the game special in the first place. Despite being priced as high as the original game, the DLC offered little value, leaving much to be desired.
+
+Moreover, the game has been plagued by technical issues, from random game crashes to matchmaking disconnects. Although community members have stepped up to provide fixes and workarounds, these problems should have been addressed by the developer long ago. It's also troubling to hear reports that game testers were not compensated for their contributions, reflecting poorly on the developer’s business practices.
+
+The attempts to rejuvenate the game after significant time has passed feel disingenuous, especially to a community that has dwindled significantly. This developer was once a favorite of mine, known for their innovative ideas and quality content. It's a real shame to see such a decline in quality and commitment.
+
+Given the current state of affairs, I find it difficult to recommend this game or its additional content at full price. If the entire game, including the DLC, ever drops below $15, it might be worth considering for the storyline alone, but be aware that the community is largely inactive. This is just a warning for those thinking about investing their time and money. As for myself, this experience has made me cautious about future purchases from this developer.",0.6956652402877808,27,False
+680420,89530589,76561198059895822,Start was rough - a bit too many launch issues. But that aside - we just slayed our first boss and oh boy the feels. Even with the flaws right now (such as frame dips and issues with crossplay - still missing VOIP) it´s a the fresh breeze I was hoping for. Gameplay feels amazing and the loot is rewarding. And the build flexibility <3 Awesome title.,0.6954193711280823,109,True
+680420,95260175,76561198190178289,"I just can't bring myself to love it, or hate it. It's like there is some amazing hidden potential locked behind a game where the end game revolves around timed maps.. which is just.. sad.",0.743739902973175,52,False
+680420,112294343,76561198046853106,"TLDR: It's alright but i Wouldn't pay full price for it. 
+
+Overall: its a very repetitive game formula, Move to an arena, Fight the Enemies, Move to the next arena. The story isn't terrible, its just very incomplete in some areas. 
+
+It's graphically pretty but some of the weird terrain hang ups and Character model clipping definitely made me frown. 
+
+The gun play felt good and in my one complete play through the skill tree didn't seem lacking. The weapon upgrade system was very basic and the very mild customization(only ""functional"" customization) options were unimpressive. I felt they could have done much more in that regard. 
+
+I often Felt that the ""map"" was functionally useless at point which occasionally lead me to run around in circles trying to find the objective. The actual scenery was pretty but often felt empty in between arena areas, you would think that you would occasionally encounter some sort of random patrols or packs of animals outside of the arena spawns.
+
+The difficulty ramp is just weird at times, some instances you can basically walk through and others you get swarmed and torn apart. 
+
+The end game was sub par, even after the update. I have yet to finish the ""content"" because of the snails pace build up to the final encounter and the slow grind of getting gear to continue to progress. I am unsure at this juncture if i care to finish out end game or if ill shelve the game until I want to do another play through.
+
+In summary: Its worth a play, at the time of this review I put in around 190 hours, 80% of the achievements and one mostly complete play through. so I Believe there was some value in the game as far an entertainment. the majority of the value is being able to space out and shoot thing, look at some pretty graphics and maybe read into the story a bit.  It has some glaring weaknesses and short falls but overall is playable",0.6920073628425598,22,True
+680420,199162224,76561198069754493,I guess you don't realize how good this game is until you see how terrible recent live service games have been.,0.6903368830680847,24,True
+680420,90873324,76561197991065560,"[h1] I recommend you buy it at a discount [/h1]
+
+Outriders excels at many things, though its always-online requirement holds it back. I lost a significant amount of my review time to server issues, even though I played solo. I know the sign-in menu theme music very well at this point. The development studio behind Outriders, People Can Fly, has been quite transparent on Twitter regarding server status and planned fixes, especially for known bugs.
+
+This game has a solid foundation and I really enjoy it when it works right. The always-online requirement is a huge downer for a single-player game, though. Outriders’ launch woes go to show why such an approach remains unnecessary. The game should have an online component just for the multiplayer features — this isn’t a live service experience. The online woes soured my enjoyment of the game, especially when I’d get kicked from it in the middle of a mission or boss fight. 
+
+All that said, Outriders is a great looter-shooter. It won’t unseat Destiny 2, but I don’t think it means to. The game stands on its own merits and earns its place, rather than trying to copy something else. Yes, you can see the influences (especially in the loot color scheme and cover system), but as I said earlier, Outriders is a jack of all trades. People Can Fly can address most of its faults, but the game does what it needs to do. It breaks the looter-shooter curse.",0.6890597343444824,37,True
+680420,89719473,76561198039924080,The most diablo like looter shooter I've played. Can't really be compared to Destiny or the Division. Yes there is a cover system but it is rarely used for most of the classes. Plenty to theory craft build wise. Just finished the story and excited to see what the end game brings. Expeditions are like rifts or greater rifts from diablo 3 for those familiar.,0.6879081726074219,168,True
+680420,102858110,76561198115389669,"I played for 50 hours. Loved every second of it. Fun builds and the story is so serious I cant tell if its a parody or not
+
+The game deleted all my gear after a multiplayer mission and I never went back. Might be better now but I am still triggered af",0.685121476650238,536,False
+680420,112151002,76561198019366608,"Outriders is a sci-fi / fantasy blend looter-shooter. It is not the unhinged ""high fantasy / rich magic"" universe of Warhammer 40k, but rather a ""low magic"" universe with less common magic more akin to Star Wars, especially if you mixed it with the grimness of Mad Max, Fallout, or Aliens. The power of being a character in Outriders is greater than that of a Jedi Master in Star Wars. In Outrider, your character is like a Greek demigod, with most human beings, even equipped with their armor and firearms, being almost inconsequential. Yes, there are very well equipped heavy humans that can be more than inconvenient, and then there are those that possess some of the magic you have--and those are your real threat. And everything I've said about the human baddies, is also true about the unique creature enemies of Outriders.
+
+There is a main story which, IMO, is well written and pretty original. There are numerous distinct characters, some of whom you'll care about. There are many side quests which definitely add detail and richness to the story line--with the exception of the bounty and hunter quests, which really aren't meaningful but provide decent loot. However, this is essentially a session-based game, set up with a linear plot. So, whether you care about a character or not, this game is not open-world to the degree you can make a difference in anyone's fate. The world of Outriders would provide an awesome open world experience, but this ain't that.
+
+One thing that will catch you by surprise is that while Outriders does have a cover system, if you try to play it like a cover shooter, you will get nuked over and over till you learn that this game is strongly biased toward aggressive, get er done, charge in and blast em type play. If you try to build a defensive character, you won't have the DPS to succeed at the higher tiers of play, and if you play conservatively, you'll get grenades thrown at you behind your cover endlessly, and you will get flanked. You'll also learn that this game has an interesting, and maybe realistic de-cover mechanic, where if you're crouched behind something, and some shooter manages to hit you, they will stagger you back from your cover and you'll be standing up advertising for more. 
+
+As for variety of builds, there are a zillion ways to play. There are four classes, each with 3 perk trees, and each tree has two crossover points where you can craft hybrid builds. On those trees, when you hit cap, you will have 20 pts total to spend across the perks for your characters. There are well over a hundred mods which can be put on weapons and armor, within the rule restrictions of the strict crafting system. And finally, each class has 8 skills that will unlock as you level, but you can only choose 3 to play at a time--I can't tell you how many times I've imagined what I could do with 4. The skills of the classes are not equal in power or usefulness, but their potentials vary dramatically by how you mod them with each skill having half a dozen or so mods you could theoretically throw on your armor. Another thing that dramatically (!) affects your skills is the trio of attributes that appear randomly on the weapons and armor that drop. So, once you take 4 classes x 3 perk trees x 8 skills (3 chosen) x a dozen or so attributes on 12 equipment pieces x over a hundred mods, there are literally thousands of combinations. But this is important: not every combo is successful. Some will nerf you. The game seems to prefer when you find a way to stack the same concept on top of itself. For example, if you take a major trait like Anomaly Power, and add to it with armor attributes, perk points, and with skills that take advantage of it, you can make an anomaly powerhouse. Or you could pick a theme like status effect, something like freeze, toxic or burn, and keep compounding it with additional layers of perks, mods, and equipment pieces that use status power, etc., once again to keep stacking that status effect upon itself for greater and greater multiplicative damage. There are many YouTube and website guides to proven effective builds. 
+
+Another key aspect of Outriders includes the Expeditions, and both the World and Challenge Tiers. The expeditions are session based map runs that you can do after you finish the main quest line. The main value of these, besides surprisingly epic-feeling combat in 15-20 minute runs, are the gobs of loot that will drop if you're successful. The expeditions increment in difficulty as you change out your equipment, improve the logic of your build, win your current max CT, so you can take on more difficult expeditions successfully. The max is currently CT(Challenge Tier) 15. But getting beyond CT10 is a bit of a trick until you master Outriders' unusual build ideas and garner enough legendary equipment and their precious Tier III mods to keep pushing the envelope. The end effect is that Outriders does get grindy at the high CT levels. The game also tracks your World Tier which increases as you run through the main story and side quests. The World Tier, similar to the CT, regulates what level of baddies appear and how good is the equipment that drops. WT also goes to 15, but I've seen multiple characters who finished the main story line by only WT8. This can be a pain in the posterior because it means that you can't just re-run story episodes or side quests to get loot commensurate with your CT power levels. If your CT is 10 and your WT is 8, you will get better loot by doing expeditions.
+
+The game is addictive, very fun, and good for coop. There are some strange limitations to Outriders you should know about, though. First, and maybe worst, YOU CAN ONLY CO-OP WITH TWO OR THREE PEOPLE! I don't understand this restriction--maybe it's about their server performance or the ability to game balance the maps. Second, there are only six character slots. This seems unusually restrictive and I hope the developer will remedy that soon. 
+
+However, as another lesser downside: some folks will burn out at CT10, not being able to solo or co-op reliably against CT11 and higher. Thjis can be from being unable in the short term to grind the equipment with needed legendary perks, or take incredibly long to get, or not being able to come up with the right character concept. You can succeed in Outriders if you want it--I have no doubt. You can even buy legendary pieces on purpose from, one vendor, but the number of expeditions you have to run to buy each one is VERY grindy. 
+
+In overview, I recommend Outriders enthusiastically. I've got almost 200 hours in it now and though I may tire of it before long, it's provided a lot of neat entertainment. It's a great world to imagine in and the human dramas, limited as they are within the scope of linear session and role play, seem real and meaningful. The game will very occasionally crash but in general it runs well and the graphics are good without being amazing.",0.6835320591926575,47,True
+680420,100006584,76561198825990001,"The best part about this game is the story, the end game is repetitive. no dev support. kicked every 10 mins wold not recommend",0.7322708964347839,110,False
+680420,101360701,76561198018946492,"I have loved this game from the moment I picked it up until the moment I finished everything. 
+
+THE STORY: is absolutely fantastic, I was hooked from the moment I started. I wont say anything about the story. Not because it will spoil it, but because you need to experience everything yourself, you will thank me for it. 
+I just hope we get some story DLC, as there are still so many stories to be told in this universe.
+
+THE COMBAT: is very reminiscent of Mass Effect Andromeda without the AI companions. Although I will say I feel the combat is BETTER than Andromeda. Despite only having 3 active skills to choose from, when combined with the massive amount of weapon mods, there are so many builds to play around and experiment with.
+
+Overall: Whilst I can understand some of the negative reviews due to poor servers, lack of endgame content and early graphical glitches ( some of which are still present as I played through the game, including an occasional useless quest pointer), as a SINGLE PLAYER game this is by far one of the best that has come out this year.
+The story, the game play and the lore should make Bioware vets feel right at home.
+
+Were it not for the glitches I mentioned and had it improved visuals I would score this higher, with that said, as a single player game I feel completely justified in giving this game a healthy 8.5/10",0.6793836355209351,52,True
+680420,109249248,76561198056919803,"So many quit moments in such a good game. So much fun to play and easy to get addicted to; however, the never-ending disconnects and crashes can make it borderline unplayable.
+
+Pros:
+Combat feels good
+Crafting and progression is on point
+The story is pretty solid
+The class and weapon combos are well thought out
+Level design is excellent, and cinematics are awesome
+Slo-mo flying body parts body blocking your projectiles is still both annoying and cool
+
+Cons:
+God, the disconnects, at worst, I've lost 1.5 - 2 hours worth of progress due to a single random disconnect by doing one of the blue expeditions while pushing for CT15.
+Enemy design is repetitive, yes they will all be a little different, but essentially a berserker is just another cutthroat or amazon. This would be fine if broader enemy groups were, but there aren't.
+Content is a bit lacking; there just isn't enough and not enough variation.
+Multiplayer is bad; honestly, why do we even need to connect to the backend servers? NOBODY is using multiplayer.
+Drop rates are lies, I still get blues in epic and legendary only loot pools, and I get legendaries way less than the advertised rate.
+RNG is too broad; the damage value can vary so much it's unbelievable. Then weapons also roll for random mods and attributes; this would honestly probably feel fine if the game didn't make progression feel so painful.
+Combat encounters are too predictable. When you see the cover, you know there is a human combat encounter. Don't use the excellent map design for LOS; just use that extremely conveniently placed cover, lol. It feels like the game is giving it to you for free half the time.
+This is small, but there is this vibrating sound in some of the tracks, it's most pronounced in the main menu theme. It sounds exactly like a phone ringing. Can you please edit that out lol? I missed a phone call once because I thought it was just the game, and now I get PTSD every time I hear it.
+
+If you're someone interested in playing, I would recommend it only if you can get it on sale or after the next DLC, and the next DLC has addressed the disconnecting and crashing issues. You will enjoy playing until it disconnects and disconnects and disconnects.
+
+Also, just as a side note, if there is a dev interested in reading this, can you please consider reworking the way we acquire the resistance stat? At the moment, it's just gained through the class trees or mods. And really, the only good mod for it is the t3 weapon mod fortress. Without fortress, most players are at 0% resistance at level 50; the reason is that the cost of getting any amount of meaningful resistance is too high and would make the content more difficult overall. It needs to be changed; I noticed this makes certain expeditions hella riskier than others because you are at risk of being almost 1-hit by anything with big anomaly damage.",0.6791166067123413,30,False
+680420,177063443,76561197960915401,"This game is a gem.
+
+The game was ridden with issues on launch and it was simply not ok to release a game in that state. Let's put that aside and look at the actual gameplay.
+
+This is a looter shooter with a strong RPG emphasis. You choose a class, have skills and a talent tree. The gunplay feels amazing and the general feeling of the game is great. Although you could draw a parallell with Borderlands, I'd instead say that this is much more similar to an ARPG like Diablo since it's much more heavy on the RPG part then Borderlands.
+
+If you like to theory craft and make builds, you'll feel right at home here. If you're here solely for the gunplay action and you don't care about min-maxing builds then looks elsewhere. This confusion is probably the reason for the mixed review.
+
+The story is good and I love that they even spent time on cutscenes for side quests. All quests feel well crafted.
+
+The gameplay loop is very repetitive. You enter an area, clear it, move to next area. Repeat. I played it with friends, so we did not mind at all given how well the combat feels. 
+
+I have a couple of hours of solo play, although most of my time is coop with friends. I don't recommend getting the game solely for solo play.",0.6786616444587708,18,True
+680420,119410517,76561198081128846,"Before one can understand where I stand when it comes to Worldslayer, one must know my thoughts pre-Wordslayer.
+
+Unfortunately, in the gaming world that we live in today, no matter the publisher or developer, a game rarely releases without major flaws or is without the need for major fixes.  So even when I buy a game that is ""full-released"", I still go into the game with the mindset that it's an ""early access"" game, ""there's going to be issues, and they'll address them as soon as possible."".
+
+I was one of the many ignorant consumers that played the demo, pre-purchased, and had high hopes for the launch date.  Originally owned it on Stadia, along with 2 gaming buddies.  The first major problem for me was the inability to disable ""motion-blur"".  I absolutely cannot play with motion blur.  I get physically sick over-time.  No big deal!  I'll just refund it, get the game on steam, and use the cross-play function to play with my friends who stayed with Stadia.  It doesn't work?  One of the biggest functions that they were so proud to announce, leading up to launch, DOESN'T WORK??  No big deal, no big deal.  They'll fix it.  It had to have worked at some point, right?  Other-wise they would have said that cross-play won't be available on launch, right?  They would have warned us, been transparent.  A week goes by.  Friends and I still can't play together.  A month goes by.  ""What fricken liars..."" Stadia was still stuck on a version older than the demo on steam.. Cross-play with stadia probably never worked...
+
+I ended up playing solo.  Beat the game alone. Why?
+
+Pros:  
+AMAZING FRICKEN COMBAT!(for the most part)
+Scratched the looter shooter itch i had, ever since Borderlands 2 was beaten over and over again. And Borderlands 3 failed to appease.  
+The world tier levels actually added a level of difficulty that was satisfying to overcome and enter the next.
+Theory crafting builds... addicting. 
+
+Cons:
+Randomly having gear deleted from inventory throughout the playthrough.
+Audio glitches up and down, left and right... 
+The game just straight up feels janky most of the time(when you aren't immersed in the fluid combat that you can experience every now and then)
+The final boss was literally just a bullet sponge.  No actual skill to defeat it necessary.
+
+My friends and I had thought that by the time we all had gotten to the end game, cross-play would have been fixed... by the time cross-play was working... we had uninstalled and moved on to much bigger and better things.
+
+Finally we come to Worldslayer within this review...  DO NOT GIVE PEOPLE CAN FLY ANYMORE MONEY!
+Same jank, and STILL THE SAME FRICKEN AUDIO ISSUES!
+
+They do not deserve it.  The outrageously over-priced DLC that Worldslayer is, is something that People Can Fly should have actually just gifted us for all of the lies and jank that they sold us from before.
+
+Worldslayer's campaign was actually a lot of fun! All 2 minutes of it... The new ""endgame"" is such a HUGE missed opportunity.  My friends and I actually grinded it out til Apocalypse tier 24... and finally asked ourselves a question that I've read in a few other reviews, ""What are we even playing for?""  ""Why do we care about new builds and grinding gear, when this lackluster end-game ""barely"" changes?!""  Sure new enemies begin to appear with new apocalypse tiers, sure they have more hp, deal more damage... but it doesn't feel any different.  Same exact bosses, same stupid mechanics.. mechanics that my friends and I can just ignore, because the difficulty doesn't exist!  We had never failed a run!  We literally built troll builds, knowing that we didn't have any damage... and still breezed on through!  (except for those ravenous monkey things on cliffside... those things are actually no joke... at least at first)
+
+If you made it this far, thanks for reading a rant from someone that feels betrayed and greatly let down by these devs.  Do not give your money to these greedy, deceitful people.  Wish I could say this was another ""Cyberpunk or No Man sky"" where the game will actually be worth your money one day... but they have proven to me with this over-priced DLC, that they have no intention of actually giving the people, that want to love their game, anything that they want.
+",0.9283785223960876,672,False
+680420,220484407,76561198067596214,"I bought this game when it first came out and I’ve been around since the early days. I’ve got all classes at max level, and I’m still working on the Ascension points and the Apocalypse climb to level 40 for characters.
+
+I honestly don’t understand the hate this game gets.
+
+The combat is fantastic. Outriders pushes you to play aggressively instead of hiding behind cover like a traditional shooter. Once your build starts coming together and abilities start chaining properly, the game becomes ridiculously fun.
+
+The build system is excellent. Mods, class trees and abilities interact in ways that let you create some seriously powerful setups. When everything clicks and your build starts deleting entire groups of enemies, it feels great.
+
+And here’s the thing people seem to forget: this is basically the only real third-person ARPG looter shooter out there. Most shooters focus mainly on gunplay, but Outriders leans heavily into abilities, builds and synergies. That’s what keeps the game interesting long term.
+
+Co-op is also where the game really shines. Running expeditions with other players and seeing how everyone’s builds interact is a lot of fun.
+
+I know people complained a lot about crossplay issues and crashes, especially early on. Personally I never experienced those problems myself, but clearly some players had a rough time with it and that definitely hurt the game’s reputation.
+
+The expansion, Outriders: Worldslayer, also added more content and pushed the build systems further for people who enjoy tweaking and min-maxing.
+
+I recently jumped back into the game again after some time away and I’m still enjoying it. That says a lot about the core systems.
+
+The endgame is probably the one area where the game could have been stronger. Expeditions and later the Worldslayer systems are fun, but after a long time you start to see the repetition. The build systems are strong enough that the game could have supported even more endgame variety and activities.
+
+Still, I’ve had a great time with this game.
+
+Great combat, great builds, great co-op.
+
+Honestly, Outriders deserved a lot more credit than it got.
+
+",0.6779270172119141,18,True
+680420,110530013,76561198043996578,"I really wanted to like this game. I was rooting for it from its first announcement. I love ARPGs and the concept of adding the nuttiness of an ARPG to a shooter really appeals to me. When I played Destiny I didn't like it because I got no power fantasy. I felt exactly as powerful at max level as I did at level one, and the few weapons with augments I found were basically ""make a 30 second cooldown 27 seconds instead."" I did not initially buy this game because the reviewers killed it for its technical state. I waited until Steam reviews were Mostly Positive.
+
+There are certain aspects of the power fantasy that work here. Abilities feel weighty and satisfying. Mods you get at the start of the game are light years more powerful than anything you'd get in an ARPG. I stacked bunch of mods boosting my minigun/rocket launcher combo and turned a giant boss into crispy cinders in seconds around the middle of the campaign while playing at the max world tier I could. It felt good. It did not last.
+
+The further I get into the campaign the more ineffective my guns feel. I have synergizing abilities and weapons that are the top power level I've been given and it takes almost half a clip to kill one grunt. This would be balanced out if my abilities felt good but only one of them does and it's on a long cooldown.
+
+My second problem is enemy design. Alphas and Strixes in particular. This game gives you a combat roll. I've played Dark Souls and Remnant: From the Ashes, I know how to use a dodge roll. This one doesn't work as far as I can tell. When an Alpha jumps at me (from half a screen away) it does not matter when I roll, where I roll, how I roll, I take damage. Alphas get in your face, jump at you from astronomical distances and immediately cast an ability that forever prevents them from being cc'd. They then commence the bounce house. It's not fun. One of them would be fine. My brother and I just finished an encounter after many tries where something like 8 of them were out. Doom and Doom Eternal proved the concept of ""push forward combat."" This is ""backpedal like mad and pray you don't get stuck on invisible terrain"" combat.
+
+Third problem, netcode. I play this with my brother. He loves it. If he were writing a review, it would be glowing like the sun. He has completed the campaign with all four classes, and one of those completions was him making a toon of the class he's playing with me because were are progressing through the story slower than he'd like. I play other games with my brother, mostly fighting games. Our connection is fine normally. Our connection is trash in this game. Did I mention the Alphas and their bouncy castle of fun? Now image that but the Alpha starts his jump animation, disappears for 1/30th of a second, and reappears about 200 yards closer. All. The. Time.
+
+Fourth, the bugs. My goodness. I have never seen so many bugs in a game this long after launch. Map markers are broken, especially side quest ones. Hit detection is frustratingly spotty. If I had a dollar for every time I've watched a rocket go right through an enemy's chest I'd have a full refund and a couple more games. Animations and lighting can be all over the place. Character try to interact with doors but can't figure out how to walk up to it. Quest icons show up over quests that aren't available yet SPECIFICALLY on hunt missions. I don't know why but every hunt quest interactable object always shows its icon before I've hit the point in the story where I can interact with it.
+
+I bought this game on deep discount, play it with my brother, and don't like it. I may still play it because I just like playing with him and he loves it. I'm not saying you won't like this game. But you have to be a very, very specific person to do so. If you want my recommendation, play Remnant: From the Ashes. It has better gameplay, cooler bosses, more enemy variety, prettier art, fewer bugs, better story, and playable netcode. It's not perfect, but it's a far cry better than this.",0.676384449005127,26,False
+680420,120869224,76561198192449350,"So I'll start this by saying that I love Outriders, I have nearly 200 hours of time in it, but should you buy it? That's hard to recommend. This game caters to very SPECIFIC TASTES.
+
+~CAUTION~
+
+ Outriders has some pretty incredible combat, but it only feels incredible when your build is optimized and you aren't slugging through the various tiers of difficulties to get the loot you need to make you powerful.
+ Through the various updates (and up to several post patches for Worldslayer), there is more build diversity, and less of a ""if you're not playing bleed-fire devastator then get out"" feel - which has been really nice. Of course there is always a meta, but its less one sided now.
+ Outriders is a beautiful game, the environmental art really shines, and I love the combat effects! With that said, despite it being a pretty game, the story (aside from some cool elements) is lackluster, but lets be honest, you stay for the combat.
+ Worldslayer is fun, but this expansion story is really short. If you skip cut scenes and breeze through levels you're looking at less than 2 hours, maybe 90 minutes - probably 3-5 hours with cut scenes depending on your gear. The antagonist peaked my interest at introduction and quickly fell flat, which was disappointing.... but again, we're here for the combat.
+ The end game for both sections of the game (base and Worldslayer) is entertaining - the expeditions introduce new maps (or areas of maps we didn't see in the campaign) with new fights. I quite enjoyed some of the later expeditions that were brought to the game. ~As a side note, I truly hate the ""hold the point"" sections in missions (primarily in expeditions), these are long, and if you are leveling and not properly optimized these become overly tedious and a huge time suck.~ 
+ Worldslayer endgame promises a dungeon ~ when I first heard about this I was expecting a rogue-lite dungeon based on the description, that shifted around ~ that would have been incredible, and really brought new life into the game. Instead, it is a dungeon with fixed rooms, some rooms shuffle the type of horde you face, and several bosses with mammoth pools of health. There is one exception to this, [spoiler] but you must clear the dungeon and start it again to see this new formation. [/spoiler] If you are optimized, then these fights can go very quick, clearing the dungeon takes maybe a hour to 90 minutes depending on how many rooms you want to clear (not all rooms are mandatory). If you are leveling and do not have an optimized build then expect a slog.
+ All-in-all this is a very fun game - if you enjoy this type of combat and the visceral effects. Outside of game-play it has been mired by many bugs, some even game-breaking. Since returning for the expansion, I only encountered bugs that were annoying but not game breaking, I think the team has gotten better at addressing these things. 
+ So do I recommend this game to you? If you enjoy the build crafting and power grind that this game provides, then 100%, you'll have a blast. If you are expecting an engaging story campaign with a relatable (or even like-able - seriously you play a total a**hole) protagonist, then you should look elsewhere.",0.6756296157836914,21,True
+680420,202195590,76561197963734269,"Rough start but once you start building your character a bit you become a monster and it's fun as hell.
+The gameplay loop is pretty much the same everytime, but it's nice to play through it.
+It's a lot more like Diablo / Hellgate London in its core concept.
+You start as a barbarian in shorts and end up being this unstoppable force of nature.
+For 20 bucks with the expansion it's an easy recommandation.",0.6755327582359314,15,True
+680420,159105171,76561198306760547,"I had a lot of fun with this game, but overall, people seem divided. My suggestion: Try the demo. If you like the gameplay, consider that it's pretty much the same throughout the game. For my part, I enjoyed the gameplay, the story, the environments and the RPG elements. I recommend checking it out.",0.6733810305595398,18,True
+680420,205629765,76561198145718384,"I do want more folks to play it with, but the bugs, man, the bugs.
+
+I like the way the four classes feel, there's a fair bit of neat armour with a good system for changing their looks and mods.
+
+They dropped the ball on the story, having so many very interesting aspects to then leave things unexplored, unanswered and unsatisfactory.
+
+Some bug examples:
+Press Space to Log In crashes it a few times instead.
+Rarely upon loading into a mission, no input does anything at all. It might happen when you get a game invite while loading in, though that could also have been coincidence. Strange it happened twice, though.
+Often upon tabbing out the screen goes black, in and out of game. At worst, only restarting the computer fixes it. I have had moderate success creating another desktop instance, bringing up the activity handler there without first bringing it up in the first desktop, and then ending the game.
+
+Altogether: great gameplay, interesting but unutilized lore, and far too buggy.",0.6733652949333191,14,False
+680420,89686776,76561198021079558,"A fun game which feels like Gears of War mixed with Fallout 76 (Hear me out first) Overall a fun experience to play with friends.
+
+Graphics: The graphics are pretty decent and overall nice to look at with some decent reflections, lightening zaps, etc, it's all there and nicely optimised but visually it's pretty to look at from sparks to lighting etc.There is a lot of particle effects like glitter which would make a parent cry at the though of glitter!
+
+Audio: I turned the music off as usual but it has some decent sound effects ranging from the shotguns to assault rifles to fire buzzing to the basic wind, it's all there adding atmosphere.
+
+Controls: Controls can all be rebinded but my issue, is the same as others and I hope it is fixed in the future, but at the time of this review it is not.  If you are an old school gamer who use the arrow keys (Which is what they are designed for) and use like END as reload, it does not work forcing you to use different keys for some things because the control remapping does not allow it.
+
+Game-play and everything else after: So the game is third person moving from cover to cover, exactly the same as Gears of War with exactly the same linear pathline at the start because once you progress through, you can fast travel around, but still the map is linear in it's approach.
+
+When I mentioned Fallout 76 above, that is in the way your skills work. You assign skills to a skil tree with your clothing having abilities to make you strong, kind of the same as card system in F76, that's the feeling I get. (Which is not bad just the closest thing to it)
+
+You are a survivor on the planet Enoch, you get left, basically almost die and now have super powers, 3 to choose from but overall some nice and unique and towards end game you get some awesome looking gear.
+
+No spoilers on story here, but lots of missions to go through and pick at, but I found the map being a little finnicky and tricky to navigate for it all, making it confusing at times.
+
+You are third person with no FPS option unless you have a sniper, that is the only scope you get but you will be using dodge a lot with some fast moving aspect's to the game.
+
+Another annoyance, when casing my fire ability from cover, the character will stand up, case and then stay standing, like what are you doing!!! There are a few little niche bugs that are annoying but can be looked past for enjoyment aspect.
+
+I do get the feeling a lot of 'rinse and repeat' in the game because it allows for repeating the same missions over and over for loot, pushing the difficulty higher each time.
+
+As I write this review, they are having connection issue's with the servers and that many people trying to connect but that will be fixed so have patients.
+
+There are a decent amount of monsters the further you get into the game, unlocking them but you can raise and lower the difficulty mid game which is awesome.
+
+Would I recommend, yes, it's a fun game and can be co-oped with friends... When it's working that is...",0.6733041405677795,77,True
+680420,217621335,76561198253640399,"what a hidden gem this is, reminds  me of division and gears of war, really good story n jokes, well happy for few quid its cost  and for 5 years old game amazing",0.6730412840843201,19,True
+680420,119391087,76561197965160181,"Outriders is a weird game to recommend. The map system is weird, the build mechanics are weird, the story is weird, the class abilities are weird, but it all comes together to make something unique and very fun. Except the map system, that's just weird in a bad way. So Outriders is a weird game to recommend, but I do recommend it.",0.6722349524497986,44,True
+680420,118930717,76561198284763604,The game is decent but the expansion is way too costly for what it is.,0.7684593200683594,67,False
+680420,207816491,76561197983948991,"Decent story. Decent 3rd person cover shooter. Matchmaking works. Fun playing with randos. Simple enough. You get loot, equip the ones with big green numbers, sell the ones with small red numbers. I'm enjoying it. Sometimes you can't find a team or it takes ages. Matchmaking sometimes matches you with idle/AFK players.",0.6675916910171509,14,True
+680420,89777187,76561198255264173,"Ok i really wanted to like this game. I was excited and gave it a fair chance, but i was severely disappointed. 
+
+Bad Things:
+-good looking and diverse maps BUT extremely linear, no exploration... the map is in little instances so no big areal and 
+  once you've been in a side quest area you can not go back there(unless u replay the quest <- not a good solution)
+-you have the most unnecessary cutscenes -> traveling to a side area -> cutscene of you OPENING A F..ING DOOR -> 
+  loading screen -> new area   .... and that every single time 
+-the WORST map i have ever seen, no clue where you are or where some side quests are and no this does not provoke 
+  exploring
+-the same enemies for my whole playtime... footsoldier, melee, sniper, shotgunner... <- even the same for monster enemies
+-Legendaries look amazing but they are NOT SPECIAL ... just destroy them and you can have the same Power/skill on a 
+  green pistol
+-Weapons are boring in general ... you only shot bullets, there are no laser beams, shock wave launchers, flamethrowers... 
+  just boring everyday lead shooters
+-calibrating gear is too easy, once you understand, that you can change the mods on your gear you can have a PERFECT
+  Build in like the first 5 Hours of the game
+-Story just sucks, you dont care for any of the characters, your main char is the literal GOD in cutscenes , but dies in one 
+  shotgun blast on worldtier 5
+-Endgame is just running through maps with hundreds of the same enemies over and over again, timed, for some loot that 
+  wont be better than the one you already have (because u calibrated it to be best in slot)
+-major Bugs and crashes... i normally forgive these but these are not your typical ""funny"" bugs like glitching through the 
+  floor or t-posing, no audio levels are off, some skills will destroy your ears even on mastervolume 1, questwaypoint dont update -> you complete a side quest and want to track the main story again ? to bad the waypoint will just point you back 
+  to the location of the side quest  
+-Bulletsponges that are aware that they are bulletsponges ... meaning they just rush you no matter what and chase you 
+  down 
+Good Things:
+-looks nice, really nice locations
+-good and stable framerate, no idea why some reviews complain about that , was stable for me
+-classes and build possibilities are great and plenty -> full gun damage, skill damage or supporter with more than just 
+  healing
+
+
+",0.6664995551109314,226,False
+680420,120880273,76561197978636758,"  It's a competently executed if somewhat linear looter shooter that manages to tick all of the boxes you'd expect from a looter shooter. Gunplay is ok, story is ok, level design is ok. Game on the whole? ok. Therein lies the problem; while it doesn't do anything wrong, it doesn't really do anything to stand out either. Most elements, whether it's the skill tree development of your character to the twists of the story, will be predictable to anyone with a passing familiarity of the genre. 
+ Worth a look if the backstory particularly appeals, or if you simply must have your looter shooter in a dark and chunky sci-fi skin (and aren't a fan of Necromunda). I'm going to have to chalk this one as a don't recommend though. Don't get me wrong, there's nothing wrong with the game (well, now that most of the bugs are squashed);  there's a reasonable amount of content on offer and providing you're not expecting a revolution in the genre you probably won't be disappointed. It's just I can't come up with any good reason to pick this over say Remnant:From the Ashes, The Division or any other middling entry in what is a pretty well served genre.",0.6664733290672302,22,False
+680420,122313560,76561197980885826,"Full playthrough with the Technomancer on Linux, incl. the Worldslayer DLC - was pretty much fun!
+Also multiplayer works flawless (story line and end game) since EAC has been removed.
+
+The gameplay is easy to learn and medium to master, I'd say, the grind in end game has been reduced with a recent patch and it is significantly more easy now to proceed at acceptrable speeds collecting the best possible gear for your build.
+
+Compared to other titles alike, e.g. Warframe, I found Outriders way more convenient and entertaining in terms of gameplay.
+I just started the 2nd round of playthrough with a different class, the Devestator, and can also confirm that the game makes a difference with a new class, 2 more to check, though :)",0.6632492542266846,15,True
+680420,169165812,76561198132665097,"This review is based on 100% completion and 119.3 hours of gameplay.
+
+[h1][b]Recommendation:[/b][/h1]
+Would I recommend this game? Unfortunately, I can't really recommend it as it stands. While there are aspects I enjoy, the game lacks in many areas and has a very small player base, making it essentially dead. For that reason, I can't recommend it.
+
+The story is a mixed bag—it's not completely bad, but it's predictable and can be boring at times. The graphics and sound design are quite nice and work well. The gameplay is enjoyable if you just want to shoot things and get loot, but the gameplay loop can become repetitive and boring quickly, depending on your preferences.
+
+The game is online-only with no offline features, which is concerning given its low player base. I'm unsure how long it will remain operational, and there's no word on whether an offline mode patch will be released. Keep in mind that the game might be shut down in the future who knows.
+
+Overall, while I enjoyed the base game, I can't recommend it in its current state and possible future state. There are better options out there, like Remnant. If you decide to purchase, I recommend waiting for a deep sale and to consider getting the DLC as it adds more gameplay and items only if you are going for 100% or want more of the game.
+
+[h1][b]WorldSlayer DLC:[/b][/h1]
+It's easy to see why the DLC gets as much hate as it does. For what you get, the price isn't worth it. The DLC's story is very boring and predictable, and I felt no connection to the story or characters. The gameplay is the same as the base game, with a few new enemies [i](basically reskins)[/i] and nothing impressive. The boss fights are tedious with no good mechanics—just bullet sponges, which I consider bad boss design. The items and perks from the DLC are fun to use, which is the only big positive for me.
+
+Overall, the DLC is overrated and highly lackluster. It's not worth the base price. Unless you're aiming for 100% completion or really like the game, don't purchase this DLC at all, or wait for a deep sale.
+
+[h1][b]Achievements:[/b][/h1]
+
+[b][i]The DLC is required for 100% completion, and there are also multiplayer/coop achievements. The game is only online at this stage.[/i][/b]
+
+The base game achievements aren't too bad, and you'll get a good portion as you progress. Some will require a lot of time and grinding, like maxing out 'Accolades' and some miscellaneous ones, making it a grind.
+
+The DLC achievements are similar, with most unlocking through progression. Some require decent gear, like beating the boss on a harder difficulty, which means you'll need to grind for stronger gear in the end game or find someone to carry you through.
+
+The achievements in this game can be tough and time-consuming solo but still doable for most. However, if you can, I recommend doing this with someone else from the start, or best case, find someone who can carry you through when needed. 
+
+
+[hr][/hr]For more in-depth yet straight-to-the-point reviews, feel free to check out my curator page [u][b][url= https://store.steampowered.com/curator/45595645/] here. [/url][/b][/u]",0.6612303853034973,28,False
+680420,102848938,76561197970999169,"This game could have been good if PCF (People Can Fly) had actually listened to community feedback instead of burying their heads in the sand and ignoring bugs that literally broke the game. And I mean broke, as in wiping your progress after 100+ hours. All gone.
+Spent about a month playing back and forth, but since the bug happened to me back in May (November as I'm writing this review), I have tried several ways to get a refund. But alas, it's not been offered. They sold an extremely broken product, and under no circumstances or no matter how low the price is, should you ever buy this game. Even given to you freely I would advice against investing even a second of your time.
+Which is just so sad, because once again, the potential was there, but no it's just another dead game (avg~500 players/day at the moment according to SteamCharts)
+
+",0.6610479950904846,253,False
+680420,124284567,76561198983407462,"This is more of a neutral review, in terms of would i recommend this game. They are a lot of factors that will affect whether this game is worth your time, to me those factors and slightly in favour of, ""Yes I would give this game a try"". 
+
+Price: 
+
+The price is pretty ludicrous, especially so long after release, the DLC price also reflects this ambitious decision to charge an unreasonable amount of money for content which is repeatable at best. I could argue that the Sandbox alone makes this game at least in the £25 range; but ultimately the content is barren and its really one of the big things holding this game back from great success. 3/10
+
+Story: 
+
+The story is nothing revolutionary and you likely will forget all about it once you get to the current end-game; which at this point in time is the Expeditions, and furthermore, The Trial of Traya Gratar. Both of which are repeatable and dont add a whole lot to the current landscape of the story; although the Trials do add some more lore to an interesting faction non-the less. However, looter shooters are notorious for their wonky story-telling and with that said i dont think this is even a factor of why you shouldn't purchase or not. 3/10
+
+End-game content: Repeatable, Not as rewarding as it should be, grindy to the point of not wanting to play anymore, and being extremely bored. If the end-game content was diverse enough, it would be a hit for me as that's mostly the only thing holding me back from continuous play. As it stands right now though, its just not up to the standards of other Looter Shooters, in terms of the diversity and reward in the end-game. 6/10
+
+Sandbox & Build-crafting: 
+
+This is where the game shines, the sandbox, from enemy types and attacks, to how you tackle those attacks and advances is extremely well done, better than any looter shooter that's out there by far. The build-crafting is reminiscent of The Division 2 - but simplified down a touch, and way more rewarding. The array of abilities and extensive complexity to play each class in different ways is something no other looter shooters really accomplishes. The power fantasy is definitely met in this game, and you feel as strong as you should be, with so many options how to play across 4 unique classes, there's honestly no downside about this section from me. 15/10
+
+Loot System: 
+
+As of right now the game is too grindy (yes i'm serious). This allows the game to not only widdle out casual players, but also a lot of hardcore players due to frustration. Nerfing drop-rates across the board in the only really viable end-game activity isn't a smart move, when the game still isn't in a state of stability in terms of daily players. Apocalypse gear was a nice step in the right direction to incentive a re-grind of current gear, however, when that gear is only obtainable after 100s of hours of game-play - combined with repeating the same activity over and over, its a vicious loop that gradually makes you loose interest in what you were chasing for in the first place.  Allowing players to focus loot to an extent might have relieved this - as of right now there is no word on any matters which is a shame. 
+
+Developers and Communication: 
+
+An often over-looked topic, but one that is important is the communication to the players. In this case the developers haven't been posting updates in seemingly weeks and weeks, and frankly its no surprise given how they choose to convey ideas in there posts. In the dev post that brought the nerf to the Traya Gratar final boss - they described it as 'Something they cannot change due to engine limitations', and that, 'we see the farming of the final boss as manipulation and exploitation'. While no-one received or receives bans, or anything like that for this, again choosing to label your community as Exploiters, doesn't send a good message for a game that got brought back from the Grave especially. 
+
+TLDR; If you want a game with an amazing sandbox, build-crafting and fun new ways to fight, this is it. It is purely a game-play experience and one you reply to enjoy said game-play. Regardless to that, there are a lot of downsides and a few simple changes could alleviate that and allow for some replay-ability in this game. Changes for loot focusing, further adaptations to end-game content, and more communication from the Developers might allow for some much needed help. 
+
+It's sad because this game is very good, but also very frustrating at the same time, its a real gem, and all it needs is some very minor changes to allow for more replay-ability and overall player enjoyment.",0.6581016182899475,13,True
+680420,123776984,76561198085345518,"~ DIFFICULTY ~
+
+🔲 My 90-year-old grandma could play it
+🔲 Easy
+✅ Normal
+🔲 Hard
+🔲 Dark Souls
+
+~ GRAPHICS ~
+
+🔲 MS Paint
+🔲 Bad
+🔲 Meh
+🔲 Graphics don’t matter in this game
+✅ Good
+🔲 Beautiful
+🔲 Masterpiece
+
+~ MUSIC ~
+
+🔲 Bad
+✅ Not special
+🔲 Good
+🔲 Beautiful
+
+~ STORY ~
+
+🔲 This game has no story
+🔲 Like playing Temple Runners for the story
+✅ It's there for the people who want it
+🔲 Well written
+🔲 Epic story
+🔲 Imagine Kingdom Hearts but on crack
+
+~ PRICE ~
+
+🔲 Free
+🔲 Underpriced
+🔲 Perfect Price
+✅ Could be cheaper
+🔲 Overpriced
+🔲 Complete waste of money
+
+~ REQUIREMENTS ~
+
+🔲 You can run it on a microwave
+✅ Average
+🔲 High end
+🔲 NASA computer
+
+~ LENGTH ~
+
+🔲 Very Short (0 - 2 hours)
+🔲 Short (2 - 15 hours)
+✅ Average (15-50 hours)
+🔲 Long (50-90 hours)
+🔲 Extremely long (90-110 hours)
+🔲 No ending
+
+~ FUN ~
+
+🔲 I'd rather watch paint dry
+🔲 Hard to enjoy
+✅ Repetitive
+🔲 Actually pretty amusing
+🔲 The kind of fun you’ll remember
+🔲 Ride of your life
+
+~ REPLAYABILITY~
+
+✅ It's a one-time experience
+🔲 Only for achievements
+🔲 If you wait a few months/years
+🔲 Definitely
+🔲 Infinitely repayable
+
+~ WORTH BUYING ~
+
+🔲 No
+✅ Wait for a sale
+🔲 Yes",0.7080930471420288,54,True
+680420,96523891,76561198329236506,"Good game only if one want to have a decent single player experience, however worth buying during summer or winter sales when discounts are at its peak.
+
+[b] The goods: [/b]
+This game really has a good story line, campaign is decent if one doesn't rush or start watching you-tubers and simply follow their advice religiously before completing the whole campaign.
+
+[b] The bads: [/b]
+Multiplayer is in its infancy, the difference is huge just like comparing Muskets to AK47 :)
+There are fairly very less significant activities in multiplayer.Whole multiplayer of this game is equal to the Nightfalls of Destiny 2, that's it, that's the Multiplayer.
+Also the mechanics of multiplayer is primitive, like when you match-make and you join a random party, the leader will be a random guy  who will have full control over team and game-play and there were frequent instances where such randos were kicking team members just before claiming the final rewards, which drew a huge flak from the players(they might have fixed this,I am not sure since I haven't played the game for a while)
+",0.6551830172538757,28,True
+680420,97284581,76561198823453668,"This is an awesome Looter & Shooter game. The only problem is End game since the game is this a baby.
+Fun? Yes
+Are there bug? Yes
+Do you feel OP? Yes with the right set up
+Will the mobs swarm you? Yes yes and yes
+Is end game fun? Not yet.",0.6551724076271057,9,True
+680420,184962710,76561198075088338,"Oh Outriders where do i start is it fun? YES, is the story good? YES, is the fighting fluid and feel good? um YES. did this game launch when we needed it the most? absolutely. I put over 100 hrs. in this baby and i go back occasionally just to rip shit up. is it fun to play with friends? YES, is it fun to play by yourself? YES. all in all this game is fun and will hold your tiktok attention span. Buy it!",0.6542581915855408,20,True
+680420,107663525,76561197963832323,"I'm hooked. I love Outriders' shooting, skill, and loot mechanics and how they work together to form a highly addicting co-op shooter. While it has a lot of features that I'm not fond of, the core gameplay is solid enough to easily carry the rest of the experience. If you're into looter shooter or dungeon crawler games, Outriders will scratch that itch — if you can play it. With its current matchmaking and server issues, we cannot help but score it lower than we'd like. Whenever the technical issues are resolved, the experience could be as high as 8.3, making Outriders a co-op shooter that's well worth experiencing either alone or with friends.
+",0.6537474989891052,29,True
+680420,214665977,76561198132699610,Great game. Like Gears of War with looter shooter/RPG elements. Very polished.,0.6534046530723572,17,True
+680420,109098061,76561198076515464,"i liked it. ~ 20$ sale.
+its a good game, i like the gunplay and shooting
+do a roll dash run full clip on enemy use skill..
+a lot of action, loot, customization. 
+story - ok, the main campaign and all sidequests ~ 50+ hours gameplay
+you can do a lot of screenshots in cutscenes, turning off the hud in game mode.
+finish the campaign get access to the expeditions
+skill tree, 4 classes, each 3 different branches 
+you can change skill tree anytime ""del"" used points and try a different build.
+a lot of weapon mods 3 tiers and upgrades
+some tough boss fights
+
+you cant jump but do roll and dash - boss enemies do tough ground attacks that you have to dodge 
+in arena areas - maps are not 100% open world more like in doom eternal, corridors and some arena bigger areas.
+comparable with games like borderlands, assasins creed, doom.. .  
+take a look at some gameplay videos make sure its your type of game
+
+-
+the game may ""crash"" disconnect ingame (4x 5x in 50 hours gameplay), you dont loose your progress or your items, the game disconnect to the game server returning to start menu, just continue game..
+happened two times in boss fights, tried again finished the fight
+
+",0.7030870914459229,20,True
+680420,116319738,76561197971044738,"The demo got me hooked on this game..free and fun...the launch was rough for a while and people came and went with it and after a while game was looking to go to the graveyard...devs, fixed it up and saw that the demand for more content was there and now have a dlc coming out, so a lot of players came back...ive been playing it now for a few weeks and its playing really smooth and coop is great again like in the demo.
+Highly recommend now and catch the dlc on sale coming June 30",0.6519466042518616,34,True
+680420,122292580,76561198067192725,"My 29 hours were enough to hit endgame, grind out the meta build, run out of things to do, then lose it all to ""rebalancing."" Also enemies are just bullet sponges and that's not creative or fun.",0.6507600545883179,35,False
+680420,230597500,76561198888671569,"**👍 Recommended**
+
+10/10. Outriders is honestly one of the most underrated games on Steam.
+
+The combat is incredibly satisfying, every class feels powerful, and the ability combinations make every fight exciting. The loot system keeps you coming back for ""just one more mission,"" and creating different builds is addictive. Unlike a lot of modern looter shooters, this game respects your time and focuses on being fun.
+
+The campaign surprised me with how engaging it was, the world is interesting, and the endgame offers plenty of challenges if you enjoy chasing the perfect build. Playing with friends makes it even better, but it's also a fantastic solo experience.
+
+It's a shame this game never got the recognition it deserved. If you're even slightly interested in looter shooters or action RPGs, you're doing yourself a disservice by skipping Outriders.
+
+**10/10 – One of the best looter shooters ever made. Highly recommended.**
+",0.6486216187477112,17,True

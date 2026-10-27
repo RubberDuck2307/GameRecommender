@@ -1,0 +1,851 @@
+appid,recommendationid,author_id,review,weighted_vote_score,votes_up,voted_up
+261110,197845441,76561198295608032,"[h1] !! THIS IS FOR THIS PC PORT ONLY !! [/h1]
+
+I love this game a lot and its one of my favorite Suda51 games HOWEVER, this pc port is abysmally bad. 
+There is a vast number of issues with this port, so many that I think they just copy and pasted the console version of this game onto a pc build with little to no changes and called it a day. 
+
+[h2] THE GAME DOES'NT WORK AFTER A POINT [/h2]
+
+I'm not exaggerating when I say that the game in it's default state will not work if you have a good computer. If you have a multi-core CPU, after the 3rd or so missions final boss the game will crash upon the cutscene playing and there's no way around this without going into the games files and editing the code to allow it to use your computers power. I don't even know how something like this is even possible. Which is why I felt this port is a very lazy copy and paste. If you want the file path to fix this yourself I'll leave it here.
+
+-Right click it in your library and click ""browse local files""
+-From there follow this path. KidGame\Config\KidEngine.ini
+-KidEngine should open a note pad and from there look for ""[XAudio2.XAudio2Device]""
+-You should see some values under that and you need to edit them like this ->
+""MaxChannels=64
+CommonAudioPoolSize=320
+MinCompressedDurationGame=0.3
+MinCompressedDurationEditor=500
+LowPassFilterResonance=0.9
+WorkAroundXDKRegression=FALSE""
+
+[h2] Frame rate issues [/h2]
+
+I don't know why it's not standard for pc games to come with frame rate adjustment options, especially if your game is locked to 30 fps BY DEFAULT. For some this isn't the biggest deal in the world but at least for this game it makes a world of difference visually and gameplay wise with how much can be happening on screen. 
+
+Because of this, the only way to adjust your frame rate is opening the games files on your computer and editing a notepad file to adjust the minimum and maximum frame cap. I should not have to write lines of code for the game just to play it in its vanilla state. When it's this easy to tweak I can't see how the team porting this didn't just make this an option in the settings. I guess they wanted us to have some fun homework to do for the game you paid for. 
+
+You, yes you, can fix this by going to this path. KidGame\Config\KidEngine.ini
+-Find the line ""MaxSmoothedFrameRate"" and replace the value to whatever frames your heart desires, also upi can tweak the minimum frame rate here. 
+
+[h1] HOWEVER [/h1] 
+Because you are editing the frame rate, some things within the game will behave differently. Namely Mika's revive QTE. It's almost impossible if you don't edit it after changing your frame rate. Follow this path to fix that after changing your fps.
+
+KidGame\Config\DefaultGame.ini
+-Look for ""mRevive_MassageRecoveryRate"" and from here depending on your frame rate you'll need to change it to different values.
+--60fps 
+---Change ""mRevive_MassageRecoveryRate"" to 2.6
+---Change ""mRevive_MassageHealtDownRate"" to 0.98
+---Change ""mRevive_MassageDownPowerMax"" to 10.0
+
+--120fps
+---Change ""mRevive_MassageRecoveryRate"" to 5.2
+---Change ""mRevive_MassageHealtDownRate"" to 0.96
+---Change ""mRevive_MassageDownPowerMax"" to 20.0
+
+--144fps
+---Change ""mRevive_MassageRecoveryRate"" to 6.24
+---Change ""mRevive_MassageHealtDownRate"" to 0.94
+---Change ""mRevive_MassageDownPowerMax"" to 24.0
+
+To close, I must repeat, I do love this game a lot. This port is just unacceptable the longer I think about it. After you make these  tweaks the game is almost fully enjoyable from there. It will still crash from time to time for no reason. For me it was after my dates with Koharu, after finishing the date it would crash multiple times upon the cutscene. I don't know any way to avoid that other than just doing it over agin until it didn't crash. Still, if you can bear that and edit the game before sinking your teeth into it, it's a damn good time. 
+
+[h1] The review... KILLER IS DEAD [/h1]
+",0.8150782585144043,47,False
+261110,136461400,76561197986360343,"[b]Backlog[/b]
+
+We all have it. I started playing this game back in 2015 but only managed to complete 8 missions a year later. Then I returned only this year to finally finish it. It is just one of those games that wasn't captivating enough for me to finish in one go and I always found something else. But I'm glad I came back and put this matter to bed.
+
+[b]Hack 'n' Slash[/b]
+
+Yep. We control Mondo and use our sword (and gun arm) to eliminate hundreds of enemies. Mondo works for a special organisation that completes jobs for clients. These are always about killing someone but to get there Mondo has to kill a huge number of enemies called Wires. To be honest I didn't really get if these were machines or monsters but the story revolves around a dark matter that can alter people. In fact, Mondo is also affected as the story progresses (think of the dark side from Star Wars). 
+
+Each mission ends in a boss battle and with the resources we collect we can enhance our movement, regeneration and even purchase new abilities. Controls feel a bit clunky - headshots with our gun arm are instakills but performing them with perfect aim on moving enemies can be difficult. Hitting dodge at the right second can give us a small window during which we can quickly slice-up enemies whilst the combo meter goes up pretty fast. These sections are the best in the game.
+
+[b]Graphics + design[/b]
+
+The game has a stylised look that makes it as if we were watching an anime. Missions are introduced by cutscenes and we have several of them after completing various sections on a mission. The characters (their dialogues) can be pretty silly - using Japanese voice acting is mandatory for proper immersion. I found the game well optimised but noted the 30 FPS lock. Plus, during one boss battle the audio cuts out only to return after. Mission locations are varied and interesting - but perhaps too interesting (see below section).
+
+[b]Anime silliness[/b]
+
+This is where people dislike the game. We have a world map we can use to pick the next episode OR start doing side missions or challenges. We also have the option to date 3 girls. These so-called gigolo missions are an interesting break from the action-packed gameplay and are quite silly, to be honest. Each girl should be approached after we have purchased enough presents in the shop. Dating means looking at the girls (the more private parts, if possible) and by doing so we can fill a gauge. Once this is completed we can give presents to the girls. The glasses we wear hint at the type of gifts each girl likes. Remember not to look at their private areas too long as they can get angry and give us a smack in the face.
+
+What's the point? Getting special rewards from them (I had no idea how to select the new subweapons, though). And, of course, achievements. We have to return and replay the missions as often as possible. Later girls require more expensive gifts - monetary rewards after each episode increase in line with the chosen difficulty. 
+
+But the silliness goes on: Mika, our sidekick, is very annoying. During one mission we find ourselves on the dark side of the moon (there is a mansion in the middle of nowhere) and there is one episode where the antagonist is a locomotive. The last boss battle is pretty aggravating - I wanted to forget it just as a did the last boss battle in Metal Gear Revengeance. If you have watched a lot of anime or read a lot of hentai these ""jokes"" you might accept otherwise it can be a bit too much.
+
+[b]Completion[/b]
+
+Completing all episodes will not take long. But doing it on higher difficulties (the title refers to the nightmare difficulty made available for the steam edition) along with the many challenges, plus, ensuring each level is completed with triple A ranking will take a significant amount of time. The game was just too silly for me to do this. But the story can be exciting and finishing off enemies is very satisfactory. We don't have a lot of hack 'n' slash games played from non-isometric perspective so you can pick this one up if you really don't have anything else to play.",0.7840789556503296,47,True
+261110,18345463,76561197998690715,"Playing as an assassin named Mondo Zappa (a pretty metal name) you take on missions for a bald black man with half a robot face in which you......i really don't know, there's vampires, monsters, a 200ft giant with laser eyes, spiders with human faces on their backs, a demon train, a talking unicorn, aliens, spaceships, someone steals the planet Earth (??), you travel back and forth to a moon you can breath on without a spacesuit and use x-ray glasses to oggle women's boobs and lingerie then they have sex with you in exchange for a stick of gum.
+
+I liked it a lot.",0.7913926839828491,83,True
+261110,18348360,76561198001471216,"I'll start out by saying i love Goichi Suda aka Suda 51. I first got introduced to his game with killer 7 on the Nintendo Gamecube. With that being said i truly enjoyed the romp-through of this game, the randomness, the comedy that is normally expected from Suda 51. 
+
+This game i will admit is the reason why i upgrade my PC. Killer is Dead had an error that would cause a event in the game to lock and prevent the player from progressing the story. This error pretty much effected those with dual core processors. Because of the devs reluctance to patch this game i was forced to upgrade since their were no patch in sight. 
+
+When i finally got back into the game their were put offs about it that prevent me from playing. Bumping into blockage that are boss fights also prevent me from progressing further. I then realize that their were key elements to mastering this game and its enemies. The key element being ""Dodging"", the main fundamental of this game, the key to your victories. You master this, you master the game. 
+
+Anyway this game is pretty much a thrill ride. The lack of complex moves and skill will prevent the most die hard of beat em up fans from enjoying their play-through, but the satisfying feel of taking down enemies will keep your average player hooked. 
+
+The story; though not great, is your semi-cliche anime type of twist, but who is playing for the story? Not me! The game is separated in episodes so you'll feel like you're watching a season of a particular anime series. The presentation is all there for the player to love and enjoy while enemy bashing your way through the end. 
+
+I found this game very enjoyable once i mastered dodging into countering and boy is that satisfying. This game is a definite buy for the beat em up crowd and definitely a game one should have in their Steam library. My dream one day is to have even more Japanese beat em ups to choose from in the future but having this game among others on steam is a great start.",0.7655746340751648,39,True
+261110,183625264,76561198005279268,"I'd say it's a 10/10 for me. Perfectly absurd story loving it so far.
+You just need to change the entry in KidEngine.ini file then the crashes should be fixed.
+
+[XAudio2.XAudio2Device]
+MaxChannels=64
+CommonAudioPoolSize=320
+MinCompressedDurationGame=0.3
+MinCompressedDurationEditor=500
+LowPassFilterResonance=0.9
+WorkAroundXDKRegression=FALSE
+
+Credit goes to an old reddit post https://www.reddit.com/r/nomoreheroes/comments/r46gm1/fix_for_repetitive_crashing_in_killer_is_dead_pc/",0.7143126130104065,16,True
+261110,36502861,76561198015357478,"Killer is Dead has a lot of batshit crazy stuff going for it, as well as loads of hack 'n slash action. It's one of those where games you will constantly think: ""What the shit is even going on right now?"" It's made by SUDA51, so it should be no surprise - but I feel it could've been much longer.
+
+Pros:
+- The stylish anime style is very pretty to look at. At first it can be a bit disorientating, but you'll get used to it.
+- Combat is good enough to be fun. Nothing spectacular, it's alright.
+- Story is fucking nuts! I loved every second of it even if it made zero sense.
+- Weird minigames exists other than the main levels... and they are interesting to say the least. In some of those minigames you'll be charming girls to fall in love with you by staring at their chests... yeah, just find out yourself. I have no idea.
+
+Cons:
+- Not that many combos. It really needed way more combos.
+- Really short. The game consists of 12 levels.
+- Cliffhanger ending, god dammit.
+
+
+KILLER IS DEAD.",0.7509657144546509,33,True
+261110,49624348,76561198112937591,"This entire game is one big WTF moment. Great battle mechanics, crazy story, a cheerful loli, hot waifus, a talking unicorn. The usual stuff.",0.6989976167678833,21,True
+261110,213485860,76561197965552381,"The game itself, while weird and quirky with it's scripting and storytelling... is badass.
+
+The port is booty cheeks. As a consumer, I should not have to go into the ini files and change resolutions, fps, and audio settings to get modernized settings and to avoid crashes. That is the whole purpose of a port is to integrate these things into the game, and provide hotfixes. 
+
+I hope they come back one day and dust this off with some love so it's easier to access for those less tech inclines.
+
+I'm not really sure what was added in the ""nightmare"" edition outside of the nightmare of getting it to run well on a modern system.",0.696177065372467,22,False
+261110,12459587,76561197997681451,"First off, let me preface this review by saying that this game is rather short and if you wanna play it on a computer with a dual core processor you are shit out of luck. However, if you can run this game, it is well worth your time and money despite these two problems. 
+
+Be sure to see the guide as well on getting this game to run up to snuff, unless you're one of those people who think a game is enhanced by a subpar framerate.
+
+http://steamcommunity.com/sharedfiles/filedetails/?id=262696032
+
+tl;dr? Get this game if you're into the hack and slash genre even slightly, enjoy a moderate amount of difficulty, or appreciate a unique visual style in a video game. (Seriously, some of the frames in some of the cutscenes in this game are wallpaper worthy.)
+
+Killer is Dead is one of the most unique games I have ever played. Perhaps not mechanically; after all, this is at it's core a hack and slash game and it does have many tropes of the genre such as a grading system and guarding/dodging mechanics. As for the mechanics themselves, they're actually very solid if a bit overly simplistic to those who are used to DMC levels of depth. However, everything about it otherwise, from it's beautiful visual style that's reminiscent of 70's esque color pallettes, character, and outdoor design gives this game loads of personality and unique identity among others in the genre. I will forever remember this game because of how unique it is. 
+
+Oh, and the soundtrack is a beautiful blend of electronic ambient and classical music. Often very dreamlike, much like the game itself.
+
+This game is not without it's problems though. Sometimes, the camera may not zoom out enough to give you vital information on the next enemy telegraph, leading to mild frustration at times. You will hate the gigolo missions not because they're bad (They lack a lot of depth, though.) but because the people you date will bother you in the middle of a mission to remind you that there are, in fact, gigolo missions and the girls want to see you before their mission gets locked off until you complete a few other missions. A minor inconvenience, of course. But I am of the personal belief that side missions should not detract at all from a main campaign and should be able to be played at your own leisure. I assure you, this is said in the interest of informing about an unsatisfactory gameplay mechanic, not in regard of [spoiler]a controversial subject at the time of this review that I don't want to touch with a 1,000,000 foot pole because I honestly, really, could not give less of a fuck if I tried, since said subject does not detract from a game for me at all. I only offhandedly mention it because some people do care and they should know it is in the game.[/spoiler] There isn't a lot of enemy variety in this game either.
+
+However, this game is well worth your time and money, and I would even go as far as to say that it is a must own if you want to experience a game that is unlike most you've played. Expect challenge.",0.7367630004882812,112,True
+261110,11713573,76561197966526458,"Just finished this game and I feel like I need to add a review that is not based on glitches or bugs.
+
+What I expected was either a super-grotesque, ""wtf is this..."" game that keeps me entertained with its absurdness; or one with a genuinely interesting noir-style story (with a soundtrack from Akira Yamaoka on top of that!). However, neither of these describe the game. 
+It certainly has many ""wtf""-moments, and at the beginning it even seems like it would deliver both of these expectations instead of just one. The art style is superb, the mood combined with the OST fascinating and yet you keep wondering ""what the hell is just happening?"". However, it just doesn't develop at all from that point on.
+
+The first and probably the main problem is the gameplay. Most of the time you have to fight your way through maybe 10 different types of enemies in total. Almost all of them can easily be defeated by stupid button smashing of your standard attack with some evasions thrown in at random. There is a mechanic to press your evasion button just as enemies attack to counter them with a ""smash x!""-multiattack, but the cue and time window for these is so small that I found myself ignoring it completely and just pressing the evasion whenever I felt like it. Many times you even trigger the event with this playstyle. Enemies in the air can only be killed with ranged combat, which basically means holding a single button down for 10+ seconds while aiming at them. In the end, every stage just felt like mindless button smashing to victory. And believe me, the stages sometimes feel like an eternity. There is absolutely nothing interesting happening within them at all. Defeat five enemies, go to the next room, defeat ten enemies, go to the next room, repeat until boss fight starts. 
+While the bosses all have different patterns how to defeat them, they are not that much fun either. The whole combat system is just too simplistic to have any entertainment value.
+
+Apart from the main missions there is also the possibility to do sidemissions at any point: These are either more of the dull combat system (challenges for time or similar stuff) or the absolutely ridiculous ""Gigolo Missions"". I'm not kidding right now: In each of these missions, you sit somewhere with a woman and have to look at their body without them noticing. They say like 5 phrases again and again and either look at you or awkwardly somewhere else. While they look away, you stare at their breasts or legs and gain ""guts"". You also have glasses that let you see these women in underwear and what kind of presents they like, which further increases these guts. Once you have enough, you can give them a present, ultimately getting them into bed that way (and getting a new weapon). I have absolutely no idea what the developers of this game were thinking implementing this. It's the most awkward and stupid thing I've ever seen in any game, even the gameplay during that is ridiculously monotone. Seeing this feels like an insult. 
+
+So, what's left? Ah right, the story. Before and after each mission, we get sequences usually between five and ten minutes. These are most of the time completely based on the mission at hand, but all refer somehow to the moon that makes the ""mysterious main theme"". However, the story isn't really developing in any way. Most of the time there are just a few sentences that leave more questions than they answer. Not in a good ""put the pieces together"" way though. Some missions are also dream sequences from the main character which seem to point to personal conflicts of him, but they are delivered so flat that there's absolutely no emotional impact at all. 
+In the end, it feels like the writers just added everything that came into their mind on a whim. The story development is minmal at best and can be summarized with a few sentences. Nevertheless it always feels like the story wants to be poetic and open to interpretation, which makes this even worse. There's even a great story twist that didn't feel like a twist at all due to the way the story is delivered. And while there are many ""wtf"" moments, including unicorns, vampires, aliens, ghosts and whatnot, the game takes itself too serious to be enjoyable in that way. 
+
+Summary: Don't waste your time on this. It looks cool, that's about everything good there is to say.",0.7330009937286377,60,False
+261110,25788323,76561197971021986,"Killer is Dead can be described as a weird and strange action hack and slash game.
+The art style is unique in a way that sometimes you have the feeling that this is a sort of LSD-trip.
+The story is very confusing and to this day I still not know what exactly I was doing. There are a lot of cut scenes that tell the story. It’s something complicated like some anime movies.
+In short you play an assassin who’s called Mondo. Your weapons are a katana blade and a bionic arm – which can also transform I a gun that shoots blood. The fighting is rather simple and there are not a lot of combo’s – this is not a Devil May Cry style of game – the most important here is to learn to dodge and block enemy attacks. The game can be very violent and is not for children.
+
+Graphic style: this can only be described as weird. It’s not something for everyone – check some YouTube videos
+Sound: music and sound effects are OK
+Gameplay: this sort of game plays best with a gamepad. I played it with an Xbox One wired controller and it works flawlessly.
+Quality of the console port: this game is a console port and it has been ported with almost no graphic options. Resolutions are limited to 1920*1080. The only way to use other resolutions is via editing of an ini-file (check the forums) and via the program ‘Flawless Widescreen’. I tested it with a resolution of 2560*1080 and it works.
+
+I took me 11 hours to finish. Replay value comes from playing higher difficulty, finding all the secrets, getting high high scores for every level and missions.",0.7303882837295532,18,True
+261110,149573335,76561197963769406,"Have a controller. This game is a complete B I T C H with a mouse and keyboard. That said, it's kinda mindlessly fun, and the plot and cinematics are both aesthetically pleasing and hilariously stupid. Things will make less sense the longer you attempt to understand them, and I like that. Killer is Dead is one of the dumbest, most insane things I've experienced, and for that, I give it a 10/10.",0.6706804037094116,13,True
+261110,10234888,76561198054632874,"Hold off on buying it until they fix the glitches, expecially the Mission 3 glitch where a call wont end and so you cant progress at all, and there is literally nothing you can do to fix it yourself. Still no word of any patches coming out so dont even bother wastin $20 on this.",0.7162437438964844,232,False
+261110,112614097,76561198116794381,"This game is one hell of a trip,no idea what I am doing but it's good",0.7578576803207397,27,True
+261110,35955175,76561197986529486,"YEAR: 2XXX NAME: MONDO ZAPPA AGE: 35 OCCUPATION: KILLER
+
+(You will need to fix this game in order to enjoy it: https://www.pcgamingwiki.com/wiki/Killer_Is_Dead)
+Killer Is Dead is an anime-style unforgiving hack n' slash adventure rpg where you play as Mondo Zappa, a rad man with a katana and symbiotic weapon-arm. You will, from the get-go, be fighting a handful of enemies and venturing around levels in order to confront their bosses, and this game really turns it up on the bosses. The combat is ultra-fluid and very responsive, a mix of Shadow of Mordor and classic hack n' slash. You can sidestep, roll, backstep, and move as fast as you can think to. This is exactly how anime katana combat should feel, allowing you to counterattack and mix in other moves in order to fight groups of enemies. As you build combo, you do more damage and move quicker, so there's incentive to not get hit. When you parry an enemy, you go into a button-mash where you hack them up and build combo by smashin that attack button. The plot is fantastical and unexplainable, and very enjoyable.
+
+Additionally, it's also an anime h-game where you go on dates with cute girls and do a fun minigame where you look at their boobies while they look away. 5/5",0.8043709397315979,80,True
+261110,158903587,76561198137066744,"Mixed about the story, but it has some of the best hack 'n' slash gameplay Grasshopper has put out. The port kinda sucks since it's locked to 30 FPS without making changes to configuration files. A guide should be pinned/featured in the game's respective tab.",0.6541706919670105,11,True
+261110,26363206,76561198005776643,"I've played this game on xbox 360. Buying this again to support the game director SUDA51. I love those cult games he made, altough usually deemed as sale failure. Hope he can keep doing what he does. 
+
+[b] PLEASE BRING NO MORE HEROES 1&2 AND SHADOWS OF DAMNED TO PC! I will buy them all![/b]
+
+Ok, review time. It might not be the best games regarding to gameplay, it surely has tons of style and Janpanese weird humor. If you enjoy crazy story with gallons of blood, this one is definitely for you.
+
+And gameplay is not that bad actually, once you've mastered how to guard and avade the game is such a slick experience.",0.6967101097106934,16,True
+261110,10207759,76561198006551520,"Port seems good. Renders at 1080p, but is locked to 30fps by default. This can be changed in an ini file. Image guide for that here:
+http://i.imgur.com/jRcFFNZ.jpg
+
+Game itself is great. This is a fun action game made by crazy japanese people who don't give any shits about feminism. Do not expect a coherant storyline. Expect to be regularly switching between being frightened, confused, and aroused.",0.7444010972976685,671,True
+261110,11011766,76561198001632974,"From a gameplay standpoint Killer is Dead is not a well designed action game. It's completely devoid of any kind of developed combo system, you simply have normal attacks and guard breaking punches. It's chock full of quicktime events for finishing bosses, finishing normal enemies, even when you dodge an attack with a specific timing you get a little quicktime event pop-up to mash attack for loads of free damage. Fights very rarely have any fancy tactics involved, just mash attack with occasional guard breaks and dodge or block when an enemy flashes red. There are subweapons, but using them puts you into an over the shoulder shooter aiming mode which completely kills the flow of gameplay and controls really sluggishly. For some reason Grasshoper also didn't see fit to put in a lock on function so when you're fighting multiple enemies and you want to target a specific one you have to just push the stick/wasd towards them and hope the game picks the right enemy out of the horde. In normal play this isn't a huge problem but it makes some of the optional challenges a nightmare.
+
+Mechanically this game also has a whole lot of problems. There's a lot of hitbox and collision bugs, I've witnessed more than a few enemies and items spazzing all over the place because they intersected each other and the game didn't know where to put them. Sometimes these collision issues result in you dodging from enemies and getting stuck on other enemies that visually you have plenty of space to pass by making you take unneccesary damage. The game also has issues distinguishing priority between block and dodge which are bound to the same button and you'll end up doing a parry when you're trying to dodge. Again this is more of an issue with the challenges because when you're doing a timed mission you don't want to waste seconds in fancy parry animations when you're trying to roll over to where you want to be. These mechanic issues are all minor compared to the actually game breaking ones, like softlocks when the options disappear from the menu or the audio cuts out in bossfights, and plenty of people have issues with the game completely crashing in the third chapter which as of yet there are no reliable fixes for.
+
+Pretty much the only positive thing I can say about the game is it has a nice visual aesthetic, but even that only carries as far as its cutscenes. The cel shaded visuals look great in the carefully crafted cutscenes but in gameplay the high contrast lighting makes colorful items look plastic and darker areas look muddled and confusing.
+
+Watch it on youtube, you'll get all of the visuals with none of the frustrating bugs and poor game design. If you really want an action game go play DMC4, that's a much better port with a much better combat system.",0.6926364898681641,36,False
+261110,16560767,76561198001258474,"[h1][b]Killer is Dead - Nightmare Edition Review[/b][/h1]
+
+[h1]Game Details[/h1]
+
+[b]Game:[/b] Killer is Dead - Nightmare Edition
+[b]Genre:[/b] Action/Hack 'n' Slash
+[b]Developed by:[/b] Grasshopper Manufacture
+[b]Published by:[/b] Deep Silver	
+[b]Release Date:[/b] 23 May, 2014
+[b]Metacritic Score:[/b] 71 ([url=http://www.metacritic.com/game/pc/killer-is-dead-nightmare-edition]Link[/url])
+
+[h1]Game Review[/h1]
+
+[i]""Killer... Killer is Dead.""[/i]
+
+[b]Killer is Dead[/b] is the latest title made by the iconic game creator SUDA51. In it you get to control the newest recruit of a reputable execution agency, Mondo Zappa, as he stalks and beheads a wide variety of criminals all across the world (sometimes even outside of it). As he settles into his new job, he also comes to terms with his own inner demons, balancing his talent for dispensing swift and brutal justice with his fleeting memories of a traumatic past, and peppering it all with his many sensual conquests.
+
+[b]Gameplay[/b]
+
+Gameplay wise this is an extremely fun game. It is very simplistic and linear, yet you will have a good time slicing through large ammounts of enemies with your katana. Combat consists in lots of button smashing though, which after a while, gets repetitive, but you have a nice diversity of enemies too keep it ""fresh"". Combat which is in its majority through the game, insanely frenetic and challenging at times, being the boss fights the strongest attribute of it. You also have a nice selection of secondary weapons too once you unlock them through side-missions. Side-missions which are a nice way to offer some diversity to this game, since the main story missions are super linear, with a few collectables here and there, but excepting that, you will be walking around corridors most of the time. Some of these side missions are very fun, others are kinda lame after a while since they get extremely repetitive (gigolo missions), but they help giving the japanese vibe that this game possesses.
+The game also as a good longetivity, I spent around 12 hours in order to complete it (side missions included).
+
+[b]Story[/b]
+
+I found the story to be very weak. It was insanely confusing and awkward with lots of bland dialog and boring cutscenes. The oscillating tone does not work well too, it varies from emotional scenes to lame humor very fast. It has some pretty cool characters though, which help this category of the game.
+
+[b]Graphics and Presentation[/b]
+
+Graphically this game is marvellous to look at. Incredibly stylish cel-shadded graphics give life to this incredible world. Most of the levels are gorgeous and well designed. Some are kinda lame though. I remember that one of the chapters was so dark that I had many difficulties to navigate through it, even with the brightness maxed out. Also a minus the lack of graphical options in the menus, since there is only one option to choose that goes from low, medium, high, no other options whatsoever. Despite that, the menus are slick and easy to navigate, loading screens are fast, and the menus also have a nice array of music to complement them.
+
+[b]Sound[/b]
+
+The music and sound effects in this game are great. I deeply enjoyed the soundtrack, and the sound effects all felt right too. Voice acting is kinda ""meh"", nothing special, the story and dialog surely dont help in this case.
+
+[b]Performance[/b]
+
+Performance is great. I played on a considerably weak laptop and almost never dropped from the 30 fps cap on max settings. Unfortunately it is locked at the 30 fps mark but you can change that in the config files by following this guide - [url=http://steamcommunity.com/sharedfiles/filedetails/?id=262696032]here[/url]. I also had to change the resolution in the config files since my native one was not available in-game, which is a big minus.
+
+[h1]Summary[/h1]
+
+[b]Pros:[/b]
+[list]
+[*]Great presentation and japanese vibe
+[*]Amazing graphics and creative art style
+[*]Fun and frenetic combat
+[*]Good longetivity
+[/list]
+
+[b]Cons:[/b]
+[list]
+[*]Hugely confusing, weak story
+[*]Extremely linear story missions
+[*]Lack of use of the PC technical potencial
+[/list]
+
+[b]My personal score:[/b] 7.0
+
+If you like Hack 'n' Slash games and games with a japanese vibe, this is a game to get. I would advice to get in on a sale, even though the standard price is not very high, for the mixed experience you get its better to pay a little less. Nevertheless, you will have a good time playing this game, it feels good to slash through hordes of monsters and assassins.",0.692617654800415,111,True
+261110,10207900,76561198043791695,"I played for almost a hour. (have everything unlocked on ps3) DAMN.. This looks so good , so far it looks like really well made port from consoles and ofcourse there is vsync function. The visuals are just pure art. Love this game. Big thanks for bringing it to PC and Steam. Must buy for a character action game fans.
+
+EDIT
+The more I play it the more I like it. 120fps ""fix"" does the awesome job. I personally haven't encountered any problems with game , it works just fine like on a console. Playing with Jpn voices , controller , vsync on , 1920x1080 resolution, Win7 64bit - if anyone wonders. Japanese voices doesn't match lip sync and game sometimes love just to freeze when I want to make out with Koharu (geisha girl)",0.6907885670661926,110,True
+261110,188542062,76561198038383548,"Stylish action game by SUDA51 with cool protagonist, hot babes and absolute schizo-kino story? Sign me in.",0.6365935206413269,9,True
+261110,202432312,76561198878610145,Objectively the coolest game ever made paired with objectively the worst PC port ever made.,0.6354430317878723,10,False
+261110,229024394,76561199508437603,"Super upset about this one. It looked like a lot of fun, and I was hooked as soon as I started playing, only for the port to disappoint me. It crashes in Chapter 2 and is locked at 30 FPS. Such a shame.",0.63535475730896,9,False
+261110,29875392,76561198010315744,"Overstylized hack n slash mind fuck. 
+
+Now we just need Lollipop Chainsaw, No More Heroes and Shadows of the Damned to keep my high going. 
+
+",0.7349982857704163,48,True
+261110,129579409,76561198053210555,"This has all the weirdness and style one expects from a Grasshopper/Suda51 game and it was fun enough. It's not going to replace Killer7 as my favorite game of theirs but, if you've already played that, this one's pretty good, too.
+
+The combat system is a bit deceptive. It's seems like a basic Arkham-style system where you mash the attack button and time your dodges to perform counter-attacks but there's actually a bit of depth. For starters, Mondo will get faster and faster the higher your combo gets. When you're below 20 hits, he moves like a slug but as you break 30, 40, 50+ hits, he becomes a human blender. Often this means you don't even want to deal with enemies that are blocking or attacking, you just want to keep switching from enemy to enemy to get lots of cheap easy hits in. It ends up being pretty frenetic. There's also Burst Rush where if you time your dodges to specific telegraphs, you enter a bullet time blender mode for even more blending action.
+
+You also have a few subweapons which don't have a ton of use during core combat but they're useful to have. Oddly, you only start with one subweapon and the others are gated behind dating minigames for girls you meet in the missions so make sure you complete those minigames ASAP.",0.6344177722930908,9,True
+261110,35935487,76561198047109609,"If you're a fan of Suda51, it's worth checking out. Also, I'd suggest playing through the game on Hard your first time around- I played it on Normal without much challenge. Luckily, you can change the difficulty at any time.
+
+If you've never played one of his games before, wait till you can get it on sale and see if you like it.",0.6823837161064148,28,True
+261110,19568557,76561198068127157,"Killer is Dead is a Hack and Slash game that has you playing as a katana wielding ladies’ man named Mondo. He works as an assassin for a secret agency and is accompanied by his assistant called Mika, who he mostly keeps around because she is good at making half boiled eggs. Right from the get go you will have no idea what is going on as this game relishes on its weirdness and it isn't even mentioned what the enemies you are fighting actually are until rather late in the game. This game doesn't take itself seriously at all and will often break the fourth wall. The voice acting is sub-par but it fits in with the wacky B rated theme it has going on. The characters are consistently interacting with each other and are all memorable. Killer is Dead is very cut-scene and doesn't really tell anything resembling a story until later on, as Mondo gets some character development and evolves from being a bland forgettable character into something more interesting that makes you question who your allies are.
+
+To get this out of the way I must mention that the game is locked at 30fps. In this type of genre that is a big negative against it as it effects the fluidity and responsiveness of the combat which is most of what you'll be doing most. Another negative is that the game's highest resolution is 1080p. Both of these issues can be fixed by tweaking certain config files, though raising the frame rate over 30 does make menus harder to navigate due to being running far too fast. It is manageable going through the menus at 60fps but raising it to 144 makes it near unusable. Expect plenty of framerate dips as well. I do find it rather odd that it is even 30fps to begin with as it is by no means looks like a game that the seventh gen consoles would have trouble running. It is by no means unplayable but it is unfortunately a pretty bad PC port. With that out of the way the game features 5 difficulty modes to choose from and 12 main missions. One mission is entirely a cutscene, another has a bit of combat but is mostly a cutscene as well and the final mission is actually the same map from earlier in the game.
+
+All main missions called “Contracts” are pretty memorable and vary wildly from one another. One may have you searching through a dollhouse and in another you may be fighting off giant aliens. The wackiness helps keeps you wanting to play the game and knowing that there is a giant bizarre boss to fight at the end of each mission keeps you going forward. Common enemies are called Wires and are the creatures you will be slaughtering throughout the game. They come in different sizes and can wield guns, riot shields and various melee weapons. While they have bland appearances they are still quickly recognizable, so you will know how to handle that fight as soon as you lay eyes on them. In addition to Mondo's katana he has a robotic left arm that can fire bullets and is powered by the blood of his enemies. Unlike most games of this genre your ranged weapon is surprisingly powerful and can kill the weaker enemies with a single head shot, though due to it being powered by blood you will need to go face to face with your enemies to refill it. The only way to regenerate your health is to consume the blood stored in your synthetic arm to restore your health causing you to find a balance between ranged offense and emergency health.
+
+You will not be able to restore your health from the get go and must collect yellow gems that defeated enemies drop to unlock that ability. In fact you can't do much at the start other than mash the attack button and occasionally use your power attack to break through some enemies guards. It does get very repetitive if you don't upgrade your melee skills early on and would not be unthinkable if someone played the first few levels, saw the nonsensical story and bare-bones gameplay then never gave the game another shot. Even with maxed out skills, combat doesn't really get much deeper than launching an enemy up with a strike or being able to charge up your power attack. What made the combat more enjoyable was an upgrade that made your katana glow blue and strike much faster the higher your combo count goes, giving you a good reason not to get hit and makes you feel skilled. Not getting hit is easier said than done as the camera is less than stellar. It is surprisingly bad and will often get you in trouble. It is bad to the point that I would rather have my thumb on the right stick that controls the camera instead of the attack button.
+
+Blocking and dodging is rather important here since enemies will not stay stun locked for long and will attack you mid combo. Blocking in just the right moment will cause you to parry and allow you to mash the attack button in a black and white quick time event that causes serious damage to that enemy. Get your combo meter high enough and you can start to execute wounded enemies in a style of your choice. There are four ways to execute a foe and each grant you a certain item like crystals for health, roses for blood and the yellow gems you need to upgrade. Collecting enough crystals or roses will slightly increase the amount of health you have or the amount of blood you can store. Bosses are where you will want a good defense as they will smack you around the arena and often have a form of homing attack that is hard to dodge. Attacking bosses with your katana also fills up your blood meter but using your regenerating ability is a good way to get yourself even more wounded as there is quite a delay from letting go of the button and being able to move again. That is not a flaw and feels like a good way to keep you from cheesing through the game or what is supposed to be an epic life or death boss fight. All bosses have three different forms that change once you deplete their life bar and become more dangerous the closer they are to being defeated.
+
+As said before the story is very weird and gets interesting towards the middle half. It's not a particularly good story and is too open for interpretation, making it feel disjointed but you can't help but worry about the fun cast of characters. Along with the main missions there is this odd mini game in where you go on a date with a woman of your choice and try to sneak a peek at her with your X-ray glasses. Once enough blood goes to your head from sufficient ogling you will be able to give her gifts until she comes back to your place. It is odd to say the least. They are necessary if you want all the sub-weapons however. Challenges are a bunch of small missions that have you doing stuff like shooting down barrels with a turret or playing through small sections of a level and are mostly throw away filler. They do give you money like real missions however so that's a bit of an incentive. Money is used to buy the aforementioned gifts and can also be used to buy extra costumes that characters can wear. Even after completing the game you can still play through any mission and earn up extra cash for those expensive new costumes that are unlocked once you finish the story. It's a good way to motivate you to replay missions and maybe try them on a higher difficulty mode.
+
+Graphics have a nice, stylish comic book vibe to them and can feel like a cartoon at times due to its silliness. Music is pretty good as well and is used in great conjunction to what is going on. Killer is Dead is a game that oozes charm and style but has a lot of flaws that really drag it down. It is no doubt a memorable game, though it is not that fun to play due to the terrible camera. I'm not a fan of there being no jump button so you could juggle enemies or be able to jump out of the way of attacks instead of relying on the short dash. This is the kind of game I would only recommend to those searching for a weird, unique and outlandish experience if they think they can deal with the camera, the PC port issues and some pretty run of the mill combat.",0.6811611652374268,13,True
+261110,15457810,76561198057442984,"This game is like Takashi Miike, Tarantino, and Frank Miller had a baby.  
+And that baby had a dream.  
+And that dream took some peyote and rode through the desert on a unicorn for a few days.   Surviving on nothing but cactus juice, sake, and smooth jazz.
+And just as it started to come down some rat basterd jacked it up with methamphetamines, clamped jumper cables and a car battery to it's nipples and forced it to develop a video game.
+Then the baby woke up slightly dazed and spoke it's first words...
+""Killer is Dead"" is all it said.",0.7226135730743408,530,True
+261110,11558358,76561197971672497,Untill they fix the dual core bug this game will stop working on level 3. Shame because it looks like it could be fun but currently its unplayable for some.,0.6721648573875427,82,False
+261110,223267444,76561199030610466,"Despite being huge Suda51 fan, i cannot recommend this game.
+It's hurtful to say since i like Killer is dead, but pc version is so bad that most of you wouldn't be able to finish this game",0.6216870546340942,8,False
+261110,206267063,76561198062506049,"Killer is Dead is a game I played quite a bit on the PS3, so I remember it fairly well. I remember having high expectations, and while it delivers a unique and stylish experience, it doesn’t fully reach its potential. It achieve's a bold visual style and surreal, dreamlike atmosphere. The story can be confusing at times, but that actually adds to the game’s quirky charm rather than detracting from it. The soundtrack and art design work together to create a distinct, almost hypnotic world that you don’t often see in action games. The seducing segments are weird but what else do you expect from Suda. Where it falls short is in the gameplay. The camera can be frustrating, and movement sometimes feels stiff or “orthopedic.” Combat, while varied with a surprising number of attack options and weapons, can become repetitive over time because of this. Even so, there’s a certain rhythm to the fights that can be satisfying once you get used to it. If you go in expecting something on the level of Devil May Cry or Bayonetta, you might be disappointed. But if you approach it as a stylish, experimental action game with a unique world and personality, there’s a lot to enjoy. Its creativity, its bold art direction, and the fun of experimenting with different combat combos has me enthralled from time to time, even if it doesn’t quite stick the landing mechanically. It’s an offbeat, memorable experience that stands out for its style, story, and atmosphere, even if it doesn’t match the technical polish of the top tier action games of its era.",0.6210407018661499,9,True
+261110,204456321,76561199174145149,"Well, I've seen too many negative reviews about this game that says it constantly crashes, I'm wondering if I played another version of the game because i didn't have a single crash in story mode. The only crash I had was in Koharu's mission, I just had to cap the fps to 30 and played the mission without any problem. The game is really good, I loved the art style and the gameplay.",0.6142480373382568,9,True
+261110,128824741,76561198009711397,If you're on windows 11 dont even bother with the steam version. Buy a copy of the game for ps3 and emulate it on your pc for the best experience as the pc port has tons of crashing issues,0.6640546321868896,22,False
+261110,22871516,76561198083455064,"[h1]Pros[/h1]
+- Simple, easy to master and fun gameplay. Character Action enthusiasts might not like this.
+- Very entertaining story, if a bit confusing and lacking detail.
+- All major characters are cool & memorable. Except Mika.
+- Very well executed humour.
+- Cel-Shaded Graphics.
+- Great voice acting.
+- Good soundtrack. 
+- Good boss fights.
+
+[h1]Mixed[/h1]
+- Known to crash and have countless bugs on dual core processors. However, it should run flawlessly on quad core or above.
+- No native windowed mode option. If needed, use the launch parameter “-windowed” minus quotations marks.
+- 30 FPS cap, though this is largely irrelevant since I never experienced a single frame drop or slowdown.
+
+[h1]Cons[/h1]
+- In dark or dimly lit scenes (most of the game) the black colours tend to be over saturated and overpower the rest.
+- 1920x1080 and 1680x1050 are the highest resolutions available and graphics options are limited in general.
+- The hook up mini game is as distasteful as it is pointless. You can beat the game without any of the rewards.
+- [spoiler]Ends on somewhat of a cliffhanger with little to no possibility of a sequel like most Suda51 games.[/spoiler] 
+
+[h1]Terribad[/h1]
+- Mika
+
+[h1]Elevator Pitch: Classic DMC meets JoJo & Sailor Moon[/h1]
+[h1]Final Score: 8/10[/h1]",0.6610900163650513,33,True
+261110,16156912,76561198013463285,"Expected a hack-n-slash with unique visuals and lots of virtual babes because why not.
+
+Got a broken Unreal 3 console port that needs tweaking with ini files (and the exe if you have a dual-core CPU), frame rate drops, random slow down during boss fights, broken animations and a frustrated game review.
+
+EDIT: I've written this review simply because this game is the only UE3 game I've played on my current duo-core CPU hardware that had slowdowns, crashes and such. I bought this game back then because I've met every recommended hardware specifications except the core amount and thought it'd still work (my CPU speed is at 3.1 GHz). I'll keep this review here to warn people about this little detail.
+
+Also, comments like ""git gud pc"" and ""works 4 me"" don't really help, please stop.",0.6609999537467957,142,False
+261110,146332196,76561198210691780,"A simple yet engaging hack and slash with more emphasis on countering the enemy for more damage than the standard combo based, and it is quite engaging in my 7 hours of playtime.
+
+I won't mention much about the side content, only the main missions gameplay and design.
+
+The story is worth to explore on your own, and it is quite good, and quirky at times, so I hope you have the same level of fun, I had with this game.
+
+ I am quite new to Suda 51's work, and I really had a great fun with this game, however in this port there is a bit of an issue about the framaerate that affects certain quick time events quite heavily, but this could be fixed by following guide in the community hub, but still that is my only con for the game.
+
+I really love the artstyle, and direction, it was mix of sin city, and sucker punch(peak movie), and the soundtrack was good, not the best I have heard, but it worked really well.
+
+Sound design, gave every attack, dodge, and even when shooting, some weight to it, and when you pull of a decent counter against an enemy, or a boss it gives you that one sound effect that give you an instant dopamine, in short it is top tier, and I loved it.
+
+It is one of those games I highly recommend everyone to try, and the good thing about this game in every sale it goes really under 3 dollars, and for that price alone it is an absolute must, to experience this game.
+
+
+
+Also, for the low end enjoyers:
+
+I am using intel i5 4200m
+
+4gb ram
+
+intel hd 4600
+
+And the game ran well on 31fps(this game is 31fps locked) without any drop on 1280x720(This is the highest resolution for the game, you can make some changes with the help of the guide in this game's community hub page if you want to experience the game at a higher resolution!)
+
+Game verdict? 7.8/10
+
+
+PC Optimization? 7/10 (From 1 to 5: You need to spend a good while configuring just to get it to run, and at times its not certain it will be stable
+
+From 5 to 7: It is stable, and decent but you do require a bit of tinkering just to get the performance or quality you want.
+
+From 8 to 10: It is perfectly optimized and it has little or no requirement to rely on configuring it).
+
+",0.6075313091278076,10,True
+261110,79334878,76561198066615536,"Killer is Dead, a hack & lash action adventure title made by Grasshopper Manufacture the creator of such games as Killer7, lolipop chainsaw, and No More Hero's. Killer is dead happily falls in a good place among these titles, blending crazy style with fun and simple hack and slash combat. Honestly this game reminded me a lot of a simpler DMC style experience. Not a bad thing, just don't expect the level of depth from this as DMC. The story was decent with a fun cast of characters that were stereotypical, but written that way on purpose. Killer is Dead also has some great visuals, with this almost cell shaded/ comic book like quality. Really pops off the screen. Overall I'd recommend Killer is Dead to a friend on the one condition. That they can handle a wacky cast of characters, unique presentation, and basic combat. Overall this is a 7/10 
+
+Also wtaf is up with this mini games? Wifu simulator lmao",0.6062731146812439,7,True
+261110,10499971,76561198009424748,"Game breaking bugs on release day.
+
+1 month later: no patch, not even a single official statement from devs or publishers.
+
+Port of the year.
+
+Edit: 04.08.2014 Update:
+
+Still not a single patch has been released. This is pure scam. Don't get tricked by the sale.",0.6545125246047974,251,False
+261110,95166533,76561199029379461,"Very weeby adventures of edgy gigolo executioner about revenge with a lot of Moon/Earth symbolism.
+
+[list]
+[*]Story: Japanese. 5/5
+[*]Graphics: Suda51. 5/5
+[*]Audio: Pretty. 4/5
+[*]Gameplay: Peeping at women is my passion 3.5/5
+[/list]
+
+Overall: 4.4/5
+
+Do not give technical problems and gigolo missions to push you away from this crazy masterpiece.",0.6044710278511047,8,True
+261110,104162635,76561199031817908,This port is cancerous to itself for some ungodly reason. It deletes its own files as i play to the game will crash after a boss or whatever and then i have to go back and redownload the files. Good game otherwise,0.6033469438552856,7,True
+261110,14115768,76561198129298467,"This hack-n-slash game provides quite the slow start. First stage is strictly narrative, second stage is a tutorial, and third is just tiny and over before you know it. Once you're past that, the game really kicks into action! Except for those dream sequence stages, for the most part.
+
+It provides an excellent art style and some unique atmosphere. From old-school zen gardens, to a haunted castle, and snowy runaway trains. The graphical style is enhanced cel-shading, so it really provides aesthetics similar to the Suda51 classic known as killer7, which is still visually stunning to this day.
+
+The story seems a bit muddled, practically drowning in various themes as well as symbolism. It's intriguing to look into for those captivating. Themes of David & Goliath, Chess, and others.
+
+The gameplay itself may feel a bit clunky at first, but once you get use to the pace and controls, you flow very well against enemies. Not only slashing them to ribbons with your sword, you can also perform melee attacks, dodges, and different kinds of firearms accessed through the main character's cybernetic arm. It feels a bit like No More Heroes, but a slightly slower and smoother pace.
+
+Besides the main story and extra missions, you also have a Gigolo mode. It's a bit of a bore, but you need to complete them in order to access extra weapons for the main gameplay.
+
+The music is absolutely fantastic, brilliantly composed by Akira Yamaoka who is famous for the original Silent Hill soundtracks as well as Contra: Shattered Soldier and Lollipop Chainsaw.
+
+As far as Suda51 games go, this appears to be one of his higher titles. It's not quite as brilliant as the likes of killer7 or Flower Sun and Rain, but it provides a unique experience that's easy on the eyes and most certainly worth this bargain of a price. I highly recommend for those who are looking for a different kind of hack-n-slash game or one that has enjoyed Suda51's other notable work",0.5999011993408203,6,True
+261110,146682944,76561198267390855,Low budget DMC with alright gameplay but unfortunately game is locked at 30fps with ton of bugs and crashes occurring often. Only recommending it cause mika is a cutie.,0.5982025861740112,10,True
+261110,196440775,76561198214119957,"This game is definitely a contender for the best art style in a video game. Sadly, it doesn't work very well on PC, which is a theme that is annoyingly recurrent in a lot of games I've ended up liking. If you can get it to work and be stable, it's great to look at and fun to play, but I can not recommend it in good faith knowing it's a shitty port of a more-or-less confusing mess of a story with gameplay you can probably find elsewhere",0.5959317088127136,7,False
+261110,213478080,76561198008748632,"Game is practically next to unplayable. You need to do a laundry list of .ini file edits for the game to properly not crash, and even then you still are in a digital minefield of all sorts of audio, visual (especially lighting), and stability problems regardless. Despite doing nearly every fix available, I was just barely to eek out 3 missions (all of which had a very strange lighting problem), before hitting a wall of constant crashes.",0.5957908630371094,6,False
+261110,31002096,76561198031324041,"One of those games that leaves you staring at the screen wondering....What da fuq  is going on?
+
+Has insanely good combat I will give it that and a strangely addictive storyline that will keep you playing to see the end..I mean Who the hell is David????
+
+A very strange game that is haunting me, as now everytime someone receives a gift I feel compelled to say Magnifico.",0.6393025517463684,17,True
+261110,30585623,76561198097370416,"Just finished this game [Playtime : 7 hours]
+
+Killer is Dead: Nightmare Edition is a crazy hack-n-slash action game. But still feels similar to games like Devil May Cry 4 in terms of gameplay. But, yah that's pretty much where the similarities end 
+
+You play the role as Mondo Zappa and take assignments from an agency tasked with killing dangerous enemies around the world. Mondo primarily fights with a katana but also has a cybernetic left arm that can be utilized as a number of weapons (4 subweapons)
+
+[h1]Pros[/h1]
++ Simple, easy to master and fun gameplay.
++ It's fun to counterattack like dodge and then attack repeatedly LOL
++ Good story, but still a bit confusing and lacking detail.
++ All major characters are cool & memorable. Except Mika.
++ Nice executed humour.
++ Cel-Shaded Graphics.
++ Good soundtrack. 
++ Good boss fights.
++ Good submission.
++ ""Dating Sim"" LOL
+
+[h1]Mixed[/h1]
++- 30 FPS cap, well i don't mind though
++- Level Design is fairly linear but because the combat was good enough to keep me entertained, so it's still worth 
+
+[h1]Cons[/h1]
+- In dark or dimly lit scenes (most of the game) the black colours tend to be over saturated
+- The left arm skills don't match the savageness of the swordplay.
+- Too short story :( 
+
+best quote
+[quote=Noume] The Job... Killer is Dead [/quote]
+
+Well, if you like Devil May Cry series, Metal Gear Rising and etc. Maybe you like this game, Worth to buy!",0.6386358737945557,7,True
+261110,175482181,76561198411614958,"I played this in the Steam Deck, had to edit the engine.ini and then run it with proton experimental to stop it from crashing every 20 minutes. Technical issues issues aside, a absolutely loved this game. The combat was really cool and I like Suda51's work in general.",0.5879953503608704,5,True
+261110,190149942,76561199244318872,"Still CAN NOT PLAY PAST TUTORIAL always crashes crashes crashes - i wanted to play this game so much, SUDA51 is an artist in the purest sense. but i won't get that chance, apparently. fix your game, loads of people are dealing w this.",0.5873709321022034,5,False
+261110,213816373,76561198779668003,"Thumbs up for the game, thumbs down for the PC port.
+I adore the game's offbeat style and presentation. The level design is varied and the art style still looks good.
+The PC port is unfortunately pretty bad and crashes regularly unless you change settings in the ini files.
+As it is, I can only recommend the PC version if you're willing to tinker around with files outside of the game.
+Hopefully the developer either releases a patch or full remaster in the future.",0.5825830698013306,6,True
+261110,196676414,76561198069934694,"yeah this just keeps crashing on chapter 2 for me, tried to fix it and it kept crashing.
+
+i give up dawg.",0.5788130164146423,4,False
+261110,189119539,76561199599541384,"Such a bizzare and vulgar game by SUDA51, yet I enjoyed it. The only thing this game lacks is vertical gameplay, but that's just my opinion.",0.5780395865440369,5,True
+261110,68126718,76561198142368636,"Insane action game from SUDA51 who made... other bonkers stuff.
+
+At it's core the game is a hack 'n' slash action game, you press Square/X to attack. You can get some special moves to spice that up, but most of the fun for me is dodging, or blocking at the last second, which let's you counter the attack. Blocking will cause a kick move that briefly stuns the enemy and dodging let's you do an anime as hell 100 slash attack. It's really cool.
+You also have a guard break attack and your other hand is a gun, so you can shoot things. Bullets are the blood of your enemies (literally).
+
+You do a reasonably short set of missions for the main story. But there are also sidequests where you return to these maps and do some other task. Finally there are the ""gigolo missions"" where you stare at girls with xray glasses to see their underwear and... then you give them a gift? I'm not sure I couldn't be bothered to work them out.
+The main missions are really fun, adrenaline fuelled slaughterhouses. Sometimes you get a turret, or some small puzzles, it always ends in a bossfight, most of which are really really fun.
+Sidemissions range from really good to one's that seemed like wastes of time. I'd say it's more former than the latter.
+The gigolo missions I didn't do other than having a go at the first one, seems a bit silly and kinda creepy. Some will hate them, some will love them. I'm sure you know where your own tastes lies there. It's basically a minigame.
+
+The story was an absolute ride. It made little to no sense... it seemed like it had enough connecting threads where if I were to spend some time putting them together something would come out of it? But honestly I liked the whacky vibe and the small amount of sense it made. It was just a fun time made by a very creative mind.
+
+I'd recommend this to fans of action/hacknslash games with a love for surreal vibes.
+
+Note: the art style looks super most of the time, but sometimes makes it hard to see certain areas (mission 51 for example), it suits the vibe of the game nicely.",0.6268700957298279,8,True
+261110,212507564,76561199097338498,"Killer is Dead may not be as good as the Suda51's other titles, I still found it to be one of the most interesting games on the Xbox 360 library but holy shit, Nightmare Edition sure is a pretty crappy PC port if I've ever seen one. You have limited graphic options, lackluster controller support, and a 30fps cap, which is fucking ridiculous, knowing that any UE3 game that released on PC can run at double the frame rate and twice the resolution than the console platforms they were originally released on, NO EXCUSES. 
+
+Then again, this game happens to be pretty buggy when playing over 30fps and will crash when you try play a specific mission over 30 frames. Meaning, you would have to reverse the frame rate cap back to 30 in order to complete the mission then change the game's frame rate to your computer's refresh rate that you want back. What's worse in my end, is that the game stutters like mad, and in order to make gamepad input work properly, I had to use Steam Input just to get the game to recognize the controller properly and hopefully not get the inputs all fucked up, it was super frustrating. This could be a ME problem, knowing that I'm running on a PC gig that's pretty dated in terms of age, but I feel there's a certain expectation that should be met by any normal player is that whenever they buy a game that's being sold to them, they should be expect it to work and function as intended, I'm looking at you Arkham Knight PC... 
+
+The point being is that this PC port should've received more QA testing before it was ready to be released to saleable standards, not completely half-ass it like whatever the hell Deadly Premonition's PC port is trying to pull here. Well, all I can say is, it's nowhere near as bad as these atrocities and you could get it into a functional state, regardless, you should wait for another sale to get your hands on this, otherwise, you're better off with the 360 and PS3 versions instead.",0.5754082798957825,4,True
+261110,127383486,76561198397528856,"This game features: satisfying gameplay, beautiful graphics, immersive story, interesting characters, relaxing music, hot girls AND a cheap price. There's nothing else you could ask for in a game. Grab it while it's 90% off.
+
+10/10",0.5753391981124878,9,True
+261110,187958867,76561199236682992,"Game still crashes even after applying fixes. Really unfortunate, love this game.",0.5730190873146057,5,False
+261110,139063473,76561198106014786,"I usually don't leave my thoughts on a game until I've played through a plurality of its content, but would-be buyers of Killer is Dead deserve to know that the game currently crashes right in the middle of the 1st tutorial level (immediately after a cutscene that triggers after you kill 3 enemies). 
+
+The 14 minutes of playtime I have logged right now are more or less spent on troubleshooting, DO NOT BUY THE GAME AT ITS CURRENT CONDITION, even if it looks like a steal.
+
+Yes, you can fix it [url=https://www.pcgamingwiki.com/wiki/Killer_Is_Dead#Crash_after_boss_fights](see PCGamingWiki link here)[/url], but frankly -- it should be the publisher's responsibility to release a game that plays fine on most (if not all) PCs. 
+
+So for the time being, don't buy Killer is Dead. Save it for a better game, because I'm pretty sure that not a single bit of revenue will go to supporting Suda and his future endeavors. 
+
+[b]FYI[/b] -- the publisher's website has a broken support page too. I suppose that Deep Silver and co. are assuming that there are no problems if no support tickets can be filed",0.5729673504829407,14,False
+261110,191467026,76561198070616309,"I've tried multiple workarounds to make this game playable on my PC, but every time I fix an issue- another happens. Game crashes constantly. If your frame rate is not 30 the game will crash, so don't change that. I had another issue were the audio caused the game to run out of usable memory??? I had to delete audio files from the game. You may be able to troubleshoot everything, but I will not be able to proceed any further. This game should not be for sale in its current state.",0.5727575421333313,6,False
+261110,88223476,76561198113888772,"~ DIFFICULTY ~
+🔲 My 90 year old grandma could play it
+🔲 Easy
+✅ Normal
+🔲 Hard
+🔲 Dark Souls
+
+~ GRAPHICS ~
+
+🔲 MS Paint
+🔲 Bad
+🔲 Meh
+🔲 Graphics dont matter in this
+✅ Good
+🔲 Beautiful
+🔲 Masterpiece
+
+~ MUSIC ~
+
+🔲 Bad
+🔲 Not special
+✅ Good
+🔲 Beautiful
+
+~ STORY ~
+
+🔲 This game has no story
+✅ Like playing Temple Runners for the story
+🔲 It's there for the people who want it
+🔲 Well written
+🔲 Epic story
+🔲 Imagine Kingdom Hearts but on crack
+
+~ PRICE ~
+
+Underpriced
+🔲 Perfect Price
+✅ Could be cheaper
+🔲 Overpriced
+🔲 Complete waste of money
+
+~ REQUIREMENTS ~
+
+🔲 You can run it on a microwave/toaster
+🔲 School computer
+✅ Average
+🔲 High end
+🔲 NASA computer
+
+~ LENGTH ~
+🔲 Extremely Short (60 minutes or less)
+🔲 Very Short (1 - 3 hours)
+✅ Short (3 - 15 hours)
+🔲 Average (15-50 hours)
+🔲 Long (50-90 hours)
+🔲 Extremely long (90-110 hours)
+🔲 No ending
+
+~ FUN ~
+
+🔲 I'd rather watch paint dry
+🔲 Hard to enjoy
+🔲 Repetitive
+✅ Actually pretty amusing
+🔲 Ride of your life
+
+~ REPLAYABILITY~
+
+🔲 Wasn't worth completing
+🔲 It's a one-time experience
+🔲 Only for achievements
+✅ If you wait a few months/years
+🔲 Definitely
+🔲 Infinitely replayable
+
+~ WORTH BUYING ~
+
+🔲 Remove this from the steam store
+🔲 No
+✅ Wait for sale
+🔲 Yes
+🔲 You NEED to experience this game",0.6225312352180481,29,True
+261110,214317905,76561199137125273,"Good game, downloading the replacement .exe from pcgamingwiki.com helped immensely. No crashes after I replaced the old .exe. Only use the audio fix if that doesn't work, as the audio fix gave me loud, random screeching sounds.",0.5725083351135254,6,True
+261110,160347132,76561197964082949,"Really awesome game, the story and visual are so strange but it grew on me as I played. I definitely recommend this if you are a fan of DMC style combat. It ran great on my steamdeck but you do have to make some adjustments to get it working without crashing. Once I made these three changes below the game ran flawlessly from beginning to end.
+
+Compatibility: Proton Experimental
+https://www.pcgamingwiki.com/wiki/Killer_Is_Dead#Issues_fixed
+Use the 60FPS fix
+Use Method 3: KidEngine.ini Fix to prevent crashing
+
+",0.5708712935447693,4,True
+261110,95232749,76561198049320648,"Pretty fun, crazy, and stylish hack and slash with some interesting characters and a great soundtrack. Buy this if you are a fan of games like Metal Gear Rising or Devil May Cry. You can tweak the files to make the game run at 60fps and it works great with maybe a crash here or there. [u] MAKE SURE YOU HAVE A CPU THAT IS NOT MADE BY AMD OR THE GAME WILL RUN SUB 25 FPS [/u]. I tried everything to fix this and it would just refuse to work, even with the 60fps fix. Do not buy this game if you have an AMD cpu. Besides that glaring flaw this game is a pretty good time.",0.5697522759437561,3,True
+261110,11362703,76561198129630351,"It has been made unplayable by myself and many others due to major glitches, endless loading, crashes. Problems that have not been provided with adequate solutions and which have everything to do with the developers producing a defective product.",0.6189335584640503,33,False
+261110,106019830,76561198051179488,"good game, a bit rough around the edges but thats to be expected with ghm games. i liked the supporting cast around mondo a lot, but mondo himself was a pretty boring character personality wise. the game looks so fucking cool, i wish the music was anywhere near as good as the visuals, its not bad just forgettable. its not the best pc port in the world but its miles better than the no more heroes steam ports. if you've already played no more heroes and wish the pc ports were any good this might scratch your itch.",0.5682381987571716,4,True
+261110,10245574,76561198014567446,"Please, do yourself a favor and DONT buy this game. Wait until they fix all the major porting issues that people have or are experiencing. Especially the endless loading bug on Mission 3. I will remove this negative review (and make a positive review) ones they have fixed all the issues people and myself are having with the game. Really sad that publisher still treat PC players as ""second class citizens"", wonder why I am even surprised by this. Reminds me of the Dark Souls PTDE port (which was almost as bad as this port), well at least it worked compared to this crap. I still love your work Suda51.
+
+Reddit thread link with in-depth information on the progression breaking bugs (I strongly recommend to check the steam forums also): http://www.reddit.com/r/Games/comments/26gd6v/killer_is_dead_nightmare_edition_released_in/
+",0.6182183623313904,42,False
+261110,13620844,76561198028080311,"Killer is Dead is probably the most fun I've had playing a game this year. Suda51 goes for a more darker, noir-like tone, as opposed to his more brighter games such as No More Heroes and Lollipop Chainsaw. Despite the darker tone, it's still one of those games that doesn't take it's self too seriously, yet still offers an interesting story; albeit a slightly incoherent one. This is probably one of Suda51's most cryptic games in terms of story, it has an open ended ending which can allow for multiple interpretations and many questions are left unanswered by the end of the game. 
+
+
+The game mechanics for the most part are simple, attack, guard break/circle around the enemies when they block attacks, and counter/parry enemy attacks. Despite the simple mechanics I never felt the game got repetitive. Every mission had a distinct design with it's own unique boss. And to break the monotony there are sub-missions and Gigolo missions you can perform in between the main story.
+
+Pros:
+Unique setting dripping in Suda51's style.
+Lots of variety in missions.
+Nice amounts of side content.
+Simple yet still engaging fighting system.
+
+Cons:
+Issues with Dual Core CPUS.
+Somewhat incoherent story, maybe to lead towards a sequel.
+Occasional slowdown, didn't happen too often but at random times the FPS would dip.
+
+9/10",0.6174800395965576,9,True
+261110,224818071,76561199190603462,This game is broken! I can't even get pass the first level. Every time a cutscense happens the game always crashes and it won't run properly! Not worth the money if the shit keeps crashing! Fix the damn game!,0.566764235496521,5,False
+261110,231395222,76561199580021845,"it’s a lot of fun the story wasn’t great, but it wasn’t bad either. the combat was excellent and really enjoyable. ><",0.5652173757553101,3,True
+261110,72923500,76561198027625061,"[i] Don’t mind the almost 150 hours I have logged in this game. I’m just a dumb completionist who usually wants to finish most things in the game, specially achievements.[/i]
+
+[h1]That being said, I’m fairly confident that I’ve played this game enough to say for certain that I wouldn’t recommend it, with the exception of it being on a good sale. This game is simply not worth full price.[/h1]
+
+Before Killer is Dead I didn’t know much about Suda51’s work. I read about killer7 but never played it. I do own it on Steam though. It seems to be much better than KiD, just from what I saw on the store page. But anyway, KiD apparently has much of Suda’s pure style. And it is a lot of style indeed, but this game doesn’t care to go much beyond excessive style.
+
+I ain’t the biggest fan of hack n’ slash games. I had a great time with Devil May Cry but that’s about it. What made me interested in Killer is Dead was its style but it only takes it so far if other features are boring.
+My main problems with the game were the story, characters, the game confusing tone and different underdeveloped or lackluster aspects of the gameplay. 
+
+I’m going to start with the gameplay. It is fine, simply fine. It’s not too complex. You slash and sometimes you shoot. You build some “combos”, you dodge (and depending on the timing, you counter). Even something as simple as Arkham City’s combat is more complex than this (and more fun). It does get very repetitive considering the subpar enemy’s AI. You can use some boosts/powers for instant kills, but it suffers terribly from a lack of polish, your character will just aim for the worst thing possible. There’s not a lot of variety, so the combo system seems kinda pointless, I usually didn’t even bother looking at the combo meter or trying to get it too high. The scoring system of the missions isn’t too hard to understand and with just a few hours it’s easy to get the gist of how it works. 
+The bosses follow basically the same patterns as normal enemies, just dodge and counter, usually. Or cheese with the heavy cannon weapon. 
+
+This takes me to my first major complaint. The game has 5 different difficulty settings, I completed the game in all of them, and the only major differences are in how much damage the enemies do to you, how fast they attack and in how spongy they get. In the harder difficulties’ enemies take FOREVER to kill. The process is the same, it just gets more grindier and boring. You might consider it more challenging, but I think it is just more time consuming. 
+
+The game is divided into 12 chapters/missions (not counting the DLC one), with some sub-missions derived from these main ones. And, of course, the Gigolo missions (more on those later). The story of Killer is Dead is not awful. But I didn’t consider it good. It’s short, shallow (but full of allegories for historical myths/legends), and it seems to think it’s smarter than it really is. The characters are barely developed, apart from Mondo and Mika, and still, both of them have any depth or charisma. Mika is an extreme force cliché (the same goes for many characters, though) and is NOT funny. Although Mondo, the main villain and Bryan do have something that resembles a backstory, they are barely developed. The other characters are not even worth mentioning.  
+I don’t think any of this would be a problem, considering I’ve enjoyed a lot of games in the past with barely any story or character development, but the game’s TONE dictates that these things are important and the plenty of cutscenes are a constant reminder of how story-driven the game is or was supposed to be. The name of the game is uttered every 20 minutes and although it makes sense when it happens the first time, the other 300 hundred seem just there for show, for style, not substance, which is something that plagues the game. The game seems lost in its own presumptions, the tone is unfocused and unbalanced, the gameplay isn’t compelling, so it failed to capture my true enjoyment in every way. The Gigolo missions, for example, seem to be a way to balance the darkness of the story missions with some solace and lightheartedness, but it ends up just being creepy, undeveloped (Mondo barely has lines, the girls have like 3 or 4 and it gets stale FAST), out of place, and the worst, repetitive and just *not* fun (although you can get some enjoyment of seeing some hot digital girls in underwear, but it’s not my vibe)
+
+In conclusion, I don’t consider Killer is Dead a BAD game. You can have fun with it, and for 75% of the price on a sale, it’s totally worth it. The graphics are beautiful in their own style, although the world is kinda hidden and the setting in all missions is never too captivating (most are just bland as hell), and the character design is nice. Voice acting in English is good as well, except for Mika which is just annoying as hell but that goes for her character as a whole. Performance is also good, although you must do some tweaks to run it in 60 fps and this will probably make it crash in one of the Gigolo missions. 
+
+I’d give it a 5/10.
+
+[spoiler] P.S: Scarlett challenges suck huge balls. [/spoiler]",0.6148573160171509,13,False
+261110,227600969,76561199006908648,"As it stands it's a pretty rough port. Capped at 30fps, bugs and fairly frequent crashing(had to immediately skip a cutscene since it always crashed before ending). If you want to play a Grasshopper Manufacture title and an actual Suda51 game, play Killer7. 
+
+The visuals and cel-shading style are pretty nice though.",0.5647490620613098,5,False
+261110,25518737,76561198015033062,"if you like: 
+- No More Heroes
+- Metal Gear Rising
+- Anarchy Reigns
+- We Love Katamari
+
+You should like this game
+
+only Con was the camera, but it really isnt an issue, you get over it
+
+the overall Presentation from the gameplay to the damn loading screens is ******* great
+
+
+",0.6147259473800659,9,True
+261110,39304552,76561198006077632,"[h1]""KILLER IS DEAD""[/h1]
+[i]- Killer is Dead's second chapter (Killer is Dead), after the killer is dead[/i]
+
+Killer Is Dead is a recent dose of liquid ecstasy from the minds at Grasshopper Manufacture, previously responsible for No More Heroes, Killer 7, and some other games everybody forgot about in two weeks. While all their major previous games involved assassins and assassinations, Killer is Dead breaks the mold by doing exactly the same thing.
+
+Chances are you're here before of the promise of flashy combat and visuals. The visuals do stay flashy, due to some shader magic being enough to convince even the most seasoned stained glass collector that the levels weren't just made in AutoCAD over the weekend. It works, along with the character models, to deliver a weirdly layered story.
+
+Story is that the main character doesn't care about the story. Very deliberately, which leads to it all happening in the background and leaving it to the player to piece it together while ol' Mondo concentrates on getting into socialites' pants with the power of money and a basic combat system.
+
+[h1]""Trains are a man's passion.""[/h1]
+[i]-Very serious men discussing very serious trains.[/i]
+
+Fighting people is barebones, which has you mostly fighting enemies that are barely bones. It goes through a weird evolution cycle, where it starts off boring, gets alright, then ends boring as you're gunning for AAA ranks and it boils down into a fairly unexciting game of pokes, meter management and instakills.
+
+[i]Pro Tip: That includes the Gold Giants. Quad-charged cannon then instakill, now you know.[/i]
+
+Since there's no real combos, rankings take into account completion time and damage received first and foremost. That's fine. Enemies just love hitting you through counters, though, with Burst Rushs and Punch Counters normally ending with you getting clipped if there's any active enemies. So they're unsafe and cost you ranks. So you don't use them unless other enemies are safely on the other side of the arena. It's not the best combat system.
+
+As a wise man once said, ""you can have all the solid crowd control and combo options in the world, but if all your counter options are unsafe on hit you'll just suffer for it."" I forget who. 
+
+[h1]""It's time to donate your blood, Mondo. Hand it over.""[/h1]
+[i]- Line that repeats every time you want to attempt a challenge, gets old in record time.[/i]
+
+AAAing most missions is just a bit of a chore. A score-based game with constant pacing breaks, forced walking sections, multiple loading screens before the level even starts, unskippable sections of cutscenes to disguise them loading the loading screen right afterwards. And then there's missions where you can just sleep through them and get the AAA anyway, because playtesting is for less cool, unpunk studios.
+
+Despite being the Grasshopper game with easily the most allowances to let you become good at the game, with ranks and re-doable missions, this is not a game that really wants you to get good at it. If you just want a single, casual playthrough though - it's worth that much.
+
+[i]Pro Tip: I 100%'d the game - it doesn't take this long to 100% it, I just lost my save data back in 2015 after the first 25 hours.[/i]",0.6137474775314331,13,True
+261110,27889040,76561198082332548,"Killer is Dead has been one of my favorite Hack and Slash games aside from DMC and MGR: Revengeance, the style and gameplay are just mindblowing, it uses dynamics that make the game unique and has a lot of features to offer.
+Overall the game its great, it has amazing action, good levels, a bizzare but enjoyable story and hot babes, everything you could ask for.",0.6121221780776978,10,True
+261110,91285300,76561198118772999,"Literally the best hack'n'slash  game i have never played, this if something is called art.
+So much interesting, cringe, funny and hot stuff in one package. There is no other like this! 
+
+Story is entertaining and addicting, soundtracks are awesome, characters are 10/10 and leveling system is fun ~ Especially the way you upgrade your weapons 
+
+~ One of a kind ~
+
+And i really do not recommend this game to homobhopic women gamers who cannot stand staring at  bodyparts of other women since that's exactly the way you upgrade your weapons. Flirting with women and winning their hearts gives you these upgrades. 
+
+Main character happens to be a gigolo ~ Duh ~
+
+ps. game is 30 fps locked and needs to be manually repaired to 60.",0.5615198016166687,6,True
+261110,189033866,76561198311635368,"had this in my back log for few years and finally had the time to sit down and play it and all i gotta say is the camera sucks but everything is so cool the story kinda hard to understand in the first half but i started to understand by the 4th mission. combo is pretty good and flashy need less to say cop when on sale and also,  very short game beat it in one sitting final boss was alright",0.5608108043670654,3,True
+261110,10229387,76561197999968656,"EDIT 2: (December 4th 2015) They never fixed the bugs. I can confirm the game works on a 6600K at this point. Long story short, don't buy the game if you have anything less than a 4th gen quad core.
+
+* As of May 27th 2014 Deep Silver is aware of the bug(s) and is working towards a fix.
+
+I'm a huge fan of Grasshopper Manufacture and the game looks promising. However, fatal BUGS exist which will COMPLETELY halt your progress as early as the first non-tutorial mission, specifically mission 3. Verifying cache and reinstalling do not make a difference, user hardware is not at fault. This is an issue for many users which demands attention from the developers. It's entirely possible you won't encounter the problem, but you're taking a risk in purchasing this until a patch has been released to address the issue. Of course I will erase this negative review as soon as that happens, and I sincerely hope they are working on it because this is a $20 digital brick at the moment.
+
+I really want to play so please Deep Silver / Grasshopper, get your shit together.",0.6099756360054016,136,False
+261110,39788383,76561198059922570,"Killer is Dead is a 2013 Hack'n Slash game made by Grasshopper Manufacture and Suda 51, it was first released on consoles and later on PC in Nightmare Edition with addition of All the DLC and Nightmare difficulty. Pity, that it was capped at 30 frames but I do not recommend changing it in KID engine.ini, crashing guaranteed.
+
+Completely psychodelic world making no sense at all, Mondo Zappa is the executioner in Bryan's Agency taking care of people who bacame ""wires"" thanks to moon corruption. Story is divided to 15 chapters and one from DLC set mid-game, and they partially resemble anime episodes and James Bond movies. Beside of AAA ranking story missions you can handle challenges or go to the controversial gigolo missions (Literally the worst part of this game, if you want platinum you have to grind them which is awkward at least). Every story mission also introduce Scarlet, a nurse who refills our blood gauge and unlocks ger own challenges. Sexism (bleh...). Anyway, suprosingly we have a feeling that all of these things things are logical.
+After every mission you receive a paycheck useful to buy upgrades, alternate outfitsband gifts for ladies.
+Mondo does not use any special combos but, his main weapon is katana which simply cuts enemies or block them, secondary one is a robotic arm which shoots using blood acwuired from dead enemies or received from Scarlet. Blood also allows you to perform rush attack on enemies killing them in one hit except bosses.
+Enemies despite they simplicity has really different eeak spots, some of them cannot be finished without weakening, some are only vulnerable from distance, some reminds Venom from Spider-Man comics, they are not really smart but good enough to not make you laugh. The decent part are bosses, different, tricky and intelligent ones who will not give you any time to rest, and the finishing animation quoting KILLER IS DEAD everytime is so satysfying.
+Some tracks here will give you eternal eargasm, just listen to ""Symphonic Razor"", ""Sounds of sun"" or ""Choosen by the Moon"".
+Some bugs can be found, I have met people who could not beat mission 3 because doors have not opened, in motorcycle mission hitboxes suck completely and once the last enemy to clear the are have not spawned, that is all I have heard.
+
+That is what Killer is Dead represents, a great title that deserves more love than it got, 7,9/10.
+
+PS:Fourth wall breaks here are just impossible to supress laughing, I mean in positive sense.
+
+",0.606647789478302,13,True
+261110,180951003,76561198047639540,"Genuinely the most broken PC port I've ever played, and I played Kane & Lynch 2. Second stage has a reliable crash at a specific point in an early cutscene that I had to look up a solution to on Reddit that involved directly editing the game's run files. I somehow managed to accomplish this, but in the following stage, entering a room started playing an ear-piercing sound effect that was blasted directly into my headphones at max volume and proceeded to never go away. A quick google reveals that people are receiving a consistent crash in the 3rd stage on any cpu that uses a multi-core processor.
+
+tl;dr- I'm legitimately shocked this can be legally sold, the game seems neat but the port itself feels practically non-functional if these crashes are this consistent.",0.556205689907074,5,False
+261110,10257989,76561198009459416,"I want to get my personal dissapointment with Killer is Dead out of the way: I wanted this game to be great - as it stands, however, it's just good. It has rock solid gameplay mechanics and stunning visuals, but its story and length make it feel underdeveloped.
+
+As aformentioned, the actual slashing itself is pretty much flawless. The combat has weight to it, and every blow feels powerful and precise. For a character action game, there arn't many button combinations to remember: sword attacks are delegated to one button, and pertain to how long the button is held. Any combos that are present are optional and are used for very specific situations. Besides a sword, the protagonist has an arm cannon which can be used to shoot enemies from afar, and can be upgraded to perform other useful functions as well - the integration feels natural and adds another dimension to the combat. 
+
+The visuals are Suda51's trademark cel-shaded style, perfected with a more technical look. Color palettes are very simple throughout each level. Shadows are sharp, drowning the backdrop in a thick, dim glaze; Light sources are harsh and distorting, burning through the mostly-dark environments. A thick layer of bloom compliments the conflicting light and dark, creating an almost dreamlike appearence. Easily some of the most striking visuals ever seen in a video game.
+
+My main gripes with the game are it's story and overall length; however, I belive it is best to go blind for this kind of game, so I won't mention specific scenes. I'm not usually one to complain about game length, but Killer is Dead's story is much too ambitious for the paltry 7 hour length of the main campaign, although I'm not sure if more time would have helped it. Although I enjoy the ""as it happens"" storytelling technique that this game utilizes, the story itself becomes convoluted past the point of enjoyable and is full of dead ends. Themes pop up and are quickly discarded, while plot twists are introduced without much buildup and consequentially lose their impact. A story can use vagueness to bolster itself, but when so little is explained of even the most important concepts there's very little incentive to look deeper... if there is even supposed to be depth. 
+
+I found myself wanting more out of the actual game as well. The touted ""Gigolo"" dating minigame is fun and a nice break from combat, but why are there only four different dates to play? More side missions wouldn't have hurt either, although there are already a steady amount of activities to get perfect grades on. It feels as though something is missing from KiD to give it an extra hook.
+
+Don't be fooled by most ""professional"" reviews out there; this game is definitely worth your time. I'd even reccomend it to those who are not accomodated to character action games because of the simple control scheme. What's there is fun and kooky; what isn't feels like a giant hole where it should be. There's a reason why it's only 20 dollars.
+
+I'll see you on the dark side of the moon...",0.6057931780815125,10,True
+261110,186797897,76561197974782524,"Buyer beware on this recommendation. By default this game runs at 1080p, 30 fps max. It is possible to exceed these limits by making some simple changes to text files in the game directory, but doing so comes with caveats. See the PC Gaming Wiki page for this game for details. I was able to play through it well enough at 1440p, 90fps and didn't encounter anything game breaking. It looked and played amazingly at these settings.
+
+Technical issues aside, I really enjoyed this game. Killer 7 is one of my favorite games of all time, but I did not like No More Heroes. This game feels like a compromise between the two, offering a lot of that Killer 7 style and flare with tighter action gameplay and a more concise design than No More Heroes. I cannot state enough how much I love the unique weirdness of Grasshopper's artwork and this game has a ton of it.
+
+I played on Hard which was just about perfect. Not too easy and not too frustrating. The game's length and progression are limited with a small list of upgradable character attributes, but overall this is probably a positive thing because it keeps the game from overstaying its welcome.",0.5545864701271057,3,True
+261110,216563623,76561198095473846,"Everything you could ask for from a Suda51 game. The crude humor, the campy dialogue, the off the wall action, and the unmistakable style. Killer is Dead is especially notable for its visual style. It's beautiful. It's incredibly inspired. The story is an absolute roller coaster, as most Suda51 games. It's short, the combat feels good. You can probably pick this up for less than $5. Give it a shot.",0.5512982606887817,5,True
+261110,29342744,76561198045891959,"Probably the most amazing mind fuck game I ever played.
+This game starts good, and ends good.
+There's no words to describe how well it feels to play this game, and how good it feels to try and complete on other dificulties.
+If you're looking for something like DMC or MGR, this game is definitly for you BUT beware that this is simple version of those games, I find it easier and difficult at the same time.
+Even tho, a lot of reviews are negative because it's a bad port, bla bla bla (It's not a good port thats for sure, but it isn't like the worst port ever), the game runned pretty smooth here even tho its 30 fps locked, which some people get real salty about it but I didn't care that much.
+With this, I say this game is worth every single cent I spent... (3.75€ during winter sale)
+
+The job...
+[b]KILLER IS DEAD[/b]",0.5995261669158936,8,True
+261110,162670749,76561198203299588,"I'm pretty upset this doesn't work, Can't get past the first level without it crashing at the second cutscene, and i see people say ""Ohh well you can just skip it, that's how i got around it"" Ok well... No i'm not doing that, These games are amazing and have wacky ass cutscenes and gameplay, this isn't something like Call of Duty where i WISH i could skip cutscenes all the time or in game bullshit. That's not a fix, it's a problem, and I wish it got fixed. Not even the PCGamingWiki could help me fix this game. It's unfortunate because I love the team that made these games, Hell I just started Killer7 on Gamecube and it's very strange but pretty interesting. Wish these ports would just fucking work though... guess it's time to emulate this one on console.",0.549113929271698,5,False
+261110,161684039,76561199119089672,"play the PS3 verison. The PC version literally worse in every way imaginable, worst part is, it doesn't even run at 60FPS. If you were to change the frame rate, one of the most important mechanics (reviving) doesn't even work since inputs are tied to the frame rate.",0.5456823706626892,7,False
+261110,178570380,76561198986333887,"Gorgeous game. Crazy story with great humor and even depth, if you can see through all the stereotype virtuosity. Brilliant bosses. Superb production design. Tight, challenging, rewarding and fair gameplay with enough distractions from the perfectly executed hack and slash to never get boring. Unbelievably fantastic art style. Every still could be blown up as a wall sized piece of art. I love it.",0.5456292629241943,3,True
+261110,226161243,76561198123286748,"can't even play it, how did you release it like this? i can't watch some cutscenes, like a lot, i get fatal crashes at it, some can't even skip, literally can't play the game. My hype for the promotion was for nothing, pff",0.5455628037452698,4,False
+261110,119569747,76561198058900418,"TL;DR: Rather simple but still decent and satisfying enough in most aspects. Recommended for sale if you like hack&slash or Suda51.
+
+As a No More Heroes fan, I was quite pleased with the game. Not the most iconic one from Suda51 but fairly decent on its own, specially if you catch it for sale.
+
+Combat might be a bit simple but it's enjoyable, I just wished the weapons of the robotic arm had a better variety for fighting, because you just tend to use 2 of them. The skill tree is pretty straight forward, a few new moves and abilities and maxing out the eficiency of them.
+
+Story doesn't matter much, it has the expected bizarre touch. Characters are alright (Mondo has some really cool moments and quotes). As for the content, it has a decent length and replayability. Side missions, minigames and challenges are a good addition to it, compensating a bit for the irregular length of the main missions. Some of them are too short, or they lack a boss fight, or there's just too much walking xD. Bosses and variety of enemies have my thumbs up too. Getting 100% is quite affordable compared to other games of the genre I've played.
+
+Encountered a couple bugs, trying to activate japanese voices sorta screwed it up lmao. Prolly not the best in performance either.
+
+Scarlett best girl.
+",0.5454545617103577,2,True
+261110,141919112,76561199078190815,"Killer Is Dead is 99% great game, minus that one QTE boss battle with David, which seems to be buggy or I don't know what, but whenever I literally strained my right hand in that David QTE in Episode 4 and Episode 12, and it really felt it almost broke my arm. And the weird part is, there is a similar QTE action scene in Episode 7, but everything works fine and dandy there, so i have no idea what is up with david in general. Which is kind of ironic when you think about it, since the protagonist himself has a mechanical arm.
+
+With that aside, this game is awesome. Bloody awesome. The combat ain't as deep as something like Devil May Cry or even No More Heroes, but it is awesome. When you dodge and initate a multi slash slow motion sword qte, its awesome. When you use a finisher, its awesome. When you do a guard break, it feels awesome. When you do a counter, it feel awesome. When you juggle enemies in air with unlocked move and slash away on them as your combo meter increases, it feel BLOODY awesome. 
+
+The story is told in 12 episodes plus one special DLC episode (which you can consider an OVA of entire thing considering how like the Elfen Lied OVA, it is basically a missing chapter from inbetween), and the entire thing is like an Anime from the early 2000s or something: philosphical themes mixed with dark edgy character designs with out of place meta humor that in itself is mixed with weird surreal imagery give this entire thing a Blood+ meets Serial Experiment Lane meets Hellsing meets Cowboy Bebop (I mean, one black guy, one snarky man, one little kid, and one femme fatal woman of a crew with the [spoiler] main villain being someone from the hero's past, this is basically Suda's version of cowboy bebop [/spoiler] ) from meets Ghost In The Shell meets Paranoia Agent meets whatever cocaine is stashed away in Suda51's garage feel. This is weird, absurd, and oh so lovely that I cannot help but love it.
+
+Also, sexy women with jiggle physics. Cannot forget sexy women with jiggle physics.",0.54356849193573,2,True
+261110,20494823,76561198028581774,"Grasshopper Manufacture is one of the more interesting developers on the market. Spearheaded by a japanese auteur Goichi Suda51 their games could be characterized by a very strong and unique style that more than made up for, at times, lackluster gameplay and outdated technology. 
+
+Grasshopper's latest intallment - Killer is Dead is a Hack'n'Slash game in the vain of their previous work such as No More Heroes and Lollipop Chainsaw. If you are a PC gamer, you probably haven't played those titles, so allow me to elaborate. Imagine a combat system that sits somewhere in-between Platinum's games/DMC and the Batman games. That is, parrying at the right moment is key and even though you are ubable to jump and your juggling abilities are limited, there is a heavy emphasis on combos.
+
+In Layman's terms - it's a button masher. 
+
+Overall, the combat is functional, yet shallow compared to other games of its genre. Considering that you will be in combat for 80% of the game, that isn't a good sign.
+
+Let's discuss the story, shall we. 
+
+The story centers around the tittular government assassin Mondo Zappa. He seems to be a Moon Cyborg Vampire Nymphomaniac brought to Earth on a magical unicorn. Quite unfortunate that even with all of those characteristics, the man has the personality of plain bread. 
+
+It seems that the game is attempting to stylize itself as an anime/manga series, where every chapter starts out as an episode of a television show. First, showing a crime being commited, then showing the victim sending a commission to the execution office, then a brief dialog between the main cast, followed by the level itself. After completing the level itself, you are given a short epilogue. Though after a few hours of playing they do begin to grind on one's nerves, the strong cast of characters carried me though.
+
+A burly cyborg in an ugly hawaii shirt, a blonde sidekick with 8 arms and a high pitched anime girl who violently punches you in the chest if you fall in battle in an attempt to revive you. As typical as they are, they begin to grow on you after a while. 
+
+Just like any episode of a long running anime, every story centered episode is followed by a few filler ones. Some of the more interesting filler segments have to be the ""Gigolo missions"" in which the player has to seduce one of Mondo's many girlfriends in order to get a bonus item. As much as I dislike to bring up identity politics in a game review, that segment really rubbed me the wrong way. I don't mind looking at a woman's breasts to get enough points to aqquire a new weapon, yet the whole think felt like cheap tittlation, which could've been handled way more tastefully.
+
+Out of place fanservice, one more thing the game has with mainstream japanese animation.
+
+Now is a good time to talk about performance. No use in beating around the bush - the port if arse. It took me a while to fix the infinite loading screens and even then I would get frame dips from time to time. It's odd, since the game performs adequadely in crowded areas, but freezes in empty rooms.
+
+Speaking of irrational decisions, the style is a bit of a pain. Basically, the game takes certain values and replaces them with a thick gradient, which gives an ink shaded feel. Think of Sin City for reference, if you are unfamiliar with eastern comics. Which is fine and dandy in earlier missions and during cutscenes. However, your view gets frequently abstructed by flashy visual effects and even other enemies, which can be a pretty big problem on higher difficulties.
+
+After a while the game gets grindy with tedious minigames, such as turret sections and territory control. Thankfully, those are skippable.
+
+Remember when I said that Mondo has the personality of a wet napkin? Well that is one of the reasons why this game begins to fall appart after a while. Grasshopper games ride the post-punk aestetic and since the lead lacks any emotion and is unable to react to what's going on around him, the colourful shell crumbles. Playing the game further feels like staying in the circus after the roof cought fire. Yes, there are colourful clowns running for their lives is fun to look that, though it is becoming progressively difficult to observe past the thick layer of smoke.
+
+In the end, you feel a tad burned out. Like a standup comedian who told all of his best material in his first 20 minutes and is trying to fill time before he can leave.
+
+All in all, enjoyable romp while it lasts. A good sale pickup. Go in with low expectations and leave with lower ones.",0.5928158164024353,4,True
+261110,64058974,76561198945140601,"Have you ever had one of those days where it seemed like nothing is going your way, no matter how great your ideas and intentions were? Killer Is Dead is one of those days in game form. It presents a handful of interesting concepts that are completely smothered under the weight of flabbergasting design decisions, poor performance, and a discomforting depiction of sexuality. This action game from Grasshopper Manufacture, the team behind Killer7, dabbles in familiar themes – an ultraviolent and fragmented story set amidst a stylish, anime-inspired near future. Sadly, Killer is Dead stumbles around like the guy at the bar who’s had one too many – instead of being smooth and sexy, it’s simplistic and offensively juvenile at nearly every single turn.
+
+The sword-based combat which occupies a bulk of your time in this world is passable, if a bit too shallow. The technique that’ll get you through each battle is simply watching for enemy tells, dodging just as they strike, and then jamming on the attack button – one of the oldest boss mechanics in gaming. This basic three-step dance is repeated throughout each encounter. Yet it manages to remain relatively entertaining thanks to animations that are crisp and stylish, enemy variety gets tossed up every other mission, and impressive executions that result in a jackpot of collectibles that help upgrade your health, special attacks, and auxiliary stats such as dodge speed and attack speed. It’s easy to look cool while playing Killer is Dead. You do that over 12 separate assassination contracts which range from quick, five-minute skirmishes to longer exploratory segments that can take about half an hour. There’s no real cohesion throughout these missions – you’ll be saved by magical unicorns, forced to battle demonic Russian trains, and wander through an Alice in Wonderland-inspired mansion that borders on copyright infringement. The tone varies dramatically throughout the story, oscillating between wet-blanket pathos and humor that falls flat. Going from a moment where you’re forced to kill someone close to you to a scene featuring your hyper-sexualized secretary with the voice, behaviors, and mannerisms to a child is jarring to say the least.
+
+In a similar way, writing and voice work also jump back and forth between passable and downright silly. For some reason, characters drop the titular phrase ""killer is dead"" dozens of times throughout the story. It makes sense when your hero has just executed a particularly treacherous target. But yelling out those words randomly when you reach the base of a skyscraper is such a non sequitur that it’s just plain strange.
+
+Killer is Dead’s schizophrenic framework is reinforced by the bipolar quality of the visuals. While we’re often treated to scenes framed in a stylish, cinematic manner, this panache is utterly thwarted by rampant screen tearing across the entire six-hour adventure. Meanwhile, the gorgeous nature of certain still shots is lost when the characters are strangely animated, and the battle camera zooms in to a point where the health meters of larger enemies is completely out of frame. And then there are the rampant load screens, which butt in at some of the most inopportune moments. Nothing is sacred – they interrupt boss battles, conversations, and a even when navigating each and every menu. That’s disappointing for a game in 2013. Or 2006, for that matter.
+
+I’m sure that the designers intended the brief romantic rendezvous minigames, known as Gigolo Missions, to serve as a palette cleanser between action scenes, but they ended up leaving a bad taste in my mouth. On paper, these interludes had potential – developer Suda51 compared them to the scenes in James Bond movies where the spy saddles up to his bar and uses his charisma to seduce someone. In theory, if these had played out with the interactivity of a BioWare RPG, or the grounded realism of a game like Catherine, I could see how these could’ve been some really interesting moments. Instead, Killer is Dead goes for the lowest, most rotten hanging fruit. Where James Bond is a suave lady killer, Killer is Dead’s idea of sexuality – which boils down to trying not to get caught ogling – makes me feel like I’m playing in the libido of a 13-year-old boy who just discovered internet pornography.
+
+If you ogle her enough, make eye contact while she talks to you, and give her an expensive gift, you'll immediately go home and sleep with her. Yep, I felt as weird writing that as I did playing it. You may have felt uncomfortable just reading about it. While these gross, juvenile scenes are technically optional, you have to play them (and play them well) in order to unlock new secondary weapons, some of which are essential in the exploration of certain levels. Having to choose between being a digital creeper and making a game’s combat more interesting isn’t a decision I want to make.
+Verdict
+
+When compared to combat in games like DmC and Metal Gear Rising, Killer is Dead comes out feeling uninspired and underwhelming. The past few years have supplied us with more competent action games, more fully realized and stylish worlds, and much more interesting forays into marrying video games with mature sexual themes. Killer is Dead contains a handful of good ideas that are sadly marred by a wealth of technical flaws, tonal inconsistencies, and an offensively juvenile attitude toward sexuality.
+
+THE GOOD: 
+
+*Striking visuals
+
+THE BAD:  
+
+*Hugely confusing story
+                 
+*Unrefined combat
+                
+*Uncomfortably seedy in places
+                
+*Some screen-tearing issues
+
+SCORE: 4/10 [Bad]",0.5908710360527039,18,False
+261110,185065043,76561198841759790,A nice artistic and fun hack' n-slash game. But suffers from terrible port syndrome.,0.5401850938796997,3,False
+261110,234486194,76561198451210787,I like the game but the story is really confusing sometimes but the gameplay is nice for a ps3 game and the mc has a cool and nonchalant vibe which I love. 9/10,0.5394737124443054,2,True
+261110,11369438,76561198036778797,"I was denied a refund for a common glitch in chapter 3 of this game which the publisher and developer refuse to fix.
+They are aware of this problem though which makes me think they are amateurs or money hungry. Although this may never get fixed, I can assure you that I will never buy another game from these clowns again. At least make contact with us gamers to let us know you care:
+KADOKAWA GAMES / GRASSHOPPER MANUFACTURE + DEEP SILVER. Just another slap in the face, thanks.
+
+FINALLY GOT A NEW DESKTOP. The fact that it works after I required a new desktop, my rating shall stay as is. No patch or fix to the glitch was ever updated.",0.5889312028884888,108,False
+261110,118274256,76561198145486074,"My first Suda game and I must say it's pretty good, I love the art style and level design. The only thing I didn't like was that the optimization is poorly done. In general a good game.",0.537927508354187,4,True
+261110,178332237,76561198013158439,"One the best games in the world, love it to it's core. A must play if you love fast past action games when timing is everything. This game is not for babies who cry when they see boobs, so if you don't like that, don't play it.",0.5371283292770386,6,True
+261110,44493181,76561198018634267,"The art of Grasshopper's mad, devious take on James Bond sits halfway between previous games Killer 7 and No More Heroes.",0.5856471061706543,11,True
+261110,163067925,76561198802490740,"The PC port is abysmal don't get me wrong, but taking into account the other aspects of this game it's one of my favorites from grasshopper. The PC port is bad but didn't ruin my experience, especially since I got it for $2 during the sale.",0.5347217321395874,2,True
+261110,219574829,76561199424493749,couldnt even finish the game because it literally kept bugging after i beat the david boss fight lol i genuinely thought i was tweaking. good thing i got this on sale :sob: suda i love you but please patch this game i love the visuals but you left me #AnnoyedAF,0.5344900488853455,2,False
+261110,134687824,76561199061779679,"Get it while on sale, and you'll have a great time. It's like every other Grasshopper/Suda 51 game: tons of weird stuff, lots of fun gameplay, a bunch of cool characters, and silly as hell moments. Just optimize for the best fps and the game is like a ""hidden gem"". I've been waiting for more games from GH/S51 to come out so i could get them, and this is one of them.
+If you've never played one, pick this one up. It's easy to get into, you get into a flow, and it's pretty relaxing to just go ham and chop off heads left and right (just work off the stress from the day).
+TL;DR: Get it on sale, it's worth it, just set the fps to a constant (performance), and buckle yourself in because it's a weird as hell ride.",0.5337716937065125,2,True
+261110,172206532,76561198058737972," Strange one this, first of all, the game plays better at 30 than 60, and there are a few outlandish bugs associated with 60 fps too, so unless you want to fanny around with it and also battle demons I'd stick to the native frame rate of 30.
+
+ Secondly, the game seems best balanced for Hard Mode. I was enjoying my Very Hard run until mission 4 where I got slapped sideways, and retreated to normal, then went back and played it after AAAing the normal difficulty. Mission 9 was basically a giant mess of grievances. Spammy enemies, infinite respawning and constantly defensive whilst dodging all headshots so I could only attack after they'd attacked and I'd successfully dodge bursted them. Unlike the rest of the game, it just felt needlessly cheap.
+
+ Third of the cons, is that the dating minigame cutscenes are entirely unskippable, they're tongue in cheek cringe the first time, but forcing me to view them over and over for completions sake sucked ass. Absolutely no idea why this is a thing.
+
+ Finally the pros, tight combat, minus the camera that sometimes jams itself into walls. It's basic but with enough depth and strategy to keep it interesting, especially when mixed with the novel set of boss enemies on offer.
+
+ Unique art style and decent plot are a typical suda51 finishing touch combined with a very strange atmosphere that works for the game. Finally the sound design is fun and engaging with a solid soundtrack that shines brightly in a few places.
+
+ All in all a good, but sadly not brilliant hack and slash ala quirky Devil May Cry.",0.5336658358573914,3,True

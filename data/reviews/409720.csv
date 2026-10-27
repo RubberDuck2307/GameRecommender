@@ -1,0 +1,703 @@
+appid,recommendationid,author_id,review,weighted_vote_score,votes_up,voted_up
+409720,64738238,76561198079940340,"Excellent game that improves and expands on what made Bioshock 1 great. 
+
+A common crash is caused by the game not having enough VRAM allocated to it. This can be easily resolved by going to
+
+...\AppData\Roaming\BioshockHD\Bioshock2 
+
+and increasing the value of TextureStreamingMemoryLimit in Bioshock2SP.ini. I set it to 2048 and haven't crashed since. 
+
+Also make sure never to save on exit; always do so manually to avoid corrupting saves.",0.9341104626655579,185,True
+409720,90863539,76561198415837894,"[h1] The crashing can be fixed! [/h1]
+Great game, great story. This remaster is known for crashing constantly due to lack of VRAM, which I was able to fix by doing this:
+Go to C:\Users\[i]user here[/i]\AppData\Roaming\BioshockHD\Bioshock2. (This folder will only show up after the game has been launched at least once.)
+Open the file Bioshock2SP.ini with a text editor, search for ""TextureStreamingMemoryLimit"" and change the value from 256 to something like 2048 (or higher, depending on how much VRAM your graphics card has, but 2048 worked fine for me). This is the number of MB allotted for the game on your graphics card.
+
+Hopefully 2K will make this an automatic fix in the future!",0.9306049942970276,179,True
+409720,138327417,76561198070758018,"1. In your library right click on Bioshock 2 Remastered
+2. Go to properties
+3. General Tab
+4. Launch Options
+5. Paste the following: ""Bioshock2HD"" -run %command%
+
+These simple steps will not only remove an annoying 2nd launcher. It ALSO fixes most if not close to all problems in the game. I didn't crash, or run into any bugs ONCE playing it after having done the steps above.
+
+Also while you're at it, in your control panel set the games max frames to your monitors refresh rate or lower. This game tries to output crazy high fps which puts unnecessary strain/heat on your PC. 
+
+
+Beyond all that, it's a lovely game, brings back a lot of childhood memories. Very refreshing as I didn't remember most of the game this many years later so it was like playing it as if it were new all over again.",0.9127231240272522,128,True
+409720,32511034,76561197993464013,"They finally got it working!
+
+With the December updates they finally worked out the kinks with DX11 related crashes. I read somewhere that audio reverb causes crashes so with that feature disabled I ran through the entire game as well as Minerva's Den without a single crash or problem.
+
+The mouse lag is present but people aren't realizing that this isn't so much a game development problem as it is Microsoft Windows. I can't get into the detailed explanation but some games have a strange lag or hitchyness to it despite a solid 60 FPS with v-sync enabled. Many people wonder why and attribute it to poor game code. This actually has something to do with Windows handling the fullscreen display rather than letting the game handle the fullscreen display. I know that doesn't make much sense but trust me...turn OFF v-sync in game and then go into your GPU's control panel and enable FAST v-sync there as well as triple buffering. The game will run as smooth as glass.
+
+I know this title caught a lot of flak when it released but people need to realize that what they did was done for a reason. They updated the game to DirectX11, worked out the audio issues and the strange physics issues and got it marketed to a whole new generation of consoles. This means that kids that never got to play it or never even heard of it can now play the same classics we enjoyed!
+
+They then went as far as to give this remaster out for frickin FREE to all owners of the original games...and people had the audacity to complain about it when it didn't work properly! Sure enough they came back and patched it multiple times and got it working (at least for some of us) when they didn't have to do any of that for us.
+
+For a review of the game itself, see my other review on the original title which is actually more unstable for me than the remaster.",0.9258549213409424,698,True
+409720,48617092,76561198067437754,"As a game its amazing! But as a company is horrible.
+
+Allow me to explain,
+
+Both bioshock 2 and the HD(remastered) version crash beyond belief and nothing you can do will stop that.
+
+It's been over 3 years now that we haven't seen a patch to address those crashes (that mind you, this game is an 100% port from consoles that EVEN they crash).
+
+To give you an idea on how bad the crashes are. At the start of the game it won't really crash that much (if you are lucky) But as you progress the crashes will happen more and more often. And the worst part? it's a crash that doesn't even bother leaving a crash log or something. Just poof and gone.
+
+So as you play on the game you will become increasingly annoyed even if you save every 10 seconds (yes it got that bad for me).
+
+For those wondering, I have tried everything so far. InI file changes, better drivers, older drivers, force use of dx 9 or 10, force multicore, give it more vram, unofficial patch (which are sketch to begin with), a different older rig (because why not right?).
+
+And you guessed it! Nothing worked. To make matters also worse there is NO SAVE compatibility. So if you just decided to see if the game got fixed or wanted to play again from your old save files from bioshock 2... well tough luck, you will instan-crash ever time!
+
+If you want to play this, Just pirate (at this point in time, a developer that has been getting a SPAM of complaints to fix their sh!t that has been going on for years now; does not deserve any money in my book).",0.8354079723358154,105,False
+409720,121898671,76561197986020026,"HOW TO FIX CONSTANT CRASHING:
+>go to %appdata%
+>find bioshockHD
+>bioshock 2
+>open bioshock2.ini through notepad 
+>ctrl+f (search) for 'texturestreaming'
+>the number is set around 400 or 500, change this number to 5,000
+>save, and you're good to go!",0.8321149945259094,58,True
+409720,115278308,76561198835921676,"Bioshock 2 is a great game where *game crashes*
+
+Can i please finish my senten *game crashes*
+
+Anyways I really liked the previous Bioshock so *game crashes*
+
+e *game crashes*
+
+*game crashes*
+",0.8259198665618896,80,False
+409720,132401436,76561198118246966,"instead of working on the frequent crashing problem countless people already pointed out they decided to add a stupid launcher nobody wants or asked for and have the balls to call it ""quality of life""
+
+quality of life my a$$, fuck 2K",0.8221586346626282,73,False
+409720,74026656,76561198142676207,"[h1]DO NOT PLAY THIS VERSION.[/h1]
+
+It is filled with crashes, bugs and glitches that really mess your game. Every 30min I had a crash and then I had to go back to a save and re-do the same chunck again...
+
+It's a really frustrating experience and to get it working you have to go through a lot of trouble fixing it. [u]That's not my job, that's the developers' job.[/u]
+
+[h1]GO PLAY THE ORIGINAL.[/h1]",0.808866560459137,75,False
+409720,196561767,76561198012855067,"The following is copied from another review I agree with:
+
+I have removed all 2K software from all machines I own and will not be buying their games in the future as I do not appreciate being sold malware. They have effectively ended their business, just in time for their next game... Genius move...
+
+Take-Two and 2K games have updated all their games Terms of Service, this extends beyond the Borderlands franchise.
+
+Important Info in Terms of Service:
+• Mods are a bannable offense
+• Display of Cheats/Exploits is bannable
+• Forced arbitration clause and a waiver of class action and jury trial rights for all users residing in the United States and any other territory other than Australia, Switzerland, The United Kingdom, or The Territories of The European Economic Area
+• You can be banned for using a VPN while connecting to online servers
+• Cannot access game content on a Virtual PC
+• Best for last, they reserve the right to modify this Agreement, in whole or in part, at any time
+
+Collected Data Types:
+• Identifiers / Contact Information: Name, user name, gamertag, postal and email address, phone number, unique IDs, mobile device ID, platform ID, gaming service ID, advertising ID (IDFA, Android ID) and IP address
+• Protected Characteristics: Age and gender
+• Commercial Information: Purchase and usage history and preferences, including gameplay information
+• Billing Information: Payment information (credit / debit card information) and shipping address
+• Internet / Electronic Activity: Web / app browsing and gameplay information related to the Services; information about your online interaction(s) with the Services or our advertising; and details about the games and platforms you use and other information related to installed applications
+• Device and Usage Data: Device type, software and hardware details, language settings, browser type and version, operating system, and information about how users use and interact with the Services (e.g., content viewed, pages visited, clicks, scrolls)
+• Profile Inferences: Inferences made from your information and web activity to help create a personalized profile so we can identify goods and services that may be of interest
+• Audio / Visual Information: Account photos, images, and avatars, audio information via chat features and functionality, and gameplay recordings and video footage (such as when you participate in playtesting)
+• Sensitive Information: Precise location information (if you allow the Services to collect your location), account credentials (user name and password), and contents of communications via chat features and functionality.
+
+All this data being collected by a company who's CEO was accused of leaving a USB with illegal material on it as well as sensitive data of Gearbox/2K partners in a medieval themed restaurant, and were supposed to just give in to these absurd terms of service?
+
+My take on these terms of service changes is that I now have more hard drive space and I will not be playing another 2K game until these terms are changed. This also extends to the majority of Take-Two published games. Welcome to my ♥♥♥♥ list Take-Two, you've earned it.",0.8052352070808411,102,False
+409720,215514698,76561198174128071,"Before you start playing Bioshock 2, i suggest you go into these particular files to fix the cause for Crashes in the game, and sensitivity issues to make your gameplay the most smoothest
+
+Fix for Crashing, caused by a VRAM texturestreaming leak within the game. The fix is to set it to either a bit lower than your max VRAM or to set it to your max VRAM. Locate to: AppData/Roaming/BioshockHD/Bioshock2/Bioshock2SP.ini
+TextureStreamingMemoryLimit=24000.000000
+
+Fix for mouse sensitivity issues. The game has a wierd issue with sensitivy, putting this command in the section where you move forward the first time will fix the issue. Locate to: AppData/Roaming/BioshockHD/Bioshock/User.ini
+[Default]
+W=MoveForward | set Engine.PlayerInput MouseAccelThreshold 0.0 | set Engine.PlayerInput MouseSmoothingMode 0
+
+Bioshock 2:
+
+Bioshock 2 follows closely after Bioshock, promising to improve upon what made the first game good by improving upon it while failing in other places where the first game nailed that better. However, as many others have noticed, this game is plagued by Extreme crashes that can happen at most at random place in the game that may hinder the gameplay experience. There's also a lot of grapichal bugs and audio issues that hinder the experience a bit, than what the remaster offers.
+
+Story wise the second game does it worse than the first game, setting you to be a Big Daddy to rescue the daughter of the Big Daddy putting you throughout various different new facilities in Rapture, however it doesnt particuarly inivate much and does not have much of a twist as the first game had to compel you to play the game to the end
+
+The combat improves a lot upon what Bioshock 1 did right, by amplifying that by 10x and doing it better, such as amplifying the plasmoids by giving them new abilities upon their usage, new upgrades that change the way the weapon you've used is being used and new sets of ammunition to improve the way certain weapons work. There's even now a quick headbutt for weapons that you can use with every weapon so you won't need to switch to your meele weapon. However there are still Meelee only perks and some new ones for those who only want to play with the Meele weapon.
+The graphical upgrades such as vibrate blood splats and ragdolling is more apparent in the sequel with the new combat mechanics
+
+Something however that has made the combat worse is the fact that they removed the weapon wheel, making it a lot more difficult to navigate your weapons in time in high tense situations
+
+The Research mechanic is now less rewarding than it was in the first game but more difficult to do, as to get the full research of Splicers, you must first take a picture of them, reel them like a camera, then take them out in order to get the research. You can no longer efficently just kill a splicer and research them that way.
+
+Compared to the first game, hacking is more comfortable and relaxed but less stress punctuated towards the reward you are getting by doing hacking. Before as Vaults we're very difficult and timed accessed rewards, they can now be unlocked way more comfortably with the new system. The new hacking tool you unlock early in the game also has a new auto hacking dart, that makes most hacking situations particuarly useless. The fallback to this, is that items are now more scarce, and you can only carry a certain amount of items, than what you could before
+
+The we're a few things i did not personally like with Bioshock 2, but im gonna list two of them. the Big Sister Random Encounters, you can't prepare for them, they happen mostly when you rescue or harvest a little sister, and if you die, they will contiune to follow you to the respawn tanks where you could be camped and won't stop til you take them out.
+
+They reduced the max carry wieght of Health Kits and EVE from 10 to 5, and can be ugraded to 6, which considiring you are a big hulk of a man in a suit rather than a normal man in a sweeter, it is quite a downgrade. You are also more vulnarable this time, and it is easier for you to do even at the lower difficulties.",0.7971178889274597,36,True
+409720,25518731,76561198126975019,"So let's get this out the way and say that both Bioshock 1 as well as it's sequel are incredible games, in my opinion they are maybe a few of the best games ever made, this review it's now about the games as much as it is about the ""remastered status"" of this games.
+
+For starters both of this remasters have very few options, even less options than the original pc releases, there isn't a way to configure the fov of Bioshock 2 remastered, as of now, i've tried using the console (which you can open with tab) i've tried using ""Flawless Widescreen"" and i've tried to search for an option in pretty much every menu that the game offers, including the ""gameplay options"".
+
+That being said the menu was locked to only using my gamepad when i started it, i had to navigate the menu using the arrows on my keyboard in order to disable the gamepad on the controller options and then configure a couple of the key bindings in order to actually get to play the game, after that i also had to recheck to have mouse acceleration disabled on the controller options given the fact that there's apparently a bug, or something strange happening with the mouse when it comes to the menus of the game, it feels as if my ""dpi"" or the sensitivity is separate from the in-game sensitivity, i've tried changing the sensitivity without luck.
+
+The graphics while being good, are also not insanely improved, i'd expected to see more enhancements when it came to the textures and the lighting, but so far it's clear that they are pretty much just games with minor graphical enhancements.
+
+This remastered, it's sadly the best option that you have to revisit this games, it's frankly a shame that they release this in this state, the whole point of remastering a game it's to make it better, the graphics, the menus, the bugs, fix things that affected the game in a negative way, this sadly doesn't do any of this, instead it just gives the game functionallity without going to hoops in getting the original ones started, something that should've been fixed since a very long time, something that's been bad enough that you have the first stickied post on the forums of Bioshock being how to get that game to run on windows 7/8.
+
+This is simply a review to inform people as to what they're getting for Bioshock 2 Remastered, it's frankly a very good game, but not that much of a re-release, i wish steam had a ""mixed"" option so i could give the game the score or the recommendation that i think it deserves, it's not bad, it's not terrible, it just could have/should have, been better.",0.794350266456604,334,False
+409720,105176981,76561198089294170,"This game was pretty OK except for the fact that it likes to crash randomly and make you lose 30+ minutes of progress.
+
+So I made an autosave script for autohotkey:
+**REPLACE F5 WITH YOUR QUICK SAVE HOTKEY**
+
+[code]
+#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
+; #Warn  ; Enable warnings to assist with detecting common errors.
+SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
+SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
+
+Loop
+{
+	Sleep 10000
+	Send ^{f5}
+	Sleep 5 * 60000
+}
+[/code]
+
+If anyone feels like posting an improved version of this script (it was my first time making a AHK script), post it in the comments of this review. :)",0.8387500047683716,57,True
+409720,93422266,76561198207837927,"for a 5-year old REMASTERED game that STILL constantly crashes, perhaps an autosave feature should have AT LEAST been considered
+
+
+
+
+
+guys i'm coming back to this review that was written in a heat of passion years later. i actually really really like this game and found it to be maybe my favorite bioshock (not sure if this is a controversial opinion), or at least definitively the bioshock that is most fun to play. but just like, why are you remastering a game that maybe ran better originally. will say that most of the negative reviews here are just people like me who wrote them in the heat of the moment after the game crashed on them for the 15th time, so i feel like the critical consensus (lol imagine the steam review section as if it's the height of critical taste...) is actually higher than is displayed. the key is just to manually save a LOT when it starts being crash-y. the rest of this game, 100% worth playing.",0.779969334602356,46,False
+409720,215848689,76561198045626965,A man waits 15 years to play a game on discount. The parasite buys a game on release for full price.,0.768059492111206,32,True
+409720,32341817,76561198026350742,"I honestly liked this game a lot. Sure, I had quite a few crashes (every time after I forgot to save for a while) but this is my personal favourite of the series.
+
+In comparison to the first part not that much has changed. As the game is set in Rapture the atmosphere again is hauntingly beautiful and the art style fantastic. The water effects are truly outstanding. 
+Like in the first part the story and characters are fantastic. Where objectivism was the ideology of BioShock 1 it's collectivism in this one, and while I usually pretty much loathe politics or sociology or whatever this game made those topics interesting for me. I'd say that the first 3/4 of the game are very similar to BS1 (annoyingly so, even) but the last part is exceptional and unique with wonderful endings. (There a three different flavours of endings (Good, Neutral and Evil) with about seven or eight different cutscenes.) The characters are astoundingly well done. Where in BS1 it felt like somewhat decent people turned into monsters thoughout the game it's the opposite here; even the bad guys turn out to be humans with their own understandable motivations. The decisions you have to make also are way more difficult and meaningful than in the first part of the series.
+There's one rather short sequence where you play as a Little Sister and it is breathtaking. 
+
+Gameplay-wise I'd say that BS2 is a step up from BS1. It's a bit tedious at times, the weapons aren't that remarkably, the plasmids are, well, pretty much the same you already know. The one thing that annoyed me a lot was that both the hacking multitool and the camera are in the weapon wheel; quite often I accidentally selected these non-weapons during combat. 
+Someone who likes shooters will probably appreciate the mechanics more than I did. I focused on the story and thus the gameplay wasn't that interesting to me.
+
+Minerva's Den is a worthy DLC. It took me about four hours to complete and the plot and characters are as great as in BS1 and the main part of BS2. As always there's a great plot twist in the last part and the ending was touching. I liked the art style even more than in the basegame, and that's saying something. 
+
+Truth be told, I can recommend this game to anyone who likes a good story. As I have not played the original version of BS2 I can't say if it crashes more or if the changes are appropriate. I'd say that BS2 is a game you absolutely have to play if you liked BS1; I can't make a choice between the original or the remastered version though.",0.8174640536308289,39,True
+409720,154037097,76561198237687594,"I've very much enjoyed playing through as a first time time player but unfortunately this remaster has been a slog to get through and this what I've seen through it. Expect that once your current play session has hit an hour, unless you have (for some reason, decided to) manually saved your game IT WILL CRASH. And this game's auto save system is so awful (only saving at the start of every level, and sometimes a mid way points) that, unless, again, you manually save in intervals you'll lose major amounts of progress. I have also seen a few audio and visual bugs here and there but, round the clock crashing is completely unacceptable.",0.7568695545196533,29,False
+409720,121724699,76561198009001010,"They recently have forced in the 2K launcher while calling it a QOL update which is a completely bogus claim. It has removed quality from the game, it works worse, and no one asked or wanted this launcher or any other.
+
+By the way the bitrate on the audio for the intro sequence, credits, and several other important gameplay elements/moments are lower bitrate from the original 2010 release! Great job still not fixing the audio problems that a modder fixed for you two years ago but you can force your bad DRM down our throats.
+
+2K can f*ck off just like every other publisher with their own sh*tty launcher.",0.7556487917900085,62,False
+409720,84269534,76561198236658496,Game itself is great and fun. But the constant crashing makes me want to run a fist through a wall and call it quits on this game. After I got a few hours in it started crashing almost every fifteen minutes,0.7504170536994934,28,False
+409720,157414005,76561198041523483,"Great game, bad remaster. Crashes once every hour and the only thing the devs do about this terrible state of the game is to force you to install a launcher now. NO bugfixes whatsoever.",0.7495051622390747,38,False
+409720,116335595,76561198167842131,"The game as it its is unstable as shit. You could be playing for an hour and get a crashed, that resets your progress until your last save, or you could play for 5 minutes and get crashed anyways for nothing. The story of the game is wonderful, being a continuation of the 1st Bioshock, and sure the graphical update on the remaster does look awesome , but this remaster is so fucking unstable that I'd advise you to buy the original one that should be still on sale, wich I asume it's less frequente to crash. 
+
+I wish they would fix it, but at this point in time I doubt the publisher care about it.",0.7478205561637878,27,False
+409720,191084287,76561198181072830,"Ah yes, Bioshock 2. The black sheep of the family if only because it wasn't directed by daddy Ken Levine. Some people argue that ""it's just not the same"", others say that Bioshock 2 is actually the best game in the series. 
+
+I personally think it's the latter. Bioshock 2 does everything Bioshock 1 did but better. Combat feels much more refreshing and dynamic. The story feels more personal and emotional. And we get to see Rapture not only in different places but from different angles too: be it ocean floor, or through Little Sister's eyes, which is, mind you, probably the coolest thing the game did. 
+
+I also think Sofia Lamb is a more complex antagonist than Andrew Ryan and Frank Fontaine and through her presence the game tackles the other extreme of political and social ideology as opposed to Bioshock 1. 
+
+As usually, there's quite a lot of people who had problems with the remaster. I did not really have such issues in my playthrough (my game crashed only once in 18 hours I spent in game), so it might be individual. Really the only downside is the lack of multiplayer in the Remaster.",0.7455238103866577,21,True
+409720,192137431,76561198883029143,"So I haven't even finished the game, I think I'm close to it, BUT the amount of times my game CRASHES IS RIDICULOUS!!!! Having to F11 every 2 minutes just because the game crashes so much is literally the most ridiculous thing ever. The game play and story are both good but it's just so difficult to enjoy when it crashes so often. That's the only reason i wouldn't recommend it.",0.7383596301078796,22,False
+409720,98190236,76561198034067498,"It's a good game if you love the Bioshock series. However, on the PC it crashes so much that you can't really get into it at all.",0.7353050708770752,36,False
+409720,129471623,76561199278038872,"It was great until it started to crash continuously, sure theres fixes, but i dont buy games to troubleshoot their issues. Not really acceptable.
+
+There is a fix
+
+If you go to the game lauch icon right click and click on properties. Add this flag...
+
+-dx9 
+
+...to the Launch options, this code will  90% fix the issue. It still may crash, but no where near as much as before. It will force the game to run in DirectX9 instead of 10.",0.7820076942443848,43,False
+409720,78448763,76561198134480007,"I am at my wits end with this beautiful game.  The game itself is great... when it works.  Since entering Dionysus Park , it's been a very buggy mess of an experience. The same exact ones reported by many others here.
+It crashes every time there's a battle with multiple splicers and BDs, which happens frequently. 
+
+Because of this and this alone, I do not recommend purchasing or installing the Remastered copy.  I tried every fix I could find on the web and non worked for me, unfortunately. You might get lucky however,  as I've read some say they only experienced one crash or two. 
+
+Very disappointing after spending over 24hrs on it, nearing the end of the game and now it feels like I'm playing with a Jack in the Box, wondering when it will crash next. Which just completely destroys the immersion. Not sure if the vanilla version works any better.  I may try that one later, since it came bundled.
+
+The game itself, is truly a marvelous game. (All Bioshocks are amazing in their own way). It pains me to leave a scathing review.)
+
+One I hope 2k will come around and patch but it doesn't seem like they gaf. :(
+
+Edit: My resistance to giving up my progress, has allowed me to finally complete this game. But the crashing did ruin the experience quite a bit. However, let me reiterate, the game itself is beautifully done and the remastered textures are actually quite good at making the game feel more finished and refined. I love the atmosphere. The story is compelling. Though not as strong as the first Bioshock, it still works. Minerva's Den DLC, which I strongly recommend, brings the story telling quality back up a few notches. 
+
+Great great game... but the crashes... ugh... If you do buy and install this, I wish you all the luck.",0.7307566404342651,33,False
+409720,94016199,76561197987611155,"I bought this in a pack with Bioshock 1, getting both remasters and base games.  The remaster of Bioshock 2 is...disappointing to say the least.  Yes it looks better, but the updated graphics make the game crash.....alot.  The issue seems to be when too many flashes are on the screen, so the best way to not have a bunch of crashes is -
+1.  Dont use the minigun, it creates alot of flashes
+2.  Dont use the turret, same issue as the minigun
+3.  Limit use of trap rivets to killing big daddies, if too many are set up and they all go off at once vs multiple enemies, the game crashes
+4.  Keep enemy count low, if there are 10+ people shooting at you its almost certain to crash, so kill them quickly
+
+This only gets a thumbs up because the base Bioshock 2 comes with the remaster, allowing a better graphics game or a less crashy one.",0.7306408286094666,25,True
+409720,134991509,76561198058359818,If making the 2K launcher a must to just play this isn't enough. The game just crashes just randomly. Add incredibly infrequent auto saves and it makes the game borderline unplayable. this is a good game but I know that this will never get patched and so I can't recommend it. playing it again after so many years and after my 10th or 11th crash I'm just done.,0.7287575602531433,29,False
+409720,129212824,76561198056718626,"It's always crashing. I'm really tired playing again from the autosave. Uninstalled the game. It's too bad that i watched the final scene from a youtube video. Man, i really hate 2k and their stupid launcher.",0.7264329791069031,33,False
+409720,195190293,76561199105346732,"I love this game, but I have to warn you about a recurring problem that I keep facing. The game just crashes, randomly, and in a game without an autosave feature, this can be catastrophic. I have repeatedly lost progress, hours at a time, because the game randomly closes without warning. Even when I do remember to fanatically save my game, this is extremely annoying. I highly doubt that the publisher will fix this, which leaves me bitter.",0.7254587411880493,28,False
+409720,108869752,76561198297916230,"This game is excellent. The gameplay and story are just as good, if not better, than the original BioShock. 
+
+What I cannot condone, however, is the severe lack of stability this game possesses. To give you an example of how crash-prone this game is, I completed the last two levels of the game in just under two and a half hours. In that time, I suffered sixteen C2Ds, for an average of one crash every ten minutes of play. This figure was repeated to a similar extent throughout the entire experience of BioShock 2. 
+
+This game came out in 2010. That was twelve years ago now. 2K have had more than a decade to patch this game, and they have chosen not to. It isn't excusable to leave such a great game in such a poor state, let alone a game that is part of one of their flagship franchises. Hell, BioShock Infinite was more stable, and that game is terrible compared to BioShock 2! 
+
+Oh, and there's terrible audio compression with this game's entire soundscape. Everything sounds tinny and has terrible artifacts layered onto it. There's also some really bad horizontal and vertical flickering and tearing from time to time, even with VSync enabled, which kinda eats into the immersive nature of the game. 
+
+9/10 for the game; 4/10 for the technical quality of this ""remaster"". Buy on sale if possible (although you do also get the original PC port bundled with the remaster for no additional cost, although I have no idea whether that port is better or worse technically).",0.7219023108482361,23,False
+409720,231378005,76561198059296521,I love this game but the amount of time it crashes it ridicules remastered my ass I'm tired of the game crashing during each fight this game is over ten year old how is it still a problem!,0.7200140953063965,20,False
+409720,124519945,76561198816518410,"Excellent game that improves and expands on what made Bioshock 1 great.
+the game dont have auto-save 
+if you crash its will be back to ~20 min ago
+A common crash is caused by the game not having enough VRAM allocated to it. This can be easily resolved by going to
+...\AppData\Roaming\BioshockHD\Bioshock2
+and increasing the value of TextureStreamingMemoryLimit in Bioshock2SP.ini. I set it to 2048 and haven't crashed since.
+",0.7193254232406616,26,True
+409720,224212964,76561197976223801,"Just wanted to write and warn others: this game keeps crashing to desktop randomly, over and over (I’ve lost count). I’ll keep playing (I’m a stubborn fool with way too much patience), but honestly… is it even worth it.",0.7183781266212463,22,False
+409720,25567557,76561198040488320,"Lazy console port. 
+
+While it does work (so far) for me on 1080p on max. 
+
+It lacks any real level of graphics options. 
+For me the main issue is i cannot furn DOF and Motion blur off, DOF imo looks like crap 
+and Motion blur gives me motion sickness.
+
+That aside the main reason i am not reccomending this is purely because its a lazy port. 
+I am sick of AAA studios doing this to PC gamers and i want them to suffer for it.
+Its a bad business practice.",0.7673620581626892,137,False
+409720,136477597,76561198109853779,"I will never forgive 2K for what they've done with this game. After completing the first one recently, I was really excited to play through the second but oh no, they had ""patch"" the game to implement their own shitty launcher and now the game is completely broken. CRASH CRASH CRASH CRASH. These games are masterpieces and all they've done is tarnished the legacy of what were some of the greatest games to ever be made. To top it all off, these games are almost 10 years old now, so you're pissing in the wind if you think they're gonna actually patch them",0.7172834277153015,26,False
+409720,40330877,76561198219381448,"I enjoyed this game, to begin with as I'm a fan of the series but now I can't. I experienced a single crash between the start and Fontaine Futuristics. From then on at Fontaine its been crash after crash about every 3 minutes. The remaster its self is hardly a remaster as well which I didn't really care about. But these crashes make it unenjoyable to play.",0.7669017910957336,44,False
+409720,87449183,76561198284873490,"I love this game so far, but BioShock 2 Remastered constantly crashes! I had no issues with the first game, but this one is pretty much unplayable at times.",0.7165220975875854,25,False
+409720,25551624,76561198065040733,"Garbage Port
+- game runs in dx9 so their are no water effects
+- shadows gone
+- no graphical options or fov
+- audio is a nightmare
+Post Patch
+- Crash
+- Crash
+- Crash
+- Crash
+- Still no water effects while walking through water
+- audio still not in sync with weapons, explosions, npc's
+- shadows still stripped from half of the game
+- minimul graphical options added
+
+
+LAZY INTENTIONAL CONSOLE PORT, SHAME ON 2K",0.7131398320198059,111,False
+409720,84574014,76561198092592439,"The game itself is great, plasmids and weapons are better-balanced and enjoyable to use, the story is more appealing than in the previous game.
+What I liked most was being stupidly scared at moments while playing as, the fear himself, Big Daddy.
+However, the Remaster version is just broken and unplayable, it's still absolutely unstable in 2021 and constantly crashes, no matter what graphics settings or community fixes you try.",0.7097573280334473,34,False
+409720,40621523,76561197976328120,"I was going to write a more lengthy review on this game, doing comparisons to gameplay, story and whatnot with original and Infinite but that was derailed. In short yeah I like this game it's very fun. Gameplay is much improved from the first game (story is rather bland however) and all these years after I can still sit down and play it, have fun and whatnot... None of that matters because this game is a technical mess.
+
+When the game runs it runs smoothly, and honestly for the whole game I experienced perhaps 4-5 crashes, which I was willing to forgive. I didn't lose save data like in Bioshock 1 Remastered, and for the most part it seemed to happen when I was gathering adam. Then I started playing Inner Persephone. I tried finishing this level. I spent about 2h trying. I've finished this game (original bioshock 2) many times. I kept crashing every few minutes. I was gonna soldier on, but then I came to the final fight, and I just couldn't get through the damn thing without crashing. I must have crashed 20+ times. Tried different settings, changed different things and so forth. Nothing. The game runs smoothly otherwise (i7 7700, 1080gtx, 16GB ram), no performance issues from my side. The game just wouldn't let me finish. So fuck that. 
+
+I might have even considered giving it a thumbs up if original Bioshock 2 ran fine, but it doesn't. While it doesn't crash in similar manner, it still needed me to tweak stuff to direct X 9 and other things, and even then some instances couldn't have been avoided (I had to for example start a big sister fight in a different room or I'd crash). The original has less issues, is more stable and I CAN finish it, but it still has many issues I have to jump through hoops to get it work. In any case no, I draw the line. I will amend my review if this is fixed into some sort of working order, otherwise don't buy this. I'm fairly thick skinned, Bioshock 1 gave me some grief but not to the point I would dismiss it completely. This crossed the line. Again do not buy until fixed. Damn shame since it is a really fun game.",0.7579673528671265,31,False
+409720,233207955,76561198062353937,"Love this game, but unfortunately the remastered version is not really ""remastered"" as save files can easily be corrupted. Game is fine, but you'll have to save every 5-10 minutes manually unless you want to risk losing a save file to corruption which happened to me. 
+
+Doubt they'd fix it anytime soon, but losing 3-4 hours worth of progress because a save file corruption is enough for me to not recommend this game. Stick with the original Bioshock 2, not the remastered",0.7075313925743103,16,False
+409720,67594419,76561198273728217,"It is unacceptable that a ""remastered version"" of a game has this amount of inexplicable sudden crashes. You are more afraid of loosing your progress than the big sisters.",0.7563781142234802,28,False
+409720,72601488,76561198089805810,"[h1][i]""Love is just a chemical. We give it meaning by choice.""[/i][/h1]
+[i]Bioshock 2[/i] is a first-person shooter where you play as a Big Daddy known as Subject Delta, and you are still in Rapture, 8 years after the events of the first game. Your goal is to reunite with your little sister, Eleanor Lamb, and rescue her from her mother, Sofia Lamb, the new leader of Rapture and the main antagonist of the game. I played the original [i]Bioshock 2[/i] 4 years ago and didn’t like it (I don’t remember why exactly) so I gave up halfway through. I decided to give it another shot this week with the remastered version and I loved every minute of it.
+
+[h3]Pros:[/h3]
+✔️ [b][u]Great story:[/u][/b] The story is beautifully told, all the characters are memorable and interesting, and your choices throughout the story and how you deal with the little sisters shape the ending.
+✔️ [b][u]Fun and improved gameplay from the first game:[/u][/b] You can now use your Plasmid abilities in your left hand, and fire your weapons in your right. Your melee weapon is now a drill and it is very satisfying to use it on enemies and deflect projectiles. Hacking minigames are much more fun now.
+✔️ [b][u]Remastered graphics:[/u][/b] Rapture looks absolutely gorgeous; less blurry textures, higher-resolution images, and better water and fire effects. The game is just beautiful to look at.
+✔️ [b][u]Great DLC (Minerva’s Den):[/u][/b] Definitely one of the best DLCs I have ever played. You control a different Big Daddy, Subject Sigma, and it is concurrent with the events of the main campaign. You will acquire a new laser weapon and Plasmid ability and both are OP. It has a wonderful story (some say it’s even better than the main game), tons of fun and definitely a must play.
+✔️ [b][u]Wonderful soundtrack:[/u][/b] It’s as good as its predecessor, and I just love the 40's style of music and it perfectly fits the game.
+
+[h3]Cons:[/h3]
+❌ [b][u]Crashes:[/u][/b] The game crashed twice during my first 3 hours, so I followed the guide below (only the first two steps) and never experienced a single crash afterwards, so either the guide worked or I was just lucky.
+[u]Laptop specs - Omen HP 17t:[/u] [u]GTX 1070, Intel Core I7-7700HQ,16 GB RAM & Windows 10 Home 64-bit[/u]
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=1659202156
+
+[h3]Additional Details:[/h3]
+[table]
+[tr]
+[td]Total time played[/td]
+[td]13.5 hours (didn’t play [i]The Protector Trials[/i])[/td]
+[/tr]
+[tr]
+[td]M&K or Controller[/td]
+[td]Both work, M&K is preferable[/td]
+[/tr]
+[tr]
+[td]Offline mode[/td]
+[td]Yes[/td]
+[/tr]
+[tr]
+[td]Achievements[/td]
+[td]Yes[/td]
+[/tr]
+[tr]
+[td]Trading cards[/td]
+[td]Yes[/td]
+[/tr]
+[tr]
+[td]Games Saving[/td]
+[td]Manually (on Hard)[/td]
+[/tr]
+[/table]
+
+[h1]Final Thoughts[/h1]
+It took me about 10 hours to finish the main campaign and 3.5 hours for the DLC (Minerva’s Den). Despite the crashes that i experienced and this game is known for (literally, just look at the reviews), this game definitely does not deserve the hate that it gets; it has a great story, fun gameplay, great DLC, beautiful graphics and a wonderful soundtrack to accompany it. 
+
+[h1]Final rating: 9/10[/h1]
+[url=https://store.steampowered.com/curator/9204133/][quote] Like my review? Then check out my other ones in my curator page.[/quote][/url]",0.7534698247909546,23,True
+409720,116845468,76561198215780893,"No. This thing crashes. A lot. 
+
+Way too many crashes to be able to recommend this version of the game.
+
+I did manage to beat it, but no matter how many times you repair your files or try to fix it, it will crash at the most random times and screw your progress to the last save you have.
+This kinda forces you into this save scum mentality just out of fear of losing the last 40 minutes of your life and having to fight the same mob of enemies again and again and again.
+
+I DO recommend playing Bioshock 2, it's a good game. Just dont play this version.",0.7017475366592407,16,False
+409720,152485623,76561198153758739,"Do not play this demaster
+Play the original instead
+This demaster is full of crashes, audio,UI and graphical issues the original never had in the first place",0.7008851170539856,17,False
+409720,28630108,76561198009981418,"Sees remaster version. Gets excited.
+Installs game. Gets more excited.
+Loads game.
+Lower mouse movement settings, changes resolution.
+Press new game.
+Press space.
+Crashes.
+
+Looked for fixes, none worked.",0.7506903409957886,58,False
+409720,196501811,76561199383374467,"Important Info in Terms of Service:
+• Mods are a bannable offense
+• Display of Cheats/Exploits is bannable
+• Forced arbitration clause and a waiver of class action and jury trial rights for all users residing in the United States and any other territory other than Australia, Switzerland, The United Kingdom, or The Territories of The European Economic Area
+• You can be banned for using a VPN while connecting to online servers
+• Cannot access game content on a Virtual PC
+• Best for last, they reserve the right to modify this Agreement, in whole or in part, at any time
+
+Collected Data Types:
+• Identifiers / Contact Information: Name, user name, gamertag, postal and email address, phone number, unique IDs, mobile device ID, platform ID, gaming service ID, advertising ID (IDFA, Android ID) and IP address
+• Protected Characteristics: Age and gender
+• Commercial Information: Purchase and usage history and preferences, including gameplay information
+• Billing Information: Payment information (credit / debit card information) and shipping address
+• Internet / Electronic Activity: Web / app browsing and gameplay information related to the Services; information about your online interaction(s) with the Services or our advertising; and details about the games and platforms you use and other information related to installed applications
+• Device and Usage Data: Device type, software and hardware details, language settings, browser type and version, operating system, and information about how users use and interact with the Services (e.g., content viewed, pages visited, clicks, scrolls)
+• Profile Inferences: Inferences made from your information and web activity to help create a personalized profile so we can identify goods and services that may be of interest
+• Audio / Visual Information: Account photos, images, and avatars, audio information via chat features and functionality, and gameplay recordings and video footage (such as when you participate in playtesting)
+• Sensitive Information: Precise location information (if you allow the Services to collect your location), account credentials (user name and password), and contents of communications via chat features and functionality.",0.7003205418586731,52,False
+409720,84837815,76561197971880699,"Duration:  13 hours to completed. 
+
+note: I had no stability problems.  The game crashed a single time, when I started smashing F-keys in a hectic combat trying to hit the right plasmid.  Otherwise, it ran perfectly without a even a glitch.  Never got stuck in a wall etc.
+
+Bioshock was an absolutely amazing game, so obviously, any comments on Bioshock 2 will naturally have the ancestor taken into consideration.  
+
+1. If you hated Bioshock, then you'll hate Bioshock 2.
+2. If you loved Bioshock, then you'll love Bioshock 2.
+
+The story is equally involving and has some absolutely delightful, and shocking moments.  More than once I screamed at my computer ""NO!!!! This can't be happening!""  No spoilers here though, you'll have to find them out for yourself.
+
+Where Bioshock 2 is better:
+1. Hacking is ""simpler"" (less time consuming)
+2. Weapons are more varied.
+3. Plasmids have more multiple functions.
+4. There are more gene tonics.
+
+Where Bioshock 2 lacks:
+1. Something just feels very ""sameish"".  Even parts of the story feel the same, although sometimes this works to the story's advantage as it sometimes throws a twist into what you expect.
+2. Same Vita-Chamber. If this bugged you in Bioshock, it will still bother you.
+
+Generally it is ""better"", but the feeling of ""more of the same"" makes it lose some of the ""Wow!"" factor the original had.
+
+9/10",0.6989870071411133,15,True
+409720,91828699,76561198020529282,"It is a good game which is a sequel and prequel from Bioshock 1  but unfortunately the crash hasn't been fix. 
+Just in case if you are looking for ""Bioschock2SP.ini"" file to change the ""TextureStreamingMemoryLimit"" . 
+
+1) C:\%AppData%
+
+2) Open folder ""BioshockHD"" > ""Bioshock2"" > *Check show hidden profile and then you will found ""Bioshock2SP.ini"" file
+
+3) Open ""Bioshock2SP.ini"" and press CTRL + F > Enter ""TextureStreamingMemoryLimit"" and change it into ""2048"" or higher depending on how much VRAM your graphic cards
+
+4) Next enter ""TextureStreamingDistanceLimit"" and change it into ""10000""
+
+5) Lastly go to \....\SteamLibrary\steamapps\common\BioShock 2 Remastered\Build\Final and right click on application ""Bioshock2HD"" > Properties > Compatibility and tick ""Run this program as administrator"" 
+
+If it's not working , you have to play and save game a lot of time just to be safe. Whatever it is do not overwrite Auto-Save coz you might need it at final chapter and try not to save the game on ""Quit To Windows"" due to save file might goes corrupted. 
+
+Goodluck !",0.7479264140129089,24,True
+409720,161781513,76561198105684166,The game is in a borderline unplayable state as it is (I say borderline because yes you can play it and it will launch but you will most likely only get an hour of play time at most before crashing) it is not worth the price unless you can get it for less than 5 dollars. The constant crashing with only community speculation on how to fix it or the copy paste google results that just parrot those community fixes only seem to work for a very few lucky people who play the game. The game will probably never be updated to fix these issues so as it stands don't waste your time and money on it. It is a shame because the game is fun and the story is great but having to save scum every few seconds just to make even the smallest progress isn't worth the hassle.,0.6975980997085571,17,False
+409720,32715157,76561198153176634,"Another trip in the undwater city of rapture but this time it is after the ruling of Andrew Ryan and the city is falling further apart. Can this early prototype of the big daddy be reunited with his little sister? Can this game be good? To atleast answer the second question i will be going throught the game in a pro/ con style and ending with my final conclusion.
+
+Pro:
+     Very interesting playable character. In the original bioshock we played as well some guy under a brainwashing plasmid. This time we play as a prototype big daddy called delta. Unfortunantly he is weaker than the normal big daddy's but playing as a big daddy opens up the new perspective about big daddy's.
+
+    New guns. There is the obvious drill, rivet gun, and the chain gun. It is not much but there is an interesting assortment of weapons to use and the drill is pretty useful since it stun locks enemies. The weapon upgrades are two normal upgrades like power or clip size or fireing speed and the final upgrade unlocks its maximum usage. Maybe the gun sets enemies on fire if shot repeativly or electricuted with the drills tesla power.
+
+     More enemies. There are a the normal splicers that return like the lead head splicer, spider splicer, ect but there are new enemies types that these hulking splicers, big sisters, alpha big daddy's, and a version of the big daddy with a shoulder mounted rocket launcher.
+
+     Amazing level design. Rapture looks more ruined than before and at some moments the player can leave areas of the map and explore the bottom of the ocean for only a small bit. These moments are normally transitions between level area to level area.
+
+     An enjoyable story. The game has a story that was apparent, everything being done felt like it added to the journey. The game provided moral decisions that gave the player the choice of letting this person live or die for the trouble they caused for them on the journey or because they did something horrific in the past. Through the game the player understands more about the character such as a past adding a new understanding about big daddy's.
+
+    New hacking mini game. The new hacking minigame is a QTE where there is a moving pointer and the player needs to stop this pointer on the green sections or blue. It is a bit easier than the Bioshock 1 hacking minigame but also has a bit more depth too. If the player lands on the blue an added bonus will activate like for the vending machines will drop a free item or if hacking a turret; it will have added damage output.
+
+con:
+    Big sisters. Now they are a new enemy in the game but they ware a major pain because big sisters only appear when all the little sisters have been harvested or helped. It would be better if the big sister was some type of negative consiquence for those who harvested little sisters adding challenge for the players seeking power. The issue with the way they are now; it makes the wanting of interacting with the little sisters more of a task and a peice of the game that would be avoided.
+
+    The little sisters's minigame sucks. It can not be as simple as save or kill anymore. It now needs to be kill or do this slow paced escort minigame to protect the little sister scavenge for ADAM. It is not fun for how slow it is and makes going for the good ending a chore and something no one wants to do.
+
+   Repetitive level progression. Normally the game is giving us a goal but once you arrive at your goal or destination. The game says that the door is locked and a detour must be taken to get an item to continue progression. Every level is the same design and it gets old and very predictable towards the end game.
+
+Conclusion:
+      The game was a blast to play because of how well the combat was being able to use a plasmid and weapon at the same time or any other implimentations that were added to the sequel that compared to the first game is better in some area's in the sequel. Still having to deal with the big sisters was a huge pain and felt forced even when the player is working towards that good ending. The designs of how levels progress got very samey that quickly became easy to predict and annoying to experience. The Little sisters mini game was annoying to do since of how long it is and how unnessary it is. If the minigam was an option to help increase the ADAM recieved then i would be ok with it but having the kill or save choice for the start would be niece. In short the game is just ok, it has some positive stuff but the negative things deal with changes or mechanics that do not need to exist.",0.7429547309875488,27,True
+409720,181636543,76561198156021248,"BioShock™ 2 Remastered is an astounding game. Albeit, it does have some shortcomings compared to the first game, what the first game got wrong or needed improving on Bioshock 2 got right! I always wanted to play as a ""BIG DADDY"" and save or protect little sisters, or heck, even just for the feeling of being unstoppable against all the splicers, and that, that is exactly what I felt like playing Bioshock 2!
+
+I have waited about 7 years to return to BioShock™ 2 Remastered because of 2Ks neglect. What do I mean by this? Well, below I will explain so let's get to it!
+
+[h1][b] Why It took me 7 years [/b][/h1] 
+So, to get straight to the point - 2K's neglect. On the 25th of November 2K has finally removed their, extremely bad, stupidly un-optimised and NOT NEEDED launcher from some games. BioShock™ 2 Remastered is one of these games. Here is a link to the thread for you to see: https://steamcommunity.com/app/409720/eventcomments/4626981087516649009?snr=2_9_100000_
+
+Now, you may have noticed they locked the thread. Why? you might ask. Well, they were aware of issues that plagued their games for years. These issues were caused BY the 2K launcher, and nothing else but yet 2K didn't care. Many people posted on the steam discussions page for help about crash's and poor optimisation for years... 2K only posted ""Troubleshooting help"" posts, which had nothing to do with us, but all to do with the 2K launcher.
+
+It took them 7 years to finally remove the 2K launcher. How can we ever trust 2K again? Well, the removal of the 2K launcher is the first step. A step in the right direction, but sadly it comes a little to late for many.
+
+Well, that is why it took me so long to return to, probably my favourite video-game of all time. Now, to tell you why it's my favourite video-game of all time below!
+
+[h1][b] Pros [/b][/h1] 
+⚫BioShock™ 2 Remastered, just like with BioShock™ Remastered, comes with High Resolution Textures, Models and Interface Art. Almost everything has been slightly improved on. From reflections to shadows. From lighting to detail. It was all sorely needed. Specially since it was really dated. (I mean, technically it's dated again) 
+⚫The Audio is done to perfection, again, just like BioShock™ Remastered. You can hear the pitter patter of splicers running around, climbing on the roof (spider splicers) and their creepy dialogue. If that's not enough for you, wait till you hear the Big Daddy's and the Little Sisters thumping around making themselves known to all.
+⚫The Atmosphere of Bioshock 2 is astounding. I'd even say slightly better than Bioshock. The underwater segments are beautiful and unforgettable. The eerie dark depths of the ocean floor with all the bright neon lights, rusted yet still gorgeous, slowly leading you to your destination. Have a look at this: https://steamcommunity.com/sharedfiles/filedetails/?id=3376456548 
+⚫BioShock™ 2 Remastered also comes with all DLC. Minervas Den and The Protector Trials. Both of which are fantastic additions to Bioshock 2!
+⚫Minervas Den let's you play as a Big Sister and it also adds on to the base games understanding of a Big Sister - That is all I am going to say. Don't want to spoil anything!
+⚫The Protector Trials are a series of, well... trials, which have you ""stealing"" as much ADAM as you can to stop Lambs plan. It offers frantic combat challenges designed to push your mastery of weapons and Plasmids to the limit. Your only goal - get your little sister to harvest as much ADAM as possible. Each Trial features three unique weapon and Plasmid load-outs, keeping the challenge fresh, as well as a fourth bonus load-out the player receives when all previous load-outs are completed.
+⚫The combat has been greatly ""revamped"" for the modern player, again just like Bioshock Remastered BUT, I feel like the combat is MUCH MUCH better in Bioshock 2. For one, you can use a weapon and your plasmid at the exact same time which only makes the combat much more fluent, less janky. Have a little look: https://steamcommunity.com/sharedfiles/filedetails/?id=3376457254 
+⚫The game also warns you about ""PONR"" (point of no return) areas. Which means you can go back and loot, explore e.t.c till you are ready to move on. Look: https://steamcommunity.com/sharedfiles/filedetails/?id=3376456296 
+⚫Hacking in this game is so much better compared to Bioshock (1). You get a ""hack tool"" which lets you hack from a distance. Now, no more pesky out or reach cameras. This adds to the many different combat situations you can get into now. Not only that, hacking has a ""blue"" colour on machines which - vending machines (on blue) give random items. Health stations drop medical packs. Turrets deal more damage. This was definitely a great change/addition!
+⚫Researching in this game got a MAJOR overhaul also. Compared to Bioshocks camera, its now like a Video-camera where you just activate it and then go about your business killing whatever it is your researching. The more ""unique"" you are with your kills the more research you are awarded.
+⚫BioShock™ 2 Remastered offers multiple different endings. All of which are amazing to experience. I'm not going to spoil anything, sorry! Trust me, experience it yourself and see!!
+⚫As of 25th November 2024 onward - there seems to be no more suttering, FPS drops, crashing e.t.c since they removed the 2K launcher. (for me anyway)
+
+[h1][b] Cons [/b][/h1] 
+⚫AI are still predictable, just like Bioshock Remastered.
+⚫Playing the game on the hardest difficulty with VITA chambers disabled was a bit easy for me, sadly.
+
+[h1][b] My Verdict [/b][/h1] 
+BioShock™ 2 Remastered is one of the greatest video-games of all time. A sequel to an absolute masterpiece. I can only recommend the game so much and say what I liked from the game and share my personal experience, without spoilers of course. 
+
+It's down to you to ""save"" or ""harvest"" all the little sisters. It's down to you to show mercy on your enemies or kill them downright. Are you the ""monster"" Lamb makes you out to be, or, do you have a heart? The choices are yours to make!
+
+[h1][b] 10/10. An excellent sequel to an already masterpiece of a game! [/b][/h1]",0.691078782081604,20,True
+409720,66563250,76561198063115240,"[b]Oh my! Those big sisters like it rough! It's so satisfying to drill them.[/b]
+
+[h1]In my opinion this game is so underrated.[/h1]
+
+You play as the first successful Big Daddy creation in BioShock 2. The story focuses more on the creation and bonding of big daddies at first but moves on to and stays on ideas of different people, morals, good and evil etc. This game has 3 spare / kill choices apart from what you do with little sisters and has total 6 different endings. Endings are actually satisfying, all of them.
+
+[b]The story[/b] is easy to follow and you don't need to go looking for audio diaries to understand what's going on - except for those 3 characters that you can kill or spare, knowing their background could be useful but then again, any new story-related information is useful. The antagonist tells you everything as you progress through missions, go to certain locations and it's a nice thing which helps develop the story. Thankfully, the audio is actually good unlike the first game where I could barely understand what was being said. The game does such an amazing job at visual storytelling as well, far better than the previous game I'd say. But there's no huge surprises in the main story and it's a bit predictable. Hopefully I'll not spoil anything by saying that in one level, you play as a little sister. One could argue that the DLC has better story than the base game.
+
+[b]Game-play[/b] is slightly different, not too different than the first game. As a big daddy, you have a drill which is useful against hoards of enemies and you can do dash attacks with it. There's this new HUD option which does a good job at making you feel like you're actually inside a metal suit without blocking most of the views. Footsteps sound of the protagonist is also very immersive. Don't go into this game with very high expectations just because you'll be playing as a big daddy. Apart from that drill, everything is pretty much the same as the first game except for a really messed up research camera which thankfully is only needed to be used once for the story. You'll be spending a lot of time hacking various stuff and the process of hacking things has gotten better. You have your plasmids and tonics which you can change often to adapt to different situations or just to try out new kinds of play-styles. There are a few underwater stuff but no underwater fights.
+
+[b]Combat[/b] has improved slightly due to different enemy attacks. There are new models of different enemy types and it's now easy to tell what type of enemy you're fighting against. There's also unlimited number of enemies - what I mean is that the game spawns enemies again and again in almost every empty area to give you the feeling that you're always gonna be fighting something and not walk around in an empty map. A new enemy type called Big Sister which are the strongest enemies in the game will come at you after you deal with a certain number of little sisters. You'll know that she's coming by hearing her screams which gives you precious time to prepare for the battle. Once you're with a little sister, you can choose to find ADAM for her to gather, during this time you'll need to protect her against a lot of enemies, so laying out traps, hacking drones, cameras & turrets beforehand is a good idea. I almost forgot to mention that you have weapons that can lay several traps which is very fun.
+
+[b]Conclusion:[/b] It's not too different from the first game, just focuses on different characters and story. 6 different endings seem a bit too much for my taste but the overall game-play is nice. Enemies have improved a lot. DLC is epic and challenges are so much fun.
+
+[i]Daddy protect
+Daddy also attack
+There are no laws in Rapture
+So daddy drills my back[/i]
+[spoiler]Sorry, I couldn't resist, I'm only human![/spoiler]
+
+[i]One daddy to rule them all
+One daddy to find them
+One daddy to drill them all
+Then do unspeakable things to them[/i] ( ͡° ͜ʖ ͡°)
+[spoiler]Okay, I'll stop. Get this game with the DLC for an amazing experience.[/spoiler]",0.7389196157455444,42,True
+409720,141670896,76561197966402994,"crash.crash.crash.crash. but hey, it's from a little unknown indie developer, so it's understandable that they don't have the resources to fix that shit.",0.6859379410743713,19,False
+409720,32663036,76561198079243240,"This game is even worse than the Bioshock Remastered. It will crash every single time when starting a new game without a specific fix; the fact that I learned this fix from an unofficial Steam discussion thread, or that the fix doesn't do anything to the random crashes didn't help.
+
+Stay away from this abomination and play the original, would you kindly.
+
+",0.7352980971336365,160,False
+409720,150393678,76561198189980222,the fact that they'd rather implement their shitty launcher instead of fixing the fucking crashes says enough. games fantastic though,0.733145534992218,27,False
+409720,227894747,76561198173901059,"Best gameplay in the series, a good story in the main game, and an amazing one in the DLC. The only downside was the constant crashes that made me lose hours of progress",0.6821256875991821,20,True
+409720,141447951,76561198132918834,"BioShock 2 is arguably a better game than the first, making improvements to some mechanics such as the hacking and research, you now dual-weld a weapon and a plasmid, morality choices that are not as black-and-white, balance changes, and new additions and enemy types. And despite reusing the setting and resources from BioShock 1, 2 puts them to good use through a narrative from the perspective of one of the first Big Daddies, Delta, who had awoken 10 years after he was supposedly killed protecting Eleanor, the little sister he was bonded to. Now he must find her, but he's going to have to get through Sophia Lamb. 
+
+So why am I not recommending it? Cause this version of the game is atrocious. After finally deciding to replay it on PC, the game now installs a new launcher upon playing it for the first time. To be fair, you can boot the game while skipping the new launcher with Steam launch commands, but there is nothing that can be done about the constant and inconsistent crashing. I healed once in the second stage and the game crashed, but doing it again in the same spot wouldn't replicate the results - it just randomly decides to. Then after making some progress, the game decided to crash just as I was about to kill the first Big Daddy. So I hope you don't mind quick saving often. 
+
+I do recommend you check out this game, but not this version. Play the remastered version on any other platform, even the Switch port won't crash on you. Hell, if you still have a PS3 or Xbox 360 lying around, you can order a copy of the original BioShock 2 on eBay for about $10 or even less. All of these offer a better experience than the current state of the remastered Steam version.",0.6810618042945862,22,False
+409720,231346688,76561198037862127,The game has crashed multiple times. And for some reason this remaster doesn't have auto save. I lost 2 hours of time because of it. I doubt I'll finish it now since I have to spend 2 hours to make up for what I already did. What a joke.,0.6804516911506653,14,False
+409720,156249910,76561198071641109,"Alot of negative reviews regarding crashing, personally I've completed the game with only 1 crash so it's not 100% that you will run into problems",0.679726779460907,21,True
+409720,185676353,76561199545806609,The game crashes randomly time to time and there is no real solution to fix this. Either ruining the immersion to save every 5 minutes or get used to lose hours of gameplay..,0.6763217449188232,22,False
+409720,162449294,76561198131301950,"[h3][b]A return to Rapture should not feel this unstable[/b][/h3]
+
+BioShock 2 has a lot going for it on paper. Playing as a Big Daddy in Rapture again still gives it a strong identity, and I genuinely think the mix of combat, powers, atmosphere, and music makes for a compelling sequel. The core game is good, and that is what makes this so frustrating. Its biggest problem is not the design itself, but the remastered version on PC, which still has a reputation for crashes and technical issues that drag the whole experience down. 
+
+In my experience, I really wanted to recommend it, because when it worked, I had a great time with it. Unfortunately, it crashed far too often, and I even had to reinstall it just to keep going. That completely damaged the rhythm of a game that otherwise deserved better. Because of that, I cannot recommend it without a warning. If you are willing to troubleshoot and accept the risk, there is still a very good game underneath. If not, buy it at your own risk, especially on PC.",0.6753005385398865,18,False
+409720,129298015,76561198193149893,"You're a Big Daddy protecting little girls. Best Family Simulator.
+[b] Don't forget the DLC [/b]",0.72468501329422,25,True
+409720,196492705,76561197983326717,"Take-Two and 2K games have updated all their games Terms of Service, turning this game as well as all of their other games into literal spyware.
+
+Collected Data Types:
+• Identifiers / Contact Information: Name, user name, gamertag, postal and email address, phone number, unique IDs, mobile device ID, platform ID, gaming service ID, advertising ID (IDFA, Android ID) and IP address
+• Protected Characteristics: Age and gender
+• Commercial Information: Purchase and usage history and preferences, including gameplay information
+• Billing Information: Payment information (credit / debit card information) and shipping address
+• Internet / Electronic Activity: Web / app browsing and gameplay information related to the Services; information about your online interaction(s) with the Services or our advertising; and details about the games and platforms you use and other information related to installed applications
+• Device and Usage Data: Device type, software and hardware details, language settings, browser type and version, operating system, and information about how users use and interact with the Services (e.g., content viewed, pages visited, clicks, scrolls)
+• Profile Inferences: Inferences made from your information and web activity to help create a personalized profile so we can identify goods and services that may be of interest
+• Audio / Visual Information: Account photos, images, and avatars, audio information via chat features and functionality, and gameplay recordings and video footage (such as when you participate in playtesting)
+• Sensitive Information: Precise location information (if you allow the Services to collect your location), account credentials (user name and password), and contents of communications via chat features and functionality.",0.6744635105133057,31,False
+409720,225426267,76561198843590892,"Wanted to play it after enjoying BioShock 1 but man oh man this game is THE big daddy of crashes. Not only it crashes often, but also it loses current mission progress completely. Makes you to do it all over again. No thanks.",0.6737518310546875,12,False
+409720,156252896,76561199513900251,"This game is just awesome. It's a nostalgic classic that I'll never forget. Yes, it's quite buggy which can be a nuisance. The reason for the negative review is 2K's decision to add a reduced quality of life update, which is a launcher that delays game startup. Nobody asked for this, especially for older games that could use bug fixes more than anything else.",0.673405647277832,15,False
+409720,166239987,76561198007400765,"I want to be clear, the story, the gameplay, everything in this game is fantastic. I never played the OGs so I cannot comment on the differences of this remaster.
+
+However, what really killed this experience for me is the consistent, and I mean CONSISTENT crashes. Every 10-15 min it seemed for me. I tried just about every single troubleshooting step to resolve this, but none of them nor any combination of them seem to have any long-lasting effect.
+
+If that doesn't bother you, then buy the game because it was very good. If you require stability in your video games, maybe play the OG.",0.6726076006889343,14,False
+409720,203852735,76561198874453460,"Doesn't autosave and regularly crashes, remember to save every 5 minutes. not a great remaster",0.672340452671051,12,False
+409720,102697818,76561198160543205,"[h1]Improved Bioshock 1[/h1]
+[u]6/10[/u]
+I liked it more then the first Bioshock if I have to be honest. Despite of all the constant crashes and bugs, I enjoyed Bioshock 2 more. Compared to the first game, Bioshock 2 has a much better gameplay but as you can expect, the story is not as good as in Bioshock 1.",0.6705259084701538,13,True
+409720,123888908,76561198019726477,"Cant recommend any game where their ""Quality of life"" update decrease the quality by forcing a third-party launcher.",0.7191599607467651,36,False
+409720,47195435,76561198007683726,"I played the ""non-remastered"" version many years ago (back when it was still packed with Games With Windows), on a laptop : great experience, wonderful game, just as great as Bioshock 1... 
+Playing this Remastered with a desktop machine with i5 and GTX1060. Crashes over crashes. I tried to edit config files, adjust some settings, still crashes... Then I couldn't save the game anymore. ANd now game can't start past the intro... Such a shame, because the game itself is amazing... But how can you enjoy a game with so many crashes...
+
+EDIT: 
+I can't confirm at 100% but many crashes seem to be due to a broken checkpoint/saving system: 
+- lot of crashes in front of Vita Chambers 
+- sometimes (after a crash?) a 0kb file is created in Saves Folder, which prevent previous checkpoint to be loaded, therefore game crashes. 
+- when using save files from B2 remastered in normal B2 : game crashes. 
+
+Things that might help: 
+- do NOT use quick (F11) saves, but ""manual"" saves (via menu). 
+- play in Windowed mode, with a lower screen resolution (for ex 1680 x 1024), not fullscreen. 
+- enable VSync. 
+- add ""-dx9"" to launch menu (force the DirectX 9 version)",0.7679229378700256,26,False
+409720,172278485,76561199442512814,"Bioshock 2 could have been as outstanding as the first game, but the developers were so focused on not ruining the original that it ended up falling short. The plot is flat, feels too artificial, even though the creators put in a lot of effort. The combat and plasmids haven't evolved since the first game, and the sense of oppressive claustrophobia is gone. Still, it's a great game in its own right. For me, it feels more like a DLC or a rough draft rather than a true sequel. Bioshock 1 and Infinite are masterpieces. This one is just good. The water physics are marvelous here. 7.5 out of 10.",0.6677637696266174,11,True
+409720,172902332,76561197970609778,"A worthy successor to the original, and a classic in its own right. Despite the many crashes I had, the story and gameplay pushed me on. The protector trials were a nice addition as well!",0.6666785478591919,14,True
+409720,66983648,76561198069879746,"Absolutely love the game, it is a little hard at times but overall I enjoyed what I played, that is when I could play it. The game can barely go 5 minutes without crashing, mostly when there is a fight happening but occasionally just walking around can trigger a crash, it got to the point where I would put a five minute timer on my phone and every time it would go off I would save the game just so I wouldn't lose much progress, and even then there would be times where the game couldn't go from one crash to five minutes later. I have looked up solutions and the only ones I have seen involve messing with the actual game file codes. I really wanted to finish the game but I can not deal with having to restart every fight.",0.713556170463562,24,False
+409720,187759808,76561198117615543,"They remastered my childhood trauma, and it still hits just as hard. Now with better graphics, smoother gameplay, and the same emotional damage. 10/10 would cry in Rapture again.",0.6625880599021912,10,True
+409720,167324094,76561198100161390,90mins of gameplay and now it crashes every 2 mins. Please fix your game!!!,0.7124386429786682,21,False
+409720,228696830,76561199532772130,"i love this game but it is unplayable , crashes every time to the point that i had to save like every 3-5 mins 
+, lost hours of progress due to a glitch , worst gaming experience i have ever had",0.6621308922767639,16,False
+409720,117394028,76561197994972869,"This game was an amazing when it was released and it still is. The remastered version looks great too but, and this why I don't recommend it, it crashes quite often which is infuriating because the autosave function doesn't work. If you can remember to manually save every few minutes especially at crucial moments then play it. There is some kind of basic incompatibility between the game and Windows which is obviously never going to be fixed. It throws the same error code every time and all the 'fixes' on the internet don't work. It's very sad because it's a classic game that sprang from the mind of a brilliant, but unstable, game developer. We're unlikely to see something this imaginative ever again.",0.6614850759506226,12,False
+409720,235693344,76561198116309237,"Bioshock 2 Remastered is a great example of how to port games to Switch. In 2010, I missed this beautiful game in my time and am very glad that I was able to get to know it thanks to the remastered version. 
+
+The first part of Bioshock is one of the best games of its generation, the poet I did not expect much from the sequel, knowing in advance that Ken Levin had nothing to do with it. But Bioshock 2 is better in almost all aspects, except for a few tedious gameplay mechanics with little sisters. 
+
+Yes, the plot is simpler here, there are no plot twists. But the characters are spelled out much better in the script than in the original. 
+
+
+BioShock 2 Remastered (PC) refines combat and offers a compelling new narrative, praised for its engaging gameplay and emotional storytelling.
+
+- Gameplay & Combat: Dual-wield weapons and plasmids simultaneously. Play as Subject Delta with a drill and rivet gun. Streamlined, real-time hacking.
+- Story & Atmosphere: Personal quest to rescue Little Sister Eleanor. Moral choices directly influence Eleanor's fate and the ending. Rapture remains atmospheric but grimmer.
+
+Personally, I liked Bioshock 2 even more than the first part. Although it is no longer so visually impressive. I would suggest playing it 7.5/10",0.6613896489143372,13,True
+409720,80751989,76561197995202272,"The game is great. But it crashes every 10 minutes or so. Unbelievable.
+
+Game is good. Minerva is one of the best DLCs ever. In fact- the game worked well for both Trials and Minerva- it was the main game that was sometimes crashing every few minutes At times I would get back in, only for it to crash mere seconds later. Original was unstable, but it was easy to fix. This one was a nightmare.",0.6608671545982361,15,False
+409720,32276012,76561198043693378,"Great game, very underrated. It's my favorite in the series. It has a very emotional story and the best gameplay over the three games. But the Remaster crashed a lot of times in my playthroughs.",0.7091279625892639,15,True
+409720,199712792,76561198044346545,"Apparently, the game will randomly crash and has not been fixed. Still a good game, but just remember to save",0.6590296030044556,11,False
+409720,134348888,76561199035995434,"*Playing this on my Steam Deck*
+
+Don't get me wrong, I do love the first Bioshock, but out of the two this one is the BEST! The graphics are so beautiful, I love being a big daddy, and the hacking system is so much easier and more enjoyable. It works very well on the Steam Deck and will be playing this over again for the 3rd time.",0.6587478518486023,14,True
+409720,32753833,76561198089574345,"This review is for the Remastered version of the game, not the original.
+
+I really like this game, great story, better combat mechanics than Bioshock 1, etc, but I can't recommend this version, I managed to finish the game, but this version crashes A LOT, that's why I'm not recommending this remastered version, the Bioshock 1 remastered was almost flawless, but this on the other hand is almost unplayable, when it doesn't chrash it micro-stutters like hell (I have a 980 ti so I discard this as hardware related)...",0.7070409059524536,27,False
+409720,129810425,76561198076611709,"Excellent game. Maybe the best in the series.
+Unfortunately, 2K decided to integrate their useless launcher into the game and now the game crashes randomly even on top-tier rigs.
+
+Don't buy this as it is right now. And if you do, make sure to manually save every 10 minutes or so",0.656993567943573,15,False
+409720,108834247,76561198098544641,"The second game of the Bioshock saga and a really good one at that, as good as the first! With a new storyline and some new characters, you dive back into Rapture, this time as a Big Daddy! Music and artstyle don't change much, which isn't bad at all, and the gameplay adds just a little bit of new stuff but nothing too far from the original
+
+The story has some twists like the first one, and it was really nice to experience. Overall a really good game, and I recommend picking it up with the Bioshock bundle since it has some awesome discounts from time to time! I did have a bad time with crashes, which happened at least twice per session (there are a lot of threads about the crashes, but I couldn't find a solution). I still enoyed it quite a lot, but if that's a big no for you then you've been warned!",0.6568301916122437,10,True
+409720,205818731,76561198079527010,The crashes ruin an otherwise great game. God forbid more than 5 enemies are on screen at one time.,0.6529272198677063,15,False
+409720,39105594,76561198023716920,"[b]Avoid this game like the plague, because it is broken beyond belief![/b]  
+Here is a brief rundown:
+
+Kill a Big Daddy = [b]Bioshock 2 remaster crashes![/b]
+Extract Adam = [b]Bioshock 2 remaster crashes![/b]
+Kill a Big Sister = [b]Bioshock 2 remaster crashes![/b]
+Save a Little Sister = [b]Bioshock 2 remaster crashes![/b]
+Open a Door = [b]Bioshock 2 remaster crashes![/b]
+Flip a Switch = [b]Bioshock 2 remaster crashes![/b]
+Fire a weapon = [b]Bioshock 2 remaster crashes![/b]
+Walk a few steps = [b]Bioshock 2 remaster crashes![/b]
+Save your game = [b]Bioshock 2 remaster crashes![/b]
+Load a savegame = [b]Bioshock 2 remaster crashes![/b]
+
+[b]Crash, Crash, Crash, Crash, Crash, and Crash again![/b]  That's all this pathetic excuse of a broken game does consistently!
+
+I can not recommend this game because it is completely broken, it is nothing more than a Crash Simulator and a cash grab, the only update in 12 months failed to fix any of the problems and instead only added Simplified Chinese language, so this broken mess of a game can be sold to another country in a blatant effort to grab more cash, by offloading a broken product to another  country with a large population. [b]MONEY, MONEY, MONEY, MONEY, MONEY, MONEY![/b] 
+
+Selling this game is a clear and present violation of Fair Trading laws in many countries.  It isn't legal to sell a broken product.
+
+This game really should be pulled from the Steam Store [i](like Arkham Knight was)[/i],  because of it's completely broken state and complete publisher apathy in fixing the mess that is Bioshock 2 [i]""Remaster""[/i].
+
+If you don't own this, [b]STAY AWAY![/b] 
+Get the Console version instead.   The Console version works, as it is the only reason they re-released this blatant cash grab in the first place, to pick the pockets of the PS4/XBONE crowd.
+
+I reported this game as ""Broken"" via the report function of the Steam Store page.  Hopefully, others also affected by the plethora of crash issues do the same so Valve can take action and force the devs/publisher to fix this game by removing it from sale in the Steam Store until it's fixed.",0.7029154300689697,40,False
+409720,175402508,76561198138872133,"Game CRASHES CONSTANTLY - Loses all previous saves and starts at an earlier point - If you like playing the same instant over and over and over again without progressing, then this is the GAME FOR YOU.",0.648589015007019,11,False
+409720,106279158,76561198009596335,"I still don't understand why this game is on the marketplace. All it does is crash crash crash. Four years, not a single patch but then again...it's 2k, heaven forbid they actually support their products. I've tried to play this game on four separate computers and they all crash.
+
+**EDIT** Finally after a few attempts I finished the game. Of course, there were many crashes which tacked on extra hours of gameplay because the checkpoint system sucks in this game.",0.6484703421592712,36,False
+409720,215391124,76561199825209458,"great game. love the series, well the first two anyway. however this game has a MAJOR issue with crashing, and if you happen to be saving when it has a random seizure and crashes, it will delete your save file and you'll just have the autosave from when you first entered the level",0.6479149460792542,9,False
+409720,158554139,76561198975928717,"Pros: You get to be a Big Daddy. Duel-wielding plasmids was added, and the dreadful hacking minigame from Bioshock 1 got streamlined. They even give you auto-hack darts. Overall gameplay was far smoother and more enjoyable than 1 in every regard.
+
+Cons: Less SOVL. In Bioshock, you don't see McDonagh or Dr Suchong, but you can feel their presence through environmental storytelling and audio logs. But in 2, most of the important side characters just speak to you directly (thru radio), and the level design is less focused on storytelling than it is gameplay. While this provides for a more straightforward ""immersive sim"" experience with fewer breaks in the action, it makes me miss the design of 1, where every corridor is designed to have a scare around the corner or a twist in the story. In 2, the number of empty corners and dead ends has increased.
+
+VERDICT: Bioshock 2 is HIGHLY RECOMMENDED for anyone who liked Bioshock 1. Then why the negative review? Because this version of the game is janked to hell. I recorded at least 21 CTDs over ~10 hrs. The only real update the Steam version has received since release is a forced 2K Launcher. So if you're 40 minutes deep into a level and crash, you have to first launch 2K's Launcher from Steam before launching the game from 2K. Don't get this version for God's sake. If you do, remember to quicksave often.",0.6467294096946716,20,False
+409720,114035652,76561198197520214,"The absolute horrible state of random crashes in this game almost completely ruined the experience for me. Great game, awful, awful port.",0.6464839577674866,14,False
+409720,108812883,76561197973342102,"I actually would like to recommend this game for its incredible story and unique atmosphere, but I can't. It crashed a lot (remastered, Carl!) and I eventually came to the point I could not progress further, as game crashed every time I tried to move on or save. No progress and no new save for me. Thats all, folks :)",0.6454162001609802,11,False
+409720,208409973,76561199790844599,"A 10/10 shooter.
+Bioshock 2 may not match its predecessor in terms of story, atmosphere, art design or that spooky factor, but definitely provides a much more fast paced and refined combat.
+The Minerva DLC was what I expected from the base game. That plot twist and sadistic nature of npcs/antagonists.
+We do not get games like this anymore. Honestly years later, the gameplay and graphics still hold up.
+If you want to play something from the previous generation without sacrificing comfort of modern games, this is for you.",0.6452921032905579,9,True
+409720,232638066,76561198336526273,"Worked fine on the steam machine and with the steam controller, however there was at least two crashes I experienced so as always remember to save often.
+
+Short version: 7.3/10, loved the water, Dionysus Park was my favorite area. Would say its ironic that the movies plan for this series haven't been fully developed, people would enjoy the story and the connection between Delta and Eleanor.
+
+Achievementwise - 15-30 hours to 100%. Its doable would recommend two playthroughs First one easy for the story and collectables then the hardest. There is no new game plus so you start fresh everytime, but you can easy speedrun through it. The remastered doesn't have multiplayer achievements so keep this in mind on if you wanna play the og version or this one. There is one missable! The protector trails is a bit grindy so I say take a break before playing both dlcs, since both together is like 8-10 hours depends on the skill level you have during the trails. 
+ 
+Longer/word vomit version: Spoiler warning for both BioShock 1 and 2.
+
+Definitely an amazing sequel, since it stays in line with the first game. when you learn the behind the scenes during the development time, you will understand how neat it was that we even got an good game knowing there was different management involved.
+
+Storywise its pretty good nothing too crazy and still leaves you some ideas to ponder about. They right all in with the Little Sisters and Big Daddys plot, which was continue to get interesting. And while the level design of saving about three lil sis and then protecting them when they drain adam in every area was fun and a was smooth returning challenge from the bioshock 1, it gets old towards the end. Its also in both dlcs which doesn't help knowing it slows down the gameplay in some was. There are tonics to help speed this up which is a +1.
+
+ I will say Bioshock 2 is not as spooky as the first. Its not itll a bit before Dionysus park that the game brought back the sparkle. I for one was starting to get bored out of my mind, especially with how once again the ""boss"" battles are dull. For example I didn't register that I was fighting the preacher till the end of the fight because he look like every other splicer, since I was just speeding along to find the next audio log. 
+
+Side note I think the audio logs were done amazingly like , they gave you way more lore, in sight of the people's lives and all the downfalls Rapture experienced. A good example is how they finally example how the chambers worked in the first game adding to more connection between the two games.
+
+ Once Lamb floods the church area, the air of the game changes for good. One reason for me is that it brought back the wonder and awe in how Andrew Ryan was able to not only think of how to build rapture but how he convinced all these different and smart minded people into living there and to continue alot of their life's works there too. 
+
+  Visually this part is cool and yes its because of the water dynamics and the use of it to keep the story moving on. The fact that knowing water doesn't hurt our mc, but was still able to be use to created challenges shows how creative this game is. Keep in mind, the whole time we physically have control over Delta, he keeps his helmet and allows the UI to let us be emerge with how Daddys see the world through, and the design doesn't get in the way since it only borders slightly. Back to the flooding scene, I will say the screaming coming from the enemies, while the water raises and seeing a splicer on the ceiling actually panic with dialogue lines added so much to the scariness of the event. 
+
+The sound quality of Bioshock 2 is top tier if not one of the best in video games ever. Even underwater sessions are good, like you get to hear the suit clanking around and the difference in breathing by where you are. You also hear the clink sounds of when the water drops hit the suit.  With the loading screens you can sit there and listen to the songs fully play out before hitting the continue button, some songs fit in line with theme the area is suppose to be.
+
+Being a lil sister was neat since we get to see the world through their eyes and how the successful the scientist were to blocking out the cruelness of the reality so that the lil sisters stay working vs freaking out over what they were really doing. For example blood trails are changed to rose petal trails, and everywhere is ballroom, warmed lighted, and clean like. I will say I wish we could have seen more of the big sister transformations, even though its the same the Big daddy's. 
+
+Hacking is alot better in this game compare to the first, but I think bioshocks hacking mini was more in tune lookwise towards the world.
+Endings wise, pretty decent your choices matter. Seeing how Eleanor will treat Sofia Lamb base on your choices was neat. Kinda confused to why we was on the outside while they was in the inside but to does add to the whats happening factor. There are a few people who didn't get really mention leaving that open to imagination. Sinclair's ending while sad also didn't impact me since he didn't really do anything gamewise other than tell us what the next task is or in my case repeat the same dialogue the other npcs told me to do but I wanted to explore a bit more.
+
+Dlcs wise Minerva's Den is a great addition to the series lore and has a good ending towards its own story. The Protector Trials in I didn't care for since its just combat, however its decent for the people who just wants shoot stuff basically a little randomizer.",0.6447761058807373,9,True
+409720,88109455,76561198043838439,"I love the Bioshock franchise, it was my favorite game for many years. However, the remaster of Bioshock 2 (and its port to PC) needs a lot of work. I played through the Bioshock 1 remaster and I experienced maybe 4-5 crashes over the 11-13 hours that it took me to beat the game. I save often, so it wasn't a huge annoyance. I'm only a few hours into the Bioshock 2 remaster and I have experienced constant crashes, usually when interacting with vending machines, new plasmid pick-ups, pausing, and playing audio diaries. I save often, but these crashes have cost me 1-2 hours of productive gameplay as I have to replay the areas that weren't saved before the crash. Having 8 crashes in 4 hours of gameplay is ridiculous and sloppy for such a mainstream and popular game like Bioshock. Thousands of people have complained about this and I'm assuming nothing will be done to fix a port of an older game, but it's still annoying that I paid money for this terrible experience. Save every 10 minutes and you'll probably be fine.
+
+Edit: I have experienced 6 crashes in the same area; the theater in Dionysus. This is ridiculous.",0.6440309286117554,14,False
+409720,229729212,76561199083611342,"This was a really good game. ""Exactly how good is it?"" you're probably wondering. 
+
+... Well, it's good enough that I was willing to finish it and leave a positive review even though the game crashed about every five minutes. 
+
+Exaggerations aside, the game crashed about 15-20 times during my playthrough. I learned to save every few minutes, but still had to redo several sections. I was surprised since the first game ran perfectly, but this one was a mess. If I hadn't been enjoying it so much between the crashes, I would have given it up long before the ending.
+
+Anyway, other than performance, it's a great game. It's very similar to the first one, so anyone who appreciates the first will enjoy the second. There are a few small tweaks that I appreciated, such as hacking being less tedious and just having general slots for non-plasma powers, as opposed to the different categories seen in the first game. This series also does environment and settings very well. I love the level designs, the different secrets and routes to discover, and the pieces of lore along the way.
+
+I still recommend this game, but if frequent crashes aren't your thing, it might be worth checking out the non-remastered version. Not sure if that one runs better.",0.6435185074806213,10,True
+409720,106929902,76561198350559948,It is a beautiful but strange world. Fascinating environment with elegant music that is mysterious lovely children that is under external control dramatic plot and touching ending depict a unprecedented world in the game of bioshock.,0.642421305179596,11,True

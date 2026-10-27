@@ -1,0 +1,776 @@
+appid,recommendationid,author_id,review,weighted_vote_score,votes_up,voted_up
+22370,162953891,76561198272341170,"Amazing game, but wouldn't recommend buying it alone. For the best experience, get this and New Vegas Ultimate Edition and then install the Tale of Two Wastelands mod. This will allow you to experience everything this game has to offer but on an updated version of the same engine. Trust me, it's worth it.",0.9531716704368591,622,True
+22370,97610937,76561198205359004,"[b]Notice:[/b] Fallout 3 is not optimized for Windows 7 and later.
+
+[h1]THE ONLY WINDOWS 10 FIX THAT WORKED FOR ME:[/h1]
+
+[b]1.[/b] You need to download [u]""Intel HD graphics Bypass package""[/u] over at Nexus.
+The the [u]""dll""[/u] goes into the game's install folder and the [u]""ini""[/u] goes into [u]""Documents / My Games / Fallout 3""[/u]
+
+[b]2.[/b] You need to download [u]""Games for Windows LIVE Disabler""[/u] over at Nexus.
+Drop the [u]""exe""[/u] into the game's install folder and run it, selecting [u]""Disable G4WL""[/u] and [u]""Move DLCs"".[/u]",0.9479345679283142,413,True
+22370,34401860,76561198158401851,"How to optimize fallout 3 for windows 7, 8, 8.1, and 10
+
+Step 1: Run as Administartor
+     Go to your Fallout 3 install folder within Steam. 
+     Default location: C:\Program Files (x86)\Steam\steamapps\common\Fallout 3 goty.
+     Right click the Fallout 3 application file and select Properties.
+     Select the Compatibility tab and tick the Run this program as an administrator box.
+
+Step 2: Run fallout 3 in compatibility mode
+     Go to your Fallout 3 install folder within Steam. 
+     Default location: C:\Program Files (x86)\Steam\steamapps\common\Fallout 3 goty.
+     Right click the Fallout 3 application file and select Properties.
+     Select the Compatibility Tab and check the box that says Run this program in compatibility mode for:.  
+     Check the drop down box and troubleshoot with different Windows versions.
+     Optionally, you can try compatibility with Windows XP SP3 .
+     Click Apply and OK
+
+Step 3: Edit your Fallout.ini file
+     Open your My Documents folder.
+     Under My Games, open the Fallout 3 folder and select the fallout.ini file.
+     In the fallout.ini file, find the following line: bUseThreadedAI=0.
+     Change this line to read: bUseThreadedAI=1.
+     Add another line after it that reads: iNumHWThreads=2.
+     Run the game.
+
+A pain in the ass to fix, but ultimatly a very good game 8.5/10",0.9442983865737915,599,True
+22370,90790952,76561197999999359,"Fantastic game with a wonderfully in-depth modding community... but you'll need to jump through a few minor hoops to make it work on Windows 10.
+
+1. Copy the 'Fallout_default.ini' file from ""Steam\steamapps\common\Fallout 3 goty"" and paste it in ""Documents\My Games\Fallout3"".
+
+2. Rename ""Fallout_default.ini"" ""Fallout.ini""
+
+3. Download ""Games for Windows LIVE Disabler"" on Nexus Mods ( https://www.nexusmods.com/fallout3/mods/1086 ).
+
+4. Extract the executable file and run it in ""Steam\steamapps\common\Fallout 3 goty"".
+
+5. Play Fallout 3.
+
+This method worked for me and will hopefully work for other people as well.",0.9162386655807495,289,True
+22370,14141656,76561198030890717,"Note: ""hours played"" is not shown correctly, since I played on windows 8. And therefor had to make som alterations to make this game work.
+
+If you play on windows 8: 
+1) when you start the launcher, pick tech support and search for Windows 8. Follow all the steps as it is mention in support page. Yo can also just search for it in your browser.
+2) If you now start the game, and get error ""Ordinal 42 could not be located"" you have to download some extra files. Steamcommunity has an great guide for it. https://steamcommunity.com/app/22370/discussions/0/864961175577058035/
+
+I've played this game many times on both pc and ps3 since it's release in 2008. And bought this game on steam for nostalgic reasons. When it comes to RPGs this is one of my favorites of all time. And Fallout3 also has the best dlc packs I've ever seen for a game. 
+
+This game is highly recommended :)",0.9649253487586975,759,True
+22370,79122447,76561198405322478,"Why does Steam even sell this game anymore? Without Windows Live, I feel like most people just purchase Fallout 3 GOTY and understandably expect it to work. A lot of those people are pretty disappointed when the game fails to launch in 9 out of 10 cases.
+
+Fix the game or don't offer it for sale, Valve. Kind of outrageous that you're selling a product under the premise that when the buyer launches FO3, it will play as marketed, when there's been a glaring issue in its launchability for many years now. No one told me that I would have to sink a metric fuckton of hours into trying to get it to work with only COMMUNITY-GENERATED DEBUGGING GUIDES for reference before I can even enjoy my game. If I knew this going in, I would never have bought this product. Had this crap for a year and it still doesn't work.
+
+Fix the game, write a official guide telling us what we need to do to make it work, or take it off your store, Valve. Selling a broken game to people is bad business.",0.89698326587677,277,False
+22370,83088150,76561197997934524,"Getting this game to work properly on Windows 10 is akin to Advanced String Theory. You have to install Games For Windows Live just so you can disable it again (the GOG version apparantly fixes this), then get the ""Updated Unofficial Fallout 3 Patch"" which itself points you to 4 other fanmade patches you have to install first, and then you have to install the update for the patch, along with something called DSOAL to get the radio music to play right and another patch just so you can alt-tab out of the game. I wouldn't fault someone for looking at the game's PCgamingwiki page and throwing their hands up in confusion, but I promise if you stick with it this is one of the best open world games ever made...
+
+I've been pretty burnt out on Open World games lately. Every time I look at one I feel like I've played it already, but I've had an urge to come back to Fallout 3 and after spending the week on it it I think I've realized it's not open world games that are the problem so much as it is [i]bad[/i], paint-by numbers open-world games with no substance. The thing that's struck me the most revisiting Fallout 3 is that nothing feels like filler. Where other games treat their world as a backdrop for a series of samey shootouts, Fallout 3 is a living, breathing world that you can actually [i]explore[/i]. In most games, buildings are just props to drive by, but in Fallout 3 you can enter almost every building you see, and you'll always find something interesting, be it loot, enemies, or even a little story that plays out independent of any quests. If you see something interesting in the distance, you can go there and there's something waiting for you.
+
+Best embodying this ""no-filler"" philosophy is are the quests and side-quests. I recently played both Batman: Arkham Origns and Ubisoft's The Division, and the side-quests in those games amounted to ""go here on the map, fight 2 or 3 guys"". They're enjoyable in their way, but there's no depth to them. Every side-mission in Fallout 3 on the other hand, is a [i]story[/i]. You'll meet characters, go to unique locations, and actually engage with what you're doing.  Each mission is unique and it's refreshing to play a game where the quests actually had some thought and craftsmanship instead of the literal copy-and-paste game design that's become the lead standard for this genre. My least favorite thing about open world games is the prevalence of collectibles as the main side-mission and Fallout 3 doesn't waste your time on that nonsense. While the game does have collectable bobbleheads that boost your stats, it never even tells you about them and they're treated more like an easter egg than anything else, and unlike most games you actually have to search for them and strategize if you should even get them now or wait for later.
+
+The high engagement with exploration and interaction also makes the world feel alive. Fallout 3 doesn't really hand you anything but instead places a series breadcrumbs for you to pick up on. You might see a scuffle playing out and meet a new faction naturally rather than the game introducing them through some big cutscene. Sometimes people just say things or you'll hear something on the radio and might go check it out. It can be a bit to keep track of, but it's immersive and makes you feel like a small part of a living, breathing world. While the graphics aren't the best on a technical level, the the Capitol Wasteland is [i]evocative[/i]. It probably helps that I live close to Washington DC and I love seeing something familiar to me, but this is really one of the best environments in a game. Washington looks properly [i]brutal[/i] and wandering around at night surrounded by monsters with 30's Jazz standards blaring is an eerie, atmospheric experience. There are plenty of little settlements with a lot of life in them, but you always get the sense that they're little pockets of safety holding the world at bay rather than anything thriving, even if the inhabitants are doing comparatibely well.
+
+None of that worldbuilding would matter if the game itself wasn't fun. While the gunplay can certainly be clunky in places, and you'll definitely see something weird even with the bugfixes, it's a blast leveling up and grinding enemies into a fine paste and I truly enjoy the combat. I always focus on guns early on and while the early game is challenging, it's also fair. Fallout 3 has kind of a reverse difficulty curve where you become much better at killing common enemies, but the power trip is part of the fun and each level gives you a really tangible increase in your abilities. They also start throwing some stronger enemies in the mix, so there's always a challenge if you look for it it regardless of how powerful you are.
+
+While some may prioritize Fallout New Vegas over Fallout 3 due to having a bigger world, some additional gameplay features, and a stronger overarching plot, 3 is an excellent game with a ton of depth and I feel like it has a bleaker, more desolate vision of apocalypse that really resonates with me. The base game here is huge, and there's a ton more to get out of DLC. The 75 hours on this review isn't even close to the real time I've spent on Fallout 3, as I played a lot before steam even tracked time and you have to launch the game through a mod-loader to use the fix patch which doesn't track time. It does take effort to get everything up-and-running but the payoff is one of the richest and most satisfying games of its genre.",0.8915888667106628,109,True
+22370,216239557,76561198028642172,good game get it along with new vegas and use the tale of two wastlands mod to play both games at once,0.8889528512954712,146,True
+22370,107707563,76561197981205815,"Great game just make sure you do this fix to run it. Got this from a community guide posted by FinnishSpirit.
+
+- (type setting in windows search) Go to Settings->System->Display->Graphics settings
+
+-Then click Browse and select Windows->Program Files (x86)->Steam->steamapps->common->Fallout 3 goty->Fallout3.exe
+
+Once you selected Fallout3.exe it should appear under the ""Browse"" button, click it and then choose options under it. Select High performance and save
+
+-Then click Browse again and choose Windows->Program Files (x86)->Steam->steamapps->common->Fallout 3 goty->FalloutLauncherSteam.exe
+Select High performance and save 
+
+Launch the game in steam",0.8839893937110901,130,True
+22370,163120478,76561199228916765,"If the game immediately crashes after clicking ""play"" in launcher or running Fallout3.exe from steam directory try this (worked for Win 11 and Nvidia gpu).
+
+Check in the launcher options which graphic adapter it is using. In my case, cpu integrated graphics was selected by default & nvidia gpu wasn't even displayed. If so, go to Settings > Display > Graphics , under ""Custom options for apps"" click Browse and navigate to game's folder. The default is:   C:\Program Files (x86)\Steam\steamapps\common\Fallout 3 goty. Then add Fallout3.exe and FalloutLauncherSteam.exe. When they're added, for both of them click Options and set graphic preference to ""High Performance"".
+
+Alternatively, this can also be done from Nvidia Control Panel. Click Manage 3D settings, then Program settings tab, select fallout3 from the list and choose ""High performance Nvidia processor"".",0.8837469816207886,135,True
+22370,32163717,76561198058480334,"The Game itself: 9/10.  
+
+Steam version: 0/10
+
+This isn't a review of the game but rather a review of the version you are getting from Steam.  This game has not been updated and optimized from anything but Windows XP.  Anyone with a moderately modern PC that is running the game on window 8, 8.1 or 10 will have stability issues with this game.  To put it simply it will CRASH... a lot.  This is unacceptable.  This game would CTD on me randomly anywhere from 3 minutes to an hour after starting the game.  The game would also feel more stable when in interior spaces but when traveling the outside world it would crash frequently.  It was brutal.
+
+This game has just been released on GOG.com, DRM free and has been updated for windows 8, 8.1 and 10.  Not only does the version on GOG play friendly and run more stable on modern PC's, but it also comes with Windows Live disabled out of the box, so there is no need to find and install workarounds to get the game to run on your PC.  It just works.
+
+If you don't know who GOG is, Good Old Games is a legitimate service, owned by the makers of the Witcher games, CDProject Red.  GOG simply rules!
+
+I will consider changing my recommendation on this game after Steam updates the game with something more stable and friendly with modern PC's.  Until then, I will not recommend this version of the game to anyone.  Get the GOG version instead.",0.8832789063453674,609,False
+22370,12613078,76561198116783188,"Hands down, my favourite game of all time. Don't let my Steam fool you, I have poured easily over 1000 (offline) hours into this awesome game, and it has been absolutely worth every second. The pure immersion I felt playing this is a feeling I've not experienced with any other game.
+
+It doesn't want to set the world on fire.
+It just wants to start a flame in your heart.
+
+1000/10",0.9329062104225159,540,True
+22370,77900825,76561198054682351,"You're better off buying this game on GOG.com. They fixed the memory leak. The game itself, is fantastic. Magnificent world to explore, plenty of choices that actually matter. Fun DLC to enjoy.",0.8713807463645935,117,True
+22370,25935004,76561198013229661,"How to get FO3 working on Windows 10. 
+This worked for me (AMD FX-8350, Nvidia GTX780),  so I´ll share it with you.
+
+1. Download Games for Windows LIVE Disabler
+http://www.nexusmods.com/fallout3/mods/1086/?
+Just open the exe and select Disable G4WL.
+
+2. Go to C:\users\yourname\Documents\My Games\Fallout3\FALLOUT.ini
+Open the file with Notepad
+Find bUseThreadedAI=0 and change it to bUseThreadedAI=1, immediately below it add a line with iNumHWThreads=2
+
+This should be enough for most of you.
+ 
+3. If the game crashes at a new game, download this modified d3d9.dll.
+https://drive.google.com/open?id=0B4rlGqEs-BxtcWdEdlh0TDM1Skk
+Go to C:\Program Files (x86)\Steam\steamapps\common\Fallout 3 goty\ and paste it there.
+
+This dll makes FO3 think that you have a Nvidia 7900GS, so your graphic settings will be reset. Just adjust them to your liking again, most modern GPUs can run perfectly with the Ultra preset.
+
+Don´t forget to enable all the data files in the launcher. For some reason, the DLCs come disabled by default.
+
+Some screenshots:
+
+http://steamcommunity.com/sharedfiles/filedetails/?id=777450111
+
+http://steamcommunity.com/sharedfiles/filedetails/?id=777450212
+
+Enjoy this classic on your Win10 setup.",0.9210198521614075,148,True
+22370,50382298,76561197993531965,"Great game. Get it. BUT DO THIS:
+
+Make sure you do the following (Edit 2021.10.23 for ver 1.7.0.4.):
+1. your document folder and game folder are NOT ""read only"" because... windows...
+2. Launcher exe (PROPERTIES) - run as admin
+3. Fallout 3 exe (PROPERTIES) - run as admin
+4. GECK exe (PROPERTIES) -  run as admin
+
+Game should run perfectly now on windows 7 and later (mostly thanks to new update 1.7.0.4, but the trade-off is that the community mods need to catch up to the new executable (silverlock))
+
+NOW: on with the review. Great ****ing game. I love it. Still play it. Wiffle batting gets annoying pretty fast but it's workable if you skill properly and choose your weapons carefully. Story is good, takes a while to beat so it's not quick or short like most games are anymore. There's plenty to do, tons of side quests, lots of good DLC in the GOTY. The voice acting is all really good and for it's age it's not bad looking either. Get it. Play it. You'll love it.",0.9194018840789795,219,True
+22370,94353714,76561197971019432,"To anyone having issues with running the game please take a look at this guide
+It helped me and will most certainly help anyone else on a windows 10 operating system
+https://www.youtube.com/watch?v=TRcWH0CUjfw",0.9135466814041138,167,True
+22370,117753376,76561198825997542,"The game is good but makes you do mental gymnastics just to be able to play 1.7.0.4 thankfully youtube had a simple fix, Hope this helps. https://www.youtube.com/watch?v=RDTViZGRhJo&t=18s",0.8622406125068665,65,True
+22370,55703714,76561198039679458,"""fAlLoUt 3 iS NoT OpTiMiZeD FoR WiNdOwS 7 AnD LaTeR."" - Bethesda Game Studios
+
+Still sells it on platform that isn't compatible with XP, still sells Fallout collection packs despite knowing this.
+I hope you like vista or fiddling with games to make them work...
+
+A real shame, as the game is great.",0.8616744875907898,363,False
+22370,80987341,76561198114804207,"They have fixed my one major issue with this game which is that it was next to impossible to get it running on modern tech. But as of editing the review, I do not know if they've updated the script extender, so you will still have to go through the headache of fixing Games for Windows Live if you want to play the game modded. For vanilla players though, enjoy.",0.8569260239601135,79,True
+22370,33693561,76561198257905891,"[h1]Fallout 3: Game of the Year Edition.[/h1]
+[i]When war changed.[/i]
+
+Note: This review is about the game's content, not the instability on Win 7+. These problems are mentioned, but not central to the review.
+
+Fallout 3 is a fantastic game, but also not quite what a Fallout game should be. It excels in the ways all [i]Bethesda[/i] games do; with its compelling open-world exploration, astute environmental storytelling, and immersive atmosphere, but falls short on several other marks. The roleplaying is just adequate, the characters are weak, and the writing of the main storyline is near-abysmal, despite all of these ""mehs"" and negatives being huge positives for the classic Fallout games and New Vegas. In the end Fo3 shakes out to be a remarkable experience, but I can't say I'm happy with where it lead this franchise.
+
+Fallout 3 was the first Fallout game to be set on the East Coast, taking place in the bombed out ruins of D.C. and its surrounding rural regions of Virginia and Maryland. The introduction slideshow does a good job of explaining to new-comers how the world became a nuclear hell-scape, and if you'd like, you can watch that [url=https://www.youtube.com/watch?v=iJcuAau2RKA]here.[/url] Otherwise, the opening stages are one big tutorial where your custom character is born and raised in a vault, which culminates in your father leaving said vault for unknown reasons, despite this being forbidden. You become a target of the tyrannical vault overseer due to this, and must escape to track down your father; this being your main quest.
+
+Now that you have a concept of what the main quest is about, I'll refrain from any spoilers, but state that the writing of it is flat-out awful. Each successive stage of the main quest railroads you along a linear path, and seems to be more about the story of your father and his past than the one you can craft for yourself in-game. Supporting characters always make the important decisions on what to do next, and only at the very end does any sort of player choice get involved. Many central plot details are even borrowed straight from Fallout 2, such as the presence of the G.E.C.K. and The Enclave, making the storyline unnecessarily unoriginal. The only conciliation is that the locations visited along this main quest-line are intriguing and fun to explore, but that hardly makes up for the terrible narrative. I'll talk more later about how the writing in the rest of the game is better, but I loathe the main quest.
+
+On a brighter note; though it's stripped down from how it used to be, the roleplaying in Fo3 is both functional and accessible. Skills and perks have been carried along from the classics to provide good character creation and progression; and little about your past and personality other than that you're a Vault Dweller is decided for you, so you're free to determine the majority of your characters story yourself. Roleplaying mechanics like the dialogue and karma systems aid this; dialogue being an extension of your personality and skills, and karma being a way to add consequences to your actions. The dialogue is a tad restrictive at times and the karma is too black and white in most circumstances, but overall the roleplaying systems and writing passes Fo3 as solid in the roleplaying department.
+
+The quests and characters of Fallout 3 generally lack the depth of the West Coast games, but do add a lot to your time in the Capital Wasteland regardless. Side quests often have multiple ways to be completed, and how they are played depends on your stats and who you're roleplaying as. Quality among them vary, but there are 4 or 5 stand-out side quests, and none are particularly unenjoyable. The characters you interact with throughout these quests are sadly one-dimensional however, with only a select few personas having any identifiable backstory or personality traits.
+
+One of the things Fallout 3 indisputably does best, is the design of its game world. The rural areas feel like a genuinely tattered wasteland, and the gothic architecture of downtown D.C. is overbearingly atmospheric and reminiscent of classic Fallout titles. Civilization and society itself is in a strangely tenuous state given 200 years has passed since the war, though this is probably to play up the more brazen post-apocalyptic theme. City hubs and trade caravans do still realistically dot the wastes though. Aesthetically and thematically, the world is very satisfying, resulting in some unparalleled exploration.
+
+Fallout 3's map is filled with interesting locations to explore; the vast majority of which have something special for you do, see, or in most cases, fight. Environmental storytelling has a strong foothold in many of these places, with unique tales often being conveyed to you through each given setting. Even when you aren't anywhere specific, simply tromping around the remains of the tristate area - with your pip-boy on blast to all of the best tunes of the 1940's and 50's - is supremely enjoyable. Needless to say, the exploration in Fo3 is its premier feature, and makes up for many of the games shortcomings.
+
+The combat you do while exploring, though full of variety and delightfully gratuitous in violence, is too clunky and dysfunctional not to harp on. The bullet spread of guns is ridiculously high, there are no iron sights, and the AI of all your enemies is laughably unintelligent. These drawbacks have become worse with time too, expect for maybe bullet spread, as V.A.T.S. - a gameplay mechanic allowing you to stop time and target specific body parts on your opponents - is a legitimate fighting alternative. Overall, the combat isn't too impressive though.
+
+You're probably already aware that Fallout 3 is a b*tch to get working on modern OS's, so I'd recommend clicking [url=https://steamcommunity.com/sharedfiles/filedetails/?id=149946772]here[/url] if you're on anything newer that Vista. Fo3 is a broadly unstable game anyway though, and I still get crashes every hour or two. The world is filled with minor bugs as well, but nothing too serious. In terms of frame rate however, the game is very smooth. All in all on the performance... it's a Bethesda game, that's for sure.
+
+This is a review for the GOTY version, so I should quickly mention the DLC. There are 5 expansions in total, 4 of which add new maps and quest-lines to explore and complete, while the remaining 1 offers several new quests, and the ability to play past the end of the awful main storyline. The full game is ~80-90 hours long, and each DLC provides about 3-6 hours of worthwhile content, though some are better than others. Mothership Zeta is my least favorite, and I like Point Lookout best, but this is subjective. I'd recommend getting them all in this edition, as each one complements the main game nicely.
+
+Bethesda games are well known for their modability, and for good reason. There are thousands of mods on the [url=http://www.nexusmods.com/fallout3/?]Fo3 Nexus,[/url] which can alter essentially every aspect of the game. A multitude of the more minor gameplay and performance issues I’ve addressed can be fixed with mods, so I’d absolutely endorse using them to fix any issues. Bringing modding to the franchise was definitely one of Fo3's biggest achievements.
+
+I know I've been disproportionately more negative about this game than I should have been, because I really do love Fallout 3. How I view the game comes down to priorities, and even though I prefer a Fallout game to be much more thoughtful, philosophical, and narrative-based, once I came to terms with the fact that that's not what Fo3 is, I was able to appreciate it for its better half; exploration, world, and atmosphere. It also helps that it retains some roleplaying expertise, as well as the true Fallout aesthetic; enough so that I still feel like I'm playing a Fallout game. And, I'd pity any mainline Fallout title that didn't make that effort...
+
+[h1]Personal Rating: 9/10 - Absolutely Outstanding[/h1]",0.8564533591270447,113,True
+22370,97021950,76561198025852228,"Game won't launch on a modern computer. Bethesda's ""fix"" does not work. Seems like the way to get the game to work is to download Games for Windows Live and get it to work as well as a third party fix. Please don't support this laziness that Bethesda seems to be content with.",0.8548182845115662,268,False
+22370,148731397,76561197970883509,"As of October 2023, this is utterly unplayable as is.
+
+Game requires xlive.dll, but it's not shipped with that DLL (and to add to the fun, the error message is suppressed when launched by the launcher).
+
+Then, the game crashes all the time in buildings, e.g. Megaton. This can be fixed by setting
+
+bUseThreadedAI=1
+iNumHWThreads=2
+
+in fallout.ini.
+
+I kinda expect Bethesda to make those (ultimately simple) fixes to the stock game. While the later might be hardware-dependent, there is no excuse for not shipping that DLL.",0.8512551784515381,186,False
+22370,163366666,76561198044602606,"Alright. [i]Fallout 3: Game of the Year Edition[/i] is done and dusted. I played this many times on console, but this was my first playthrough on PC. And for me, on an unmodded Steam Deck with the current version of Proton, and with no game mods, this ran immaculately. 
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=3224579396
+
+In fact, this may have been one of the best games I've played on the Deck performance wise. Which is crazy to me considering how often the game would freeze stutter and crash when I played it previously (on console). I had one instance of stuttering in Operation: Anchorage during the final push and another instance of stuttering in Mothership Zeta, but beyond that, I literally had zero stability issues and it ran at a consistent 60 FPS on maxed settings with an average of around 25% CPU usage. 
+
+It took me forever to get around to buying and playing this on Steam due to its widely reported compatibility issues, but thankfully, those were nonexistent for me. The home screen for some reason wasn't gamepad compatible, but everything else was and the default settings were fine.
+
+So, with that out of the way, I want to talk a bit about the experience itself. For one, this game still looks great. Does it show its age? Yes and no. Things like character models actually look better than they do in Skyrim and Fallout 4 for some reason. But they don't look modern of course. However, the world itself has aged very well. The audio is pretty legendary, and that will never change I'm sure.
+
+The gameplay also holds up to modern games quite well. Gunplay is fun and VATS never disappoints. Early to mid game, I would recommend keeping a Dart Gun on you. It makes fighting things like Deathclaws much easier, especially if you use it to target legs. Once you get the Gauss Rifle though, you won't need the Dart Gun or much else lol. It does great damage AND typically knocks enemies down as well. Nearly game breaking in its OP-ness, but it's also incredibly satisfying.
+
+Btw, special weapons aside, Deathclaws are still panic inducing and terrifying lol. They're the fastest, strongest and meanest things in the game, and they have a sixth sense for being able to find you. You could be forgiven if you scream like a child when one leaps at you.
+
+Exploring the DC Wasteland is quite memorable, and I went into this playthrough with a clear agenda for what I wanted to do and see outside of the main story. Given how well written a lot of the side quests are, there's a lot of good times to be had. 
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=3227056838
+
+As far as the DLC goes, I'd recommend doing [b]Operation: Anchorage[/b] first. It's the easiest, and although it lacks any nods to loot whores, the final payoff includes the other nearly game breaking piece of gear in the game: the Chinese Stealth Armor. Once you acquire that, the world is your oyster. Especially if you've leveled up your stealth. Takes maybe three hours to complete and is basically set up as a corridor shooter. If it weren't for the armor though, I'd probably skip this DLC.
+
+[b]The Pitt[/b] is probably the most heavily reliant on the morality system and the one with the largest grey area in that regard. The actual setting is cool and does feature the best melee weapon in the game should you be playing that way. You can roll through this in three to four hours, but it can also take longer depending on how thorough you are. Fairly easy overall.
+
+[b]Mothership Zeta[/b] is the quirkiest DLC. You get abducted by aliens, but you and some other abductees rebel and eventually take over the ship lol. Features some good weapons and some excellent healing/repair items. It's probably the funniest DLC and is moderately challenging. It's also the one that probably takes the longest to complete due to how confusing certain activities can be to complete. I probably spent around six hours here.
+
+[b]Point Lookout[/b] is the most difficult DLC, is at least partially inspired by Deliverance and Southern Comfort, has some good next tier versions of weapons you've probably been using a lot. It also has some cool story stuff, including an important item for concluding a Cthulhu story arc in the base game, and is also the largest DLC. You can definitely wrap up the quests in four to five hours, but you could also spend ten to fifteen hours running around seeing and looting everything.
+
+[b]Broken Steel[/b] is an endgame DLC, so once you've finished the main story, this one kicks off. I honestly wrapped this up in about two hours, maybe a bit less. But you could potentially get eight-ish hours out of it depending on how you handle certain situations and how much you explore and loot. Personally, I already had more ammo and healing stuff than I'd ever be able to use, so I took a more direct approach with this DLC. It does tie a bow on the Fallout 3 story, and is definitely worth experiencing.
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=3229333793
+
+So yeah, I was very glad to get one final playthrough in. It was still awesome in this age of gaming, and while not perfect, each individual aspect of this game holds up immaculately.
+
+[code]If you found this review helpful and would be interested in supporting my Curator group, [url=https://store.steampowered.com/curator/32549618/]Robilar's Reviews[/url], it would be appreciated. Cheers.[/code]",0.849900484085083,78,True
+22370,214067055,76561199004519682,"Even though it's well over a decade old, Fallout 3 is still a great game. It ran perfectly fine on Steam Deck, not a single crash, with no mods or fixes needed.",0.8429997563362122,58,True
+22370,89366565,76561197969162919,"The game itself is great, but you can't run this on Windows 10 without doing a lot of manual overrides. Until that is fixed I consider this game broken.",0.8426064252853394,125,False
+22370,13815056,76561198057739869,"Probably one of my favourite games of all time. Stepping out of the vault into the harsh sun drenched wasteland is a moment in my gaming history that I will never quite forget. The thrill of seeing this open world stretching off to the horizon, knowing that adventure awaited me, left me almost awe struck.
+
+The game itself is a totally open game where you can chose your own path in a Post Apocalyptic hell hole. Will you be a heroic saviour of mankind, or a vicious survivor who does what is needed to survive? It is completely up to you. On your way you will meet a mix of people, some evil, some less so, and others .. well let's just say the wasteland produces a lot of strange characters. 
+
+A great game, but made even greater by the modding community that has been built up around it. This is one of those games I highly recommend modding pretty much immediately. And if you have any worries about doing so, check out my tutorials for modding this game: https://www.youtube.com/watch?v=-SAeXsA6Nt8&index=5&list=PL77ECC4B6194E1685
+
+Be warned however that this game is old, and will need quite a lot of tweaking to get working on Windows 7 or later. If you also own Fallout: New Vegas, I would actually recommend using the Tales of Two Wastelands mod to play the Fallout 3 story using the Fallout: New Vegas engine, which is far more stable and works fine on Windows 7. 
+
+I have no tutorial on this mod yet, but when I do, I will update this review.
+
+IMPORTANT: I have played this game for several hundred hours, but not on this account, and most with certain mods installed that stop Steam from knowing that I was playing.",0.9399465322494507,1071,True
+22370,95151016,76561197969867825,"Do not buy this game off of Steam.
+Buy this on GOG.
+
+This is a good game, but it is non-functional off of Steam due to Games for Windows Live no longer being available.
+
+Sure, you can hunt around and troubleshoot solutions for a few hours as your will to play the darn thing saps out of you.
+....Or, you can just buy it off of GOG and it works ""out of the box"" with no mods necessary.
+
+Modding should be a fun side-thing to do for games. Mods should not be a necessary part of getting a game you purchased today to get working. I'll say it again: This is actively being sold, and it is completely broken on modern machines. This is unacceptable.
+
+Go buy it off of GOG.",0.8378896117210388,126,False
+22370,86018995,76561198120019742,"[h1][b]HOW TO RUN FO3 ON Win10 (WITHOUT MODS)[/b][/h1]
+Due to the age of the game, FO3 isn't optimised to run on modern PCs with Win10 - the 2 most pertinent issues being the game crashing on launch (after the launch screen) and the game randomly freezing during gameplay. Having initially been put off by the seemingly complex issues surrounding the game, I've since found the most straightfoward way to solve these recurring problems and hopefully get FO3 running for you.
+
+[b]1) Crash on Launch[/b]
+The solution is to simply download and install Games for Windows LIVE - however Microsoft has since removed the official GFWL download from their site. Luckily, the latest version was backed up on this site by PC Gaming Wiki: https://community.pcgamingwiki.com/files/file/1012-microsoft-games-for-windows-live/
+
+Install this, and you should be able to run FO3 no problem. (Note: if you want to take this a step further, you can then proceed to install GFWL disabler from NexusMods to remove the dependency on GFWL)
+
+[b]2) Game Randomly Freezes During Gameplay[/b]
+Essentially, no matter how many cores your PC may have, the game was only designed to utilise 2. Luckily, there is an extremely simple way to get around this by slightly modifying the FO3 .ini file.
+
+Step 1: Locate your FO3 .ini file (usually found in Documents -> My Games -> Fallout3; It's a Configuration settings file named ""Fallout"").
+
+Step 2: Open it up in Notepad and change the line [b]bUseThreadedAI=0[/b] to [b]bUseThreadedAI=1[/b].
+
+Step 3: Add the line [b]iNumHWThreads=2[/b] beneath it, then save the changes.
+
+Your game should no longer freeze randomly during gameplay.
+
+This may not be a fix-all for all issues in the game, but from what I've seen, it does fix the most common problems. Just thought I'd share it with everyone to save you guys the trouble. Great game otherwise!",0.9357483386993408,199,True
+22370,41617022,76561198155563897,"compatibility on windows 10 is fine with a few quick tweaks to your FALLOUT.ini file (C:\Users\USER\Documents\My Games\Fallout3)
+
+make these changes to the ini:
+
+bUseThreadedAI=1
+directly below the line you just edited add the line ""iNumHWThreads=2"" (without quotes of course)
+
+for me this completely fixed crashing during gameplay
+game still crashes when you try to alt + tab but what can you do
+",0.8847805261611938,89,True
+22370,122225418,76561198086394853,"One of the best games I have ever played. However, the all fixes to play for PC on the newer OS have all failed. Bethesda support is terrible. You are better off buying for console and playing. I don't recommend this on PC until the issue is properly fixed.",0.8318516612052917,188,False
+22370,93135466,76561198014986376,"As much as I loved this game, I find that ever since windows 10 came out, Fallout 3 has not functioned properly. Do not spend money on this game until it at least becomes a windows 10 compatible game.",0.8313971161842346,135,False
+22370,45438782,76561197993248333,"All-time classic. But do yourself two favors if you want this to work on Windows 10.
+
+1. Install GFWL (Windows 10 should ask this automatically, if not then download it from the Microsoft website and install).
+2. Get the Updated Unoffical Fallout 3 patch at Nexus Mods. This will fix the CTDs and various bugs.
+
+If you do that it's still one of the best FO games out there. Add mods to your own flavor.",0.8808947205543518,94,True
+22370,85377790,76561198051398270,"Game Fix to get it working:
+
+https://www.youtube.com/watch?v=omtXrSY0o50
+or search 
+Fallout 3 Fix Crashing on Windows 10, 8, 7 (WORKING 2020)
+on YouTube
+should be the top 3:12 or 3:11 minute video
+
+Great game
+",0.8802545070648193,147,True
+22370,236612204,76561198002007011,"game doesn't work, it just fails to launch completely.  I think if they are going to keep selling a game valve and bethesda have a responsibility to maintain it.",0.8275936245918274,72,False
+22370,160628904,76561197972639908,"Forgot I played this long time ago, most likely *torrented.
+Bought it and remembered it, but going to play it again. I played back then over 1000+ hours but didn't really do the main missions. 
+
+FO3 GOTY ed, I have not crashed on new hardware.
+7800x3d, updated Windows 11 Pro, nvme drives, 64GB RAM, RTX 4090 with latest GPU drivers.
+I haven't done anything weird, just install and play. That's it. I'm making these reviews because I read countless of people saying they crash on new hardware.
+
+*I haven't downloaded ""free""(torrent) games since I got a job over 15 years ago after college.",0.8263996839523315,132,True
+22370,97143744,76561198091053392,"Game no longer works. If you have Windows 10, stay away. I have spent 3+ hours downloading from sketchy websites, reading outdated tips for it to work. Some people can fix it, I can't, and honestly you shouldn't have to waste your time. Love Fallout 3, hate Bethesda for abandoning us.",0.8259727954864502,224,False
+22370,183504403,76561198056375785,tbh they shouldn't be allowed to keep selling this game on pc / steam if they aren't going to patch it to work on modern hardware,0.8240259289741516,114,False
+22370,77920549,76561197972251247,"Hey, Microsoft
+
+Since you bought Bethesda is it possible to do something they couldn't do for 11-12 years? Fixing the game on Steam/PC and adding achievements, thanks.
+
+Best Wishes
+
+CV
+
+23:23 12.10.2021 EDIT:
+
+I SAID ADD ACHIEVEMENTS, TODD.",0.8737895488739014,188,False
+22370,85398242,76561198105226719,Will not run on windows 10 without a lot of file editing and downloading zip files etc...Steam and Bethesda have known this for years but keep right on selling this trash unfixed and without warning.,0.8236315250396729,265,False
+22370,228546256,76561198138316975,"All the hours I have in this game is me constantly trying at different points in my life to get the game to run. It has never once worked for me. I've tried mods, community guides, YouTube videos, online tutorials and nothing... It shouldn't be this hard to get a game I paid for to work. I hate you Bethesda.",0.8224493861198425,103,False
+22370,53613600,76561198797900301,"People say the steam version is broken because it is not optimized for windows 8 and later, because windows live. All you have to do is download the files for it(see top voted comment. To find it just look up Fallout 3 steam crash then go to steam forums. The review comes with a link to the website and download). After the download just click okay or startup or whatever. Then just exit, and the game is ready to play. If it still does not work, download D3D9 on nexus mods (i think that is what it is called) and drop it into your fallout 3 folder. Boom. You can now play fallout 3. What about installing mods? go to nexus mods and install FOMM. Then look up a tutorial on youtube. Boom. Mods for fallout 3.",0.8717776536941528,98,True
+22370,192155794,76561199552347502,"Nestle (enclave) got mad I was selling water that wasnt stolen so I blew up their operations base and exploded their chatgpt president, w game",0.819557249546051,46,True
+22370,99578051,76561198833130391,"Amazing game, but the steam version straight-up doesn't work. Like doesn't even launch. The fact they're selling it here should be a crime. In fact, it is!",0.8186473846435547,352,False
+22370,24782331,76561197963738730,"Part 1: How to play Fallout 3 on windows 10
+
+1) Open the properties on the exes and active administrative mode and set compatibility to xp service pack 3
+2) Open Fallout.ini in C:\Users\(insertusernamehere)\Documents\My Games and search for ""bUseThreadedAI"" no quotes, change the zero to a one
+3) Right below it add a line ""iNumHWThreads=2"" no quotes
+4) Download this and apply it to Fallout.exe --> http://www.nexusmods.com/fallout3/mods/1086/?
+
+Voila, worked for me, should work fine for you.
+
+OPTIONAL: If you want a lot less bugs since Bethesda sucks at optimizing games, download and install this --> http://www.nexusmods.com/fallout3/mods/19122/?
+
+(I know I kind of copied the guide, but since so many reviews are moaning about it not working, I think posting this here is more useful)
+
+for more info, please refer to this guide --> https://steamcommunity.com/sharedfiles/filedetails/?id=149946772
+
+I also recommend getting RH_Ironsights ( http://www.nexusmods.com/fallout3/mods/6938/? ) and Realistic Wasteland Lighting ( http://www.nexusmods.com/fallout3/mods/20346/? ), even if you're doing a Vanilla run through. The Ironsights mod adds an essential feature that for some reason Bethesda did not put into the game (all you do is just pull the gun a little closer), and the RWL mod changes the weather and lighting to get rid of that awful green tinge on everything, and makes it look wayyy more realistic. You can get a lot more mods through the guide I showed you above.
+
+ACTUAL REVIEW:
+
+Fallout 3 was my first entry into the fallout franchise, as such it will always hold a special place in my heart. It's not perfect, but it's a damn enjoyable game. Arguably the best location of all the fallout games, some great exploration. The storytelling is good too, but if you start thinking about it, then it starts to make less sense (why does it look like the planet was nuked only 10 years ago when it's 200+ years later, why is every building full of tons of ammo and loot after so long, why not use Megaton's water purifier?). Mainly I blame this on poor writing on Bethesda, but overall it's still a good game, still miles better than Fallout 4.
+
+Another minor issue of mine is that every 5 minutes the capital wasteland just spawns a random event out of no where, and unrealistically scales the events to your level, but I guess that's to prevent us from being utterly raped while exploring.
+
+Overall: Fallout 3 is one of the best post-apocalyptic games out there. It actually feels like an apocalypse, and plus you can explore a bombed-out DC that has so many awesome places to look through. Some may say... DERR BUT FALLOUT 4 IS NEWER AND LOOKS BETTER HAS BETTER GUNPLAY. Looks can be decieving my friends, I too fell for the trap that was Fallout 4. Yes, the gunplay is better and the game looks cooler, but it suffers in literally everything else.
+
+If you're looking for your first fallout game, don't get fallout 4, get this one, then get New Vegas.",0.8681105375289917,92,True
+22370,78405341,76561198128023712,"The game itself is amazing, but getting it to run nowadays has become much worse than before.
+
+It constantly crashes or won't even launch, or it'll work sometimes randomly but steam overlay and hours won't, even after trying out community solutions which shouldn't even be our job to solve this issue in the first place but Bethesda won't work on it themselves.
+
+It pains me to leave a negative review for such a great game, but something has to be done about it's current state.",0.8142814636230469,68,False
+22370,207030355,76561199126189552,"won't launch, thanks for nothing. i shouldnt have to search the web for 30 minutes to get your 20yo game to start.",0.8112564086914062,164,False
+22370,42025475,76561198059621922,"While this game is patched at GOG, it remains in an unpatched state on Steam.  Yes you can modify the exe to make it work, but this precludes the usage of ENBs and other similar graphical improvement mods which would make the game worth playing in 2018.  Do Not Purchase Here.  Steam needs to learn to patch their games or loose revenue.",0.8101115226745605,112,False
+22370,131955601,76561197997725805,"I have this on Steam, GoG and Epic games now.
+They all run pretty much the same once you add the 4gb MCTF Multi-Core Threading Fix
+https://www.nexusmods.com/fallout3/mods/21888
+Easy Fix and no more problems.
+Here's the gameplay with it to prove it works 
+https://youtu.be/YAc2Ohu9Wcg
+
+Have always loved the series.
+My time played is actually way off by my real time played, but I've had it since original release and on.
+Only issue is people make it so complicated to use that it get's more hate then it should.",0.8090377449989319,44,True
+22370,45240882,76561198030802052,"Preface: I love FO3, played it at realease on the Xbox many times.
+
+
+As many other reviews have stated, this game just doesn't really work with windows 10 (or with integrated graphics).
+
+I just spent a few hours going through message boards and trying all the fixes, and it is still unplayable. I fixed the crash at startup glitch, but couldn't get past teh crash at new game start.
+
+I know it's an old game, but if you really still want our money for it, at least make it playable.",0.8074455261230469,121,False
+22370,170342449,76561199536106966,"Impossible to play. I literally got it, installed it, hit play and it simply won't run. Took the time to look online for a solution and everyone on the internet seems to have a different issue with this game to run.
+
+ The fact that you guys have for sale a game that is not fixed to run on a modern computer is a total scam. Will refund for sure.",0.807226836681366,140,False
+22370,92817780,76561198277349905,"your father is Liam Nesson in this game so 10/10
+
+P.S: check Steam guides for running this game on modern Operating Systems",0.8066821694374084,58,True
+22370,147082033,76561198055436687,Plays great on the Steam Deck. Didn't have to fiddle with any settings on the deck or in the game - just works beautifully 'out of the box'. The game itself is much better than I remembered and I've been having a blast - just save often :-).,0.8042507171630859,41,True
+22370,18718894,76561198220012500,"I found a dog in the middle of junkyard and it started to follow me. I took that dog everywhere and we became best buddies. One day, I got into a nasty firefight and was worried for my newfound friend so, I yelled at him to run away. I survived the firefight, with the help of a few dozen stimpaks, and I returned to Vault 101 in search of my dog.
+
+I returned to the Vault and didn't see a sign of my friend. I was worried and waited for hours on end. He was nowhere to be found. I was so worried. Sadly, this story doesn't end well. I never saw the dog again and I know that somewhere in the Wasteland lies a dead dog. Knowing this, I began to cry.
+
+10/10 for making me feel for a digital dog.",0.8510233759880066,257,True
+22370,23831752,76561198018592532,"Windows 10 won't work with it
+
+Not 100% sure fix, It don't work for all.
+
+Everyone who have windows 7 or later
+Here is how to fix the birth scene:
+Go to Documents
+My games then find Fallout 3
+Right click on Fallout in that map choose the ""edit"" option
+It should open as notepad
+Scroll down to [DISPLAY] then look above it and look for ""buseThreadedAi=0"" change the 0 to 1
+Press enter so there will be and empty line and paste this: iNumHWThreads=2 in the empty line 
+
+Enjoy the game",0.8497543334960938,100,True
+22370,114819820,76561199250470365,"First off let me state that this game WILL NOT WORK unless you go into the game files and make some modifications. The fact that this game is unplayable from the box is unacceptable. BUT, if you do get the game working you will have a fun time. Although Fallout 3 is not as in depth with its RPG mechanics as New Vegas it is still worth a play. If your coming to this game for a great story your not gonna find it. Instead you should expect an extremely atmospheric dungeon crawler with decent RPG elements. This game has PLENTY of content for you to enjoy if your willing to explore and find it. Many people tend to write off Fallout 3 for it's faults, but personally I am thankful for it's existence and for the other games it has spawned as a direct result. Fallout 3 is not perfect, but it is still a really good time.
+
+Here is a video that might help you if your having trouble getting the game to run:
+https://www.youtube.com/watch?v=RDTViZGRhJo&list=PLXJDzamV-4AO7EsKUI4ZyIy7gXAGdVzXz&index=20",0.7991292476654053,55,True
+22370,162686097,76561198883859597,Requires a degree in computer science to launch. One of my favorite games on the rare occasion that it actually launches.,0.7978494763374329,624,False
+22370,176934905,76561197991064721,"There's just something about Fallout 3... It's not pretty, it's clunky, and there are like three voice actors total, but, in my opinion, it's still one of the greatest 3D RPGs. The dialogue choices, characters, skills, atmosphere, and exploration made this the staple of what I've considered a proper RPG for more than half of my life now.",0.7974228858947754,37,True
+22370,89524975,76561197999007414,"-Bought game a long time ago, loved it
+-Attempted to reinstall and play it. 
+-Spent the spare hour I had before the wife comes home attempting to download patches from mirror sites and disabling 
+  obselete software to get the game to run
+-Went and listened to how my wife's day was.
+
+Thanks Bethesda. (Don't buy this game).",0.795953094959259,80,False
+22370,133373109,76561198831297654,Great game but it doesnt lauch on steam and theres no support whatsover. Why the fuck is this even for sale then?,0.7956219911575317,73,False
+22370,43150015,76561198008554393,"For everybody complaining about not being able to get the game to run on Windows 10, all you need to do is follow this handy guide and you will be set. 
+https://steamcommunity.com/app/22370/discussions/0/828937546147175081/
+
+Voila! You can now enjoy Fallout 3 on Windows 10 :D",0.8438483476638794,71,True
+22370,90025038,76561198152199977,"The player should not have to fix the game themselves in order for it to even start, nor download dozens of mods in order to make it stable and even playable.
+Save your money
+
+Fallout 1 and 2 run nearly perfectly with much less crashing, even New Vegas runs better than this.",0.7931298613548279,60,False
+22370,104591286,76561197965399173,"Man I was soooo stoked when they said they patched this game to launch without Windows Live butttttt surprise It still doesn't launch
+
+
+People guess what? I changed the INI file to utilize one core instead of multiple cores and the game launched. Seriously Bethesda just patch the damn game to have that line of code in the INI file.  Why sell a game to people knowing it wont run on modern computers but all you need to do is this to make it work for everyone?",0.7929012179374695,79,False
+22370,116944877,76561198972699175,"This game is an amazing game that being said I think steam and Bethesda both should stop selling it if they are going to require you to have a pHD in order to get it to launch properly, even with the update in october the game still freezes constantly I have gone through every tutorial online, in forums, steam groups, all of it, trying to get this game to work properly, for probably 14 of the 16 hours I have logged as ""play time"" steam, and bethesda can lick my fat hairy nut sack.",0.8424152731895447,192,False
+22370,165550838,76561198067001087,"This simply shouldn't be for sale without a proper patch to make this game work on ""modern"" PC's.  I don't care how ""easy"" it is, i'm not going to download an un-trusted 3rd party app that is NEEDED for this to work as intended.  If it doesn't work out of the box, it shouldn't be for sale.  
+
+Its like buying a BRAND NEW CAR, but instead of gas being in the car, they give you a barrel of crude oil.  Sure it will work after you refine the shit, and figure it out yourself, but wouldn't you rather just buy something that works!?
+
+Typical Bethesda; release a shitty product that doesn't work, and let your un-paid fanboys ""fix"" the game and make it actually playable.  I've tried every fix and still doesn't work.  
+
+Steam should remove this from the store as it doesn't work as is.  ""go buy the console version and leave a positive review for the unplayable one""  Fuck off Bethesda fans.  Leave an actual honest review.  THE GAME DOES NOT WORK! SIMPLE",0.7900691628456116,345,False
+22370,111996171,76561198072721098,"This game was unplayable without doing the pesky ""fix"". I'm happy to announce that it has been patched and now playable. I'm running Windows 11 and recently just installed this version. Starts up each time with zero issues. No stutter, crashes, etc. 
+
+So if you're wondering, the answer is yes. It's time to go find your dad again.",0.7878841161727905,33,True
+22370,12411792,76561198047784258,"hands down my favorite game on ps3 well over 100h on each version.
+I bought the collectors edition, then when the dlc's came out, i bought the GOTY. 
+
+Edit: make sure you download nexus mod manager AND the unofficial patch because the game is really unstable on anything other than windows xp
+you can find links in the ""pinned guide"" if you click on the forums link",0.8361166715621948,110,True
+22370,210212907,76561199236713896,"failure to launch, this review is negative only due to the fact i cannot get the game to launch despite me trying all i could do. 44 min was not game play. Its restarting the game . lol",0.7860662937164307,63,False
+22370,30099281,76561198263016998,"took 5 min to get it working and played 50 hrs without a single crash. Great game. Play it before New Vegas and you will appreciate NV more.
+
+Edit: Heres the fix I used:
+
+https://www.youtube.com/watch?v=QIKlsFJ5xiE",0.8353040218353271,55,True
+22370,27769554,76561197980277567,"Decided to play the game with  my character, spawned into the Vault, and grew up.  I watched the place fall apart, fled, and found myself in a vast wasteland.  Ended up in a shack inhabited by a junkie with nothing but a BB gun to defend myself  against the horrors of the wasteland.  Tried to take a gun that was laying around, not realizing that ""red"" meant ""stealing.""  The junkie started punching me, but she was so weak that I was able to shoot her to death with her own gun before she killed me.  Decided then that I was not a good person, killed and stole anything and everything in the wasteland...  until the slavers.  I found honest to god human slavery in the wasteland, was offered caps by the slavers to track down runaway slaves because of my hardass reputation.  I heard the slaves, humans in cages, pleading. It sunk in.   It took nearly every chemical and every bullet I had on me, but I killed every slaver in that settlement and freed every slave that wasn't too scared to run once the shackles were loosed.  Discovering you're willing to shoot/beat a junkie to death to survive is not a quest, nor is destroying a hub of human slavery, but when you wander around the wasteland, you find our own quests woven between the person you were and the person you are becoming.",0.8352357745170593,47,True
+22370,217586149,76561198044661270,One of the best games ever that could still really use a remaster. Hint hint.,0.8835565447807312,93,True
+22370,172383016,76561198284930357,"
+---{ Graphics }---
+☐ You forget what reality is
+☐ Beautiful
+☐ Good
+☑ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{ Gameplay }---
+☑ Very good
+☐ Good
+☐ It's just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ Audio }---
+☐ Eargasm
+☐ Very good
+☑ Good
+☐ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{ Audience }---
+☐ Kids
+☑ Teens
+☑ Adults
+☐ Grandma
+
+---{ PC Requirements }---
+☑ Check if you can run paint
+☐ Potato
+☐ Decent
+☐ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{ Game Size }---
+☑ Floppy Disk
+☐ Old Fashioned
+☐ Workable
+☐ Big
+☐ Will eat 10% of your 1TB hard drive
+☐ You will want an entire hard drive to hold it
+☐ You will need to invest in a black hole to hold all the data
+
+---{ Difficulty }---
+☐ Just press 'W'
+☐ Easy
+☑ Easy to learn / Hard to master
+☐ Significant brain usage
+☐ Difficult
+☐ Dark Souls
+
+---{ Grind }---
+☐ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☐ Isn't necessary to progress
+☑ Average grind level
+☐ Too much grind
+☐ You'll need a second life for grinding
+
+---{ Story }---
+☐ No Story
+☐ Some lore
+☐ Average
+☐ Good
+☑ Lovely
+☐ It'll replace your life
+
+---{ Game Time }---
+☐ Long enough for a cup of coffee
+☐ Short
+☐ Average
+☑ Long
+☐ To infinity and beyond
+
+---{ Price }---
+☐ It's free!
+☑ Worth the price
+☐ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{ Bugs }---
+☐ Never heard of
+☑ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{ ? / 10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☐ 7
+☐ 8
+☑ 9
+☐ 10
+",0.7821107506752014,71,True
+22370,16532190,76561198069801170,"If you have any problems with Fallout 3 with windows 7 like I did use these links to trouble shoot 
+Freezing: https://www.youtube.com/watch?v=4iuTE8-4lNU
+Frozen Mouse: http://steamcommunity.com/app/22380/discussions/0/522728269222934838/#p2 (Changing bBackground Mouse from 0 to 1 in the fallout.ini file fixed it for me)
+",0.8317912817001343,52,True
+22370,100982689,76561198011290775,"""Fallout 3: Game of the Year Edition has been updated and no longer installs Games for Windows Live dependencies.""
+
+FINALLY! I CAN PLAY THIS GAME! 😍",0.8315694332122803,97,True
+22370,3253227,76561198019585751,"Ah, the good, somewhat old, Fallout 3. The best in the series, falling shortly behind Fallout 2, the god of such RPGs, in my opinion. If you care to put some time into optimizing the bugs and tweaking settings to make it run propely, this is a damn near perfect game by our beloved Bethesda. Expanding the universe of the already exciting post-nuclear America, we're shown what happens to the area surrounding Washington, D.C., called ""The Capital Wasteland"". A rather grimmy environment that is packed with creepy and eerie surroundings. There's not one moment in the wasteland where you can feel truly safe from the mole rats to the Deathclaws wanting to rip your head open with their giant fangs. Did I mention they're fucking terrifying?
+
+Gameplay has stayed somewhat true to its predecessors, you still have the V.A.T.S. system, but it's no longer turn-based, as you'd guess. The story is not the greatest, it has never been in the Fallout franchise, but what makes up for this is all the other stuff you can do in the Capital Wasteland. There's tons of different sidequests to do, multiple unique weapons and other stuff to collect, such as the bobbleheads - which increase your stats depending on which ones you pick up. The world is giant as you would expect, about 100+ locations to discover and, potentially, loot. 
+
+Rating: 9/10",0.8305062055587769,159,True
+22370,97854613,76561198015326753,"EDIT NOTE: This is more of a guide than a review, I know. Fallout 3 is such a well known game and there are hundreds of in-depth reviews out there, I simply wanted to help correcting the misbelief that Fallout 3 is now and forever unplayable on windows 7 and later.
+
+THIS GAME IS 100% PLAYABLE ON WINDOWS 10 WITH FEW FIXES, READ BELOW:
+
+An excellent post-apocalyptic open world shooter-RPG, even after 13 years. Due to the games age and the developers lack of interest to update the game, the game is not optimised for windows 7 and later but only with a few small fixes, the game is 100% playable even on windows 10! I have been playing on win10 for 21 hours with only 1 (one) crash so far and that was at the 12 hours mark. Here is a guide how to get Fallout 3 GOTY working on win10:
+
+1. Remember to enable your DLC's and set your options. To do this, simply open the game launcher (opens by default after the first installation), click ""Data Files"" on the menu and enable all checkboxes. After this set your options as you like from the ""Options"" menu.
+
+
+2. Download the ""Games for Windows LIVE Disabler"" over at Nexus. Read the ""readme"" guide and install.
+Drop the ""exe"" into the game's install folder and run it, selecting ""Disable G4WL"" and ""Move DLCs"".
+
+This causes steam to not track your gameplay hours. You can fix this by going into the game installation directory and moving the ""FalloutLauncher"" executable to a different folder (I moved it to a folder on my desktop) and then renaming the ""Fallout3"" executable to ""FalloutLauncher"". This skips the launcher menu when you launch the game on steam.
+
+Note: After this step, if your control/key-mapping changes in the game do not come into effect, you can undo the renaming-changes above, change the controls and then repeat the part above. DO NOT DELETE the original ""FalloutLauncher"" executable!
+
+
+3. Download the  ""Intel HD graphics Bypass package"" over at Nexus. Read the ""readme"" guide and install.
+The the ""dll"" goes into the game's install folder and the ""ini"" goes into ""Documents / My Games / Fallout 3""
+
+
+4. You need to force the game to run at 60 FPS for the physics, animations and game mechanics to work properly. Do not believe any ""Fallout 3 uncapped framerate"" guides, they will just ruin the game. Unfortunately using Nvidia Control Panel didn't work for me so I used ""Guru3D RTSS Rivatuner Statistics Server"" to force 60 FPS and it works perfectly. Download the ""version 7.3.1 Final"" from their website and install it. After this open the software and set the Framerate limi to 60. The software has to be on, in the background while you are playing for this to come to effect.
+
+Lastly, you can change the games FOV by opening the console and writing for example: fov 90 90
+This will change the fov to 90 on the pipboy (first number) and first person view (second number). You can set the values differently as you like.
+
+Thanks a lot for the user ""Wee Dee"" for his review on steam from which the parts 1 and 2 were taken, that review helped me a lot!
+
+You can also check out this optional lengthier guide for more Fallout 3 optimisations (I have done only the things above and had no issues): https://steamcommunity.com/sharedfiles/filedetails/?id=2220787322 
+
+Now, go show those muties who is the boss!",0.7800936698913574,36,True
+22370,212633530,76561199433204060,The first fallout game I played was fallout 4 and the second was new Vegas. I gotta say I liked new Vegas more than fallout 4; the world felt more immersive and the characters and voice acting were top notch. Fallout 3 follows the same formula as new Vegas. IDK why fallout 4 didn't give that immersive vibes but I hope if they will make a new fallout game they would stick with what made fallout 3 and new Vegas exceptional.,0.7790348529815674,36,True
+22370,38469910,76561197972297243,"Like alot of you I was upset to findout falout 3 didnt work on win7. I wasnt willing to except this. So after much searching I found this. 
+https://www.nexusmods.com/fallout3/mods/21781/?tab=1&navtag=http%3A%2F%2Fwww.nexusmods.com%2Ffallout3%2Fajax%2Fmoddescription%2F%3Fid%3D21781%26preview%3D&pUp=1
+I hope it helps some of you like it did me. No more crashing!! What a great game! I should have never waited so long.
+",0.8290159106254578,45,True
+22370,160939074,76561198021009862,"Back in the day I put a thousand hours into Fallout 3 on the Xbox 360, I was hooked on it. Time to add another thousand hours on this PC version now.
+
+In my opinion, the best of the Bethesda-era Fallout games.",0.8271474242210388,80,True
+22370,142726561,76561198042135988,"Until next time, this is Three Dog, and you're listening to Galaxy News Radio, Bringing you the truth, no matter how bad it hurts.",0.8266751766204834,51,True
+22370,23015701,76561197990563854,"This game CAN be run on Windows 7, and Windows 10 and I highly recommend this game.
+
+I read most of the negative reviews and it's just people saying ""can't werk on win 7 wtf ripoff"" it does in fact work you just need to have an IQ greater then a fence post to use the vast resource of the internet in order to find the common fix needed. You know, those websites like YouTube, and the nexus mod website. Installed game on my windows 7 machine, was proactive in fixing what causes the most common crash. 
+
+I have had ZERO crashes. Thank you.",0.8258886933326721,89,True
+22370,235269280,76561199789642387,"TL; DR:
+
+I bought the ""Fallout 3 - GOTY"" on GOG instead.
+
+It worked perfectly immediately after installation.
+
+And I could play the regular English version instead of just the German one.
+
+---
+
+Could not start the game.
+
+Could not get past the launcher.
+
+Only got the German version.
+
+Could not switch language.",0.7757061719894409,38,False
+22370,72393171,76561198079661650,"I bought Fallout 3 Game of the Year Edition while it was on the Summer Sale. I had low expectations of it actually working, without some workarounds, with everything I heard about it not working on Windows 10 and the obvious notice saying it isn't optimized for Windows 7 and later. Once I downloaded the game, my PC said it recommended for me to download Games For Windows Live (GFWL)... Ok no problem. Once GFWL was installed (I did not sign in either since it's outdated and broken, or I'm just stupid) I launched the game and expected it to either crash at the launcher or as soon as I hit 'Play'. It did not crash at all and has been working flawlessly since I bought it a couple days ago. I had put this off for so long because I didn't want to waste money on something that wouldn't work on my computer. I'm glad I finally purchased it and regret not buying it sooner.
+
+TL;DR
+Works perfectly fine for me on Windows 10 and all I did was install GFWL.",0.8249981999397278,49,True
+22370,88050991,76561198070442280,"This game in the current state is a joke, i've spent all day today trying to play it, i've tried every patch and tutorial i could to no avail. 
+
+The fact that even Fallout 1 and 2 (20 year old games) work with windows 10 and this game still doesn't is a joke.
+
+I absolutely loved playing this game on the X360 and it's for sure one of my favorite games of that era, but this pc version is a disgrace.",0.7747357487678528,95,False
+22370,179636513,76561198064074987,one of the greatest games ever made but it doesnt work anymore on modern PCs without downloading community made fixes. come on bethesda.,0.7738857269287109,77,False
+22370,53031854,76561197999979316,"Be born, meet dad, bye dad, find dad, shoot gun, shoot mutants, meet celebrities, join the army? Use new big metal body. Shoot some more.
+
+Be the saviour, be the scourge, or just walk around not giving a damn.",0.8218733668327332,70,True
+22370,148556597,76561199184394651,"The game never gets past the launching screen no matter how much I try, tried multiple fixes from the bethesda support page and community. Nothing fixes it
+
+Edit: I have finally figured out how to get the game working but it was quite a bit ago and I forgot what fix I had used to get the game to finally boot up, but it had something to do with manually changing something in the game files",0.7689590454101562,71,False
+22370,189165495,76561198411067859,"If anyone wants to play Fallout 3 and New Vegas, just look up ""Tale of Two Wastelands mod"". It basically combines both games (you can still play them separately) and makes it so Fallout 3 runs on New Vegas' game engine. It's totally worth it.",0.7678654789924622,39,True
+22370,208214459,76561198022648723,"Fallout 3 made the Wasteland feel huge and lonely in a way few games ever matched. Stepping out of Vault 101 and seeing the ruins of D.C. was unforgettable. The atmosphere — the radio, the ruins, the silence — carried the whole experience. 
+
+It gave you freedom instead of guidance, and that’s something most modern RPGs have lost.",0.7664852738380432,41,True
+22370,42779106,76561197999853745,"*2022 Edit Redux: Nevermind they updated and broke it for Windows 11. Just buy it on GOG.
+
+*2022 Edit* FINALLY, after 12 damn years Bethesda finally removed all GFWL dependencies!!!! The game now works natively on Win 8 and above. If you still get CTD on start, run the game in windowed mode first then change to borderless after. 
+
+
+How to get it running on Windows 10
+
+1. Don't be dumb. Sadly most Fallout fans are this
+2. disable GFWL
+3. Install unofficial patch
+4. Run .exe as admin with compatibility for Win 7
+
+Congrats, you can follow basic instructions.",0.8162233233451843,717,True
+22370,182468063,76561197970993262,This thing really does not run on modern machines.  Will not start at all.  Needs mods like others have said.,0.7661442756652832,65,False
+22370,13856536,76561198048009182,"Do you like shooting things?
+Do you like saving people?
+Do you like killing people?
+Do you like surviving?
+Do you like bartering?
+Do you like scavenging? 
+Do you like a good storyline?
+Do you like choices that actually change the game?
+Do you like good games in general?
+
+If you answered YES to any of these questions, BUY THIS GAME.
+
+In fact, screw that, JUST BUY THIS GAME, YOU WON'T REGRET IT.
+
+And don't forgot the wonderful world of MODS!!!!
+
+
+
+Don't set the world on fire, just give this game a place in your heart. 
+",0.8158971667289734,169,True
+22370,60066605,76561198024030868,"Fallout 3 was released in Oct. of 2008 with the GotY edition coming out a year later.  Having been released at a difficult time in Fallout history, it was under a lot of scrutiny.  The original two Fallout games were developed by Interplay games, with the second being handled by a smaller subsidiary known as Black Isles Studio.  
+
+The original Fallouts were turn based, isometric games whose fans would rabidly criticize FO3, which became the first 3d offering into the Fallout universe as Bethesda games would purchase the license from a financially strapped Interplay.  It’s largely been described as “Oblivion with guns”, and depending on which side of the fence you’re standing on, it’s a good thing or a bad thing.
+
+FO3 would be followed up by the title Fallout New Vegas, which was more or less FO3 in a new world space with some new assets.  FONV was developed by Obsidian games, which was largely made up of employees from the same Black Isles studio that produced Fallout 2.
+
+The Fallout universe takes place in the post, post apocalyptic year of 2277, in an alternate US timeline, where the microchip was never developed and instead, nuclear power shaped the world, ultimately resulting in its destruction in 2077 when China and the United States (along with an annexed Canada) went to war and no one is quite sure who fired first.  The world was devastated by a combination of radiation and a mutated virus known as FEV.
+
+While FO3 takes place on the east coast, largely centered around the DC area, FONV returned to the West Coast where the original lore of FO1 & 2 took place.  This contributed to even more criticism of FO3 regarding both its use of lore and the complaint that it was too far removed from its RPG roots.
+
+The switch to a 3D world space, not unlike Bethesda’s Elder Scrolls series of games, brought in a huge boost in sales that would further Bethesda’s reputation for “dumbing down” games.   In reality, it was a good business move that allowed them to cater to a much larger audience.
+
+FO3 starts you off with a main quest that guides you through the basics of the game, but then releases you into an open world where you can go where you please and do what you want.  Every location tells a story, whether that be a short backstory read on a computer terminal, a collectible such as an official vault-tec bobblehead or a magazine to increase your stats, or an actual side quest.  Some of the characters have complex backstories rooted to the areas they live in, while others are simply day to day characters that have little bearing on what you’re doing.
+
+Fallout offers a skill system like most RPG based games, and certain events in the game are driven by what skills you choose.  Things like Big Gun, or Small Gun skills will effect practical things like how well you’re able to hit your target, while things like Speech and Medicine might effect how well you interact with NPC’s.  Each common skill is governed by your base stats deemed S.P.E.C.I.A.L. (Strength, Perception, Endurance, Charisma, Intelligence, Agility, and Luck) which is straight out of the original Fallout Lore.   
+
+Factions also exist, such as Slavers or the Brotherhood Outcasts, who will remember if you get on their bad side, but by and large the biggest directive for how your story will turn out is the Karma system.  You can choose to play as Good, Neutral, or Evil and your actions can effect the world accordingly.  The gun play in FO3 is simplistic, lacking true iron sights, but you can choose to go in guns blazing or stealth your way through just for the story depending on how you stat your character.
+
+A fair criticism to FO3 was its insistence on following the theme of sacrifice right up until the games ending, which was largely unsatisfying and drew a ton of ire from all fans.  But the Broken Steel DLC, corrected that, and allowed for play beyond the final mission, along with adding an additional 10 player levels and many other difficulty changes to the game.  Certain enemies at higher levels become absolute bullet sponges, which you will find both challenging and annoying and to be honest, it could have been done better.
+
+The Mothership Zeta DLC, I found good, but a bit long.  The Pitt DLC is a much better offering.  Operation Alaska introduces some powerful new equipment that you’ll want to get no matter your play style, and finally, Point Lookout takes you in a much more comedic direction with a large world space and some interesting characters.  Of course all the DLC’s come with the GotY edition.
+
+The game does suffer from the occasional bug or crash, but considering its age, they're relatively few and far between and being that it's a PC game Bethesda gives you access to the debug console which allows you to fix a lot of the issues you could potentially encounter.
+
+Overall, this is a satisfying game and a good introduction to the Fallout world that should make you want to go on to FONV, and Fallout 4.  The game is extremely cheap when bought on a Steam sale and is well worth it.  The game has a lot of replay value due to the different builds and Karma features and if you get tired with the stock game, being a Bethesda title, you have access to a whole new world of gameplay via mods.
+
+It should be noted that this game is over a decade old, and was originally intended to run on Windows XP.  While the Steam Store has [u]multiple[/u] mentions of this and a disclaimer right by the shopping cart button, some gamers seem to overlook the fact that you may need to do some tweaking to get the game to run on Windows 7, 8, 8.1, or 10, but it WILL run.  You will have to add Windows Games Live support, tweak an .ini to enable multiple cores, and possibly some other changes.   There is a stickied post in the discussion forums that will guide you on getting it running.   As with all PC games, particularly older ones, sometimes some tweaking is in order depending on your system.",0.7644172310829163,36,True
+22370,8775786,76561198007730193,"12-year old me had great fun in planting grenades in beggars pockets, watching them run around in fear and then exploding. Yes, I'm sane if anyone is wondering. 
+
+The bloody mess perk is only fun for a while, punching a man in the leg and watching his leg explode is only funny a few times. Fallout 3, also known as Hoarder Simulator 2008 is a game everyone should have played during their lifetime.
+
+Good Game.",0.8142804503440857,99,True
+22370,171787169,76561198027898350,"Why doesn't this game run in the current year without mods and fixes required by the player to research and implement? For Christ sake I played this on PS3 no problem back in the day. My current setup plays every new and old game from before this time period and after with no issue. How is the PC version of Fallout 3 this dogshit? Anyone? Bethesda? This version of Fallout 3 requires so much work/mods to run decent, not even great, just decent. @Bethesda, you have enough money now put a team together and fix this game! @Steam, how are you allowing this game to be sold in its current state? Unforgivable. the both of you should be ashamed. Fallout 3 and we the people deserve better than this. In short, TL:DR, pure Dogshit.",0.7622317671775818,32,False
+22370,199329182,76561199633864862,"fuck the launcher just rename and launch it through your files
+
+step 1: open files
+step 2: open your drive thingy
+step 3: find programfiles x64 or wtv it is maybe x86
+step 4. find steam
+step 5. apps -> common apps (i think)
+step 6. fallout3 goty
+step 6. rename the launcher to FalloutLauncher",0.7603573799133301,48,True
+22370,127896096,76561198051640810,"Decided to play this game again. Downloaded it. But every time I try to run it. It goes to a black screen after I hit play and then just takes me back to steam. Tried every fix there is out there and the company fix and nothing has worked. I'm running windows 11 with i7 8700k with a 3080. Even with mods that should fix it, it didn't work. Best bet is to not buy this game on steam. Heard COG has the good version.",0.758383572101593,37,False
+22370,92836918,76561199174794405,"People sleep on Fallout 3 because New Vegas is the meme, but this game rocks and is in every way a valid entry into the series. You can tell the team at Bethesda really spent a lot of time going over every little detail and creating a true to source 3D rendition of Fallout 1 and 2. New Vegas is a great entry, but it did not materialize out of thin air. Fallout 3 did and it set the foundation and tone for future entries.",0.7555879354476929,90,True
+22370,16222806,76561198018727926,"Overall: 10/10
+Probably my favorite game of all time, although I really liked Fallout: New Vegas for it's weapon and ammo variety I still preferred Fallout 3s' atmosphere, story and characters.
+
+Concept: 10/10
+You are born in an underground vault that's had no contact with the outside world for hundreds of years. Create your own unique character, male or female, and quickly escape to learn that the nuclear war from long ago has left a wasteland topside. With humanity struggling for survival, mutants occupying the DC ruins with a mysterious agenda, and the various irradiated creatures of the waste, the setting feels like ""Fallout"". Play how you want, investing in the skills you choose to develope your character to reflect your play style.
+
+Graphics: 8/10
+At the time the graphics were not bad, but not good either. I would give some leneincy to Bethesda however, considering how large and content rich their open world games are. Character models could be stiff as well, but I was able to overlook this because of the sheer variety of locations, items, people and creatures you interact with.
+
+Sound: 9/10
+One thing i'll always credit Bethesda for is having so much voiced dialogue. Every NPC has voiced dialogue despite their importance, greatly improving immersion. I was also impressed with the radio stations. Hours and hours of music and dialogue between several different radio stations made the long walks to new destinations less of a bore. As far as Audio effects go i'd say most were well done. Some guns didn't sound like they had enough ""bang"" to be realistic, but the energy weapons and melee sounds were entertaining.
+
+Playability: 9/10
+Amazingly customizable, even more so with mods. You can make your character look how you want, play how you want, and do what you want. Use the weapons and tactics you want to use. If you want to go off and explore 30 minutes into the game you can, and it's just as rewarding/interesting as following the main quest. I only knock a point off of this due to the many bugs/issues people had at the release of this game. While it's improved drastically, there is still the occasional crash, glitch, or corruption.
+
+Entertainment: 10/10
+There are literally hundreds of hours of fun to be had here. A lot of people complained about the main quest, but I found it to be interesting and more importantly, rewarding. The main quest however, is just a tiny piece of the games content. 90% of the entertainment can be found by just exploring on your own. The character customiztion enhances this, making a lot of interactions and situations unique to your character based on their skill set or decisions. 
+
+Replayability: 10/10
+The amount of customization options and content ensure that no two playthroughs are the same. I've made half a dozen characters and still discover new things in this wasteland...",0.8033938407897949,98,True
+22370,2225111,76561198004313984,"Fallout 3: Game Of The Year Edition is a post-apocalyptic story-rich open-world R.P.G. developed by Bethesda Game Studios and published by Bethesda Softworks. You're born in Vault 101 and raised through the years by your father James who is a brilliant scientist in the community...life is good and couldn't be any better. You're safe, you have many friends and everything that you need to survive and life goes on. That is until your nineteenth year when your beloved father inexplicably leaves the Vault without you or an explanation for his actions. With no time to process this loss, you have to react fast when the overly paranoid and controlling Overseer of the Vault locks it down and immediately sends his security force after you. Following a brief conflict you are able to get away from security with the aid of one of your closest childhood friends and flee the confines of the Vault. As you emerge from Vault 101 for the first time in your life you find yourself standing in what's left of a once thriving civilization at the height of it's technology now a decimated and nearly barren radioactive wasteland. It is here ""Lone Wanderer"" that your adventure begins as you start the search through the expansive and dangerous Capital Wasteland for your missing father. ""Tick...tick...tickity!"".
+
+The gameplay of this title can be enjoyed in either a first or third person perspective. I for one tend to always go with the first person as it just seems more immersive for me but to each his or her own as they say. As with your typical R.P.G., you earn experience points for defeating enemies and completing various tasks and missions. Once you earn enough experience points your character then levels up which gives you access to a number of skill points which can then be applied to various attributes that you possess. These attributes or skills can range from anything like lockpicking, medicine, sneak to gunplay as well as a plethora of other choices. You have the option to mix and match skills as you see fit in order to create the type of character that you envision for this grand adventure. Also, as you reach certain experience levels you will be granted a choice of a perk which can greatly enhance and customize your characters abilities even further. When it comes to fighting, depending on how you choose to play the game, there are a number of different ways to approach combat in this title. You can choose to specialize in big or small guns and charge into battle shooting first and asking questions later. Perhaps you would like a more personal approach to combat by choosing melee and engaging your foes up close with unarmed combat tactics or brawler type weaponry istead. If stealth is your bailiwick then you could take down your foes from a distance with sniper rifles or set traps with mines for them to unsuspectingly set off. There are just a variety of options to take as far as combat is concerned which is a great incentive. Another terrific gameplay element in this title is the sense of immersion that you get as you travel about the Capital wasteland. The number of varied locations, weather conditions and time cycling from day to night...the title does an exceptional job of making you feel as though you are actually there. Over the course of the story you will also have a number of choices to make that will affect the world around you in various ways so choose wisely. In short, with the ample amount of people to interact with, a gorgeous expansive environment to explore, fascinating lore to discover and exciting combat, Fallout 3: Game Of The Year Edition delivers an amazing R.P.G. experience.
+
+I for one still to this day love the visual style of this game even in it's basic vanilla form. It managed quite well to believably immerse me in a world devastated by a nuclear holocaust. From the destroyed infrastructure, horribly irradiated lifeforms to the interesting post-war people that you meet still trying to survive somehow? The developers managed to create a beautifully crafted world using mostly damaged and destroyed things if that makes any sense whatsoever...I guess you just have to see it for yourself? The character models look great, are quite varied and are nicely animated. The game also uses excellent lighting which you will notice as time transitions from day to night and vice versa. One thing that I have really liked about all the Fallout titles is how they manage to take things from the past along with things from the future and combine them to create a visual amalgam of the two that just, to quote someone at Bethesda, ""...it just works!"". In summary, presentation-wise Fallout 3: Game Of The Year Edition does a remarkable job of creating a visually pleasing post-apocalyptic world filled with an abundance of exciting locations to explore, believable people to interact with and terrifying opponents to battle.
+
+Bear in mind that I never played the game until years after it's initial release but for me Fallout 3 was yet another masterpiece delivered from the developers at Bethesda Game Studios. Like the other games in their various franchises I completely loved this title and lost myself in this world that they created. This game suprised me with a sense of immersion that few titles ever had previously. I found the story compelling and tried to complete as many missions and sidequests as possible just to see what would happen next. I also really adored the character creator, attributes and perk system as well as the terrific combat but the absolute best thing about the title of course is the afformentioned sense of immersion that I got from playing. The freedom to go where you want to go and do what you choose to do was just so enjoyable which is why I always look forward to the next chapters in Bethesda's big franchise titles such as this. Whether you like them or hate them you do have to admit that they create some fascinating worlds to exist in and that alone is worth the price of admission for me. Also, replayability is very high for this title what with the expansive modding community available for Fallout 3 in the form of literally thousands of mods that will allow you to fine tune your game however you like. Sadly, there are no Steam Achievements or Steam Trading Cards to collect but there are game add-ons in the form of ""Operation: Anchorage"", ""The Pitt"", ""Broken Steel"", ""Point Lookout"" and ""Mothership Zeta"" which add many new and exciting locations to visit as well as missions to complete. In conclusion, Fallout 3: Game Of The Year Edition is simply one of those titles that every gamer, casual or hardcore, should have in their collection so it is HIGHLY RECOMMENDED as it will give you many wonderful hours of gameplay for the money spent.",0.8021251559257507,39,True
+22370,67104053,76561197988453379,"I will start by saying that this game is awesome, definitely one of the best games I've ever played. But it DOESN'T WORK anymore on Windows 10 (currently I am at version 1909). I tried all the advices found on the internet: GFWL install (mandatory), compatibility settings, configuration file manual modification. Nothing works. I recommend to buy the GOG version, it seems the best option from what I read.
+
+Don't waste your money on this, go buy the GOG version, at least you have a change to run it. I will not waste my time to blame Bethesda for this, which are clearly responsible for this mess, considering that this game is not an old game. What a shame.
+
+Update: I reported this game as broken, as others have already recommended.
+
+EDIT: I bought the GOG version and it works flawlessly.",0.8011429309844971,117,False

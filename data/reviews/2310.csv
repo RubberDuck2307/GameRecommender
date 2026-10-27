@@ -1,0 +1,1236 @@
+appid,recommendationid,author_id,review,weighted_vote_score,votes_up,voted_up
+2310,232241230,76561198038931832,Dropping a DLC 30 years after release is what I call commitment. Now please give us a new Quake game and also remaster Quake 3+4!,0.9239116311073303,281,True
+2310,88901144,76561197978923498,"reject modernity
+
+return to quake
+
+EDIT: THANKS for the update and functional multiplayer!",0.921566903591156,158,True
+2310,15331769,76561198131556184,"This game had brown walls before Call of Duty.
+
+This game had map design before Counter Strike.
+
+This game had space marines before Halo.
+
+This game had zombies before 90 percent of the mature rated game population.
+
+This game had a nail gun before nothing else since no other game had a nail gun.
+
+
+WhyDontOtherGamesTakeInspirationAndHaveNailGunsAsWeapons/10",0.8589544296264648,361,True
+2310,26429051,76561198002096070,"Legendary game. One of the most satisfying shooters ever and the birth of online gaming. Very atmospheric and creepy at times thanks to the great soundtrack by Trent Reznor (Nine Inch Nails) which Steam does NOT provide. You can download it [url=https://www.quaddicted.com/files/music/quake_campaign_soundtrack.zip]here[/url] and use a source port that will play and loop the music files as intended.
+
+20 years later the community continues to create impressive, high quality content (single player maps) which will give you hundreds of additional hours of gameplay. No HD patches needed; Quake aged like a fine wine and looks great in all its glorious square pixels at 1080p. Just skim through my [url=http://steamcommunity.com/id/daxbutane/screenshots/?appid=2310]screenshots[/url] and see for yourself.
+
+There's nothing quite like Quake. Every fan of the FPS genre should play it at least once.
+
+
+[h1]RECOMMENDED SOURCE PORT[/h1]
+[list][*][url=http://quakespasm.sourceforge.net/download.htm]Quakespasm[/url] - Very faithful to the original and plays the soundtrack
+
+You can use the patch below to install Quakespasm with the soundtrack instantly.
+ 
+http://steamcommunity.com/sharedfiles/filedetails/?id=1228264051
+
+[/list]
+
+[h1]RECOMMENDED MODS/EPISODES[/h1]
+[list][*][url=https://www.quaddicted.com/reviews/udob.html]Underdark Overbright (2019)[/url]
+[*][url=https://www.quaddicted.com/reviews/xmasjam2018.html]Xmas Jam 2018 - 1024³ theme (2018)[/url]
+[*][url=https://www.quaddicted.com/reviews/func_xmasjam2017.html]Xmas Jam 2017 (2017)[/url]
+[*][url=https://www.quaddicted.com/reviews/ad_v1_70final.html]Arcane Dimensions (2016)[/url] 
+[*][url=https://www.quaddicted.com/reviews/its_demo_v1_1.html]In The Shadows [Demo v1.1] (2012)[/url] 
+[*][url=https://www.quaddicted.com/reviews/func_mapjam1.html]Func Map Jam 1 - Honey Theme (2014)[/url] 
+[*][url=https://www.quaddicted.com/reviews/func_mapjam2.html]Func Map Jam 2 - IKblue/ IKwhite Theme (2014)[/url] 
+[*][url=https://www.quaddicted.com/reviews/func_mapjam3.html]Func Map Jam 3 - Zerstörer theme (2014)[/url] 
+[*][url=https://www.quaddicted.com/reviews/func_mapjam5.html]Func Map Jam 5 - The Qonquer Map Jam (2015)[/url]
+[*][url=https://www.quaddicted.com/reviews/mapjam6.html]Func Map Jam 6 - Fire and Brimstone (2015) [/url] 
+[*][url=https://www.quaddicted.com/reviews/func_mapjam9_2.html]Func Map Jam 9 - Contract Revoked / Knave theme (2017)[/url]
+[*][url=https://www.quaddicted.com/reviews/retrojam1.html]Retro Jam 1 - Medival/Castle Theme (2014)[/url] 
+[*][url=https://www.quaddicted.com/reviews/retrojam2.html]Retro Jam 2 - Fantasy Brick Cities in the Skies Theme (2014)[/url] 
+[*][url=https://www.quaddicted.com/reviews/retrojam3.html]Retro Jam 3 - Vertical Metal/Runic Theme (2015)[/url] 
+[*][url=https://www.quaddicted.com/reviews/retrojam3dlc.html]Retro Jam 3 DLC (2015[/url]
+[*][url=https://www.quaddicted.com/reviews/arwop.html]A Roman Wilderness Of Pain (2009)[/url] 
+[*][url=https://www.quaddicted.com/reviews/rapture.html]Rapture (2001)[/url] 
+[*][url=https://www.quaddicted.com/reviews/something_wicked.html]Something Wicked This Way Comes (2012)[/url] 
+[*][url=https://www.quaddicted.com/reviews/honey.html]Honey (2012)[/URL]
+[/list]
+
+[h1]RECOMMENDED MAPS[/h1]
+[list][*][url=https://www.quaddicted.com/reviews/bindingtower2.html]Binding Tower (2019)[/url]
+[*][url=https://www.quaddicted.com/reviews/grim_rezipped.html]The Grim Outpost (2018)[/url]
+[*][url=https://www.quaddicted.com/reviews/ad_grendel1h.html]Grendel's Blade (2018)[/url]
+[*][url=https://www.quaddicted.com/reviews/endofsolace.html]The End of Solace (2017)[/url]
+[*][url=https://www.quaddicted.com/reviews/ad_sepulcher.html]The Forgotten Sepulcher (2017)[/url]
+[*][url=https://www.quaddicted.com/reviews/ne_ruins.html]The Altar of Storms (2011)[/url]
+[*][url=https://www.quaddicted.com/reviews/zendar1d.html]The Horde of Zendar (2013)[/url] 
+[*][url=https://www.quaddicted.com/reviews/ivory1b.html]The Ivory Tower (2013)[/url] 
+[*][url=https://www.quaddicted.com/reviews/backstein1e.html]Backsteingotik (2013)[/url]
+[*][url=https://www.quaddicted.com/reviews/metmon1d.html]Metal Monstrosity (2014) [/url]
+[*][url=https://www.quaddicted.com/reviews/lunsp1.html] Concentric Devastation (2005)[/url] 
+[/list]
+
+[h1]ANYTHING BY THE FOLLOWING AUTHORS[/h1]
+[list][*][url=https://www.quaddicted.com/reviews/?filtered=sock]sock[/url]
+[*][url=https://www.quaddicted.com/reviews/?filtered=mfx]mfx[/url]
+[*][url=https://www.quaddicted.com/reviews/?filtered=Skac]Skac ky[/url]
+[*][url=https://www.quaddicted.com/reviews/?filtered=tronyn]Tronyn[/url]
+[*][url=https://www.quaddicted.com/reviews/?filtered=czg]czg[/url]
+[*][url=https://www.quaddicted.com/reviews/?filtered=negke]negke[/url][/list]
+
+[h1]OTHER LINKS[/h1]
+[list][*][url=http://www.pcgamer.com/the-most-ambitious-quake-map-ever-built-has-just-been-released-in-2017/]PC Gamer - The most ambitious Quake map ever built has just been released in 2017[/url]
+[*][url=https://www.quaddicted.com/engines/software_vs_glquake]Software vs GLQuake[/url]
+[*][url=http://steamcommunity.com/sharedfiles/filedetails/?id=732999296]Steam Guide - How I play Quake in the Current Year[/url]
+[*][url=http://steamcommunity.com/sharedfiles/filedetails/?id=120426294] Steam Guide - Quake Owner's Manual[/url]
+[*][url=http://www.celephais.net/board/faq.php]FUNC_MSGBOARD[/url]
+[*][url=https://amzn.com/0812972155]Masters of Doom[/url] - A great book about how id software started up etc.
+[*][url=https://www.quakewiki.net/archives/legacy/mynx/mynxarc.html]Dear Mynx Archives[/url]
+[/list]
+
+This game was released in 1996. Awesome metal albums that were also released in the same year:
+
+In Flames - The Jester Race
+Amon Amarth - Sorrow Throughout the Nine Worlds (EP)
+Sentenced - Down
+Iced Earth - The Dark Saga
+Opeth - Morningrise
+Anathema - Eternity
+Manowar - Louder Than Hell",0.8377429246902466,80,True
+2310,228579884,76561197967435763,"Happy 30th Quake 1.  This is the game that made me definitively a PC gamer.  There is something about this unique combo of Lovecraftian/eldritch horror, dark ambient Nine Inch Nails music, fluid and fast movement, and depressing atmosphere that stands the test of time.  I still put Trent Reznor's Quake 1 theme as one of the best intros to a game ever.  The moment it plays, you're put into a trance.  If you know you know.
+
+This is the one game I risked a lot of punishment for.  In high school, I had network admin privileges and I installed Quake 1 in the back row of the computer lab where ""the boys"" and I would play deathmatch while our should-be-retired teacher droned on about C++.  This was when 56k modems were the norm so playing on super low ping and seeing my friends' reactions in real time was an incredible high.  Little did we know that Quake 1 would spawn the beginnings of eSports, multiplayer client-server architecture, WASD, and usher in the era of accelerated graphics cards.  I eventually got caught where I vividly remember my teacher saying ""Ahem, what is THAT?"" and had my privileges revoked.  Needless to say I didn't ask that teacher for a letter of recommendation.
+
+Perhaps there is a game that you too were willing to risk a lot for and hopefully there is a game that sticks with you for 30+ years like Quake 1 has for me.",0.8309682011604309,47,True
+2310,31170479,76561198164541853,"IMO stock bare bones Quake still looks grimy awesome (with just a few non mod adjustments)
+
+
+
+-IN OPTIONS
+Set to highest fullscreen resolution (99% of you most likely have already done this but what the heck)
+
+
+-IN CONSOLE (Press ~ to do this and type lower left commands one at a time and press enter)
+
+d_mipscale 0                                                           (improves distant clarity)
+
++mlook                                                                    (lets you aim with mouse)
+
+sv_aim 2                                                                 (turns off auto-aim for nails and rockets)",0.8720906376838684,71,True
+2310,218890145,76561197988531325,"The soundtrack & SFX were created and recorded by Nine Inch Nails, including all of your characters' grunts, groans, screams and gasps. Making this the only video game where you play as Trent Reznor.",0.8209506273269653,51,True
+2310,112971689,76561198004612738,"Quake is a game where you play a man who follows a trail of guns and med-kits around various sci-fi and fantasy locations. But watch out: at certain points enemies will appear to impede your progress. Thankfully, firing bullets from your guns will ultimately turn the tables to your advantage and allow your journey to continue.",0.8015152812004089,54,True
+2310,98666853,76561198066541492,"Unlike a lot of other people reviewing this game, I had never played Quake before this new remaster came out, so I can't comment on how well it compares to the original version. I had always thought that the series was multiplayer only, which really only technically applies to Quake 3 and its expansion. I was pleasantly surprised when I found out otherwise and bought this during QuakeCon. I will say that this seems like one of Nightdive's better works; the models and textures look great and the newest campaign looks surprisingly beautiful.
+
+I regret not playing this sooner. Quake feels more like Doom 2 than Doom 2. Being balanced for looking up and down is a huge game changer, as is the platforming. The setting is also a nice change, going from space marines x hell to space marines x Lovecraft. The gunplay is good but sometimes suffers from bullet sponge enemies. Multiplayer is fine and you can download a ton of mods easily through the game itself.
+
+The original Quake campaign is my favorite of the five officially included campaigns. It has the right amount of enemy balancing regardless of which difficulty level you play it on, adjusting like you think it should. Even if it acts as the foundations for the other campaigns, it sticks out as being the most memorable for good reasons. The secrets are well hidden but not too insane, and the secret levels feel the most fleshed out compared to the other campaigns. The second campaign, Scourge of Armagon, is a little weaker but still good. It adds in a few new enemies including a cool dumb scorpion and new weapons like Thor's hammer. 
+
+The third campaign, Dissolution of Eternity (DoE), is the weakest of the original three. Despite adding even more enemies in, the campaign goes a little overboard in bullet sponges. The lack of secret levels, present in the first two campaigns, is a disappointment. I hate the wrath enemy, which are essentially buffed versions of the floating Scrag enemies that explode on death. I also hate the final level of DoE's first episode, which contains a ton of annoying traps which rely on precise timing to get past. One particular trap, a series of spikes that poke out a wall, can get trapped in an unbreakable rhythm, meaning you either have to restart the level or sacrifice your health in an attempt to reset them. The final boss is cool though, and the second episode has some interestingly themed levels despite a plethora of bullet sponge enemies.
+
+Also included are two newer campaigns. Dimension of the Past, released by MachineGames for Quake's 25th anniversary, is the most forgettable campaign, feeling more like Quake's greatest hits rather than something that breaks new ground. It's not bad and I at least enjoyed it more than DoE. It also features the return of secret levels, including one that I think is new to this remaster. The newest campaign, Dimension of the Machine, was released for the first time alongside the remaster and its my second favorite of the set. It has a slightly different layout, with a few levels divided into five mini-episodes. It has the most unique architecture and is a visual treat to look at. My only complaint is that some levels once again devolve into spamming bullet sponge enemies throughout the level, which gets very annoying with the final boss.
+
+Overall, Quake is great. I'm glad I finally gave it a chance, and I hope that the other games in the series also receive remasters.",0.8468124866485596,53,True
+2310,12251228,76561198024903282,Remember when game developers actually bothered with singleplayer? Yea.... Me too...,0.8417177796363831,210,True
+2310,219470916,76561197967097402,"It's 1996 and I'm playing Quake.
+It's 2006 and I'm playing Quake.
+It's 2016 and I'm playing Quake.
+It's 2026 and I'm still playing Quake.
+
+*cracks open the boom juice* it's good to be old.",0.7912062406539917,30,True
+2310,90651904,76561198040867274,"very unfun and bad in the state that steam puts it in, 4:9 and pixely and no music
+
+download custom clients like quakespasm and music files for the game here:  
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=119489135
+
+
+makes the game on steam 10000x better and more enjoyable
+
+UPDATE: new major update improves the game greatly",0.8388415575027466,75,True
+2310,108969512,76561198184557194,"As someone who grew up in the Call of Duty and Halo era of FPS games (I was born in 2001 BTW) I'm still kicking myself to this day for ignoring these types of FPS games for so long, and it's sad to thing that people around my age or younger have still not experienced classic FPS games like this. The fact that this game came out in 1996 and it still feels fun to play in in 2022 should tell you how well the game design in this is (which is to put lightly F**KING FANTASTIC!!). The gameplay feels like it hasn't age a bit (the same can't be said about the graphics, but I don't mind it and I think the chunkyness adds to the feel of the game). I could go on and on about other aspects of the game (especially the music and sound design) but I feel like other people could do a better job at praising this game then I can.  
+
+The only negatives I have with this game are really just 2 small nitpicks. One I don't think the bosses are anything to impressive, you just press a few buttons and you're done, and two I REALLY HATE those little blue creatures that lunge at you and explode (I think they're called Spawns but I could be wrong). 
+
+So a quick message to those people who are my age or younger and like FPS game. PLEASE Don't be like me and ignore these types of FPS games for as long as I did. They're super fun to play and have loads of replay value with all the secrets you can find in it. I highly recommend to anyone in my generation or younger as an essential FPS gaming experience or just a general gaming experience.",0.7887496948242188,35,True
+2310,98163251,76561197968514473,"[h1] ""The floor is lava."" [/h1]
+
+Quake represents a first-person shooter (FPS) game, originally developed by the company id Software and published by the company GT Interactive in 1996. This remastered version has been developed by Nightdive Studios and published by Bethesda Softworks. 
+
+[i] Pros & cons: [/i]
+
+++ To this day the game has some of the fastest and smoothest movement any FPS can wish for. I still remember from my own days of speedrunning it in under 30 minutes how damn hard it is to get the monsters to cooperate.
+
+++ The legendary soundtrack by Nine Inch Nails adds a lot to the atmosphere, and has been my gateway drug into the musical world of Trent Reznor.
+
+++ Its influence on popularizing the multiplayer deathmatches cannot be overstated. I played countless LAN sessions with my friends in dark cellars, surviving for days on cola and pizza alone.
+
+Stop looking for cons, there are none. This shooter is literal perfection.
+
+[i] Summary: [/i]
+
+Quake remains one of the best FPS ever created, and this remastered version does the original justice by presenting the complete collection with modern adaptations gameplay and graphic-wise. I would put it on equal terms with Blood and Half-Life; the holiest of the holy trinity, hallowed be its name.
+
+Recommended for fans of the-floor-is-lava speedruns.
+
+[i] Achievements: [/i]
+
+Estimated time for 100% completion: +20 hours
+
+Singleplayer achievements: 34
+Multiplayer achievements: 1",0.8380022644996643,74,True
+2310,134716125,76561198113192300,"There is several reasons to play in Quake:
+
+It's a great way to improve your hand-eye coordination, which is useful for everything from playing video games to juggling chainsaws.
+
+You get to shoot rockets at your enemies, and who doesn't love explosions?
+
+Playing Quake is a fantastic stress reliever. When you're feeling angry or frustrated, nothing beats blasting some virtual monsters into oblivion.
+
+You can pretend you're a superhero, dodging bullets and jumping over obstacles like a boss.
+
+Playing Quake is a great workout for your fingers. Forget the gym - just spend an hour or two blasting away and you'll have a killer grip in no time.
+
+The game's intense soundtrack will get your blood pumping and your adrenaline flowing. Just don't blame us if you end up headbanging your way into a wall.
+
+You can finally fulfill your childhood dream of being a space marine fighting off an alien invasion. Who needs NASA when you have Quake?
+
+It's a great way to blow off steam after a long day at work. You can forget about your boss and your coworkers and just focus on taking down some digital bad guys.
+
+And finally, if you're still not convinced, just remember: playing Quake is a lot cheaper than therapy.",0.7866064310073853,44,True
+2310,113517084,76561198414247318,"One guy on his laptop, another on his PS4, and one more on a Nintendo switch... Massive bloodshed. Didn't think we'd see the day. Thank you BethesdaNet.",0.830329179763794,52,True
+2310,38428576,76561197986360343,"You do not talk about the history of FPS games without mentioning Quake. The first real 3D game where the dead bodies of fallen enemies did not consist of sprites and you could actually circle around them and you could see these corpses from all angles. It was a big deal back then at a time where hardware accelerators were at our doorstep (instead of AMD Radeon and Nvidia GeForce people kept 3dfx Voodoo in their mind).
+
+Quake 2 had a lot of sci-fi in it but the 1st in the series still had demons and pentagrams, so, essentially, the creators stuck to the concept of Doom. They applied a lot of dark fantasy, though, with chainsaw-wielding ogres and knights and zombies. The title is a reference to the entity that is tampering with the teleportation technology our government is experimenting with. You know the drill from Doom already: 4 chapters, lots of levels (including a secret at the end) and a boss fight at the end of each.
+
+It is nice to see this classic in a digital form and that it runs well. Soundtrack was a major part of these games and neither the 1st nor the 2nd episode have them included. I'm not sure if there's a manual workaround for this but with some mods such as ezQuake you can make sure the game can be played on higher resolutions so that you can enjoy the convenience of modern PCs. A must have for fans - would love to see an ""HD remaster"" one day.",0.8291005492210388,52,True
+2310,65886005,76561198150009727,"this game does not have:
+-cutscenes
+-good graphics
+-realistic movement
+-reloading
+-weapon swap animations
+-weapon recoil
+-weapon inaccuracy
+-weapon sway
+-flinch
+-vehicle sections
+
+So basically its awesome.",0.8273311853408813,67,True
+2310,54559938,76561198042243497,"Remaster Update: The remaster is very similar to a source port. It's a robust overhaul for someone who just wants to pick up the game and play but also leaves room for source ports to tweak the game in unique ways. It also restores the music. Now, like any other, is a good time to play quake B)
+-----
+*Cracks open Monster* 
+Yep, they don’t make games like this anymore.
+*Ssssssip*
+
+Jokes aside, this game holds up incredibly well and if you like almost any FPS game there is a high chance that it was influenced by this one in some way. It’s fun out of the box, but if you really want to take it to the next level I recommend using a source port. Specifically, I advise using Quakespasm. It essentially makes this already fun but dated game play like a triple A one released recently. [url=https://www.youtube.com/watch?v=TXrZe1UV0h0]Here[/url] is a video on how to install Quakespasm (see reply to the top comment for how to launch via steam). You may also be interested in using the Quake Revitalization Project, this is a retexture of the game that upgrades the fidelity of the textures while still maintaining their original feel and theme. I actually really like the stock graphics, but do what suits you best. To install the QRP with Quakespasm just download the QRP [url=http://qrp.quakeone.com/downloads/]here[/url] and unarchive the PK3s to get “textures” directories, then put them in id1/textures, hipnotic/textures and rouge/textures (hipnotic and rouge are the DLCs so if you didn’t buy them then you won’t have those).
+
+You’ll also notice that this version sadly doesn’t have the music, but you can get it back! Just get the sound files from [url=https://steamcommunity.com/sharedfiles/filedetails/?id=119489135]here[/url] and then put them into the id1\music directory. Heads up, you will probably have to create this directory inside your quake folder manually, and it changes to hipnotic/music and rouge/music for the DLC respectively. If that doesn’t work for some reason then read around that steam guide and, if you are using it, the Quakespasm documentation.",0.7769551873207092,40,True
+2310,32717499,76561198023716920,"[h1]Quake (Original) Rating = 10/10.[/h1]  
+[h1]Quake (Steam Port) Rating = 5/10 (Due to missing soundtrack).[/h1]
+
+
+[h1]That aside, how Quake beats modern games:[/h1]
+
+Quake doesn't cost $59.00USD for ROW and $89.99USD for Australia.
+
+Quake doesn't entail a 100Gb+ Download, even when it's purchased from retail stores.
+
+Quake doesn't start with dozens of unskippable dev/publisher/external studio/hardware manufacturer/proprietary technology logos.
+
+Quake doesn't have unskippable & useless tutorials [i](Press ""FIRE"" to kill bad guys.  Press ""JUMP""  to jump, etc)[/i].
+
+Quake isn't a lazy console port, with no settings, 720p lock, 30FPS lock & poor/no optimization.
+
+Quake's expansion packs are not Multi-Player only.
+
+Quake's main content isn't locked away behind DLC paywalls.
+
+Quake supports Keyboard and mouse and doesn't ""Require"" a console controller to play, as the devs took PC players into account, rather than being purely console centric.
+
+You don't get a hallway level split up with dozens of pointless cutscenes [i](which are usually 30FPS pre-rendered cutscenes with audo/video desync issues, and bloat the games filesize)[/i]. 
+
+You can explore instead of getting the [i]""you are leaving the mission area""[/i] warning with 10 second countdown to mission failure, when you so much as look off the beaten path.
+
+Quake doesn't require 3rd party game clients pairing with Steam [i](like Uplay)[/i].
+
+Quake isn't laden with as many forms/versions of intrusive, anti-consumer  DRM the greedy publishers can think of, which the filthy pirate scum bypass in less than a week, leaving the legit customers to wrestle with the tons of bundled crapware, causing instabilities, hogging valuable resources, straining hardware and increasing the game's system requirements to run.
+ 
+Quake's best weapons don't require paid DLC to access.
+
+No massive EULA, all in legal jargon to skim through, and having no choice but to either accept all terms unconditionally, or not play at all.  Effectively selling your soul to the publisher and only renting the game instead of owning your copy.
+
+In Quake, you are not hampered by dumbass NPC's that walk into your gunfire triggering a mission fail, because [i]""Friendly Fire will not be tolerated!""[/i].
+
+[b]And thank god for all of that!!![/b]
+https://www.youtube.com/watch?v=W1ZtBCpo0eU
+[i]*Note: This video is not mine, and not from my Youtube Channel.  It is a great analogy of what would happen if Quake was made today and is worth watching.  Kudos to the people that made this video![/i]
+
+[h1]Use the ultimate Quake patch to restore the music.  [/h1]
+
+[b]A word of warning if you are Australian. [/b]
+
+Getting caught downloading the soundtrack will land you on a piracy charge.  This is  because the Australian Federal Government is butthurt about Australia being labeled the number one country on earth per-capita for piracy and copyright infringement.  Turnbull and the LNP are bending over for the the MPAA and RIAA by nullifying ""Fair use"" exemptions, monitoring and retaining data from Australian IP's, blocking Websites & P2P Ports in an ever increasing amount, and making examples of those busted with extremely aggressive prosecution tactics, and insanely high sentences. 
+
+Use a VPN and change your DNS on your router [i](to 8.8.8.8 and 8.8.4.4 respectively)[/i], if downloading the Quake soundtrack in Australia.
+
+As I, myself am Australian I can't link the Ultimate Quake Patch here in this review.  Google is your friend, just scan everything with your AV before opening for your security!",0.8226063847541809,147,True
+2310,97887355,76561198089331221,"feel like a lot of people are reviewing this without actually having played the new port, and are just leaving positive reviews off just the changelist? which is kinda questionable to be completely honest lol. i've now had about 1.5 hours in the new port (played through the first episode and some of the second), and honestly in its current state i don't know if i would recommend it over a sourceport.
+
+first the pros: all the new additions content wise are amazing and well deserved, the soundtrack finally being playable on the steam build is a dream, and the inclusion of the mission packs, quake 64 AND the new machine games episode is amazing as well. dedicated servers for multiplayer is also a nice addition, since QuakeWorld is super annoying to set up and get working, especially when working with different source ports between friends. the inclusion of a Doom Eternal-style weapon wheel is also a nice addition, but that's personal preference for whether you'll use it or not.
+
+then, the cons: primarily, and this is the main reason i can't recommend this, i've been getting a few but noticeable performance issues with this port. slowdown and stuttering is super common, which is weird for what should be a simple port of a game from 1996, even with the new graphical settings enabled. considering i don't get any sort of similar issues with existing sourceports with similar graphical settings, this is annoying. (for reference i have an i5-7500, GTX 1070, and 16gbs of RAM)
+
+another major issue is noticeable mouse latency? even with mouse smoothing turned off inside the menu, it feels like it takes a fraction of a second for my crosshair to ""start"" moving, which is super disorienting and never felt properly in control due to this issue.  
+
+by default, cl_backspeed is also set to 200 for some reason, when it's 400 in the original? meaning by default, you walk backwards half as fast as in ""original"" quake, but you can type ""cl_backspeed 400"" in console to fix it. 
+
+currently with these issues, i would say rip the game files and go play quakespasm-spiked or vkquake. if they fix it, i would love for this to be a ""definitive"", easily available, and solid port of quake, but can't say that right now.",0.7654719352722168,89,False
+2310,83150608,76561198047528723,"FIND THE SOUNDTRACK BEFORE PLAYING (GUIDE AT THE BOTTOM.
+
+So basically this game's still decent if you buy it and just play it. But you'll have it without the soundtrack. Notice how ammo boxes for the nailgun have NIN on their sides. Nine Inch Nails is what you shoot and what you listen to. NIN made the soundtrack for this game.
+
+If you have it, if you play through those levels with this grim industrial NIN noises in your ears the experience will be just bombastic. Seriously, give it a go. It's ""the early nineties: The Game"" with that soundtrack. It's like playing System Shock with OST and without OST. It's just not the same
+
+Links:
+this is the guide for including the soundtrack. To do this you NEED a quake client (basically the game modified so it doesn't try to read songs off the physical CD in your physical CD-ROM drive which... you don't have, eh?)
+https://steamcommunity.com/sharedfiles/filedetails/?id=119489135 
+Basically you get those soundtrack files (all legal btw, you payed for the game on steam, it's chill) and you paste them into the game folder (Id1 folder is what you copy/paste).
+
+For the above to work go here:
+https://steamcommunity.com/sharedfiles/filedetails/?id=118401000
+Basically you download a client. You extract it in your QUAKE steam location (right click on game in your lib - properties - local files - open game location). You then RENAME ""Winquake.exe"" to ""ORIGINAL Winquake.exe"" (or just delete it if you don't care). and RENAME engine executive (I used quakespasm, so I renamed quakespasm.exe) to Winquake.exe
+
+You do them steps - you got your QUAKE with NIN soundtrack.
+
+Get wasted, put on your headphones and blast away at 1 in the morning.
+
+Made me feel young again.",0.814552366733551,45,True
+2310,23686270,76561197982685987,"Pro tip for having a VERY great time with this classic. 
+1- Once you install the game, DON'T launch via Steam; instead, download ""Quakespasm"" into your Quake directory (it's free!) and run THAT instead- starts INSTANTLY- no ads, company trailers or Bethesda launcher prompts from that sneaky 'update'.
+2- Check out QUADDICTED and download some fun mods. I highly recommend ""Arcane Dimensions"" and ""Alkaline"", but they're just the tip of the iceberg.
+3- Enjoy!",0.8102310299873352,42,True
+2310,196803238,76561197961930835,just telefragged a lovecraftian being whose name is a slur i cant say. good game.,0.7584776282310486,29,True
+2310,98745519,76561199202956306,"This game is great, and very dear to me. Growing up, I didn't play many games but I always remember my Dad would get home late from work and we would spend some time on his old computer playing Quake before I had to go to bed (then I would check my closet for Shamblers). Even today, it still holds up well! Fast and frantic, but smooth and responsive. I always liked how fast Quake was compared to other shooters. The weapons, the monsters, the sounds and music. It all mixed so well together and I would highly recommend this game for fans of the FPS genre. And for anyone who has not heard of it! Nightdive studios even came back and updated the visuals and netplay!  
+
+It's a classic game that is older than I am. But even though it came from a different era, I hold it close to my heart. The style is simple, but effective. There will always be the newest games that come out with fancy gameplay and shiny graphics. But games like Quake and DOOM paved the road with bones and blood so the next generations could follow!
+
+Now that I have time for some hobbies, I knew this had to be the first game I get on my computer. So many memories of late night gaming, blasting monsters with rockets and finding secrets. I cherish them, and Quake. 
+
+10/10 Я люблю тебя, папа",0.7571385502815247,28,True
+2310,13748770,76561197960426881,"Worried Quake might not hold up after so long? 
+
+Seriously, just press ` to open the console, type in ""+mlook"" and ""crosshair 1"", change the resolution, and you're set. This game still has the magic!",0.854453980922699,93,True
+2310,97892254,76561198027990646,"After the update, it slaps your screen with ZeniMax´s EULA, with two key reasons why I'm not recommending it as right now:
+
+-Shady privacy policy, overextending towards what they do on your computer, not just from the game, including MAC Address and personal data shared to third-parties.
+-Unclear if the game, as a whole, is getting close sourced, or forbidding you from doing what has been done in the last 20 years.
+
+Ok but why is any of this important? Let me give you a quick rundown:
+
+1. The game was released in 1995 and open sourced around 2000.
+
+2. Thanks to the open sourced code, the community did, throughout the decades:
+2.1. Lots of maps, custom campaigns and most recently, mapjams were made.
+2.2. Big overhaul mods were done, like Quoth, [b]Arcane Dimensions[/b], [b]Copper[/b] and [b]dump_progs[/b].
+2.3. There's a rain of source ports that surpassed GLQuake by hundreds of miles and several hundreds of kilometers: they make the game playable and/or beautiful, the most popular ones being [b]Quakespasm[/b], [b]Mark V[/b], [b]FTE[/b] and [b]Darkplaces[/b].
+2.4. Multiplayer-focused source ports.
+2.5. A map editor that stood out and made the mapping workflow tenfold easier: Trenchbroom.
+
+3. If you read the EULA, they say you can't cheat.
+
+How about I /noclip my way out of here?
+
+Until they change their privacy policy for good, I'm downvoting this game.
+
+If you don't care about any of what I mentioned, the vanilla game [i]should be[/i] a fun experience (and for nostalgia's sake...)",0.8033510446548462,155,False
+2310,31059784,76561198302153288,"It's funny to think that without Quake the gaming industry would be much different.
+Without Quake, Valve wouldn't have used its engine to create Half-Life
+Meaning we wouldn't have the Hl mods that became games like Counter Strike
+Neither would the Team Fortress mod exist meaning we wouldn't have its money printing sequel
+We wouldn't even have Steam because Valve wouldn't have created Half-Life
+We wouldn't have speedrunning, completionism, modding or machinima be as big in the gaming community.
+So more than half of the gaming industry would be somewhat affected.
+
+Just let that sink in.
+By the way Quake is great you should play it, as well as 2 and 3.",0.748943567276001,27,True
+2310,144370984,76561198017320610,"never played Quake before in my life, so i have no nostalgia goggles......
+
+this game FUCKING ROCKS 
+
+Id Software were so lucky they had hyper-brain's psychic prjoection John Carmack to make such a masterpiece",0.7488173246383667,34,True
+2310,198535489,76561198049419395,"I feel like we've lost something in the last 30 years, because I had more fun playing Quake for the first time than I ever did playing Overwatch or Valorant.
+
+It's so fun to blow up monsters while running at mach 5. I think it's the ruthless efficiency that's so fun. Clearing rooms while dodging enemy projectiles makes you feel like you're good at video games (and at times embarassingly bad). Running past enemies and skipping sections with the grenade/rocket launcher makes you feel like a racing monster (no demons here, this is Quake, not Doom).
+
+The art style really holds up too. Yeah, Quake is the progenitor of all puke-brown games, but it wears it on its chest, and at the time it was an innovation. I feel like this opinion is vindicated with Dimension of the Machine -- the new 2021 expansion -- as it's able to adapt Quake's art-style to curves and modern lighting. Quake has coherent, distinct environments: Egyptian, Medieval, Runic, Terracota, Sci-Fi, Underworld.
+
+As for each of the expansions:
+
+[list]
+[*]Quake: 9/10 -- nicely designed levels, though some sections are a bit dated.
+[*]Scourge of Armagon: 7/10 -- a cool expansion, but the level design isn't quite as good. Awesome set-pieces.
+[*]Dissolution of Eternity: 6/10 -- levels are long as !#@$, and a lot of the encounters don't feel fair. You go up elevators just to see 5 enemies in your face :/.
+[*]Dimension of the Past: 10/10 -- the levels feel like reboot Wolfenstein levels in the Quake engine (that's literally what they are). They include all the level-design innovations of the 20 years after Quake. Well paced, with great action; would make a 1996 gamer's mind explode.
+[*]Dimension of the Machine: 8/10 -- really cool to see new graphics in the style of Quake, but some of the level design suffers. I got lost several times in the loooong levels. Also, I ran out of bullets on all my weapons a few times, which happened because they put 10 high health enemies in a row :|.
+[/list]
+
+I recommend Quake. It's nice to return to the basics of just running and shooting. That's what the game is about, and it does it in the most satisfying way. If you do pick it up, you should probably play on nightmare difficulty -- shooter gamers have gotten a lot better since 1996 when they didn't even use WASD or vertical mouse-look. Have fun, and good luck, Ranger.",0.7453557848930359,23,True
+2310,97879867,76561197993785702,"Locking stuff behind a 3rd party account is unacceptable.
+
+Get it on Gog and launch with vkquake or quakespasm spiked.",0.7437291145324707,70,False
+2310,214289928,76561198010475269,"Quake is still a caffeinated fever dream of shotguns, rocket jumps, and enemies who absolutely deserved it. Somehow it feels faster today than it did in the ’90s, and Steam heroically keeps this ancient relic 100% playable on modern PCs.  No summoning circles or floppy disks required. Proof that great games don’t age, they just respawn.",0.7436751127243042,22,True
+2310,106484446,76561198087794419,"[h1] 🕘          IMPRESSION:[/h1]
+* 1996: Game released & very enjoy the Demo
+* 1997: Quake 2 released and forgotten Quake 1
+* 1999: Quake 3 released and forgotten Quake 2
+* 2021: Massive update make it just like a Remastered
+* 3 hours later: Still addicted... XD
+* 6 hours later: Still many jumpscare!
+* 2023: Replay again due to Quake 2 re-release
+* 9 hours later: Expansion beginning is boring...
+* 14 hours later: Expansion is surprisingly amazing, but too punishing...
+
+[h1]        GAMING CONTENT CHECKLIST:[/h1] 
+* Available = Like +1 = 🟢
+* Not available = Like -1 = 🔴
+
+🟢 Optimized for modern computer
+🟢 Includes all expansions + brand new expansion
+🟢 Explosive Weapon
+🟢 Immersive sound & music
+🟢 No hint for next step
+🔴 Enhance blood & gore effect
+🔴 Capture the Flag
+🔴 Score / Time Attack for replay value
+
+[table]
+    [tr]
+        [th]iMeter[/th]
+        [th]LIKE[/th]
+        [th]iNTEREST METER[/th]
+        [th]DISCOUNT[/th]
+ [th]COMMUNITY[/th]
+        [th]REVIEWER[/th]
+    [/tr]
+    [tr]
+        [th]A+[/th]
+        [td]5[/td]
+        [td]Loving it [/td]
+        [td]No Wait[/td]
+        [td] ✔[/td]
+        [td] -[/td]
+    [/tr]
+    [tr]
+        [th]A[/th]
+        [td]4[/td]
+        [td]Liked it[/td]
+        [td]No Wait[/td]
+        [td] -[/td]
+        [td] ✔[/td]
+    [/tr]
+    [tr]
+        [th]B[/th]
+        [td]2-3[/td]
+        [td]Half satisfied[/td]
+        [td]Wait 50%[/td]
+        [td] -[/td]
+        [td] -[/td]
+    [/tr]
+    [tr]
+        [th]C[/th]
+        [td] 1[/td]
+        [td]Less Interested[/td]
+        [td]Wait 75%[/td]
+        [td] -[/td]
+        [td] -[/td]
+    [/tr]
+    [tr]
+        [th]D[/th]
+        [td] 0[/td]
+        [td]Not what you need[/td]
+        [td]Wait 100%[/td]
+        [td] -[/td]
+        [td] -[/td]
+    [/tr]
+[/table]
+
+🏅 Community Rating: [b]Overwhelmingly Positive [/b]
+🔎 Long Version Checklist ➜ [u][url=https://steamcommunity.com/groups/expectationchecklist/discussions/1/3191361912829046515/]Reveal[/url][/u]
+📢 Disclaimer about Short Hours & English Error ➜ [u][url=https://steamcommunity.com/groups/expectationchecklist/discussions/0/4594180031254224809/]Read Here[/url][/u]
+
+[quote]
+⚖️ iMeter {A} Worth a play, if you enjoy own a legendary FPS game. However, if you're looking for modern shooter, don't play it
+[/quote]
+
+[h1] ⭐️         COMPARE TO QUAKE 1996:[/h1]
+* Added mouse support on menu
+* Added Widescreen support
+* Added FOV options
+* Added crosshair option
+* Added HUD setting
+* Added advance graphic setting
+* Added fog & dynamic shadow
+* Support high fps with little motion blur
+* Added crossplay multiplayers
+* Added 4 player local splitscreen
+* Added bot setup for training & coop
+* Added Horde Mode
+* Added Steam Achievements
+* Added Bethesda profile signing screen
+* Nightmare difficulty rule changed from Fast Enemy into player 50 hp capped 
+
+[h1] 💎         SAME GENRE COMPARISON:[/h1]
+* Many hidden secret area
+* Allow carry more than 3 weapons
+* Weapon reload is not needed
+* Bot support for training
+
+[h1]  🔊         TESTER MUST KNOW:[/h1]
+* Original BGM is playable now
+* Soundtrack storage in folder: rerelease\id1\music
+* Support multiple controllers for splitsreen
+* Dedicated multiplayer servers
+* All DLC Included
+* Play with Mods will disable Achievements
+
+[h1]  ⚠️        RUMOR CHECKING:[/h1]
+* Shady privacy policy ➜ Share personal data to third-parties? we still allow to disagree the EULA rules & refund
+* Slowdown and stuttering issues on i5-7500, GTX 1070 ➜ I'm using almost the same rig, no issue at all
+* Too expensive for  25+ year old game ➜ You can get diferent price at different store
+
+Remember  to 👍 for me if you liked this review:
+🔔 More similar reviews ➜ [u][url=http://store.steampowered.com/curator/31940448-Expectation-Checklist/]Browse Here[/url][/u] and follow this Curator, or
+🤝 Visit Our Gaming Discussion ➜ [u] [url=https://steamcommunity.com/groups/expectationchecklist]We're Here[/url][/u]",0.7922903895378113,76,True
+2310,14994464,76561198059560324,"Back in my day, we rocketjumped uphill to school
+
+both ways
+
+[b][i]IN BOILING LAVA[/i][/b]
+
+Okay so addendum because of the 25th anniversary update:
+Very nice overhaul and full soundtrack/expansions (finally), but the multiplayer is based off of netquake and not quakeworld, so it feels fucking [i]horrible[/i] to play online with a ping higher than 25.",0.7917423248291016,110,True
+2310,217381899,76561197983011932,"A lot of old games, even classics, end up becoming dated, whether it's because of technological advances, changing audience expectations, or developments in game design theory. They were ""good for their time"", maybe even exceptional, but hard to go back to today.
+
+Quake isn't one of these games; despite being 30 years old this year, the game remains as polished and responsive as the day it was released. It's good without qualifiers, and in 2026 is still more genuinely, honestly fun than most modern shooters of the last 10 or 20 years. The lighting and art direction means the game still looks good despite the low-poly models. The sound is impeccable. Controls are responsive. The game is fast, both in terms of performance (you can load it and be in a game in ten seconds from zero, and there is even a settings option to turn off opening cutscenes without having to manually rename or delete the files) and in speed of gameplay.
+
+The 2021 remaster touches up the graphics a little and adds some minor QOL tweaks (like achievements, a mod database, and mouse control of menus), and also includes the original Trent Reznor soundtrack that wasn't included in some other digital releases of Quake. It also includes both of the original official expansion packs and two new ones designed by the remaster developers. Dimension of the Past is the more amateur of the two, and features a lot of hard slogs through some ill-advised enemy placement, but Dimension of the Machine is beautifully realized, with a large variety of evocative new environments and excellent level design.
+
+The original gameplay mechanics are untouched even in the remaster, but if you really want to play the original versions without any changes at all, those are also included. This is a big step up in customer-forward design from remasters which try their best to pretend the originals didn't exist and prevent players from using or accessing them.
+
+(Note for achievement hunters: there is exactly one PvP-focused achievement, but it can easily be gotten in single-player deathmatch with bots. None of the achievements require multiplayer or other difficult-to-arrange circumstances.)",0.7402306199073792,25,True
+2310,9837826,76561198021010166,"A true classic and an example of an fps done right. While visuals may have aged, the atmosphere is still great and the game has some of the best level design in an fps game. Definatly worth",0.8379718065261841,93,True
+2310,214051899,76561198009307367,"Though now we live in a time where every game is trying to be an ""everything sandwich"", Quake brings you back to a time when people were really really good at making a ham and cheese. It gets most things right about being a game, doesn't try to reinvent the wheel, and never breaks in quality the entire way through. Its not hard to see why it spawned so many games that share its DNA. Other games just don't feel the same after you rocket down a hallway twitch-shooting demons with the Super Shotgun. You kind of never want it to end. You know that once it's done, the over-bloating and garbage-ification of modern shooters will become ever more apparent as you delve once more into the slop mines trying to chase that dragon.
+
+But until then, quad damage nailgun.",0.737176775932312,29,True
+2310,73647604,76561197979953970,"Reviewing games I played a long time ago:
+
+I have great memories from it. An absolutely classic that redifined FPS by being the first full 3D FPS and, to an extent, inventing modern FPS controls. It's no surprise it still plays so well.
+
+This Steam version works, but I recomend installing this patch by user Butane: https://steamcommunity.com/sharedfiles/filedetails/?id=1228264051
+
+It will install the soundtrack that is missing from the vanilla Steam version and, most important, modern resolutions, I played in 21:9 with no issues at all.",0.7352893352508545,20,True
+2310,38634616,76561198060001444,"Quake. This is the greatest FPS game of all time. Even all of these years later, this holds up like nothing else quite does.
+
+Of course, now that it's been over twenty years since the game was released, some new technology is around, and using modern Quake clients is the best way to play it now. For a singleplayer experience as close to the original as possible, get QuakeSpasm. For a more modern look to singleplayer, check out DarkPlaces. For QuakeWorld multiplayer, get ezQuake.
+
+Quake has a style to it that no other game has really tried to capture, although that is being changed as of the time this is being written with the development of DUSK. Not even any of the other games in the Quake series are like Quake. Every aspect of the game is incredibly gothic, which is a good thing, seeing as this game was inspired heavily by gothic literature. Quake is a realm in which the overall atmosphere feels undeniably... wrong. Every environment is dark and covered in filth. Every creature in the game would love nothing more than to tear you to shreds. Every area teems with life, yet the ever-looming presence of death is inescapable. Every structure feels alien in nature, yet somehow so human. The walls are filled with their own secrets. Any doorway could be an ambush. All objects metal are rusted. All structures built are falling apart. And all creatures moving are mortal. Even you.
+
+This game (when properly configured) feels amazing to play. The levels are chunky, the controls are tight and smooth, and when you're bunnyhopping all over the place, it's incredibly fast. Seriously, if you only play QuakeWorld multiplayer for about a month straight and try to play any other multiplayer FPS game, they will feel clunky and slow. Even Quake 3/Live and Quake Champions feel slow after lots of QW.
+
+The singleplayer levels are fun and have lots of replay value. Bumping up difficulty levels, speedrunning, and secret hunting means that you can run through them many times without getting bored. Heck, when I test to make sure that I have Quake working on a new system, I test by playing throught E1M1, and then I generally wind up playing through the first couple of levels of E1 because I enjoy it every time.
+
+Multiplayer is fantastic. deathmatches, duels, and team games are all insanely frenetic, and take mountains of skill to get good at. Adrenaline will flow through you the whole way through. When you want to wind down and relax with all two of your friends (may or may not be counting yourself in that number) who play Quake still, coop is a fun way to play without constantly being 95% of the way to having a heart attack.
+
+This game also has an enourmous number of maps, mods, and other goodies to keep both singleplayer and multiplayer fresh. No need to worry about running out of things to do in Quake.
+
+Now for some of the cons of multiplayer. Weapon balance doesn't exist in this game. The rocket launcher and lightning gun beat out all other weapons always. Also, most of the people still playing QW have been playing it for years, if not decades, so they'll be seven gazillion times better than any new player could ever hope to be upon entry. If you stick to it and ask around for help (most of the guys in the QW community are nice and will give new guys a hand), you will get better. You just have to give it some time.
+
+...Oh, singleplayer flaws? Quake doesn't have any of those.
+
+Seriously, If you haven't already bought at least a couple of copies of Quake already, get one! Right now! Do it! It's worth more than Steam is ever going to charge you for it!",0.727783739566803,18,True
+2310,195218166,76561197993913273,Unlike Epic Games. id still has pride in their original creations and supports the fans of the franchise. This is how big game developer companies should treat their customers. Doom and Quake will live forever.,0.7260578870773315,25,True
+2310,51391884,76561198058159844,"It’s a little awkward hearing people talk about ‘classic’ video games, and not just because it’s such a new medium. It’s also awkward because, unlike films and books, a lot of games rely heavily on you playing them around the time they came out to have the full, satisfying experience. Consoles go hard on this, meaning you literally cannot play anything on them that’s more than 10-15 years old unless publishers deem it worthy of a port or remake. On PC, things are different. Between Steam and GOG you’re pretty much set for getting a lot of older titles more or less working on newer systems. The library that the various platforms provide is fantastic (imagine telling someone in 1999 that they would have almost 900 games available in moments without having to leave the house), and anything you can’t find is in for a bit of morally justified swashbuckling.
+
+Simply being able to get the games doesn’t solve the actual issue, though. If, for example, the oldest game I’ve played is from 2007, I’m going to struggle to get into a first-person shooter like 1993’s [i]Doom[/i], the base version of which has no mouse controls whatsoever. Hell, people even struggle to comprehend why they don’t hit every attack in 2002’s [i]Morrowind[/i]. The point is, we’re used to current conventions, and in games these tend to be pretty broad lately. You’re always going to move with WASD, space will always jump et cetera. It becomes hard to judge whether a ‘classic’ game is ‘good for its time’ or just ‘good’, because technical innovations of 1986 are hardly going to be very important to someone playing for the first time in 2019 who maybe doesn’t quite understand why every tutorial and piece of information is in a 300-page manual that came with the retail version.
+
+The point I’m laboriously trying to arrive at is that 1996’s [i]Quake[/i] is a classic. It was spectacular for its time - a cut above id Software’s own [i]Doom[/i] with fully 3D environments and models. More importantly, though, it’s still a really good game because whilst the technology made it remarkable, it’s the powerful, crunchy weapons and breakneck pace of the combat that made it stand the test of time. I don’t think I’ve played another game that made me feel this good about blasting a chainsaw-demon to literal pieces with a double-barrelled shotgun or executing a precise mid-air rocket on a giant flying maggot.
+
+The shooting feels good even by today’s standards, but it’s the labyrinthine level design that actually surprised me. I was sure I’d be hopelessly lost in [i]Quake[/i]’s green and brown castles, but it has this fascinating method of starting you near a locked door, then through all manner of lifts, traps, and walkways to the key, and then handily providing a shortcut back to the door. This is good game design because it makes door-and-key puzzles a staple of its levels without forcing you to backtrack dejectedly past the torn viscera of all the eldritch abominations you just had so much fun slaying moments ago.
+
+Rarely, if ever having to backtrack in [i]Quake[/i] is only part of how it keeps the frenetic pace going. It certainly helps that you’re never running down a hallway without something to kill, but the real reason, and by extension the reason the game is so good, is that the puzzles that make up most of the objectives are actually secondary to what you [i]do[/i] en route to complete them, which is kill indiscriminately. If that sounds like your cup of tea and you don’t mind having to maybe install mods to make the mouse work like it should, then be assured that whoever’s been telling you to play [i]Quake[/i] isn’t just reminiscing over a classic, they’re genuinely recommending a truly good game - one that they may very well still have installed to this very day.
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=732999296]Slipgate Tourist’s delightful guide to getting this working using a very good sourceport.[/url]",0.7758111357688904,40,True
+2310,232326067,76561198010052027,"An absolute classic, fun as hell, gotta go fast, *the* game that made people want 3D accelerators (the things we call ‘GPUs’ these days), the best Rocket Launcher in any shooter ever, the best soundtrack in any shooter ever, and the technical- and social-genesis of so many other games and so many huge online communities that I wouldn't even know where to begin if I wanted to list them.
+
+Neutral review however (not recommended, but not not-recommended) because I don't love this Kex-engine-based remaster that you'll get by buying the game here or on Switch/PS4&5/XBOne. If you really *really* want Steam achievements for Quake and really want to give even more money to the mega-corpo conglomerate of Microsoft-presents-Xbox-presents-Zenimax-presents-Bethesda-presents-id: buy and install this Steam version but then also install “Ironwail” (GitHub andrei-drexler/ironwail) alongside it.
+
+Ironwail is a proper Quake source-port, i.e. a directly-modernized version of the code from the 1996 original Quake. This 2021 remaster is a workalike that merely pretends to be Quake despite being completely different under the hood.
+
+
+To ‘install’ Ironwail:
+― Go to its GitHub project page.
+― Click ‘Releases’ in the right-hand column.
+― The newest version will be the one at the top, and you can ignore all of the older lower-numbered versions below it.
+― Download only one of the archive files from the newest Release: the one whose name matches your computer's architecture, either ‘Linux’ for SteamOS or ‘win64’ for Windows 10/11.
+― Extract anywhere but the Steam folder, and run the EXE; either `ironwail.exe` on Windows or a file plainly called `ironwail` on Linux.
+― Select “Add a non-Steam game to my Library” from Steam's ‘Games’ menu and add `ironwail.exe` (just `ironwail` on Linux) if you want to launch it easily from within the Steam UI.
+
+
+In theory I would have zero problem with Quake-remaster being a different engine internally if it actually worked well, but I've found it to be extremely unplayably buggy. It has somehow even gotten worse over time. The newest update crashes immediately at launch on my Intel 11th-gen integrated graphics (Framework Laptop 12) without tweaking the launch options to force D3D11, then it's riddled with glitchy textures and weird incorrect model warping once I do. The previous version ran okay without tweaking but refused to unlock achievements for me for anything after Episode 1 of the base game despite not using cheats, not using map-select console commands, and doing everything else you'll find suggested in threads where other people have the same problem. The remaster is just bad, its usage of a different engine obviously a business decision so they can sell it on the largest number of console platforms with the least amount of investment, and I have no faith in Bethesda/NightDive to ever make it not-bad or to not break it again in the future if they did.
+
+Once you have Ironwail set up, run it and it will find and directly load the remaster's game ‘pak’ files (the archive files that contain the actual ‘Quake’ parts of Quake like the maps and models and sounds and music) so you don't have to supply anything else yourself. Ironwail will even present itself to Steam as the remaster's Steam App ID so you get Steam achievement unlocks! Your online status will show you as playing remaster-Quake but you'll actually be playing something much better.
+
+
+As for my review of the game episodes you get here…
+
+― the original game, just ‘Quake’: what is there to say? It's the reason anybody is reading this or still playing this at all. Tortured development cycle, ripped id Software apart at the seams, but *damn* what a game. American McGee's levels (especially episode Ⅲ) are my favorites. Play the NIN soundtrack *loud*! If you played Half-Life first you might be a little shocked when you notice how HL's Headcrabs and standard Zombies are mere re-skins of the two attacks of the Fiends in Quake, leaping and scything respectively, and how Vortigaunts are obviously re-skins of Quake's Shamblers with their long-range lightning attack and short-range clawing attack. Half-Life is excellent, of course, but it stands on the shoulders of this giant!
+
+― Scourge of Armagon: didn't like it at first, because I went straight into it after a playthrough of the base game, so I was still in the mood for gothic NIN stuff and Scourge of Armagon is not that. The new weapons feel very incongruous with the ones from the base game, very QuakeⅡ-ish. I ended up enjoying it, and it does some stuff in the engine that would have been very cool to see in 1996, but far too many of its maps are one of those “Where the fuck do I go?” kind of games that will have you annoyed and bored running around in circles.
+
+― Dissolution of Eternity: its first episode is the low point of everything here, so many damn pushbuttons and enemies spawned directly in your face. R1M5 was just straight-up bugged and couldn't be finished on my first attempt. In the interest of saying something positive about it: the Phantom Swordsmen are a very cool enemy. Dissolution's second episode is great however; loads of cool Egyptian-themed levels, new mobs like the knight statues that come to life, and actual bosses! The two halves feel like they were made by two completely different teams of people. I'm not going to bother looking up credits to see whether or not that's true lol
+
+― Dimensions of the Past: I beat Dimensions of the Past in one shot on Normal and wow was it hard. Not in a bad way *usually*, but there were a few times I ended up having to use the Axe on Death Knights, which was obnoxious. Very cool level design, like base Quake with the BSP limits removed so everything is bigger and there's more going on at once.
+
+― Dimension of the Machine OTOH was very very well balanced; I loved it. Challenging but very rewarding map design. I loved how many times they had power-ups in areas you would eventually backtrack into, so it's up to you if you want to use them now or later. It solves one of the biggest annoyances in the base game where you'll clear out a room full of enemies and only then discover a Quad Damage or Armor pickup. Great environmental storytelling in a Half-Life-ish kind of way, like when you walk in on a squad of Enforcers trying to fight a Shambler. I love how it solves the no-ammo problem from the last episode by having deathmatch-style ammo spawners in single player. Simple and effective.
+
+― Dawn of the Machine: MachineGames have perfected their Quake level design skills here. Huge levels full of hundreds of monsters each, but never in a way that feels like a slog. They actually managed to make me love backtracking, at the individual-map-level and at the episode-level alike. In any given map there will be a central area that you will keep coming back to after a long trips in some direction followed by unlocking a return door to allow faster travel. The early levels will have doors you can't open at all on your first time through. Very ‘Metroid-vania’ in the best way. I absolutely *love* the way they reward secret-hunting by letting you find permanent (for the duration of the episode) upgrades to your maximum health and maximum ammo of each type, all of which start very limited. In exchange for making you start very limited, they signpost the secrets à la Half-Life (with a pentagram instead of with a lambda) so they're much easier to find than in any other episode. They do all sorts of technical teleportation ‘time-travel’ trickery that would be an annoying gimmick in the hands of a less-skilled team but which are pulled off brilliantly here.
+
+
+Remember that the episodes included here (even the modern ones) are merely the tip of the Quake iceberg! There are, not an exaggeration, *thousands* of maps available for this game, and even plenty of packs curated into longer episodes like the ones here. Once you're done with everything you get here, check out Quake Brutalist Jam and Quake Retrojam!",0.7252655029296875,39,True
+2310,141362796,76561198378045511,"As a person who loves brown, blue and purple colors
+
+Pros :
+- almost everything is brown
+- sometimes blue
+Cons :
+- almost everything is not purple
+
+I recommend this",0.7738626003265381,39,True
+2310,108347753,76561198112496465,"Do I recommend Quake? Yes
+
+What you get here in this package is the following
+-Quake
+-Quake Mission Pack 1: Scourge of Armagon
+-Quake Mission Pack 2: Dissolution of Eternity
+-Dimension of the Past
+-Dimension of the Machine
+
+In addition to the updated engine made by Nightdive you also have the original DOS version of the game along with WinQuake and GLQuake engines from that time, 
+all three of which can be ran on a retro battlestation if you so choose (though I believe the CD soundtrack is missing when you try that).
+
+Your first stop should be the base game itself, Quake. Quake's campaign spawns accross 4 episodes, where the end goal is collect each episode's runes to unlock the boss bottle.
+The boss battle is pure CBT, but satisfying once completed
+
+After that you have the mission packs that came out in 1997, Scourge of Amargon (Ritual Entertainment) and Dissolution of Eternity (Rogue Entertainment). 
+Both mission packs combined add 5 additional episodes all of which being more challenging than the base game. 
+Both episodes add new enemiesand  weapons. 
+In addtion both bring back different concepts and mechnics cut from the base game or ones sparingly used, as well as introducing its own fresh ideas.
+
+Then you also have Dimension of the Past, an epsisode released free in 2016 by Machine Games celebrating Quake's 20th anniversary.
+This one is particularly shorter than each of the mission packs. This one is closer to the base game in content.
+It is a good quality episode.
+
+Lastly, there is the new Dimension of the Machine (also developed by Machine Games). This one, is just wow. Right away you just are just blown away by the starting hub world that really gives off doom 2016 vibes. A level that really just had me at awe was Acid Sanctuary. You get 5 mini-epsisodes here each spanning 2 levels each with the first episode also have a secret level. Like with the vanilla game and expansions, completing all episodes unlocks the final level. The final boss battle brings back the one from the first episode of the vanilla campaign and is quite tough. Dimension of the Machine also introduces the new Horde Mode which is a co-op survival mode that contains 4 exclusive levels.
+
+So what aqre you waiting for?",0.7700225114822388,32,True
+2310,98925886,76561198025948522,"So, Bethesda has decided to make a Quake sourceport with the help of Night Dive studios, and, luckily, to give it as a free update for owners of Steam original. Clearly, the real intent behind it was to get 10 bucks from PS, Xbox and Switch owners, which, as it seems, has paid off. Now, I will assume in this review that the reader is aware of what Quake is in general, and will concentrate on what the thing that's being sold encompasses.
+
+This is a Vulkan-powered Kex engine-based source port of Quake 1 with both ""classic"" addons (Scourge of Armagon and Dissolution of Eternity) and two new addons by Machine Games (Dimensions of the Past and Dimensions of the Machine, the last of which is actually created specifically for this release), with an ""add-on"" in the form of a pack that allows to play the Nintendo 64 version of Quake with blurry filter and changed level set and geometry.
+
+On the technical side the game plays mostly well, with hitches possible on lower-end setups (probably disabling dynamic lighting will help), and has several non-critical but annoying bugs:
+1) The game can crash on launch or when switching game module (between campaigns). Launch crash is fixed by removing or renaming video files in rerelease/movies folder. There are also reports of crashes due to Vulkan issues, and some people solved it by force switching the game to OpenGL or DX renderer (there should be guide on forums or in Guides section)
+2) The game has collision detection issues on several mobs, most specifically – Shamblers love to ignore rockets, which can be fatal on higher difficulties (they already receive lowered damage from rockets, so wasting them already, but when they just go through the target??)
+3) Some people have Bethesda.Net connection issues, which damages multiplayer capabilities
+
+Overall the port is rather flexible, with possibilities to range visuals from authentic DOS Quake looks to something close to higher Darkplaces settings with partial dynamic lighting on flashes and certain light sources (in Dimension of the Machine specifically).
+
+The only significant gameplay change I found was tweaked Nightmare difficulty, where mob triggerhappiness was reduced in exchange for lowering maximum player HP to 50 (with minimal respawn HP at 25). The exchange is more or less fair, and I had no significant issues with completing all campaigns on Nightmare (though Shambler and Vore spam in certain levels do call for extensive savescumming, especially with random nature of Shambler choosing to do their lightning attack at close range).
+
+Now, there are 4 big addons most people haven’t played (unlike the main campaign), so they are worth separate mentions.
+
+[b]Scourge of Armagon[/b] is the most ambitious and advanced expansion made by Hipnotic. It adds a bunch of new enemy types (mechascorpions, gremlins, wraiths) and several new guns (proximity grenade launcher, plasmagun, MJOLNIR). Level design is competent and varied (unsurprising – even Levelord had his hand in making this addon), it adds several interesting mechanics and is probably the most enjoyable of the addons.
+
+[b]Dissolution of Eternity[/b] was made by Rogue in parallel to SoA, and has similar concept, yet I’d say it is weaker (though still very enjoyable, except for final boss that is). It too has some interesting additions and tools, like alternative fire modes for nailgun and supernailgun, grenade launcher and rocket launcher (CLUSTER ROCKETS, YEAH) and a couple of new enemy types, but it has overall less interesting level design and feels a bit incomplete. Still, lots of fun and recommended play.
+
+Machine Games' [b]Dimension of the Past[/b] and [b]Dimension of the Machine[/b] won’t get as much praise from me. they are undoubtedly competent, and DoM is at places stunningly beautiful in visual department, actually being able to rival Arcane Dimensions, but both addons lack what SoA and DoE had: variety. They are extremely samey, stretching the base Quake mob set far too thinly. Oh, there are 4 fiends again. And now 5 scrags. And now 2 shamblers. Oh, underground section with zombies. Been there, done that. Plus, while levels ARE very detailed, many of them blur together, with only specific setpieces standing out, like huge windmills or prison section in DoM. DoM is especially suffering from mob thinning effect, with 200-enemy maps dragging forever with identical encounters over and over. Some arenas are very fun, like final fight in Dimension of Cultists, and final boss was lots of fun to deal with, but, alas, both Machine Games addons lack what SoA and DoE had: new tools to spice up the play. I was actually surprised to see they did not use any SoA or DoE content, or haven’t added anything new to DoM (well, except for texturework, obviously). Still, both Machine Games addons are solid experiences quite worth the play.
+
+Mod support on this port is mostly functional, with some issues on more complex releases like Arcane Dimensions. Something like Quake 1.5 won’t probably work on this, though.
+
+Overall this remaster offers a solid package, and original Quake files were left intact, allowing to properly use any sourceports and tools with Steam version.",0.7698847651481628,39,True
+2310,143569843,76561198089116003,"Are you having sex? If you are, then stop. More sex equals less Quaking, Less Quaking equals less hair on your chess and balls. Less hair on your chess and balls equals weak fuckin' men. Weak fuckin' men equals bad times. Except there IS no bullshit cycle about ""bad times make strong men and strong men creates good times"" it a fucking bullshit lie created by the C.I.A and the O.S.I to keep people like you from playing Quake. Honestly, how the fuck can ""strong"" men spawn from bad times? If your father plays some weak shit like ""Apex Legends"", ""Valorant"", or god forbid using an epic launcher for anything other than Fortnite, you would take from these traits and become a weak man just like your father. Does that sound like a cycle to you dumb fuck!? No, it fucking doesn't! Now stop being a dumb fuck and buy quake now, It's an order!
+
+
+
+(P.S: Sorry for calling you a ""dumb fuck."" I still love you ;) )",0.7191614508628845,99,True
+2310,232717952,76561197998827138,"Back in that time I played, if I'm not missing any, the following computer FPS: Wolfenstein 3D, Corridor 7, Doom 2, Heretic, Duke Nuken 3D,, TekWar, Blood, Shadow Warrior.
+
+Somehow, I had never played Quake at the time. And still hadn't played it until trying this remake.
+
+So I can't talk about how accurate the remake is, or isn't. I can tell that obviously there's a lot of gameplay modernization here, like perfect mouse controls, and some great use of a modern graphics engine, but aside from that I can't say how much changed.
+
+This remake does come packaged with a playable version of the 1996 release, but going straight to it is obviously rough. There are certainly some fan mods and re-implementations of the original that would be a better experience for this, I imagine, at least giving it modern mouse controls and such. Might try it someday.
+
+What I do can say is that if this remake is even remotely accurate to what the original was at the time, then yeah, I get it now why Quake was so talked about, and I get what I missed.",0.7188417315483093,21,True
+2310,151511367,76561198055235843,"[h1] There's a reason why it's a classic [/h1]
+
+People returning to Quake after all these years evoke the feeling of nostalgia but I found the game refreshing. 
+	Quake takes us into a journey through dark, greyish castles, runic catacombs, caves and few military bases. Levels are designed to work as a puzzle where player gradually unlocks new ways by fighting against monstrocities. This is a remnant of the desing where developers took pride in making challenging content. Quake's maps are spiked with traps, secrets and meaningful power ups. While there are limited types of monsters, their varied attack patterns create chaotic and difficult encounters worthy of praise.
+
+	The additional content in form of official map packs further strengthens Quake's offering with most recent Dimension of the Machine being an absolute pinnacle of artistic map design. 
+
+	The legendary fast paced, chaotic multiplayer, once a groundbreaking innovation is still a blast to play after all these years. Unfortunately low player numbers result in partially filled lobbies. The cooperative mode adds a new layer into venturing through the world of Quake.
+
+	Id software, Bethesda, Nightdive Studios and Machinegames could have gone the way of lazy remasters done by many AAA companies these days, but they hadn't. They delivered a competent and complete package, offering hours of content and showing their great appreciation towards the fanbase and map creators. 
+
+	Quake remaster is a nostalgia trip reminding us of how fresh the older titles can feel after all these years.
+
+	I recommend this game.
+
+If you are interested in a full length video review, here is my youtube channel: https://youtu.be/spbR4r0MDFA",0.717528760433197,22,True
+2310,9362022,76561198010752029,"I'ts one of those old games where you kill armies of hell and then die from the fall damage later.
+
+Classic/10",0.8150621056556702,185,True
+2310,94168816,76561198031752003,"Happy birthday Quake!
+
+Released on this day 25 years ago. Few games from that era (if any) hold up as well: fast, raw, atmospheric.
+
+It also has the distinction of being the only PC game I've bought at Costco.
+
+A must-play game. Still.",0.7621132135391235,33,True
+2310,225466301,76561198268749500,"Quake is a really fun fast paced FPS, with really great combat, weapons, and the maps are one of the best parts of the game, since  it's like Doom, except it's a Lovecraft version of it. Definitely recommend this game.",0.7119065523147583,22,True
+2310,97877018,76561197977654536,"You start as Quake. The strongest, most dangerous person on the continent. The fight for justice will be the finest PC game yet. 
+
+Now includes 4 free expansions, achievements, online multiplayer and coop, visual upgrades and more!",0.711769163608551,66,True
+2310,228199657,76561198137681055,"If this beautiful game wasn't made, there would have no call of duty, no battlefield, no apex legends, no cs2, no half-life or no valorant existed. You don't have to love this game but you will respect it :)",0.7108010053634644,20,True
+2310,102282096,76561198027381749,"With the recent re-release of this original masterpiece, now has never been a better time to start up or jump back into 
+The Elder God's of boomer shooters... [b]id's Quake.[/b]
+
+An assortment of weaponry, dungeons and castles, disgusting otherworldly creatures, secret items and levels deep within the dark corners of Quake's madness, and Trent Reznor's eerie soundtrack is all that will haunt you in your play through of this beautiful dark classic.
+
+While I am incredibly biased towards Quake 2 (nostalgia purposes and never having played Quake 1 growing up) 
+Quake has truly bumped it's way up to being on the list of my all-time favorite games to have experienced and played.
+
+The darker tone and mood, the maps (especially the newer Dimension of the Past and Dimension of the Machine expansions), H.P Lovecraftian enemies, the sounds, the music, the classic jump grunt all clicks together to make it unforgettable. 
+
+It's also worth noting that with this package, you can play Quake easily from the new ""remaster"" version or go to the unmodded, complete original. A fantastic addition!
+
+Now, Shub-Niggurath is awaiting her forces to overtake Earth and other dimensions... get to it, Ranger.",0.710761547088623,27,True
+2310,88473980,76561198984815963,"Bought this for Dusk mapping.
+
+You know Quake, one of the most influential and genre-defining FPS ever. It de facto standardized many ways a FPS game would be like. Till today, a lot of game are based on Quake or its successor Quake II, e.g. aforementioned Dusk and Valve's Goldsrc, either in gameplay or the engine itself.
+
+I'm glad to see we Retro FPS lovers today can still have new games to enjoy, thanks to Quake.
+
+[h2]GNU/Linux Support: Platinum[/h2]
+Runs in Proton 3.7
+[table]
+    [tr]
+        [td]OS[/td]
+        [td]Linux Mint 19.3 Tricia 64-bit[/td]
+    [/tr]
+    [tr]
+        [td]Kernel[/td]
+        [td]5.4.0-65-generic x86_64[/td]
+    [/tr]
+    [tr]
+        [td]CPU[/td]
+        [td]AMD A10-7300 Radeon R6[/td]
+    [/tr]
+    [tr]
+        [td]GPU[/td]
+        [td]AMD Radeon R5 M255[/td]
+    [/tr]
+    [tr]
+        [td]Vulkan apiVersion[/td]
+        [td]1.1.70[/td]
+    [/tr]
+    [tr]
+        [td]GPU Driver[/td]
+        [td]4.5 Mesa 20.0.8[/td]
+    [/tr]
+[/table]
+
+[h1]Check more Linux game reviews in [url=http://steamcommunity.com/sharedfiles/filedetails/?id=1275551808]Games, Linux, Steam, reviews.[/url][/h1]
+[quote]
+Note for [b]Evgueni [Linux user][/b]:
+Category for this game: [b]Retro FPS[/b].
+[/quote]",0.7102139592170715,20,True
+2310,20383666,76561198064592337,"*Disclaimer: I have HUNDREDS, if not THOUSANDS of hours with this game outside of steam*
+
+So what is quake? Quake was, and in my opinion, still is a benchmark of what a [strike] good [/strike] absolutely amazing game should be. And that benchmark doesn't only aply to the FPS genre, but all games.
+
+When this game first came out, there was a demo for it. (That's a sample of a game that lets you try it out for free to know if you like it). Only quake didn't do what most games do now. Firstly, It HAD a demo, and it was non-restrictive. No time limit, nothing. You didn't get the whole game of cource, but you got ONE QUARTER of it! That's better than the one dinky level you get to play with in modern game demos. Or the $4.99 you have to pay for a...sports game demo. *Cough* EA *Cough*.
+
+Its this kind of commitment to giving the customer a great experience that contributes to Quake's general awesome factor.
+
+This game came out before Triple A companies were pandering to people with... How should I put it... Less than adequate skills to beat a level. If you chose a hard difficulty, the game let you know, by PUNCHING YOU IN THE FACE if you were inept enough to shoot yourself in the face with a rocket, or give a Shambler a bear hug. Quake asks the question ""What's regenerative health? You messed up and had yourself a new asshole ripped by a demon? Tough luck bud, you're gonna play though the next two minutes with ONE helth!"" This game made you feel like you actually acomplished something if you beat it on the harder difficulties. If you played through on easy, yah you beat it, but you can't look someone in the eye and say ""I beat quake"". You have to beat it on HARD...or NIGHTMARE. In fact, only the worthy Quakers could beat the game on nightmare mode because they hid it. That's right. They didn't want people smashing their computer screens because they thought they were home free with 49/50 kills, only to be mucked by a fiend.
+
+There was more to this game, and more though put into it in 1996 than there is in a lot of big budget games of today. The levels weren't linear and you weren't forced to do anything, because that's stupid...STUPID!. I lookin' at you Call of Duty. All Quake did was say ""Hey. You see that level there? There's an exit somewhere in there. If you find it, you beat the level."" Then Quake patted you on the head, and let yo go on your merry way. There was no loud messages says ""PICK UP THE GUNS AND SHOOT THAT ONE SPECIFIC GUY!"". You could run though the levels dodging all the enemies and picking literally nothing up, although I speak from experience when I say that does NOT work on harder difficulty levels.
+
+Quake has a lot of replay value. Mostly because unless you go down the scrub road and watch a walk through so you can brag ""I got 100% completion on Quake on my frist play though!"", then you're gonna miss stuff, such as secrets. Hell, sometimes even I forget to walk through that one window that looks slightly different than all the rest. But when you DO get all secrets and all kills on all four episodes (yes there are four), each of which contains 7 levels (not including the SECRET FREAKIN LEVELS), then you have won not only Quake, but life itself. Quake doesn't have achievements because it doesn't need them, because when you tell osmeone you got 100% on Quake on NIGHTMARE mode, they believe you. Because one does not simply lie about gett 100% on nightmare mode on Quake. Besides, if you want to play Quake for achievements, you're playin' it for the wrong reason.
+
+Let's quickly talk about the story of Quake. There's not really a story to Quake, aside from a dinky little .txt file. That's because Quake IS the story. If somebody asks me what the story line of 'That old ass game' I'm playing is, I yell in a very peculiar voice ""QUAKE. That's the goddamn story!""
+
+The enemies in Quake are amazing. They show no mercy. They don't have some stupid weak spot for you to shoot while they stand still for 10 seconds. Oh no. If you're low on ammo, and you see a Shambler, you don't simply try and kill it. You have two choises. Run, fast, in as straight a line as possible to ammo, and to health because you had half of it zapped straigh out of you asshole, or you climb to the tallest tower that's convenient, jump off, and restart the level, this time not being so dumb as to forget to pick up that pack of ammo. If you're looking for epic climactic (hehe, that's a double entendre) boss fights, then you might be disappointed with Quake. There's two of them if you really want to call them that, but again, if you're playing Quake for boss fights, you're playing it wrong. Quake is about fighting through hoards of ememies that on their own may not put up a huge fight (although most of them could single handedly rip off your face while reading shakespear), when you have 10 grenades flying at your face at the same time as your testies are being gnawed off by demond fishies, you health goes from 100 to squichy mush pile status real fast.
+
+Sound design is something that Triple A companies like to talk about a lot, but then they often end up goofing it up, providing me with a symphony of mushy repeating sounds. Quake isn't like that. The ambiant noise is actually scary sometimes. Not spooky... Scary. They sound track is bang on. People often bitch that the Steam version's sound track doesn't work. It doesn't work 'right out of the box' so to speak, but give the game a break. Its running on an operating system SIX..count 'em...SIX generations newer than it was designed to do. That game was made in '96 and its 2016. The fuckin' game's onlder than I am, and I can't play that sound track either. But I digress. The sound track works fine with a few little tweaks, and its amazing.
+
+Multiplayer is also something that is, or rather I should say 'should' be important today. It was important for Quake though. Over the years, there have been many MANY Quake tournaments. And they're still going on. There were no official dedicated quake servers, but there are dozens that you can connect to that have been running since '96. Have you got ANY idea how amazing it is that there are still multiplayer servers with people on them? Codemasters shut down all their Race Driver Grid servers two years ago for whatever new game they were releasing at the time, which nobody played online anyway. The Quake community does it RIGHT goddamnit.
+
+In 1996 people loved to mod Quake. Today, there is still a huge modding community (where's our gaddamn steamworks!?). You can play Quake in a client that can make it look comparable to some modern games (and no I'm not talking Minecraft or Clash of Clans graphics either. Proper graphics from today). And your not going to have some dickweed company try and ban you for enhancing graphics. Also, this game is DRM free, because DRM wasn't a thing in 1996, and thank FUCK that Steam or ID didn't try to empose some form of BS DRM on the Steam version of Quake. When I buy a game, and give somebody my money for their game, I don't wana have them check in on me every half our to see if I'm doing 'illegal shit' with my game GODDAMNIT! *Clears throat* Anywho, you can get countless mods and maps (some with stories too!) from a bunch of different websites over this magical thing called the internet. And the game wasn't built to reject mods because they didn't want you to 'tamper' with their baby...*Cough* Rockstar *Cough*
+
+In conclusion, this game is WAY beyond amazing. No joke, I give this game 10/10. This may be the best game ever made.
+
+Remember this. Whether or not you know it or not, you love Quake. And Quake loves you... In a rip you face of and make you restart the level because this game is not for the weak of heart and doesn't have stupid annoying auto save and you forgot to save your progress kind of way.",0.8081168532371521,65,True
+2310,31370074,76561197964253420,"You have just discovered the daddy of all true 3D shooters.  It's primitive compared to today's games.  The graphics are from a simpler time - a time when game play ruled and stories were for children.  It's not pretty.  No... It's dark, brutal, and unapologetic.  It will rip out your gaming spine, chew it up, and spit it back in your face.  There's no hand-holding here - no tutorials, no hiding behind things to heal - just an ""easy"" mode for those who don't know what a real FPS game is, and ""Nightmare"" for those that accept no compromise.  Out of ammo?  Look for some, or see how useless your axe really is.  You get hurt?  Find your own friggin' health box.  They're all gone?  Well too bad.
+
+This is QUAKE.
+
+Forget your 360 no-scopes.  Forget your controllers.  Forget your sissy regenerating health.  Forget your backup.  There is no backup.  It's just you against evil unleashed.  You will clench your mouse in fear.  Your knuckes will turn white scrambling for your strafe keys.  You will watch with utter horror as you find there is no substitute for skill, no mercy from your enemies, and nobody to hear your screams except your own twisted mind.
+
+You think you know gaming?  You think you're hardcore?  Are you ready for four complete episodes of nightmare-fuel visions of Lovecraftian horror that will pummel your pride and assault your senses?  Are you ready to face Quake's fearsome hordes with nothing but your wits and your weapons to save you?  If you want to know how true gamers were forged, this is the anvil upon which they were beaten.  This is the crucible of champions.  It is waiting for you.
+
+If you dare.",0.7509933114051819,50,True
+2310,76923059,76561197997993547,"[table]
+[tr]
+[td]
+[h1]100%[/h1]
+SCORE
+[/td]
+[td]
+New era of gaming started in 1996, with release of Quake.
+
+[b]First true 3D world[/b], not only enjoyable in single-player, but combined with [b]absolute genius[/b] [b]physics[/b] and [b]network[/b] engines - resulted with hours of [b]co-op[/b] adventures, and epic [b]PVP[/b] battles.
+
+Only low quility of early internet was a holdback, but on LAN and short distances - gameplay was smooth and not RNG but truly [b]skill-based[/b].
+Thus, first FPS talents emerged, and pioneers [b]pro-gaming[/b] set the base of all of todays [b]esport[/b] scene.
+[/td]
+[/tr]
+[/table]
+
+
+[h2]Visuals ★★★★★ 5/5[/h2]
++ First (properly implemented) real-time rendered 3D world
++ Support of early 3D accelerating hardware, which became standard
++ Flawless collision detection
+
+[h2]Audio ★★★★★ 5/5[/h2]
++ Great music created by “Nine Inch Nails” (not included in Steam version)
+
+[h2]Controls ★★★★★ 5/5[/h2]
++ Revolutionary freely bindable controls
++ Bunnyhoping
++ Rocketjumping
+
+[h2]Integrity ★★★★★ 5/5[/h2]
++ Revolutionary possibility of recording demos (replays) and spectating live games
+
+[h2]Gameplay ★★★★★ 5/5[/h2]
++ Absolute epic experience
++ Proper amount of riddles and secrets
+
+[h2]Lore ★★★★★ 5/5[/h2]
+− The story is “move forward and kill everything on the way” (actually nobody expected anything else)
+
+[table]
+[tr][th]Good for[/th][th]Also for[/th][/tr]
+[tr]
+[td]
+✓ Casuals
+✓ PVE Gamers
+✓ PVP Gamers
+✓ Pros
+[/td]
+[td]
+✓ Streamers
+✓ Completionists
+✓ Speedrunners
+[/td]
+[/tr]
+[/table]
+
+[h2]Replayability: high[/h2]
++ Idea as simple as showing map finishing time resulted in speedrun challanges
+
+[h2]Difficulty: medium[/h2]
+
+[h2]Multiplayer: yes[/h2]
++ Coop
++ PVP",0.6991467475891113,19,True
+2310,105487204,76561198022180699,"In being a remaster of a game ripped from 1996, Quake 2021 is an audiovisually smartened version of the iconic boomer shooter that was arguably one of the most influential games of all time. Its simple structure of frenetic first person shooter action that has you careening between ten minute levels collected into four themed “episodes” is refreshingly plain: Strafing, rocket jumping, gibbing – terms lost to the late nineties – are exhibited here in full force, free from the shackles of lengthy cutscenes and dull exposition. All you need to know is that Earth is under attack by demons, and that you’re a supersoldier travelling to another dimension to acquire runes of power with which you will defeat the invasion. Simple and effective. What follows is around four hours of leaping between smartly paced combat encounters, facing off against multiple enemies with unique traits – the melee chargers, the flying shooters, the zombies unkillable without explosives, the tanks, the teleporters, and so on – in a melange of gory, brutal arena shooting goodness, peppered with brief breaks for platforming and puzzling while you search for coloured keys for passage through locked doors to get to the next ten-minute-long map. The games industry was in a very different place, but even back then few games were able to replicate its tactile immediacy or satisfying polish, far less so its unique mood of droning ambient music and disturbing artistic direction.
+
+In fact, I would argue that tone is Quake’s strongest asset. Trent Reznor’s contribution to the unsettling atmosphere is less music and more texture, with percussion usually being a terrible pulsating sound, slowly and subtly carving its way into your subconscious with lone instrumental strikes echoing away into the darkness. And this game is dark: Partly to show off the ground-breaking technology and partly for pure style, its clever, secret-filled labyrinthine maps are draped in inescapable shadows that make even the smallest maps feel oppressive. id’s artists wisely relied on more than just inky blacks to get the message across, frequently dipping into stained glass, nuclear night skies, and plenty of lava and toxic water to weaponise vibrant colours too. At a similar intersection between style and technology, Quake’s environments are the product of geometrical and functional abstraction. Enormously restrictive polygon budgets of the time left little room for decoration, but also for smooth, comfortable, welcoming surfaces, and thus environments tend to be boxy, pointy, and sharp, made by intention and circumstance to feel dangerous. There is no resting in Quake: No chairs, tables, or other furnishings for comfort or convenience. Walkways are perched above lava pits; pressure plates leave little room for errors that will trigger deadly traps; stairwells and ramps constrict to leave no room to dodge ambushes. As a real space that real people might use, it is often an absurd infraction of every health and safety measure ever made, but as an abstraction of the sheer hostility of its world and inhabitants, the totality of each level’s design – the omnipresent rust and decay, harsh geometry, malignant music, unsettling lighting, cruel placement of enemies and deadly traps often in gotcha moments leaving mere milliseconds to react – all ferociously mocks and rejects the player, so over the top that it often made me chuckle. Boss fights and some levels are poorly designed or filled with too many enemies, and some of these are overly damage spongy, but by and large, most missions are a roaring success and the gruesome cast of foes is as enjoyable to fight now as ever.
+
+Quake is, more than most games, an obvious product of its time and creators. Its troubled development, which ultimately led to the studio’s decline into irrelevance for over a decade, transpired at the height of the grunge movement’s backlash against the exhaustively conformist eighties and nineties, in particular the puritanical religiosity of late twentieth century United States. Where today’s counterculture is primarily a starkly divided revolution and reactionism in gender and identity politics and an explosion of anger towards record inequality and environmental breakdown, grunge was more vaguely existential, targeting the chokehold of Western conformism and revolting against the classic ideas of the happy suburban nuclear family. Quake represents this fully: It’s violent, dark, and decayed, full of satanic and deliberately anti-Christian imagery which poured lighter fuel on the fire of the anti-gaming moral panic of the time, further tearing cultural taboos apart with the same success in its provocation that often led it to being mentioned in the same breath as Marilyn Manson, and tragically, America’s horrific plague of school shootings. Its deliberate provocation threads corrupted Christian imagery through a gritty amalgam of medieval architecture, sci-fi weaponry and environments, and Lovecraftian enemies, an unusual combination that works almost perfectly due to the primitive technology sanding off the potential wrinkles that might have otherwise made the mix too jarring. Crude polycounts and pixellated textures create a surreal, strangely plausible atmosphere of malevolence, but it's just silly enough to reflect the era's collective teenage angst, filtered through id's immense talent and cultural influence. A personified Quake would be a brooding teenager screaming ""GET OUT OF MY ROOM!"", slamming the door and loudly playing Nine Inch Nails while reading The Call of Cthulu. It doesn't get more darkly endearing than that.
+
+I finished the standard campaign to completion twice before writing this on Hard difficulty. Quake is a great example of a near-perfect game: It delivers its premise, gives you the tools to engage in its action in interesting and challenging ways, and then finishes. The remaster has achievements, but they’re just about the sole hint of modern game design. It remains otherwise unblighted by the psychologically and financially exploitative monetisation that has swept through so much of the industry, free from battle passes, season passes, pre-order bonuses, map packs, weapon skins, character skins, multiplayer emotes, or any of the FOMO-inducing insanity of time-limited events, maps, game rules, or content unlocks. Much of gaming is now controlled by predatory, tax-dodging executives (see Activision, Sony et al) directing psychologists to manipulate vulnerable and impressionable teenagers and children into spending money, with studios measuring success by user engagement, usually a metric of how many hundreds of hours players dedicate to grinding through indistinct, tasteless #content for the next scientifically calculated dose of endorphins. I’m aware of my position as a tiny minority in today’s gaming landscape, but I feel a genuinely great sadness that much of gaming has been dragged so far away from the simple, pure joy of Quake and nineties gaming in general, instead burdening big releases with layers of monetisation and “progression” that gatekeep content, attempting to justify it by complaining about the unsustainably ballooning costs of development while simultaneously raking in billions of dollars of revenue and acquiring and absorbing competing studios and publishers across the board, much like the wider software industry. Quake, in its contemptuous nihilism, has ironically been a source of joy for me, a reaffirmation of the timelessness of great game design and a breath of fresh air nearly two decades after first playing it. It's often rightly described as lightning in a bottle, and I'm happy to have lifted the lid and be struck again.
+
+[h1]★★★★☆[/h1]",0.6987396478652954,25,True
+2310,86970827,76561197965073331,"I'd recommend this game because it's a game. But not just any game, it's a relic. A relic from the days of old. The days of the 90's when tech soared nearly every month, most content on t.v. was watchable, and dial up modems were acceptable forms of memeing . A time when gaming was just gaming. This was when DLC's were called Expansion Packs and didn't require a subscription or didn't ruin the fan base game but built on it. The start of the fast FPS movement. Even if you weren't fast at it, you still had to adapt asbestos you could.
+
+This game was the base, start for Team Fortress Classic A game were grenades reigned from the sky and the only escape is to bhop your way to the other side of the map that would make Michael Bay proud. The mod is not perfect but now it's core has morphed into what is now called Update Hat/ Crate Simulation 2. A game where class based, weapons are constantly changed to make or break classes or how good your character can look. Plus if the stuff is worth any value on the Steam market. 
+
+So would I recommend this game? Yes I would, John Romero, Adrian Carmack, John Carmack, American MCgee, John Cloud, Paul Steed, Michael Abrash, John Cash, Dave Kirsch, Sandy Peterson, Tim Willits, Jay Wilbur,  Mike Wilson, Donna Jackson, Todd Hollenshead, Barrett Alexander, Shawn Green, and Nine Inch Nails.
+
+Signed: A Doomer",0.6986483335494995,17,True
+2310,13715144,76561197991605918,"Play as some unnamed dude who listens to Nine Inch Nails while gunning down evil monster alien zombie type things from another dimension with his shotgun that never needs to reload to save the world. This, along with Doom & Wolfenstein, is a pioneer in the FPS genre and you should definitely have a go at this if you're a fan of shooters.",0.7984805107116699,86,True
+2310,13928483,76561197972662678,"kids these days look at oldschool games and say where are the graphics?, while i look at these modern games and say wheres the gamplay?  Gameplay, pure fast paced fun and challenge  is what this game is chock full of . Its a game you play not watch .",0.7477601766586304,44,True
+2310,234232289,76561197967165717,"It is the grandaddy of 3D boomer shooters. Playing the original 4 episodes of this game is a rite of passage, if for no other reason than to learn and understand its storied and tumultuous history.
+
+If you do not own this game, own it. If you have not played this game, play it. If you have not 100%'d it, 100% it. Understanding this game is a foundation for understanding the evolution of the entire Western game market. Its DNA, technology, and people who worked on it went on to create a great many other FPS games.",0.6972241401672363,28,True
+2310,100076782,76561197994992716,"Incredible game that is finally being packaged with a good port on steam.
+New levels are pretty great, more often than not on par with the good original (non-expansion) maps.
+
+Bethesda also ended up NOT taking the scummy path of forcing people who already bought quake to repurchase this new port. Pretty cool of them! Shoutouts to whoever successfully pushed for that.",0.6951758861541748,25,True
+2310,24653837,76561197970314107,"The first-person shooter genre is built on the backs of giants, and few are as big as the Quake series. It was the first fully-3D shooter success story and helped kick the online multiplayer scene into overdrive. We're a long way out from the golden age of iD Software, but their titles have incredible staying power thanks to solid fundamentals and vibrant modding scenes. The original Quake is no exception, but as I'll explain, you may want to consider your options before picking up this particular version.
+
+Quake technically has a plot, but it was literally one type-written page in the jewelcase-insert manual. Government makes portal thingies, demon thingies come out of portals, you kill demons with gun thingies. In practice this means four episodes of gruesome treks into ruined bases, medieval castles, nonsensical hellmazes, and twisting eldritch architecture. There are a lot of elements to laud about Quake but the one I'm really going to harp on is the feel of it, because it's one of the best cosmic horror FPSes to date outside of the literal Lovecraftian ones like Call of Cthulhu and Eldritch. Levels are tightly-designed labyrinths of decaying arches and gothic spires, impossible woodwork and ageless caverns. The modeling detail and texture work really drives home the atmosphere of ancient, neglected places full of unspeakable things, and the dated, chunky graphics actually help the unearthly feel.
+
+Then of course there are the unspeakable things trying to kill you. Quake features a refreshingly diverse cast of beings to forcibly disassemble, from corrupted marines to bloodthirsty knights, self-dismembering zombies to spider-legged horrors. The key here is that they cover the standard enemy roles in unusual ways, the Ogre being the prime example of this. One of the most common enemies in the game, he's armed with a heavily-damaging grenade launcher and an even nastier chainsaw. This wouldn't really fly in a lot of games, but the combination of high movespeed and effective weapon variety means you'll always have options in combating him and avoiding his brutal damage entirely.
+
+It's these player elements that make Quake feel like a bridge between Doom and the modern era. You avatar still darts around levels at inhuman speeds, allowing you to weave between foes to spark infighting or bait melee attacks. Your freedom of movement also lets you seek out the many secrets of every level, often hidden in ingenious ways. The weapons are a good spread of utility but without any real stand-outs like the BFG of old, giving you an effective if not exciting arsenal to dispatch your enemies with. There are some creative interactions, at least, like zombies only being killable with explosives, or the lightning gun killing you (and everything else) if used underwater.
+
+The ironclad fundamentals of Quake make it a timeless classic that still holds up to this day, even discounting the incredible multiplayer or soundtrack (an original Trent Reznor creation!). And you will need to discount those if you pick this version up, because they're not included. The Steam version of Quake lacks the CD soundtrack, and features four outdated executables for the game. Two of these are old Quakeworld multiplayer-only clients that are now defunct. The other two are ancient versions of winQuake designed for Win95 that may not run on your system at all. The unfortunate truth is that Quake might not work for you at all out of the proverbial box. There are plenty of source ports that WILL work if you download them, as long as you own the official game, but understand that modding may be your only option to enjoy what you're buying.
+
+In the end, what I'm saying here is that you should own Quake and you should play Quake, but this version isn't necessarily the best way to do that. A retro-friendly storefront like GOG is more likely to have one that will play without any fiddling, but all the same you should be prepared to mod Quake if you want the most out of it. I don't normally speak of modding in my reviews but this is one of the rare times it's a necessity, especially if you want to dip your toes in the multiplayer. I assure the hassle is worth it, because Quake formed the foundation of FPSes for good reason, and even now it's a unique and thrilling experience.
+
+
+
+Did you enjoy this review? I certainly hope so, and I certainly hope you'll check out more of them at https://goldplatedgames.com/ or on my [url=http://steamcommunity.com/groups/audish#curation]curation page[/url]!",0.7947502732276917,36,True
+2310,54294752,76561198031623497,"Of course I can't rate this game negatively! It's a masterpiece.
+But how?... How dare you release this game without the music?",0.7946968078613281,46,True
+2310,232366674,76561197974134229,"You know what's great? Quake.
+
+You know what's not great? How a game that's been in my library for years now requires agreeing to an awful consumer-antagonistic EULA in order to re-download it, let alone play it. It now includes a binding arbitration clause and class action waiver, courtesy of the jerks at Zenimax, and these are seemingly global to all Zenimax products, so if you've somehow accidentally ""agreed"" to any in the past, whoops there go your rights.
+
+Too bad Microsoft didn't cut id loose like they did with some of their other developers; no, instead they laid off a ton of its employees.
+
+Corporations suck.",0.6924570798873901,36,False
+2310,100839574,76561198142928418,I'm a massive fan of the colour brown and men grunting repeatedly!,0.7914062142372131,44,True
+2310,44128089,76561198066188840,"*crack* *siiiiiiip* yep... Quake was a good game. 
+
+Quake doesn't really need a recommendation, but remember to use Quakespasm (If you want Quakespasm to launch when you click ""play game"" through Steam go into the folder and rename quakespasm.exe to Winquake.exe and delete the old Winquake.exe) and put the following commands into your autoexec.cfg in the id folder or just in ~ console idk (tho some may get lost the next time you boot up hence the need for autoexec): 
+
+""r_lerpmodels 0"" and ""r_lerpmove 0"" for proper (not unnaturally smooth) animation of enemies and your weapon
+""r_particles 2"" for sexy square particles 
+and finally ""gl_texturemode GL_NEAREST_MIPMAP_LINEAR"" so the game doesn't blur the textures to shit, oh and fix the soundtrack and you're good to go.
+
+My autoexecs for the base game, expansions and all the bigger mods (like for Arcane Dimensions I linked bellow, which is fantastic) look like this for example: https://i.imgur.com/mhZHbWJ.png
+
+And get Quake Injector to try out endless fun custom maps once you beat the game, also this badboy of a mappack is probably higher quality than the base game itself http://www.simonoc.com/pages/design/sp/ad.htm",0.7911924123764038,53,True
+2310,97896246,76561198026125371,"They capped life to 50 on Nightmare. But don't have any health drain for 100 to 50. On top of that fast monsters were removed. 
+This alone already makes it not Quake, and thats something you notice 30 seconds in. Movement is also changed but I'm not nearly good enough to be able to accurately comment on what changed.  What I can say with confidence is backwards movement is heavily nerfed, again for no reason. 
+The added input delay is just added clownery.
+
+If I wanted to play Copper I'd go install fucking Copper.",0.6908696889877319,49,False
+2310,65338147,76561198138401058,"Some people consider this to be the best first person shooter ever made, some people find it bland. One thing is for sure, even after 24 years of it's release, there is no experience out there like the original Quake. A perfect mood piece.
+
+The level design is so intuitive and it connects to the player on a different conscious level. You start a level and think that you'll get lost because there are no markers or a map, but the way the game guides you without telling you anything is genius.  Add to that a perfect set of enemies and a perfect set of weapons to use in combat. And the Movement. FPS movement doesn't get any better than this. 
+
+This is the perfect distilled product of FPS ideas.
+
+Lastly, Nine Inch Nail's soundtrack is going to put your Lovecraftian itch to rest.
+
+EDIT (for the remastered edition):- No matter when this game would have released, it would always have been ahead of its time. Just play the goddamn game if you haven't.",0.7395368814468384,27,True
+2310,176617222,76561197979970563,"If you grew up playing Quake, this remaster is better than you remember it. An absolute labor of love.
+If you never played Quake, you can stack this remaster against any boomer shooter coming out today and Quake still comes out on top.
+The extra levels on top of the original are all worth playing, especially Dimension of the Machine. There are some really cool level designs in there. Best ten dolla you'll spend on videogames!",0.6890631318092346,16,True
+2310,8099005,76561198034315837,"What can be said about this trailblazer of a game that hasn't been said more eloquently and adroitly many years since? 
+
+Well that doens't mean it can be said over and over again when it still rings true so on that note I fully recommend this game as an essential purchase for all of those that think a pure FPS experience should be fun, hard and BRUTAL!",0.7387968897819519,32,True
+2310,112704504,76561198057252542,"The best modern version of Quake fans could ask for:
+
+- The full game with the Nine Inch Nails soundtrack finally included
+- Four official expansions
+- Online PvP, co-op and horde modes
+- Up to 4K resolution
+- Ultrawide support
+- PC-to-console crossplay
+- Easy mod support, including the PS1 version
+- The original version of Quake and expansions included
+
+At this point I just pray id Software are planning to have Nightdive work on modernising Quake II.",0.6875110864639282,21,True
+2310,215813720,76561198082155674,"One of my favourite 90s fps games. Great combat, level design and music and the graphics have their charm. the Nightdive remaster is very good with it containing the original game and its expansions plus 2 more.",0.6871286034584045,14,True
+2310,115277868,76561198014834432,"Recent remaster decided to REMOVE some of the faster monsters in the game
+...and they just decided to reduce your max health by half.
+
+Not sure why I am getting sudden balance changes without any option to change them after 25 years or whatever,  but fuck that.
+
+What if I WANT fast enemies? what if I want nightmare monsters to relentlessly throw shit at me? what if I WANT to deal with bullshit fast enemies? I don't fucking want to just have my health reduced to half and make the game easier, I can't believe none of the reviews talk about this shit. Maybe they just dont play nightmare mode or dont know the difference, but I absolutely abhor this change.
+
+I think technically you can play the old version without the balance changes or any of the graphical updates.",0.6860522627830505,27,False
+2310,192490857,76561198795517429,"The greatest first-person shooter of all time, in my opinion... As a big fan of Nine Inch Nails and id Software, this game is exactly the kind of atmosphere I love.",0.6847123503684998,16,True
+2310,192154755,76561198035163354,"Initially I planned to just write “What the hell am I supposed to say about Quake? It's a Quake, goddammit!” and call it the day. But then I was struck with realization: this is exactly the reason why I should write something more. Because time passes. Quake was released to the world in 1996 — next year will turn 30. Thirty! There are entire generations of people who were born, raised, finished school, got a job, got married and have kids after this game. Sometimes it's hard to understand that years fly by and we are no longer in a timeline where games are puny, niche entertainment, but a monolithic, big-ass industry slowly but surely dominating the entire free time segment of our lives. Soon on Earth there will be more people who play games than people who don't know what the hell FPS are. And a big chunk of today's gaming looks like this thanks to this one particular game. Majority of people cannot even understand how influential this Quake was.
+
+So, what did we get thanks to this little piece of code? How about a real 3D environment, without 2.5 D hacks from Doom? And I mean, fast paced, optimized 3D gameplay with decent frame rate albeit without smooth animation, where everything — literally EVERYTHING had three dimensions, monsters, weapons, even fire or light sources? 3D where you can create a vertical level with rooms built upon rooms? Now it's laughable, but back then, that was a real revolution, opening endless possibilities, limited only by imagination.
+
+And how about real multiplayer? That simple thing led to the creation of the entire E-Sport — and the first real tournament, with real money (Some dude named Dennis ""Thresh"" Fong even won a Carmack Ferrari) was made specifically for Quake. What more? Modding — yup, the first mods were created for Quake. From simple Doom’s map conversion to engine to entire map packs like Arcane Dimension, and even more — the infamous grappling hook mechanic, implemented later in many different games, start as mod for Quake.
+
+You know Games Done Quick? It was inspired by Quake Done Quick — yeah, speedrunning was invented with Quake. Wants even more? Engine was bought by multiple other companies and converted into different games. One of said companies was Valve, and they used it to create a little game called Half-life. Later, the same engine was used as the foundation for their Source engine for HL2. And with HL2 Steam was created. Yes, today's shape of PC gaming is possible thanks to the Quake engine. Another company called Infinity Ward bought the Quake 3 engine license in 2003 and created Call of Duty. And yet another look on what Quake can achieve and said “we can create something better”. And then Unreal Engine was born. Yes, Epic advertised Unreal as “Quake killer”. And rest is history.
+
+But this is only scratching a surface. Because Quake showed us, showed the entire world, that games can be something more than pixelated, cartoonish graphics and silly, childish premises. Then games can — and are — a serious medium, atleast at the same level as movies, books or music. That they are THE entertainment. My point is — Doom is the grandfather of FPS, but Quake is something much, much more than being just another step in genre evolution, especially for PC gaming.
+
+But what about the game itself? Comparing it to today's standards it is redundant and stupid, because technology evolved so much that now you can do nothing more but laugh at Quake. But again, it's like comparing the Ford T to the newest Ferrari — yes, the former looks weak, because back then there were no today's advancements and everything was undiscovered territory. Yes, it still has this great, lovecraftian-like atmosphere, but mostly thanks to consistent art direction rather than technical aspects. So instead, useless criticizing, I will tell you, dear zoomers, what you can expect when booting this game.
+
+First of all — JANK. Don’t get delusional, this is a very janky, clunky game, and you will experience it every second. Go, start the game, press WSAD, try to move. Your character moves like on ice — even when you stop pushing buttons, he will do those little extra 1 and half steps in every direction. Now imagine fighting or traveling on narrow edges, or jumping from platform to platform. You will feel like moving too much and start correcting mid walking, and therefore probably fall. I did it multiple times. Veterans will laugh at this, but hey, I can laugh also looking at a person playing only one game for 30 years. 
+
+Another big thing are enemies hitboxes. They are gigantic and enormous. You can easily fire on some Ogre or Skag around the corner without even seeing a monster. But before you start cheering this, just remember — your character has the same problem. You can clearly see something like lasers passing around you and get hit anyway, because hitboxes of bullets and your character connect. It always pissed me off, no matter how many times I played Quake. Also — just look how many times enemies can block themself on the door frames or ledges, not being able to reach you. Yeah, I'm talking mostly about you, Fiends, with your stupid leap attacks.
+
+Thirdly — weapons. For me, the weapons of the Quake were always weak. Yeah, we have the legendary Rocket Launcher, an iconic weapon popular to this day, but looking beyond that you can clearly see a little cheating of some sort. Shotgun and Super Shotgun running on the same ammo, same with Nail Gun and Super Nail gun, Grenade launcher and RL. So we don’t have 6 weapons (plus Thunderbolt as 7), we only have 3 weapons with different damage output and ammo consumption — oh yeah, and weird grenades angles when firing. God, I love weapons that can kill me instead of the enemy. I also really don’t like SSG in this game — too weak, no reload animation, too wide spread.
+
+Lastly, levels — at some point, at least in vanilla games — they are all like this one big blurred image: all the same, without noticeable differences. They all are brown, grey, purple castles, dungeons and mazes, albeit not so much labyrinthian. Also with small numbers of enemies — aside from the dimension of the machine addon, you will witness no levels with more than a hundred monsters. You know, because back in 1996 that level of complexity would fry even more powerful PCs. You can easily end every level under 15 minutes, which is good, because always around 3 episodes I become a little bored with single player, mostly because at this point the game showed all of the tricks it can pull out from its sleeve. 
+
+One more word about enemies — Fuck Vores. And Spawns. Fuck them, FUCK THEM TO THE CORE. They should be deleted from existence. Even Shamblers are better, especially in this port, because they finally fixed their attack animation on nightmare difficulty, so now it's alignment better with actual lighting projectiles. Ogres are cute, with their chainsaw (probably stolen by some time travel portal shenanigans from Doom 3) and grenade launchers, which in majority of cases damage enemies around them more than my actions. As for the rest — this more than standard menagerie from FPS games with strong emphasis on melee oriented enemies — fiend, knights, death knights, you know the drill; they run towards you swinging their claws and swords, but since you are faster, the only real threat is how small room where you fight are. Game also lack real boss fights — even ones from expansions are boring or annoying. Yeah, Im looking at you, you fucking dragon, the biggest difficulty when fighting you is adjusting to all those quakes and lava. 
+
+<rest review in comment section>",0.7331846356391907,21,True
+2310,51279640,76561198079433406,If you like Doom you'll like this. if you don't like Doom or Quake you should see a therapist to see what's wrong with you.,0.8309829235076904,86,True
+2310,41047132,76561198001352977,"This version of Quake is broken, it does not include the soundtrack. FIX THIS STEAM. This only getting a thumbs up because I love the gameplay. But really? Selling this game without its soundtrack is sacrilige.",0.7806428670883179,36,True
+2310,84077941,76561198076703228,"I grew up playing DOOM and never got the chance to play Quake until a couple of years ago and I must say if I have to choose between this two games I'll choose Quake.
+Why? You may ask, well let me tell you.
+
+-Gameplay is fast and consistent, you never have to worry about RNG to decide if your shots are gonna kill an enemy in 2 or 5 hits.
+
+-The enemies are unique both in design and behavior which makes them pretty recognizable and distinct from each other, the Shambler being one of my favourites.
+
+-The atmosphere, my favourite aspect of this game, dark and foreboding gothic castles mixed with Lovecraftian cosmic horror and dark fantasy makes for a pretty unique setting I never seen before, without mention the amazing soundtrack composed by NIN. 
+
+All of this fits together pretty well and is what set Quake apart from other FPS.
+
+”Quake eclipsed the competition and was the final nail in the coffin for the so-called ‘DOOM Clones.’ No longer were such games mere imitators, but instead an entirely new genre. The First Person Shooter was born.”",0.6795883178710938,15,True
+2310,143261088,76561198075673573,"I rate Quake 4.5/5. This remastered first-person-perspective action-horror game is truly excellent. 
+
+In short, this game has great controls (which can be easily reconfigured), great level design, great enemies, lots of gameplay (over 40 hours), no major bugs, pretty good graphics (the contrast is a little too low, the shadows aren’t quite impenetrable enough and the colored lighting effects are usually a bit too subtle), good music (includes the original NIN score but most of the add-ons use this score over and over instead of new music), okay sound (slightly muddy) and an okay plot (though it’s not fleshed out, totally linear and has no alternate endings). This is the best version of Quake 1 to have ever existed (far, far better than Quake’s original release).
+
+Long version:
+
+This game has:
+
++ Great controls. The controls can be easily rebound to custom keys and are extremely responsive which is critical in such a fast paced, fast moving game.
+
++ Great level design. Most of the levels (including the numerous add-on levels) are, in terms of level-design, amazing works of art, like complex, beautifully assembled, rusted, hellish puzzle-boxes which must be solved from the inside-out. As you solve the levels you will often find yourself oddly looped back around to where you started but with new draw bridges lowered or additional gateways opened, forcing you to re-evaluate places which you thought you already understood. A large amount of the action is vertical or diagonal. In most respects, Quake’s level design is the diametric opposite of the generally flat, simplistic level design found in games like Killing Floor 2. The level design often reminded me of this T. S. Eliot quote:
+
+“We shall not cease from exploration
+And the end of all our exploring
+Will be to arrive where we started
+And know the place for the first time.”
+
++ Great, extremely creepy looking enemies. Quake has a great range of enemies from weak enemies which serve to merely harass your character (like the floating scrag) to extremely powerful, durable enemies (like the shambler). While the enemies are generally not as inventive as those found in Doom 2, and they have very low-end (but extremely aggressive) AI, they all serve their different tactical roles quite well in a wide variety of situations, most enemies having some ability to fight up close and from a moderate distance away. 
+
+In this game there is a heavy reliance on moderately durable, moderately powerful enemies and when you fight 3-4 of these moderate enemies (like an ogre, a death knight and a fiend) at a time you may feel like you have a boss fight on your hands (and yet this situation will happen constantly). When a truly heavy enemy unexpectedly joins the fray though (like when a bullet-spongey shambler suddenly appears), you will know, abruptly, what it is to be challenged. Your health and armor can be destroyed very, very quickly (health and armor is easy come, easy go). Fights mostly occur in confined spaces and are thus highly tactical and usually very fast affairs, similar in feel to playing against other, (perhaps not too bright) human opponents (I’d estimate that the monsters generally act as if they are being controlled by extremely aggressive 7 year olds).
+
++ Lots of gameplay. If you play through this game (including all of its add-ons) by yourself on easy difficulty you can expect it to take over 40 hours. Almost every set of levels or episode (including the add-ons accessible from the main menu) have 4 difficulty levels (though the hardest, known as ‘nightmare’ is usually hidden and must be found by exploring a 3-dimensional area and is probably intended solely for cooperative gaming with another skilled player). All single-player levels can be played cooperatively and many levels double as multiplayer deathmatch maps (making for a wide variety of multiplayer maps). This game also includes bots which can be used to play against in deathmatch and capture the flag modes using over 5 difficulty levels (I forget exactly how many). The menus for accessing the multiplayer bots and maps are fairly cumbersome to use though.  
+
+Quake 64 even exists as a free Add-on (with its own music) if you want to see what that was like again (surprisingly not too bad once you get used to the even more blurry, yet colorful graphics) and I definitely recommend playing through every free add-on this game has in chronological order. Many of them feature better, more interesting levels than those found in the original game.
+
++ No major bugs, no major weaknesses. There’s nothing seriously wrong with this game unless you want to play the “original” versions of Quake and its first 2 add-ons. The “original” versions lack any significant modern hardware support so far as I can tell. This game clearly intends for you to play the remastered version of Quake only unless you are some sort of old-school technically oriented Quake programmer.
+
++/- Pretty good graphics. The graphics are generally very consistent and pretty (stained glass is particularly beautiful) and are far and away better than the graphics found in the original release of Quake (or in any other version of Quake 1 I know of). The graphics are not perfect however. The game’s menu claims to have a high-resolution texture setting (which I used throughout my gaming) but at 1920 by 1080p it doesn’t seem to be very high-resolution to me. Textures on monsters still look very pixelated and blurry (they always did, even back when Quake first came out) and I guess, unless they are entirely re-done, they always will. 
+
+The distant mist (which can be turned on or off) is a nice effect throughout though and in some add-ons (especially Dimension of the Machine) the lighting is brilliantly done and beautifully colorful but the vast majority of the game features fairly subtle lighting effects. The lighting isn’t ugly by any means but don’t expect Quake 2 (or Quake 64) levels of colorful, deeply saturated lighting. Mostly, the lighting feels very realistic and yet remains true to the style of the original Quake release without seeming pale. It strikes an interesting, delicate balance. I however, would have preferred some sort of manual colored-lighting saturation menu control (along with recommended presets).
+
+The worst aspect of the graphics however is the lack of full contrast control. It is IMPOSSIBLE to get the shadows to be as deep and impenetrable as they were in the original version of Quake. The maximum contrast allowed by this game simply isn’t high enough. Quake was, when its lighting was configured properly, originally a horror game with unseen monsters and hidden secrets lurking in and jumping out of utterly impenetrable shadows. You weren’t supposed to fully see what monsters looked like at any given time. They (especially fiends) were intended to be fast-moving blurs of misshapen flesh (and adding a blur effect doesn’t help with this) only dimly glimpsed as they leap in and out of the deep shadows. Quake is, at its core, a Lovecraftian action-horror game and the shadows are supposed to be just as strong as the light. Indeed, there are times when you are supposed to have to fire your gun in order to see what some shadows may contain. 
+
+This long review continues in the comments section. It makes more sense if you read the comments in chronological order. Click on where it says ""Recommended"" up above to see all of the comments.",0.6774888038635254,16,True
+2310,233062201,76561198066816383,"The QoL is amazing. No need to spend hours fixing compatibility issues, unlike other retro games. Coop and free updates with new levels are a pleasant gift. It doesn't look like Bethesda, I'm utterly suspicious.",0.6758208870887756,16,True
+2310,107163394,76561198120135255,"[h1]Introduction[/h1]
+An introduction is necessary before we begin without wasting any time lets get right down to business
+Quake is one of id Software's most critically acclaimed FPS and also has the title of ""Grandfather of FPS"" and for good reason,
+A lot of video games we play these days or have played in the past are descendants of Quake such as Half-Life, Call of Duty 1/2 and many others
+
+What is Quake? The story? Plot? Setting?
+Quake is based on the lovecraftian horror theme
+
+In an unknown time period the Earth is under attack by some vile otherworldly creatures which posses the ability to summon energy attacks at will this is due to a rift in time-space which opened several portals to Earth from an unknown dimensions. Our character is known as ""The Ranger"" and our job is to cross those dimensions defeat the invading forces and close the portal. I tried to simplify the plot as much as possible without spoiling anything and I guess this is enough for the introduction.
+
+
+[h1]Gameplay[/h1]
+Quake is a fast paced action/horror game, most of the time you'll be fighting the enemies head on but there are some moments when you can land a sneak attack and deal a lot of damage without giving your enemy the chance to retaliate but those moments are rare as the levels are filled with flocks of enemies your best bet is to learn how to dodge the melee and projectile attacks from enemies in order to take no or minimum damage. In simple words stealth isn't an option but this isn't a run and gun shooter either you have to play smart or you'll be knocked down before you know it.
+
+Speaking of levels the level transition of Quake is similar to Doom I/II at the end of each level your stats are displayed and then you're placed at the starting point of the next level, and in a lot of cases you require keys to open doors and progress throughout the game.
+
+The AI of this game is also phenomenal for its time (Late 90s), enemies are smart and will try to overwhelm you they are not predictable all the time you have to observe their movements and improvise they will also try to flank you in order to make life difficult for you, However one thing they lack is the awareness to take cover when they are low on health they just keep charging at you regardless of scenario, This doesn't make the game any less fun but would have been another plus point from me.
+
+[h1]Game Mechanics[/h1]
+The game mechanics of Quake are quite similar to Doom except the fact that you can now jump and even opt for rocket jumping if you want to
+
+Doom lacked projectile bullets and relied on hitscan bullets, This is where Quake shines you have a fair chance to dodge the enemy attacks and can actually avoid taking damage it requires a lot of practice but is satisfying once you get the hang of it
+
+Furthermore Quake contains a lot of powerup and utility items to aid you in your quest I will list some of the items below
+
+[table]
+    [tr]
+        [th]Item[/th]
+        [th]Effect[/th]
+    [/tr]
+    [tr]
+        [td]Green Armor[/td]
+        [td]100 Armor Points[/td]
+    [/tr]
+    [tr]
+        [td]Yellow Armor[/td]
+        [td]150 Armor Points[/td]
+    [/tr]
+    [tr]
+        [td]Red Armor[/td]
+        [td]200 Armor Points[/td]
+    [/tr]
+    [tr]
+        [td]Quad Damage[/td]
+        [td]Multiplies current weapon's damage output by 4 times[/td]
+    [/tr]
+[/table]
+
+[h1]Modding / Addons[/h1]
+When it comes to modding Quake's community has you covered. From map packs, weapon skins, custom campaigns, total conversions the choices are endless
+
+Some of the websites I recommend for mods are as follows
+[list]
+    [*]https://www.moddb.com/games/quake/mods
+    [*]https://www.quaddicted.com/
+    [*]https://www.quaketerminus.com/addon.shtml
+    [*]https://quakeone.com/
+[/list]
+
+This is just the tip of the iceberg I'll even attach a video to showcase what 2022 has for Quake
+https://www.youtube.com/watch?v=ARsN0xldnys
+It's safe to say that Quake's modding capabilities are endless
+
+[h1]Other[/h1]
+This is where I will discuss all the other aspects of the game which I didn't mention anywhere else
+So lets get right into it
+[list]
+    [*]The game has a great physics implementation the entities bouncing off the walls, the projectile motion, everything is so smooth. For a game that was released 25 years ago this is an amazing feat. 
+    [*]id Software recently remastered Quake and now you can play the game at higher resolutions with better graphics without using any sourceports
+    [*]Great ambient music which further adds to the tension/horror aspect of the game
+    [*]Occasional soundtracks play and they are also wonderfully composed which again further emphasizes everything I previously said
+    [*]A well optimized game which doesn't require a very powerful pc to run
+    [*] Active multiplayer
+    [*] Fun co-op and horde modes which allow you to team up with your friends against the invading alien/demonic race
+[/list]
+
+
+[h1]Problems / Issues[/h1]
+Nothing game breaking, in short no issues throughout my playthrough
+
+[h1]TL;DR[/h1]
++Great gameplay
++Great soundtrack
++Great Ambience
++Realistic physics
++Great story
++Very well optimized
++Decent variety of weapons
++Decent replay value
++Lots of playtime for the first walkthrough
++Mod support
++Active multiplayer / co-op
+
+[h1]Final Verdict[/h1]
+If you are fond of Old School retro FPS games then there is no reason not to buy this game, Extremely fun to play with lots of replay value and mod support
+You'll always have a reason to keep revisiting this classic
+
+Overall rating: 10/10
+Definitely worth buying",0.672966718673706,16,True
+2310,91685921,76561198850160315,"requires a LOT of post-install setup using community resources, (like, not even any music), but once you get everything in order, it is definitely worth a play. Post-Bethesda-ification Note: This review is only valid if you're not using the remastered version. Keeping this review here regardless to preserve an account of the sorry state this game was in.",0.6692883372306824,18,True
+2310,1981617,76561198000564041,"New source port has a few technical issues at the time of this review, but is overall a great collection of all things Quake with the promise of more addons and fixes to come.  And the new episode RULES.  As a free upgrade for existing owners it's wonderful, and if you're reading this looking to purchase Quake for the first time, this is a hassle-free way to experience the game with lots modern quality of life features and some surprisingly tasteful (and optional) visual upgrades.  Highly recommended.",0.7191387414932251,17,True
+2310,95658894,76561198428766678,"Steam version is shit, you need to download quakespasm for the music and better quality, which is annoying. But the game is a masterpiece it completely changed fps games and gaming in general. Games like half life and call of duty wouldn't be around without Quake. I wish ID/ Hugo Martin could reboot a Quake singeplayer/ multiplayer game like they did with Doom.",0.6671279072761536,13,True
+2310,127865635,76561197989766649,"The quintessential FPS, if you have yet to experience this legendary saga just get it! There is something weirdly cathartic about running around like a cheetah on speed clicking slobbering monsters on the snoot with a double-barreled shotgun.. 
+
+Quake has aged remarkably well and this version is carefully renovated with all the charm and brutality kept intact. The crude satanic imagery and bizarre mixture of medieval architecture and retro-futuristic sci-fi is somehow as blatantly appealing as they were when I first encountered the game and the soundtrack by Trent Reznor (NIN) is spot on. All in all this is old school gaming at its best, it might not be as snazzy as modern iteration by the sheer punk rock attitude and well oiled machinery is both smooth and crunchy at the same time.. Simply brilliant!   
+
+On that note.. Nightdive Studios, where is my remastered System Shock i backed eons ago?! 
+",0.6662628650665283,13,True
+2310,109165391,76561198002510878,"One of the timeless classics, a must play for any FPS fan. MachineGames' (Wolfenstein: The New Order) official free expansion pack ""Dimension of the Machine"" is absolute superb. Instructions for Linux native versions;
+
+https://www.reddit.com/r/linux_gaming/comments/p8n5rf/quake_quake_mission_packs_and_quake_iis_native/",0.6661850810050964,16,True
+2310,23710209,76561198144606232,"In honor of Quake's 20th birthday and Quake Champions announcement, I feel it's relevant to say how great this gem of a game has aged. 
+
+As id's leap into 3D, and one of the first truly 3D polygonal shooters I can recall, Quake is still as much fun in 2016 as it was in 1996. The game oozes a dark, eeire and ominous atmosphere, with an interesting blend of gothic fantasy and gritty sci-fi for a really one of a kind look. The 3D graphics, though obviously very dated, are still rather charming. This is too speak nothing of Trent Reznor's fantastic soundtrack, which deeply enhances the creepy atmoshphere. 
+
+If you enjoyed Doom 2016, this would be right up your alley. It makes me very happy to say how well Quake holds up. 
+
+",0.7149207592010498,20,True
+2310,161198171,76561197960464650,"100/100 must have sh00ter !_! 
+
+that started it all  
+be it Team Fortress, CS beta , HL 1, CoD all without Q1 / Q2 / Q3 wouldnt have been possible 
+
+THX³ ID SOFTWARE <3 
+
+& Q1 + Q2 remaster by nightdive r damn fine :))",0.7149592041969299,21,True
+2310,116518889,76561198975657833,"Its Quake, the revolutionary game made possible by benevolent eldritch architect of the post singularity simulation we all live in, John Carmack",0.7143208384513855,20,True
+2310,138433885,76561198059742011,"after about 3 years finding out more about Quake, mostly its movement and DNA in the Source engine, i decided to finally buy it. it was not for sale and i bought it at full price, but i will say that, in my opinion, it was worth it.
+i did have to do some configuration for the game first, of course. i decided to play on a source port instead of the official remastered engine, but i don't think this change affects the gameplay experience much. [spoiler]it's possible, though, that, when playing on a source port, you won't hear any music, which does exist. go to the ""rerelease"" directory in the game's local files and open the appropriate mod directory (non-modded campaign is ""id1""). from there, you should copy the ""music"" directory to the mod folder in the game's local files (parent directory of ""rerelease""), e.g. ""rerelease/id1/music"" -> ""id1/music""[/spoiler]
+
+for me, Quake was [b]amazing.[/b]
+at first, of course, like in almost all other FPS games, i had to get used to the arsenal of weapons Quake offered. what i noticed is, half of the weapons are projectile-based instead of hitscan. i have to be honest, i am often very bad at projectile-based weapons (except maybe rocket launchers) and i didn't think i would like Quake's Grenade Launcher either. but, as i progressed through the game, i eventually got much better at things, and i came to love the grenade launcher. it feels very satisfying to land a direct hit on an enemy and kill them instantly.
+another thing i loved, which is probably iconic to Quake, was the movement. in Quake, you are very agile, and you [i]must[/i] dodge various enemy attacks. otherwise, well, you freaking die. in the barrage of grenades, bullets, lasers(?) and other explosive projectiles, you must move quickly in order to not get hit by those a bunch of times, and, at the same time, you must also take care not to run into a melee-based enemy, cause melee attacks still hurt.
+sometimes i found myself in a situation where i was relatively low on health [spoiler]because i played kind of stupidly[/spoiler], but, even then, there is usually plenty of health packs scattered around the level (at least, on Normal difficulty), which was enough to keep me alive throughout.
+
+i was also pleasantly surprised to discover that this purchase of Quake also includes 2 mission packs (named ""hipnotic"" and ""rogue""). after completing the original Quake campaign, i also played through those 2 mission packs to the end, and i would say that, if you liked the original campaign, you will also like the mission packs.
+
+all in all, Quake was one of the best FPS experiences i've had in a long time. but maybe i just like retro FPS games more. i don't know.
+
+* my first playthrough of Quake was all on Normal difficulty. your experience may vary.",0.6638268828392029,14,True
+2310,136133824,76561197997334549,"Grew up with this game way way back. Tore it apart, learned QuakeC, modded stuff..
+And now this new 64 bit refresh, this is great! It plays and looks amazing.
+
+As for the ""Minimum Specs Required"" situation:
+""Win 10 64-bit version""
+""Intel Core i5-3570 @3.4 GHz""
+I can verify this runs and plays perfectly fine on Win7-64bit, with an ancient I5-2300 /2.8Ghz CPU.
+...and doesn't even throw up any random win10 warnings/errors, like many other games do in Win7. (yet does run)
+
+It seems Steam has thrown in the towel with the big OS companies and are posting NEW OS only requirements on just about everything put out in the last 2 yrs, & onward. Interesting... Now, now: I am not an anti-win10 person, I just haven't gotten around to moving over to it yet. Before I do that, I need to get a new SSD, so yeah, I still have a few things to get out of the way before moving over. 
+
+Anyhow, fellow Win7-64bit users out there, feel free to grab this newer update and check it out.
+I hope you enjoy it as much as I have been so far. Good stuff!",0.6636788249015808,18,True
+2310,39419490,76561198021695614,"This game is so old school, you kill the final boss with a telefrag.
+
+Great and historically important shooter. You can tell it was somewhat rushed, especially in the later episodes, but the setting, enemy design, level design, gunplay, and Trent Reznor all make up for it.",0.7111690640449524,24,True
+2310,111165593,76561198110618496,"This is why I love gaming:
+
+-Never had any sort of  means to play -or know much - about this game when it initially released.  
+
++Discover that it's on steam during a steam sale for $4
+
++ Discover that Trent Reznor created the ost for this
+
++ Discover that they recently cleaned up the resolution.   Many publishers would try to repackage as a ""remaster.""
+
+I truly appreciate this game, it's fun to play in dark and crank the volume.  
+
+",0.6608478426933289,14,True
+2310,41349731,76561197985051173,"I've played Quake since at least 1998 for countless hours on the N64, the Sega Saturn, the PC  and even in various homebrew ports on the Dreamcast and the PSP. So you can call me a Quake Veteran. I do LOVE Quake to bits (or gibs ehehe..,..) but this Version here is just a prime example of everything that is wrong with big Videogame Destributors and how they treat classic IPs and fans of it.
+
+Zenimax/Bethesda actually think it's a good idea to strip Quake from the awesome Soundtrack and add Steam DRM to the DOS and windows 95 version and sell it on Steam. Because this is essentially what they do here. You get a Copy of Quake WITHOUT the Soundtrack and WITHOUT the chance to make it run on Windows systems above Windows 98. They also did the same with Hexen 2…
+
+As if that is not already pathetic enough, they also not even provide a Linux Version (which would have been the same files anyway and again minus the soundtrack and plus Steam DRM for the DOS binary) so you cannot even download the PAK files from the game and use a modern Engine Port.
+
+If you still want to buy Quake today… get this game on GOG. At least there you can download it regardless of the Operating SystemYou are using and it also does not come with the pointless Steam DRM.
+
+I CANNOT recommend this Steam version at all. At all!",0.7096262574195862,27,False
+2310,43693943,76561197997884227,"NOTICE: This review was written before the 2021 QUAKE remaster.  As such, this review is slightly outdated; the soundtrack is included with the game, and a source port should no longer be necessary unless you are a die-hard fan seeking the purest possible experience. The remaster also includes the fanmade Episode 5 and Episode 6, which are competent, worthwhile experiences, as well as including both expansion packs, which add new monsters and weapons. I still strongly recommend buying the game.
+
+If you liked DOOM and DOOM II: Hell on Earth, skip reading this review and just buy QUAKE. You will almost certainly like it.
+
+Much like DOOM, QUAKE's plot can safely be ignored. What little there is merely justifies the setting: Your character, the Ranger, launches a counter-attack on a hostile entity known as ""Quake"" after she sends hostile eldritch creatures in to brainwash and murder your entire squad. Ranger, wanting revenge, decides to single handedly bring ""Quake"" down, by hopping through the ""slip-gates"" to enter her dimension, and take the fight directly to her.
+
+QUAKE plays much alike DOOM, being, at it's core, a run-and-gun with, at times, light puzzle elements. These puzzles primarily come down to tracking down keys to open doors, or finding a switch to hit to open a door elsewhere, however. While DOOM featured 3 keycards/skull keys, QUAKE lowers this to Wolfenstein 3D levels, with only 2 keys, a silver and gold one. 
+
+QUAKE's campaign is much alike DOOM's, having 4 episodes for the Ranger to rampage through in order to escape the dimension and attain the rune at the end. Unlike DOOM, however, QUAKE actually tracks your progress through the episodes: You need to finish all 4 and get the runes to confront ""Quake"" in her lair and end the invasion once and for all. Much like DOOM, the later episodes tend to be more difficult than the earlier ones, so unlike DOOM where you could theoretically play episodes out of order, for a first time QUAKE player, you should probably play them in order.
+
+QUAKE also features a wide variety of nasties to battle and weaponry to discover. Just like in DOOM, each weapon serves a different purpose and works better in certain scenarios; there is not a 'best weapon' for every situation.
+
+At this point, it should be worth noting that since QUAKE is over 20 years old at the time of writing, the default executables that come with the Steam edition are a bit lacking. Your best bet for playing QUAKE on a modern-system is to search for and install a source port, much like DOOM. QuakeSpasm and Mark V are pretty good choices if you just want to hop in and start killing.
+
+Another note is that, since Steam doesn't mail you a physical QUAKE cd (unfortunately), this version of the game lacks BGM. While attaining rips of the soundtrack fall into morally gray grounds, most source ports support it if you can attain it somewhere. I highly recommend attaining the soundtrack, if possible, as the tracks truly give QUAKE an incredible, hellish atmosphere.
+
+All in all, QUAKE is a must-buy for fans of the FPS genre, being arguably more influential to the current gaming industry than DOOM. Almost every single modern shooter owes something to QUAKE, and I believe it has earned the respect of the gaming industry.",0.7096142768859863,21,True
+2310,7778857,76561197964984451,"I am not going to dispute the quality of Quake, as I personally believe that it is one of the finest First Person Shooters ever made.  I would also argue that the game still holds up today.
+
+What I am going to draw attention to is the simple fact that the version on sale on Steam does not have its soundtrack.  This is quite unnacceptable.  While you can get it back through mods the fact that this is necessary is an horrendous oversight that plainly should not be tolerated.  
+
+Arguably the soundtrack is a major draw if not the major draw to this game.  Great ambient work by Trent Reznor that sets the mood  as a perfect compliment for the level design and art design.  Without it, much of the atmosphere is lost, and much of what made it a special complete experience is lost.  There simply is no excuse for leaving this out.
+
+However, as I said, it is a fine game.  Even with that in mind, simply put we should demand better treatment for our classics than what we have on display here.",0.7074330449104309,176,False
+2310,141650048,76561198006223172,"It awakened my childhood and teenage memories, with my friends competing, modding QW, and playing Midair.",0.7070068717002869,16,True

@@ -1,0 +1,1986 @@
+appid,recommendationid,author_id,review,weighted_vote_score,votes_up,voted_up
+1250410,218745808,76561198365940128,"The game challenges my mental abilities. I believe it is a meaningful tool to help seniors keep alert.
+I am 87 years old and I am still trying to improve my ability to land a variety of aircraft. I've been told that learning a new language....doing crossword puzzles are also meaningful methods.....I have chosen FLIGHT SIMULATOR !",0.9772422909736633,978,True
+1250410,74488809,76561198080616624,"I'll post a full review later but just wanted to warn anyone out there that after buying the game you download a ~600MB launcher. The game itself is a ~90GB download from that launcher. The problem is, the launcher being open appears to being counted as play time, so just a heads up if you were thinking to return it if you don't like it. But, based on everything I've seen, it's clear that this is going to be a phenomenal sim, but just wanted to let people know.
+
+Also, for those of you, like me, who are installing this to a secondary drive, note that your main drive (C:\) will need to have at least 8.4GB free as it uses a ""Rolling Cache"" that's located in %AppData%\Roaming\Microsoft Flight Simulator
+
+Edit: Earlier I said that it “appears” that the launcher being open counts as play time. I can now confirm that it DEFINITELY counts as play time. Left machine running overnight to download and install and came back to learn that Steam thinks that I’ve been a pilot for 7 hours. Just 243 more and I’ll get my CPL!
+
+For those of you who want to leave and let it install, at least in my case, I came back and it looked as though the launcher had frozen at 15% (that’s where I left it when I locked my PC). I exited the launcher and reopened Microsoft Flight Simulator via Steam to learn it had fully installed. Important thing to note, I didn’t put my PC to sleep overnight, I just locked it and made sure it wouldn’t automatically put itself to sleep by changing the sleep setting in Windows Settings.",0.968940258026123,3566,True
+1250410,129005825,76561198084047091,"Fun to travel to your house, maybe a friends house but the magic gets pretty old.
+Flying different planes helps the game from getting old but man is this game beautiful.
+
+I'd only suggest it if you wanna become a pilot or you wanna listen to music while zoning out while thinking about the one that got away or broke your heart. LMAO
+
+No one will ever read this review.  It's an alright game/sim.",0.9613528847694397,1127,True
+1250410,167356033,76561198360507645,For a second the airplanes sounded super realistic...then I realized it was my PC.,0.9547902941703796,476,True
+1250410,74517487,76561198091059951,"Before you buy the game here, I'd recommend that you try it through the Xbox Game Pass where you can get it for $1 a month on your first month, otherwise $6 a month. If you download it through Xbox Game Pass, you can also use the downloaded files through the launcher on the Steam version if that is how you want to go about it later on. The sim itself is fantastic and I feel that it was well worth the wait. I'll update this with a full review later on when I get more hands on experience with the simulator.
+
+----
+Updated Full Review as of 2020-08-20
+
+After testing the simulator for a fair bit of time, I wanted to give my inputs on how I feel about the simulator. 
+
+Microsoft Flight Simulator graphically speaking, is simply the best we've had in a flight simulator. For the longest time, clouds rendered in simulators like P3D or X-Plane 11 were 2D and flat (albeit now P3D has TrueSky which significantly improves their clouds) but with FS2020, we are finally able to get an overhaul to one of the most significant problems in flight simulation. 
+
+The weather system is great but has a flaw that I've seen. The METAR will sometimes be outdated by 1 hour and show weather that is not representative of what the weather actually is at a certain airport. It can sometimes be significantly behind or sometimes be accurate to the weather currently at an airport but hopefully with time, these issues will be sorted out with their weather provider meteoblue. The gusts however are great with the frequency being shown and able to be adjusted. Gives the wind a more ""alive"" feel.
+
+The aerodynamics have been improved from the days of FSX and P3D. In those sims, it felt as if you were on rails. The aerodynamics are not comparable to X-Plane 11 which I feel has the better flight model (though it does feel too exaggerated). Flying in the third person camera however feels kind of arcade-like which is dislike but I enjoy flying more in the cockpit than I do flying in the third person camera. I feel the aerodynamics will need some work done on them as planes tend to be tail heavy in my experience with them pitching up too much upon touchdown.
+
+The biggest selling point to the game in my opinion is the use of satellite imagery and AI to create autogen. The ground scenery is some of the best ever seen in a flight simulator to date. It uses Bing Maps which is not as good as Google Maps in my opinion but it does the job well enough to make for a realistic experience.
+
+Some of the aircraft have problems with autopilots not functioning correctly, missing features in the GPS systems such as in the G1000 where it can make it difficult or near impossible to fly with them on networks like PilotEdge or VATSIM, and just general performance issues. They look really nice but don't have the greatest functionality but they are just default aircraft so it is to be expected that not everything works in them. They should however, try to make really good avionics. Kind of like how X-Plane 11 has a fully functional G1000, GNS430 and GNS530 avionics systems as they work really well and are included by default. Most payware planes will end up using the default avionics and having strong base avionics is a must in a simulator in my opinion.
+
+The biggest problem I have with the simulator is how buggy and unoptimized the simulator is. I feel that the simulator needed more time to be ironed out with the bugs (such as not being able to click anything in the cockpit upon loading it up) and the performance issues (only 50% gpu usage in the A320 cockpit, glass cockpits suffer hard on performance). The game really needs you to have a beefy computer to run it optimally. The best place to test your performance is in a major city like JFK.
+
+Overall, I'm enjoying the simulator and love to just fly around with my friends and do FSEconomy flights here and there. It is an enjoyable experience so far and with the team wanting to support the game for a long time, I have hope that many of these issues will be fixed.",0.9532497525215149,716,True
+1250410,133484826,76561199013722880,"If  you're someone who has an interest in aviation, this game is totally worth it. I have been playing non-stop, however here are some tips:
+- Make sure to buy a sidestick or yoke controller with it, doesn't have to be expensive just anything as a beginner as it is extremely difficult using a keyboard and it's not immersive. There's no need for one of those fancy throttles and stuff at the beginning, the cheapest sidestick works.
+- Make sure to have a lot of storage, it takes a long time to get it started
+- Just buy the standard version, the rest is quite useless as it's just extra planes that you can get for free as mods
+And just a little bonus tip to make it more fun:
+Get Volanta and track all your flights, it keeps me going being able to see all of my flights around the globe. Try to get custom liveries of real airlines and pretend to fly them and their routes, it's amazing and gives you a goal!",0.9528327584266663,301,True
+1250410,114901786,76561197968567446,"I figure at the 1200hr mark, I feel It's only reasonable to leave my remarks and squawk my experience so far.
+
+As a game, MSFS is a work in progress. It's much, Much better than it was at launch, and with each Sim Update you have a bit of frustration depending if they focus on PC, or on Xbox as for reasons, when they attempt to focus on patches for one, it breaks the other, but coming past SU9, I feel they are continuing to be on the right track and little by little, the game continues to get better and better.
+
+You have read it all before, the Graphics are between good and downright fantastic. This is at the moment, the only game on my system that is the main push for me to build a new PC just to play it. Sim Update Performance improvements have helped quite a bit, but the draw of VR/4K gaming even with a 3090, demands a better CPU and my pretty much ancient X79 based system just isn't enough for this game alone. Even the most recent chip from AMD, the 5800X3D showed that the game Loves CPU Cache, and will use as much as you can get it. Zen 4 is on my radar to be the next big step for getting that bottleneck off the CPU.
+
+Sound is another thing that MSFS does really well at times. Most of the stock planes sound great, and most of the time, a quality 3rd party plane does put some fantastic effort into their audio as well. (PMDG's DC-6 and the Wing42 Boeing 247D are two of my absolute favorites for Radial Relaxation.) When the planes sound good, it really helps nail the experience more than just pretty graphics alone.
+
+VR finally came to the game, and with one of the best implementation using the OpenXR system. Being able to hot swap between 2D and VR on the fly is something many other games should adopt. And if your system is powerful enough for it (Hah, like one truly exist yet with current CPU tech) the game looks amazing maxed out while in VR. The first time I loaded up in the Just Flight Arrow in VR, I could swear I could smell the plane as it was exactly as I would be in a real one many times before. There is still plenty of work to be done for VR. The VR Controls continue to need work and adjustment as well as 3rd party support, but when they can finally get to the point that you can just click, rotate, pull, etc all the cockpit buttons, dials, and levers in VR, it will be an absolutely amazing experience. For now, it is still extremely good, and will continue to get better as technology and the systems improve.
+
+Flight Model is something that some people may love, some may hate, some may like for some plane and not others, some may say X-Plane/P3D/etc does better. For a Sim and a Game, MSFS has nailed a pretty solid representation of how it feels to fly most planes. They are continuing to improve it immensely with added physics and aerodynamic model improvements and again, the game continues to grow and improve over time where the physics will inevitably follow. On the smaller planes, things are quite close to real life comparing to my real world experience, larger birds seem to be pretty close as well depending on the ones you are flying and how much you trust the Weather systems effects on the plane as well. Is it Perfect, no, but I do feel that over time it can be made as simple, or as true to life as one may want and has the CPU performance to emulate down the road.
+
+Weather is another thing that while its had it's fair share of bugs and goofy issues, when it does work correct, it really does add to the immersion factor of the game and gives you the true sense of flying in something other than a clear calm blue sky. Hopefully it can be expanded to truly emulate hurricanes and other more extreme weather, but for now, being able to fly a little Cessna into a Hurricane during the season is kind of fun for something you would never want to do in the real world.
+
+Gameplay is something that at the present system, is possibly lacking to those that are either a little unfamiliar with Flight Sims of this type, but also a lack of implementation ingame that at least for the time being, is being somewhat provided by third party services to add a form of ""Campaign"" or ""Career"" mode. My personal favorite is Flight Sim Economy (FSEconomy), and The Skypark from Orbx. The Skypark gives you some fun and adventurous routes to fly in all sorts of interesting parts of the world, and has a extremely slick app and interface design that works really well. FSE is a much more dated interface and system, but has a lot more depth for things like the world economy, the ability to own and rent/lease planes, maintain and service them, and even run your own FBO network. It too will take you to many different parts of the world but you do have to make your own goals for what you want in the long run, like any open world career sim would. It would be nice if MSFS eventually adds its own sort of Career/Campaign mode that interacts directly and deeply within its own systems, and eventually I believe it will happen, but for now, outside of the lack of marketing/exposure for many of these alternate 3rd party solutions, the ones that are out there do scratch the itch pretty well at least for now.
+
+The Download System many have complained about, and it sounds like Steam actually dodged the bullet compared to the Windows Store version that has even harder times getting patches to apply on Sim Update day sometimes, but I personally, spread between multiple completely separate PC's in my house, have had no issues whatsoever downloading/reinstalling the game or updating when patches are released. Good internet is a must but you will never max out your bandwidth as even with Gigabit, the game does seem to top out at around 200-300Mbit and then since it does handle one file at a time, is at the limit of downloading that file, extracting and processing it, and going onto the next which is a very slow and linear process, and being the game is near 200G at this point, does take time no matter how fast your PC/Internet/etc is. When it all works though, it does eventually finish and works fine at least for me. One big thing that I think even a few Xbox users are missing is when you do download an update or even after first install, you do have to go to the Package Manager under your profile tab, and ""Select All"" and download all those updates as well, especially after every patch, to update all the other packages not part of the main core game. If you don't do that, you will be missing a lot of content and fixes that could cause the game to crash if it's not updated after a Sim Update. The whole separate system like this is very silly I completely agree, but once you grasp it, it works, just very clunky and slowly, but it does, work...
+
+Controller support for the game is very good, one thing I do hope to return in due time would be Force Feedback support as when you have that working, flying a plane really does feel real as you feel the resistance of the air against the control surfaces. And the game supports many of the current, past, and probably future sticks, yokes, gamepads, etc and has customization options galore. One of my favorite devices to use however for quick flights without having to swap in/out the whole Joystick/Throttle/Peddle setup, is using the Steam Controller. The Gyro on the Steam Controller works fantastic as a virtual yoke and allows for near pinpoint precision control over everything except the Yaw access. The triggers though that control yaw, do have finer control than say the same triggers on an Xbox One controller so even that is an improvement over just a conventional gamepad. This does give me great excitement for playing MSFS on the Steam Deck as you will pretty much have the sim, in a portable system combined with a Steam Controller. Fantastic and I cannot wait for mine for quick couch FSE hops.
+
+TLDR. If you like Aviation and Flight, MSFS is a love letter to the skies.",0.9469506144523621,259,True
+1250410,125177490,76561199415396982,"I have always wanted to fly from an early age, but could not see my way to pay for flight school ;esspms and rental of airplanes.  Well, I now I am flying at age 76, and MSFS 2020 could not  be more realistic.  Yes, I do crash very expensive aircraft as I continue to learn, but at least I walk away and fly another day without my wife complaining of the risks of flying at my age.  Haha!!!!",0.9399469494819641,194,True
+1250410,145601719,76561198861562022,"---{ Graphics }---
+☑ You forget what reality is
+☐ Beautiful
+☐ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{ Gameplay }---
+☑ Very good
+☐ Good
+☐ It's just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ Audio }---
+☐ Eargasm
+☐ Very good
+☑ Good
+☐ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{ Audience }---
+☐ Kids
+☑ Teens
+☑ Adults
+☐ Grandma
+
+---{ PC Requirements }---
+☐ Check if you can run paint
+☐ Potato
+☐ Decent
+☐ Fast
+☐ Rich boi
+☑ Ask NASA if they have a spare computer
+
+---{ Difficulty }---
+☐ Just press 'W'
+☑ Easy
+☐ Easy to learn / Hard to master
+☐ Significant brain usage
+☐ Difficult
+☐ Dark Souls
+
+---{ Grind }---
+☐ Nothing to grind
+☑ Only if u care about leaderboards/ranks
+☐ Isn't necessary to progress
+☐ Average grind level
+☐ Too much grind
+☐ You'll need a second life for grinding
+
+---{ Story }---
+☑ No Story
+☐ Some lore
+☐ Average
+☐ Good
+☐ Lovely
+☐ It'll replace your life
+
+---{ Game Time }---
+☐ Long enough for a cup of coffee
+☐ Short
+☐ Average
+☐ Long
+☑ To infinity and beyond
+
+---{ Price }---
+☐ It's free!
+☐ Worth the price
+☑ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{ Bugs }---
+☐ Never heard of
+☐ Minor bugs
+☑ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{ ? / 10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☐ 7
+☐ 8
+☑ 9
+☐ 10",0.9393817782402039,420,True
+1250410,161620587,76561198146408721,I really enjoy my computer turning into an actual jet engine trying to run this game! Flying is fun and it heats my house!,0.9384538531303406,216,True
+1250410,198259613,76561197998762630,"Microsoft is bypassing Steam's refund policy by using a download manager to download and install the game while it logs ""playing time"" to Steam - this means the 120GB download, which has a throttled download speed, will count towards whether you can refund or not, so buyer beware. 
+
+It should honestly be de-listed and banned from Steam until this is no longer the case. Total scam, product refunded.",0.9366492033004761,649,False
+1250410,87185645,76561198967379627,"---{Graphics}---
+☑ You forget what reality is
+☐ Beautiful
+☐ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{Gameplay}---
+☑ Very good
+☐ Good
+☐ It‘s just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{Audio}---
+☐ Eargasm
+☐ Very good
+☑ Good
+☐ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{Audience}---
+☐ Kids
+☐ Teens
+☐ Adults
+☑ All
+
+---{PC Requirements}---
+☐ Check if you can run paint
+☐ Potato
+☐ Decent
+☐ Fast
+☑ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{Difficulity}---
+☐ Just press 'W'
+☐ Easy
+☐ Significant brain usage
+☑ Easy to learn / Hard to master
+☐ Difficult
+☐ Dark Souls
+
+---{Grind}---
+☐ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☑ Isnt necessary to progress
+☐ Average grind level
+☐ Too much grind
+☐ You‘ll need a second live for grinding
+
+---{Story}---
+☑ No Story
+☐ Some lore
+☐ Average
+☐ Good
+☐ Lovely
+☐ It‘ll replace your life
+
+---{Game Time}---
+☐ Long enough for a cup of coffee
+☐ Short
+☐ Average
+☐ Long
+☑ To infinity and beyond
+
+---{Price}---
+☐ It’s free!
+☑ Worth the price
+☐ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{Bugs}---
+☐ Never heard of
+☐ Minor bugs
+☑ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{?/10}---
+☐1
+☐2
+☐3
+☐4
+☐5
+☐ 6
+☐ 7
+☐ 8
+☑ 9
+☐ 10",0.9362147450447083,944,True
+1250410,74487545,76561198377542085,For a second the airplanes sounded super realistic...then I realized it was my PC.,0.9339475035667419,1824,True
+1250410,75020558,76561198096873047,">Went to North Korea at night
+>No lights at all as far as I can see
+>Couldn't see a damn thing
+>Eventually crashed into a mountain ending my suffering
+
+10/10 would go to North Korea again",0.9332281947135925,921,True
+1250410,162590720,76561198812556685,"---{ Graphics }---
+☑ You forget what reality is
+☐ Beautiful
+☐ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{ Gameplay }---
+☐ Very good
+☐ Good 
+☑ Depends on pc specs
+☐ It's just gameplay
+☐ Meh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ Audio }---
+☑ Insane
+☐ Very good
+☐ Good
+☐ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{ Audience }---
+☐ Kids
+☑ Teens
+☑ Adults
+☐ Grandma
+
+---{ PC Requirements }---
+☐ Check if you can run paint
+☐ Potato
+☐ Decent
+☑ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{ Game Size }---
+☐ Floppy Disk
+☐ Old Fashioned
+☐ Workable
+☑ Big
+☐ Will eat 10% of your 1 TB hard drive
+☐ You will want an entire hard drive to hold it
+☐ You will need to invest in a black hole to hold all the data
+
+---{ Difficulty }---
+☐ Just press 'W'
+☐ Easy
+☐ Easy to learn / Hard to master
+☑ Significant brain usage
+☐ Difficult
+☐ Dark Souls
+
+---{ Grind }---
+☑ Nothing to grind
+☐ Isn't necessary to progress
+☐ Average grind level
+☐ Too much grind
+☐ You'll need a second life for grinding
+
+---{ Story }---
+☑ No Story
+☐ Some lore
+☐ Average
+☐ Good
+☐ Lovely
+☐ It'll replace your life
+
+---{ Game Time }---
+☐ Long enough for a cup of coffee
+☐ Short
+☐ Average
+☑ Depends where your flying to
+☐ To infinity and beyond
+
+---{ Price }---
+☐ It's free!
+☐ Worth the price
+☑ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{ Bugs }---
+☐ Never heard of
+☑ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{ ? / 10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☐ 7
+☐ 8
+☑ 9
+☐ 10",0.9300577044487,455,True
+1250410,122590833,76561199021612615,"experienced all other Microsoft Flight Sims and just enjoy flying all and learning as much as possible.
+Started at middle age and have continued thru current age 82. Something new   to learn all the time.",0.9286882877349854,213,True
+1250410,119936885,76561198453117768,"~ DIFFICULTY ~
+🔲 My grandma could play it
+🔲 Easy
+✅ Normal
+✅ Hard
+🔲 A challenge to be reckoned
+🔲 In the heat of confrontation, (Only PVP games)
+
+
+~ GRAPHICS ~
+🔲 MS Paint
+🔲 Bad
+🔲 Meh
+🔲 Normal
+🔲 Very Good
+🔲 An original artistic direction
+✅ Beautiful
+✅ Masterpiece
+
+
+~ MUSIC ~
+🔲 Just filling noises/No music
+🔲 Trivial and uneventful
+✅ Good and/or fitting the game's artistic dispositions
+🔲 Memorable
+🔲 Transcending whispers of a forgotten world
+
+
+~ INTEREST ~
+🔲 I would rather watch paint dry
+🔲 Hard to enjoy
+🔲 Repetitive and/or uninspired
+✅ A good moment
+🔲 Sticking out of the pack
+🔲 You will remember it long after
+
+
+~ REPLAYABILITY ~
+🔲 A one-time experience
+🔲 Only for achievements
+🔲 If you wait a few months/years (or with mods)
+🔲 Definitely
+✅ Infinitely replayable (or almost)
+
+
+~ BUGS ~
+✅ Never heard of
+✅ Minor bugs
+🔲 Can get annoying
+🔲 Impacts the player's experience badly
+🔲 The game itself is a big terrarium for bugs
+
+
+~ REQUIREMENTS ~
+🔲 You can run it on a microwave
+🔲 Low
+✅ Average
+✅ High
+🔲 NASA computer
+
+
+~ PRICE ~
+🔲 Free
+🔲 Underpriced
+🔲 Perfect Price
+✅Could be cheaper
+🔲 Overpriced
+🔲 Complete waste of money
+
+
+~ WORTH BUYING ~
+🔲 No
+🔲 If you have nothing else to play
+✅ Wait for sale
+✅ Yes
+
+
+~ EXPECTATIONS ~
+🔲 It's a completely different game
+🔲 This game is a scam
+🔲 It's missing many features they announced
+✅ Looks very similar to the steam page
+🔲 Better than expected and/or announced
+🔲 Masterpiece, no patch or feature has to be added.
+
+~ FINAL RATING OUT OF 10 ~
+🔲 1
+🔲 2
+🔲 3
+🔲 4
+🔲 5
+🔲 6
+🔲 7
+🔲 8
+✅ 9
+🔲 10",0.9285213351249695,729,True
+1250410,154258718,76561198214680307,"---{ Graphics }---
+☐ You forget what reality is
+☑ Beautiful
+☐ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{ Gameplay }---
+☑ Very good
+☐ Good
+☐ It's just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ Audio }---
+☐ Eargasm
+☑ Very good
+☐ Good
+☐ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{ Audience }---
+☐ Kids
+☑ Teens
+☑ Adults
+☐ Grandma
+
+---{ PC Requirements }---
+☐ Check if you can run paint
+☐ Potato
+☐ Decent
+☐ Fast
+☑ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{ Difficulty }---
+☐ Just press 'W'
+☐ Easy
+☐ Easy to learn / Hard to master
+☑ Significant brain usage
+☐ Difficult
+☐ Dark Souls
+
+---{ Grind }---
+☐ Nothing to grind
+☑ Only if u care about leaderboards/ranks
+☐ Isn't necessary to progress
+☐ Average grind level
+☐ Too much grind
+☐ You'll need a second life for grinding
+
+---{ Story }---
+☑ No Story
+☐ Some lore
+☐ Average
+☐ Good
+☐ Lovely
+☐ It'll replace your life
+
+---{ Game Time }---
+☐ Long enough for a cup of coffee
+☐ Short
+☐ Average
+☐ Long
+☑ To infinity and beyond
+
+---{ Price }---
+☐ It's free!
+☑ Worth the price
+☐ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{ Bugs }---
+☑ Never heard of
+☐ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{Community }---
+☐ NPC Guide is my best friend (It's Offline bruh)
+☑ Family Friendly
+☐ Average
+☐ 17+
+☐ Nothing to do here
+
+---{Rating }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☐ 7
+☐ 8
+☑ 9
+☐ 10",0.9282320737838745,503,True
+1250410,171803639,76561199072962140,"
+---{ Graphics }---
+☐ You forget what reality is
+☑ Beautiful
+☐ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{ Gameplay }---
+☑ Very good
+☐ Good
+☐ It's just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ Audio }---
+☑ Eargasm
+☐ Very good
+☐ Good
+☐ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{ Audience }---
+☐ Kids
+☑ Teens
+☑ Adults
+☐ Grandma
+
+---{ PC Requirements }---
+☐ Check if you can run paint
+☐ Potato
+☐ Decent
+☐ Fast
+☑ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{ Game Size }---
+☐ Floppy Disk
+☐ Old Fashioned
+☐ Workable
+☐ Big
+☑ Will eat 10% of your 1TB hard drive
+☐ You will want an entire hard drive to hold it
+☐ You will need to invest in a black hole to hold all the data
+
+---{ Difficulty }---
+☐ Just press 'W'
+☐ Easy
+☐ Easy to learn / Hard to master
+☑ Significant brain usage
+☐ Difficult
+☐ Dark Souls
+
+---{ Grind }---
+☑ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☐ Isn't necessary to progress
+☐ Average grind level
+☐ Too much grind
+☐ You'll need a second life for grinding
+
+---{ Story }---
+☑ No Story
+☐ Some lore
+☐ Average
+☐ Good
+☐ Lovely
+☐ It'll replace your life
+
+---{ Game Time }---
+☐ Long enough for a cup of coffee
+☐ Short
+☐ Average
+☐ Long
+☑ To infinity and beyond
+
+---{ Price }---
+☐ It's free!
+☐ Worth the price
+☑ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{ Bugs }---
+☑ Never heard of
+☐ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{ ? / 10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☐ 7
+☐ 8
+☑ 9
+☐ 10
+
+
+",0.9277273416519165,341,True
+1250410,144452086,76561198023672898,I love this game but remember when you're uninstalling it to go to your %appdata% and delete the files that's in there too... literally 100gb+ of data in there that doesn't get uninstalled.,0.9265185594558716,136,True
+1250410,96020048,76561198079010060,"---{Graphics}---
+☑ You forget what reality is
+☐ Beautiful
+☐ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{Gameplay}---
+☑ Very good
+☐ Good
+☐ It‘s just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{Audio}---
+☐ Eargasm
+☐ Very good
+☑ Good
+☐ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{Audience}---
+☐ Kids
+☐ Teens
+☐ Adults
+☑ All
+
+---{PC Requirements}---
+☐ Check if you can run paint
+☐ Potato
+☐ Decent
+☑ Fast
+☐ Ask NASA if they have a spare computer
+
+---{Difficulty}---
+☐ Just press 'W'
+☐ Easy
+☐ Significant brain usage
+☑ Easy to learn / Hard to master
+☐ Difficult
+☐ Dark Souls
+
+---{Game Time}---
+☐ Long enough for a cup of coffee
+☐ Short
+☐ Average
+☐ Long
+☑ To infinity and beyond
+
+---{Price}---
+☐ It’s free!
+☑ Worth the price
+☐ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{Bugs}---
+☐ Never heard of
+☑ Minor bugs
+☐ Can get annoying
+☐ The game itself is a big terrarium for bugs
+
+---{?/10}---
+☐1
+☐2
+☐3
+☐4
+☐5
+☐ 6
+☐ 7
+☐ 8
+☑ 9
+☐ 10",0.924138069152832,662,True
+1250410,217527948,76561197993602019,Just downloading the game excludes steam's refund policy as the game is running while slowly downloading the game content.,0.9239946007728577,533,False
+1250410,74698798,76561199079777477,"most realistic visual and pilots eye from cockpit simulation available (I am a jet pilot with 10,000 hours) . sounds are good but need improvement. fantastic base for the future patches and versions to come",0.9236305952072144,572,True
+1250410,161023470,76561198374974350,"1. Install the game just to watch the game install
+2. After that I finally got to watch the game install.
+3. I get the honor of installing the update
+4. I watch the install of the DLCs
+5. Read the guide of how to install the game
+6. Exit game
+7. Finish installation of the game.
+8. Play the game tomorrow.
+9. Game has to intstall update.
+10. Ready to Fly
+
+I think i like it",0.9214203953742981,197,True
+1250410,219400627,76561198107758144,"Be aware, the launcher is 1.5~ GB to download, although, after you run the game for the first time, you must download 130 GB of content (which is the actual game, these dummies), and depending of your Download speed, you might find yourself wasting your Steam 2 hours window to refund the game if you didn't like it...
+
+I like these games, it's quite fun to fly, travel through my local area, discover new places, and so on.
+just be aware of the download times...
+
+This review is timed at 1.5 hours and I have just been able to download 66.55GB",0.9165903925895691,169,True
+1250410,201530044,76561198125605951,"All the comments saying that you have to download the game whilst its running are correct. You will not be able to play the game until multiple hours of downloads are completed (that count towards your playtime) preventing you from a refund. 
+
+This should be changed, its scummy and promotes disgusting business practices.
+
+That being said, if you look past it's major flaw (the download system) it is the premier and most advanced flight simulator on the market. Everything except the download system is absolutely amazing. I would also recommend installing the MFS2020 map enhancement mod. It enables you to overlay google maps/different data rather than the default Bing map that is integrated into the game.",0.9131958484649658,153,True
+1250410,116440328,76561198801499186,"born too late to explore the world, born too early to explore the galaxy, born at just the right time to nose dive into my ex's house with a boeing 747",0.9613427519798279,1107,True
+1250410,91977845,76561198412442826,"---{Gameplay}---
+☑️Try not to get addicted
+🔳Very good
+🔳Good
+🔳Nothing special
+🔳Ehh
+🔳Bad
+🔳Just dont
+
+---{Events}---
+🔳Not avaible
+🔳Not so much to talk about
+☑️Sometime's there
+🔳Much to play the game sometime's
+🔳Like fortnite
+
+---{Graphics}---
+☑️Masterpiece
+🔳Beautiful
+🔳Good
+🔳Decent
+🔳Will do
+🔳Bad
+🔳Awful
+🔳Paint.exe
+
+---{Audio}---
+☑️Fascinating
+🔳Very good
+🔳Good
+🔳Decent
+🔳🔳Not too bad
+🔳Bad
+🔳Earrape
+
+---{Audience}---
+🔳Kids
+🔳Teens
+🔳Adults
+☑️Everyone
+
+---{PC Requirements}---
+🔳Check if you can run paint
+🔳Potato
+🔳Decent
+🔳Fast
+🔳Rich boi
+☑️Ask NASA if they have a spare computer
+
+---{Loading Time}---
+🔳Really Fast (<2 min)
+🔳Fast (2-4 min)
+🔳Normal (4-6 min)
+☑️Long (6-8 min)
+🔳Very Long {8-10 min)
+🔳Too Long (10+ min)
+
+---{Story}---
+☑️Doesn't have
+🔳Something isnt nothing I guess
+🔳Not greatly told
+🔳Average
+🔳Good
+🔳Lovely
+🔳Will make you cry or smile alot
+
+---{Difficulity}---
+🔳Just press a bunch of buttons
+🔳Easy
+🔳Significant brain usage
+🔳Easy to learn / Hard to master
+🔳Not so easy
+🔳Difficult
+☑️Need to learn
+
+---{Grind}---
+🔳Nothing
+☑️Only if you care about leaderboards/ranks
+☑️Isnt necessary to progress
+🔳A bit grindy sometimes
+🔳Average grind level
+🔳A bit grindy
+🔳Insanity
+
+---{Game Time}---
+🔳Long enough for a cup of tea
+🔳Short
+🔳Average
+🔳Long
+🔳Depends on you
+☑️Endless
+
+---{Price}---
+🔳Just buy it
+☑️Worth the price
+🔳Wait for sale
+🔳Maybe if you have some spare money left
+🔳Not recommended
+🔳Dont throw money into a rubbish bin
+🔳Free
+
+---{Micro-Transactions}---
+🔳EA
+🔳Mobile Game(Necessary if you don’t want to wait 15 weeks to construct a toaster)
+🔳”Premium” Currency AND Normal Currency
+🔳”Premium” Currency OR Normal Currency
+🔳Quick way to advance
+☑️(Planes,Airports,etc)
+🔳Only to show off big time
+🔳Level DLC
+🔳None
+
+
+---{Bugs/Glitches}---
+🔳Never had any
+🔳Minor bugs/glitches
+☑️Few bugs/glitches
+☑️Can get annoying
+🔳Ruining the game
+🔳The game itself is a big terrarium for bugs/glitches
+
+---{?/10}---
+🔳1
+🔳2
+🔳3
+🔳4
+🔳5
+🔳6
+🔳7
+🔳8
+🔳9
+☑️10
+",0.9078885912895203,570,True
+1250410,83065209,76561198115542364,"---{Graphics}---
+☑ You forget what reality is
+☐ Beautiful
+☐ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ Paint.exe
+
+---{Gameplay}---
+☐ Very good
+☑ Good
+☐ It‘s just gameplay
+☐ Mehh
+☐ Staring at walls is better
+☐ Just don‘t
+
+---{Audio}---
+☐ Eargasm
+☑ Very good
+☐ Good
+☐ Not too bad
+☐ Bad
+☐ Earrape
+
+---{Audience}---
+☐ Kids
+☑ Teens
+☑ Adults
+
+---{PC Requirements}---
+☐ Check if you can run paint
+☐ Potato
+☐ Decent
+☐ Fast
+☐ Rich boi
+☑ Ask NASA if they have a spare computer
+
+---{Difficulity}---
+☐ Just press ‚A‘
+☐ Easy
+☐ Significant brain usage
+☑ Easy to learn / Hard to master
+☐Difficult
+☐ Dark Souls
+
+---{Grind}---
+☑ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☐ Isn't necessary to progress
+☐ Average grind level
+☐ Too much grind
+☐ You‘ll need a second live for grinding
+
+---{Story}---
+☑ Story?
+☐ Text or Audio floating around
+☐ Average
+☐ Good
+☐ Lovely
+☐ It‘ll replace your life
+
+---{Game Time}---
+☐ Long enough for a cup of coffee
+☐ Short
+☐Average
+☐Long
+☑ To infinity and beyond
+
+---{Price}---
+☐ It’s free!
+☑ Worth the price
+☑ Buy it on sale
+☐ Not recommended
+☐ You could also just burn your money
+
+(depends on your liking of airplanes)
+
+---{Bugs}---
+☐Never heard of
+☐ Minor bugs
+☑ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs",0.9073264002799988,342,True
+1250410,130741896,76561199092740756,"---{ Graphics }---
+☑ You forget what reality is
+☐ Beautiful
+☐ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{ Gameplay }---
+☐ Very good
+☑ Good
+☐ It's just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ Audio }---
+☑ Eargasm
+☐ Very good
+☐ Good
+☐ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{ Audience }---
+☐ Kids
+☑ Teens
+☑ Adults
+☐ Grandma
+
+---{ PC Requirements }---
+☐ Check if you can run paint
+☐ Potato
+☐ Decent
+☐ Fast
+☑ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{ Difficulty }---
+☐ Just press 'W'
+☐ Easy
+☐ Easy to learn / Hard to master
+☐ Significant brain usage
+☑ Difficult
+☐ Dark Souls
+
+---{ Grind }---
+☐ Nothing to grind
+☑ Only if u care about leaderboards/ranks
+☐ Isn't necessary to progress
+☐ Average grind level
+☐ Too much grind
+☐ You'll need a second life for grinding
+
+---{ Story }---
+☐ No Story
+☑ Some lore
+☐ Average
+☐ Good
+☐ Lovely
+☐ It'll replace your life
+
+---{ Game Time }---
+☐ Long enough for a cup of coffee
+☐ Short
+☐ Average
+☐ Long
+☑ To infinity and beyond
+
+---{ Price }---
+☐ It's free!
+☑ Worth the price
+☐ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{ Bugs }---
+☐ Never heard of
+☑ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{ ? / 10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☐ 7
+☐ 8
+☑ 9
+☐ 10",0.9061462879180908,250,True
+1250410,233929151,76561198118313497,"***BUYERS BEWARE!!!***
+
+This game doesn't install directly from steam; instead it opens an installation client. This means that by the time you're done downloading the game, you can't refund it. This is a really scummy practice that I don't think should be permitted on steam. 
+
+So: if you're unsure if the game will run (in my case, it does, it just doesn't load some of the UI for some reason so I can't play it)... I'd advise against this one.",0.9005094766616821,135,False
+1250410,75718832,76561198427238650,You need a good PC... like a really good one.... like a really really good one... I have a 1660 ti and get a silky smooth 10 fps in dense cities... really cool game though!,0.8994414806365967,333,True
+1250410,85080617,76561198161201624,"---{Graphics}---
+☑ You forget what reality is
+☐ Beautiful
+☐ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{Gameplay}---
+☑ Very good
+☐ Good
+☐ It‘s just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{Audio}---
+☐ Eargasm
+☑ Very good
+☐ Good
+☐ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{Audience}---
+☐ Kids
+☐ Teens
+☐ Adults
+☑ All
+
+---{PC Requirements}---
+☐ Check if you can run paint
+☐ Potato
+☐ Decent
+☐ Fast
+☑ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{Difficulity}---
+☐ Just press 'W'
+☐ Easy
+☐ Significant brain usage
+☑ Easy to learn / Hard to master
+☐ Difficult
+☐ Dark Souls
+
+---{Grind}---
+☐ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☑ Isnt necessary to progress
+☐ Average grind level
+☐ Too much grind
+☐ You‘ll need a second live for grinding
+
+---{Story}---
+☑ No Story
+☐ Some lore
+☐ Average
+☐ Good
+☐ Lovely
+☐ It‘ll replace your life
+
+---{Game Time}---
+☐ Long enough for a cup of coffee
+☐ Short
+☐ Average
+☐ Long
+☑ To infinity and beyond
+
+---{Price}---
+☐ It’s free!
+☑ Worth the price
+☐ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{Bugs}---
+☐ Never heard of
+☐ Minor bugs
+☑ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{?/10}---
+☐1
+☐2
+☐3
+☐4
+☐5
+☐ 6
+☐ 7
+☑8
+☐9
+☐ 10
+
+Don't try it with Keyboard, get a Joystick.
+I play with the Thrustmaster T16000M. 
+
+You need good Internet! You can't download the full Game, it would be to big. It's loading from the Internet while you play. 
+
+Ryzen 5900X
+RTX 3080
+
+Average FPS: ~75, but most time around 90. 
+But with the A320 in New York around 50. 
+
+I know my English is not the best but... I give my best. :-)",0.8984484672546387,220,True
+1250410,200183150,76561199054169512,"The game recreates the whole Earth using satellite maps and AI. You can take off from your local airport and fly over your own house.
+
+The graphics, especially the clouds, lighting, and weather effects, are stunning and make you feel like you're actually flying.
+
+You can turn on real-time weather, so if it's raining somewhere in the world, it's raining in the game. You can also see real flights happening around you.
+
+The 40th Anniversary edition adds many new aircraft for free, including helicopters, gliders, and famous historical planes like the Wright Flyer and the Spirit of St. Louis.
+
+You can make it as easy or as hard as you want. Turn on all the help to just enjoy the view, or turn it all off for a super-realistic challenge.
+
+Many major airports are handcrafted to look just like their real-life counterparts, and the cockpits of the planes are incredibly detailed and functional.
+
+The developers regularly release free ""World Updates"" that make different parts of the world look even better.",0.8929185271263123,133,True
+1250410,203272778,76561198885159799,"solid flight sim
+
+scummy business practices from Microsoft with it downloading while the game is running to prevent refunds. 
+
+games should be review bombed for bad practices as that's the only power the consumer has to send a message.",0.8900647163391113,200,False
+1250410,89955592,76561197969913402,"First the good: This probably has the best graphics of any flight simulator I've ever played, especially considering that all the terrain is from satellite maps. It also probably has a very realistic flight model, but I'm not a pilot so I can't really attest to how good it is or whatever.  I do know it feels a bit different than X-Plane 11 though. Also for the same base price you can pretty much fly everywhere.  The only reason to pay extra is for a few extra planes and a bit more detail on some airports.
+
+The downsides to this product?  Microsoft does all the updating and installing. The first time you start up the game you will wind up waiting an hour or more (depending on your download speed and the load on Microsoft's crappy servers) before you can even play.  This time gets added to your play time so good luck on that refund.  I mean, if there's a real need to refund or if you absolutely hate the download time, you're gonna have to argue with steam support about your play time.  If not for that, you could get a refund automatically under 2 hours of play time. 
+
+Also, If you don't play the game for a long while, expect to start it up and find out there's a 30+GB update waiting for you, and no, you can't just let it update and THEN start up the game, it's back-ass-wards with the update after you launch. Also, it doesn't transmit one large compressed file and then decompress it and install it.  No, it installs in bits and pieces, so you'll see your download speed ramp up from 0 to whatever speed, then drop to 0 again as it decompressed the file and installs it, only to start over for the next file.   If Steam could handle at least the major updates this maybe wouldn't be so bad.
+
+This game also depends on an internet connection to load the terrain graphics. In low detail areas where it's lots of open fields and trees it's probably not that bad, but with buildings you may not see a detailed structure right away depending on your internet speed.  The only good news here is that you can have it cache the local area if you're prone to flying in the same general area a lot.   This game is probably not safe for Comcast users (Data caps).
+
+This game also takes data for things like the current weather, actual flight traffic in the area, and of course other players in the game.  
+
+But another good thing about the game is the VR support.  I've managed to do a few flights in VR and it works reasonably well. I still prefer X-Plane 11 for the simple fact that I can control just about everything with the VR controllers but if your setup allows you to comfortably use the keyboard/mouse and a HOTAS, MSFS still works well enough.  The game is pretty rough on my poor computer though.  Even setting the Index to run at 80FPS and turning details down to medium on just about everything I still noticed a bit of motion smoothing type warping in game.
+
+For reference I'm running this on a Ryzen 3950X, 64GB of RAM, and a RTX 3080. This should be more than enough computer for just about every VR game out there, but this is one of those games that the computer struggles on.  If you have a weaker computer and you plan to play in VR, you may want to set your settings even lower unless you can put up with an awful lot of motion smoothing.
+
+But anyway, despite all of that, if you're a flight simulator fan (and especially regarding VR) then this is a no-brainer.  There's not really any other flight sim out there that competes at the moment, as far as graphics and world simulation goes.  X-Plane 11 doesn't perform much better but I don't think it takes advantage of multiple cores either so at least MSFS has that advantage.",0.8895053863525391,104,True
+1250410,74487487,76561198055795604,"[b]---Note to anyone getting slow download speed----[/b]
+
+Seams to be a bug with the launcher from choosing a custom download location. After confirming the folder will take you to a blue download bar that downloads incredibly slow. Just restart the game and then click update and you will see a white bar with the progress.
+
+How to fix stuck at ""Please Wait..."":
+Delete your packages folder, uninstall launcher, and delete all folders and files in C:\Users\USERNAME\appdata\roaming\Microsoft Flight Simulator\ and retry",0.9354017376899719,729,True
+1250410,179321937,76561198138215348,"After 2,549.1 hours of playing this game I have finally decided that now is the time to post a review.
+
+My review?
+
+It's a pretty good game.
+
+My final verdict:
+
+""Microsoft Flight Simulator 2020: the only game that ends up costing about as much as what it simulates.""",0.8822905421257019,91,True
+1250410,151383518,76561198117992270,"When this game was released I played it using Xbox Game Pass.
+
+I got a Cessna to depart from Atlanta International and at the same time streamed the flight to my father. Together we flew around Atlanta and later Montevideo. It was a great experience, he really liked it.
+
+This was the last game I played alongside my father, he passed away in 2021.",0.9287824630737305,497,True
+1250410,217291189,76561199231212763,">bought this game
+>downloaed it
+>thought to myself ""wow only a gigabyte?""
+>launched it
+>prompted me to install 500 gigs worth of stuff 
+>started install
+>10 hours later still installing
+
+10/10 perfect game, microsoft download simulator",0.8775967955589294,88,True
+1250410,101166981,76561198027957126,"Love the Sim. Fly it about every day. In fact I've been flying MFS for over 20 years now. The only thing that sucks, is that when I bought a P-40 I never got it. They took my money, and never delivered it. I put in a request to get my money back, but haven't heard from anyone yet. How often does this happen to others? I'm afraid to purchase more planes because I'm not confident enough that I'll get what was promised. Just thought I'd put my 2 cents in. Or $25 in. Hoping to get the refund. Or the P-40. Love the Sim!!!!",0.8741831183433533,98,True
+1250410,120904434,76561199134715520,the installer taking so long that you cant refund the game is an interesting investment strategy,0.8719502091407776,103,True
+1250410,207650119,76561197985639855,"This game is a shining example of theft by Microsoft Security features.  After an update about a year ago, the game will not launch telling me I need an Xbox account (mind you I launch this game with my Xbox app).  After hours of going through tedious, in depth efforts to reset every single microsoft app that is in any way associated with this shining turd of a program, wasting time and money, the problem is still not fixed. Reinstalling everything EXCEPT the OS, still not fixed.  Don't waste your money on a program that microsoft will steal from you with a single update, will refuse to fix, and in generally will tell you get get fucked poor because you need to upgrade to the next latest and greatest turd sandwich they are marketing as a gourmet program.  This program is an absolute waste of money, time, effort and will do nothing but frustrate the hell out of you.  I will NEVER spend money on a microsoft game again. Screw this company, Screw their engineer obselecence, Screw their attitude toward customers, basically get wrecked.",0.8691829442977905,106,False
+1250410,217966589,76561198284691008,"After 44 hours of ""playtime"", I was able to finally finish fixing the download and login issues... The download stops midway so I had to troubleshoot different ways to make it work... 
+I guess I will update this review in the future to comment on the game itself!",0.8682005405426025,191,False
+1250410,107638325,76561198871833476,"Turn the master volume down a bit in the settings, put your favorite music on, pick a departure, arrival, and a plane--- then fly anywhere in the world!
+
+As of today I've accumulated 500 hours of flight time and I keep coming back for more.
+
+You don't need to know anything about flying to play. There are tutorials and assistance options for newbies you can turn off once you get the hang of it.
+
+It's one of the chillest sims I've ever played... well as long as I'm not trying to land a 747 in a cloudy mountain valley during a thunderstorm :)
+
+Make sure you explore Chile, it is beautiful!
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=2723500239
+It's the best thing Microsoft has ever made :P",0.8672861456871033,119,True
+1250410,131276886,76561198015503301,"  
+Reached the iconic number 320 hours and MFS 2020 it's Amazing!!
+
+
+Flight Simulator gives us the opportunity to fly over the world in real scale and incredibly detailed, offers us Breathtaking Landscapes with Incredible Atmospheric Conditions, Spectacular Volumetric Clouds and Incredible Sunsets or Sunrises!
+
+In addition to being able to fly free or create flight plans, the game offers a flight school and variety of challenges such as landings on iconic runways or Discovery flights over mountains and diverse landscapes and cities!
+
+Also have Top Gun Maverick challenges that are insanely good!
+
+We have a wide variety of planes, Cessna or Helicopter moving to Fighter Jet or Passenger Planes like a A320 or a 747 all the way up to the giant Hughes H-4 Hercules!
+
+The gameplay at the beginning needs some adaptation until we can follow the routes using autopilot and instruments for a more realistic experience and achieve smooth landings without hurting the passengers!
+
+
+The most beautiful and closest to the real experience i ever had in games!
+",0.8662670254707336,81,True
+1250410,174102593,76561199166500526,"Microsoft Flight Simulator is overall an amazing game.
+
+In terms of graphics, it cannot be beaten. The map is detailed and very accurate to real life in most circumstances, and its always fun to fly over your favourite place or your home city. I personally enjoyed flying over the beautiful mountains of Queenstown New Zealand.
+
+When it comes to gameplay and the cockpits, not all buttons work, which is expected, as it is more off a ""sim-cade"" than a fully fledged simulator, such as DCS.
+
+Modded aircrafts can be easily added to the game, and in many cases, depending on the aircrafts developer, the mod can be such high detail that every button in the cockpit has a purpose! There are of course mostly paid models, but if you know where to look, you can find some very good ones for free!
+
+The sound design in this game is excellent. I spent most of my time flying the Airbus A-320, and the sound when you go full thrust for takeoff, and roll along the ground approaching v1, theres nothing like it. It really just helps immerse you in the experience.
+
+Overall, it is a great game, but the physics are not 100% accurate or realistic, which is why I have given it the title of a ""Sim-cade"".
+
+Even with all of this positive feedback, a lot of the experience has been broken and ruined for me due to something that has been happening to so many people, the ""install/update loop bug"". This bug has been out for YEARS, and still they have done NOTHING to fix it. When i first purchased the game, it took me a full 20 hours of having the game open trying to install it. The games install would reach 93%, then the download sleep would hit 0mbps, and then it would drop down to 76%. Once it reached 93% again, same thing would happen. The download speed would reach 0mbps and the download would reset to 76% all over again. After spending a week trying to download it every day, and watching SO MANY tutorials, I eventually found that limiting your download speed on your computer would help the issue occur less, and it worked!!! I was so happy to finally play the game after 20 HOURS of restarting the download due to it LOOPING.
+
+Even now, while writing this review, I am unable to play the game due to an update that was added to the game a few weeks ago, because now when installing the update, my download just does the same thing as before, it loops.
+
+This wasn't just an issue on my end, as I was in contact with someone last year when installing this game who was having the EXACT SAME PROBLEM.
+
+Its such a shame for such a great and enjoyable game to be ruined by a bug like this.
+
+But, if you look past that annoying bug, MSFS is an extremely great and memorable game and experience for sim-pilots and aviation enthusiasts alike!
+
+8/10",0.8653216361999512,95,True
+1250410,78753962,76561198348565224,"Beautiful game, a lot of fun with friends. but it is a sim, so the game itself might not be fun but you can make it fun. so far i have lived my dreams of delivering cocaine across the Bolivian border in unmarked Cessna 208B's with a FedEx skin, I'm happy",0.913032054901123,201,True
+1250410,179676606,76561198043584925,"I don't really understand. When I pre-ordered this game and when it was released, it was simply known as Microsoft Flight Simulator. 
+The idea was that it would be constantly updated and it would be the ongoing version for the foreseeable future.
+In 2022, a ""40th Anniversary Update"" was added, and the game suddenly changed it's name to ""Microsoft Flight Simulator 40th Anniversary Edition""... this wasn't what I originally purchased.
+
+Now, Microsoft have a new version, Microsoft Flight Simulator 2024. 
+
+I can't help but feel that I was missold the game. I bought a sim that would be the base game, with DLC, Updates and patches added going forward, but it seems that they have shelved that idea, renamed this version and added a new version of the game that I have to shell out another £70 for...
+
+Don't get me wrong, this version is really good, and I don't have any issues. I just can't help but feel cheated by the game studios when they release a game and concept, rename it 2 years down the line and then replace it for a newer version and charge me for the priveledge. Why isn't it DLC?",0.9125012755393982,193,True
+1250410,124948599,76561197974754170,"Great flight sim, but if you don't play that often the system ruins the game.
+Still possible the best flight sim, and alot of fun and looks great.
+
+But as far as patching, over the last 2-3 years, nothing has changed, lmited download speed, 
+a little faster now, downloading at 130Mbit/s (ca 16MB/s) but still far from satisfactory, which means patching is a VERY long process..   While steam allows me to download with 1000mbit/s (125MB/s) the studio is really out of touch with modern updating/patching. 
+
+
+Game play 5/5
+Everything in terms of the game 5/5
+
+The software launcher/patcher -50/5
+
+When there is a patch,  NOPE.. 
+
+1. Steam has a patch, fine.  It's fastdownload, fast patching.
+2. BUT THEN THE LAUNCHER PATCHES.  (yes i did all the useless tips they share)
+still my downloads never goes above 15mb/s 20mb/s if im lucky. which is basically only 10% bandwidth used.
+And it downloads single files, and aparently install them 1 at time between downloads.  OMG,, this is like 
+late 1990's or early 2000s..   
+
+I do not understand why they dont just make a single file patch and let that patch the game.
+
+So imagine game is installed, you don't play much ,  but now you want to fly for a few hours.
+Launch the game, then nope.  litterally 3-4 hours patching awaiting..  Ohh yes on top of being forced to
+run that awfull xbox live bs ontop on steam.. 
+
+Possible the worst launcher/patcher i know of, anywhere on the internet.",0.8602555394172668,188,False
+1250410,118339295,76561198337909438,"---{ Graphics }---
+☑ You forget what reality is
+☐ Beautiful
+☐ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{ Gameplay }---
+☐ Very good
+☑ Good
+☐ It's just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ Audio }---
+☐ Eargasm
+☐ Very good
+☑ Good
+☐ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{ Audience }---
+☐ Kids
+☑ Teens
+☑ Adults
+☐ Grandma
+
+---{ PC Requirements }---
+☐ Check if you can run paint
+☐ Potato
+☐ Decent
+☐ Fast
+☑ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{ Difficulty }---
+☐ Just press 'W'
+☐ Easy
+☑ Easy to learn / Hard to master
+☐ Significant brain usage
+☐ Difficult
+☐ Dark Souls
+
+---{ Grind }---
+☑ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☐ Isn't necessary to progress
+☐ Average grind level
+☐ Too much grind
+☐ You'll need a second life for grinding
+
+---{ Story }---
+☑ No Story
+☐ Some lore
+☐ Average
+☐ Good
+☐ Lovely
+☐ It'll replace your life
+
+---{ Game Time }---
+☐ Long enough for a cup of coffee
+☐ Short
+☐ Average
+☑ Long
+☐ To infinity and beyond
+
+---{ Price }---
+☐ It's free!
+☑ Worth the price
+☐ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{ Bugs }---
+☑ Never heard of
+☐ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{ ? / 10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☐ 7
+☑ 8
+☐ 9
+☐ 10",0.858205258846283,88,True
+1250410,227927415,76561197991904059,"When downloading the game on steam it doesn't actually download the whole game, it only downloads a few GB then says it's ready to play.
+
+When you then launch the game it says it needs to download an update and that's when it actually starts downloading the remaining 150GB of the game while Steam counts it as play time.
+after about 48min of downloading it crashed and lost all download progress...  so i requested a refund.  
+
+Don't bother.  download time should not be counted as play time!",0.8560324311256409,191,False
+1250410,178086056,76561199648262507,"
+---{ Graphics }---
+☑ You forget what reality is
+☐ Beautiful
+☐ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{ Gameplay }---
+☐ Very good
+☑ Good
+☐ It's just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ Audio }---
+☐ Eargasm
+☑ Very good
+☐ Good
+☐ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{ Audience }---
+☐ Kids
+☑ Teens
+☑ Adults
+☐ Grandma
+
+---{ PC Requirements }---
+☐ Check if you can run paint
+☐ Potato
+☐ Decent
+☐ Fast
+☑ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{ Game Size }---
+☐ Floppy Disk
+☐ Old Fashioned
+☐ Workable
+☐ Big
+☑ Will eat 10% of your 1TB hard drive
+☐ You will want an entire hard drive to hold it
+☐ You will need to invest in a black hole to hold all the data
+
+---{ Difficulty }---
+☐ Just press 'W'
+☐ Easy
+☐ Easy to learn / Hard to master
+☐ Significant brain usage
+☑ Difficult
+☐ Dark Souls
+
+---{ Grind }---
+☑ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☐ Isn't necessary to progress
+☐ Average grind level
+☐ Too much grind
+☐ You'll need a second life for grinding
+
+---{ Story }---
+☑ No Story
+☐ Some lore
+☐ Average
+☐ Good
+☐ Lovely
+☐ It'll replace your life
+
+---{ Game Time }---
+☐ Long enough for a cup of coffee
+☐ Short
+☐ Average
+☑ Long
+☐ To infinity and beyond
+
+---{ Price }---
+☐ It's free!
+☑ Worth the price
+☐ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{ Bugs }---
+☑ Never heard of
+☐ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{ ? / 10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☐ 7
+☐ 8
+☑ 9
+☐ 10",0.8559218049049377,212,True
+1250410,227946460,76561198007274770,"I created a Microsoft account only to play this game, I never used that account for anything else and in less than 24h the account was blocked for ""activity that goes against the Microsoft Services Agreement"". Is playing your fucking game against Microsoft Services Agreement? 
+Now I am block in a loop at the cappcha stage when it tells me to retry although I complete it, I just wanted to fly planes, not doing 3 hours of account management online because of Microsoft paranoia!",0.8556872010231018,125,False
+1250410,175180697,76561198113207517,"---{ Graphics }---
+☑ You forget what reality is
+☐ Beautiful
+☐ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{ Game play }---
+☑ Very good
+☐ Good
+☐ It's just game play
+☐ Meh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ Audio }---
+☑ Eargasm
+☐ Very good
+☐ Good
+☐ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{ Audience }---
+☑ Kids
+☑ Teens
+☑ Adults
+☑ Grandma
+
+---{ PC Requirements }---
+☐ Check if you can run paint
+☐ Potato
+☐ Decent
+☐ Fast
+☐ Rich boy
+☑ Ask NASA if they have a spare computer
+
+---{ Game Size }---
+☐ Floppy Disk
+☐ Old Fashioned
+☐ Workable
+☐ Big
+☐ Will eat 10% of your 1TB hard drive
+☑ You will want an entire hard drive to hold it
+☑ You will need to invest in a black hole to hold all the data
+
+---{ Difficulty }---
+☐ Just press 'W'
+☐ Easy
+☑ Easy to learn / Hard to master
+☐ Significant brain usage
+☐ Difficult
+☐ Dark Souls
+
+---{ Grind }---
+☐ Nothing to grind
+☐ Only if u care about leader boards/ranks
+☐ Isn't necessary to progress
+☐ Average grind level
+☐ Too much grind
+☑ You'll need a second life for grinding
+
+---{ Story }---
+☑ No Story
+☐ Some lore
+☐ Average
+☐ Good
+☐ Lovely
+☐ It'll replace your life
+
+---{ Game Time }---
+☐ Long enough for a cup of coffee
+☐ Short
+☐ Average
+☐ Long
+☑ To infinity and beyond
+
+---{ Price }---
+☐ It's free!
+☑ Worth the price
+☐ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{ Bugs }---
+☐ Never heard of
+☑ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{ ? / 10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☐ 7
+☐ 8
+☐ 9
+☑ 10",0.8553810119628906,226,True
+1250410,157051030,76561198125825519,"So Microsoft Flight Simulator is a fantastic way to enjoy the planet, flying and all of it's wonders from the comfort of your chair. The simulator can be as simple or as realistic as you want it to be, it can be a money pit in which some of us could have bought a house or it can cost virtually nothing.  Be prepared to spend an age downloading it and all of it's associated content, be prepared to face problems but if you persist, it might just be enough to make yourself forget you're in your house and not in the skies somewhere. At this stage of it's development, I would definitely recommend it to anyone on the fence or who just haven't bought it yet. I've flown countless hours around the USA, Europe and Asian territories and found every minute of it to be an eye opening and stunning experience.",0.8535485863685608,82,True
+1250410,193527884,76561198025526665,"I bought this game shortly after it came out. 100 hours of this playtime has been me trying to get this game to work over the years and just re-downloading the same thing over and over. The hours accumulated like this because you have to download everything in game instead of just doing it through steam, like pretty much any other game available. So any time the game is crashing and you have to reinstall it, you have to boot it up just to re-download 150+ GB's of files in game from Microsoft's servers. Every update released increases the size (and the crash probability) as well.
+
+I just finally got this working after a month of it crashing when loading up, just to have it crash 15 minutes into a flight. I give up and will be keeping this uninstalled. It's a beautiful, relaxing game when it actually works, however I can't recommend this to anybody based of of the headaches and frustrations that come with booting it up. Save your money for something that actually works properly.",0.8518089056015015,146,False
+1250410,102749380,76561197988540990,"I'd love to recommend the game. The actual playtime I've had is good, the graphics are nice.
+
+But of my 12 hours in-game, I've actually played for 90 minutes. The rest has been mandatory updates, which are downloaded and installed in-game, preventing me from playing anything else. They rarely max out my (already pretty poor) internet connection.
+
+I'm a shift worker, I just don't have time for this. I'd rather just sit down and play the game.
+
+EDIT: Oh, and because of all this time spent updating the game inside the client, I'm ineligible for a refund under Steam's two hour policy. The only way you can apply for a refund is if you do it before you've actually experienced gameplay. I'm really disappointed by this.
+
+Update 10 January 2023. I am reinstalling the game. I need to download 180gb of updates within the client. This design is selfish and awful, and at this point about 10% of my recorded playtime in this game has been actually playing the game.",0.8510274291038513,306,False
+1250410,233711042,76561198402048473,"For some godforsaken reason the absolute gigabrained 200 IQ geniuses at Microsoft Technology Corporation thought it would be the absolute peak of ideas to make the ""game"" download be a thin client that downloads the rest of the game while it's running, thus taking up hours. What's even better is the download doesn't fucking work. Those 2.8 hours contained not a lick of gameplay, simply waiting at the screen for the game to either crash or for some reason restart the download at zero. If this refund request doesn't go through I'll somehow hate Microsoft more than I already did. I pray a curse befalls upon whoever designed the abysmal download manager in that game. If I had persisted I would be quite literally geriatric by the time the install would finish.",0.8485875725746155,123,False
+1250410,94788420,76561198071493469,"Game install and update download sucks but the game is great.
+
+A better name for this game would be Download Simulator. Probaby more than 80% of my playtime is spent in the download screen. It also makes your CPU and GPU fan run at full speed so that you can really get that immersive airplane feel.",0.8479969501495361,84,True
+1250410,196111566,76561199085941359,"i have 44 hours of playtime in this game, at least 30 of them is from sitting and waiting for the game to download
+
+it would have been much easier to just download the entire game via steam rather than a launcher with significantly restricted download speeds",0.847270131111145,163,False
+1250410,171772141,76561198015907942,Although this sim has some issues or limitations it is the best flight simulator available right now. Warning for steam users with slower internet - game is huge and sometimes downloads are quite slow. It goes even over the 2 hours testing period (game refund). Basically you spend your refund window for game to install. It can take even 2-5 hours before you will be able to play and that is only mandatory install and updates - latest game version. If you want better textures for scenery then there is already 17 large world updates (my guess is another 100gb+).,0.845363438129425,66,True
+1250410,199041462,76561199489906948,"Got scammed out of my money, Microsoft flight simulator bypasses steam by having a large download of 120GB and will take more than 2 hours which goes beyond the steam refund policy, Now I can't get my money back, this game should get taken off of steam and people should get their money back. Do not recommend.",0.8449649810791016,295,False
+1250410,214043723,76561198034570399,"Have been playing the game since it first released. 400+ hours of play time. All good till Dec 2025. Suddenly, it wont start. The Asobo screen starts, then it requires XBox login, but you cant click on the Login button. No way to proceed to the game.
+
+I even logged into XBox and started the game from there, and the same problem. Cant play, cant update, cant access my planes or purchased content. Hundreds of dollars down the tube because of whatever has been messed up. 
+
+Microsoft fix this problem and announce that you recognize the problem and fixed it. You have to let us know, since I have now uninstalled the game and deleted the files from the C drive which was taking up almost 500Gb. I will consider purchasing the new version and remove this review after the game can work properly again.",0.8449409008026123,136,False
+1250410,121851165,76561198870978346,"The game is great, it runs well on a 1660ti SUPER, Ryzen 5 computer, the graphics are great and it is a great simulator to learn how to fly an aircraft, but a huge downside to this game is that I had to buy a separate 2TB hard drive for this game because a new 60gb update comes out for this game every 2 weeks, and when I first downloaded the game in 2020, it was taking 120gb on my main drive, now, as of 2022 it is taking 790gb on my new hard drive. this is absolutely redicilous I have already paid nearly 5 times the price I paid for this game, just to play it. If this continues like this, I will have to sadly, quit playing the game.",0.8442838788032532,89,True
+1250410,200858436,76561199875998799,"SCAM SCAM SCAM SCAM SCAM. Microsoft made the decision to have the actual game install while you are technically 'playing the game' (sitting on an install screen), meaning your 2 hours of time for refunds get used up entirely by doing nothing. After that, you are forced to login with a microsoft account. After closing the game and reopening it, microsoft will tell then you that your account has been locked, give you zero reason as to why, and tell you that you can't play until you add a phone number to your account. When trying to add a phone number, microsoft will tell you ""that method is unavailable"", and give you zero option to do anything else. So essentially, microsoft will take your money, force you to use up your refund time, and then kick you out of the game with no way to play it anymore. I don't get how this game is allowed on steam, let alone how it is even legal. It is literally fraud.",0.8430415391921997,435,False
+1250410,75881559,76561197998927527,Encountered another player flying around Jefferey Epstein's island 10/10,0.9386724233627319,552,True
+1250410,74546094,76561198177791075,"The best loading screen simulator! 
+
+My internet speed is 100 mbps. 
+In 19 hours, 16GB of 90 GB were downloaded. I think the simulator will be completed in a week, it feels incredible!
+
+[spoiler]P.S 
+When the game was released, there were problems with downloading files[/spoiler]",0.8378598690032959,170,True
+1250410,120898348,76561199083840496,I bought default version and now i wana upgrade but you still gota pay full price. Im not going to pay another 100 dollars for something that i already got.,0.8376995921134949,185,False
+1250410,128009118,76561198097375778,"The game is fine, but I have lost over $60 in purchases through the in-game marketplace. the purchase fails but Steam still takes the money. I never get the item in the game so I am out the cost of the item. Steam says it is not their problem and it is very complex and time consuming to try and get it settled through MicroSoft. I can't recommend a game that takes your money like that. No excuses for MS or Steam.",0.8368725180625916,141,False
+1250410,129756289,76561198048184286,"I'm a real-life pilot and flight instructor currently training for an airline. I've also been playing MS Flight Sim since 1981. I waited this long to write a review of MSFS 2020 because I knew it'd take a while to really come into its own, and it finally has at this point.
+
+When first released, MSFS was amazing in that it modeled the entire world with pretty good realism - you could fly a real VFR (visual flight rules) flight with it, complete with real-world waypoints that looked more or less just like they do in real life. But in terms of aircraft and aircraft systems, including some of the underlying tech common to all of them, a lot of that was pretty rough. So were certain things about the weather and flight model, which felt kind of artificial. For example, there was no way to get realistic crosswinds that actually affected landings the way they really do.
+
+As of today, numerous major patches have fixed a lot of the sim's early problems and have also improved both the visuals and flight models. More free aircraft and activities have been added, and a lot of new areas are available for download (again, for free!) with improved, bespoke terrain, cities and airports. Even the base sim is now well worth it for basically anyone interested in aviation, and you can fly both VFR and IFR flights without any real trouble. (And yes, crosswinds were fixed.) There are a lot of included activities as well if you don't want to set up your own flights or just aren't sure what to do.
+
+And if you want the ultimate in realism, there are now a lot of add-ons available, both paid and free. I'm personally about to start training on the A320 in real life (after flying small planes up until now), and there is at least one ""study level"" A320 available as an add-on, as well as reasonably realistic physical controls that are compatible with MSFS. There are also add-on tools to let you just practice approaches, add-ons for realistic traffic using real airline schedules, more realistic weather, realistic flight plans, and a lot more. You don't *need* any of this to just enjoy the sim, but it's there if and when you decide to go deeper, or if, like me, you actually want to use the sim as a real sim. This kind of community around the sim is what made previous editions of Flight Simulator last so long, and that will probably be the case with this one as well. Though Asobo Studio seem to be supporting it very well too with continuous updates.
+
+The sim is still not perfect. The G1000 (the glass cockpit avionics common to many of the aircraft in the game) is still both weirdly cartoonish visually and is missing a lot of functionality. But it does basically work now, which it kinda didn't in the beginning - a lot of stuff was just broken, but at least what is there now works. There is no real-time weather radar in the game and apparently no API for it, so any aircraft that should have it does not (and even add-ons cannot, including airliners for which it is a major feature in real life). The included ATC is kind of a mess, to the point that I wonder if Asobo even *want* to make it better. They may be just relying on the existence of stuff like VATSIM to pick up that slack. Personally, though, when I'm just trying to sim a realistic A320 cross-country flight, I just want decent in-game ATC. For IFR, if you use a service like SimBrief to generate a flight plan and then load it into MSFS, the included ATC actually works reasonably well up until you get to the approach phase. Then it falls apart, giving you no instructions until the very last minute, and even then they're often really weird (requiring a 180 degree turn to final approach course, for example).
+
+Some people say it's best to just not use the included ATC and either just sim it to yourself or use an add-on. I still use the included ATC but I just have to accept that the end of my flights are not going to go the way they would in real life. You're normally told to expect an approach about 100 miles out in real life, for example, not 20. And that approach is 95% of the time going to be something connected to your current route, not requiring you to suddenly reprogram your flight management computer for a clearance you weren't prepared for very close to the airport. And it also wouldn't require you to make a 180 degree turn. But honestly, this is a relatively minor nitpick in the grand scheme of things.
+
+What MSFS does is way more than enough for most people. It has a huge variety of free aircraft now available, and most of them are more than adequate in terms of realism. It has the entire world modeled based on satellite imagery with more than a few very large areas now full of handcrafted cities, landscapes and airports. It has a whole bunch of activities for you to try to get acquainted with the sim and with flight in general. And it can be improved upon and extended with add-ons if you so choose. I'm really happy that it exists, which is something many of us thought would never happen even just prior to its release.
+
+At this point, I can recommend it both for casual flight simmers and the more hardcore, though the latter will probably need some add-ons to bring its realism up to par. But it is now a good enough sim even for hardcore simmers. And for those just wanting to have fun, you will basically never run out of things to do in this sim.",0.8848116397857666,103,True
+1250410,95434785,76561198814969820,"found my cheating ex's home, crashed into her living room, 10/10 game         
+also it took 6 hours to install",0.9347438812255859,482,True
+1250410,209791679,76561198337837179,"I successfuly logged into my microsoft account that they REQUIRE. Spend an hour in their launcher (artificially driving up my playtime) to download the ACTUAL GAME THAT THEY WENT OUT OF THEIR WAY TO NOT JUST PUT ON STEAM. I try to start playing the game and it crashes. 
+
+Ok cool. Something happened during the inital install so i thought maybe the files corrupted. Delete and reinstall everything right? 
+
+Try it again and an hour goes by and it crashes at the same spot. 
+
+Not gonna bother.",0.8315795660018921,107,False
+1250410,134697414,76561198048714531,"Makes the fans on my graphics card sound like a jet engine, but I guess that's for immersion.",0.9304258227348328,210,True
+1250410,94457613,76561197971280701,"Whoever is in charge of the patches and updates for this game needs to be fired. I'll spend 3-4 hours getting the game working properly, and for about a week all will be well. Then another update will come, and literally EVERYTIIME the update breaks the game. One week, the VR won't be working. The next week, my Xbox live account won't link, so I won't be able to play the game.  I'm getting really tired of having to sign into both Steam and XBL to get this game to work, which has a 50/50 chance of actually working. Great game, great graphics, TERRIBLE SUPPORT TEAM",0.8298268914222717,208,False
+1250410,214005121,76561198048071332,"Played quite a bit of this using gamepass, figured I'd wait for a sale and then buy it here on Steam.
+
+It runs almost twice as fast as the 2024 version on my 5700x3D (32gb ram) + RX 6700, I have it capped at 90fps, 1440p ultra settings. The performance alone is reason enough to buy this over the new version, it's not even close.
+
+Did an almost 5 hour long flight in the DA62 over Europe to test stability with live traffic and weather on. Zero issues. The ATC seems to be working fine too, but only time will tell.
+
+WHY 2020 over 2024?:
+I've played a lot of MSFS2024 as well on gamepass to compare the two, and unfortunately the newer version is still a buggy mess. I have a 300mbps connection and textures do not stream correctly and I get constant microstutter. I'd rather have a one-time download in the form of MSFS 2020 that doesn't require me to be online to play and also has all the terrain data stored on my SSD. Oh and by the way, in 2024 if the connection drops for whatever reason (like the servers pooping themselves), its a GG for your flight with a crash to the main menu. Which also makes the much desired Career mode almost useless, because every flight is a gamble.
+
+TL;DR
+If you are on a mid-ranged PC, and value your sanity I would recommend FS2020 over 2024 any day of the week. It is more feature complete, and above all, actually gets you up in the air and flying your favourite planes which is why we're even here. It just works. One can only hope someday 2024 will actually be in a state worth buying, but that day isn't today and likely won't be for another 3-4 years, if at all.",0.8294594287872314,51,True
+1250410,209563316,76561198365910900,"My first 10 hours was trying to figure out how to get past the game crashing once i booted up the 1gb launcher to actually download the 110gb. I spent days trying to figure it out and it was something stupid like needing to install a english (US) language pack.
+After i finally got to play the game it was amazing other than a few small bugs with the autopilot and the atc not doing what its told. totally recommend this game for those interested in aviation.
+
+if you're having the same problem as me:
+Install the English (US) language pack for windows. The game requires it for air traffic control. Fixed the closing to desktop for me.
+
+Instructions here: https://support.microsoft.com/en-us/windows/language-packs-for-windows-a5094319-a92d-18de-5b53-1cfc697cfca8",0.8290776014328003,48,True
+1250410,123242542,76561198017159377,"Very disappointed, install manager is a nightmare, I not really understand why the updating process is not done through steam, like all the other games. To install, the install manager takes longer than that you still can get a refund. In steam it says i have played the game for 83 hours, but i haven't played the game for 1 second yet.
+Really annoyed with this!!",0.8278743624687195,78,False
+1250410,95071972,76561197994002775,"I was still young, maybe 10 years already, it's all been a long time now,
+but I remember it so well that whenever I played FS95 or 98 I barely understood what to do but was really excited when I got up and got off the ground.
+
+Nothing in me could have believed then that later in the future we can explore the entire world through flight simulator down to the last detail with even realistic distance values,
+Do you have 20 hours free to play games and fly around the world with unlimited fuel?
+
+Well this is 1 of the unique experiences that you can experience through FS20.
+And if such a flight isn't enough for you, how about doing it together with other players, each with their own plane? feel free to race around the world or on the thousands of miles long river in venezuela 'the Orinoco river or just anywhere in the world!
+Do you want to fly under the Eiffel Tower, or over mountain peaks in the Alps, everything is possible from now on!
+
+If you have the ability via required hardware to play the game via ultra graphical settings, you can quickly fall in love with the beautiful images that you will see.
+The world in FS20 is literally a replica of the real world with a lifelike scale, it's like flying over google maps with a nice piece of 3D.
+For example, many interesting locations or buildings or monuments will be nicely incorporated in the 3D effect and look almost as attractive as in real life.
+You can also use coordinates that you can easily find on google maps and then insert them into FS20 so that the game loads for you at that location and you can fly around there at that specific place, so I flew over my own hometown or past the famous 'Devils rock'.
+
+The online mode is also a lot of fun, you can spot other players playing online on the world map and load your game into their area, so you can fly side by side and do what pilots do on the way.
+When you play the game the game will also stream details of the world in addition to the offline data of the map loaded, if your internet connection or memory on the computer is quite limited the game will switch to offline mode which is still very nice to see on ultra settings.
+
+Here you can see a video where I fly over different locations with the game loaded with max ultra graphics settings: https://www.youtube.com/watch?v=3UD-Wt1NnLA
+
+FS20 also has support for ultra-wide resolutions such as 3840*1080, this in combination with the maximum graphics settings in the game makes for a very nice image, you can see an example of this view here: https://www.youtube.com/watch?v=J5WBa7wkIS0
+
+VR support is undoubtedly a feature that should not be missing from a game of this level,
+and through VR glasses, the game is even more breathtaking than when you have a strong computer.
+When I play with my 2080ti on max ultra graphic settings in VR I can notice the visual quality but then I have lag and that makes it not so pleasant,
+I could still get a quality image in VR with quite high settings and this is just addictive,
+take that sport plane and just enjoy.
+Here's a video of me flying in VR over some of the locations on different settings: https://www.youtube.com/watch?v=Bsz9GRJRgGk",0.8262739777565002,63,True
+1250410,90356427,76561198150332269,"Instead of downloading all files required from steam, it downloads about 170GB after launching the game itself. That took 4,8h, after which am not allowed to refund the game anymore without having tried it or even knowing if my pc will run it. 
+Thats a joke",0.8249012231826782,248,False
+1250410,233895354,76561198033769970,"downloading counts as playtime
+had 20mins to test the game after downloading 100 minutes with 1gbit 
+because the download speed is capped by MS
+
+
+game it self is good and runs smooth",0.8231764435768127,62,False
+1250410,84949189,76561198116457899,"While MSF is an amazing and detailed sim, and I've had a blast learning and flying the aircraft, I cannot recommend the purchase on steam for one simple reason; Microsoft's scummy download method. After I purchased MFS, I went to the install the game, and was shocked to see that the file was only ~500 Mb. I shrugged it off thinking that maybe the planes were individually downloaded. After the quick, tiny download, I launched the game only to be met with an in-game download of 120+ Gb. I have fast internet, and am wired, but a download that should've taken at most an hour took a good three plus hours to complete. Once done, I did some tweaking with the settings before exiting to relaunch. Looking at my steam page, I was stunned to see that steam had registered all the time spent downloading as play time, because Microsoft forces you to download in their game window, effectively removing any opportunity to refund the game had I run into any issue running it on my older system, or for any other reason.
+
+TLDR: MSF forces you to download 120 Gbs of data while running the game, counting toward your ""playtime"" on Steam. Do not purchase if you think you might need to refund for any reason, as it will surely take you more than two hours to download the data.",0.8208543658256531,742,False
+1250410,161450936,76561197964095898,"Buyer beware. It takes 10 hours to download the mandatory install which is close to 130gb.
+I bought it on sale to play the free Dune expansion and its very much worth it.",0.8199020028114319,56,True
+1250410,120140340,76561197973378280,"Positives :
+1. The best visuals in the genre that we would see for a while given the actual lack of competition within the genre, the upcoming product from competitors have openly stayed that they won't even try to compete in visual department.
+2. The offered standard aircrafts are reasonably detailed both in visuals and systems
+3. Game is continuously being updated, with the upcoming (as of this writing) 40th anniversary edition would add more free aircrafts and officially reintroduce helicopters to the franchise
+4. Easy access to mods both via in game marketplace and external means.
+5. Payware addons are reasonably priced
+6. Upcoming update would bring DX12 (ironically funny for a flagship Microsoft franchise) and DLSS that would help the performance.
+
+Negatives :
+1. The game has the worst file system management *ve ever seen from any games... 
+
+Potential buyers from steam ought to know that steam would only handles the launcher and the essential platform files for the game, the rest would come from Microsoft servers... And that is notorious for having problems, you would experiences things like download loop, redownload ING the whole file or even the whole game after your download paused or crashed or your internet was down, verifying the game via steam could result in total redownload etc... Just Google it, it can be a nightmare.. I spent like 100 hours alone just downloading, updating and redownload ING the game, so keep that in mind.
+2. Because of the aforementioned issue, you would surpass the steam refund time in no time so beware.
+3. Performance on my hardware is decent but there are stupid design decision like the 3D render on the main menu basically a waste of your resources (going to have a remediy in the next game update)... Also this game basically demands a balanced PC, powerful CPU, GPU, loads of RAM and SSD are basically necessary, but the genre has always requires that soft of PC...
+4. Very slow loading time because of Microsoft servers...",0.81810462474823,58,True
+1250410,179440121,76561198358028870,"The Good: When it works, it’s a marvel. The graphics are stunning, and the attention to detail is unmatched. Flying over your hometown or exploring new cities from the cockpit is nothing short of mesmerizing.
+
+The Bad: The experience is marred by persistent bugs that have remained unresolved for years. Logging into your Microsoft account upon launch often feels like a game in itself, plagued by a bugged login screen. You’ll need to press alt+enter to exit full-screen mode to have a chance at logging in, which sometimes works. Once you're in, brace yourself for a lengthy wait as the game downloads its core content. Despite paying for a full game, the download speeds seem throttled on Microsoft's end, making the wait a grueling 4-6 hours, if you're lucky, at least 2 hours.
+
+The Ugly: This download time counts as playtime on Steam, rendering you ineligible for a refund if the game isn't to your liking. Furthermore, for users with non-US/UK Windows localizations, the game is practically unplayable. You can only start at a single airport unless you adjust your Windows settings—an inconvenience I've never encountered with any other game.
+
+In conclusion, while MSFS2020 has the potential to be an incredible flight simulation, the persistent technical issues and inconveniences prevent me from recommending it in its current state. Since MSFS2024 just came out with the same issues, it is very likely that microsoft will never fix these issues in this older version.",0.817879855632782,68,False
+1250410,105190822,76561198043722750,Fun sim! Just make sure you port Google Maps into your game and not the disgusting use of Bing.... 10/10 most of my play hours are from downloading updates and dlc.,0.8176261782646179,74,True
+1250410,122213234,76561198082358060,"I don't think folks read steam reviews for popular games like this. So I'm just going to get something off my chest that haunts me. In June 2003 in Wichita, Kansas I set a man named Steven's car on fire. No one knows it was me. It was a 98' Chevrolet Cavalier. He had it coming. We're still good friends.",0.8170327544212341,340,True
+1250410,93921691,76561197969743687,"Microsoft Download Simulator is the best download simulator I have ever played!!
+Every time I load it up to play, I find it's got to download another 70+ gig patch.
+It doesn't get better than this!",0.8148472905158997,123,True
+1250410,134821560,76561199108118984,Sure my pc temp might be hotter than the sun but its all worth it to crash into my own house,0.9145243167877197,133,True
+1250410,140713060,76561199131978725,"have you got a god tier PC?, are you willing to expect crash landings and are you willing to accept that high traffic areas destroy everyone's frames, if so then this game is great.  just be prepared to over run your 2 hour playtime limit with steam because the game will probably take all day to install for most people, so only buy if your gonna accept that turning back isn't an option",0.813355565071106,67,True
+1250410,205209937,76561197984420660,"I'm gonna need to wait before installing this, but I felt it important to make sure buyers are away that this game is 400gig+",0.8132611513137817,64,True
+1250410,235255627,76561199199360015,"Now runs under Steam on LINUX (23 hrs with no crashes).  This is finally Goodbye to M$ Windoze! None of the items purchased under the M$ Store carry over, but i don't care.  All Hail Gabe!",0.8097095489501953,54,True
+1250410,131350606,76561198315497397,If you purchase the standard edition then want to upgrade at a later date. You will have to pay the full price of the upgraded version not the pay the difference between each addition,0.859494149684906,156,False
+1250410,151000250,76561199246904148,"The game itself is good, even great. A true technical marvel.
+
+. . . not its gorgeous, 1:1, 24/7 live streaming version of Earth, its 2.2 mbps launcher that's required to download the game and bump you up past that 2 hours maximum playtime so  you can't get a refund before actually getting into the game itself.
+
+so I do love this game, I've tried it on GamePass several times, but I'm leaving this review specifically for the people like me tempted by the -40% going on in the Steam Autumn Sale. be absolutely crystal clear -- you will absolutely not play this game before going past the 2 hour refund window. it's gonna say I have 9 hours or so in it at review time -- this is false. it was just downloading all last night in its intolerably slow launcher. it got half-done. nine hours, half done a 160 gig game. massive warning. just so you know. 
+
+but the game IS good, I promise you that. if what you're after if realistic flight mechanics on a fully-rendered map of Earth - and you have at the very least a high-mid computer to run it - it's not going to do you wrong. 
+
+screw that launcher with a wine corker, though. yuck.",0.8094202876091003,99,False
+1250410,74643320,76561198005227246,"sent a friend an airborne picture of his house, he has no idea what flight simulator is",0.9074763655662537,768,True
+1250410,158264464,76561198036993382,"Ahh yes, the old - 130GB game has to be downloaded in the launcher so you can't refund it trick!
+Suck my dick",0.806456446647644,859,False
+1250410,147248792,76561197966141711,"The game title is slightly misleading, It is called ""Flight Simulator"", however, more accurate term is ""Download Simulator"".
+The players are challenged with downloading gigabytes of mandatory updates, pushed out at random times throughout the year, while looking at the pictures of various planes and helicopters. (I guess that is the ""Flight"" portion). 
+
+The game also offers a unique feature: a download progress bar that can actually move backwards and well as forward, so the player has to guess when the download will actually finish, if at all. 
+
+While the download may succeed, the update can still fail (that is the ""simulation"" part of the game),. In this case the process will repeat again, which offers an excellent replayability value. 
+
+The game comes from a small indie developer called ""Microsoft"", therefore, some growing pains and occasional bugs are expected. With refreshing honesty, the developer also freely admits its inexperience with this genre right in the title of this release: ""40th Anniversary"".
+
+The devs have also promised to release a new version in 2024, in which the download simulation process will happen not before but during the game, offering even more excitement.",0.8046039342880249,60,True
+1250410,93917280,76561198139716632,"Steam says I've played for 104 hours. The game says I've played for 9 hours. The difference? Waiting for downloads / updates.
+
+Update. It has now forced me to do a full reinstall. 5 days in, still working. Worst installer UX ever.
+
+Uninstalling",0.8035997748374939,259,False
+1250410,192121072,76561199572021738,"---{ Graphics }---
+☐ You forget what reality is
+☑ Beautiful
+☐ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{ Gameplay }---
+☐ Very good
+☑ Good
+☐ It's just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ Audio }---
+☐ Eargasm
+☑ Very good
+☐ Good
+☐ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{ Audience }---
+☐ Kids
+☑ Teens
+☐ Adults
+☐ Grandma
+
+---{ PC Requirements }---
+☐ Check if you can run paint
+☐ Potato
+☐ Decent
+☐ Fast
+☑ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{ Game Size }---
+☐ Floppy Disk
+☐ Old Fashioned
+☐ Workable
+☐ Big
+☐ Will eat 15% of your 1TB hard drive
+☑ You will want an entire hard drive to hold it
+☐ You will need to invest in a black hole to hold all the data
+
+---{ Difficulty }---
+☐ Just press 'W'
+☐ Easy
+☑ Easy to learn / Hard to master
+☐ Significant brain usage
+☐ Difficult
+☐ Dark Souls
+
+---{ Grind }---
+☑ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☐ Isn't necessary to progress
+☐ Average grind level
+☐ Too much grind
+☐ You'll need a second life for grinding
+
+---{ Story }---
+☑ No Story
+☐ Some lore
+☐ Average
+☐ Good
+☐ Lovely
+☐ It'll replace your life
+
+---{ Game Time }---
+☐ Long enough for a cup of coffee
+☐ Short
+☐ Average
+☐ Long
+☑ To infinity and beyond
+
+---{ Price }---
+☐ It's free!
+☐ Worth the price
+☑ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{ Bugs }---
+☐ Never heard of
+☑ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{ ? / 10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☑ 7
+☐ 8
+☐ 9
+☐ 10
+
+Notes:
+Loading takes a long time",0.8002746105194092,101,True
+1250410,219700156,76561198031501037,"It worked fine for ages, now it wants to verify my age but neither of the buttons do anything when clicked so I cannot play it any more. Yet more enshittification from Microslop, I'm so sick of it, software seems to only be getting worse :-(
+
+UPDATE: Despite running it several times, the same problem occurred (non-responsive buttons), even in Safe Mode. However, today it started working to my (pleasant) surprise!
+
+POSSIBLE SOLUTION:
+I restarted MSFS several times, at least twice in Safe Mode. I suspect that it must have at some point decided to skip the Verify Age section as possibly not working so maybe try restarting a few times including in Safe Mode a few times. Hope it makes it work for you :-)",0.8001735806465149,71,False

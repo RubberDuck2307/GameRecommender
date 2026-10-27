@@ -1,0 +1,1561 @@
+appid,recommendationid,author_id,review,weighted_vote_score,votes_up,voted_up
+314160,21174959,76561197996791368,"TL;DR: It's basically the same simulator that Microsoft published in October 2006. See the chapter about differences if you're not new to FSX.
+
+[h1]Long version:[/h1]
+
+Those who don't know the series, should know that Flight simulator X is called FSX by short. 
+
+I've been using flight sim software for a long time now, and actually got the FSX: Gold edition for free from Microsoft in 2006, so i have spent some hours (about 1500-2000) in this before it was released on steam. 
+
+In this review i will focus on FSX: Steam edition as a game presented for new users, and then point out the differences between the Steam edition and the regular one that was published in 2006. 
+
+[h1]Flight Simulator for new users:[/h1]
+
+To be fair, if you only want to play FSX for casual arcadeish gameplay, crashing planes and so on [b]DON'T BUY THIS[/b].
+If you have checked out FSX on youtube and found HD videos of big living Airports, shiny ultra realistic planes, and other things that look very realistic, and think that this is what the ""game"" is, then [b]DON'T BUY THIS[/b]. These videos is a result of many add-ons, a beast of a machine, several short clips, and a lot of editing. They look incredible, but doesn't represent FSX for what it is. 
+
+But if you are new to flight simulators and want to learn the basics of flying, and/or want to learn how to fly by instrument rules, or knows how to fly and want to fly from/to locations you know, you should buy this!
+
+[b]A short list of what this simulator has to offer from stock:[/b]
+
+Pros:
+- It includes the whole world, with almost every airport (some big cities, but mostly blocky buildings at airpots).
+- Decent flight model (How the airplane reacts to the world)
+- Extreme rate of customization (see add-on chapter below)
+- Many settings that allow anything from basic to advanced flights
+- Decent amount of stock airplanes.
+
+Cons:
+- 32-bit architecture/VAS (See Add-on chapter)
+- Poor performance (Very CPU demanding, and not forgiving for AMD users)
+- Stock planes (very basic and does not represent the real aircraft very good)
+- Add-ons (see chapter below)
+
+[h1] Add-ons [/h1]
+
+Flight simulator must be the sim with the most add-ons in the world. It's amazing how many developers that make things for FSX. Without the add-ons i would NOT recommend this simulator. An example of what add-ons you can buy/get is:
+
+- [b]Airplanes:[/b] Anything from basic free planes, to really advanced and realistic airplanes like the Majestic Dash-8 Q400 or PMDG 737 NGX. 
+- [b]Scenery (Landscape/Cities/Airports):[/b] Anything from free fan-made stuff, to professionally made add-ons from companies like Orbx FTX, Aerosoft, Flight1, and so on. 
+- [b]Weather/Textures:[/b] Like with Airplanes and Scenery you can get a lot of other software to boost the quality of the weather system (new textures and possibilities to get the real world weather), ground and water textures. 
+- [b]Tools/Mission packs:[/b] You can also get a lot of mission-packs, and other tools. Both freeware and payware. 
+
+
+[b]Add-on cons:[/b]
+
+Even tho FSX is nothing without it's add-ons, it's still many problems with them. Often to get what you really want, you need to pay a lot of money to buy all the good add-ons. And there is also the fact that the more add-ons you add to FSX the slower it loads. Some add-ons also cause problems with other add-ons installed (from minor bugs to FSX not starting at all). This happens more often with freeware add-ons than payware add-ons. 
+
+Also because of the poor performance in FSX, and the fact that it's heavy CPU demanding (I got an 4Ghz AMD 8-core processor) you might not get to a playable framerate if you have combine a detailed airport with for example the PMDG 737 NGX (6-10 FPS). If you run Intel you will get a much better performance because of the logical cores in the intel processor.  
+
+Also; Remember that this version of FSX is called FSX: Steam edition. Even though every add-on for FSX should work on FSX:SE, some might have problems if not optimized for FSX:SE
+
+[b] 32-bit architecture / VAS [/b] 
+
+[i]Disclaimer: Im no expert on how the architecture of software works, nor how VAS is built. The following are own experiences and forum research to find a solution to this problem.[/i]
+
+The biggest achilles heel that haunt allmost every FSX user is VAS (Virtual Access Space). Im not going to go in detail on what it is and how it works, but i will tell you the basics, and it's limitations.
+
+VAS is basically virtual memory (Note: this does not equal RAM, nor harddrive space). Each program you run gets it's own chunk of VAS that it can fill up. If the VAS limit is exceeded the program will STOP WORKING with the well known ""Out of Memory"" (OOM) error. 
+
+FSX is built on the old 32-bit architecture. This limits the programs VAS to about 4GB. This becomes a major problem when you start putting add-ons in FSX. Too many add-ons, or add-ons that is poorly optimized will push the VAS limit and cause an OOM. 
+
+The VAS will fill up over time. An example: FSX base game will take about 1,2 GB. When loaded into the world you will be at aprox 2 GB VAS. You then have a fancy add-on airport that takes about 300MB, and an add-on airplane that takes about 350MB. You then start flying with a VAS at 2,6GB. No problem you think? You take off and fly towards the destination, that is on the other side of the country. On your way you fly over 4-5 other add-on airports, and your VAS is suddenly 3,7GB. Then you reach your destination, and on final, about to land you hear a ""DING"", with a message telling you ""Out of memory"", and FSX quit. 
+
+Another problem with the VAS is that it doesn't clear it's memory when you don't need it anymore. So if you fly a short trip from airport A to airport B where you reach 3,2GB VAS usage, and then start another flight from airport C, your VAS will still be 3,2GB. 
+
+FSX Users have several solutions to avoid this error, like for exampel using a program to monitor their VAS so they can save the flight and restart FSX. Another solution is to deactivate all the scenery you don't need for the flight. Also, the AI traffic fills up the VAS, so be sure to have this set to 0%. Some developers also run the core of their add-on in windows and not FSX to save VAS usage. 
+
+Other than that, it is NOT possible to fix this issue, other than developing a new simulator that uses a 64-bit architecture and allow higher VAS usage. 
+
+[h1]Difference between FSX and FSX:SE[/h1]
+
+If you are a long-time user of FSX and wonder if you should buy the steam edition, the answer is maybe. 
+
+I will list the main differences i've found between FSX and FSX: Steam edition:
+
+- FSX:SE is a re-released FSX: Gold edition, so all servicepacks are included
+- FSX:SE uses Steamworx for multiplayer. FSX used gamespy (no longer supported after february 2013)
+- FSX:SE can be installed on every computer you own using steam, and no CD-key required. Every FSX disc have a maximum installation limit of 5 before the disc is useless, and you had to save the CD-key.
+- FSX:SE is still supported and receives updates. Microsoft doesn't support FSX anymore.
+- Some bugs from FSX is fixed, and FSX:SE is tweaked to run better on modern computers.
+- FSX:SE does however NOT include the SDK that's included in FSX.
+
+There might be even more differences that i haven't noticed/forgot about when i wrote this.
+
+Overall it runs slightly better than FSX, and when i finally had to reinstall FSX i landed on using the steam edition. 
+
+[h1]Conclusion:[/h1]
+
+I recommend FSX:SE because of all the add-ons from FSX, and that there are few other decent options out there. You should also check out x-plane 10 and P3D (Lockheed-martins version of FSX). 
+
+I wonder if anybody actually read this. :p",0.9686400294303894,382,True
+314160,73749035,76561198355430895,"As an adult over 65.  I've been playing this game since FS 2004 came out.  In fact, it is the only game I play.  According to Steam, I've played this game more than 13,359 hours.  I would start and international flight from NY with a 747 and time it to get back to the computer, before the plane was close enough to say, Johannesburg, so I could start approach and landing procedures.    
+With FSX, I was delighted until they took away the weather support for it.  Also for reasons I didn't understand the performance had deteriorated.  Until I got the Steam version, which worked a lot better achieving frame rates of almost 100 fps, with some of my aircraft.   Like the rest of the world, I'm looking forward to the 2020 version.  But until I find out 'if' it can now support the tons of 3rd party aircraft that I have gotten,  787's, 737-400's, 747 cargo jets, my large group of A380's, A300's, A310's, A340's, 757's and the like.  I wait to purchase FS 2020.  I didn't upgrade my computer to windows 10, specifically because it didn't hand FSX (the boxed versions) well.  But in anticipation of FS 2020.  I've installed an additional hard drive on my existing rig, with Windows 10 on it and nothing else, to eventually load the new FS 2020.  I just switch to that SSD Windows 10 drive in the bios, when I start up my computer.  I'll see how real word folks, enjoy the hotly marketed FS2020, before I leap in.  Keep on flying everyone!",0.957682192325592,295,True
+314160,64678061,76561197976385109,"This game is kinda slow, old and boring, but my Dad used to play it all the time when I was a teenager, and even into adulthood. I played it with him again a few months before he died. I think about him when I play it.",0.9571138620376587,873,True
+314160,13650916,76561198139793138,"I'm a private pilot and I've owned the boxed version of Flight Simulator X for years.
+
+When I upgraded my system to Windows 8.1 I was saddened to see that my old Flight Simulator X started to develop glitches.  So when Steam released a new version I was excited.  I bought it on day one of it's release.
+ 
+However, free flight mode wouldn't work.  But after emailing DoveTail Games tech support they deteremined that I had a corrupt download.  I did a re-download and install and it worked perfectly.  The problems were not with the game.
+ 
+I'm very pleased that the graphics are better than ever.  There is over 24,000 airports around the world all with exact runway layouts, taxiways, buildings and scenery around the airports.  Plus every major city, tourist attraction, landmark, river, lake, stream around the world has been simulated. Navigation aides operate just like in real life.  Flight Simulator was a huge undertaking and it's all at your fingers for just a few bucks.  Amazing.
+
+If you plan to get your pilot's license or need a tool to stay sharp (without spending $100+ per hour to rent a plane), then Flight Simulator X is a must have.  It's just a no-brainer.  Even if you own other flight simulators, you won't find any with all these features.
+ 
+Microsoft along with other companies spent many years and millions and millions of dollars developing this product.  When it was developed it was actually built to take advantage of faster computers that would be available in the future.  That's why as time goes by, the game actually gets better.  
+ 
+While I use it as a flight instruction tool, my son uses it like a game.  He enjoys the missions and together we go on sight-seeing tours.  We've  Flown over the pyramids and over the Nile river.  We've tooled over Washing DC and viewed the Lincoln Memorial, The Washington Monument and the Whitehouse.  You name it we've been there, Golden Gate Bridge, Alcatraz, Space Needle, etc.
+ 
+Your kids will learn more about world gerography from this game than from any book.  Because it's not just pictures, it's real life simulation.  They have to take off froma local airport and actually find landmarks.  
+ 
+After I bought my Steam version of Flight Simulator, I was going to install my boxed ""Accelleration Expansion Pack"".  But to my surprise, I found that it already came pre-installed with this Steam set.
+ 
+AND THE BEST PART... I once paid over $600.00 for a packaged video course on getting a private pilot's license.  But FSX comes with built in flying lessons by legendary Certified Flight Instructor Rod Machado.  He will teach you how to get not only your private pilot's license, then your instrument rating, then your commercial license, and then how to become an Airline Transport Pilot.  That much real life training in a real life flight school would be at least $25,000.  But you get it for free with FSX.  
+
+Obviously nothing beats learning in a real plane, but this is a close second.  And it's all for the price of a pizza.
+ 
+Since my first purchase I have purchased several copies as gifts for friends and family and would recommend it as either a game or a learning tool for any future private pilots.",0.9666982889175415,2399,True
+314160,112939423,76561198057168980,"PLEASE READ BEFORE BUYING - Microsoft has stopped allowing Dovetail to work on this product, its back in the hands of Microsoft and has been put out to pasture.  Its done.  No more support.  There is even a security warning when you start up the app now saying Microsoft have let their FSX websites SSL cert expire.  It was not renewed.  While this does not effect the game other than obnoxious popup every time you load the game, it is telling that M$ has decided to push people to MS2020.  For those of us with laptops that cant run it were screwed.  I cant believe Valve has allowed Dovetail to keep selling this as well as all the addons that are NO LONGER SUPPORTED.   How do i know?  Go to the active sky addon's homepage and look for the update file.  The developer says ""we cant update this on steam anymore because Dovetail no longer supports FSX Steam"".   This means if you buy a 3rd party dlc addon like I did (a bunch in fact) when they had this last sale... Well you are screwed when it comes to support.  This is now abandonware.  The worst part is Dovetail isnt telling anyone, and valve is allowing it.  Its pure fraud.  I own the full boxed version of FSX and Acc addon.  I have my disks.  It was on this PC but a 3rd party developer said the steam version worked better (it doesn't as long as you update your boxed version and do the right tweaks.  Its the same damn thing BUT they added encryption for the DLC, basically DRM.  Thats it, what you get is DRM added.  I have issues adding my 3rd party paid Garmin 750 into some of the aircraft i bought here on steam because of this DRM added which is not part of the boxed addons.  In fact I just bought a non steam addon from ORBX directly that allowes me to add the garmin, where the planes here that say you can?  Nope.  The drm screwes it up if you didnt buy it on steam, which these garmin 750's are only available on flight1 not steam.  
+
+Seriously, buy a boxed version and do the tweaks yourself; its the same thing minus the damn added drm which only screwes YOU.  I'm so furious I bought this on steam again, just for the damn support and all I got was abandonware and DRM that screws who?  The PAYING customer.
+
+I want you to get this through your head if you are still reading this review.... this product is no longer in the hands of dovetail (the company that is says is selling it here on steam... that's a LIE)  Its now back in the hands of microsoft who has put it out to pasture; its dead.  Any third party addon you buy here is also o longer supported, but still includes DRM that makes it not work with other non steam addons.  If you bought boxed Horizons VFR, like other reviewers here have already stated, it will not work with the addons here.  Im also reporting the 3rd prty GPS addons bought from Flight1 also don't work with these aircraft, even though it says on the aircraft pages that they do support it.  Its a lie, they don't.  The DRM broke being able to modify the aircraft models in a way that they need to to make it work.  Simple as that.  
+
+The entire thing is a disaster; just stay away... its a flaming dumpster fire.  
+
+Source:
+
+Active Sky Addon, still sold here on steam.  Read ""Steam Users Read Here"" From their developers.
+https://hifisimtech.com/downloads/#ASN
+
+Active Sky Next: Steam Edition DLC
+This section is for the Steam DLC version of ASN purchased through Steam only as DLC for FSX:SE.  Dovetail no longer supports FSX:SE addon/DLC updates so we are providing an external update here for your convenience.""
+
+This means NONE of the DLC addons, ANY of them, you buy here on steam... NONE WILL EVER GET UPDATED... EVER!
+
+https://www.simflight.com/2019/08/08/fsx-leaves-dovetail-games/
+
+Its really dishonest how dovetail is still selling all of this, including promiting it on their website.  Knowing its no longer getting supported, and the dlc cant be updated.  FSX was never getting updated but the DLC is and not every third party is doing like the active sky crew supporting their customers offsite; so take care when you buy addons.
+
+
+Something really wierd?   A WEEK AGO, right before this steam sale of all these addons, dovetail and microsoft both removed their blog posts about FSX ""coming home to microsoft and they were excited for the future support of fsx now that it was back in the hands of the microsoft team"" .  Today when i went looking for the post, i found the article linking to it however microsoft has removed the blog post and instead now shows.... you guessed it ""MS Flight sim 2020"".  Thats right, FSX is officially abandon and M$ just did it this past week, with out telling anyone.  They just removed it from the internet and poof its gone.  Dovetail too.  Look for yourself!!!!",0.911649763584137,386,False
+314160,13437114,76561198042115815,"The Microsoft Flight Simulator series is one of the most iconic PC game franchises of all time, and, to an extent, back in '06 FSX lived up to what was expected of it. Aside from the obvious performance issues and supposed cut content relating to visual fidelity (some early screens depict incredibly dense scenery and fantastic lighting effects that weren't  seen in the final game, even on the highest settings), it was a good way for the series to come to a close. The Steam Edition of FSX now exists because of an agreement between Microsoft and Dovetail Games, who made the Train Simulator games. This agreement permitted Dovetail to make a few minor tweaks to the game to allow it to function properly on newer machines (specifically Windows 8.1), manage the updated multiplayer component, and obviously distribute it on Steam. I am not fond of the Train Simulator business model, and thankfully the devs have NOT modified FSX at all in this release, as a result the legal agreement. This ""Steam Edition"" comes with the Deluxe Edition of the original FSX, the ""Acceleration"" expansion pack, all service packs, and said performance enhancements. As I stated above, you can also play multiplayer again.
+
+If you're new to Flight Simulator, are an X-Plane enthusiast, or are just interested in aviation in general I strongly recommend picking this game up on sale, while the sale lasts. There is a TON of content included. FSX allows you to fly around the globe (no BS micro transactions for different places, a la ""Microsoft Flight"", the failed attempt to ""casualize"" the series in 2012) completely unrestricted, and comes with 24 planes/choppers, which all feature a set of liveries. The AI aircraft make the world feel more alive, and airports feature pivoting jetways and moving baggage/pushback trucks to add to the experience. If your PC will allow you to crank up the settings, you'll get the fully featured terminals, but expect your framerate to tank while on the ground.
+
+The simulator also includes a strong and (in my opinion) somewhat underrated set of missions, which are VERY well voice acted and feel incredibly realistic. I strongly advise anyone who buys this to not only enjoy the Free Flight mode, but also to play some of the missions. They range from extremely easy hand-holding missions in Ultralights to challenging air races in stunt planes, along with everything in between. My favorite part about the missions is that whenever the writers needed a guiding voice for the player, they carefully wrote a believable character into the mission who helps you with your task, rather than having a voice from above tell you what to do in every mission (you only hear this voice in the tutorial missions) or simply having written on-screen dialogue boxes instruct you, like most other flight sims out there. There is a LOT of content here, which is what sets FSX apart from its competition.
+
+Now, while FSX is a great sim, it's still 8 years old. There are some worthy alternatives out there, probably the most famous being X-Plane, which, unlike FSX, is still being actively developed. It runs better, but the world you're playing in doesn't match the complexity and visual fidelity of that of FSX. The planes look and feel more realistic, but the game is not necessarily technically superior to FSX. From an objective standpoint FSX takes the crown when it comes to gritty realism in most cases because of how the game is programmed from a simulation standpoint. These games may look similar onscreen, but under the hood they are completely different. FSX handles almost everything physics related by computing complex mathematical equations based on data tables for each aircraft, whereas X-Plane was literally born as a wind tunnel simulator, which sets it ahead of FSX on the tech side in some respects. You can easily make your own plane in X-Plane, since the physics are handled by its wind tunnel engine, whereas in FSX you need to go in with a full knowledge of how it will perform to do the same. It took the ACES team years to perfect the physics of each aircraft, some of which would carry over from previous iterations of Flight Simulator because it took such meticulous research to get the tables perfect. That being said there is a lot of free content available online for both games. And yes, from what I can tell legacy mods function in the Steam Edition of FSX.
+
+Now for the subjective part of the review. You have been warned.
+
+While I was very fair in my above comparisons between FSX and X-Plane, it's worth mentioning that X-Plane isn't all it's cracked up to be with regard to actual content. You'll often see advocates online telling you to ""come into the future"" because FSX is outdated. If the future means paying for individual airports and aircraft models, count me out. Let's talk about X-Plane's own Steam release. The product itself, which is fully priced mind you, is essentially just the game engine with a few mediocre airplanes and Tarmac-only airports. Just abandoned parking lots (on par with respectable mobile sims like Infinite Flight...wow). I've been told that you need to pay for additional content, which in my opinion is very unjustified here. I can see this model being fair in sims like Rise of Flight, but here? Thankfully X-Plane has a rather nice free modding scene, so that may be a saving grace. Furthermore, the full install is 80 gigabytes. This is probably the result of distrust between the devs and their autogen engine, since, unlike Microsoft, their map data wasn't acquired internally (FSX uses MS's own satellite imagery, which means ACES, the Microsoft game studio behind FS, was inherently more familiar with the data and how they could use it to apply automatically generated scenery). It's a shame the Flight Simulator series isn't still around to offer some serious competition, because X-Plane currently dominates the non-militaristic subsection of the flight sim genre, and it's got a ravenous community to defend its every business decision. The engine is good and runs well on most PCs built within the past few years, though it is a huge memory hog. FSX isn't, but its utilization of modern CPU configurations is embarrassingly poor.
+
+In conclusion, if you're going into the simming genre hoping for a fully featured, fleshed out flight sim that's excellent for beginners and is the absolute pinnacle of its genre (the FS series is over 32 years old!) FSX is a great choice. This is the only official version of FSX still sold today, and it's very unusual to see a product like this from a company like Microsoft show its face on Steam. Flight Simulator X: Steam Edition, while considerably outdated, is a welcome addition to the wonderful collection of flight simulators available on Steam.",0.9537426829338074,398,True
+314160,99132257,76561198332541578,"---{ Graphics }---
+☐ You forget what reality is
+☐ Beautiful
+☐ Good
+☑ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{ Gameplay }---
+☐ Very good
+☑ Good
+☐ It's just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ Audio }---
+☐ Eargasm
+☐ Very good
+☐ Good
+☑ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{ Audience }---
+☑ Kids
+☑ Teens
+☑ Adults
+☑ Grandma
+
+---{ PC Requirements }---
+☐ Check if you can run paint
+☑ Potato
+☐ Decent
+☐ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{ Difficulty }---
+☐ Just press 'W'
+☐ Easy
+☑ Easy to learn / Hard to master
+☐ Significant brain usage
+☐ Difficult
+☐ Dark Souls
+
+---{ Grind }---
+☑ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☐ Isn't necessary to progress
+☐ Average grind level
+☐ Too much grind
+☐ You'll need a second live for grinding
+
+---{ Story }---
+☑ No Story
+☐ Some lore
+☐ Average
+☐ Good
+☐ Lovely
+☐ It'll replace your life
+
+---{ Game Time }---
+☐ Long enough for a cup of coffee
+☐ Short
+☐ Average
+☐ Long
+☑ To infinity and beyond
+
+---{ Price }---
+☐ It's free!
+☑ Worth the price
+☐ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{ Bugs }---
+☐ Never heard of
+☑ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{ ? / 10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☐ 7
+☑ 8
+☐ 9
+☐ 10",0.8971476554870605,138,True
+314160,28687843,76561198091760955,"When I was a Navy primary flight instructor, I made sure my students practiced with Microsoft Flight Simulator.  The program didn't teach them everything they needed to know to become pilots, but it did help them get the hang of basic flight maneuvers, local area navigation, and instrument flying.  I could tell which students used FS and which didn't: the ones who had practiced with FS consistently performed better in the real plane.
+
+That was years ago.  Now, I have a child who has expressed an interest in aviation.  When I went looking for FS, I found it here on Steam.  I bought the program and a joystick, and today we worked on level turns.  He could turn to the assigned heading; he could maintain airspeed; he could hold altitude: he just couldn't do all three at the same time.  This is entry level, first-flight stuff, and I'd rather he get a feel for the three axes of flight for pennies at our kitchen table than for $250/hr for an instructor and a rental plane.  I'm thinking of this as $9.99 well spent!
+
+I'm running the program using Windows 10 in a Parallels window.  My computer is a 2012 MacBook Pro with a 2.9GHz Intel Core I7 processor, 8 GB of memory, and Intel HD Graphics 4000 1536 M.  The program's running smoothly, with many of the performance sliders at or near maximum.",0.9467436075210571,400,True
+314160,13872403,76561197975883045,"My God has this game has been improved!
+
+SHORT VERSION: Buy this game if you love flight sims, lots of missions and a stack of real to life scenery/weather/planes etc.  It will not be money wasted.
+
+LONG VERSION: Lifelong Flight Simulator fans will remeber the day when FS 2000 was released in that big cardboard box with a heatbound Pilot's handbook over 230 pages long; beautifully presented and well worth the buy.  Then, it seemed, when FSX came along, the fad was nearly over.  Releasing FSX Acceleration confirmed this, and the devs behind the Microsoft flight sim series were put out to pasture, where all the devs from closed studios are left to run free range.  Some survived the mass slaughter of 1874, but most, sadly perished.  Apparently, some now work for Dovetail and after a long time, we now have the Steam Edition of FSX to enjoy.
+
+Guys, you've done a fantastic job!
+
+In the original FSX, you would find that moving the camera around the plane was quite sketchy in that it would jump where it wanted most of the time, and there was noticable lag.  This is THE main problem with older games when played on newer systems - GPUs as powerful as those today were'nt dreamed of when those games were developed.  They knew not of 1920x1080 and, as such, the software has to do the best it can nowadays.  FSX-SE has addressed that by ensuring that there will never be lag again.  Running this on a GTX 770, whilst it powers 3 screens; not a single instance of lag in display.  I will say this though, as this is a game that wasn't really designed for 1920x1080, just remember the old Windows Alt+Enter trick, and you'll be fine.
+
+Back to the lag, the controls no longer display laggy instances, and as soon as you move your joystick/mouse/gamepad, the plane reacts, with such precision, you wouldn't know you were in a simulator until you see the pixelated ground you're about to crash into.  Airports were great and really well designed in FSX, but now they have had a bit of a revamp, so expect some sharper images.
+
+In general, the game has been VASTLY improved, and, as a private pilot myself (before I lost my license due to the UK government getting scared of diabetics flying planes and insisted that every diabetic pilot or ATC personell be summarily fired) I love being able to get back behind a flight stick and rudder.  This game is also great for the casual plane nut, as there are so many missions to choose from, all ranging from the VERY basics (which will get you up in the air and give you an understanding of how a plane actually works) to the INSANELY hard (engines on fire, having to fly 60+nm in a snow storm without engines in a 747-700).  You can change realism settings, set failures and faults to happen at a specific time, location or randomly.  You can download real world weather (updated every 15 minutes) from WHEREVER you are in the world.
+
+I would say this, however, if you really are a proper ""casual"" flight nut, I'd recommend Microsoft Flight instead.
+
+A vast array of other great missions, planes, scenery etc are included in the game, however there is a plethora of other mods available and there have been since FS 98 way back when.
+
+So come one come all and enjoy this amazing revamp of a modern classic.",0.9104388952255249,206,True
+314160,18666336,76561198030867254,"A slightly re-vamped version of the 2006 classic.  Dovetail Games have agreed distribution rights with Microsoft for this flight-sim and released it on Steam late 2014.  Along with the distribution rights they have been permitted sufficient access to the code to allow them to adjust and optimise the sim to better suit todays PC.  That having been said, this is [strike]still a single threaded[/strike] [i]a poorly optimised[/i] 32-bit application and even the most powerful of todays PC's struggle to attain ""high"" frame rates, especially when you start to include a few add-ons.
+
+That brings me nicely on to the add-ons.  Due to the program being around since 2006 there is an unbelievable amount of DLC available for this sim, before you reach for your credit card though, make sure that the supplier specifies that it is compatible with FSX Steam Edition or the add-on is listed in the known compatible add-ons on the [url=http://steamcommunity.com/app/314160/discussions/2/620703493312371968/]community page.[/url]
+
+There are some very good add-ons that are free, there are some exceptional add-ons that cost quite a bit of money (A2A Simulations, PMDG) and there are add-ons that are free for limited functionality or can cost for full functionality (FSUIPC). The key is research, have a look at [url=https://www.youtube.com/watch?v=XUDrRR-VW-U]Jordan Kings Freeware Video[/url] to get an idea of what is possible for nothing more than bandwidth. Alternatively you can very quickly rack up a £100 or more spend and still think there is room for improvement (REX, Orbx).
+
+A final word about add-ons. FSX requires you to generally get your hands dirty when adding features, if you don’t know your “%appdata%” from “My Documents” make sure you have fully researched the product you intend to buy and ensure you are comfortable with the installation procedure before you cough up the dough for it. This isn’t the case for the DLC that can be purchased from Steam, though I have to admit, most of the Steam DLC doesn’t appeal (see edit at the bottom).
+
+Regardless of whether you stay with the stock program or buy enhancements, the core sim can give hours of enjoyment if you have an interest in aviation. Users range from the complete novice that has only sat in row 14F of an A320 (me), to fully licensed pilots (so it must be OK).
+
+Although not a requirement, a joystick is recommended as well as a bit of patience and a lot of reading. You can jump into a Cessna 172 and lark about, or you can plan a flight for the same plane and follow, as close as can be reasonably expected in a 2006 sim, required procedures and protocols.  If, for example, you buy a PMDG add-on you have to calculate the fuel for the plane based on the number of passengers and their luggage, then you have to program the flight management computer and select your route, waypoints, approach etc. It must take 20 minutes or more to get to a point where you can actually start the engines! Alternatively you can just jump into a micro-light and be flying over Friday Harbor in a trice, the choice is yours.
+
+Edit 18/12/15: DTG are introducing a number of add-ons that don't deserve my original comment. Examples are FTX Trees HD, REX Texture Direct 4, RAAS Pro, Accu-Feel and a couple of the aircraft.",0.9072233438491821,283,True
+314160,40499263,76561198340705915,"==[Graphics]==
+☐ Potato
+☐ Really bad
+☐ Bad
+☑ OK
+☐ Good 
+☐ Beautiful 
+☐ Masterpiece
+
+
+===[ $ Price/quality: ]=== 
+☐ Full price
+☐Wait for sale
+☑ Average
+☐ Refund it if you can
+☐ Don't do it
+
+===[ ☣ Requirments: ]=== 
+☐ 90' PC
+☐Minimum
+☑Medium 
+☑Fast
+☐ High end 
+☐ NASA computer
+
+===[ ☼ Difficulty: ]=== 
+☐ You just need 2 arms 
+☐Ez
+☐Easy to learn / Hard to master 
+☑ Hard (first few hours)
+☐ Dark Souls
+
+
+===[ ۞ Game time/length ]=== 
+☐ Really short ( 0 - 2 hours)
+☐ Short ( 2 - 8 hours)
+☐ Few hours ( 8 - 12 hours)
+☐ Long ( 12+ hours)
+☑Endless
+
+===[ ♬ Story] === 
+☑ It doesn't have one
+☐ Still better than Twilight
+☐ Average
+☐ Good
+☐ Fantastic
+
+===[ ✦ Others: ]=== 
+Multiplayer: Yes
+Singleplayer: Yes",0.8934657573699951,140,True
+314160,15120956,76561198158483620,"I'm writing this review, because of some people who said this game sucks, because of the hard controls.
+So, this is a plane SIMULATOR! Anyone know what's that? S-I-M-U-L-A-T-O-R! Of course it will be hard to learn. The real pilots spend around 1 year of learning in the simulators, before their first real flight. And yeah, don't worry, this is not a fully real simulator.
+
+Let's talk about Boeing 747-400. It has the most basics controls you need, like flaps and throttle, aircraft lights and anti-ice system and many more. I just want to say it's not that so hard like in a real aircraft, where you need an hour of preparation before flight, don't worry. It takes 10 minutes for me to set everything for takeoff. And if you wonder how many hours it takes for me, before landing in extreme conditions for first time - 24 hours. It's hard, trust me, but not impossible.
+
+Another thing: It's not impossible to play without a joystick. As I said you need time for practise. I play with a keyboard and I have 140 hours, as you can see.
+
+It's not that so hard, you need time! Some people who are buying this game are like: ""Oh yeah, I bought a flight simulator. It will be easy to fly.""; And then in the game: ""OMG, this is so stupid game, I can't even takeoff."" Then uninstalls and write a negative review.
+I don't know why they are buying a simulator and want things to happen fast and easy. As the beginning of the review - this is a SIMULATOR! There are so many games, where to get flying you need to push only one button, like GTA, you know.
+
+UPDATE 28.09.2015: If DTG won't stop with these DLCs, the game itself will turn into the next DLC Simulator 2015 after the disappointment with TS 2016, but I still recommend it.",0.8541612029075623,66,True
+314160,125732374,76561198001785239,"I bought this for my grandfather because he used to play 2004 back in the day. We tried to install it from CDs, but his computer was entirely too old to even make it through the installation process. The steam version was definitely the move. It's great to bond with him when we play it together. Definitely a brand new avenue that he can enjoy. Thanks",0.8474029898643494,74,True
+314160,147242948,76561198837271092,"---{ Graphics }---
+☐ You forget what reality is
+☑ Beautiful
+☐ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{ Gameplay }---
+☐ Very good
+☐ Good
+☑ It's just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ Audio }---
+☐ Eargasm
+☐ Very good
+☑ Good
+☐ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{ Audience }---
+☐ Kids
+☑ Teens
+☑ Adults
+☐ Grandma
+
+---{ PC Requirements }---
+☐ Check if you can run paint
+☑ Potato
+☐ Decent
+☐ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{ Difficulty }---
+☐ Just press 'W'
+☐ Easy
+☐ Easy to learn / Hard to master
+☑ Significant brain usage
+☐ Difficult
+☐ Dark Souls
+
+---{ Grind }---
+☐ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☑ Isn't necessary to progress
+☐ Average grind level
+☐ Too much grind
+☐ You'll need a second life for grinding
+
+---{ Story }---
+☑ No Story
+☐ Some lore
+☐ Average
+☐ Good
+☐ Lovely
+☐ It'll replace your life
+
+---{ Game Time }---
+☐ Long enough for a cup of coffee
+☐ Short
+☐ Average
+☑ Long
+☐ To infinity and beyond
+
+---{ Price }---
+☐ It's free!
+☐ Worth the price
+☐ If it's on sale
+☑ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{ Bugs }---
+☑ Never heard of
+☐ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs",0.7951887845993042,52,True
+314160,13435112,76561198042657354,"Let me just start off by saying that I've owned about 4 copies of FSX:deluxe edition. No, I don't have 4 computers to play on, I just kept loosing all my copies. I even bought them for $10 at the MS store a couple years ago on sale. Those are gone, too. 
+
+So, now this comes along at $5 (currently on sale). This is great. Just purchased and I won't have to worry aobut loosing this one. 
+
+That being said, this is basically FSX:Gold edition with the exception of minor bug fixes, minor performance enchancements, change to the splash screen, and some Steam magic such as taking screenshots and multiplayer matchup.
+
+10/10 would buy again",0.8445247411727905,177,True
+314160,16618402,76561198021387595,"This game is legitmately the best game I've ever played in my life, I first played it in 2008 with the retail copy and since then and now I've got a PPL and also been in the Royal Air Force. This game has really change my life, and it will always will be the best game i've ever bought! You can download so many add-ons, from planes to cloud textures. Most easiest and again most challanging simulator I've ever bought!",0.839457631111145,124,True
+314160,139289021,76561199070341430,"---{ Graphics }---
+☐ You forget what reality is
+☐ Beautiful
+☐ Good
+☑ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{ Gameplay }---
+☐ Very good
+☑ Good
+☐ It's just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ Audio }---
+☐ Eargasm
+☐ Very good
+☐ Good
+☑ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{ Audience }---
+☑ Kids
+☑ Teens
+☑ Adults
+☐ Grandma
+
+---{ PC Requirements }---
+☐ Check if you can run paint
+☐ Potato
+☑ Decent
+☐ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{ Difficulty }---
+☐ Just press 'W'
+☐ Easy
+☑ Easy to learn / Hard to master
+☐ Significant brain usage
+☐ Difficult
+☐ Dark Souls
+
+---{ Grind }---
+☑ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☐ Isn't necessary to progress
+☐ Average grind level
+☐ Too much grind
+☐ You'll need a second life for grinding
+
+---{ Story }---
+☑ No Story
+☐ Some lore
+☐ Average
+☐ Good
+☐ Lovely
+☐ It'll replace your life
+
+---{ Game Time }---
+☐ Long enough for a cup of coffee
+☐ Short
+☐ Average
+☐ Long
+☑ To infinity and beyond
+
+---{ Price }---
+☐ It's free!
+☑ Worth the price
+☐ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{ Bugs }---
+☐ Never heard of
+☐ Minor bugs
+☑ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{ ? / 10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☐ 7
+☐ 8
+☑ 9
+☐ 10
+",0.7871829867362976,63,True
+314160,51180181,76561198138003792,"X-plane: You cannot defeat me
+FSX: SE: Not me, but he can
+
+[i]*Microsoft releases Microsoft Flight Simulator 2020*[/i]
+
+In seriousness, if you want to invest in a good Flight Sim, Either go for X-plane 11 (Beefy computer recommended) or wait it out for the next gen Microsoft Flight Sim 2020",0.8357434272766113,115,True
+314160,68679636,76561198876093738,"=== [Player Base: ] ===
+☐ Casual players
+☐ Aviation Fans
+☑ Both
+
+===[ 👪 Audience: ]===
+☐ Kids
+☐ Teens
+☐ Adults
+☐ Everyone
+☑ Mature
+
+===[ 👀 Graphics: ]===
+☐ Really bad
+☐ Bad
+☐ OK
+☑ Good ( I mean bro this game was released 14 years ago, and it still looks great )
+☐ Beautiful
+☐ Masterpiece
+
+===[ 🎯 Difficulty: ]===
+☐ Easy Peasy
+☑ Easy to learn but hard to master
+☐ Medium
+☐ Hard
+☐ Dark Souls
+
+===[ ⏰ Game time/length ]===
+☐ Really short ( 0 - 4 hours)
+☐ Short ( 4 - 12 hours)
+☐ Average ( 12 - 18 hours)
+☐ Long ( 18+ hours)
+☑ Endless
+
+===[ ☣ Requirements: ]===
+☑ Toaster ( unless you are going to put alot of add-ons, you will need ufo )
+☐ Average
+☐ Solid Medium
+☐ High end
+☐ Unoptimized
+
+===[ 💎 Price ]===
+☑ Full price
+☐ Wait for sale
+☐ Don't do it
+☐ Free
+
+===[ 🐞 Bugs ]===
+☐ Game itself is a bug
+☐ Lot of bugs
+☑ Few Bugs
+☐ Nothing
+
+Verdict: I'll say, this game is suited for everyone, everyone can fly even in flight sims. Its not rlly easy to learn but if you give shit in it, its not that hard and fun to learn and master. 
+
+ps. im still learning aswell
+
+**For Multiplayer**
+
+You see its great to have everyone on board playing this game, a squeaker, a teen, an adult, a dog, whatever. But it would be great if everyone is not immature and flying a hot air balloon at mach 1 and striking an active tower. 
+
+Maybe if you like to play casually, just play by yourself thats why there is a singleplayer mode, and if you want a little bit of professionalism theres VATSIM waiting for you and theres alot of server out there that is still active and has alot of players going in and out everyday (especially weekends). Respect the tower if there is one in the server and have a great flight. : )",0.8357328772544861,67,True
+314160,117357811,76561198255665019,"I would most certainly recommend this game, especially if you want to get into flight simming, and/or have a low-range or mid-range PC or even laptop. I play on an Acer laptop which is at least a couple years old (its not even a gaming one) and it runs amazingly.
+
+If you want to play multiplayer, the in-game multiplayer isn't the way to go as there is often very few people (if any) online. 
+
+The game comes with LOTS of singleplayer missions, all ranked by difficulty.
+
+There is a fair amount of default aircraft, and if you want different ones, you can either go and buy one of the DLC aircraft, or go to a third-party website to download freeware or payware aircraft, which are very easy to install, and (for the most part) very well made, and great fun to fly.
+
+If you have discord, there's a server I'm in which is really good. It's often active, the mods and regular members etc are all really nice and helpful, and it's a great place to start out flight simming in. When I got FSX, the first flight I did was in that server. Whenever I have a question or am struggling with learning something, they always try their best to help.
+
+Sure, the graphics aren't the best, but you can get scenery/graphics (and even terrain) addons, to make the game look much better.
+
+If you're interested in joining the discord server, here is a permanent link to it:
+https://discord.gg/ScEVp3BA
+
+Overall; I rate this game 10/10 and strongly recommend it",0.7834319472312927,33,True
+314160,30232718,76561198081162137,"First off. THIS IS NOT A GAME! 
+
+-There is no Explosions
+-There is no Deaths
+-There is no graphic crashes
+-There is no winning or losing
+-You will have a HORRIBLE experience if you play this on anything other than a computer (cell phone, tablet) with a joystick, yoke and other airplane periphials.
+
+If you need any of the above, THIS IS NOT FOR YOU. This is a simulator. Real airline pilots use this simulator for training. If you are new to the flight simulator world (i have been flying MSFS since version 1.0 in 1980) then welcome aboard and remember the 4 points above. Most of all remember THIS IS NOT A GAME!
+
+Now on to my review, lol: 
+
+I am little late to the game but I had to post how EXTREMELY pleased I am with the Steam version of FSX. Dovetail really did a good job working out all of the kinks. I have been trying to run the FSX boxed version since it was released. Bought more powerful computers and still have never been able to run FSX successfully. And successfully means flying a whole route from gate to gate without crash. Ive always foind myself tweaking the settings and searching the internet to figure our how to get it right... Because surely Microsoft wouldnt release a product that only works on some systems right?! Well i never got it to work. I have been flying on FS9 instead which is VERY stable. The problem? None of the latest and greatest addons are compaitable with FS9. Grrr
+
+Enters FSX-SE
+
+I have done several long distance flights this past week without one crash or hang up and frame rates are awesome. All of MY addons are compatable. I have several payware airports and payware planes, all work without a problem. If you are still having issues with your boxed version of FSX or find yourself constantly tweaking the settings to get somewhat optimal flying performance then you should give Steam version a go. You will be pleased! There is not much if anything different visually between the boxed and SE except framerates. So if you are NOT having a problem with the boxed version, you can stick with that. But for the vast majority of people who are banging their heads on the desk trying to get FSX to work. This is your answer. 
+
+Good Job Dovetail",0.8165027499198914,63,True
+314160,45336445,76561197980652613,"Solid engine, crippling DLC model.
+
+As much as I love supporting continued development, have you seen the price of the DLC? 
+
+Individual airport models cost most than half the price of the full game.
+
+Some individual planes cost more than the base game itself!
+
+At time of writing, to buy the full experience (base game + all the DLC) it's currently sat at £3,716.15
+
+£3,716.15 !!
+
+I can't give this a thumbs up. 
+
+The sim is solid, don't get me wrong. Sure the graphics aren't the best, looking very dated now. 
+
+There's a good amount in the base game for the money. 
+
+I just can't give this a thumbs up because, who the hell sells a full experience for £3,716.15!",0.8145334720611572,353,False
+314160,110839325,76561198272826009,"---{ Graphics }---
+☐ You forget what reality is
+☐ Beautiful
+☐ Good
+☐ Decent
+☑ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{ Gameplay }---
+☐ Very good
+☑ Good
+☐ It's just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ Audio }---
+☐ Eargasm
+☐ Very good
+☑ Good
+☐ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{ Audience }---
+☐ Kids
+☑ Teens
+☑ Adults
+☐ Grandma
+
+---{ PC Requirements }---
+☐ Check if you can run paint
+☑ Potato
+☐ Decent
+☐ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{ Difficulty }---
+☐ Just press 'W'
+☐ Easy
+☐ Easy to learn / Hard to master
+☑ Significant brain usage
+☐ Difficult
+☐ Dark Souls
+
+---{ Grind }---
+☑ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☐ Isn't necessary to progress
+☐ Average grind level
+☐ Too much grind
+☐ You'll need a second live for grinding
+
+---{ Story }---
+☑ No Story
+☐ Some lore
+☐ Average
+☐ Good
+☐ Lovely
+☐ It'll replace your life
+
+---{ Game Time }---
+☐ Long enough for a cup of coffee
+☐ Short
+☐ Average
+☐ Long
+☑ To infinity and beyond
+
+---{ Price }---
+☐ It's free!
+☐ Worth the price
+☑ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{ Bugs }---
+☐ Never heard of
+☐ Minor bugs
+☑ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{ ? / 10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☐ 7
+☑ 8
+☐ 9
+☐ 10",0.7627754211425781,68,True
+314160,23135037,76561198057993955,"A day in the life of a FSX player:
+
+8am: Set up flight
+8:15am: Take-off, Switch on Autopilot
+8:30am: Leave the plane alone, and play other games.
+9pm: Suddenly remember you have FSX running, look at plane and realise that you over shot your target by 2000 miles, ran out of fuel, crashed and burned in the ground, killed everyone on board and at least 100 more on the ground. Claim that the flight was a success.
+
+Repeat
+
+10/10 happens everyday",0.8114079833030701,134,True
+314160,54859024,76561198014034935,"[b]This is a very good port of Ms Flight Simulator 10 to Steam.
+Is it worth buying in 2019? Yes, but expect something new from M$ in 2020.[/b]
+
+FSX released in end of 2006. Steam Edition (FSX-SE) released in 2014.
+FSX-SE = Gold Edition + Deluxe Edition + Acceleration expansion pack and both official Service Packs in one + multiplayer support. All in one.
+
+First release in 1982 Microsoft Flight Simulator, so it is 37 years old now in 2019. Falcon series start in 1984, for comparison.
+
+Lockheed Martin hired members of the original ACES Studio team to continue development of the product - Lockheed Martin Prepar3D. Think about it like FSX Engine + patches and DirectX 11. After releasing Version 2 in 2013 and Version 3 in 2015, the team released 64-bit Version 4 in May 2017 ($50).
+
+On the other side we have X-Plane series, available on Steam too.
+
+In this video I have vanilla game, no mods with only two DLC: Skychaser and Albatros D.III
+https://steamcommunity.com/sharedfiles/filedetails/?id=1263921482
+ 
+
+I bought it very cheap on Steam, in a double pack, game and Skychaser plane. It was somehow cheaper than a game alone.
+
+TrackIR supported with no need to set it up. Nice thing. My HOTAS works fine too, but it took me a week to set it up in the way I want it. If you going to use some more complex aircraft models, you will probably end up spending more money for a additional soft to get this handle fast - google: FSUIPC4
+
+There are many know bugs, you can find solutions for probably all of them. Here are some I encounter with solutions:
+
+Blinking airfield, that you can see in video, I already fixed:
+Free DX10 Shader Fixers V3.2.2 and V3.2.3 if you use ORBX sceneries.
+
+http://www.lockonfiles.com/files/file/2612-fsx-dx10-shader-fixers-v322/
+ 
+
+https://library.avsim.net/search.php?SearchTerm=DX10+shader&CatID=root
+
+No Rewards fix: To get rewards, you have to create 'Rewards' folder in every DLC folder you own. Example: .../FSX/DLC/379553/Rewards
+
+
+
+[b]Learning to fly[/b]
+Have a look at Lessons by Rob Machado. Some of those lessons have very anoying buggs but till Instrument Checkride you should do fine. Google single lessons for bugs if you stuck.
+
+
+[b]Upgrading and buying DLCS?[/b]
+
+Rule no 1 - DO NOT BUY STEAM DLCs.
+
+Save your money for really good things. First buy planes or just one but good. Two the best on a market right now for GA VFR and IFR flights IMO:
+
+1) A2A - Cessna 182 (I recommend 182 over 172, is stronger, more long term usable model, good tourer). Expensive but 45% off from time to time. http://www.a2asimulations.com/
+ 
+One good thing worth of buying for sure is Accu-Feel from A2A. It extend flight experience for all default models. Here is a good video: https://youtu.be/eAkDywoaeRQ
+ 
+2) Flight1 - King Air B200 v2.
+
+
+
+[b]Where FSX is strong?[/b]
+
+Lots and lots of freebies:
+https://flyawaysimulation.com/ - just put a name of a plane in a search box.
+
+http://www.lockonfiles.com/files/ - best free models selection
+
+Do you like boats and ships? Have a look here: http://deltasimstudio.com/
+ 
+
+
+[b]Sceneries[/b]
+
+Don't go crazy, have a look at free sceneries first.
+
+Freeware sceneries library:
+http://www.freewarescenery.com/fsx.html
+ 
+FreeMeshX Global 2.0 - 50GB free global mesh
+http://ninetwopro.com/freemeshx-2-0-release-announcement/
+
+Free sceneries for USA 1m to pixel with 10m mesh
+http://blueskyscenery.com/
+ 
+
+You should have a look at ORBX products. You can buy just one particularly region, witch are in best accuracy. Discounts from time to time too. Have a look at demos and freebies first: ORBX Tasmania, ORBX Island.
+https://orbxdirect.com/
+ 
+
+Drzewiecki Design airports, cities, etc.
+http://www.drzewiecki-design.net/
+ 
+
+REX textures - Best you can have if you want FTX look photorealistic.
+http://www.rexsimulations.com/
+ 
+
+
+Good thing is, that ORBX and REX products can be bought ones and use with FSX and Prepar3D in the same time. Someday, when you switch to P3D or start using both sims at once, you have sceneries sorted.
+
+Setup and Tweaks FSX - lots of guides there, check Steam Guides first.
+
+Steam - FSX Guides - look for guide: How to get the Best Experience by [1BDE] L.Thompson
+
+http://www.fstipsandaddons.com/ - FS Tips & Addons
+ 
+
+http://c-aviation.net/ - good reviews
+
+Add Freeware 3D Lights Tutorial
+http://simviation.com/simviation/?ID=69&page=15&mark=7971
+
+If you want more realism and a global flight network simulation experience google for VATSIM.
+
+If you are in to war birds:
+Try Carrier landing practice missions and addons. Free carrier and default A/F-18 can give you some serious good basic training before you switch to more advance models or sims.
+
+Many good free models to fly too.
+
+Weapons.
+I found a mod Tactical Combat System & Development Kit for FSX/P3D (TacPack) But haven't try yet. Not much about weapon systems in fsx, you can study planes to a detail but weapons are some how ignored.
+
+You can use pedals from your steering wheel as a rudder google for guides.
+
+Conclusion:
++good value for the money
++flight lessons by Rob Machado (in English with audio)
++big community of people in any age
++lot of freebies
++highly modable
++lot of systems to learn and study
++some very masterpiece models, not available in other sims yet
+
+-engine has his limits, if you push to much you get fps drop to 20-30 level or more, no mater how modern and powerful your pc is;
+-Some good, old mods not support Win10&FSX-SE or take some work to make them working, so check before you switch to SE;
+
+
+List of included, default aircrafts:
+
+Augusta Westland EH101 (Helicopter)
+Airbus A321
+AirCreation 582L Trike Ultralight
+Beechcraft Baron 58
+Beechcraft King Air 350
+Bell 206B JetRanger (Helicopter)
+Boeing 737-800
+Boeing 747-400
+Boeing F/A-18
+Bombardier CRJ700
+Bombardier LearJet 45
+Cessna C172SP Skyhawk
+Cessna C208B Grand Caravan
+De Havilland DHC-2 Beaver
+DG Flugzeugbau DG-808S
+Douglas DC3
+Extra 300S
+Gumman G21A Goose 
+Maule M7 Orion
+Maule M7 Orion (on skis)
+Mooney Bravo
+North American P-51D Mustang
+Piper J-3 Cub
+Robinson R22 Beta II (Helicopter)
+
+
+
+",0.8068644404411316,57,True
+314160,23678923,76561198144491606,"It would have been better with better graphics, It does have graphics of a 2006 simulator, but the add-ons put up with them.",0.8561843633651733,107,True
+314160,151125161,76561199090900978,"This is a great buy (On sale for 4.99 USD, today)  if you have a Win10 machine with a decent Video Card circa 2012 and even an extra monitor.  The default installation works error free and is fully functional on my 2012 i7 laptop with NVIDIA Quadro 1000M video card machine on an average of High to Medium-High settings on the latest Win10 version Nov 2022.  It's a great introduction to flight dynamics.  You don't really need any add-ons as the game is fully functional without them but I understand there are hobbyists out there who just want the ultimate reality experience.  This is also a good cost optimal method to test if you have the flightsim passion, but not sure if you want to proceed with investment to the latest 2020 and 2024 versions which require rigs with RAM and current video cards.",0.7518606185913086,28,True
+314160,47758282,76561198049485019,"As a comercial pilot, this game really helped me getting my IFR rating and getting to know other materials before flying them.
+I recommend getting every graphics software enhancer for the game like REX and trees, etc (if your PC can support it). also there are some tips out there to increase FPS, as this sim runs mostly on processor and not grahpic card.",0.7996286749839783,38,True
+314160,231541736,76561198068355970,this still the best and most useable flight simulator with all kinds of free addons on Simvation.,0.7489263415336609,28,True
+314160,19984423,76561198118371170,"I was on the old Microsoft Beta Test Team for this game in 2004-2005, so I have hundreds of hours playing well before I was ever on Steam.
+
+It is a classic, and one of the best flight sims out there.  The base game is all I am covering in this review because I think the DLC are overpriced crap.",0.7965719103813171,85,True
+314160,13530037,76561198034191030,"I have been a real world aviator for the past 18 years. Back when I was training for my Instrument Rating, MS Flight Sim became more than just a game. It was an essential tool in the flight bag that helped solidify essential skills needed to fly in the IFR world. The end result of which saved me time and money obtaining my rating. I basically taught myself IFR flying. It was essential to understanding VOR radials and ADF tracking and intercepts.
+
+After flying for a career for the past 8 years I'd never thought I'd have use for MS Flight Sim ever again. However, recently I dusted off my old copy of MS Flight Sim to help prepare for my Boeing 737 type rating. A company designed a fairly accurate version of the 737 with the correct system logic. It even included a fairly accurate FMC. Once again MS Flight Sim proved useful and was essential to understanding the systems of the 737 and cockpit flows. Hopefully the Steam version will allow for these add-ons. 
+
+My advice to anyone using MS Flight Sim as a training tool would be to treat it as just a game until you start instrument training and be prepared for many misunderstandings. My previous four year’s experience as flight instructor and chief flight instructor has taught me that those used Flight Simulators during their Ab Intio training developed bad habits that needed to be trained out of them. Once you have completed your Ab Intio training, it can be an excellent training tool.
+",0.7953500747680664,61,True
+314160,43228073,76561198798594540,"FSX Steam Edition is a wonderful simulator  that enhanced my skills as a pilot, I was brought up while playing this game and now I am at my 'desk' in the air. This is a great simulator to start if you wish to become a pilot, absolutely recomend it. Good luck from a Boeing 737 Pilot :)",0.7935391068458557,37,True
+314160,65421843,76561198131899677,"I have a few hours (500+) on this and that is because it has stood the test of time and is still a great sim, hopefully the new one is even better!",0.8417361974716187,70,True
+314160,196463397,76561199182784874,"
+---{ Graphics }---
+☐ You forget what reality is
+☐ Beautiful
+☐ Good
+☑ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{ Gameplay }---
+☐ Very good
+☑ Good
+☐ It's just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ Audio }---
+☐ Eargasm
+☐ Very good
+☐ Good
+☑ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{ Audience }---
+☐ Kids
+☑ Teens
+☑ Adults
+☑ Grandma
+
+---{ PC Requirements }---
+☐ Check if you can run paint
+☑ Potato
+☐ Decent
+☐ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{ Game Size }---
+☐ Floppy Disk
+☑ Old Fashioned
+☐ Workable
+☐ Big
+☐ Will eat 15% of your 1TB hard drive
+☐ You will want an entire hard drive to hold it
+☐ You will need to invest in a black hole to hold all the data
+
+---{ Difficulty }---
+☐ Just press 'W'
+☐ Easy
+☑ Easy to learn / Hard to master
+☐ Significant brain usage
+☐ Difficult
+☐ Dark Souls
+
+---{ Grind }---
+☑ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☐ Isn't necessary to progress
+☐ Average grind level
+☐ Too much grind
+☐ You'll need a second life for grinding
+
+---{ Story }---
+☑ No Story
+☐ Some lore
+☐ Average
+☐ Good
+☐ Lovely
+☐ It'll replace your life
+
+---{ Game Time }---
+☐ Long enough for a cup of coffee
+☐ Short
+☐ Average
+☐ Long
+☑ To infinity and beyond
+
+---{ Price }---
+☐ It's free!
+☑ Worth the price
+☑ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{ Bugs }---
+☑ Never heard of
+☐ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{ ? / 10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☐ 7
+☑ 8
+☐ 9
+☐ 10
+",0.7402204275131226,28,True
+314160,29471010,76561198064514366,"Microsoft Flight Simulator X came out October of 2006 and it's still one of the best flight simulators around. I have hundreds of hours on the original and plenty on here. The first thing I am going to say to anyone reading this review is, DO NOT expect to be able to do everything if you know nothing about aviation. Many reviewers call FSX a game in their reviews and FSX is NOT a game, it's a simulator, simulating the complex world of aviation. If you know nothing about aviation, do not expect to be able to fly an IFR flight using VOR or GPS navaids and shoot an ILS landing. FSX takes a lot of research to figure out, luckly they have a learning center to help newbies out. 
+
+Now that I've gotten that out of the way, let's talk about the sim. Yes, it's almost 11 years old, so, it doesn't have the best graphics in the world, nor does it have the best planes. Luckily, during the 11 years of this sim's life, people have been making addons for FSX, including: planes, scenery, textures etc. You can make this sim look nice and feel realistic for free, you don't have to pay for the insanely overpriced DLC Dovetail offers on the Steam Store, my FSX looks great and I only paid for the sim, nothing else.
+
+If you're willing to look past the 11 year old sim and put in the effort to learn about the world of aviation (HIGHLY RECOMMENDED) then flying on FSX can be one of the funnest things you'll do, aside from flying for real. 
+
+I got FSX about 7 years ago, I'd never really looked into aviation before, never played a flight sim before, but, once I got an idea of what I was doing, I fell in love. Currently, I'm a licensed Private and Commercial pilot with my Multi-Engine and Instrument ratings and I'm working on becoming a Certified Flight Instructor. Had I never gotten FSX, who knows what I'd be doing right now.",0.7897091507911682,31,True
+314160,179194468,76561198263525274,I have been playing this for 9 years and enjoyed every minute of 3442 hours.   I am a FSX addict.  It has NEVER failed me.  It has been a life saver in my retirement. Reloaded after getting a new PC with Windows 11.,0.8340072631835938,47,True
+314160,13440522,76561198168560149,"My personal opinion about this game or simulation software (whatever you prefer). I'm using FSX since 2006, and honestly, it was a nightmare back than since there simply was no hardware you could buy for money which was able to run it in a way that it was playable. This lasted for approximately 3 years. During that time Microsoft released 2 service packs and Intel released the first generation  of i7 processors which finally allowed the game/software to become really playable. 
+
+I'm always juggling between the terms game and simulation software. This is because to some users FSX is a game and to other users it is a flight simulation platform. What is the difference? Well, if you see it like a game, then FSX does offer you great missions which will provide you a great deal of fun during a few weeks. If you see it as a flight simulation software, then it will become more complicated. The reason is because you can start training for a real pilot licence with this software. But this will only be interesting if you try to do it right as closely as possible as real pilots do. The problem with this is that then it is no more about flying around, which by the way will become boring very fast. But then, you will have to learn the real rules of the sky and the aviators. The learning curve will be much steeper but so much more rewarding. There are some really good books on the market which are based on Microsoft flight simulator training which will guide you through the process. I am myself a real world private pilot and I started with Microsoft Flight Simulator back in 2006 and then started working on my real pilot licence in 2009. It did help me a lot, but I also caught some flaws by simming. The problem is that in the sim you mostly have only one screen and thus you tend to focus more on your instrument panel. In real world VFR flying you have to focus more on the outside of the plane in order to navigate. I was so proficient when I started flight training that my instructor asked me if I already had some flight lessons in the past. But he also caught me too often staring at my instruments, because I got used to it while doing flight simulation. You will for sure not be able to fly a real plane only with flightsim training, but it will help you a great deal to get proficient in procedures and radio navigation and lots of other things.
+
+But Flight Simulator X really starts to shine when you start to add quality add-ons. They bring FSX to a whole new level. You can add new weather engines, highly detailed aircrafts which do cost more than FSX itself but which allow you to operate them by the real airplane books. This is the case for general aviation airplanes as for airliners. But there is also a bunch of software add-ons which enhance the whole world of FSX. More detailed elevation meshes which cover countries, continents of even the whole world! The same is true for airports, roads, amd rivers which are much more detailed. You can buy add-on airports which look exactly like the real thing. Actually most of the large airports have been recreated in detail by add-on companies.
+
+Now you could ask yourself, but what do I get then in the Steam Edition, which is in my opinion nothing else than a MS FSX Gold Edition with a few optimizations and bug fixes. You do get a game/simulation software which tries to approximately simulate the whole planet earth, get a nice fleet of airplanes to start with. Yes, you will be able to fly in every country on earth. But only something like 40 or 50 cities and large airports have been recreated in more detail, which is already very pleasant. The other cities and airports in the world do also exist (well, most of them) but they are recreated in a more schematic way with landclasses and autogen, but lets don't get too technical.
+
+Today's hardware enables you to run FSX in a pleasant way. Since the two service packs which Microsoft did release plus the few optimizations Dovetail did, it should normally run in a stable way. I like Microsoft Flight Simulator X very much and this is why I have already plunged thousands of dollars (yes, you do read correctly) in add-ons and hardware in order to be able to fly as real as it can get in order to stay sharp for my real world flights. I have also bought some great hardware from Saitek and VRinsight which enable me to fly with a yoke, pedals and throttle levers, radio navigation stack. We nearly as I do in the real plane. So beware, if you become addicted, then it can become an expensive hobby :-)
+
+I like the fact that Dovetail now ported FSX on the Steam platform because the flight simulation community is lacking new adopters for years now, thus eroding the user base. The average age of a simmer tends to be in the mid forties and we could really use youngsters which come along to enhance the base of users. So if you dream of becoming a real world pilot or only want to have some fun, try it, I did at least never regret it.",0.7838344573974609,47,True
+314160,13435601,76561197990030198,"It's finally here! I first heard from PCgamesN website that there were plans to bring FSX to steam with stability and performance improvements and have been anxiously checking since. This was about half a year ago and finally the wait is over and with such a great intro price! This is basically FSX Gold with said improvements. Although it's early days, steam workshop/store addons/DLC WILL be added down the line. I've not tried any of my existing addons with this installation yet but I'll update the review once I have to let you know of compatibility and if there are any issues or things to know. All I can say is I'm so glad this iconic, timeless masterpiece is finally here and for them to have worked on the performance issues? Just an absolute pleasure! (Although by now, most of our rigs can run it perfectly anyway however start throwing addons into the mix such as REX, Weather systems, OrbX environments, highly detailed custom aircraft etc... well, we'll see!) Stay tuned guys!
+
+Update: I can confirm my addons are so far working perfectly! Christmas has surely come early guys and girls!",0.7809398174285889,73,True
+314160,144113573,76561199114146306,"This flight simulator was fairly good, however, please read this review before deciding wheter or not you should buy this game. 
+
+If you do not like your flight simulator crashing whenever you are in the middle of a flight, this simulator is not for you. It crashes a lot when you are in the middle of a flight and it can get very annoying at times. 
+
+The support for this simulator has ended, and since 2022, there has been an increasing problem of the shortage of addons for FSX. 
+
+Some airports are outdated and the runway numbers don't match the current runway numbers today. Some airports are also non-existent because Microsoft doesn't add them anymore. If you'd like a flight simulator that auto-updates airports and runway numbers, check out MSFS2020 or X-Plane 11 or later, as they use OpenStreetMap data to generate airports.
+
+The scenery is okay, it could be better, however it isn't terrible to look at. The quality of the default aircraft is deplorable however, as the textures are outdated and pretty bad, and have fairly poor audio smaples to go along with it
+
+The physics of the flight simulator are also okay, however it can feel a little unrealistic at times, since the physics of each aircraft are defined in .CAB files with minimal leeway around that. Due to this, aircraft can feel a little too easy to fly at times.
+
+This flight simulator does not have a real time or weather engine, which means you'll have to look for a 3rd party weather engine like FSXWX, and there are no time engines to my knowledge.
+
+The requirements of this flight simulator are minimal, and even a toaster can run FSX at a decent 40 fps or more.
+
+This flight simulator is VATSIM compatible using the vPilot client.
+
+Overall, I would recommend this game if you are new to flight simulators, or if you have a PC that cannot run anything else. It is worth the price in my opinion, but be prepared for bugs, crashes, and outdated airports, however, if you want a more advanced flight simulator, check out X-Plane 11, X-Plane 12, or MSFS2020.",0.7292635440826416,36,False
+314160,28791484,76561198047127786,"Pick commercial aircraft Boeing 737-800 and Soekarno-Hatta airport.
+Take-off phase. Follow the checklist. Setup the GPS. 
+Contact the tower request taxi and takeoff clearance. 
+Go to the runway. Turn on passenger seatbelt and no smoking light on, set the flap down. 
+Push the throttle to maximum power. 
+
+On flight phase, Enable the Auto-pilot. Communicate with Air Traffic Controller for IFR guidance.
+
+Landing phase. Contact the tower request to land on particular runaway.
+Tune the radio for the ILS frequency. Intercept the localizer approach course. 
+Flap down, landing gear down. Control the altitude and speed.
+Perfectly land thanks to glide scope. Park in the gate. Satisfied.
+
+Repeat. :D
+
+Also FSX have many cool addons. For getting the realistic experience, install FSEconomy or FSPassengers. You can buy aircraft, running a business, transfering good etc.",0.776607096195221,60,True
+314160,34532755,76561198142547928,"Started up, got spawned in an aircraft with no battery or engine running, watched 30 minute video on how to start up plane.
+
+-Watch video
+
+-Succesfully start plane in game
+
+-Go around bragging ""I totally know how to fly a plane""
+
+-Feel like a badass
+
+-Cry myself to sleep knowing i will never achieve anything in life
+
+-10/10 would recommend",0.7756990194320679,61,True
+314160,14074757,76561198035410367,"I'm a real-life CPL pilot, and I grew up with the Flight Simulator series. Flight Sim 2000 was the high point in the series. As for X, well... it's pretty good, but back in '06 it was very taxing on even the best systems of the time. I bought a bunch of aircraft from Carenado, PMDG etc and some of the aircraft are so detailed (the Precision Manual 747 was the worst back then) that a state-of-the-art PC (back then) ran at 40 FPS on a good day. 
+
+Many years have passed and most of us, pilots and simmers alike, have moved on to the competitor (X-plane). The transition wasn't too hard for me as I had some experience with X-plane during IFR sim training in a certified Seneca simulator with instructor, instruments, flight deck etc. Personally, I prefered MS Flight Simulator to X-plane for personal use. Flight Sim is very straight forward, has a large community and feels good in a home computer. 
+
+Alas, a third party developer bought the rights and gave us a 'renewed' Flight Simulator X. I was thrilled. It's been a long time since I've had a flight stick or quadrant at home, but I was too excited to wait for a proper set-up and made the purchase anyway. It's been nine years, my computer is fantastic (running the latest games effortlessly), thus I expected to experience Flight Sim X in a whole new way. 
+
+Boy, what a huge disappointment...
+
+They took the boxed version of Flight Simulator X, recompiled the nine years old code for modern systems, and released it to the public. The bugs are all there, and new ones have been introduced as a consequence of running a nine years old game in modern systems. The support is the worst. Dovetail Games will refer you to Microsoft for support, even tho they're the ones putting up the game for sale. I'm not even sure they're allowed to make changes to the code itself. Your third-party airplanes? Not sure, as I haven't tried to install anything yet simply because I can't get Flight Sim to work for more than 20-30 minutes at a time. It crashes to the desktop CONSTANTLY. Again, zero support. I've tried the forums, but all I got was a bunch of good-natured fans trying to help me out. You'll find unofficial solutions here and there on the internet, but nothing worked for me. Eventually, I was told by some angry fan that it was my system's fault. I can only laugh at the suggestion, seeing as this is a perfectly well cared for computer, running games such as Arma III (a VERY taxing game indeed) under Ultra at a steady 100+ FPS, zero glitches. Same goes for every other game in my library. 
+
+Flight Simulator X is broken, and hopelessly so, given the nature of Dovetail's business pact with Microsoft. Avoid the frustration. So far, it's been nothing but a huge let down for me.
+
+For the first time in a very long time, I am forced to write: I DO NOT recommend this game.",0.7747007608413696,181,False
+314160,232315660,76561198284644804,"I've been playing FSX for nearly a decade and I have to say that it is one of the best experiences for simulation flying. While its age is showing, it makes up for its simple set up, efficiency, and flexibility. With tons of freeware aircraft available on the internet, there are tons of open options for all types of flyers.
+
+My main issue? I keep coming across a bug where my FSX has a significantly high chance of completely crashing after 30 minutes of gameplay. I know this isn't a common thing, but if it is for you, I'd recomend occasionally saving your flight sessions (or adjusting settings and whatnot, I'm not really sure). Other than that, the airports that you can fly to are becoming increasingly outdated, so it may not be realistic to todays standards.
+
+Overall, very solid simulator; happy flying!",0.7213021516799927,19,True
+314160,174479854,76561198199681018,shout out and respect to those who are still playing FSX because their hardware isn't powerful enough to play the newer Microsoft flight simulator games your unspoken and unappreciated heros o7,0.7203248739242554,22,True
+314160,68100687,76561198133955318,"This simulator is certainly a trip down memory lane for me. Before I had FSX:SE or just FSX Gold Edition, I flew on Flight Simulator 2004 which was my first experience being at the controls of a virtual aircraft. Of course, I was only five or six years old and I had absolutely no idea what I was doing, but it really helped ignite my passion for flying. Now, this simulator may be obsolete compared to others like X-Plane 11 and FS 2020 just around the corner, but I'll always come back to this one for old time's sake (and because of the communities on multiplayer).
+
+Now onto the actual review. When first purchasing FSX, it may seem daunting what you need to learn, but there are communities on multiplayer that are willing to teach, flying lessons that can be located in the Learning Center, and of course the basic tutorials that are found under the Missions tab. Once you have a good idea of how to fly, you may realize how old the game is. The default navaids are out of date, airports haven't been updated, and the aircraft that may be considered more advanced (e.g. 737, 747, CRJ, etc.) are drastically simplified compared to the complex and far more realistic components they have in newer simulators. There can be fixes for this, which leads me to one of the more unappealing aspects of FSX. There is third party software, such as PMDG, which sells a close to real life 737, Orbx, which can update the scenery in FSX and improve certain airports, and many more. These can cost more than twice as much money the simulator itself is worth, which means that you could potentially be paying for more than what you could get in one entire simulator, like X-Plane 11, or even FS 2020 that will be coming this year. I myself have never spent extra money on FSX and have strictly used freeware software that are useful for flying purposes. One of them I highly recommend is Littlenavmap, which displays airports, taxiways, procedures, weather (In FSX and real life), can be used for flight planning, and many more! This is the top freeware product I recommend downloading, and that no flight simmer should be left without, unless practicing procedures that make using Littlenavmap cheating.
+
+One last thing, there are many communities on FSX where players can do flights together, and can host events (Depending on the server). This is completely up to the player which community they join, but different servers have different rules and standards, so please keep that in mind while seeing which place you prefer to fly at. Also depending on the community is what type of communication system you use. Because FSX has terrible in-game communication, servers rely on software like Discord or Teamspeak for communication. Servers typically list which one they use in the description when you select a server, so choose wisely!
+
+In short, FSX is great simulator, but it is not perfect. While considering purchasing FSX, keep in mind the graphics aren't up to modern standards, the default planes aren't 100% realistic, ATC communication in single player isn't great, and there are airports that aren't up to date. Despite this, FSX is a great way to get introduced to aviation and know what the basics are. But, this doesn't compare to flying in real life, and if you're interested, find a flying instructor in your area and take an intro flight (At least when the COVID-19 situation is over) to see what the real deal is, and possibly consider flying as a career.
+
+I hope people still see the value of FSX. Happy flying!",0.769515872001648,30,True
+314160,43764357,76561198073065141,"This is a great and timeless game but requires a lot of tweaking and 3rd party products to get it looking good visually and to give additional replayability.  I’d highly recommend the REX textures and weather engine and FSPassengersX as a minimum.
+
+Great game in whic I’ve spent hundreds of hours flying 737-800s all over Europe.  Great for anyone with an interest in aviation......",0.7663402557373047,26,True
+314160,74727945,76561198066657307,"This is a review saying goodbye to FSX, and moving over to MSF2020.
+
+Great product, had years of fun before i moved over to the steam edition.",0.8153704404830933,63,True
+314160,44190380,76561198133323084,"What a strange time for this game to go on sale after Richard Russell steals a plane, then pulls some crazy shit off with training from a video game. Rip Skyking",0.8146584033966064,122,True
+314160,32022083,76561198175432187,"I have almost 1000 hours playing FSX. It's a great simulator, you learn navigation and basic flight tutorials in the Mission section. its great for beginners, it has very easy tutorials and fun mulitplayer servers",0.7641343474388123,32,True
+314160,13834294,76561197971307200,Got lost.  Ran out of gas.  Crash landed through a house.  Got a badge for landing.  Best game ever.,0.7086857557296753,590,True
+314160,24568163,76561198139963459,"Great game, would recommend to anybody that is interested in flying. Reasonably priced for what you get and also the fact that you can get addon scenery, aircraft, and much more for free. I will be linking my favorite free addons below for you that want to fly commercial, and also for those of you that want to fly military.
+
+[b]Commercial:[/b]
+[list]
+   [*]Emirates Fleet Package: [url=http://www.rikoooo.com/en/downloads/viewdownload/63/472]Rikoooo Download[/url]
+   [*]Boeing 747 Package: [url=http://www.rikoooo.com/en/downloads/viewdownload/55/719]Rikoooo Download[/url]
+   [*]Boeing 787 Package: [url=http://www.rikoooo.com/en/downloads/viewdownload/55/783]Rikoooo Download[/url]
+   [*]Boeing 737 Package: [url=http://www.rikoooo.com/en/downloads/viewdownload/55/569]Rikoooo Download[/url]
+[/list]
+[b]Military[/b]
+[list]
+   [*]Lockheed Martin F-35 Lightning II Package: [url=https://flyawaysimulation.com/downloads/files/15293/fsx-acceleration-lockheed-martin-f-35-lightning-ii-v210/]Fly Away Simulation Download[/url]
+   [*]Lockheed Martin SR-71 Blackbird: [url=https://flyawaysimulation.com/downloads/files/2606/fsx-lockheed-sr-71-blackbird/]Fly Away Simulation Download[/url]
+   [*]Boeing C-17 Globemaster III Package: [url=http://www.rikoooo.com/en/downloads/viewdownload/55/668]Rikoooo Download[/url]
+   [*]Lockheed Martin F-22 Raptor Package: [url=http://www.rikoooo.com/en/downloads/viewdownload/65/580]Rikoooo Download[/url]
+   [*]Boeing 747-8i Air Force One: [url=http://www.rikoooo.com/en/downloads/viewdownload/55/760]Rikoooo Download[/url]
+   [*]Boeing 787-8 Air Force Two: [url=http://www.rikoooo.com/en/downloads/viewdownload/55/760]Rikoooo Download[/url]
+[/list]
+
+[b]Aircraft Carriers[/b]
+[list]
+   [*]If you are interested in aircraft carriers and much more visit [url=http://c-aviation.net/aircraft-carriers-in-fsx-freeware-guide/]C-Aviation's [i]Aircraft Carriers in FSX (freeware guide).[/i][/url]
+[/list]
+
+My Computer: Dell Inspiron 15R
+
+- I can normally run FSX at 40 fps just fine when I have my laptop plugged in, on a cooling fan and running a second screen. I use the Saitek x52 Pro split joystick set and it works great. I would not recommend FSX on a laptop like mine but if that is all that you have then you can get by with it. If you have an iPad like me they are a great kneeboard that you can use for airport charts.
+
+Computer Specs:
+[table]
+   [tr]
+       [td]Processor[/td]
+       [td]Intel Core i3 1.7GHZ[/td]
+   [/tr]
+   [tr]
+       [td]RAM[/td]
+       [td]12GB DDR3[/td]
+   [/tr]
+   [tr]
+       [td]Graphics[/td]
+       [td]Intel Integrated Graphics[/td]
+   [/tr]
+   [tr]
+       [td]Operating System[/td]
+       [td]Windows 10[/td]
+   [/tr]
+[/table]",0.7537395358085632,24,True
+314160,128843274,76561198185060962,This game allowed me to crash my plane into my high school. Recommended.,0.802413284778595,71,True
+314160,37832405,76561198086224332,"As a student on my way to a private pilot liscence, I find this game a good way to learn a lot about piloting paying much less than I would have if I learned it in a real airplane. It is better to accidentally enter a spin in a simulator than in a real plane. Especially when playing on the VATSIM network, it is a lot of fun, due to the realism from actually talking to Air Traffic Control. Whether you want to become a pilot or just want to play a fun game, this is the perfect game/simulator for you.",0.7502017617225647,26,True
+314160,44202669,76561198144880119,"[ System Reqiurements ]
+◻ Brick
+◻ Laptop (I run it on my laptop but it runs between 30 and 60 fps on average)
+◻ Low-End PC
+☑ Average PC
+◻ Gaming Setup
+◻ NASA Computer
+
+[ Graphics ] (Depends on what fps you want)
+◻ Potato
+☑ Pixel Art (lowest)
+◻ Indie
+☑ Good  (medium low)
+◻ Beautiful
+☑ Realistic (ultra high)
+
+[ Audio ] (depends on the plane)
+◻ Turn Off Sound
+◻ Bad Sound Effects
+◻ Okay
+◻ Good
+☑ Amazing
+◻ Realistic
+
+[ Story ] 
+☑ Non-Existent
+◻ There Was A Story?
+◻ Bad
+◻ Decent
+◻ Good
+◻ Immersive
+
+[ Difficulty ]
+◻ Braindead
+◻ Easy
+☑ Average
+◻ Hard
+◻ Extreme
+◻ Dark Souls
+
+[ Game Length ]
+◻ Extremely Short ( 0 - 5 hours)
+◻ Short ( 5 - 20 hours)
+◻ Average ( 20 - 50 hours)
+◻ Long ( 50 - 100 hours)
+◻ Very long ( 100+ hours)
+☑ Endless
+
+[ Gameplay ]
+◻ Painful
+◻ Fun At First
+◻ Repetitive
+◻ Decent
+☑ Enjoyable 
+◻ Never Boring
+
+[ Bugs ]
+◻ Game Unplayable
+◻ Really Annoying
+◻ Too Many
+◻ Okay
+☑ Almost None
+◻ None
+
+[ Price ]
+◻ Don't Buy
+◻ Wait For Sale
+☑ Buy Right Now
+
+[ Community ]
+◻ Dead
+◻ Toxic 
+◻ Competitive
+☑ Friendly
+◻ Kind and Helpful
+
+(My specs: Amd A6-3420m overclocked to 2.3 GHz , amd radeon HD 6520g, 8gb ddr3 1333 ram) (Settings: GLOBAL SETTINGS IS MEDIUM HIGH
+
+Weather at Very Low, filtering at Trilinear, resolution is 1024x768x32, lens flare is on + advanced animations, scenery is mostly low but mesh complexity is at 11, Scenery complexity + Autogen density are both at Dense, Airline traffic density is at 100%, General Aviation is at 26% and the rest are at none, 6%, 7% and 6% again)",0.7483053207397461,47,True
+314160,105473929,76561199224391700,"pretty good flight sim. may not be as pretty as the newest one but it will work on a regular computer, you dont need a gaming computer to play it.",0.6981748342514038,19,True
+314160,122217158,76561198202495316,"FSX was the first decent Sim with decent default aircraft and reasonable airports worldwide.  During the following years, addon aircraft and airports were developed by many very clever people, both commercial and privateers that got the Sim closer to reality.  I use FSX to learn new aircraft as it is forgiving to errors which occur with complex machines available now.  It is good grounding for when I am flying in its follow up, Microsoft Flight Simulator which is a step up in complexity.  Yes, I would recommend FSX for the beginner.",0.6977379322052002,18,True
+314160,125588683,76561198220942540,"It goes without saying that this game from 2006 will never be able to compete with the fidelity of FS2020, however even if you already have FS2020, I still believe this is a must have to add to your library. It's hard to forget the influence this version of Microsoft Flight Simulator had on so many pilots that are flying today, many of whom got into flying as a result of the influence that Flight Simulator X had on them, including many of my colleagues. 
+
+I'd wager to say this is perhaps the most complete version of Microsoft Flight Simulator that was ever released, even more so than FS2020. The included fleet of aircraft was very well represented for the types of aircraft that were flying during that time. The included ""flight school"" would allow you to work your way up from simulating Private Pilot, Instrument, Commercial, and even ATP skills, even if they'll never count in real life. And this version on Steam brought back the multiplayer features that went offline after the GameSpy services shut down in the original version. And who can forget the missions? From airline ops, to general aviation outings, helicopter ops, ultralight flying, and even stuff out of science fiction, and I've still yet to complete all the missions! But of course, if none of that interests you, nothing beats loading up a free flight and flying however you chose. 
+
+So for what it's worth, despite the relatively poor performance, flight model, and scenery that looks more like minecraft than the real world, this game is still an absolute Classic, and a must-have for your library, even if you already have FS2020, or any other flight sim for that matter.",0.6974074244499207,20,True
+314160,53390086,76561198149672813,"The hours speak for themselves. 
++Huge map (its the entire flipping world, including Antarctica)
++A wide selection of aircraft and helicopters to choose from
++Loads of payware and freeware addons 
+-Some airports are glitchy 
+-DirectX10 doesn't work properly",0.7440801858901978,30,True
+314160,30591497,76561198059537997,"Microsoft Flight Simulator X - the smash hit no one saw coming. A must have for any aviation enthousiast. Give yourself a challenge in missions, or hop into freeplay and fly anywhere, from the busy airports of London to a deserted strip in the middle of nowhere. Hop in a jetliner and fly from city to city, or get in a cessna and do some bush flights. with a great variation of planes, airports etc to choose from you'll never get bored. Be a lone wolf or hop onto multiplayer and play with friends and others, the choice is up to you! Whilst flying above the Australian outback, French alps or the carribean. Tons of freeware and payware addons to choose from. From new aircraft to stunning scenery. Works with keyboard, mouse, game controllers and yokes, not to mention TrackIR and multi monitor support. With great mod support and fantastic addons, this game remains fun and enjoyable for more than 10 years after release. Just buy it, then you'll understand.",0.7354093194007874,29,True
+314160,60267442,76561198201481398,"Good Flight sim for beginners. If you are considering buying a flight sim in the next few weeks and have a good PC/Internet, just wait for FS 2020. It'll be much much better than this one.",0.784335732460022,36,True
+314160,48899582,76561198065578624,"Some of the reviews for this game are hilarious. You have to bear in mind that this game came out in 2006, at the time of launch this was cutting edge. In terms of vanilla performance, this is more suited towards the casual flyer, as all the default aircraft are simplified enough to make it relaxing to fly.
+If you're looking for realism then use X-Plane 11, but for just casual, Sunday flying then FSX is the one you want to choose. The scenery may be awful, (just look on UK2000, they have a lot of older payware that's now free) the default aircraft may be over simplified but for someone whose just coming into the world of sim flying you can't go wrong. Especially considering this game regularly goes on sale for almost 75% off. 
+Plus, where else can you go online and find a 747 buzzing the tower at 400 knots with a 13 year old at the controls?",0.7328200340270996,20,True
+314160,65249159,76561199027132251,"Played this game since 2010. Awesome still seems to amaze me. Im currently an airline pilot and this is the closest thing to real life. Especially if you get the add on aircraft's and weather DLC. No DLC the game is still good, with DLC's it closely resembles real life flying and equipment. If your serious about flying then this is the game for you. Not arcade but actual simulation.",0.7318912148475647,35,True
+314160,13491376,76561198062486608,"Very happy this is on Steam finally. I was waiting for XPlane10 to go on sale for more than 50% as ive heard the flight model is better than FSX but when I saw this arrive on Steam and it was up for £3 in sale i couldnt resist.
+
+It seams to run better than the disc version I have, Im unsure whether they have it working with 64bit now! It sure feels like it :)
+
+All round good purchase. But know what your buying, this is a hardcore sim. Its not realy a game.",0.7276135087013245,33,True
+314160,25712532,76561198100775439,"This is one of the best Flight Simulators. I used it first in 2010 and was fascinated by it's technical level of detail. You can change difficulty (realism settings) as you learn. On most difficult level you have to obey speed limits when retracting the gear or extending the flaps... Anyway, in 2013 I made my real pilot license and a lot of experience learned in FSX helped me to feel more comfortable in my real training flights. Things you can learn here are: purpose of different switches and gauges, terrain and radio navigation, communication basics, ATIS & METAR (weather reports). Things you should not think, they are the same (even with best realizm settings) - is flying physics. Yes, it is very close, but not the same. Most surprising difference: amount of rudder input you need, when starting takeoff run in real single-motor plane...
+ 
+Cessna 172 with round instruments for the beginning and version with Garmin 1000 for later training is best plane to learn basics for future real pilots.
+Also I advise to get the book ""Microsoft Flight Simulator X For Pilots: Real World Training"".",0.7260034084320068,23,True
+314160,13772587,76561198014296224,"If flying in any way interests you, this is a great game that offers A LOT of content for it's price, and it's not that hard to get up and flying. Though you do need having a joystick, the game doesn't works that well for keyboard/mouse flying.
+
+As for the ""pure realistic simulator"" thing, it could be true, but you can turn most realism off and not have to bother with most physics things, thus making flying very easy.
+
+The graphics were the best in 2005 but they do look a bit aged now, specially the ground textures when you're not flying very high, also there's no dynamic shadows and that modern stuff. A lot is left for your imagination, really. Also, even though you can fly anywhere in the world, there are no cities in great detail, you can go looking their signature buildings though, like the Eiffel Tower and the Liberty Statue, etc. It can be fun searching for them. You can learn a lot of geography if you want too.
+
+I'd say it is MORE THAN worth for the money, but it will require some learning on your side if you never played flying games before. There's a huge set of scripted missions that can be pretty fun and challenging: like flying through Hawaii in a small plane with a tourism guide showing you everything to patrolling the skyes in around a rocket launch with a military jet.  Also there are awesome tutorials that will get you started into the game. Almost every mission will have a voiced co-pilot pointing you out stuff, and that makes the missions feel very real and awesome.
+
+And if you want to get deeper into the game, there are thousands of mods that cover pretty much everything: graphical mods, physics mods, realism mods, whole countries and planes built in awesome detail, new missions, you name it. It can get as complex and complete as you want as long as you got the money to get the more cool addons. Looking at it that way, FSX is more of a basic engine you can build up to the highest possible standards. And that probably explains why there was no sequel built by Microsoft: FSX covers everything already. There are on youtube lot's and lot's of videos that show what some mods are capable, just try not to be discouraged into getting the game because of that though, it's is great in vanilla state anyway.",0.7255865335464478,30,True
+314160,154242568,76561198994678628,"its a very good game, although very outdated.. easily the best flight simulator for shit pcs.",0.725455105304718,24,True
+314160,128358736,76561198056492042,"Why am i reviewing this in 2022? yes i own the new MSFS, and X-Plane 11 and 12, but this runs so much better with maxed out settings, without taxing my computer fans, like the other sims do, i get 50 to 60 FPS, even where i have detailed scenery, its very stable over the boxed version of FSX, an having thousands of dollars invested in payware, me and this sim, has lots more miles to go, recommended.",0.6724309921264648,14,True
+314160,44343109,76561198350459000,"As a former SR-71 pilot, and a professional keynote speaker, the question I'm most often asked is ""How fast would that SR-71 fly?"" I can be assured of hearing that question several times at any event I attend. It's an interesting question, given the aircraft's proclivity for speed, but there really isn't one number to give, as the jet would always give you a little more speed if you wanted it to. It was common to see 35 miles a minute. Because we flew a programmed Mach number on most missions, and never wanted to harm the plane in any way, we never let it run out to any limits of temperature or speed. Thus, each SR-71 pilot had his own individual “high” speed that he saw at some point on some mission. I saw mine over Libya when Khadafy fired two missiles my way, and max power was in order. Let’s just say that the plane truly loved speed and effortlessly took us to Mach numbers we hadn’t previously seen. So it was with great surprise, when at the end of one of my presentations, someone asked, “what was the slowest you ever flew the Blackbird?” This was a first. After giving it some thought, I was reminded of a story that I had never shared before, and relayed the following. I was flying the SR-71 out of RAF Mildenhall, England , with my back-seater, Walt Watson; we were returning from a mission over Europe and the Iron Curtain when we received a radio transmission from home base. As we scooted across Denmark in three minutes, we learned that a small RAF base in the English countryside had requested an SR-71 fly-past. The air cadet commander there was a former Blackbird pilot, and thought it would be a motivating moment for the young lads to see the mighty SR-71 perform a low approach. No problem, we were happy to do it. After a quick aerial refueling over the North Sea , we proceeded to find the small airfield. Walter had a myriad of sophisticated navigation equipment in the back seat, and began to vector me toward the field. Descending to subsonic speeds, we found ourselves over a densely wooded area in a slight haze. Like most former WWII British airfields, the one we were looking for had a small tower and little surrounding infrastructure. Walter told me we were close and that I should be able to see the field, but I saw nothing. Nothing but trees as far as I could see in the haze. We got a little lower, and I pulled the throttles back from 325 knots we were at. With the gear up, anything under 275 was just uncomfortable. Walt said we were practically over the field—yet; there was nothing in my windscreen. I banked the jet and started a gentle circling maneuver in hopes of picking up anything that looked like a field. Meanwhile, below, the cadet commander had taken the cadets up on the catwalk of the tower in order to get a prime view of the fly-past. It was a quiet, still day with no wind and partial gray overcast. Walter continued to give me indications that the field should be below us but in the overcast and haze, I couldn't see it.. The longer we continued to peer out the window and circle, the slower we got. With our power back, the awaiting cadets heard nothing. I must have had good instructors in my flying career, as something told me I better cross-check the gauges. As I noticed the airspeed indicator slide below 160 knots, my heart stopped and my adrenalin-filled left hand pushed two throttles full forward. At this point we weren't really flying, but were falling in a slight bank. Just at the moment that both afterburners lit with a thunderous roar of flame (and what a joyous feeling that was) the aircraft fell into full view of the shocked observers on the tower. Shattering the still quiet of that morning, they now had 107 feet of fire-breathing titanium in their face as the plane leveled and accelerated, in full burner, on the tower side of the infield, closer than expected, maintaining what could only be described as some sort of ultimate knife-edge pass. Quickly reaching the field boundary, we proceeded back to Mildenhall without incident. We didn't say a word for those next 14 minutes. After landing, our commander greeted us, and we were both certain he was reaching for our wings. Instead, he heartily shook our hands and said the commander had told him it was the greatest SR-71 fly-past he had ever seen, especially how we had surprised them with such a precise maneuver that could only be described as breathtaking. He said that some of the cadet’s hats were blown off and the sight of the plan form of the plane in full afterburner dropping right in front of them was unbelievable. Walt and I both understood the concept of “breathtaking” very well that morning, and sheepishly replied that they were just excited to see our low approach. As we retired to the equipment room to change from space suits to flight suits, we just sat there-we hadn't spoken a word since “the pass.” Finally, Walter looked at me and said, “One hundred fifty-six knots. What did you see?” Trying to find my voice, I stammered, “One hundred fifty-two.” We sat in silence for a moment. Then Walt said, “Don’t ever do that to me again!” And I never did. A year later, Walter and I were having lunch in the Mildenhall Officer’s club, and overheard an officer talking to some cadets about an SR-71 fly-past that he had seen one day. Of course, by now the story included kids falling off the tower and screaming as the heat of the jet singed their eyebrows. Noticing our HABU patches, as we stood there with lunch trays in our hands, he asked us to verify to the cadets that such a thing had occurred. Walt just shook his head and said, “It was probably just a routine low approach; they're pretty impressive in that plane.” Impressive indeed. Little did I realize after relaying this experience to my audience that day that it would become one of the most popular and most requested stories. It’s ironic that people are interested in how slow the world’s fastest jet can fly. Regardless of your speed, however, it’s always a good idea to keep that cross-check up…and keep your Mach up, too.
+
+There were a lot of things we couldn’t do in an SR-71, but we were the fastest guys on the block and loved reminding our fellow aviators of this fact. People often asked us if, because of this fact, it was fun to fly the jet. Fun would not be the first word I would use to describe flying this plane. Intense, maybe. Even cerebral. But there was one day in our Sled experience when we would have to say that it was pure fun to be the fastest guys out there, at least for a moment. It occurred when Walt and I were flying our final training sortie. We needed 100 hours in the jet to complete our training and attain Mission Ready status. Somewhere over Colorado we had passed the century mark. We had made the turn in Arizona and the jet was performing flawlessly. My gauges were wired in the front seat and we were starting to feel pretty good about ourselves, not only because we would soon be flying real missions but because we had gained a great deal of confidence in the plane in the past ten months. Ripping across the barren deserts 80,000 feet below us, I could already see the coast of California from the Arizona border. I was, finally, after many humbling months of simulators and study, ahead of the jet. I was beginning to feel a bit sorry for Walter in the back seat. There he was, with no really good view of the incredible sights before us, tasked with monitoring four different radios. This was good practice for him for when we began flying real missions, when a priority transmission from headquarters could be vital. It had been difficult, too, for me to relinquish control of the radios, as during my entire flying career I had controlled my own transmissions. But it was part of the division of duties in this plane and I had adjusted to it. I still insisted on talking on the radio while we were on the ground.
+
+Regardless, this game has been very fun to play.",0.7215948700904846,97,True
+314160,14320384,76561197993930568,"The FS SDK has been surgically removed from this release quite deliberately and secretly and Dovetail games are misleading people into thinking it's there.
+
+From the stickied post in forum : ""Existing FSX Owners, check here first ""
+
+[quote]
+What changes have you made in FSX: Steam Edition from the Microsoft-supplied boxed version of FSX? 
+This is a re-release of FSX Gold Edition so you should not expect dramatic differences. However, we have updated it to include all standard Steam functionality, we’ve removed CD checking and combined the components of Gold Edition into a single installation. The major change we've made is in replacing the now-defunct GameSpy multiplayer systems with Steam features, enabling multiplayer to work seamlessly once again. Our aim in this first instance has been to ensure that the software will run for as many people as possible rather than radically improving or updating it.[/quote]
+
+Gold Edition has the SDK.",0.7199334502220154,196,False
+314160,40772774,76561198276625998,"For a 12 years old simulation its truly a masterpiece, I would highly recommend this for all simmers and simulation lovers! I've tried X-plane 11 it was good, Had better graphics but I think FSX has better controls and ATC! The game itself has not so much to say but with some freeware and payware mods and sceneries it would be way better than other simulations! I like the whole realastic world sceneries and airports! I used to play this from about 8 years ago I feel so comfortable flying with it and its perfect! Its one of the best games in history that never will be forgotten!",0.7198026180267334,29,True
+314160,64464436,76561198351183337,"I've followed the evolution of Microsoft FS since we used to fly little green wire-frame 172s toward a little green rectangle. That was state of the art at the beginning. Now that I'm retired and can't afford to fly for real anymore, FSX-Steam is the core of my life! I love it! It puts the dream in my hands and feet.",0.7167381644248962,23,True
+314160,14642287,76561198005299723,"Where to start.  Well, the game itself is still pretty awesome even though its now nine years old.  I was never able to afford the VFR scenery add ons  when I played the game   originally.  I always wanted to buy the ones covering the UK to get  the better ground imagery, but   they used to cost around £100  for the UK set, so was really pleased to see  them released on Steam  today, and at what seemed a really good deal compared to their original price.  If you buy the pack, you basically get one of the   scenery packs free.   
+
+Unfortunately  I'm very disappointed.  I always though we got   satellite quality  imagery with these VFR scenery add-ons, but what I saw from my local airport (Woodford Aerodrome UK)  - my house is  directly in the flight path of the  runway.  Until last year before the   runway was closed we used to have our trees trimmed at the bottom of our garden  by the airport authority because they were  tall enought to cause problems with landing aircraft.  I know the surrounding country side like the back of my hand, but couldn't make out any land marks in game, nor from the nearby Manchester Airport.  Everything looks the same, with   cloned  houses and trees dotted liberally everywhere and the  grassland areas looking like desert.  I have all the graphic settings maxed out, but   apart from the  aircraft cockpits, everything else looks really dated.  Okay, it's nine years old, but  I  really thought the scenery would be better.  I don't think the  game is  worth £19.99,  and I think the total cost of  dlc so far (with some of it  on sale at between 25 to 50%) standing at over £100 for a nine year old game is    really way too much.  I wish Steam would support Microsoft Flight instead, which had amazing scenery, sadly  that doesn't work   any longer due to the GFWL connection.
+
+Personally I've got mixed feelings about  recommending this game.  If you love flight sims it's still a big thumbs up, but I'd definitely wait  till all of the dlc is 50% off or more.  If flight sims are not  your thing, I'd  leave this game alone, it'll  just  confound you.  
+
+I wish I could  give a thumbs up or down seperately for the  main game  and the dlc.  The game would still get a thumbs up, but the add-ons wouldn't.  There's a lot of free  custom stuff for this game, but I don't know yet whether it'll work   with Steam?
+
+Even though i've said  I think the game is now over priced, i'm still going to give it  a thumbs up, but with reservations.  I'll update when I find out if the free stuff  will work with the Steam version.",0.7665101289749146,46,True
+314160,30272939,76561198098967711,"""Don't sink"" ""Pull up"" ""Terrain terrain"" ""50, 40, 30, 20, 10, [b]RETARD RETARD[/b]""
+
+Still less annoying than my mum lecturing me.",0.7662428617477417,62,True
+314160,101494022,76561199192931158,This game is a bit plane at the start but then it takes off and is very fun.,0.7160843014717102,23,True
+314160,23551036,76561198082770234,"- Picked an airport
+- Got into a 747
+- Did an awful takeoff destroying a dash 8 in the process
+- Flew half a mile over the sea before crashing into a nearby village
+- Got home and played Flight Simulator X
+
+10/10 would play again.",0.7133862972259521,233,True
+314160,71516372,76561199010460234,"The moment I joined, I got executed by a Hot air balloon doing 486 knots.",0.8633134365081787,78,True
+314160,213769581,76561198827013869,Yes.. this game is very old but it means it is also very cheap and it is also very easy to run on any modern computer. I wasn't sure if flying sims are for me so this is a great way to try it out. I`m loving this. I don't care about the graphics I care about getting a true sense of what feels like to fly a plane and this game is achieving that.,0.6620048880577087,12,True
+314160,72042221,76561197996276165,"though i have only 72 hourss on steam record, i have had fs since it first came out, iv got over 2k hours on the game and can say all were brilliant hours spent.",0.7614172101020813,27,True
+314160,203636876,76561198966530255,"I will soon try navigating using latitude and longitude. I used that navigation to fly about 2 hours in a P-38. At the end of the trip, I was off target by about ten miles. This was using a WWII era compass, including the curvature of the Earth, time of year, etc.",0.71014004945755,16,True
+314160,193030955,76561199527153140,"this is a good game with good physics, also its good for people with a low-end pc like me",0.6567442417144775,13,True
+314160,204974823,76561198308845729,For keyboard and mouse players this is the best flight simulator game out there.,0.6559394598007202,9,True
+314160,22506413,76561197998242701,"Still the better civil aviation simulator due to its extensive support with a vast selection of 3rd party addons. This means that although the base package is very dated, it can be easily improved with better scenery and aircraft for a more up-to-date and fun flying experience.
+
+[h1]Performance and Playability[/h1]
+The base game works fine out of the box with Windows 10 and because it’s from 2006 it should run on the average computer without difficulty. However I found DX10 to be mostly broken on various graphics cards, its hit or miss whether it will work for you – if it doesn’t, DX9 mode will play fine. This is simply because the DX10 that came with the game was only a preview build rather than a full DX10 support.
+
+Another thing to note is that when you start installing lots of addons, the game does suffer from performance issues relating to the fact it’s a 32-bit. While there are no-shortage of community config file edit suggestions, the only thing that will really help is a really high end computer here (notably cpu etc.). To avoid issues, simply be wary about what you install as some scenery addons can be terribly un-optimized.
+
+[i]NOTE: This Steam Edition is essentially the 'Gold Edition' of the game, which contains the base FSX and the Acceleration Add-on in one install. It also uses Steam multiplayer instead of Game-spy. I have however found this version does not contain all the SDK files which were found in the Deluxe edition of the game, but most of this can sourced with a few google searches. None of this really matters unless you are going to be developing content for the game or trying to install a really outdated add-on that doesn't work around the newer service packs.[/i]
+
+[h1]Aircraft[/h1]
+The game comes with more than a dozen aircraft, ranging from airliners like the [b]Boeing 737[/b], bush planes like the [b]Piper J-3 Cub[/b], General aviation planes like the [b]Cessna 172 Skyhawk[/b], classic warbirds like the [b]P-51D Mustang[/b], and even some helicopters thrown in the mix such as the [b]Robinson R-22 Beta II[/b]. All these come with detailed cockpits and various paint scheme options.
+http://steamcommunity.com/sharedfiles/filedetails/?id=679814115
+While this is indeed a reasonable selection of planes included for new pilots to the game, it has to be said that experience does improve considerably when getting 3rd party aircraft as these are not only better looking, but can feature more accurate flight models.
+
+[h1]Multiplayer[/h1]
+Multiplayer works out of the box via Steam, is pretty easy to join and works well. However the game does not come with a dedicated server, but there are 3rd party hosting applications (Such as [url=http://www.chocolatesoftware.com/fshost/]FSHost[/url]) that will fill this gap.
+
+Exploring during a group flight with friends is something I really enjoy, and one of the things that keeps me playing FSX. 
+
+[h1]Free Flight[/h1]
+In Free Flight you can choose to spawn at nearly any airport in the world with the aircraft, time, and weather conditions of your choice. From here you can file a flight-plan or just fly wherever you want. 
+http://steamcommunity.com/sharedfiles/filedetails/?id=679813932
+While the scenery included by default is global, it is strongly recommended you do replace it with either payware such as [url=https://www.fullterrain.com/]Orbx FTX[/url] or freeware such as [url=http://ninetwopro.com]FreeMeshX[/url] as it is very lacking and not very accurate by default. With modifications it can become really nice to look at and will improve your enjoyment of the game.
+
+[h1]Missions[/h1]
+There are dozens of included missions with the game, ranging from tutorials, to racing, to landing on an aircraft carrier! There is quite a varied selection here, with skill levels ranging from beginner to expert, and mission lengths of around 15 minutes, up to a few hours. 
+http://steamcommunity.com/sharedfiles/filedetails/?id=679813639
+No career mode is included, just individual missions, but plenty to keep you busy here.
+
+[h1]Conclusion[/h1]
+So if interested in civil aviation or aviation in general then FSX is well worth the purchase, but do so under the knowledge that your experience will improve considerably when done so with 3rd party addons, even if freeware.
+
+[b]Good[/b]
+Varied selection of included aircraft (good, however not as good as payware)
+Steam multiplayer
+Vast selection of payware and freeware mods
+Global Scenery
+Lots of available missions
+
+[b]Not so good[/b]
+Included aircraft flight models lacking (can buy payware aircraft that fly more realistic)
+Default scenery outdated (can be improved with freeware and payware)
+No included dedicated server
+Possible performance issues due to 32-Bit",0.705375075340271,19,True
+314160,55789470,76561198018179849,"On one hand as a game for its time it was good.  Now, in 2019, with about $5000 of addons on Steam, the game is limited to 32 bit address space.  4GB of RAM.  If I launch the FTX Trees HD addon and one of the Toposims, I guarantee myself a crash in 10 mins or less.
+
+I hope someone fills the void in the 64 bit Flight Sim market soon, it's a shame the developers don't rebuild this for 64 bit systems.
+
+It is with a heavy heart I give this game a thumbs down :(",0.704741358757019,160,False
+314160,45640340,76561198123487549,"Extreme nostalgia of when I was 5.
+
+
+
+
+
+But it's steam edition so don't expect great multiplayer.",0.7540897727012634,23,True
+314160,107292710,76561198086520487,"Really good sim although now dated.
+
+I wouldn't really reccommend it to a brand new buyer, because honestly this game can no longer hold up to its modern counterparts, but there are still things this sim does right, which are worth mentioning in case someone is looking for this kind of experience.
+
+Namely, the missions and virtual flight school. There hasn't been anything quite like it ever since, and that's a major plus of this sim.
+
+However, the graphics and flight models*, although respectable, don't really hold up to the modern flight sims available.
+
+Still a cornerstone of the genre, and for anyone interested in experiencing this kind of sim, or reliving a classic masterpiece, it is warmly recommended.
+
+* Payware for this simulator solves this issue, but to get professional grade flight models you need to be willing to pay accordingly. The only other people I would recommend this game to are people interested in payware planes available for this sim only, but those people don't need this review to know what to do.
+
+EDIT: I only just got the steam version for compatibility reasons (it was ported to win8), but I've owned the disc version + acceleration since release and have hundreds of hours on log.",0.6539697051048279,13,True
+314160,63080222,76561198053183157,$5266.25 for all of the dlc's... absolutely unacceptable even for a classic like this one. if you like the basic FS exp then yes its worth it. if you want more than a few planes and slightly better graphics then i hope your wallet is very deep.,0.7037846446037292,365,False
+314160,14320388,76561198151823169,"Owned FS98, FS9 and now FSX:SE (did not own the original boxed FSX).
+I have no problem with the game.  Runs OK.  However,  I would like to update my local airport as it has has had a runway extension and new terminals in the last few years .  As it is a smallish local airport it is unlikely to be updated by anyone else so I would like to do it myself.  However, Dovetail Games REFUSE to release the full SDK, including the executables, even though they state that the Steam edition is exactly the same (albeit improved) as the original FSX Gold Edition which also included the Deluxe Edition and the Excelleration Expansion Pack.  This original boxed edition INCUDED the FULL SDK.  The DTG released Steam edition does not.  For their dishonest selling a product that is not as described, I give them a thumbs down.",0.7036887407302856,225,False
+314160,82899730,76561198855841110,"This sim is a marvel even 14 years after it's release. It is quite simply the most versatile and most variable game on steam. This is primarily down to the sheer amount of mods that have been caked on this simulator over 14 years. Do you want accurate weather that models the real world? Sure, you can have it. Do you want AI planes with real airline liveries and real flight routes? Sure. Microsoft made a masterpiece back in 2006. The reason I still play is the amount of planes you can get thanks to the dedicated modding community. I have not spent a penny on this game, and yet I have found any plane I want to fly. Everything from ancient tin cans barely held together to the most advanced modern airliners ever made can be found for this game. The 8 dollars I spent on this game will remain the best 8 dollars I have ever spent. For me, it is the perfect flight simulator - you can make it as serious as you want or as casual as you want.  This game will never die. It is far too special. It may not be the most realistic nowadays, but it is the most accessible, and once you play it, you can be entertained for years. This game has reached a generation of flyers- it can be played on your Grandmother's craptop or a simulator worth 10's of thousands of dollars. I am eternally grateful to this game in a way I have never been before to any other piece of software. In short, get this game it is amazing.",0.6516937017440796,11,True
+314160,104354582,76561198263750837,"2,002.6 hours and would never fault the world for this simulator.
+
+Great game for starters, Good Communities",0.750433087348938,29,True
+314160,15004756,76561198081874921,"Hi I'm Ken Gardner and I've been flying my computer since FS95, in other words I've been around the block a while. I started playing FSX-SE on my desktop just after it was introduced and found it worked pretty good not like the highly modified FSX stand-a-lone I have. The main problem was no FSUIPC for my addons, Pete Dowson fixed that and now 90% of my addons work. Dovetail did the rest with their updates. Now I Fly both versions FSX stand-a-lone on the desktop and FSX-SE on my laptop. Anybody can see what I'm flying anytime I'm online it's usally an aircraft I've modified to fly as realistic as I think it should. It looks like Dovetail has taken FSX to another level.  I for one am very happy and pass along my recomendation for others to get with it and enjoy flying in the skys of simulation.",0.6979886889457703,20,True
+314160,159635731,76561198255877426,"One of the best flight sims, hands down. I've been playing this off and on for years, and I still occasionally boot it up whenever I feel like flying. 
+
+If you had a potato PC like I did back in the day, that's fine, because it can run on just about anything. Best part is once you've upgraded your rig, the sky's the limit when it comes to modding (no pun intended.) I've found dozens of free planes from back in the day that looked just as good as the vanilla ones if not better. Not to mention the scenery mods, which can do anything from give smaller airports some more detail to completely updating the entire sim's graphics to the point it gives FS2020 a run for it's money.
+
+Speaking of money, don't worry about the DLC. Yes, its a lot, but trust me when I say you can find a good number of mod planes and scenery which can be a great substitute. In all my years of playing, I've never purchased one DLC, and I haven't felt like I've been missing out on much.
+
+If you like planes, flying, or anything of the sort, buy this sim. I can guarantee you'll spend double the amount of time that I have as of writing this, if not more!",0.6475088000297546,9,True
+314160,82862305,76561199047054226,it is a great game in 2020.  even if you dont have fight simulator 2020,0.6972461938858032,18,True
+314160,84499546,76561198275240249,"This is a good simulator for those who are starting in flight simulation. Out of the box experience is pretty basic, but you could customise with DLCs.",0.6470588445663452,9,True
+314160,24750626,76561198194827423,"-Get the game from steam sale  
+-Looks like a nice casual game 
+-Gets into 737 and takes off from JFK
+-Gets gear up and retracts flaps 
+- Starts Autopilot 
+-Everything is great
+1 Hour later
+-Heads toward YYZ
+-Gets cleared from tower to land
+- Extends flaps and gear is down everything looks good
+- Disables Autopilot 
+- Forgets about auto-Throttle 
+- Plane can't decend much 
+- I start panicking and and pulls up
+- Plane goes inverted
+- Plane crashes into highway
+
+BEST GAME EVER 10/10 WOULD RECOMMEND 
+
+",0.6970101594924927,41,True
+314160,13548214,76561198010631827,"Yes. Yes. Yes.
+
+I have owned FS9 and FSX:Gold and have flown hundreds of hours with my dad, and I have to say... They really fixed it! This simulator used to run terrible even on my current i5-3570k OC + GTX 970 build, even on Medium-High settings with no anti-aliasing. They really have fixed it as now I can get a solid 60+ FPS (on a 144hz monitor >.>) on Ultra with Dense Autogen scenery and Anti-aliasing.
+
+Well aside from the geek part of it, it is still really fun to play. It takes I'd say, 2 hours of training before you can pretty much fly the stock planes like a pro (given that you continue flying at least once every 2 days), which really isn't that much time at all.
+
+Still is a great game to play, really happy that most of the add-ons still work, and wow, [b]multiplayer[/b]. Though the voice is a little choppy, still much better than GameStool. ^_^ 
+
+Looking forward to future updates!",0.6950303912162781,32,True
+314160,43109285,76561198240844352,"---{Graphics}---
+() FAB AF
+() Beautiful
+() Good
+() Will do
+(x) It's okay
+() Bad
+() Don't puke all over the place bro
+
+---{Price}---
+() Buy now!!
+() Worth the price
+(x) Consider buying it
+() Wait for sale
+() Don't buy it
+() It's better to waste your money on Spongebob DVD's
+
+---{Gameplay}---
+() Warning: Could get addicted.
+(x) Very good
+() Good
+() Nothing special
+() Bad
+() Boring af
+
+---{Audio}---
+() Awesome (Eargasm)
+() Very good
+() Good
+(x) It's okay
+() Bad
+() Don't do this to your ears.
+
+---{PC Requirements}---
+() Check if you're able to run your PC
+(x) Potato PC works too
+() Decent
+() Fast
+() Rich grill/boi
+() You'd have to be a millionare to run this sh*t bro
+
+---{Difficulity}---
+() Click. Click. ... EZ PZ LEM-
+() Easy
+() Have to remember some things but it's eZ
+(x) Hard to master
+() Not so easy
+() Difficult
+() Dark Souls '^'
+
+---{Story}---
+() EPIC
+() Awesome
+() Good
+() It's okay..
+() Not good
+() 1% Story. 99% Something else.
+(x) No Story
+
+---{Game Time}---
+() Over 9000+ (Endless)
+() 500+
+() 100+
+(x) Depends on you
+() 10-20 Hours
+() 4-6 Hours
+() 1-2 Hours..?
+
+---{Bugs}---
+() Nothing. 
+() Minor barely noticeable bugs
+(x) Only a few bugs
+() Some bugs.. 
+() Could get annoying af.
+() Game is getting ruined by it
+() Bugs? The whole game is a bug.
+
+It's a very simple yet enjoyable game.",0.7448879480361938,83,True
+314160,232114789,76561199197781031,"Eh, it's gold, but not very good with graphics right now..? It's literally from 2006. Still pretty fun, if you like some flying, but you have a bad PC. I have a gaming pc, i just can't afford the newer MSFS's.",0.6448713541030884,16,True
+314160,145233463,76561199517151199,Great flight simulator but I need the money for emergency so I refund,0.6941802501678467,47,True
+314160,174207772,76561199633551576,Runs very smoothly on my laptop (Latitude 7490) and would recommend to anyone who either cannot afford MSFS2020 or MSFS2024 or doesn't have the suitable hardware for the before mentioned.,0.6433915495872498,12,True
+314160,38701767,76561197970995656,"The current standard for introductory flight simulators.  If you are not sure if this hobby will be for you, then this is the place to start.  Minimal investment to begin and plenty of addons available (free and paid).",0.7398883700370789,28,True

@@ -1,0 +1,682 @@
+appid,recommendationid,author_id,review,weighted_vote_score,votes_up,voted_up
+202970,138880059,76561198041273397,"[h1] DO NOT BUY OR PLAY ONLINE, REPORT TO STEAM [/h1]
+
+[h1] EXPOSED TO VULNERABILITY CVE-2018-20817 [/h1]
+
+With XLabs being killed off by Activision, and Plutonium possibly next on the chopping block, there is no safe way to play this game or any other Classic CoD on PC anymore. Activision wants you to completely forget about their legacy and go play their newest game and buy tons of bundles.
+
+BO2 is exposed to CVE-2018-20817, a massive security risk that allows hackers to execute Remote Code Executions through Steam's Authentication Requests and upload malware just by playing online and matching with them ingame in both Multiplayer and Zombies, nearly exactly like it happens with Black Ops 3 and every other Classic CoD released from 2007 - 2018.
+
+Plutonium seems to have survived Activision's C&D onslaught, though I don't know how long it will be around for regardless. If you absolutely want to play Black Ops 2 safely, please go and download Plutonium before playing. If you already have it, keep the launcher up to date. If you're too lazy to use Plutonium, play on Xbox.
+
+If Activision won't consistently update these games, and won't let the community fix them, they need to be taken off the store. This and the rest of the Classic CoD Games are practically malware at this point with the lack of updates. Not even the newer games are safe anymore.
+
+More information on the CVE-2018-20817 RCE exploit can be found on the National Vulnerability Database's website. 
+
+[h1] [b] TLDR: Don't buy or play online without Plutonium, you risk being ratted and having your PC controlled or info stolen from RCEs just by matching with players.[/b] [/h1]",0.9840691089630127,2276,False
+202970,193527411,76561199002334906,Classic game but greedy Activision keeps it at full price a decade later,0.9766640663146973,667,False
+202970,234005897,76561198804597581,"reposting this. USE PLUTONIUM IF YOU WANT TO PLAY MP
+
+This game is affected by CVE-2018-20817, a publicly documented Remote Code Execution vulnerability rated 9.8/10 (CRITICAL) by NIST's National Vulnerability Database.
+
+The vulnerability can allow attackers to remotely execute arbitrary code on a player's computer. This is a serious security issue, not simply a cheating or multiplayer problem.
+
+Despite this, the game remains available for purchase on Steam without any disclosure of this vulnerability to customers.
+
+Valve should investigate the issue and either require the publisher to fix it, clearly disclose the security risk to customers, or remove the game from sale until the vulnerability is addressed.
+
+NVD:
+https://nvd.nist.gov/vuln/detail/CVE-2018-20817
+",0.969917893409729,464,False
+202970,141084993,76561198335932424,"Extremely vulnerable to hackers who can doxx you, harm/permanently kill your PC, and exploit your IP address just by being in an online match with you. If you look down, there's a lot of negative reviews trying to spread word about this, and with Activision taking down fan projects meant to protect players from these issues, they don't deserve anyone's money. 
+
+Please bump up any reviews that mention the game's security exploits (this isn't the only one either! All of the old CoD titles with online modes have this problem) - it'll make a world of difference for people's safety if they consider buying this. Stay safe out there.
+
+EDIT (July 30): Apparently the newer games in the series have similar unfixed security risks. I would not recommend buying any CoD title with this in mind, both because of the inherent danger online and because Activision should be held to a higher standard than to keep their games going like this.",0.9688187837600708,626,False
+202970,77790320,76561198206746868,"Awesome, bought it 3 times on three different platforms.
+
+Also, whoever decided this game should be 60 dollars almost a decade after launch should be fired.
+
+like,
+
+right now",0.9668624401092529,498,True
+202970,194510155,76561198307492421,"You can SAFELY play the campaign.
+
+While nothing is proven to be active and being used these are MASSIVE risks to take into account.
+
+If you're playing older Call of Duty games on Steam, you're vulnerable to severe security exploits that can compromise your system, steal personal data, and put your device at risk of malicious activities.
+
+This is not inherently because of Steam but because these games are ported over with no updated security to their online servers from console origins.
+
+Remote Code Execution (RCE) and Remote Access Trojan (RAT) exploits have been identified possible in:
+-Call of Duty: Modern Warfare 2
+-Call of Duty: Modern Warfare 3
+-Call of Duty: Ghosts
+-Call of Duty: Advanced Warfare
+-Call of Duty: Black Ops 1
+-Call of Duty: Black Ops 2
+
+Hackers can:
+-Gain access to your PC, even if you're not in a lobby
+-Execute arbitrary code, steal personal data, and compromise system security
+-Utilize your device for malicious activities, such as DDOS attacks, audio/video recording, and credential theft
+
+Activision has neglected to address these issues, leaving users exposed to potential harm. The store page descriptions are misleading, and purchasing these games can put your computer at risk.
+
+IMPORTANT DISCLAIMER: These security risks are not limited to the listed titles. People have reason to believe that even more recent Call of Duty titles, including Modern Warfare Remastered and potentially others, may also be affected by similar exploits and vulnerabilities.
+
+Recommendation?
+Do not play online if not willing to risk these possibilities.
+Protect your PC and personal data. Stay informed and cautious.",0.9667351245880127,591,False
+202970,157972477,76561199121793240,"its a great game n all but 60 dollars for a game that released in 2012 is just weird...           
+
+-get it on sale",0.9613544940948486,267,True
+202970,93780548,76561198851497964,"drop the fucking price down to at least $20, its 2021 its almost a decade old, great game just not worth $60 dollars anymore none of the games on steam actually are worth $60 as of right now fucking waw is still 40 I believe CHANGE THE FUCKING PRICE MY GOD
+",0.9609270691871643,744,False
+202970,77683921,76561198137638875,"this is actually a pretty good game, but im giving it a thumbs down for the price. the fact that this game is still $60 dollars after 8 years of it being out is insanity.",0.9579275250434875,329,False
+202970,232793713,76561199500002525,"As much as I like to play this game online, which most people would who buy this game. There's some details you need to know.
+
+- It's a dead game, or for the most part anyways, it will take you significant time to find matches, so I hope you are a patient person
+
+- The only real way to play online would be to install Plutonium, a dedicated servers for most of the popular Call of Duty games such as MW3, BO3, B02., etc.
+
+[b] Which brings me to my last point as to why you should install Plutonium or NOT buy the game [/b]
+
+[i] As of 2015-08-11, older Call of Duty games are missing a size check when reading authBlob data into a buffer, which allows one to execute code on the remote target machine known as RCE. RCE is severely dangerous as the attacker runs arbitrary code that is malicious to gain remote access to the victim's machine. [/i]
+
+[b] Where is my source? It is located on the National Institute of Standards and Technology under the 'National Vulnerability Database (NVD)' which owned and operated by the United States Government.
+
+https://nvd.nist.gov/vuln/detail/CVE-2018-20817",0.955865740776062,397,False
+202970,209309431,76561198118268990,"The fact that this game is still $60 on steam should be extortion. That said, this game is the best in the franchise, bar none. Just remaster this game and release it already.",0.9541674256324768,309,True
+202970,51241227,76561198036051115,"The multiplayer game is not safe to play anymore.
+
+It's a good game. The only problem is I just played a game where another user exploited a remote-code-execution vulnerability, and was able to open my default browser, notepad, and control panel in the background without interrupting the game. 
+Once I saw suspicious chats, I hit my Windows key to see those three programs open. He navigated my browser to facebook.com. Luckily, I do not have a Facebook.
+
+Do not buy if you intend to play multiplayer.",0.9502843618392944,729,False
+202970,87958417,76561198055426013,"This is actually a decent game, so why am I not recommending it?  The price tag.  Activision, $60 for a game released in 2012 is unacceptable.  I don't care what game it is.  This game has been out for almost a decade, and it needs a price drop.  I would probably charge $20 or less.  
+
+The sad part is, Activision won't listen to me.  The only thing they have and will ever care about is money.  I'd only recommend getting this game if the price drops, or if it goes on sale.
+
+Edit: It has been over a decade now, and the game is still $60.  Also, Activision has started shutting down community servers.  There is no low that they won't sink to!",0.9501663446426392,556,False
+202970,174994195,76561198397622209,"NOT WORTH THE $$$$ today, should be worth 10 or less, servers are dead and its crazy how greedy activision is.
+
+may be a lengendary game but its long past now",0.9474411010742188,304,True
+202970,228382865,76561198310854790,"Charging $105 if you want everything for a 14 year old game when the servers can legitimately bring harm to your pc is honestly such an Activision move. But good thing playstation gets new servers, and only them
+
+Edit: So they finally dropped the ps ports, and thats it. Its now $40 here to get BASE GAME, $30 for season pass, so $70 total to get a 14 year old game. Same with bo1, so now its $140 if you want both games full, oh and you still need a community made launcher unless you want all your PC stuff hacked, so thats cool too, thanks Activision",0.9393414258956909,446,False
+202970,200114156,76561199011888738,"60 dollars for a 13 year old game. The game itself is good, but the price is actually crazy to me.",0.938270628452301,565,False
+202970,225129568,76561198096023606,"As of the date of this review, there is a sale for every Call of Duty and Activision game, except this one... why? (Note: Black Ops 1 is also not on sale either, still 40$, and 60$ of dlc 15 years later.)
+
+And while I'm here, why the hell is this game still 60$ full price for the base game and 100$ for the game + all dlc over a decade later?",0.9344417452812195,179,False
+202970,201625671,76561198141832368,"Black Ops 2 = $100
+DLC = $160
+
+For a game released in 2012.
+
+Seriously what f*cking m*ron is making these decisions?",0.9327865839004517,390,False
+202970,215528297,76561198284487861,"We all know that CoD: BO2 was peak. But the fact that the game is in an abysmal state of purgatory where at best you play with hackers and at worst can have your computer compromised, and they are demanding full price for a game over a decade old is sin. No one should pay 60 dollars even with the DLC included.",0.9286985397338867,214,False
+202970,230264598,76561199058081253,"This game is unsafe to play due to RAT and RCE issues in multiplayer. Malicious actors can and will execute code on your PC via multiplayer exploits and server problems. 
+
+Do not purchase this game under any circumstances, not even on sale. it is completely unsafe.",0.9279373288154602,321,False
+202970,228695179,76561198087637237,"its a good game, but the fact that its still 60$ even 14 years after release? not to mention that if you play multiplayer you will get virus'",0.9268398880958557,522,False
+202970,226420188,76561198066303169,"Game is unplayable in Multiplayer. This is a borderline scam to sell this for 60 bucks. Hackers can even gain access to your PC and steal all your information if you join a lobby, no joke. It's unsafe and should be considered malware at this point. DO NOT BUY and DO NOT PLAY MP on any old CODs. I used to love COD and now you can't even play the older games without your PC being compromised.",0.9240167140960693,223,False
+202970,93026097,76561198434881761,"This game was my childhood and really is a great game but please just lower the prices, my god",0.9669139981269836,362,True
+202970,108548511,76561198115076472,"The price is criminal for this game considering it's age, but it is a really fun game that holds up well against other cods. I recommend waiting for a sale",0.9138106107711792,141,True
+202970,187729592,76561198815631951,"Fair warning **DO NOT** go on multiplayer without plutonium. vanilla bo2 has been taken over by hackers and they can mess up your pc. if you want to play bo2 multi or zombies get plutonium t6. otherwise, you have an exceedingly high chance of getting a virus on your pc. The game is still peak with plutonium tho. hope a remake or smth comes out soon, I miss bo2.
+
+Other than the rampant hackers on vanilla servers, the game still holds up and it is fun as BALLS. I haven't played search and destroy in years, and trying it again today has resulted in nothing but flagrant happiness.
+
+love you, black ops 2. i will never forget",0.9118459820747375,123,True
+202970,172272850,76561198102903991,"Activision is charging 60 dollars for a 10+ year old game that's completely infested with cheaters that can give you viruses/inject code into your pc. Activision are also sending cease and desists to community projects and members that try to fix these issues.
+
+[b]DO NOT SUPPORT THIS COMPANY.[/b]",0.9113130569458008,145,False
+202970,229489801,76561198097116203,"sometimes i drink too much, rip off all my clothes apart from my underwear, and just play the campaign until i fall asleep.",0.9603073000907898,601,True
+202970,128529723,76561198078105954,"I don't care how technically improved call of duty games have become, nothing will ever beat the 2009-2012 era of Call of Duty.
+
+Modern Warfare 2, Black ops 1, Modern warfare 3, black ops 2 were all absolutely perfect. I will never get to be a kid again playing hours on end with friends without a single worry, so thats probably part of the reason I can't enjoy the newer games as much. I don't have much to say really about the game itself, other than in its day this game was simply the best of its class. 
+
+But even putting aside my nostalgia, I genuinely think these games were and continue to be peak call of duty. The new modern warfare games have sooo much going on with the hulu style menus, constant live service drip feed pushing you to spend money, warzone integration with multiplayer progression, always online DRM. Enough of that!!
+
+Unfortunately crippling security vulnerabilites have left this game (and almost every legacy call of duty) multiplayer unplayable without the use of some 3rd party tools. Oh well, its not like there was enough of a playerbase on PC anyway. Even though CoD is very popular on PC nowadays, it wasnt always that way and this game never really shined like it did on consoles. 
+
+It's kind of funny how this is still $60 USD, because if I bought this for full price in 2022 I would probably have the worst feeling of depression playing it. The game might be the ""same' as it was 10 years ago, but its obviously not the same experience. Time has passed and people grow up, leaving this game and its store page looking like a time capsule.
+
+I could say the same thing about Modern Warfare 3, my second favorite call of duty game. I have so many memories I hold dearly of playing that games multiplayer almost 11 years ago, which would simply never happen today. How many people in the world remember hearing the creepy spirit voices easter eggs on the Sanctuary DLC multiplayer map? Man I wish I didn't take being a kid for granted
+
+I hate growing up",0.9097078442573547,178,True
+202970,114234018,76561198093064583,I love this game. The price is way too high for a game this old. I just don't get why it has to be like this.,0.9565625190734863,277,True
+202970,186445506,76561198981194493,"This game is still amazing. Although the game is a massive security risk. Hackers have breached the servers and can execute code on your computer. 
+
+If you're just playing the campaign boot the game whilst Steam is in offline mode. If you want to play Multiplayer and Zombies without cheaters, your best bet is to use the Plutonium client.
+
+Play this classic safely now!",0.9037579298019409,138,True
+202970,227596902,76561198136717461,"This game used to be such a fun time but now it's so dead and hackers are the only way to get into multiplayer lobbies, but of course, DON'T DO THAT! Also the thumbs down is for the price, why is Activision charging FULL PRICE for these old COD games? It makes no sense, especially since you can't play multiplayer and can barely get a game with people in zombies. This game deserves to be just $20 for what it offers NOW and not what it offered BACK THEN when we were much younger.",0.8921273350715637,199,False
+202970,217383343,76561199179622909,"never goes on sale so i have no friends to play zombies with
+
+make older cod games cheaper and not 60$",0.8862042427062988,216,False
+202970,140720485,76561198134294830,"Good game, one of the best in the series but I can not recommend.
+DO NOT BUY.
+While it is still possible to play zombies safely with the use of community patches you can not play public servers safely and activision are actively removing safe ways of playing the game.
+
+*DO NOT OPEN ANY COD PRIOR TO IW*
+They took away Xlabs, Sm2, and soon will take away Plutonium which are all the ONLY safe way to play these older CoDs.
+Opening any CoD prior to IW will result in a chance for people to gain access to your pc. 2 security breaches are known:
+CVE-2018-20817
+(SV_SteamAuthClient in various Activision Infinity Ward Call of Duty games before 2015-08-11 is missing a size check when reading authBlob data into a buffer, which allows one to execute code on the remote target machine when sending a steam authentication request. This affects Call of Duty: Modern Warfare 2, Call of Duty: Modern Warfare 3, Call of Duty: Ghosts, Call of Duty: Advanced Warfare, Call of Duty: Black Ops 1, and Call of Duty: Black Ops 2.)
+CVE-2018-10718
+(Stack-based buffer overflow in Activision Infinity Ward Call of Duty Modern Warfare 2 before 2018-04-26 allows remote attackers to execute arbitrary code via crafted packets)
+These are some things they can do even if you just boot up the game and get to the menu:
+Hidden Remote System Access
+System Information
+File Manager
+Hidden Desktop Usage
+Monitor on/off
+Hidden Browser Usage
+Open/close CD
+Hidden Chrome Usage
+Show/Hide taskbar
+Start Up Manager
+Hidden Firefox Usage
+Show/Hide Start Button
+Task Manager
+Hidden Edge Usage
+Show/Hide Explorer
+Remote Shell Usage
+Show/Hide Clock
+TCP Connection
+Show/Hide Tray
+Reverse Proxy
+Show/Hide Mouse
+Registry Editor
+Hidden Explorer
+Enable/Disable TaskMgr
+UAC Exploit
+Enable/Disable Regedit
+Disable WD
+Disable UAC
+Format All Drives
+DDOS attack
+Audio recording
+Webcam recording
+Device information
+Process hollowing
+Credential stealing
+Discord token stealing
+
+Report every older CoD as harmful and put those 2 CVE's under the description why.
+Write negative reviews to warn others not to spend any money on these CoDs (which are mostly overpriced for how old they are as it is)
+We need to take these CoDs from ""Positive"" or ""Mostly Positive"" to mixed or mostly negative
+ ",0.8851587176322937,144,False
+202970,174844187,76561198124027235,"get it if you're desperate for it, it's one of the best in the series imo
+
+however, at that price, you're getting slapped in the face and kicked in the groin. when i first saw the change, i legit thought steam was glitching and showing me the price of one of the premium editions, or the season pass or something.
+
+no excuse for raising the price on a 10+ year old game.",0.8835768103599548,86,False
+202970,213087129,76561198058134934,"If they were gonna remake Black Ops 2, this was the year to do it.
+
+But instead we're stuck with Black Ops 7...",0.9335536360740662,164,True
+202970,198127000,76561198080974580,"Really great zombies experience even in 2025. Genre-defining multiplayer. However, NAT type restrictions make playing with friends difficult. The listed price is massively ridiculous for a 13 year old game.
+
+Most importantly: the game is possibly not secure. There is a security vulnerability described below.
+
+Opening any CoD made prior to 2015 and connecting to the internet will result in a chance for people to gain access to your pc. 2 security breaches are known:
+CVE-2018-20817
+(SV_SteamAuthClient in various Activision Infinity Ward Call of Duty games before 2015-08-11 is missing a size check when reading authBlob data into a buffer, which allows one to execute code on the remote target machine when sending a steam authentication request. This affects Call of Duty: Modern Warfare 2, Call of Duty: Modern Warfare 3, Call of Duty: Ghosts, Call of Duty: Advanced Warfare, Call of Duty: Black Ops 1, and Call of Duty: Black Ops 2.)
+CVE-2018-10718
+(Stack-based buffer overflow in Activision Infinity Ward Call of Duty Modern Warfare 2 before 2018-04-26 allows remote attackers to execute arbitrary code via crafted packets)
+These are some things they can do even if you just boot up the game and get to the menu:
+Hidden Remote System Access
+System Information
+File Manager
+Hidden Desktop Usage
+Monitor on/off
+Hidden Browser Usage
+Open/close CD
+Hidden Chrome Usage
+Show/Hide taskbar
+Start Up Manager
+Hidden Firefox Usage
+Show/Hide Start Button
+Task Manager
+Hidden Edge Usage
+Show/Hide Explorer
+Remote Shell Usage
+Show/Hide Clock
+TCP Connection
+Show/Hide Tray
+Reverse Proxy
+Show/Hide Mouse
+Registry Editor
+Hidden Explorer
+Enable/Disable TaskMgr
+UAC Exploit
+Enable/Disable Regedit
+Disable WD
+Disable UAC
+Format All Drives
+DDOS attack
+Audio recording
+Webcam recording
+Device information
+Process hollowing
+Credential stealing
+Discord token stealing
+
+I have reviewed every CoD I own that is older than 2015 with these vulnerabilities as harmful and put those 2 CVE's under the description why. This is to warn others about the issues, as I am not a networking or security expert and can't advise on how to mitigate the risk other than to not install the game at all.
+It's my slim hope that by leaving this review, the issue might be noticed by Activision/Treyarch and action may be taken.
+
+Update: note that a similar RCE exploit was found in Black Ops III and appears to have been fixed in a 2023 update. I have not found reliable information indicating a fix for this game, however.",0.9329457879066467,314,False
+202970,100828592,76561198988940568,"Dear Activision, plz reduce the price tag of this game to $19.99/-, otherwise no one will buy your new call of duty titles!!! -_-",0.9297298789024353,226,True
+202970,207286673,76561198200891521,"good game, dont buy at full price you moron, use plutonium",0.8771910071372986,97,True
+202970,209913273,76561199403465837,"My Bo2 Experience in a nutshell:
+
+1. Buy when it was on sale cause BO7 looked like dogshit
+2. played some campaign, and was really good
+3. tried multiplayer, didnt load
+4. many swears
+5. try zombies
+6. meet one of the chillest and nicest guys ever on Town
+7. made new friend
+
+9/10
+no regrets",0.8769501447677612,103,True
+202970,77987370,76561198353707342,"good game, but the price is too much for an old game.",0.924189567565918,158,True
+202970,134209194,76561198206803807,"The game is great and brings back loads of nostalgia, but the price is just a slap in the face to consumers.",0.9228980541229248,210,False
+202970,179621769,76561199208906051,"Black Ops 2 is the epitome of the golden era of Call of Duty; probably the best CoD ever made. Unfortunately, they are still charging full price ($60) for this game from 2012. The multiplayer is full of security vulnerabilities and hackers. Even though the game is great, the price is completely ridiculous and as such you should only get the game on a sale. If you want to play multiplayer I highly recommend using the Plutonium modded launcher which fixes the security issues and has an anticheat.",0.8727116584777832,114,False
+202970,171926270,76561199202111001,"Absolutely goated campaign, phenomenal multiplayer, and best Zombies mode ever created. This is what Call of Duty was meant to be. Honestly the best Call of Duty ever, it was ahead of its time. All the hours I spent on this game on my Xbox 360 were some of the best gaming moments of my life. Playing this with friends after school was amazing. No Call of Duty could be better than this was.",0.8711472153663635,85,True
+202970,154127845,76561198440921571,"Very good game, very good Campaign, very good Zombies. What else can I say?
+
+Also, please buy this game only when it goes on sale. This game has been out for almost 11 years, and it's baffling that it's still full price...",0.8699045181274414,76,True
+202970,122650226,76561199099441250,"I piss down the severed femoral artery that is activision's greed for still listing this game at 40 robux.
+Get a silly little torrent and play this with Plutonium instead of consuming your UN approved corn syrup and buying this you limp d!ck beta.",0.8695251941680908,100,True
+202970,71400679,76561198319905791,"Legendary game
+the campaign is cool 
+multiplayer is OG but it has a cheating problem
+and the zombies is still [b] GOLDEN [/b]
+but its not worth it for an 8 year old+ game, too expensive not worth the full price",0.9179937243461609,176,False
+202970,124656971,76561198823843672,"it was perfect... perfect.
+
+Everything, down to the last minute details.
+
+10/10",0.9163815975189209,186,True
+202970,230213751,76561199063251901,"Black ops 2 is a good game, but unfortunately, Activision decided to give the playstation players new fresh servers whilst us PC players have to deal with old and unprotected server. If you plan on playing multiplayer, i heavily advise against buying this as hackers can infect your device with malware and other shit easily.",0.8647377490997314,90,False
+202970,209769384,76561198084073261,"Officially this game came out when I was a child.
+
+I am now 25 years old, and the game is now officially in the past.
+
+
+Time marches on, enjoy your life to the fullest.
+
+
+Also good game.",0.8646516799926758,98,True
+202970,115237667,76561199087379898,"Campaign: Amazing
+
+Multiplayer: Awesome
+
+Zombies: Badass
+
+Cost: Burn your damn money. Only buy when it goes on sale for 20$
+
+PS: Pirate the DLC and use plutonium",0.9110801815986633,160,True
+202970,196164096,76561198068239891,"Its a good game but DO NOT BUY it is a 13 year old game which is not supported and will never receive and new piece of anything for the rest of time. The price has INCREASED, for a game this old and for what reason??? Nothing but pure greed. DO NOT BUY get it some other way, you'll be better off.",0.8595060110092163,273,False
+202970,76660918,76561198971661228,"damn, what this game need is just lowering the price, like wtf this game is 8 years old and it's still 60 dollars wtf",0.9580999612808228,896,False
+202970,83700319,76561198391995145,Great game but the price is too damn high for a game with a dead multiplayer,0.9069232940673828,164,False
+202970,201595065,76561199239975420,"game is goated, costs way too much though considering its 13 years old",0.8562570810317993,91,True
+202970,106649503,76561198033644547,"Campagin:Very Nice
+Multiplayer:Dead and full of Hackers
+Zombie:Nice",0.9037012457847595,169,True
+202970,207441832,76561199006982485,"campaign good, zombie good, multiplayer good (once) thank god i bought it when it was sale bc no 1 finna buy this shit for 60 dollars",0.8500319719314575,124,False
+202970,114960470,76561198871017982,this is good but not worth 60 dollars and zombies and multiplayer servers are fucked,0.8994368314743042,127,True
+202970,230258583,76561198732700187,For $40 bucks you  could give us crossplay with console lmao,0.899164617061615,296,True
+202970,89405498,76561198067258937,"Let’s be honest, this was probably the last and best COD game. I mean, the newer games all seem to have something good about it to counter out the rest, but everything in this game is good. Please, wait for a sale, and play it if you haven’t.",0.8480421900749207,77,True
+202970,108578076,76561198954296540,"This game made up so many of my childhood memories, the only problem I have with it is the pricing. A 10 year old game should absolutely not be $60 still when you can purchase a physical version of this game on consoles for less than $8.",0.8464739322662354,77,True
+202970,119299619,76561198378956844,its very good but sadly does not feature American President John F. Kennedy unlike its JFK featuring predecessor.  do not recommend for JFK fans.,0.8904969692230225,155,True
+202970,144664887,76561198804631199,"still the best call of duty campaign
+
+spent 3 hours doing an easter egg just to run into an invisible wall and die, still better than vanguard zombies.
+
+11/10",0.8392679691314697,69,True
+202970,126655771,76561198332973038,Who's brain dead ass put this game as the same price as infinite warfare. Fix ur dumbass pricing activision. Recommended because good game :),0.8870251774787903,153,True
+202970,185746480,76561198907116416,"Overpriced DLC and base game, overall still kicks ass like it did back then. I'd only recommend it whenever (and if) it goes on sale.",0.8326912522315979,59,True
+202970,183123698,76561199187178547,"---{ Graphics }---
+☐ You forget what reality is
+☐ Beautiful
+☑ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{ Gameplay }---
+☑ Very good
+☐ Good
+☐ It's just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ Audio }---
+☐ Eargasm
+☑ Very good
+☐ Good
+☐ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{ Audience }---
+☐ Kids
+☑ Teens
+☑ Adults
+☐ Grandma
+
+---{ PC Requirements }---
+☐ Check if you can run paint
+☑ Potato
+☑ Decent
+☐ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{ Game Size }---
+☐ Floppy Disk
+☐ Old Fashioned
+☑ Workable
+☐ Big
+☐ Will eat 10% of your 1TB hard drive
+☐ You will want an entire hard drive to hold it
+☐ You will need to invest in a black hole to hold all the data
+
+---{ Difficulty }---
+☐ Just press 'W'
+☐ Easy
+☐ Easy to learn / Hard to master
+☑ Significant brain usage
+☐ Difficult
+☐ Dark Souls
+
+---{ Grind }---
+☐ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☑ Isn't necessary to progress
+☐ Average grind level
+☐ Too much grind
+☐ You'll need a second life for grinding
+
+---{ Story }---
+☐ No Story
+☐ Some lore
+☐ Average
+☐ Good
+☑ Lovely
+☐ It'll replace your life
+
+---{ Game Time }---
+☐ Long enough for a cup of coffee
+☐ Short
+☑ Average
+☑ Long
+☐ To infinity and beyond
+
+---{ Price }---
+☐ It's free!
+☐ Worth the price
+☑ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{ Bugs }---
+☐ Never heard of
+☑ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{ ? / 10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☐ 7
+☑ 8
+☐ 9
+☐ 10",0.8312332630157471,115,True
+202970,222966009,76561199759174503,"Revolutionary game for its age, still only recommend buying on sale",0.8312094807624817,44,True
+202970,193630098,76561198314541500,"the last truly great cod, they have fixed the cheating issue in multiplayer so you can now go back and enjoy it. the only thing i would say is actvision need to make the dlc either free or significantly reduce the price as this game is nearly 13 years old.",0.8297562599182129,55,True
+202970,177103722,76561198085110264,"$60 for the base game
+$110 including the season pass
+
+I bought all of this years ago but in 2024 the price is way too much for such an old game
+
+Other than that, it's Black Ops 2, of course it's good.",0.8297183513641357,69,False
+202970,86433281,76561198952068971,"I played this game for hours on 360, this game was incredible and the last cod to actually innovate. I bought it on sale, cause id rather drag my teeth across concrete than pay full price. but when I started playing, I became bored almost instantly. I love this game with all my heart, but there's something about it that makes me incredibly tired of it. and I cant place the emotion. I guess most things are meant to be left in your memories, left in you mind to gather dust and remind you of the good times. Maybe its the low player numbers or the abundance of modders, but the game doesn't click the same way it did 8 years ago. The feeling of getting on and joining multiplayer is all gone. it makes me sad, this was the last good call of duty, you cannot change my mind. I wish i could play this game again in its prime, but a part of me knows that this game will never be as good as it was so long ago. this franchise has dried up, there is no more original content in the series.",0.8290383219718933,225,False
+202970,74651167,76561198131494562,"Bought it specifically for zombies. Probably my favorite zombies experience but that's probably bc this was the first cod I had bought with my own money at 12 years old back in 2013. I miss the good old days of playing MP not giving a shit about life, not needing to worry about what I'm doing with my life, why I live, why anything happens. God Zombies still brings me back.",0.8788078427314758,84,True
+202970,236203516,76561198413763070,"I'm not recommending this game due to its quality but I am simply not recommending it to others based off of the fact that the nimrods over at Activision refuse to update the security of the game, since about a month ago as of the making of this review post I had to resecure my steam account due to some loser managing to gain access to my private account info via this game, simply play the version of this game on either last gen or the current gen consoles as I highly doubt that the morons over at Activision will ever get around to releasing an update for this game to fix its security issue.",0.8241190910339355,62,False
+202970,121402482,76561199077243009,if you get this game download the plutonium mod so you can actually play the multiplayer,0.8729908466339111,110,True
+202970,72750230,76561198301556181,"If you can get this on sale, do it, get it, it is the best CoD game, but full price for an 8 year old game is really stupid.",0.9178334474563599,194,True
+202970,213820811,76561199880324613,"I've played mostly only zombies on this game, it was running well at first. I had 90 hours of playtime on zombies and one day as I was going to play again, the game crashed and said ""Unhandled Exception Caught"". I tried every way but it just doesn't work.",0.8153136372566223,118,False
+202970,229329399,76561199030925235,"First off, this is an amazing Pc Port, which runs very well on modern Hardware unlike bo1
+
+2nd: don't buy the game normally wait for the sale
+
+3rd: avoid playing in public matches, because you will get hacked
+       only play with people you know,
+       only play public matches with external software installed",0.8144793510437012,56,True
+202970,175143878,76561198205337095,I love this game so much but please do not buy it. This game has a terrible remote code exploit that let exploiters install trojans or other malware onto your computer through the game. The developers have known this for years and refuse to fix it. Please report it to be taken down to prevent people from unknowingly install malware.,0.8069146871566772,35,False
+202970,119413526,76561198116442923,"Childhood game, very replayable unlike my own childhood.",0.8557183146476746,79,True
+202970,173251566,76561198424046748,"IMMEDIATE WARNING:
+Critical Security Risks in Older Call of Duty Titles
+- STOP PLAYING NOW.
+YOUR PC IS AT RISK.
+If you're playing older Call of Duty games on Steam, you're vulnerable to severe security exploits that can compromise your system, steal personal data, and put your device at risk of malicious activities.
+
+Remote Code Execution (RCE) and Remote Access Trojan (RAT) exploits have been identified in:
+-Call of Duty: Modern Warfare 2
+-Call of Duty: Modern Warfare 3
+-Call of Duty: Ghosts
+-Call of Duty: Advanced Warfare
+-Call of Duty: Black Ops 1
+-Call of Duty: Black Ops 2
+
+Hackers can:
+-Gain access to your PC, even if you're not in a lobby
+-Execute arbitrary code, steal personal data, and compromise system security
+-Utilize your device for malicious activities, such as DDOS attacks, audio/video recording, and credential theft
+
+Activision has neglected to address these issues, leaving users exposed to potential harm. The store page descriptions are misleading, and purchasing these games can put your computer at risk.
+
+Recommendations:
+1. IMMEDIATELY STOP PLAYING these games online.
+2. REFRAIN FROM PURCHASING older Call of Duty titles on Steam.
+3. REPORT THESE GAMES AS HARMFUL and write reviews to warn others.
+4. DEMAND ACTION FROM ACTIVISION to address these critical security issues and provide safe gaming experiences.
+
+Protect your PC and personal data. Stay informed and cautious.",0.8040191531181335,35,False
+202970,221566037,76561199029190699,"As much I like this game and many of the older cods, I do not recommend buying them for several reasons.
+
+The Campaign for this game has a bug in the second chapter of the first mission where you Cannot pass because the enemy will always see you despite not being in sight. So you have to be Insanely lucky or use a 100%ed save. I also would not be surprised if there were more hardlocks throughout the rest of the campaign.
+
+The Multiplayer/Zombies modes are NOT SAFE to play on the vanilla client because of RCEs. PLEASE use clients like Plutonium to play safely. Also when doing so, you don't have to deal with other people possibly messing with your profile, and WAY less likely to deal with an annoying hacker in a match.
+
+The prices of these games are also a joke. They Should Not cost 60 USD for their default price, and even when they are on sale for 20 USD, that is still too much IMO. Only buy the games during sales if you REALLY Want them.
+
+EDIT: This is for the campaign part of my review and basically im a huge dumb fuck and when going behind the log with woods you have to touch it instead of breathing down its neck... So uh sorryyyyy.... ('''' •᷄ ᴗ •᷅ )",0.8014715909957886,55,False
+202970,74949440,76561199025535114,"Its a good game and all but why is it 60$. If your gonna get it wait for a sale.
+Oh yeah and also it doesnt come with dlc's so good luck with that :)",0.8979897499084473,116,True
+202970,143273896,76561198344382256,"Great game dont know this game is full price in 2023 but i happen to  get it on sale just to play the story again on pc and just play the game on pc since the xbox 360 versions look like a fuzzy mess and capped at 720 30fps its just better to play these old cods on pc with uncapped fps and stuff and native res that being said i would just get the game on sale & READ THIS REVIEW BEFORE BUYING!:
+Yes, This game is playable and safe to play in 2023. However, do not play online without downloading plutonium first.
+Links to the download and the setup tutorial are below:
+
+Plutonium download link: https://plutonium.pw/docs/install/
+Plutonium Bo2 setup tutorial (After downloading): https://plutonium.pw/docs/install/#t6-black-ops-2",0.7972843647003174,39,True
+202970,156551920,76561198366665803,"Holy moly Activision, you greedy son of a gun. You did it, you raised the game prices by a huge margin.
+A game that is plagued by hackers. A round of applause for Activision being the most greedy and lazy gaming company.",0.8458653688430786,121,False
+202970,110270042,76561198318365088,"Amazing game, best in the series in my opinion. However, $60 for a 10 year old game? When it goes on sale, it's a must buy.",0.7934795022010803,42,True
+202970,147335617,76561198867958726,"[b]If you love single player cinematic story shooter game[/b]
+[quote][b]Rating: 9/10[/b][/quote]",0.7920342087745667,46,True
+202970,175915739,76561198164087241,"The last COD that achieve so much. The best COD ever made to be honest. Campaign, multiplayer and zombies is a prefect game that can't be replicated. The true experience of playing COD. Get this at a discount, not worth for $60 USD but worth the TIME!",0.79193514585495,45,True
+202970,223475409,76561198063902814,"Can't even play zombies without a connection to their servers, 60 bucks for this kinda shit in a 14 year old game is ridiculous.",0.7918661832809448,53,False
+202970,207386082,76561198079976555,"I paid $26.99 CAD for this on a steam sale a few years back. The fact they raised the price on this game is criminal considering how much of a security risk it is to play.
+
+DO NOT BUY!",0.8909056186676025,211,False
+202970,115355717,76561198186208637,still being sold at 60$ even though the servers are very unsafe and the game is nearly 10 years old just go use plutonium,0.8377588987350464,80,False
+202970,209169750,76561198259311804,The continuation of BO1 and let me say man it was so back this game when it dropped was major hype and I would say this is the BEST COD. It has the best MP the best Zombies and only second to the BO1 campaign the memories and vibes will never return from this game and may it R.I.P. but I honestly think its better this way so only us who played it can remember such a time shout out to my BO2 players you are the real ones.,0.7875652313232422,35,True
+202970,135250869,76561198178008729,the multiplayer proves that hitler wasnt the biggest racist,0.7875171303749084,76,True
+202970,194177814,76561199039316326,"this is a good game but buy it on sale and use plutonium for better security (even when playing solo)
+
+i'm a more solo zombies player so idk what else to say besides origins and motd is peak and tranzit is not that bad of a map 👍",0.7855323553085327,44,True
+202970,114204875,76561198280791409,"This is peak COD, I remember asking my dad for this and he's say no, now I'm an adult and I can play this game but all my friends moved on.
+
+9/10 fuck you Dad
+
+(I still love my parents)",0.8350750207901001,77,True
+202970,109880504,76561198828883876,"Game is fire and all, but the price is way to high for a game from 2012.",0.8345442414283752,64,True
+202970,233844527,76561198212246063,"Activision still won't patch the game and this game is not safe to play.
+Play the game with Plutonium it's super easy to setup please play the game safely so you don't get hacked. Activision should be sued for selling malware!",0.7843327522277832,50,False
+202970,226840938,76561199303671781,"unsafe on Steam MP
+do not play if you arent gonna use Plutonium or some other stuff
+UPDATE THE MP SERVERS ARE BACK UP
+I'd still recommend staying away from steam mp
+since they didnt patch anything
+i tried stuff myself
+it worked
+they didnt do anything
+also if you see someone named CidsHook in your lobby
+that lobby isnt an activision lobby
+its his own
+so just keep playing on plutonium or something
+bunch of exploits in this game
+the campaign is good but who buys CoD games for campaign??",0.782167911529541,134,False
+202970,112948565,76561198881256854,lower the price. this game is good but it still shouldn't be $60,0.9818012118339539,1185,True
+202970,107332961,76561199040374526,Yes because i made a little kid kill himself with a grenade in zombies,0.8817481398582458,105,True
+202970,230502515,76561198217766628,"14 year old game, worth $5-10 with all DLC included. ""Standard"" price still sits at $40
+
+Activision still charges for a deluxe edition.
+
+You can NOT play without the plutonium mod or you risk getting your PC bricked.
+
+Playstation gets a remake while we get nothing. F*ck em, do not buy unless 90% off.",0.7813237309455872,40,False
+202970,113115055,76561198114122972,"WAS RAUL MENENDEZ HERE TODAY?
+
+goat multiplayer but its dead.
+
+most iconic zombies. 
+
+story is step down from bo1 but is still good. 
+
+absolutely not worth full price $60 10 years after release.
+
+if on sale and your into nostalgia and one of the above mentioned then sure. recommend. 
+
+",0.7788273096084595,63,True
+202970,156029352,76561198337132245,"
+---{ Graphics }---
+☐ You forget what reality is
+☐ Beautiful
+☑ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{ Gameplay }---
+☐ Very good
+☑ Good
+☐ It's just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ Audio }---
+☑ Eargasm
+☐ Very good
+☐ Good
+☐ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{ Audience }---
+☐ Kids
+☑ Teens
+☑ Adults
+☐ Grandma
+
+---{ PC Requirements }---
+☐ Check if you can run paint
+☐ Potato
+☑ Decent
+☐ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{ Game Size }---
+☐ Floppy Disk
+☑ Old Fashioned
+☐ Workable
+☐ Big
+☐ Will eat 10% of your 1TB hard drive
+☐ You will want an entire hard drive to hold it
+☐ You will need to invest in a black hole to hold all the data
+
+---{ Difficulty }---
+☐ Just press 'W'
+☐ Easy
+☑ Easy to learn / Hard to master
+☐ Significant brain usage
+☐ Difficult
+☐ Dark Souls
+
+---{ Grind }---
+☐ Nothing to grind
+☑ Only if u care about leaderboards/ranks
+☐ Isn't necessary to progress
+☐ Average grind level
+☐ Too much grind
+☐ You'll need a second life for grinding
+
+---{ Story }---
+☐ No Story
+☐ Some lore
+☐ Average
+☐ Good
+☑ Lovely
+☐ It'll replace your life
+
+---{ Game Time }---
+☐ Long enough for a cup of coffee
+☐ Short
+☑ Average
+☐ Long
+☐ To infinity and beyond
+
+---{ Price }---
+☐ It's free!
+☐ Worth the price
+☑ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{ Bugs }---
+☐ Never heard of
+☐ Minor bugs
+☑ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{ ? / 10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☐ 7
+☐ 8
+☐ 9
+☑ 10
+
+P.S. It's bo2, of course its gonna be a 10.",0.776906430721283,59,True

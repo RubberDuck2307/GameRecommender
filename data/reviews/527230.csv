@@ -1,0 +1,1124 @@
+appid,recommendationid,author_id,review,weighted_vote_score,votes_up,voted_up
+527230,42895737,76561197989419567,"Great game! My wife and I are geographically separated and it’s one of the few games we can play together and enjoy. She’s not a gamer, so finding games she can play without getting frustrated is tough. She likes the game so much she even plays it when I’m not around, which is saying a lot since she pretty much NEVER plays games. 
+
+I’m really happy the developers finally made the Chaos level adjustable (Todays Update), something we’ve been wanting for awhile now. Thanks team for putting this together. I’m looking forward to more content and other games your company makes. 
+",0.8923859596252441,117,True
+527230,30716264,76561197991546378,"I managed to get some time in with FtK: some just after full release and over the past couple of months.
+
+The review pretty much stands with some additions.
+1) The addition of the different modes (dungeon mode) and expanded content is great
+2) The changes to the chaos system (instead of a hard timer, specific events are on a timer which can be mitigated or even removed by a player's actions.
+3) Some interface and quality of life tweaks improved the game flow considerably.
+
+However, the game still suffers from ""great mechanics cheaply implemented"".
+
+So for my final recommendation: tentative buy! There's a lot of good play, humour and variation and you'll get a good amount of play time out of it.
+
+Just be prepared for some cheap shots (not simply difficult situations): when you can semi-reliably predict the outcome of a roll (gee, if I miss this shot which I've pumped up to 99% chance to hit, the last monster with 1 hit point will crit against my hero with 30 hit points left with 32 damage. Yup! It dodged. Yup, my healer is dead. Called it!), just shut it down for a while, work off the rage quit and come back until it all happens again.
+
+*** Original Review***
+I had a hard time determining if I should give ""For the King"" a thumbs up or down.
+
+There are a lot of really good things to say about this game. It has a really unique and colourful art style, some great music and a very fresh take on an RPG as a rogue-like.
+
+The systems that drive the game present a great blend of what you would normally find in a table-top style board game with the computer taking care of all the under-the-covers mechanics that can make those board games tedious. The devs have done a good job at realizing that the challenge from a game like this comes from the player having to make tough choices. 
+
+Each ""act"" of each quest has a timer that, if it runs out, makes progress that much more difficult (the Chaos mechanic). Players must decide if they have enough time to go down into that cave to perhaps find loot and experience but risk elevating the danger inhibiting the ability to complete their main goals. 
+
+Random encounters give the players a chance to receive a boon or bane, often having to weigh the odds and consequences of failure against the often unknown benefits of taking such risks. 
+
+Resources such as cash, healing herbs, equipment, armor and weapons that match the ever more difficult monsters and encounters are rare and as the quest progresses, more expensive to buy in towns. And this is the first design point where I think  the developers don't trust their own systems enough. In the first act a healing herb (in limited supply to start with) costs about the same anmount of gold the player can get by winning one encounter. In the second act the cost increases not incrementally but by huge factor (about 5 times or so) and in futher acts this rises at the same exponential rate. So much so that buying even one healing herb is so prohibitive it isn't a consideration.
+
+While it does make sense that as the land becomes more perilous (and the monsters can drop more coin) such a steep ramp up actually removes a resource balance decision. There's no point in hoarding 10 gold to put to better armor or weapons later in the game when it won't even make a dent in buying a single healing herb. It also throws the suspension of disbelief when a single herb that restores action points is half the cost of an amazing weapon or set of armor. This extreme ""inflation"" seems to be implemented to fight in-game power creep instead of balancing out said creep. It also leads to a ""single strategy"" to buy up all the consumable resources you can early in the game and so makes the choice obvious (even required) rather than a decision to be made by the player. 
+
+The combat system is very innovative. Each character has a set of stats and each weapon uses one of those stats. When attacking or using an ability, from one to five or six ""coins"" are shown and the RNG determies the success or failure of each ""coin flip"" based on the associated stat. For some abilities to be successful, all of the ""coin flips"" must be successful so the higher of number of successes needed the less of chance the action is a success. Players can also spend ""focus"" to assure that one or more of the coins come up a success and the player needs to balance using focus for critical situations. And here again is  where I think the developers need more confidence in their own designs.
+
+While the odds of each success and the odds of completing all coin successfully are displayed, I don't think the odds shown to the player are entirely accurate. I tested this out using some old fashioned card-counting and an abacus, which doesn't produce exact mathematical results but certainly points out some possible weightings over time. It seems that if players face higher-level monsters and some weapons, negative modifiers are applied to the roll but not displayed. I think this may be where some of the cries of cheating are coming from. The RNG seems very good in non-combat situations (such as overland challenges and disarming traps) so the discrepency seems very odd for just combat. This may just be a bug/oversight but if it is an intentional design decision, especially in a game so dependent on randomness, it masks an implemetaion issue and is point of frustration at design rather than a challenge of a game.
+
+The secondary attacks/abilities use the exact same system, but always have a lower chance of success (which is actually displayed) and usually require more successes than a normal attack. For example a basic stike could have three rolls at 67% per roll (inflicting some damage per success) but a special attack has five rolls at 47% each and requires each roll to succeed.  It's a bit of a double-whammy intended to push the player to use Focus which provides a challenge, but it also seems that even if the attempt is successful the monsters have a good chance to avoid the effect. While the game does display what effects the monsters are right-out immune to, far too often using special abilities instead of basic attacks have too low a chance of success and a waste of time when a basic attack has a better chance of at least doing something of use. 
+
+The monsters follow the same system with a number of rolls and a number of potential successes. It seems though that even if the monster requires five successes to pull off a special attack, it does succeeds four out of five times. While the monsters should be better (and more dangerous) than the heroes, the incredibly high success rate of monsters especially when they need to make so many successes and do so easiliy, makes it seem like they are not subject to the same game rules as the player. It feels like, not so much cheating per se, but simply cheap.
+
+The developers have designed a good core mechanic but seem to go out of their way to work around it by configuring the system (incredibly high monster success thresholds, exteremely low success rates of secondary player abilities) to bypass their own design. It's almost a shame because it seems a re-evaluation of the power escalation as well as the configuation of the system (rather than the system itself which seems solid) would shift this perception significantly.
+
+Those mechanics, or rather the specific configurations of the mechanics, are to me what is holding back what is at its core a fantastic game.
+
+Overall I'd say that ""For the King"" has the potential to be the classic RPG rogue-lite in the same way FTL is for the space opera. With a better balance of - and trust in -  the mechanics the developers have implemented I would give this an enthusiastic thumbs up, but in it's current state that thumb is a very tentative. I'm still going to be playing and following the development of this game because of its potential for greatness.",0.9322339296340942,165,True
+527230,38481864,76561198064093761,"Fun even when you lose 8 hours of progress to a bug that immediately gets patched by the devs when you complain, thanks devs",0.8552258610725403,86,True
+527230,32777048,76561198047677743,"So I've noticed quite a few salty reviews on this game and this saddens me greatly. I've played multiple playthroughs and had terrible luck on some and amazing luck on a few as well.
+
+This game is not meant to be easy. It is meant to be a challenge. However while challenging it also does a very good job of feeling rewarding when you do get that item, land that crazy hit, or make the perfect save. A trade off for the rewarding feeling is that it will punish you greatly for mistakes and wrong turns.
+
+After several great runs and different strategies I can say there is no real 100% win strat. There is however a surefire way to lose if you take 3 chars with all the same damage type. Try using different groups and matchups and I promise you'll find some you love. 
+
+Overall you will find yourself angry, frustrated, Extremely happy, laughing, and most of all satisfied with this game if you enjoy a challenge. The game is still early acces but the Devs are superb and much more content is in the works. Steel your nerves and prepare for an adventure.
+
+
+TL:DR - Early access game but great support, challenging but rewarding, A load of fun with a few mates.",0.8970752358436584,231,True
+527230,43920980,76561198216746893,"I absolutely love this game.
+Steam randomly recommended it to me, and it is by far the best random game buy I have ever made.
+Pros:
+* Extremely high replayability, every board is unique, and even 10 games in you will find equipment you have never seen before
+* Highly strategic decision making. Everything from how to spend your time/movement, to what rewards to pursue, to what pressing threat you should be addressing, matters. And that is just moving around the board, each combat is it's own puzzle to solve.
+* Tons of unlocks keep subsequent playthroughs fresh, without watering down the difficulty. Fun cosmetic options too.
+* Multiplayer/co-op support
+
+Cons
+These are mostly nitpicks. Seriously, I love this game.
+* High variance spikes in RNG. The Focus Point system gives you a very strategic tool for limiting your exposure to bad rolls, but the catch is, FP is a very finite resource. And sometimes, you just get screwed. Part of the 'fun!' of challenging strategy games like this is learning how they work, and when you first start playing you don't know what you don't know. So when you get Ambushed and all your gold stolen, it feels unfair the first time it happens. However, from that point on you know that is thing that can happen, and it is on you to prepare for it.
+* Inconsistent shops. Anyone who has played Faster Than Light (which I also love) will probably know what I'm talking about, but one of the most frustrating things about that game (and this one) was the feast or famine with what items were *available to buy* from shops on any given run. Not whether or not you could afford what you wanted, whether or not the store had anything worth buying AT ALL. This game has that a bit too, and it can be pretty frustrating. I wish they would have made it so each biome had at least one guaranteed weapon and armor piece for each main attack stat between the two locations.
+* Games take a while to finish. The high replayability is nice, but it takes a few nights to finish a run. It would be cool if they  made a shorter game mode that tops out at level 5 and is completeable in a single sitting (like FTL).",0.8967986106872559,131,True
+527230,78632693,76561198316592301,"Don't let the play time above fool you. Between various accounts and system changes, I've put in well over 1,000 hours into this game.
+
+It may seem challenging at first but that challenge is exactly what hooked me originally. I found the game by watching a youtuber I've been following play it, since then I had become one of the original 5 Wiki-Founders and went out of my way to send as much praise as I could about the game toward others.
+
+For the King is a Rogue-lite game with a hardcore feel of mid-game D&D mixed with a Tabletop and a slight sprinkle of the older Final Fantasy games tossed on top. There's Loot, Monsters, More Loot, Unlockables, MORE Loot, Interesting Story and even MORE LOOT.
+
+Want a challenge you can enjoy with some friends and easily drop 10-15 hours on a SINGLE run? Maybe you wanna play solo and just get that rough dungeon delving feel you got from older games of it's kind. Either way, you're going to enjoy this.
+
+Don't let it's Low-Poly skin fool you, beneath is a roiling beast which hungers for nothing more than to make you suffer (in a good way).
+
+The Developers are actually incredibly kind and attentive as well. I ended up having a Hard Drive failure and lost all progress at one point, after putting in a ticket one of the Developers themselves directly assisted me in recovering my unlocks and lore progression.
+
+Seriously, I cannot recommend this game enough.",0.8455452919006348,86,True
+527230,42041508,76561197983881582,"tl;dr: the game doesn't feel finished yet.
+
+
+Great UI, some really inspired mechanics, lots of good ideas. I had never played a game like For the King (hex-cell overworld, turn-based combat), so I can't say which ideas are original and which were inspired by other games.
+
+
+BIG STUFF:
+
+I think the best moment in each game of For the King is the starting round. Nothing has gone wrong yet, there are plenty of things to do, and any direction you walk in is as likely to be profitable as any other. You might not notice how great the first round is until you've reached the late-game content at least once.
+
+Getting gear for the party is tricky. Sometimes the shops won't have anything, sometimes the monsters won't drop anything. That's typical for RPGs: not everything is guaranteed. You're not supposed to grind for equipment, though, because drop rates are too low and also you gain experience from doing that.
+
+Experience levels you up, which is the worst thing that can happen to you. At level 2 you'll start seeing mechanics your level-0-equipped party can't handle. Enemies that can't be hit unless you roll your attacks perfect. Enemies that put the Shocked debuff on you to prevent you from rolling perfectly unlesss you dodge their attack. Enemies who do both of those things at once, making it functionally impossible to hit them until you can dodge their attack and break the cycle. Enemies who take items or money from your cash-starved party, or who destroy the few bits of equipment you might find.
+
+Sometimes you'll be ambushed by a Leprechaun who will take all the money you've collected so far, then vanish and leave you totally broke--without you even getting a turn in the combat. Just two leprechaun turns, then the fight is over and you're poor. It's basically just a cutscene. You can avoid this by having certain passives unique to rare, low-level pieces of equipment that you might have found but will almost certainly need to sell to buy real gear very soon.
+
+Quests will direct you toward enemies who vastly outlevel you, but you don't have the luxury of gearing up first because of the many ticking clock mechanics.
+
+Chaos will accumulate and buff every monster on the map periodically (and functionally end the game, if you let it stack three times). Scourges (debilitating negative effects that last until you find and defeat a correlated boss in the overworld) also demand attention.
+
+So you have to stop the Chaos but you also need to be taking potentially globe-spanning detours to deactivate these Scourges. You also have a quest to be tending to. 
+
+The most egregious of these ticking clocks is the experience bar. Every time you level up, the whole game gets harder. Prices multiply far beyond the price range of even a well-off party. The two reliable sources of healing (Godsbeard herb and resting at an inn) will soon be individually more expensive than the totality of your characters' possessions. 
+
+You can make a small pile of cash from certain quests, but those will send you even further out of your way and will waste one of the limited opportunities to lower the Chaos level that you get--you have to choose between quests that award money and those that lower the Chaos. 
+
+
+COMBAT: 
+
+The combat system has a few problems with it that exacerbate the difficulty problem. I think the overabundance of Evasive enemies (the kind mentioned above who can only be hit by perfect rolls) makes combat difficult in a bad way. Why would we want to use a big axe that rolls five times per swing if a third of the monsters we fight will be completely untouchable? The single-roll knives seem to be the best weapons for much of the game, just because they can hit pixies, thieves, imps, leprechauns, birds, etc. 
+
+It's fun to customize characters, but you don't have much freedom to do so. You can't afford to make an invincible tank by routing all HP and Armor gear to your Blacksmith. After all, it's much more likely that the enemies will attack your unprotected Herbalist or Scholar. So you need to armor everyone pretty much equally, which means nobody can rise to be a paragon of their role. This makes people who like to make builds sad--I don't like having to discard Intelligence gear because my Scholar needs more Vitality and Armor.
+
+In an ideal world, only one character should need to be physically resilient: the tank. To have a tank at all, though, you need to have the ability to taunt, which you don't. There is a Taunt skill, but it requires a perfect roll to execute, which is usually around a 50% success rate. If it fails, you wasted a whole turn. Being an ability one would use in an emergency, you can never afford to risk skipping your turn, and so Taunt is not a relevant mechanic.
+
+In fact, MOST abilities are not relevant. There are many status effects and debuffs you can theoretically put on enemies, and sometimes they might give you an upper hand, but they're all attached to low-success-rate skills and require perfect rolls on top of that. I don't know why it can't just be one or the other, but the result is that it's just not worth using most abilities in the game. Standard attacks are almost always the only option, and I think a lot of variety is lost here.
+
+GETTING AROUND:
+
+There doesn't seem to be any good way to travel in For the King. Boats are just not realistic--they're too expensive even before the double (and then quadruple) in price once you level up. Teleportation scrolls rely on the Intelligence stat and are one-way unless you have two. Portal scrolls are rare and expensive. So, the way most parties will be getting around is by walking. 
+
+Walking is just awful. Your party has to stay together to fight together when you get into fights, so you have three pieces on the board who all need to move at approximately the same speed. They won't move at the same speed. Some classes are slow, and movement is governed by Speed rolls. Sometimes one character will move six tiles and the next will move only one. You're only as fast as your slowest character, so a lot of the time you'll be taking a single step and calling it a day. You can have your faster characters scout ahead (you pretty much have to) but they can't do any kind of combat when they're off on their own (unless you want them to die) so at the end of the day your party is only as fast as your blacksmith.
+
+So, when you reach the Poison Bog biome and see that each turn nets your slow old blacksmith three Speed rolls worth of movement (and he fails all but one every single round) you're going to get a little frustrated. Especially if you don't have something to prevent poison, which is debilitating and worsens your rolls even more.
+
+
+CONCLUSION:
+
+I can't recommend For the King because I have not seen evidence of a balanced end-game. The problems listed above seem to stop me short of the ""real"" game every time I set out, and I have come to believe that there is no such ""real"" part waiting for me.
+
+This review is too long.",0.8442225456237793,190,False
+527230,113491467,76561198401153113,"Very fun, but only when played with friends. Get some guys or gals together on a voice chat of your choice, and you're gonna have some great evenings.
+
+This game is a bit like DnD for lazy people. Mechanics are great, but there's pretty much no story. This isn't a problem if you play it together with people, and arguably even an advantage. Why? Because you don't have to keep track of a lot of stuff when you're playing. No confusion about what's going on, just gameplay.
+
+On the downside, this is definitely not a game you should play alone, because there's basically no story.",0.8318816423416138,59,True
+527230,84062755,76561198063108459,"Very fun to play, even if you have no friends to play with :(",0.8675144910812378,115,True
+527230,139250575,76561198058271834,"open game
+start a run
+get a good run going
+lose a run
+close the game
+think about the game
+ponder what you did wrong
+think about what you could do better
+open game",0.8085546493530273,63,True
+527230,126750052,76561198058765942,"Over 300 hours in-game. I've unlocked all the lore items. Completed all the campaigns on Master now.
+
+This is a fun game being held back by some glaring issues. Many people complain about the RNG with the rolls, but at the end of the day, that's just RNG. What truly cripples the fun in this game is the fact that everything is so heavily stacked against you. Even when you have everything unlocked.
+
+There are enemies you should just straight up ignore on your playthroughs because they can cause an end to your current run. Thats not ""challenging design"". There is no fun in having to completely avoid something implemented in the game because its just scaled so heavily against the player.
+
+This mainly stems from enemies almost always getting perfect rolls. While we start at around 70-80 in our main stat while eventually and hopefully scaling it up to 90-95 for late game, enemies seem to clearly have 95 in their main stat from the start. You genuinely pray and grit your teeth whenever the enemy goes. The only solid counterplays to avoid this is to shock them so they always fail 1 roll, or have high evasion so they just dont touch you, or the 3rd option, which is the meta, just outspeed them to the point they never go.
+
+That's right. One of the successful ways (in my opinion with the least amount of stress) to beat Master is praying you get the right items that allow you to just never let the enemy go while you kill them, because it is simply too risky to ever let them damage you. 
+
+Why don't enemies scale stat-wise with progression? Or at the least, don't have all the enemies main stats at 95 so they are perfect rolling in Apprentice and Journeyman. Save the unfair uphill scaling of their stats for Master.
+
+I genuinely think the game would be so much better if they just appropriately scaled the enemies instead of claiming ""you will die a lot, just keep trying"". Trust me, after 300 hours and everything unlocked, you are still dying a lot. It's just bad design. You can keep the ""seemingly"" skewed RNG rolls, it's just defeating when the enemy almost never fails their rolls unless you conterplay it, whilst they get to laugh as you miss 1 single roll out of your 3 and they dodge for two turns straight.
+
+Don't get me wrong, you can definitely enjoy this game. But it seriously feels like they just gave up on some mechanics and just artificially inflated enemy stats to compensate. 
+
+There is so much more - I think the biggest issue is there simply is too much RNG. To the weapons you get and the positions of your start and towns and what sanctums spawn and even what enemies show up when and where. There is very little that is ""constant"" in this game. While I love having randomness in every run so there is always something new, it just feels gross and unforgiving, like there is no incentive to truly explore because going in the wrong direction could mean chaos creeping in since you cant make it to the right place in the right time or a random event that skews more to just screwing you instead of helping you.
+
+This leads me to my second and probably biggest complaint. The multiplayer networking is atrocious. The first issue is they don't advertise any of the already in-game options for multiplayer, instead funneling everything to Discord, a 3rd party app, for multiplayer networking. This is fine and all, but believe it or not, Discord doesnt make up the majority of the playerbase. Most people want to just join in-game and use in-game chat; not having to worry about having to use a 2nd app just to communicate in-game.
+
+There should be an in-game friend list, an in-game block list, in-game voice chat along with the already existing text chat. Implement a matchmaking queue instead of having us make lobbies and name them ""JOIN"" so people do. And then you have the region-hoping issue. Since they split the servers via region, the majority of the playerbase is heavily fractured. I have played with plenty of people across the globe and there is almost never latency issues, so why separate the servers into regions? If there isn't going to be a latency issue anyway (especially since its a turn-based game where thats not really an issue), just merge all the servers into one so your playerbase doesnt have to leaf through the different regions to find open rooms.
+
+With all of this said, I still think its a fun game, just seriously being held back by some issues that in my opinion are just too much to overlook. I really hope their explanation of having a small team when they initially made For the King can excuse this, and that their continued work on For the King 2 with a larger team and larger budget will come to fruition.",0.8073059916496277,134,False
+527230,84808605,76561198001759925,"This game is really fun and charming. It's got a nice art style, and though it is not a comedy game, it has a nice humor about it. There are fun enemies to encounter. 
+
+I've been playing this entirely co-op with my friend. I think perhaps it could get tedious playing this alone when you have to control each character yourself, but for co-op it's really quite a lot of fun.
+
+There are several campaigns to go through, but if I had any complaint it's that I wish there was more. It's not that there is not enough, it's just that the game is so fun I want more of it. There is a good amount of replayability because you can unlock more stuff through each play through.
+
+It would be cool if they could figure out a campaign editor. It would be awesome if they had workshop support for user created stuff. Perhaps a pipe dream for a smaller game like this, but still.
+
+This game is so fun, I just want more of it.",0.8030665516853333,50,True
+527230,103348393,76561197972370664,"A lot of the negative reviews here talk about the RNG, which I didn't find to be much of an issue. If you take risks conservatively, are frugal with resources, are mindful of the game clock, the risk of RNG-wipe is comparable to similar games. 
+
+So that didn't bother me. Instead, I found the game dull and a bit tedious. For being an RPG, there's not much going on. There's no skills to upgrade, and the loot system is pretty constrained. (In the first biome, you can find boots +1, in the second biome, you can find boots +2, etc). For being a roguelike, runs don't vary much. Each restart feels pretty similar, except that now you're a bit more efficient. 
+
+This is compounded by it being a pretty slow-paced game. With little randomization in events, world-generation, items, or characters, there isn't really any sweetness to the grind. And it makes the game feels more like a puzzle-solving game than an RPG roguelike. 
+
+I did appreciate it's whimsically generic setting, puffy graphics, and oddly down-to-earth fantasy role playing. However, in 2021, I feel it really needs some mechanic diversification to make me excited about starting over to see what happens this time and thinking about how I'll adjust my strategy.",0.8029669523239136,198,False
+527230,47178790,76561198019816685,"This is a close call on the negative review but I had to thumbs down it because the game is just too hard and forces you to have very specific builds and items to ever finish.  It is a shame because the game cry's out to have the player explore and play at their own pace, but at anything other than the easist difficultly you have to literally rush to each quest to keep the choas level beat down.  
+
+Also, the game does the ridiculous thing where the price of healing herbs skyrockets.  It is 200 gold per heal by the time you get to 'act 3' and every batle will cause massive damage to your guys (as the enemy has an un-naturally good knack at getting 'perfect rolls'.  By act 3, i was getting around 120 gold per battle but needing 400 or so to get a single heal per toon done.  I literally could not finish game (at middle difficulty) as I always ran out of money, and fighting was a net loser economically as the lvl 9+ stuff hits for 1/3 to even 1/2 your health every strike.  
+
+Overall, the game could have been very fun if it allowed the player to have a lot of ways to keep chaos level at 0 by fighing and exploring on the main map without having to rush and without having to skip tons of content as fighting will quickly make you go broke as the cost and avaiability of healing herbs is totally bonkers.",0.7993278503417969,121,False
+527230,34030878,76561198283766006,"So after 4 Attempts I finally beat it with a Buddy, I truly enjoyed The Game, It has Great High Risk high Reward gameplay. We made it through with a hunter,blacksmith,busker. here are my pros and Cons
+
+Pros
+Fun short little story
+Challanging Gameplay
+Risk reward system
+Decent Classes to start
+Procedurely generated worlds
+Lore store to unlock more variation
+
+Cons
+Inflation in towns, It is Way to expensive, Drop it maybe 50 Gold
+Killing enemies who stole from you, Killing them sometimes doesnt reward the item back.
+Really not much wrong here.
+
+Suggestions
+Add Enemy types to the Lore store
+Add Biomes to the lore store
+Add skill Checks In towns? A thief Robs you at the inn.... Or Someone knocks on your door late at night at the inn.
+In multiplayer give people more to do while the others are using there turn.
+
+This is one of the best early access titles i have purchased please keep up the good work, Im looking forward to what is to come",0.8437563180923462,63,True
+527230,86037653,76561198105512061,"First, do not get this game if you are here for
+A. Story
+B. Relaxation
+
+Why?
+Because you WILL die, this game is a semi-permadeath, based on the difficulty you're on you have a number of 'lives' but those only apply if your party isn't all wiped out at once. If they are, or when you run out of lives it's game over and your work in that save is over. Save's deleted.
+
+Don't play for the story, it basically doesn't exist, it's more like just a simple reason on why you're doing what you're doing.
+
+Next,
+This game FORCES you to progress, on all campaigns except Gold Rush and Frost Adventure, there is either Chaos or Flood which prevents you from taking your time. There is only a finite number of ways to fight against the Chaos or Flood and these will run out, and when chaos reaches level 3; you're practically dead as you become overwhelmed from chaos enemies constantly fighting you.
+
+BUT, you can customize the frequency of chaos/flood to 25 rounds (1 round = 1 turn for every character)
+Game is playable for 2 characters but you will be at a disadvantage as most bosses have 3 enemies. All other fights will come at you in 2v2's though. 
+
+Last note, 
+this game has a lot of RNG. All your combat is based on rolls that are based on the stat of the weapon you use. If you have a strength weapon, it will roll based on how much strength you have / 100. If you have 76 strength you have 76% to roll good on each REGULAR check. Bit hard to describe I recommend looking the system up.
+
+Come for the challenge of cooperating with friends or by yourself to overcome the obstacles in front of you.
+Perhaps that friend that's acted smart for years is suddenly revealed to be a complete F*CKING IDIOT.
+Or perhaps you will have a group of intelligent friends who plan out their course carefully.
+FOR THE KING!
+",0.7875630855560303,60,True
+527230,32065818,76561198224763856,"I'll start off by saying that if I had paid what I did for the early access version in the state it was when I got it and that was the completed game, I would be completely happy with it.
+
+This is not an easy game. Even playing on the lowest difficulty I have not yet beaten the game. It's also pretty RNG dependent. The maps are procedurally generated, and there are times when you'll have easier or more difficult time due to the map, the enemies, and events that happen. That will turn some people off. But I think those two combined work. Yes, you'll replay the first few stages a lot, but even though the general sequence of events are the same, the run will be different every time. You'll get different maps, different enemies, and different gear. Plus different party compositions result in different sorts of games.
+
+When I first started, I generally couldn't get through the first act; now I routinely get to the third (though I have only beaten the third act once). So there is a feel that you are advancing in the game even if you are restarting the story. Some people have said that you have trouble fighting the enemies even at equal level; I've found that I can routinely take on enemies/dungeons a level higher than my party, although they'll cost a decent amount of health/resources (and in the case of dungeons, may result in a couple of characters dying--which in itself is not permanent, as you can revive them at the cost of increasing chaos/losing their sanctum). With decent gear and tactics, the fights are very manageable.
+
+There is a timer on each act, but you do have time to take fights and explore a bit. You don't do much exploration, but it's not an exploration game, the map's not set up for it. It's not a game over if you run out of time, either. It's a balance between taking time to level your characters and getting objectives done--don't just beeline each story objective, you'll be under-levelled. 
+
+Long story short, if you're looking for an adventure game that's focused on fighting and levelling rather than exploring, and that has high replayability, this is a good game. Don't expect it to be something it's not, and it's very fun. I would definitely recommend it.",0.8340440392494202,52,True
+527230,100826062,76561198066821391,"● IN SHORT:
+✅ Recommended
+🔲 Not recommended
+🔲 Worth the price
+✅ Wait for sale
+
+● STORY:
+🔲 No story at all
+🔲 It's only a side plot
+🔲 Bad/boring
+✅ Average
+🔲 Good
+🔲 Outstanding
+
+● GAMEPLAY:
+🔲 Boring
+🔲 Average
+✅ Good
+🔲 Excellent
+
+● GRIND:
+🔲 No grind at all
+🔲 Low to average grind level
+✅ A lot of grind
+🔲 Too much grind
+🔲 Grind is the very essence of this game
+🔲 Grind only for ranks/leaderboard/completinist
+
+● DIFFICULTY:
+🔲 Very easy / Casual gaming
+🔲 Easy
+✅ Moderate
+🔲 Difficult
+🔲 Dark Souls
+🔲 Easy to learn, hard to master
+✅ Has different difficult levels
+
+● GRAPHICS:
+🔲 Ugly
+🔲 Average
+✅ Good
+🔲 Beautiful
+🔲 Realistic
+🔲 Pixelart / Cell Shading / Comic
+
+● HARDWARE REQ.:
+✅ Needs toaster / calculator
+🔲 PC not older than 10 years
+🔲 PC not older than 5 years
+🔲 State of the art
+🔲 Hardware not available yet (for max. settings)
+
+● UPDATE POLICY:
+🔲 Abandoned
+🔲 Eventually
+🔲 A couple per year
+✅ On a regular basis
+🔲 Montly
+🔲 Weekly
+🔲 Community maintained
+
+● BUGS & CRASHES:
+🔲 None / Not discovered
+✅ Scarce
+🔲 Regular
+🔲 Frequently
+✅ Minor bugs
+🔲 Annoying bugs
+🔲 Crashes
+🔲 Gamebreaking bugs
+🔲 Complete f*ckup
+
+● DISCLAIMER:
+🔲 Game received for free
+🔲 Game in bundle
+🔲 Title refunded",0.832221508026123,297,True
+527230,87517846,76561198291638877,"  I have put 113 hours into this game, so it might come as a surprise that I give it a red thumbs down. If Steam went with an out of five stars rating I'd give it 2/5, but as the thumbs up/down system ask the simple ""would you recommend"" I'd have to answer truthfully ""no"". 
+
+The Good:
+
+  Underneath it all is a neat little game that plays like a table top board game with rogue like elements and a turn based combat system. You create a party with three characters and explore the land completing small dungeons, main dungeons, scourges, and random events. There's plenty to do and overall the game world hexagonal map portion is pretty good.
+
+The Bad:
+
+  For the most part nearly all the negative reviews on Steam focus on the RNG (random number generation) eliminating any player agency, skill, or tactics. However I partially disagree, it's not so much the RNG, instead it is a combination of the combat system and enemy design both of which combine to make for an unpleasant experience. 
+
+  In most Rogue likes or any game for that matter with RNG, the player can make decisions and utilize strategies to mitigate the RNG somewhat and create more favorable odds for themselves. However this isn't really the case in the combat in For The King as there are certain game design decisions which have nothing to do with RNG.
+
+  For example in combat the player's three characters are set up in, left, center, and right positions, as is the enemy. The vast majority of enemies in the game inflict ""splash damage"", which not only hits the targeted character but also causes some collateral damage to a character adjacent to them. Because of this your center rank character will be effected by nearly all attacks in the game since any splash attacks on your right and left character will also target your center rank, additionally nearly a third of all attacks are going to target your entire party since any attacks on the center will ""splash"" to both left and right simultaneously. Other than forcing the player to place his tank character as the center rank, there is very little a player can do about all the splash damage other than armor up your entire party as much as possible. There is a Taunt ability in the game but it's rarely advisable for your center tank to use it since the splash damage will then hit the entire party anyway.
+
+The Ugly:
+
+  In addition to the majority of enemies having splash damage, there is a large number of enemies who do party wide debuff attacks, (poison, curses, burn, bleed, etc), worst the enemies do not follow the same rules for their abilities as the players. For a player character's attack's special effect to trigger, the player most roll a ""perfect"" attack roll, that is all his rolls must be successful, this is not the case for a lot of the whole party effect attacks used by the enemy, as long as they score a hit perfect roll or not the negative effect will trigger. Player effect attacks and/or splash damage in addition to requiring a perfect roll to trigger, also have lower to hit odds, which must be boosted using the focus mechanic to have a reasonable chance of triggering, which is a drawback the enemies do not have. They do not need to roll a perfect to trigger an effect and in addition they roll perfect an unreasonable amount of the time anyway. 
+
+  As to the enemies near constant perfect rolls, most negative reviews blame this on the RNG, but I believe this is more do to the enemies stats. Whatever stat they use for their rolls is unknown or shown, but as player stats max out at 95 I have a theory that all enemy stats must be at 95. So the enemy AI's proclivity for prefect rolls isn't so much an issue of RNG, it's an issue of balance and poor game design.
+
+  This review is getting pretty lengthy so I'll begin to draw it to a close, as I could go on and on about poor game balance and decisions forever. The game [i]can[/i] be fun and if offered for free or on a significant Steam sale I would recommend giving a it a glance, and if the negatives sound tolerable to you then give it a shot.
+
+  Underneath the poor combat implementation and frustrating balance choices is a game that could be a solid thumbs up recommendation. There are ways to create challenge and interesting game play choices without simply handicapping the players, giving all the enemies ridiculous stats, abilities and advantages, furthermore there is a point in which it's no longer an ""advantage"" but simply just B.S. (Bologna Slices).   
+",0.7765917181968689,222,False
+527230,45468336,76561197961860435,"My wife and I love playing this game in couch co-op. The art style makes everything feel like low-res models, but it also means that everything is very clear and runs smoothly, which is extra important in co-op situations. The different play modes help break things up, and the unlockables keep you coming back for more.
+
+The only thing I wish they would add is a permanent stat boost system where instead of just unlocking new gear, appearence items, vendors/events, or character classes (which are all great) you could very slowly make your characters start with a +2 bonus to an attribute, or something along those lines.",0.8174324631690979,41,True
+527230,31430328,76561198096186910,"For The King is a turn-based RPG set in a procedurally crafted fantasy world map filled with active quests and discoveries to partake ― as citizens of Fahrul take up arms to defend their home world from an impending evil. If you enjoy a challenging game with turn-based combat, strategic exploration, controlled RNG, and vibrant low-poly visuals then For The King might just be the game you are looking for! Some recap as below:-
+
+PROS:
++Turn-based Tactical battles are engaging with percentage % chance to hit via attacks, triggering of skills, and status effects for your party and foes alike (High risk and reward in the form of higher percentage % chance to hit with less damage vs lower percentage % chance to hit with higher damage).
++Tons of Attributes and Proficiencies that dictates how your party members will perform (A Hunter with an Awareness attribute of 90 will be able to accurately land shots at an estimated 90% accuracy in battle and have a better chance at performing skill-checks on the world map like succesfully ambushing an enemy).
++Each Class (Blacksmith, Hunter, Scholar, Minstrel etc) is heavily reliant on certain attributes to function efficiently and plays differently with passive unique traits (The Minstrel uses Talent to increase her percentage % chance when strumming an instrument to attack in battle and has a chance to cast Encourage which turns a failed roll into a successful hit. On the World Map, the Minstrel has a chance to cast Inspire which provides EXP to nearby party members). From these classes, you are able to assign the role of Damage Dealer, Tanker, and Support as see fit.
++Each Weapon (and/or Shield) will come with differing stats and special abilities highly dependant on the weapon type (A Hammer requires a user with good Strength to wield it efficiently and grants you the ability to splash damage while a shield on the other hand will allow you to Taunt the enemy). It is also important to note that it is possible to create hybrid playstyles/builds as each Class does grant some form of attribute flexibility (A Minstrel who uses the Talent attribute also has a decent Intelligence attribute and can swap from equipping a Lute to a Mage Staff with decent efficiency while a Hunter who has high turn speed can be equipped with a shield to ensure he gets to Taunt before an enemy can attack).
++Tons of Status Mechanics that can influence a battle (Dazed, Bleed, Poison, Burning, Frozen, Shocked, Confused, Curse etc), with elemental effects not being a rock-paper-scissors approach but more towards the introduction of a variety of mechanics (Frozen makes a user take 25% more damage while Shocked makes a character fail a roll).
++Tons of Utility Mechanics that influences buffs and debuffs (Attack, Defense, Armor Penetration, Magic Resistance, Turn Speed, Evasion Chances etc).
++Equipped loot is visually displayed on your character (Weapon/Shield, Head Gear, Torso, Foot Wear).
++Low-Poly Visual aesthetic is gorgeous to look at and grows on you (Perfect blend of great artstyle & graphical content update feasibility).
++Procedural maps, quests, and events that creates a sense of refreshment with each playthrough. Exploring dungeons adds an added layer to the gameplay (Level-based dungeons in the form of room-to-room leaping).
++Tons of Mini-Events and Quest (Not-text heavy) that will pop up on the map, granting you a chance for reward or punishment (Dependant on percentage % chances).
++Enemies can be seen on the map and will appear via a pop-up animated avatar prior to battle.
++Day & Night cycles with weather effects (Rain) where different enemies will spawn depending on the time of day (Neat sense of progression and adventure).
++Able to traverse on land (Majority of gameplay with multiple biomes), Sea (To visit islands and not via underwater), and Air (Primarily for movement buff/conveniences with no specialized air biome).
++This game has heart. Little nifty features such as character faces turning to look at their enemies during battle to bones and origami-shaped blood trickling off enemies creates a nice touch to the overall feel of the game.
++Soundtrack is fitting with its folklore theme.
++Playable with friends via Online Multiplayer (Game Lobby) or local co-op (1 Mouse, 2 Gamepad on 1 Computer).
++Huge replay value in the form of a lore-store that gradually unlocks your progression (New Characters, Items, Mini Encounters, Locations) via lore points found during a playthrough, making replaying it fresh and rewarding (Does not unlock during mid-playthrough).
+
+NEUTRAL:
+*Game is very challenging with 3 difficulties to choose from (Apprentice, Journeyman, and Master).
+*A focus mechanic that acts as an energy bar that can be strategically used (limited) during battle or in events to secure an increased percentage % per 1 or more focus point used to increase the chances of landing hits or obtaining rewards.
+*Combat requires 3 party members to be close by in order for them to join the same battle.
+*Heavy RNG from percentage % chances that occurs in Battle and during World map events.
+*Main Missions will need to be tended to in time to prevent/reset a Chaos Meter that increases the difficulty of the world by making it more dangerous from frequent enemy ambushes and world map pathing is semi-blocked by tiles that generates negative status effects. (Chaos Meter can be countered by completing the mission on time or via specific Chaos-related mini-quest).
+*Game Over when all characters on-screen dies (If a party member dies, they are able to be resurrected with penalties from the Chaos meter-bar increasing and/or with reduced EXP).
+*Campaign consist of 3 Acts that increases in difficulty with each passing one (Similiar items are gradually more expensive over time).
+*The distribution of Character Attributes are majorly done from Equipment and contains events/items that permanently increases ones attributes (Mini-Encounters, Consumables etc).
+*Some equipments are breakable (A Glass Bow might have good damage and high chance to hit but will break upon missing an attack).
+*Some negative status effects (Curses etc) does not recover over time and requires using an item or visiting a healer/shrine to cure it.
+
+CONS:
+-Bound to be minor bugs here and there as it is still in Early Access.
+-Requires a more comprehensive tooltip information for a very stat/attribute heavy game (Character Bar during Battle requires indication of existing status effects garnered from equipment etc).
+-Only consist of a Single Player Campaign (3 Acts) at the moment with no sandbox mode (A Free Adventure Mode will be added).
+-Passing Items amongst the 3 different party members can be quite a chore at times (Requires cycling through the menu and party members must be within 1 hex distance).
+-Healing at the moment is heavily dependant upon an item (Godsbeard) and stacking said item is heavily reliant in surviving a playthrough (Other ways to heal include visiting a healer/town/ for a fee, approaching shrines on the world map, ending your turn with movement points left, or from limited camping).
+-Flow and movement of controlling your party members can lack progression at times, resulting in reduced efficiency as you prematurely wait/end your turn until all members are within close distance before engaging in a major battle (Or they will be lefted out of said battle).
+-Does not have a huge variety of Character customization at the moment on the Menu Screen (No Gender Choices per class but does contain gender similarity in roles amongst the different classes).
+-Does not have a huge variety of loot at the moment with slight repetition as a character looking for a certain weapon attribute are limited to a particular weapon type and thus has a higher chance to experience the same weapon as choices (Each individual weapon has fixed stats and is not randomised).
+
+Personally, I do find some of the Neutral a pro but has listed it down under its respective categories for greater user objectivity.",0.8134309649467468,48,True
+527230,88882401,76561198288625820,"The game is beautiful and i was enjoying a lot playing it. BUT. 
+  The way you play the game is like this: you go on any adventure and earn points you can use on the lore store, where you get new items, buffs or new characters available on the next runs.
+  For some reason the game has a bug that deletes your progress at the lore store. When it happened to me, i googled it and saw people having the same issue yet in 2018.
+  I reported the bug from the game and from their website, even joined the discord server, and got no answer, 0 help.
+  Never had such a problem with a game.
+
+  I am editing my review after finally getting an answer from them (more than a month later). 
+They told me the lore store bug is a known issue, but sadly very difficult to diagnose. So they gave me some free lore points to redeem in game.
+  I decided i'll give it a try again and see if the bug is just a rare thing and i was just unlucky, or if it obliterates my progress again i'll make a new edit and let you know.
+  I'd like to think i was just super unlucky, because the game is great. Let's see how it goes, and wish me luck!",0.758719265460968,197,False
+527230,51750060,76561197991657927,"Well this one is certainly a hidden gem. And one I wouldn't have normally discovered. Don't be put off by the strange graphic style (which is initially grating) as I almost was. Don't be put off by the fact that it LOOKS like a casual mobile game as I almost was. Instead be completely taken aback by how good it is, how it has more depth than a great many more expensive titles, how all its extra scenarios were given free rather than being used to milk more money as DLCs, and how it's great as a single player game and even more fun as a co-op title. A solid 90% with bags of replay value, For the King is a must buy for the majority of gamers.",0.8584431409835815,105,True
+527230,32726424,76561198039222800,"For the King is a Kickstarter RPG in a turn-based rock, paper, scissor rogue type game in which players will take the role of members three starting types, Hunter, WIzard and Warrior. It is a game that needs some work but has nice potential. You start in the cliche' manner,  King dies, Queen needs your help to stop the Chaos in a forced time limit Xcom type storyline.  You constantly are changing equipment, powers and skill your units to give you either move or neat attack skills.There is a nice flow to the game I have to say some good pros and cons
+PROS
+A: Graphics and Effects are clear, 2d old style nintendo polys  and nice character movement. 
+B: Like most RPGS, Your overwhelmed even in apprentice mode to constant occurances, enemies to keep you invested. 
+C: The game hinges on die rolls and a focus system that you soon learn you better use wisely and keep maxed.
+D: Game mechanics maybe be too simple for some, but a fun game to try of all ages. My kids enjoyed playing it. However there is a strong con to this. The game is brutal if your just into fighting. You have to constantly equip with little money and time. 
+E: Great potential to go outside its grounded game mechanic template.
+CONS
+A: This is Early Access with a release date is not sure. Many may just wait for the full version, but I caught it at a huge sale so not a bad game to add until it is released for 5-10 bucks. Always caution on Early Access why its a con. Things can change on a dime with developers.
+B: Takes a while to learn combinations and the game mechanics , but you pick it up quickly. What hurts it for me is the the color schemes on the map that tend not to be differential in color. Also the Poly animation makes the game fell unreal and too old fashion. This might have been much more potent with higher graphics and animation. 
+C: This game gets very hard very quick for novice players. You must keep upgrading, taking side quests because gold is an issue. By the time you reach your second cave expedition. You have thieves who take all your gold and run away which could anger players. You always feel naked in these battles. However, if you love dungeons, old style role playing mechanics. This may be for you. 
+D: I thnk there are some game mechanic issues that can be improved on and I am sure they will before launch. Three that come to mind for me. Lack of expanding your party, especially early. You can change the types but 3v3 can get old quick. 2. The spawning night and day time limit does not allow you to enjoy the adventure long term, so you feel rushed all the time instead if enjoying the game 3. I saw no reason to do multi player. There is no incentive to do so.
+
+OVERALL: I give this a margainal positive review. because of the massive effort to create something, anything. Is For the King a great game, no, but it has some fun qualities to it.  I am not sure were they wind up after completion, so my review is pending.
+I would do three things first, go to discussion, video and see a preview of the game. Get it on sale if you want to try the early access (another huge sale in June) and check the system requirements. Make sure before you get any Early access game you seee a final release date. This game has some rewards for support so see their kickstarter page. This is a game to follow if you love turn based rpg rogue games. 
+This game has great expansion potential, but must tone down the constant spawning of events and enemies. It needs to focus in its story mode to make the player care and be invested. This seems like many other RPGs where you follow a story, but could care less about the players.  A nice effort, but the game seems limited in its foundation. Hopefully that changes.
+OVERALL: 2.4 stars out of 5. Not a bad addition.",0.8035659790039062,58,True
+527230,188818032,76561198058917237,"The scaling makes the game feel frustrating, I frequently found myself getting past the start of a run and then it just becomes a slog. Enemies scale quicker than you, and gold inflation just makes you feel poorer and more punished as the game goes on. 
+
+Played a lot of rougelikes, with this I never felt excited to go back into a run thinking ""what could have I done better"", can't recommend.",0.7406951785087585,29,False
+527230,110596675,76561198157224148,After saving entire villages from monster you get rewarded with inflation,0.7903569936752319,40,True
+527230,45612247,76561198023470386,"A surprisingly fun and deep turn-based RPG. Me and a friend picked it up on a whim without really expecting much from it, not really intending to run over the two hour refund cut-off, but it sucked us in for four hours all the same, and we still figured we'd come back for another shot at it at some point after we lost and found out we'd need to start over. Coming from a pair of people who generally don't enjoy losing after that amount of time and effort invested, that's high praise. You might prefer to give it a pass if randomness as a core mechanic is a major sticking point for you, though I never personally found the RNG to be too intrusive.",0.7871459722518921,42,True
+527230,92543775,76561198086278065,"Great with friends, not as great alone. I'm glad there's an option for single-player and I am having a good bit of fun with it, but much like DnD this game feels built for co-op play. I'm very glad there's an online co-op option, but I've played this on a friend's account as his house for local couch co-op, and it's a much better experience. 
+
+The RNG is blatantly unfair. If this is something that will make you whine and pout, go play a different game. The stupid RNG is something that in my eyes adds to the fun of the co-op experience - nothing is more fun than laughing at your friends missing an 89% roll.
+
+Highly recommend for a group to play, partially recommend for solo play.",0.72708660364151,21,True
+527230,43152827,76561197997381526,"This game, for me, is a dream come true. I've always  liked board games...theoretically, but the truth is that I don't have the time nor enough interested friends to play them with. And I'm also spoiled, spoiled by 30 years of gaming. So even in the rare occasion I finally play an actual board game...I don't enjoy it as much as I would have liked. I miss the music, the special effects, the graphics and all the bells and whistles that a videogame can offer. Sure it's still fun, because you play it with someone else in the same room, but as I've said I've been spoiled by videogames. For these reasons I've always looked for a computer game that could be as fun and ""accessible"" as a board game, that could be played together with other people and that would be a good videogame on its own merits (no cheap graphics, sound etc.) There have been a lot of games trying to achieve this result and some have succeded (I can name a few that I liked, some of them I'm sure are very obscure: Dokapon Kingdom for Wii, Ports of Call on Amiga, Top Shop on Ps1, Battle Hunter on Ps1 (really liked this one), The Yawhg on PC) but most of them are at least 10 years old or minor productions. But now we have a new King: For The King is what I've always dreamed and even more. The developers put a lot of love into this one: lovely graphics, music and sound, a huge amount of things to do, events, quests, loot etc, a well calibrated gameplay (yes, it's hard and mildly unfair and it's exactly as I think it should to be), local co-op, hotseat and online multiplayer and the developers support and expand the game almost weekly. It's a great game, almost perfect for my taste. It would have been a masterpiece with a different UI though; it works well but it's too ""mouse-driven hardcore RPG"" oriented. Small buttons, small text, tiny icons etc. A modern ""gamepad based"" interface would have been better and more accessible, and even a bit more fancy to look at (for example the combat interface could have been a lot more ""exciting""). Nothing game breaking though. If you are into this kind of games go buy it immediately!",0.7694482803344727,29,True
+527230,155719890,76561197994857559,"I love love LOVE this game so much, it's super addicting. A genuine pleasure to play, especially in co-op. 
+
+BUT
+
+Please, devs, if you're reading this, can you address the increasingly widespread 'unable to proceed past the Understood screen' bug that literally prevents people from playing the game they paid money for? None of the fixes in that 2 year old guide work for people now, and a game of this calibre (that is still being sold...) deserves an up-to-date solution.
+
+I have the Mac version, and it used to work *perfectly*; smooth as butter, no issues at all. And now I literally can't even get to the main menu. I have tried every possible solution suggested by the darkest depths of Reddit, and never can I bypass that infuRIATING PURPLE BUTTON. So, in order actually play FTK, I have to use Crossover to simulate a Windows environment, rather than via the OS my copy was optimised for. :') 
+
+I understand that the devs are prioritising FTK 2 now, but this game is barely 6 years old and has a large and active playerbase. I just think discontinuing support for FTK is kinda lame IMO, especially as it is literally a game-breaking issue. It doesn't even look like the devs have visited the Technical Support forum since 2021....
+
+Please patch it, or suggest another workaround, because this game is like crack to me and I would like to play it the way it was intended to be played on a Mac. <3",0.7184780836105347,25,False
+527230,114953171,76561198128859899,"First and foremost For The King is a unique game, I can't really think of another game quite like it, it has achieved a good balance of several different genres of games that gives you a truly one of a kind experience.
+
+Now the game is difficult, I won't lie. At times that can be frustrating, especially if you've just spent the last 8 hours or so getting to a certain point before dying/losing. But the game does not take it self too seriously, it's full of silly gimmicks and small lines of dialogue that make you naturally want to take it less serious as well reducing the impact of losing. And more importantly it makes you think and re-strategize. It's fun to find new team builds that can ""cheese"" the game in order for you to win. 
+
+It is also much more enjoyable playing with other people. It's great to sit down with a couple of your close friends and just relax playing some FTK. But it still can be fun by yourself and shouldn't discourage you too much from buying it. As it's essentially the same, but your just playing 3 characters instead of one. Though gameplay can be a little awkward with just 2 players.
+
+All of the adventures available in game are fun (Except for gold rush or whatever it's called) and change it up just enough to where you won't get tired of the same formula of game-play. And the cosmetics in the game are just generally silly and cost no actual money. The lore store is a fairly interesting way to make playing you next adventure different, or give you something else to work towards. For example trying to find a specific item you bought on the lore store because you know it will be helpful in fighting a certain boss. Or maybe collecting enough lore points to unlock new encounters, or a specific cosmetic you want. The same can be extended to the DLC, which is worth every penny.
+
+That being said there are some downsides to this game. The first being how much time it takes and pacing. The game is slow paced, it takes hours to go through even a mildly successful run. Not to mention once you've lost, you've completely lost and have to start over. As I stated earlier, the game is hard. But there is a save system so you don't have to sit down for several hours at a time to play, you can split you game up into several 1-2 hour days. And, most of the time you will have gained lore from a failed run and can use it to help you in the next run, giving you a sense of progress.
+
+Another downside is that, at the end of the day, this game is based on luck. Just like any other video game based on RNG, sometimes you just lose. You can strategize all day, reduce the chance of something happening as much as you can, but the game usually prevents 100% guarantees. For example when you attack with a weapon it shows you your chance (%) of hitting a creature with it. And this percentage scales with a certain stat. Stats max out at 95 giving you at most a ~90-95% of hitting. Which is good, but not 100%. Now there are exceptions when it comes to using focus, but yet again focus is a limited resource that you  can only get back through in game money, or more random chance. With that all being said, the random chance in this game is actually fairly balanced and can give it a fun twist, especially when luck works out in your favor. But, if you are someone who seeks out skill based games to avoid RNG, then maybe this game isn't for you.
+
+TLDR:
+For The King is a great game that will entertain you for hours on end, especially if you have two friends to play with, and if you don't mind relying on a little bit of luck. It can be frustrating and slow at times, but it gives you a sense of progress and let's you discover new and fun ways to try and beat it each time.
+
+8.5/10",0.7104725241661072,18,True
+527230,71549388,76561198096425459,"After many playthroughs, I really wanted to like this game. This game has SO much potential, but it's wasted due to poor RNG implementation and questionable game mechanics.
+
+The good stuff:
+- Looks good, I like the art style
+- Easy to learn and play. Even better with friends
+- has many unique events in game, reminds me of DnD encounters
+- Many weapon types/skills. Could potentially create versatile classes/playstyles, if it wasn't for...
+
+The big problems:
+- Weapon attack mechanics. In FTK, the RNG makes inaccurate attacks near useless until near endgame when you have 90+ on the relevant stat. For example, heavy attacks generally requires more rolls and have an accuracy penalty on top of that. So while you might want to hit an enemy with that 50 damage attack, you're more likely to roll a 3 out of 5 and do less damage than a regular attack or worse: allow the enemy to dodge it. I almost never use a heavy attack unless I can use focus with it. This makes all the weapons with 4+ rolls unreliable early on and consistency is key to getting far in this game.
+
+- Most of your party buffs are not worth casting. There are plenty of weapons that have cool party-buffing abilities, but most of them require a perfect roll to pull off. Combined with the fact that some even have an accuracy penalty on top that means that 50-80% of the time you'll just ""whiff"" and basically SKIP YOUR TURN. That leads to some terrible game situations where you might have the perfect counter buff against an enemy's attack but you don't even cast it due to fear of missing. There only a few buffs worth casting, like the Greater Water tome's focus restore skill.
+
+- Over-reliance on focus. Focus is a key mechanic that's interesting in theory. Attacks, movement, event-rolls, traps, ambushing, sneaking can all be affected by focus. The problem is that whenever you run-out of focus, that character is essentially crippled. There are too many times where you NEED a roll to pass else your party might take massive damage or even die. Focus restoring options are rare for everyone except the Scholar and classes that aren't geared towards focus items will find that their 3 base focus will run out very quickly, causing many events to be failed.
+
+- Most mid-late game Enemies are just BS to fight against. Unlike you, enemies rarely miss their rolls due to how leveling works. Enemies also get much faster later on, to the point that even a Hunter with 93 speed will not be able to move first. This creates scenarios where an enemy might use a skill that effectively cripples your party before you even get to your turn. Things include: shock, resets, acid, curses, confuse, poison, attack up (for them), speed up...if the enemy attacks the right character it could very well lead to a wipe. Yes, some items could help you but unless you have the right item on the right character, that acid is gonna eat your 300g chestplate. This doesn't make the game harder, just more frustrating. You didn't lose because you misplayed, but because you were unlucky. 
+
+- Chaos/Scourge Timers. With chaos occurring every few turns, you don't really have time to ""explore"" the area or grind for exp/gold. This puts a limit on your already low starting gold, which usually has to go to godsbeards or party heal items if you want to make it far. Also the inflation in the game is just too high. Unless you're fighting every mob you encounter and getting every gold event (which is risky btw) you're gonna find minimal gold leftover after buying the necessary godsbeard and inn services. Splitting the party is not even an option because anyone not in a fight will lag behind on xp and will probably just die trying to fight solo. Also, you better not idle around to fight more mobs because if a scourge creeps up and it happens to be on the other side of the map, then you're gonna suffer it's effects until you get there.
+
+Conclusion:
+I played this game for too long and this review is too long. Honestly, there are good parts in this game, but some of the mechanics really stifle the potential playstyles and creative builds you could make in this game. Right now the best ""strategy"" is to group up, use low roll weapons and get party heal immediately every game. I think with some changes the game could be much better than it's current form, but as of right now I cannot recommend the game for the long-term.",0.7602893114089966,383,False
+527230,89611270,76561198323007106,"TLDR; This game is phenominal! I've never seen any game like this one, it blows all other turn-based games out of the water and it is worth full price.
+
+I want to start by saying FTK is an amazing game for online co-op, and it's what really drew me into first trying it with friends. Up to 3 players total per game. You can play solo and control 3 characters, or coop and each have your own character for yourself. Communication is HUGE while playing co-op. You have to discuss everywhere you want to go, what fights you want to take on, how you want to progress the quest, etc.
+
+For the King is NOT easy. Atleast not for your first few playthroughs until you start learning how everything works and learn from your mistakes, because you will make mistakes. However despite being difficult, the game is extremely FUN! The one downside to the game (that I am not against, but I've read other ppl hating on) is when you lose all your lives, the game is completely wiped and there are no 2nd chances to load and try again, and you start from scratch at level 0 again. I personally think it's a good mechanic because it FORCES you to improve your strategy so that you will be successful the next attempt. 
+
+Each game can last anywhere from 5-15 hours long (5 being if you're a pro and playing solo, 15 being learners in coop being slow, which is natural.) You can manual save the game when you need a break, and it auto-saves every round so you can always pick up from where you left off.
+
+You have to balance between 1) leveling up by fighting as much as you can and collecting gold/supplies so you can be prepared for the boss/quest fights, but at the same time 2) you cannot slack and take forever to progress the quest because chaos enters the land every x amount of rounds that make the game increasingly difficult (which are able to be removed by progressing the main questline, it is very manageable at lower difficulties, hard to keep up with on Master). 
+
+It is very unlikely you'll successfully beat a story on your first attempt, like I said the game is not easy, but it is extremely FUN. Everything in the game is RNG-based. BUT you can increase your RNG chance. All of your actions are based on rolls (like D&D). There are many different skills, and all the different characters (lots of characters to choose from) have different strengths and weaknesses so you have to make sure the right person on your team does certain actions for the best outcome. You can boost your skills to have higher success rates by gaining armor and items via fights and exploring the map. The game has a lot of variables that you will learn with time. 
+
+There are 7 different games/maps/stories (whatever you want to call em) that all take on average 10 hours to complete, even on the easiest difficulty. So even just one playthrough on each map gives you a minimum of 70 hours gameplay, for $20 usd at full price which is super good. I got the game on sale for $8, but I would happily pay full.
+
+The graphics are very, very good. Better than any other game I've seen in this genre. 
+Music is nice and chill but also tense in big fights.
+Gameplay is very enjoyable and runs smooth.
+Co-op relies HEAVILY on communication so you don't make any wrong choices!
+Buy price is on point, worth the money. If on sale, amazing. If not, still buy the game!!
+Playtime is extremely good. Atleast 70 hours only doing 1 playthru each map. Most likely more! I have 90 hours atm and haven't even beaten the Journeyman difficulty yet (1-up from easy).",0.7099371552467346,20,True
+527230,83954023,76561198024551638,Fantastic game. Play it weekly with my friends and we have done so for over a year.,0.7594522833824158,36,True
+527230,109358467,76561198231061860,its like playing dungeons and dragons without the hassle of playing dungeons and dragons,0.7594078779220581,29,True
+527230,65687192,76561198229743040,"Managed to beat it with a friend (using only 2 characters total)... on the fourth attempt... on normal difficulty. I personally love hardcore games, and this was a challenge for me and my buddy. Hours and hours wasted planning and strategizing on each and every move and in almost every single battle, just to get clapped and have the save auto-delete itself. TBH our decision to roll with only 2 characters vs. the 3 available definitely hindered us.
+But, on the 4th attempt, with over 50 hours in a game that only takes about 10 hrs to beat (at least regarding the For the King gamemode), we FINALLY managed to beat it, only to be welcomed with a -- well, what I would call an ""interesting"" ending -- no spoilers.
+This game is extremely addicting, especially in one sititng and when playing with a close friend.
+
+For newbies:
+- Try to get at least 2 other buddies to play with you (3 player coop, with a competitive gamemode)
+- Play on easiest difficulty first time just to get hang of game
+- Choose characters wisely (try to make them compliment each other)
+- Choose decisions wisely; mistakes can be HEAVILY punished (especially late game)
+- Price of items scale... like they scale a LOT
+- BUY GODSBEARD!
+
+Oh, and we managed to beat the For the King gamemode using a woodcutter and hunter class, both equipped with armor piercing weapons (I'm convinced the game is impossible to beat w/o armor piercing weapons using two non-magic damage classes).
+I'm 100% sure there are other ways to beat it, but this is how we did it, just for a little FYI.
+
+Make sure to have fun with this game, it's definitely worth.",0.7580512166023254,31,True
+527230,70386535,76561199002786824,"> Wins a game in easy mode
+> ""Hey, this is pretty fun, let me try a higher difficulty""
+> Under-levelled for every enemy, crappy equipment, lack of resources
+> 98% success roll fails twice in 5 minutes
+> Rage quits
+
+Fun game, decent co-op, but higher difficulties are extremely punishing. The RNG factor occasionally makes you want to tear your hair out. Do grab it if you find it on sale though.",0.7543686628341675,29,True
+527230,116109374,76561198401280821,"The game is honestly really enjoyable and the amount of random events or ambushes that pop up really help to keep the game interesting. Despite that, my friends and I have yet to have a run that hasn't ended in stuff we couldn't control. In some of our best runs, there was still a ridiculous wall ahead that we seemingly weren't lucky enough to get over.
+
+All in all, the game is really fun, but I think the balancing needs serious work.",0.6997143030166626,67,False
+527230,86469526,76561198033578232,"DnD type thingie that is absolutely brutal with it's RNG. You will either be a demigod, or miss every shot you take. You will either hit that 4% fail, or that 4% success. You will have no weapons or meaningful upgrades one day, and literally buy a sword made from pure awesome the next.
+
+There is no in-between, and the game knows it. And it does not care for your pleas for help.
+
+Thoroughly enjoyable, Random Number/10",0.6964731812477112,19,True
+527230,213329594,76561198052684968,"This game is fun and really challenging. as a 36 year old man who has 4 kids. this game is good for me. i can be AFK for sometime to attend the kids, then go back to the game. Not only to be bored with easy quest. but challenging sequences of games. unpredictable and engaging. i hope more people are creating games for working parents like me.",0.6928536295890808,16,True
+527230,48319432,76561198028514713,"It's very fun at first, and playing with friends while starting just makes it even better. However, unlocking new characters, items, events, etc isn't very rewarding. It really doesn't help as much as I wanted it to, considering it's the only real ""progress"" you get out of a 5 hour run.
+
+Also, and this just might be my taste, but I don't have a ton of fun replaying a game over and over when it tends to lean more on RNG events than skill (risk management is a thing, but whatever), especially when the content is practically the same every time. Even when going for the other game maps
+
+So why do I recommend it? I think the initial content before it gets stale is worth $20. It's not too often that I start playing a game at midnight with my friends and realize a moment later that I have just spent 5 hours without realizing it and I should've gone to sleep a while ago. Just be prepared to potenitally only like playing the game for 20 - 30 hours before giving up on it.",0.7428371906280518,21,True
+527230,67318073,76561197992079096,"This game is wonderful.
+A lot of negative reviews bashing this game because of unfair RNG. But, let me tell you something, they are completely wrong.
+I've played on hardest difficulty, and completed various scenarios.
+Each time I failed, I knew exactly what I did wrong.
+Yes, sometime you miss a lot, but this was never the case why I lost.
+Learning curve is steep. You need to try different setups, try to be fast or slow, move in pack of 3 characters or send 1 character to collect needed items or turn in the quest.
+Since most scenarios have time limit, you will take risks, and this is why this game shines.
+If you are a fan of rogue-likes and like to challenge your wits, this is the game for you!
+",0.7425801157951355,44,True
+527230,79290980,76561198098975172,"A simple but fun game to play with your friends as a casual RPG or as an RPG to introduce others to the genre with.
+
+Pros:
+
+1) Aesthetically pleasing graphics that are simple at the same time. Even old computers/ computers really not meant for gaming should be able to handle this.
+
+2) The impending ""events"" being shown on a timeline that counts down and methods to prevent them from happening is a fun mechanic that prevents you from dawdling while playing.
+
+3) A reasonable variety of classes, each with unique stats and skills that allows for a variety of character preferences.
+
+Cons:
+
+1) The game has a fair share of bugs. Bugs can range from not being able to open your inventory at times to displaying the wrong players profile in the active player turn window. Nothing game-breaking, but still reasonably annoying.
+
+2) The main story is very bland. I understand that the game is low budget and doesn't have much in the form of voice acting, but more intriguing text could have been thought of.
+
+3) Certain character classes have definitely been favoured over others during development. Being a support is a pretty thankless process as trying to use party buff skills require perfect dice rolls or they instantly fail. This seems quite unreasonable in my opinion.",0.6912714242935181,14,True
+527230,108899113,76561198032732274,"Let me just say that I love this game to death. FTK has been the source of so many great moments in my friends group and many late night hilarity. We have been playing since the beta and fondly remember when simply getting to the King's Maze was a feat all its own due to the sheer difficulty and the mind boggling realization that the game continued after it. 
+
+That being said, the power creep in Lost Civilization is enormous and, in our opinion, generally for the worse. I admit, the addition of the gladiator, arena events, and dual wield weapons were a great additions as well as wands and caster shields. But the sheer power creep of the Astronomer and its one shot passive and the item that has a 3 charge mead for your whole party matched with the sheer power creep of the mobs that you face simply for having the DLC makes the game more frustrating to play because it shoe horns you into a meta if you want to make any meaningful progress.",0.6887572407722473,15,True
+527230,149508462,76561198180742923,"[h1]Review of For The King[/h1]
+
+[h2]Introduction[/h2]
+[i]For The King[/i] is a strategic blend of strategy, JRPG elements, and roguelike mechanics, offering both solo and cooperative gameplay experiences. It marries well-thought-out strategic planning with the unpredictability of procedural generation to ensure every playthrough is fresh and challenging.
+
+[h2]Gameplay[/h2]
+[b]For The King[/b] requires the player to make crucial decisions, from combat strategy to choosing your journey's path. Each action could lead to glorious success or catastrophic failure, especially given that death in the game is permanent, forcing a complete restart of the adventure.
+
+[h3]Combat System[/h3]
+The combat system combines classic turn-based mechanics with special dice rolls adding a layer of chance and strategy to each encounter.
+
+[spoiler][i]Tip: Utilize the environment and characters' special abilities to gain an upper hand in battle.[/i][/spoiler]
+
+[h2]Graphics and Sound[/h2]
+The stylized graphics and an immersive soundtrack create an unforgettable medieval fantasy atmosphere in [i]For The King[/i]. The game looks beautiful, and each level is infused with a sense of adventure.
+
+[h2]Multiplayer Experience[/h2]
+[u]One of the game's standout features[/u] is the cooperative play. Teaming up and strategically interacting with friends adds a special appeal to [i]For The King[/i].
+
+[h2]Conclusion[/h2]
+[b]For The King[/b] is a challenging treat for tactical game enthusiasts, rewarding intellectual planning and the ability to adapt to evolving scenarios. It is a game that invites multiple playthroughs, each time offering new surprises.
+
+[hr][/hr]
+
+[table]
+[tr]
+[th]Criteria[/th]
+[th]Rating[/th]
+[/tr]
+[tr]
+[td]Graphics[/td]
+[td]4/5[/td]
+[/tr]
+[tr]
+[td]Gameplay[/td]
+[td]5/5[/td]
+[/tr]
+[tr]
+[td]Soundtrack[/td]
+[td]4/5[/td]
+[/tr]
+[tr]
+[td]Overall Impression[/td]
+[td]4.5/5[/td]
+[/tr]
+[/table]
+
+[olist]
+    [*]Excellent genre combination
+    [*]Great multiplayer gameplay
+    [*]High replayability
+[/olist]
+
+
+This review is a compilation of my insights on [i]For The King[/i] and is intended as a starting point for those considering purchasing the game. I hope it proves useful in making your decision.",0.6834568381309509,16,True
+527230,67859050,76561197978103604,"This game scratched the itch for a tabletop game to play with my friends, whilst not requiring the full on setup as would be required within Tabletop simulator.
+
+For those complaining about RNG, it's supposed to be like a board game. Dice rolls are RNG, which is why this game utilises it.
+
+For this price, the game is an absolute steal and I can't recommend it enough. If you're expecting a game where actions aren't based on RNG and bad luck could ruin your run, this game isn't for you.
+
+A useful tip too is the at the start pool gold to upgrade the pipe on a user with the Party Heal ability as fast as you can and have them support with beefy heals, opposed to everyone using herbs to perform low heals and depleting your supply quickly...I wish we knew this in my first game.
+
+The only downside from what I can tell/thing that would be a nice addition is the ability to make your own custom campaigns, but apart from that, there's no faulting it for what it is.",0.7305405139923096,20,True
+527230,38800813,76561198023445543,"TLDR; Random Chance failure and Difficulty are not the same thing.
+
+I have played this game for 3 games, each with different heroes and diffferent playstyles, and drawn a few conclusions.
+
+This game does some refreshing things very well and has a few innovative ideas for turn-based playing, but at the same time there are a few very basic things that screw everything up.
+
+
+So let's start positive: the pro's:
+
+- The game game has many different classes and only a party size of 3, meaning there's many unique combination and playstyles to use. At the start, these hero-classes are locked behind an in-game currency that you can earn by playing, giving it some replay value. Similarly, there's special items, challenges and events you can unlock, to further develop the game as you go. (I didn't get to the point where I unlocked all of them, so there's not much I can say about them specifically.)
+
+- There's many unique challenges in the game, each working with one of the stats heroes can have. Different heroes have different stats, making some challenges especially challenging or easy for different classes, creating a feeling of specialisation.
+
+- Each hero has multiple weapon types they can use, and the skills a hero has are dependent on the weapon used. This gives the game an even larger amount of variety in the approach.
+
+- Before combat, you get options like Ambushing and Sneaking. This allows you to change your approach each individual encounter depending on the situation.
+
+- The artstyle of the game is very cosy, although this is a very individual thing.
+
+The con's:
+
+- Almost everything in the game is chance based. This means that no matter how good you get at something, you can always fail, often unrealistically so. While a hit-chance on monsters makes sense, it's weird to me that friendly actions have a chance to fail. If a certain action has default chance of 40% to fail, you can never count on the ability to work, which renders it redundant from a strategic point of view.
+
+- A lot of abilities in the game have a double functionality, like fire damage having a chance to ignite enemies. While this initially sounds like a pro, almost all enemies you encounter that you really want to use certain abilities against are immune to about half of them. This, combined with the high-fail chance of such abilities, make most fights nothing more than taking turns to stab.
+
+- All the healing in this game is scaled of herbs you have to purchase (or very luckily find with only 1 of the hero classes). Enemies don't drop this item as loot, effectively just making it a money tax. You also need a special ability to be able to perform party healing, otherwise each individual member has to carry their own herbs. This makes most of the game just a farm for money as preparation for combat. Combat preparation isn't necesarily a bad thing, but this is the only real form of combat preperation in the game, which is pretty bland. The price of these herbs also rises quickly throughout the game, which just arbitrarily raises the difficulty of obtaining them.
+
+- The chance-encounters in this game spawn by chance, which introduces a wild-card factor to your strategy. Again, not necesarily a bad thing, but the encounters can even spawn in between character turns (instead of just in between rounds). This means it's possible to randomly encounter combat in a square another character safely past over just a turn back, and being stuck alone.
+
+- While the great variety of weapons (and armors) is cool, there is no consistently available weapons (for purchase or otherwise). They are seperated into Common, Uncommon and Rare categories, where it would make sense for vendors to always sell common weapons, some uncommon ones and maybe just one rare. Instead, they sell about an equal amount of all categories, often no more than 4 weapons total in a whole town. This means you can assemble a team with a strategy in mind and just never be able to play it because towns randomly decided not to sell that particular item you need. This becomes much worse when combined with enemies that are able to destroy items you bought, sometimes truly unreplaceable ones.
+
+
+
+
+
+I feel like the designers of this game mistook difficulty and challenging for just bad-luck and simply unfair events. Games like Dark Souls and Hollow Knight have a flair of unpredictability to them which can make them feel unfair, but in the end, if you know what you're doing, you'll always win because you know what to do. This game doesn't have that last bit, because of the constant wild cards.
+
+The game has a lot of potential, especially for an Early Access game. As of yet, it's mostly a rough diamond in need of polishing. If the game is fully released (or when it's updated a bit) I will revisit it and update this review (hopefully for the better).",0.7300671339035034,175,False
+527230,145716454,76561199304802989,"W game, very straight forward, only for nerds tho",0.6774193644523621,11,True
+527230,34481760,76561198051131791,"A friend and I bought this game thinking it might be fun for the cheap price of £10.99 and we thought ""oh well, if it's bad we can just refund it after an hour or so"". 9 hours later in the same game session it is now 5:30am and we have defeated the final boss.... Time to start a new run I guess.",0.7267016172409058,32,True
+527230,74934494,76561198209592451,"10/10 Bought this game to play with my wife, haven't touched it since we bought it during the summer sale, I must say I regret not trying it with her sooner, it was worth every penny for us, we played our first game together the other night and we didn't get past level 3 we died a few hours into our adventure but it was fun! it was a learning experience and we learned a lot it was late so we called it a night, but.... we were both pretty excited to start a new game! especially after understanding basic mechanics and the user interface and some of the archetypes strengths and weaknesses our next play through we built a team and we are pushing pretty far right now we are up to level 6 or 7? All i can recommend for a new player is take your time, Stay together, don't wander off and try to do your own thing you are much stronger together, and try to do the small caves and pickup as many sidequests as you can, also stock up on the healing plants the later the game goes the higher the price, buy many early and use as few as you can, The wife and I are doing well with just that advice in mind, as for our team setup I'm on a blacksmith she is playing a scholar and i am running our minstrel as a healer/support but we are having a blast playing! All i can say is if your thinking about buying this to play with a friend or a significant other its worth it! plenty of loot, plenty of fights, and plenty of fun, seriously.. its very hard to get mad at each other playing this game and even if you lose your adventure you are earning points to unlock things to make your next adventure that much more interesting, things like new loot, new events, new items, upgraded stores and more!! All i can say is more DLC more content and more of everything! please! I haven't finished all the content you have to offer but i can already tell you this game is quickly becoming my favorite game to play with my wife and when we are done with everything you have to offer us we will be wishing there was more! i would pay for more DLC without question.",0.7260665893554688,19,True
+527230,167082314,76561199067559481,"I really wanted to like this game. It has the initial fun of turn based rpg, but most of the difficulty becomes artificial with scarcity for health potions (godsbeard) and needless inflation of the economy as you level up. In fact, you can't even grind to level up because everything just levels up with you, which would be fine, except that consumables are limited and time is constrained, gear is random and you can't get good gear without losing a bunch of times. That's right, you have to lose and buy gear in the store that randomly gets placed in the campaign (lame) for you to use next time. The pressure it puts on you is all artificial difficulty, much like how shooting games make enemies bullet sponges at higher levels of difficulty. Instead of making the game more interesting by adding more layers and substance, they just looked for ways to screw over the player every time you get ahead of the power curve. In this manner you fail to complete the game and have to start over, because if you beat the game you'd realize that there's very little game to begin with, and you wouldn't keep playing it. Basically, you spend more time trying to learn how to evade the devs rule book than you do enjoying the game and leveling up, fighting enemies, etc. At the intro it says, don't plan to win, really don't because the game wants you to lose to inflate player game time, find yourself getting ahead and it's literally coded to screw you over. I found myself using Alt-F4 after getting randomly obliterated during a fights, as it would load the fight back up at the beginning, just so I could continue the campaign and finally beat it. This is as close as you get to save scumming. I'm too lazy to start completely over a 100 times because the bots had a couple of good rolls of the dice, I would like to finish the game, so I did this way and i gotta say it's not that impressive. The story is unimpressive.",0.6749295592308044,19,False
+527230,176105236,76561198004095294,"Hate this game. Way to much RNG and you don't realise until you are 6 hours into a run that you fell behind the power curve and are doomed to fail. I have tried to enjoy this game on three separate occasions, forgetting each time that I will hit a wall 6 -8 hours into a run. 
+
+It seems like exactly the kind of game I would enjoy but the inevitability of failure at a certain point if you don't get the exact right equipment and make the exact right series of choices and also have a tremendous amount of luck in the spawns and combat rolls leaves a bad taste in my mouth every time.",0.6738128662109375,22,False
+527230,113926721,76561198164890608,With no uncertainty this is one of the best games I've ever played. I wish there was more content so I could donate more of my money to the developers!,0.722717821598053,18,True
+527230,49978689,76561197992223195,"The game is extremely punishing to newbies. I almost shelved it after trying it once or twice. It's not for someone who is easily frustrated. As noted RNG is very unfair many times but eventually you learn to somewhat mitigate it and learn how to be prepared for the inevitable screwing that RNG gives you. If you have patience, the game gets more fun but will still always annoy  you now and then.
+
+A lot of the game you just have to learn. For example don't play with demons, crabs, jellies, etc unless you have to... just to name a couple. Learn how to stun/reset enemies so they can't hit you, use of very high damage weapons (guns) in the right situations (Actually guns are my favorite now, on Hunters with high speed). They are the only way to get rid of high value targets like demons quickly. Some guns also come with single roll Reset which is super valuable for tough single targets/bosses. Learn how to not bite off more than you can chew. You'll learn pretty quick that some fights are just better off avoided entirely, like fighting a group of 3 level 10 enemies on the overworld or 3 ogres etc is generally not a good idea... especially when you're level 8-9.
+
+Basically, you just gotta play the game and learn what works and what doesn't, also helps a TON when you unlock stuff from the store. The detrimental effects of RNG can be mitigated I'd say about 80-90% if you're smart and are prepared for anything. That last 10% can throw you off though (Like losing a 95% roll 2-3 times in a row. This can and does happen.)
+
+Hot tip - you can exit the game without saving if you want to re-load at the beginning of your turn. Very helpful when RNG screws you over in an unfair way. For example having high luck 80+ and still failing the roll on dark carnival and somehow getting the 5% roll which is player death. Yeah screw that... Reload game lol.",0.7210250496864319,26,True
+527230,33482330,76561198035287960,"In some ways, I love this game: The aesthetic. The spirit it captures. The novel combat system. On most measures, I would thumb this game UP. But looming over all the goodness is the utter lack of balance which nearly ruins the enjoyment of an otherwise beautiful setup. It isn't so much that one is overly subject to RNG hell, instead it's just stupidly hard to play, even on Apprentice (easy). I'll give a moment here for all the ""just get gud, heh heh"" trolls to do their thing... Anyway, most of the challenges and battles are reasonably manageable. The major turnoff here is that it's difficult to manage all the opposing forces you're subject too and simultaneously enjoy all the obviously enjoyable moments that seem just out of reach. It's like this not because of depth of strategy or overly complex plots/puzzles one must solve; it's because of the incongruent expectations the game lays out for you. Between battling the (highly controversial and questionably implemented) chaos timer and grinding enough mobs to be able to survive the next dungeon (which are always the subject of the FtK's linear, uninteresting quests), it is unknown how one is supposed to keep up with the nearly 1,900% inflation of healing herb prices, which are absolutely necessary. Between these forces, it's death by a thousand cuts. You trudge on & on and eventually the death of your heroes comes not in some epic battle that you botched, but from an average group of mobs who took advantage of your lack of healing herbs (did I mention how much those cost?) and low health because you ran out of coin and couldnt sleep in the exorbitantly priced inn, or because you're like 8 turns away from a city, moving at 3 spaces per turn, with a dozen mobs between you and rest, and chaos keeps increasing making it all harder. This challenge level and certain death wouldn't be so bad if this game truly was a rogue-like, but there are far too many investments made into your characters that do not transcend each playthrough that the result smacks of disappointment and a feeling of wasted time. Up until this moment, to be sure, there is a lot of fun to be had (I do LIKE this game), and there are just a few mechanics that, with a little tweaking, would make the game more playable and would unlock all of its potential; such as, improve how the chaos meter works, keep healing herb prices reasonable, allow characters to move farther per turn, and, most of all, increase the amount and variety of playthrough transcendence of all your hard work. Others have outlined these and other solutions better than I can, so I won't list more here. All in all, I want to recommend FtK, but won't, for now.",0.7203603982925415,75,False
+527230,200119592,76561198019927173,"[h1]For the King Review[/h1]
+ 
+[i]**Spoiler free**[/i]
+ 
+[u]Overview:[/u] For the King is basically a boardgame version of a lite RPG with D&D influences, and I was pleasantly surprised by what this game achieves. This high fantasy world with skill checks aplenty imbues the hex-grid map and turn-based fights with a sense of adventure in mini-campaign scenarios. The results of gameplay might be too random for some players, and the campaign stories are bare-bones. But for those who want to experience their own emergent adventure unfold in this atmospheric board game style of play, there is much to appreciate here in the kingdom or Fahrul.
+
+[u]Gameplay:[/u] For the king is best thought of as a digital board game with a lite-RPG theme and D&D influences. Each of your 3 party members takes turns on the hex grid map, combat is turn-based ala classic Final Fantasy, and almost every action is dependent on skill checks, which are basically invisible dice rolls.
+ 
+Skill checks are the most important gameplay mechanic which drives your entire adventure, and the most likely indicator to signal whether you’ll enjoy this game or not. Skill checks are based on a binary pass/fail system, and every combat and event will utilize this. Instead of visible die rolls, each skill check is represented with a number of tiles that indicates the number of checks you’ll make. The number of tiles that fill in as pass/fail will determine your outcome to that attempt at combat or engaging with an event. Combat checks usually present themselves as “max damage potential” if you pass every tile skill check, and events usually present themselves as “number of passes/fails” varies your outcome.
+
+Every character has a 0-100 stat rating on their attributes (strength, vitality, intelligence, awareness, talent, speed, and luck). Your stat rating is the percent chance you will succeed on one skill check tile that uses that attribute. For example, if you have an intelligence rating of 77, you have a 77% chance to pass a single skill check tile. If there are 3 tiles to check, you will have a 46% chance of passing all 3 tiles.
+
+Every attack/ability in combat uses skill checks. Even enemies use skill checks (though they usually pass with flying colors). The attribute used for a skill check is based on the weapon you have equipped, and often make class thematic sense. Swords will usually check your strength, staffs will usually check your intelligence, etc. The number of tiles checked can also add to some decision making. For example, a weapon that makes two tile checks is more likely to fully pass for max damage versus a weapon that makes 5 tile checks. However, failing one of two tile checks will reduce your damage output far more than failing 1 of 5 tile checks.
+
+This leads to the other big gameplay mechanic, which is loot management. This game is full of loot that you are constantly keeping track of to determine how to best spec your party members. Sometimes it feels like after every battle you’re going into the menu to analyze and manage the loot you acquired against the gear you have equipped. It seems like there is always a reason to be looking into your inventory and assessing your current loot.
+
+A little nitpick, but the UI for entering the inventory is a little buggy. The keyboard shortcut doesn’t really work well, which means you have to manually click a little button with your cursor. It’s annoying, but not too bad.
+
+The game comes with a primary campaign which covers 4-5 biomes, and extra smaller campaigns/modes. The campaigns take about 1-3 sittings to complete, more-or-less. There is a lot of content for a game that’s meant to be re-played. However, the core of your gameplay experience will remain the same. So, if you don’t like the skill checks and inventory gameplay loop, the extra content isn’t going to help.
+
+You will also get to choose your 3 party members prior to any campaign. There are a variety of classes, each with their own skills and attributes stats. You can also customize their starting look and their names. I think you start out with 4-5 classes, and you can unlock more later.
+
+There’s also a meta-game unlock store for rewards from new classes, to new encounters, to new weapons, to new cosmetics (all using in-game lore you collect).
+
+So how does this all come together? Well…you can probably see why I initially described it as a digital board game with an RPG theme and D&D influences. But what it does is give you a pseudo Table Top experience where you go on an adventure, overcome challenges, get some lucky breaks, suffer some hilarious fails, and maybe just squeak by to beat a campaign. It can be riveting, exciting, and heartbreaking. But in the end you have a story to tell.
+
+On my first play through, by the time I got to the final boss I thought I was toast. But because of some amazing rolls I was actually making a stand. Two of my 3 party members died. I had my one archer left. I was rolling incredibly. I was chipping away, and making some incredible dodges. With barely any heath left, I was one attack away from actually winning. I made the skill check, and whiffed! I completely missed! He goes to attack me. If I can just dodge, I can attack one more time. But no! I was hit and killed, and campaign was over! I was 1 turn away! Hahah! It gave me such a rush, and I laughed as I failed! I came so close, but I was thrilled at how fun it felt. Even to lose. Because I had a story about a group of unknown adventurers who almost saved a kingdom.
+
+[u]Atmosphere:[/u] Atmosphere: For the Ling is full of Immersive atmosphere. There’s not much of an official story, but the environment and presentation makes you feel like you’re on a small RPG adventure. From the different biomes to classic high fantasy enemies, you feel like adventurers exploring a land full of dangers and dungeons. There are even some clearly inspired D&D enemies, like “mindflayers” and “gelatinous cubes”. The environment is very “nerdy”, and I love it.
+
+I wasn’t a huge fan of the low-poly art style, but I was a fan of the overall stylistic choices. All of the characters have disproportionally large heads and it somehow makes it feel more like a board game. Maybe because they remind me more of meeples rather than real characters. And all of the little locations and little animations made for a fun and not too serious experience.
+
+The music is really good too. Each biome has its own theme, and the overall score composition feels like it’s on a smaller scale, which fits the scale of the game well. After a while some of the instruments can get a bit repetitive. But overall it adds a very helpful dose of atmosphere.
+
+Despite no engaging story, this game does a good job at immersing you into a world and engaging you in the fantasy of it all.
+
+[u]Things to Note:[/u] This is a rogue-like with no ability to manually save. Once your party dies, it’s game over, and your campaign save is erased. Meaning no redos. You start a new campaign.
+Also, there’s not much of a tutorial. Either look for an explanation online, or read their glossary like a board game rule book.
+
+[u]Performance tips:[/u] On my GTX 1070, I used the NVIDIA control panel to enable vsync and limit my FPS to 60 (I have a 60hz monitor, no  gsync/freesync). I would stay away from the vsync in the game. I don’t think it’s implemented very well and made my screen stutter. Using the control panel vsync instead worked much smoother for me.
+
+[u]Conclusion:[/u] For The King gives you a fantasy adventure in a small scale package with all the atmosphere and skill checks right for its scope. It can be a frustrating game depending on your mindset and expectations, but it can also be a great time. I would highly encourage you to try it out it if you don’t mind skill checks and want that zero-to-hero adventure within a 2-4 hour window of time. For RPG and board game lovers, this is an easy decision. Recommend!
+
+",0.6699450016021729,11,True
+527230,95640355,76561198063273364,"Bought game, thought game might be fun for game with friends.
+played game with friends.
+friends had to go.
+i start new game alone.
+
+I am game now.
+I need no one.",0.6694768667221069,28,True
+527230,35922595,76561198057176925,"gather around kiddos, let's relive the tale of Beaton the archer.
+
+>buy for the king, play abt 4-5 hours singleplayer to get feel for the game
+
+>all characters unlocked, ready to do co-op with a friend
+
+>buy game for closest friend, he downloads immediately
+
+>I get two characters, he gets one
+
+>trapper, herbalist, hunter
+
+>progress through game easily as this party turns out to be extremely effective
+
+>friend is hitting ridiculous shots because of his awareness stat
+
+>Beaton the hunter is fucking insane
+
+>1 shotting everything with called shot crits
+
+fastforward 
+
+>get to end game, do optional desert tomb dungeon with my two chars
+
+>no more godsbeard. fuck
+
+>trapper dies, only herbalist left
+
+>fuckfuckfuck
+
+>dude get the fuck in here
+
+>Beaton the almighty joins the dungeon
+
+>kick the shit out of every boss and enemy with herb and hunter
+
+>Beaton is cursed, he can't hit any of shit shots anymore
+
+>Still manage to progress, get curse-cure herb and give it to Beaton
+
+>get to 2 hp on herbalist and 4 hp on Beaton, at final boss of the dungeon
+
+p.s the dungeon is like 20 fucking rooms 
+
+>herbalist manages to dodge many attacks and kills the two minor monsters
+
+>Beaton vs. boss with 4 HP
+
+>Beaton is fast as fuck, can move twice
+
+>Two perfect called shots doing 85 damage crits
+
+>2 shots boss with 4 health and no more lives in life-pool remaining
+
+Long live Beaton",0.7169630527496338,59,True
+527230,47321672,76561198201248645,"Classic idea with interesting execution.
+
+Pros:
+- intriguing random encounters
+- different modes for different types of adventures
+- great with friends
+- unlockables (play the game to get more cool stuff for another run)
+- fun and straightforward combat
+- neat art style
+- dope music
+- basically simplified DnD
+- constantly updated
+
+
+Cons:
+- can feel repetitive with the same story (if you continually run a certain mode)
+- RNG can be unfair/punishing (take with a grain of salt)
+- could use some more variety in items/weapons (possibly random stats/effects with dropped items)
+      ^ likely solved with the constant updates 
+
+
+Score: idk just buy it",0.7156627774238586,22,True
+527230,41390823,76561198078876434,"If you really like adventure turn-based games, then you'd love this game.  
+
+Looting:  Personally, I enjoy looting in games and I feel that in order to make a game feel personal, you have to give a lot of customization options.  For The King does just that by allowing plenty of weaponry/armor/clothing character items and I was able to make all of my playthroughs an enjoyable experience. 
+
+Adventure:  The adventuring aspect of the game was enticing from the start and with each new playthrough, more items became unlocked using a Lore (in-game currency system) and I had a better chance at progressing further into the game/campaign.  Admittedly, after over 100 hours of gameplay, I think it is safe to say that playing the same campaign was feeling slightly repetitive, but I took that as a chance to try different character sets/builds as a way to spice up the gameplay.
+
+All in all, it's a great game! Definitely fun to play with a couple of friends and even solo.  I can't wait until the full game is released, along with more content.  Keep it up, but more importantly: hurry up, IronOak!
+
+Edit:  Iron Oak delivered!  Additional campaigns and characters, new items and enemies allows for a great party-based RPG.",0.7655954360961914,94,True
+527230,48140511,76561198055433416,"I'm in love.
+
+Came into winter sale thinking it'd be another sale gone by with no particularly exciting pickups, but I sunk 50 hours into this game in less than a week like it was nothing. Every new game will pull from the same set of biomes and towns, but the geography is completely new every time you play. The overworld system facilitates the game's immense strategic depth, letting every decision shape your story. When you can only take one quest from a town, are you going to go for that nice heap of gold for ferrying a package from one landmark to the next? Or would you rather defeat a troublesome monster camp to stem the tide of impending chaos and give your party more time to travel and level up? Do you move the bard to that random event in hopes of finding hidden treasure, or end his turn in town to build your war chest by playing for the masses on the streets? Every decision will help or hinder your chances at defeating the brutal final dungeon and purging the land of evil, and on a limited life pool (start with 3, goes higher if you find them in the right places), the weight of those decisions makes every playthrough feel unique.
+
+Great to sit down with for an evening or just for an hour or two. The main campaign (again, geography randomized every time) takes about 7-8 hours to complete on normal difficulty, assuming you live that long. The difficulty is perfectly tuned to be fair, yet greatly challenging. Your party will most likely exhaust their life pool and perish in the dungeons of Fahrul quite a few times before you learn the tricks of surviving their perils. Progressing from zone to zone, from the winding and gentle Guardian Forest to the menacing and pestulent Poison Bog or sailing the high seas in the Rogue Isles makes the scale of your adventure feel enormous despite the game's breakneck pace...just watch out for the mighty Kraken in that last one, though.
+
+Oh, and the multiplayer is phenomenal. I LOVE playing this game with my friends. Each player taking control of one of the three party members gives the game so much character. Not to mention how friendly and available everyone I've met on the official Discord has been so far. You can always find someone to adventure with if you find trouble saving the land on your own.
+
+For The King is a must-have for fans of strategy and RPGs. Best game I've bought in a long, long time.",0.7150037884712219,17,True
+527230,44445158,76561197988137214,"There's a lot to love about this game, from the beautiful graphics, to the decently implemented co-op, easy-to-use interface, powerful weapons and spells you can obtain, huge variety of interesting enemies and encounters, etc. all made it seem like the perfect game to play with my partner.  We made it quite far on our first run and were hooked.  However, subsequent runs showed that the balance of the game is way off. 
+
+It is way too dependent on RNG - a single bad roll can get your party killed, and healing becomes very expensive very quickly.  The random encounters vary shockingly in difficulty, some runs you luck out with doable early encounters and dungeons, but a good 50% of my runs were unwinnable early on as far as I'm concerned.  For example, there are randomly spawning bosses that create worldwide debuffs on your characters until they are found and defeated, for the most part it is impossible to kill them or even reach them until mid-game, and some of the debuffs aren't that bad, while some are 100% game breaking and make even easy encounters into near-death experiences. 
+
+RNG rears it's ugly head in things that benefit you too - you have very limited access to decent weapons and equipment, if you get an excellent item that fits your party members early on it can make or break your run.  But frequently I find excellent equipment for a class I'm not using, and never get any loot for my particular class.  
+
+The lore system is where I look for balancing this game.  It allows you to earn a currency that can unlock classes, equipment, etc. to use on future runs.  This is the only thing that can be done to make the game easier - but it's not enough.  While we made a decent chunk of lore on our first good run, subsequent runs gave us very little as we would get stuck early on.  Thus it took about 10 hours of gameplay to unlock a new class, which was decent but underwhelming for the effort. It is frustrating to have to do hundreds of doomed runs with just a few classes available in order to unlock the other classes.  The equipment you unlock is still up to RNG whether or not it appears in your run.  Perhaps I have had bad luck but I rarely find any of the equipment I unlocked via lore.  It is kind of defeating to work hard to unlock something, and find little to no benefit.  
+
+The game is enjoyable to the point that I would not mind grinding.  Collecting loot, making money, doing side quests, side dungeons, is all very fun to play with a friend and can get you powerful equipment that makes the game feel a bit more balanced, and a bit less RNG dependent.  However, grinding is not possible in this game.  The world is on a timer that ramps up difficulty exceedingly fast, eventually to a point where a world event occurs that effectively makes the game impossible and ends your run.  This is extremely unfortunate and my primary qualm with the game - the timer is so fast that it requires you to prioritize the main quests.  Taking an alternate route to complete interesting or beneficial side quests is not an option.  If the RNG places a side quest anywhere off your primary path, you will not have time to get there and back before the world goes to shit.  The game requires you to ignore dozens of side encounters, dungeons, and quests that can give you excellent equipment due to this punishing timer and the difficulty of navigating the map.  RNG will sometimes place events within 2 turns of my characters, or sometimes within 20 turns.  It is depressing to find a quest where RNG dictates you will get an extremely beneficial weapon, but RNG then also dictates you will never have enough time to make it to the location and back.  You constantly need to stick to main quests in order to stay the timer from essentially executing your heroes.  
+
+In short this game has much to love, but the RNG based rules, timers, world debuffs, and punishing difficulty make it unplayably frustrating.  I wish there was just a way to turn the timer off or decrease the difficulty somehow, and I could play this game for a long time.  Getting some excellent weapon, and then dying due to a single bad roll, or your end your run because you couldn't beat the timer to the next quest, or winding up in a random encounter 1000x as difficult as the last, or getting unlucky and getting a world debuff that makes the game impossible, or a million other frustrating, unpreventable, and unfair-feeling things that happen to your party makes the game an excercise in disappointment.  As a huge Dark Souls fan I don't mind dying over and over, I don't mind punishing difficulty, but at least in Dark Souls I feel like my skills had some influence, that it wasn't just random chance that lead me to my death a hundred times over.  
+
+
+",0.7147235870361328,97,False
+527230,208241017,76561198136749077,"This game has terrible scaling.
+What i mean by this is that literally any form of exploration of the map and spending of anything other than healing plants with 1 member running party heal in shops instantly translates into a failed run.
+
+It really just comes down to knowing what needs to be done and figuring out the most optimized way to get  ASAP to the end game.
+And even then there is no garantee that you'll make it due to various random events and loot.
+
+And this was the experience on the lowest difficulty. I don't even want to bother with higher difficulties knowing that the lowest is already this unbalanced.",0.6641091704368591,58,False
+527230,44168982,76561198211452507,"Great game to play with friends. So far I've only played the first campaign thing, but it's been lots of fun. Very replayable. I think it would be nice though if you could get more than one quest from a town. I could be doing something wrong, but I feel like I have to get the chaos quest every time in order to keep them under control. This is fine, but it also takes away the opportunity of doing any of the other quests. Great game though. Deceivingly difficult. Especially when only using two characters.",0.7123372554779053,24,True
+527230,41473515,76561198016505395,"I absolutely love this game.  Been playing it with a friend and having a lot of fun.  If you enjoy sitting around playing table top with friends and socializing, you will probably enjoy this as well.  Devs, if you read your reviews, please add weapon swapping.  Even if you have to skip your turn to do it, please add it.  Just an alternate swap, not digging through your pack for the perfect item.  The game needs it.  As is we are forced entirely too much into tank, healer, dps roles or roles in multiplayer where ""I guess this is all I do"" or ""yup I'm useless in this fight"".  Weapon swap would loosen things up a bit and be a lot more fun.  Aside from that, this game is a gem!",0.711961030960083,31,True
+527230,41455600,76561198229090040,"Rogue-like RPG that's simular to Final Fantasy 1. You set out on a quest to save the kingdom with a party of three heros. Each hero is customizable and the party receives three revive slots before permadeath. The turn based combat and progression is driven by questing and dungeoneering in order for players to cleanse chaos from enveloping the world (Random every new game). The game can be played with your friend online and there is a strong replay value in earning lore. Lore can be earned by feats of awesomeness done within the game (clearing a dungeon, or killing a Boss). Lore can be spen in the lore store that is located on the main screen. The store contains rewards that enhance your play experances with new characters, items, encounters, and geographical enhancments to the world map. I recommend this game to anyone who is interested in the old rpg turn based style with rogue like elements and a reward system to match your endless failure? :armellocrown:",0.7116973996162415,44,True
+527230,214815088,76561199519912074,"Me and my friend played this at 5 AM after staying up all night and it was so amazing that we proceeded to go watch the sunrise together. We aren't gAy, we were just feeling inspired by such a fantastic game.",0.6599558591842651,22,True
+527230,142931574,76561198069592683,Great time solo and better with friends. Lots of cool unlockables and variety,0.7097272872924805,23,True
+527230,42290109,76561197993210277,"tl;dr - I highly recommend this game if you are ok with lots of game overs
+
+For The King (FtK) is a turn-based adventure role playing game. The map is laid out in a hexagonal grid, and it plays similar to tabletop sword-and-sorcery board games. You control a party of 3 (or one of a party of 3 in multiplayer) trying to put an end to the chaos ravaging your homeland. You can level up, there is a loot system, and there are a multitude of enemies, situations and events that randomly fill up the map. Every play through is different, and subsequent playthroughs open up more encounters or items available through an in-game currency called ""Lore"". Lore can be spent on; different player classes; different events that can be encountered on the map; items available for purchase or to loot from corpses; cosmetic-only player skin options/clothing.
+
+The worst thing I can say about this game is that not all new games are created equal. Some games you loot nothing but rares and there are hidden shopkeepers in every dungeon, and other games it's all you can do to find healing herbs or weapons that dont break on a failed roll. However,  I have noticed that I am starting to restart games less and less, and situations that seemed hopeless in the past are now more doable with the right item management.
+
+As far as gameplay goes. There is a novel movement system, which is essentially a roll of the dice to determine how many hexagon spaces you can move in your turn. Getting poor movement rolls can be devastating to your game, as your characters can be too far away from each other in case of emergency, or you don't cover enough ground in a day/night cycle and start to fall behind. 
+
+Along the way certain enemies will pop up on the map that cannot be ignored. The mini-bosses can be left alone for a while, but after a time they hatch and start to have effects on the game world, such as increased merchant prices or extra fire damage from monsters who deal it.
+
+The combat system is simple yet intuitive. You ""roll"" based on your weapon, which can give you certain abilities in combat such as armor piercing attacks or splash damage. Each weapon roll is based off a certain player ability such as strength for maces and intelligence for spellbooks. Yes, the Archer COULD wield a polearm, but he would be better off with a bow.
+
+The items are fun and all feel very powerful. It's fun having items you have unlocked with lore points show up in the game as loot or merchantware.
+
+In the end this is a brutal, unforgiving game that is very fun despite it's difficulty, or perhaps because of it. Every playthrough I learn a little more, and I understand how to better use my items the next time. My most recent playthrough I died to a Mind Flayer because it confused me and two of my heroes fled the battle leaving one out of my own control who didn't flee but stupidly kept attacking and not healing. Like I said, this game is brutal.
+
+Brutal, but fun,",0.758871853351593,31,True
+527230,54924448,76561198142294717,"Amazing game, with friends it's so much better and although it's EXTREMELY difficult the feeling of beating a run is amazing considering how many you'll lose to get a system that works. And the lore store allows you to add things like new weapons, new encounters, buildings, shrines, and cool cosmetic stuff. However the amount of RNG is crazy, the only real ""skill"" is knowing what's in the game itself and not making silly mistakes like miss clicks or if you're with friends not communicating. So although a really fun game, winning is ultimately decided on whether the roll of the die is good or bad.",0.7084540128707886,24,True
+527230,30312682,76561198133742745,"I think the overall game relies too much on chance and not enough player based decisions. The quick pace of the game doesn't allow the players much room for strategy as much as a blind rush towards the objectives with the hope that rng will not crush their dreams. Hopefuly the game pace will slow down so that more choices and decisions can be presented for a more dynamic gameplay experience.
+
+
+
+-On a side note. I just got to the end of the game and the end boss has two max level chaos beasts with him. An almost impossibe fight. I could max my characters out one hundred times but would not win that fight. I hope those get nerfed as the game continues.
+
+Overall great game. I look forward to following this as it updates.",0.707233726978302,25,True
+527230,102585926,76561198088349428,"This is a hesitant recommendation. 
+
+You'll find this game fun if you're able to keep it casual with friends or just roll with the punches in a single player game. I say ""roll with the punches"" because 99% of this game is based on random chance - attacking, critical hits, casting spells, discovering/getting rewards from random encounters, almost everything is based on a dice roll. The only things that aren't are a select few spells scattered around, one such being the ""party heal"" skill which is a life saver much of the time.
+
+Enemies have a much easier time with their rolls. They share the same attack system of rolling a dice several times to determine effectiveness, but where your mage might need to roll a perfect 5 action roll to set a single person on fire, the enemy kobold can fail an action in his 3 action roll and still light your entire party on fire. I mention mage specifically because even if you fail much of your roll trying to damage the enemy with a sword or bow or basic magic damage, the enemy still takes minimal damage. On the flip-side however, if you fail even a single action roll while trying to cast a buff/debuff spell, the spell fizzles and does absolutely nothing.
+
+There is a Focus system that you can use to guarantee successful dice rolls (e.g use 1 point of focus to guarantee 1 roll), but it's incredibly limited and with many of the in-game missions being on a time limit, you're scarcely able to properly refill your Focus bar before any big fight without wasting time or items, making the game harder as a result.
+
+The game is very sided towards losing; which isn't necessarily a bad thing, but it's sure as hell frustrating to lose because not one of your heroes succeeded at more than one action over the course of 4 turns. If it took even one less action roll to do more powerful abilities I might like this game a lot more, as it's an incredible turn off to find a powerful spell or ability and have to succeed at *six* rolls just to be able to see its effect - all this on a character that was designed to use the spell or ability to begin with (and therefore has an easier time casting it).
+
+It's easier to ignore just how unfair this game is at times when you've got a friend or two to play with, but solo when you've only got yourself and the teasing dice rolls can be grating.
+
+For someone like me who can't resist the urge to nerd out and micro-analyze every aspect of something until I understand it, trying to get this game down to a consistent science for each playthrough like other games is a pointless task. With everything being rng it's hard for me to find any fun beyond a certain point or to get much farther than I have any previous run. The only thing that you can do is *hope* that you get better roles and better items/encounters along your journey (which you can unlock more beneficial ones via playing but these are again, randomly generated).
+
+
+TL;DR: I wish it were a touch easier. Fun with friends.",0.6568101644515991,16,True
+527230,154273338,76561197995381979,"One great thing about growing old is having the fortitude to admit defeat. And I can admit with a smile, this game busted me. I played probably 12 hours straight and being this is a roguelike RPG, I was forced to start over four times. The last time my party arduously achieved level 6 and were horrendously wiped out in an ambush consisting of gank level characters. Emitting a sigh of disgust (and defeat) I hit the uninstall button. 
+
+Starting life as a Kickstarter project, this game exudes attention to detail and an obvious love from its creators. The artstyle is reminiscent of something that looks like the lovechild of Minecraft and a Pixar animated film. The characters reminded me of old Fisher-Price figures stolen from a child's playset. Seeing these characters getting blown to pieces by blunderbusses or perforated with arrows due to the game's rag doll physics were comical. Being from a country that embellishes television comedies with laugh tracks, I never had much appreciation for the genre, but this game made me laugh numerous times. Behind the scenes, however, we have a genuine dungeon crawler with campaigns of various degrees of difficulty. The quests were compelling and reminded me of the tabletop DnD sessions I enjoyed in my youth.  
+
+I feel almost hoodwinked with how easy it was to lose hours to this game and ultimately realize it defeated me. I like difficult games, but the deaths in this game just didn't feel fair. Barely surviving a dungeon and going back to town to heal up, and then getting ambushed by a trio of cursed witches or werebears at full health just felt contrived. (To its testament as a roguelike, one cannot save in the game.) Admittedly, my lack of prowess with this game (and enjoyment of it) could be ascribed to how I was playing it. The designers made it to be a multi player game, and I've read the game is easier played with other people, but there are some games I just prefer to play alone.  I wish I could have finished this delightful little gem of a game.",0.7065338492393494,29,True
+527230,98347703,76561198026106121,"For the King has been a game I have come back too time and time again for a number of years. I have seen it develop into such an amazing game with a huge fan and player following and additional stories, classes and more get added, all around not spoiling or adversely affecting the base game or its other various stories. It is supported by an amazing community of people in the discord that have fun, help each other, create groups and all have the support of the Ironoak Team in the cord for when things occasionally bump. 
+
+At the time of writing this I'm just over 400 hours or more of playing, I've unlocked everything in the Lore Store and slowly getting the final few achievements. But regardless of all of that, its the people and the game itself that keeps me coming back for more. Trying different teams, different approaches to combat, dungeoning and questing.
+
+I would recommend this game to anyone who enjoys Turn Based game play, and an adventure they can loose themselves in either solo or with friends. 
+
+Thank you to everyone at Curve, Ironoak and the community in the discord for making this such an amazing game! <3",0.654578685760498,15,True
+527230,30305717,76561198112457929,Amazing game..but I just want to be able to explore and take it slow without the chaos timer ruining my life.,0.7531536221504211,26,True
+527230,109529711,76561197984587029,"The more that I play this game, the more I enjoy it. The classes feel like they make meaningful differences in how you play the game, whether it's the busker ending turns near cities to get some extra gold from entertaining, blacksmiths using shields for a chance to negate damage, or astronomers fishing for black hole procs to make their target just vanish. It's even better with a couple of friends though.",0.6511628031730652,9,True
+527230,51262772,76561198000529322,"Play it with a friend and it's a ton of fun. A lot of reviews mention that it's like playing Dungeons & Dragons with friends, and they're not wrong. Really recreates the feeling.",0.7508789896965027,30,True
+527230,163853892,76561198129724547,"I have a love-hate relationship with this game.
+
+I had been keeping an eye on this game for quite some time, seeing it on sale numerous times, but I never took the plunge. Eventually, I found myself in search of a great co-op experience, and with this game repeatedly popping up in Steam sales, I decided to purchase it while it was discounted.
+
+After almost 20 hours of gameplay (approximately 10 hours in co-op and 10 hours in single-player — I couldn't wait to dive in, so I explored the single-player mode), I've come to see this game as a middle ground between Talisman and Heroes. It incorporates elements of D&D, offers a fantasy setting, and boasts a wealth of content and variety.
+
+However, there's a significant amount of RNG and grinding involved. Despite this, it's a very engaging game. I highly recommend playing solo, and it's incredibly fun with friends, though it can be frustrating if you lose and your progress is wiped.",0.6488800644874573,11,True
+527230,47249197,76561197970837233,"Pros:
+-----
+Fun simple RPG, nothing complicated about it
+Unique roll movement system
+Combat is enjoyable
+Different classes to choose from 
+Visuals are polygonal but I think its cool and adds to the game
+Music is good
+
+Cons:
+-----
+Too frequent item pickups that are exact same even rare and uncommon items will show up a lot
+Not enough different unquie weapons that differentiate each other
+Artifact weapons that are breakable dont have the ability to use focus so its pointless to use them since their % chance to use is low
+Each game type seems too short with the map not being that big to explore. It would be great is each game type were longer and have more to explore so that the characters can level up more and get items that are stronger.
+Lackluster lore
+
+8/10
+",0.6947566866874695,23,True
+527230,117720787,76561198294254739,"The game is really fun with friends and really kills time if you're on your own, and I mean it REALLY kills time. If you hop on the game and have plans for the next day you're probably going to have to cancel. Probably hits harder than my alcohol problem and felt more grief dying in the game than when my girlfriend dumped me, 10/10 would recommend.",0.6441941857337952,10,True
+527230,104475571,76561198047526192,"This game ticks a box for me, but I don't know what it is. I don't mind the RNG aspect of the game but if RNG makes you smash your keyboard, dont bother with this game because while i love it, there are quite a few ""THAT WAS TOTAL BS"" moments in this game. Mediocre story, but there is some satisfaction in getting good gear. Could be better, could be worse. Decent game to pickup on sale.",0.6431182026863098,11,True
+527230,159668113,76561198986263392,"It's a good SL game for gambling, whether you're playing alone or with others (๑´ㅂ`๑)
+https://steamcommunity.com/sharedfiles/filedetails/?id=3169124276
+https://steamcommunity.com/sharedfiles/filedetails/?id=3169124532
+https://steamcommunity.com/sharedfiles/filedetails/?id=3161238616",0.6428571343421936,8,True
+527230,32207722,76561198074983900,"This game can be a lot of fun. Gets a bit repetitive at the moment but imagining this with different worlds and scenarios, starting points and missions makes me curious checking it again in a couple of months",0.6924748420715332,19,True
+527230,146013925,76561198870491341,"Recommended: Yes
+
+Playtime: 48.8 Hours
+
+Achievement Completion: 100%
+
+Game Length: 10.5-71.5 Hours
+
+Reviewed on: PC
+
+Pros:
+1. Engaging Strategy: For The King offers a captivating blend of turn-based strategy and roguelike elements. The need for thoughtful planning and decision-making keeps players engrossed.
+2. Co-op Gameplay: The multiplayer mode allows for seamless cooperation with friends, adding a layer of depth and camaraderie to the experience.
+3. Unique Art Style: The game's visually appealing low-poly art style creates a charming and distinctive atmosphere that complements the fantasy setting.
+4. Dynamic World: The procedurally generated maps and quests ensure that no two playthroughs are the same, providing a high level of replayability.
+5. Deep Progression System: The leveling, equipment, and skill progression offer a satisfying sense of growth and customization for characters.
+
+Cons:
+1. Steep Learning Curve: New players might find the initial learning curve to be a bit steep, as understanding the various mechanics and strategies can take some time.
+2. Randomness Factor: The procedural generation, while adding replayability, can occasionally lead to unbalanced encounters or quests.
+
+Overview:
+For The King is a delightful blend of strategy and roguelike elements that offers a fresh take on cooperative gameplay. Its engaging mechanics and charming art style create an immersive fantasy world that is as challenging as it is rewarding.
+
+Gameplay:
+The core gameplay of For The King revolves around turn-based combat and strategic decision-making. Players must navigate a procedurally generated world, complete quests, and battle a variety of foes. The inclusion of hex-based movement and positional tactics adds an extra layer of depth, requiring players to carefully plan their actions.
+
+One standout feature is the seamless integration of both single-player and multiplayer modes. The cooperative experience shines, as players work together to overcome challenges and leverage each character's unique abilities. The game encourages communication and teamwork, making it a highly engaging experience for groups of friends.
+
+Graphics and Sound:
+For The King boasts a visually appealing low-poly art style that lends a distinctive charm to the game world. The environments are beautifully designed, and the character models are expressive, despite their simple geometry. The use of vibrant colors and dynamic lighting adds depth to the world, making exploration a visual treat.
+
+The sound design complements the visuals perfectly. From the whimsical tunes in towns to the tense battle music, the soundtrack sets the tone for each situation. Sound effects, like the clashing of swords or the creaking of a ship, further immerse players in the world.
+
+Story and Narrative:
+While For The King doesn't prioritize an intricate narrative, it provides enough context to keep players invested in their journey. The overarching goal of vanquishing the chaos threatening the kingdom serves as a solid backdrop for the gameplay. Memorable moments arise from the unexpected twists and challenges encountered along the way.
+
+Character development, though somewhat limited in terms of individual narratives, is driven by player choices and the progression system. As characters level up and acquire new equipment, they become more versatile, allowing for diverse strategies.
+
+Performance and Technical Issues:
+For The King runs smoothly overall, with short loading times and stable performance during gameplay. However, there were occasional instances of minor graphical glitches, such as objects clipping through terrain. These were infrequent and didn't significantly impact the experience.
+
+Multiplayer and Community:
+The multiplayer aspect of For The King shines, allowing for seamless online co-op. The game provides various options for connecting with friends, whether through Steam integration or by sharing a lobby code. The community surrounding the game is active and supportive, with forums and discussions readily available for those seeking advice or looking for others to play with.
+
+Final Thoughts:
+For The King is a standout title in the strategy and roguelike genres, offering an engaging cooperative experience with deep gameplay mechanics. While it may pose a slight learning curve for newcomers, the rewarding progression and dynamic world make it well worth the investment. With its charming art style and robust multiplayer features, For The King is a must-play for fans of tactical RPGs.
+",0.6923515200614929,14,True
+527230,88341842,76561198005396951,"Hell yes I recommend this game to other players. It provides the perfect balance of luck, skill, and strategy. Stick around too long to level up, you'll die to chaos. Try to rush through the game, and you'll realize it only takes one battle for your journey to end. Between the random events, gear, progression, light and funny story with some great comic relief, blended with cool features like arrows sticking in your enemies permanently and the hilariously 'accurate' physics for dying enemies leads to a game full of fun, frustration, and hopefully, maybe, triumph.",0.6415777206420898,12,True
+527230,120590470,76561198091013814,"A simple yet very fun turn-based RPG that provides a great challenge for casual and seasoned players alike. That being said even on the easiest difficulty it's still quite difficult if you don't prepare properly. Highly replayable as well as each of the campaigns have randomly generated maps so doing the same campaign multiple times is still quite fun. It goes on sale for about $6, and for that price i'd say it's very worthwhile. Pick up deluxe edition for the extra couple bucks as well as the items, two classes, and new campaign are worth the very tiny amount of extra money, about $1.50 on sale.
+
+You have a wide range of classes to choose from which you can unlock as you play the game, although most of the classes don't seem particularly well balanced. Basically you're almost always going to be playing characters who have a high speed stat as they go first in combat, while those with lower speed only end up hindering you. Your damage isn't based on your class either, it's based on the weapon you're using. Only your stats which can help with accuracy and with getting better luck in the various random events, starting items, and passive skills are affected by your class, but ultimately speed reigns supreme which is a bit unfortunate. Plus nearly all of the classes play the game. There's no real difference between a strength-based character and an intellect-based character since all skills your characters have are based off the weapon you're using. A strength character could use an intellect weapon if they wanted to although they'd have very low accuracy with it. It would be nice if each class had some innate skills they could use regardless of their weapon (some like herbalist which has party heal do but its one of very few) rather than random passives that don't really mean too much. For example: The Blacksmith class being able to use a stun against an enemy no matter what weapon he's using as long as it's strength-based rather than it being complete rng what skills he'll get. I also wish that when you leveled up you could maybe get skill points to spend into extra health or damage or something instead of it just being a flat boost for all of your stats. That being said, I still do like skills being based off of weapons as it keeps things fresh as you play the game and replace your gear, I just wish it was a bit more complex.
+
+The enemies and dungeons are well varied, and while the combat is very simply designed it's still quite fun and easily accessible for anyone unlike some other RPGs such as Divinity Original Sin (which is also a great turn-based RPG). It's rather neat that many enemies have special abilities like being able to destroy your items, steal money, or cause your character to flee combat. This however, sometimes can cause fights that are more difficult than they should be when you get an enemy that can destroy your gear, another that will steal your gold and flee with it, AND one that will do massive damage to your party, possibly killing someone all in the same fight.
+
+The campaigns are all fairly enjoyable. The story is generic, but that's fine for a game like this. Each campaign has its own unique theme and mechanics, and combined with the random generation allows you to play multiple runs of the same maps and still experience something new, or at least, different. On top of being able to purchase new encounters on the map as you play, there's enough here to keep you entertained for a while. There's even an endless mode that's nothing but combat if that suits your fancy.
+
+The balancing is a little off sometimes. I've mentioned classes already, but the rng in your campaigns can really screw you over as well. Entire runs can end because you didn't get a good enough gear drop and now you have outdated weapons and are unable to obtain new ones since you've cleared what dungeons you could and towns don't stock anything useful to you. Some status effects can completely cripple your run as well by nuking your stats or destroying good equipment you have. For the most part this hasn't been a problem for me, but it does happen on occasion, so make sure you keep backup gear with you instead of immediately selling it.
+
+Overall, while not my favorite turn-based game it comes in a close second. It's a lot more fun to play with friends but still an enjoyable solo experience. I rate it an 85/100 due to it's cheap price tag and simple but enjoyable fun that provides a good challenge that isn't too bs... a fair amount of the time anyways. Points are deducted for your runs being heavily dictated by good rng and the necessity to grind at times in order to prepare for later parts of a campaign, and while for me this was only a problem some of the time I can very well see it being a lot more problematic for others depending on your luck. They are making a second For The King game, so it'll be exciting to see what they do with that when it comes out.",0.6413304209709167,11,True
+527230,102522741,76561198283240833,"For the King is a great tabletop rogue-like adventure game. It supports up to 3 players but you can also play solo and control 3 characters. The game a has a lot of replayability with there because different campaigns you can run and different team comps you can build. 
+
+Story-wise there isn't much. Like it introduces one and it's there, but it's there's not much to it and it's uninteresting. At least I felt that way. I honestly can't even remember what the main campaign was about. 
+
+This game is entirely based on RNG and that's a huge turn off for some people. Most of the negative reviews are because this is the way the game is structured. If you like trying to maximize your RNG chances or succeeding a 20% chance roll then I highly recommend this game. If you don't like the concept of RNG controlling everything then maybe stay away. Even if you aren't too good at the game there's a lot of game rule modifiers that make the game a lot easier. 
+
+I have yet to encounter any bugs in this game except the ones that attack you. 
+
+I think my main complaint for this game would be that, generally, you need to follow a balanced team comp of: healer, damage, and tank, to actually win. There's different comps you can try and still beat the game with but on the harder difficulties something like a full damage team won't work.",0.6384474039077759,10,True
+527230,82601823,76561198025008022,"Think of it as a board game, but in the best possible way. Amazing re-playability, fun solo, fun multi, just fun.",0.6367197632789612,11,True
+527230,123649719,76561198067483331,"For the first 6 hours my friends and I had a great time, the game was a challenge but it was enjoyable and fair. But at some point in the game, the enemies just become super overwhelming. It feels like they are playing a different game then we are playing. 
+
+Our ""heroes"" just feel like regular townsfolk who wondered too far out of the village while every enemy has 40 dmg AOE abilities that add a burn and take away your focus. Don't worry you can use your very limited God's beards that end up costing 200-300 gold at level 10 to heal every turn so you don't die. Every enemy is immune to 8 things, has physical and magical shields, and hardly ever miss their rolls. 
+
+In my opinion, this game doesn't need to be a rouge-like. The game feels very long and tedious which is fine in a classic RPG adventure, but not in a game you have to restart when you die. Our 9 hour first run has exhausted me and my buddies. We don't feel satisfied about the 9 hours, in fact we feel like they were wasted, which makes us not want to start another run at all. I think this game is awesome, i really like turn based games and one i can play with friends is just icing on the cake. But with how much dice rolling and time each run takes, its just much too exhausting to put the hours in to get a lucky run to make it all the way. Give us a way to turn off the rogue elements and i would have a much better time spending hours and hours developing my character.",0.6359778642654419,38,False
+527230,193265318,76561198828064294,"I did a single play through of this game several years ago and fell in love with it, but my party disbanded. When FTK2 came out, I played it through to 100% over the course of a year with some friends, and we've decided to backtrack into FTK1 now to do the same. I was a bit worried as FTK2 is one of my favorite games of all time given the memories I made with the people I played with. While we miss certain UI upgrades and abilities from the sequel, there's a serious charm about the art and how this game runs in comparison that is making us happy, and it's kind of trippy to go back in time and see a lot of scourges/main characters as younger versions of themselves (and some that aren't even in the sequel!). Everytime certain characters speak we just chuckle because we know what their futures hold. If you want a smoother gaming experience, just hop to 2, but if you're in it for the funsies and the fandom, this is a great game.
+
+Plus, if you are hit with a bleed, you bleed triangles. Highly recommend screaming, ""Oh no! Not my spicy Doritos!"" in response.",0.6351243257522583,9,True
+527230,78024112,76561198136214992,Highly recommended. A little bit slow-paced and relaxed. Unexpectedly fun playing with friends. Especially when you or your friend got five failed roll on a 95% skill...,0.6329363584518433,11,True
+527230,92925574,76561198007466485,"Bought this by mistake having thought it was another game.  Serendipity, it's a really well made roguelite come J combat RPG.  Nice sound design, nice smooth UI, quick to play, a steady sense of progression and a lot of achievements to keep you smooshing monsters.",0.6324134469032288,10,True
+527230,185707021,76561198856171889,"really struggled with the game first time trying; it was just me and my bf aand it was very hard to manage support/damage balance as a group of only two- we either went full damage and suffered on healing/buffing and died as a result; or either one of us would take up full support role and we'd still die due to insufficient party damage. 
+
+it seems the sweet spot is to have a three people group; we had a friend join up recently and we're currently on our third map. been really fun. idk how it goes on hard mode but we're slowly getting there. [spoiler] game has its ass moments sometimes; you get f load of gold at the final objective- the campaign ends :D can't spend it or have it accumulate in some sort of other type of currency too...wow you're trolling your players!! how unique of you XD [/spoiler]",0.6320616006851196,8,True
+527230,101520394,76561198045465538,"I have been a ""hardcore mode"" and rougelike fanatic for over a decade, and have thousands of hours logged across dozens of titles. I've lost many, MANY runs and had characters die on which I had spent weeks of my life. I say all this to give you some perspective, so you don't think I'm just ""mad because I'm bad"".
+This title has so much potential, but as it is now the game has several mechanics which are frustrating, un-fun and in my opinion, inherently incompatible with each other and the genre as a whole. 
+
+Point #1: A single run in this game is Loooooong. Of my 18hrs. of playtime, more than 14 was spent on a single campaign from beginning to final boss. Not only that, but much of your time is spent clicking around the overworld trying to scrape together enough gold to buy gear and supplies for the next boss dungeon. (Grinding)
+
+Point #2: The turn based combat has very little depth or strategy. There are two types of damage in the game, Physical and Magic. Some enemies are resistant to physical, some magical. 90% of your turns are going to be doing the same middling attack with the highest accuracy rating against the weakest enemy. ""But wait!"" you might exclaim,""What about the 50 status ailments, buffs and debuffs in the game? Surely they provide some spice and variety? Surely you would want to cast other spells and use other abilities?""
+To which I would reply, ""Nope."" and in Point #3 I will tell you why.
+
+Point #3: Risk aversion & Action economy are the two biggest forces that will drive your decisions in game, and you will constantly be forced to skip events or play it safe in combat because [i]the penalty for whiffing a roll is way too high[/i]. I learned this lesson the hard way a few hours into my very first run. I saved up enough gold to buy a nice boat, set sail and happened upon a ""Nice fishing spot"". I made the mistake of accepting a random roll with unknown outcomes and next thing I know, the Kraken had destroyed my boat and shipwrecked my entire party. I ended up out 200 gold, wasting 5 turns, and a permanent -1 to all stats for each hero. I don't know what the positive outcomes were, but if it was in line with other events I probably would have found a free item of medium-low value. Many other events are similarly not worth the risk.
+Likewise in combat, as I mentioned earlier, every single special effect, debuff or buff [i]without exception[/i] requires a perfect roll to take effect. It has proven to never be worth attempting these abilities, because when you fail, your entire turn is wasted. It is also usually never worth it to switch weapons because that eats an entire turn as well. Staying in combat for as few rounds as possible and minimizing damage is key to survival as the devs did not see fit to include combat healing magic. Every point of HP you need to heal will cost you consumables or gold.
+
+What it feels like: Picture this scenario - You're 8 hours into the run, just sailed across the ocean in high spirits after beating the area's boss. You pick up a bounty from the next capital city and head off into the wilds to fight some monsters. You spend a couple of hours slaying overworld mobs and mini-dungeons until you can finally afford that upgraded wand and boots in town. Now that you are ready you head down to the next boss dungeon. On floor three you get crit twice, everyone is on fire and one person is petrified. One failed armor buff roll and a failed taunt roll later, everyone goes down, run over. Guess you should have spent another hour grinding to buy some more consumables.
+
+Final thoughts: No one wants to devote this much time to a roguelike run. No one wants to lose a run to events they felt were beyond their control. I personally don't want to play a game where you never get to make real and impactful decisions, you just roll the dice and hope for the best. With a little reworking this game could be great, but as it stands now it is not worth buying.",0.6297808289527893,41,False
+527230,101221836,76561198036535348,"Very good game. Do not let the other reviews claiming its unfair sway you from buying this. It IS RNG based and to many, that is a huge turn off. There are more than enough ways to manipulate the game in your favor, to compensate for the RNG. 
+
+If you hate RNG based games, yes you will hate this one. But if you enjoy that sort of thing and understand how to play these games, this one is 100% for you.",0.6297543048858643,12,True
+527230,205438364,76561199145259912,"60 Hours, maybe about 100 Hours on my Xbox, and there's so many problems.
+
+I have beat the game multiple times and there is 1 MAJOR PROBLEM, that if you simply removed it would fix the entire game. THE RNG.
+
+ there's reviews that say the RNG isn't the problem. that's not true. THE RNG DEFINES EVERYTHING IN THIS GAME. There is no strategy, only RNG. Sanctums, Map Generation, Events, Weapons, Dungeons, Turn based combat, everything in this game is built on RNG.
+
+people say you can mitigate with strategy it are only lying. The only way you can win in this game is by having good RNG, good RNG determines if you kill an enemy or not, passive skills are mostly determined by RNG, there is no reliable way to mitigate the RNG other then getting good armour and weapons which are also obtained by RNG.
+
+Weapons are bought from the shop which is randomly generated from RNG.
+
+I've had runs that lasted 3 hours and haven't gotten 1 single weapon. I gifted this game to my friend and he quit because one game decided not to give him a SINGLE WEAPON ALL THE WAY TO LVL4???
+
+Nothing good in shops, enemy drops, events... There is no lying. Poor guy was quite litteraly stuck with the base weapom all the way to lvl 4.This game relies entirely on RNG not strategy, there is no such thing as ""builds"" you can't build a tank because getting aggro to yourself is RNG, you can negate this by using taunt... WHICH IS ALSO RNG...
+
+There's guides in this game that litteraly says the META is built on killing enemies first, which requires good rolls (RNG) and good weapons (RNG) the core aspect of this game is litteraly built on RNG.
+
+People will say that i'm just bad are RNG are an aspect of roguelikes. Yes RNG is a aspect of roguelikes, but not to this extent, everything in this game can not be mitigated by anything other then your RNG.
+
+I have about 160 hours, and I know all too well that this game is not based on strategy. The core gameplay is litteraly RNG, there's probably less RNG in a gambling simulator (I DO NOT SAY THIS LIGHTLY).
+
+The only reason I played this game to this extent is because i'm into challenges. This wasn't a challenge that tested my strategy, it only tested my RNG. I've had many annoying runs more then fun. I've had bad luck before many times but at least I could mitigate it a little. I've beaten A20 in slay the spire with common cards only. that would be considered awful RNG, but I could mitigate it by having a good build. You absolutely not do the same in this game.",0.627209484577179,21,False
+527230,207764290,76561198076780620,"Start with hopes and dreams.
+Find cool and strong item.
+Roll a 15% 4 times in a row.
+Die.
+Repeat.",0.6254592537879944,9,True
+527230,30247300,76561198029785226,"The awesomeness of this game cannot be explained in human words. But i'll try. 
+I love tabletop games, but i'm a 55 year old troll living in my parents basement so of course i don't have any friends to play with. This game is like a tabletop game but on the computer. So thanks to this game i can finally play a great tabletop game without having to rely on my evil imaginary friends.  
+
++Beutifull music
++Playfull and cozy graphic
++Lots of replayability
++A good selection of classes
+
++/-The game is built upon a system of ""dice rolls"" when it comes to movement/attack/disarming traps. I personally like this but some people may not like this kind of system.
+
+The game is still in early access so beware of bugs and crashes. I lost ~3 hours of gameplay due to the game freezing, but on the plus side i got to keep the lore from that playthrough.
+",0.6740320324897766,18,True
+527230,38913689,76561198057467056,"tl;dr
+An excellent rogue-like rpg.  Unfair and infuriating.
+
+
+This game.  Where to start?
+
+Pros:
+
+* highly addictive gameplay with outstanding rpg mechanics.
+
+* good loot system with paper doll equipped items and well designed item attributes.
+
+* cool-looking procedurally generated hex grid map.
+
+* the few wins you achieve will be extremely satisfying!
+
+Cons:
+
+* You are VERY unlikely to beat this game (even on easiest difficulty) without a good number of unlocks.  Be prepared to grind a few losses to build up your lore (currency for unlocking characters, items, and events).
+
+* I'm 100 hours in and have yet to beat the game on Journeyman difficulty which is one step up from easiest difficulty.  The game is designed to beat you, troll you, and enrage you (HULK SMASH !!!).
+
+* combat UI is a bit wonky, but is servicable once you get used to it.
+
+
+More gory details:
+
+Saw this streamed on Twitch and decided it was worth (part of Steam Holiday sale).  After first few playthroughs on easiest difficutly I was questioning my purchase.  I pride myself a gamer... why am I getting my bootie handed to me so hard?  Is the game rigged?  What's up with my Hunter only proc'ing his passive (automatic crit) when the enemy has 1 hp?  Cool - the game has gelatinous cubes !  wait... did it just dissolve my armor ???!!!  Why are my weapons so sucky?  Why is everything so expensive at the markets and vendors?
+
+I had many questions, and few solutions.  But, after a few more games and my first victory, I was hooked for good.  Presently, after calming myself from my latest rage quit, I grind away at Journeyman difficulty trying different party compositions and laughing/crying/raging when the game trolls me.
+
+
+If you enjoy rogue-like games, rpgs, challenging strategy scenarios, and can sometimes appreciate it when you are being trolled by the developers then do NOT hesitate - buy this game immediately.",0.7230334877967834,22,True
+527230,46114891,76561198059066526,"A bit boring if playing alone, but with friends, this game is a lot of fun. The last PC board game I played was Armello, that one is fun too.
+
+But instead of PvP, this is PvE. You travel around the map with your companions complete missions, going into dungeons, gains power up and more! The game has quite a punishing difficulty as well if you're not careful, especially in the hardest difficulty.
+
+If you want an adventure board game that can be played co-op with friends, go with For The King",0.6729466319084167,22,True

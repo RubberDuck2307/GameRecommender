@@ -1,0 +1,417 @@
+appid,recommendationid,author_id,review,weighted_vote_score,votes_up,voted_up
+1515950,202314808,76561198133019830,"Bought this as a bundle cab 1&2. The first collection ran, the second never once even loaded. Total failure at launch with no error report. I did every step in the forums to fix this but it does not work. This is sad, pathetic, and a true sign of the industry... a bunch of 8 bit arcade ports cannot be made to function. Odd, the ROM community has been doing it for 20 years... try to buy legit copies of your childhood favorites? No dice, go pirate it from Capcom like everyone else. An excellent business model. NEATO!",0.7602041363716125,39,False
+1515950,192688267,76561199107329877,Won't open if you have Meta Quest/Oculus app installed. Will not recommend until fix.,0.7468792200088501,45,False
+1515950,144512106,76561197968530638,"Is it a workable emulator with legal ROMs for purchase that play just fine? 
+Yes.
+
+Is this the single-worst interface of all time? 
+I have yet to see a worse one.
+
+If you can find a way the play the games, it's exactly what I expected and that's cool, but good luck getting a game to actually open, much less exit when you're finished. Confusing layouts, insanely terrible menus, wildly inconsistent functions for buttons. 
+Capcom is lucky poor UX isn't punishable with prison time.
+
+Absolutely awful experience, avoid at all costs. 
+
+
+
+",0.7243579030036926,24,False
+1515950,208931878,76561199861796467,"I really wanted to like Capcom Arcade Stadium — the idea of having a collection of classic arcade titles all in one place sounds great on paper. Unfortunately, the execution leaves a lot to be desired.
+
+The emulation feels off, with noticeable input lag and inconsistent performance across different games. Even on solid hardware, frame pacing and slowdown issues pop up far too often. The CRT scan line filters are also underwhelming — even at 1440p, they look artificial and don’t capture the authentic arcade look.
+
+It honestly comes across as another quick cash grab rather than a carefully crafted preservation effort. I’ve built PCs with better emulation setups in the past that run these same games smoother and with more accurate visuals.
+
+Not worth my time here. Sorry, Capcom — this one just doesn’t hold up.
+
+Verdict: ★★☆☆☆ (2/5) – Decent concept, poor execution.",0.6766466498374939,17,False
+1515950,101953061,76561197970630707,"I detest censorship and the fact they have censored the original SF2 (ehonda stage) without the option of playing ""Original"" is a disgrace.
+",0.6873729228973389,61,False
+1515950,215861236,76561198079632000,"Wait for the big deals on this one, they are emulated alright as far as I can tell but with the games being packaged as DLC you are far better off waiting for Capcom deals.",0.6243976354598999,8,False
+1515950,120760068,76561198335741079,"A Fantastic Compilation of classic Capcom Arcade Titles spanning many almost 2 decades. I am very lucky to have been alive to play these when they were first released in the Arcades years ago. Tons of awesome and various genre's of games such as 1941 Counter Attack, Strider and Ghouls 'N Ghosts highlight this collection. Very good emulation as well as Trophies, Leaderboards, Screen Options and Unlockables give you reason to come back and play.  I would have loved for them to include proper Online play for the Multiplayer games as this is the only real complaint against the Title. I am very much hoping for a Capcom Arcade 2nd Stadium to be released at some point.",0.6021534204483032,7,True
+1515950,175274132,76561199215170259,Bait and switch. This game did not have Enigma DRM malware when I purchased it. It was added afterward. I would not have bought it if it did. Uninstalling this game and removing every CAPCOM title from my wishlist.,0.6476690769195557,18,False
+1515950,117758555,76561197989268630,"Edit - 11/19/2023 - Time for the proper review
+Hundo'd both, so time for the proper review...except I keep hitting the character limit here so I'm putting it in the 2nd Stadium which is practically the same as this except different. Short version: the games themselves are good, the bizness decisions and design decisions for the Stadium ""Wrapper"" are not so good. Lastly, YOU CAN CHANGE THE DISPLAY SETTINGS TO MAKE IT LOOK LIKE A NORMAL GAME SO DON'T THINK YOU'RE STUCK WITH ARCADE CAB SIMULATION AS THE ONLY WAY TO PLAY. That was the biggest complaint most had, so I had to make sure folks knew it wasn't unfixable. See my guide for further instructions.
+
+Pre-lim Review starts here:
+So, normally I would wait until I got the 100% of cheevos in a game before reviewing it and also waiting for the Dust to settle, updates-wise (I never really liked games changing while I'm playing them, unless that's part of the game of course), but there's a cheevo that requires you to play a game 1000 times sooooo....I'mma just post a preliminary review because I see a fair amount of negative reviews that refer to stuff that seems to have been fixed in updates.
+Date: 6/27/2022
+Preface: Got the 3 Pack Bundle because I actually knew I wanted to play enough of a percentage of the games in the bundle to warrant not just buying things individually. Might have been a mistake due to some sort of ""Time Limited Bonus"" you can get after you buy a game for the stadium, but oh well, I hate IRL Time Limited stuff in games anyway. Players should own their games, not the other way around, ya know?
+
+Intro: Right away, my first impression was ""that's a lot of introduction/tutorial popups for a glorified emulator library program"" There's got to be a better way to present this info, ya know? Anyway, the menuing isn't the worst, but to those who are more used to basic no-nonsense stuff for old games, this kind of ""Wow, look at all this cool stuff we hired a graphic design to model and everything"" menu is probably a turn off. I can understand why. ""Why are you wasting my CPU power on this?,"" they're apt to say. (I say it too, honestly. I would have much prefered a simpler interface without such excess.) But I guess this was to try to hype it up, or something? Anyway, my rig can cope so no big deal for me.
+
+Next, I went to get to the game I actually wanted to play first: Bionic Commando. After going through what should have been just a listbox but was instead a bit more, I found the game and started it. Immediately, more Tutorial Pop-Ups. Really, people? There has to be a better way. At least they stop showing up after they're done. Anyway, I get through the mess of pop-ups and find....oh. Oh dear. It's one of [b]those[/b] arcade simulators eh? The kind that tries to simulate playing on an actual cab by messing with your view of the game in ways including: wasting CPU/GPU by adding a 3D cabinet as a border for the game screen, distorting your view of the game by making the game screen be viewed from an angle instead of straight on, and having screen distortion at extreme angles instead of actually making the game look good. Now, this gimmick is obviously a nuisance and there are other reviews that call it out as such. [b]HOWEVER,[/b] if you go into the display settings, you can change the display to actually look like a game and not a simulation of a game. Change the ""Frame"" to ""2D"", change the ""Display Size"" to ""Normal"", and change the ""Display Filter"" to...well, I went with ""Type B"" but this is the aesthetics setting so it's not like I have a clue what it ""should"" be. The net result is that this looks like a good emulator instead of a bad simulator. Problem solved. (I will write a guide if there isn't one already.)
+
+Next, a different (and old) review mentioned that there was no way to set the game speed before starting. But in the current version, when I select a game and then go to ""Game Settings"", there is in fact a setting there to set the game speed there. So it looks like the Devs are actually addressing the issues so far.
+
+Another old review said that, at least in the case of Street Fighter II, the six action buttons weren't even mapped. In the current version though, that seems to have been addressed. I went into the Controller Settings and found that buttons were set up in what seemed like a pretty reasonable configuration and all the stuff that should be mapped actually was mapped. I also found that you can map buttons as you please, even unmapping some functions (like the speed) entirely if you don't like them (there's literally an Erase function to simply remove the mapped button from a function, which is actually something a lot of games lack entirely). There's even an initially unmapped pair of actions for the Light/Medium/Heavy Punches/Kicks at the same time, though I have no idea where that would go on a controller. I should mention, though, that I was using a normal, non-arcade controller when I did this since I haven't committed to investing in an arcade controller. Yet. So, there's a chance the devs haven't set up the game to work nicely with Arcade Controllers. If/when I get one, I'll update this review with my findings.
+
+Buying more games was listed as difficult in a review...and I cannot speak to that because I bought the 3 pack bundle so there's nothing left for me to buy. Honestly, I'd just stick to the steam store for that anyway.
+
+Now, I should repeat, this is just my prelim review. I wasn't planning on writing it, but I did anyway because if I had read the currently displayed reviews for this game I'd probably have never given this collection/glorified emulator a chance. Except the problems in those reviews have apparently been addressed. So yeah, it seems like the Devs are actually trying not to be awful here and have been fixing the mess. Good, as the world does not need more ""Awful Ports of Old Games as a Cash Grabbing Exercise"" rot. This ""game"" still needs some work though, especially in the ""UX"" department. But I'd say it's worth the $2.99 per title it offers so far, especially if you already know you like those titles.
+
+Edit: Update: 7/25/2022
+All ya'll saying this game has microtransactions don't know what MTX even is. MTX would be charging you per play, or for play time. Or for wallpapers you don't even want. (BTW, Arcades INVENTED microtransactions, and they still did it better/more fairly than modern games. Getting good meant not paying as much.) But here, for each DLC, you are literally paying for free play of a game forever. An entire game, which was (usually) well liked when it came out, and isn't some trashy mini-game.
+
+And the 'nickel'd and dimed to death' gripe some reviews have? I'm sorry, but what about the people who literally just wanted 1 game out of the whole collection? Or the people who only like shmups/fighters/etc? And all the people who can't afford to get all the games at once? Why should they suffer? And if you want all the games, there's literally a button on the store page to buy them all. Not forcing you to buy all the games is actually quite consumer friendly, and a great use of the concept of DLCs. Even the cheevos are set up nicely for that, since they're not tied to any specific game in the collection.
+
+BUT! Capcom or whoever decided how to sell it all gets big points off in my book for not using Steam's Bundle feature, instead opting for the Package method. Even though Capcom or whoever doesn't offer any Bundle Discounts for the content, it's still better for consumers if you make sure to not offer any purchasing methods that could result in buyers paying for something they already own and won't get a second copy of. So, Silver (not Gold) medal for buyer friendliness so far. But this is still a prelim review.
+
+Edit: 8/2/2022 - Real quick: none of the cab styles I can use so far look like the irl cabs. Kinda defeats the point of the ""showing virtual cabs"" thing, I think. Not a deal breaker for me though.",0.5949773192405701,9,True
+1515950,167674937,76561198006414888,"I don't know why people in the reviews get mad about this saying it's not a collection. It's a bunch of classic Capcom games, and you don't even have to buy the whole collection if you don't want. Just pick and choose which games you're interested in and ignore the rest.",0.6936669945716858,24,True
+1515950,185516822,76561199492660937,"Great games, abysmal emulation.
+
+Frame drops everywhere, horrid UI takes several button presses (with UI animations in between) just to save/load state,  and I suspect a memory leak because this thing eats RAM (2GB for emulating  an 80s system).
+
+The games themselves are fantastic, of course they are, but this is a very poor way of experiencing them.",0.5870908498764038,9,False
+1515950,99507427,76561198048492078,"The interface on this game is one of the worst I've encountered;  Nothing about it is intuitive.
+I'm an old school computer nerd, so I'm generally pretty good at figuring out keys and how things work,  but this game doesn't seem to follow any standard conventions.
+I played one game (1942) and couldn't figure out how to exit, I eventually just had to ALT-TAB and force close it.  Not sure who designed this interface, but it's terrible.",0.5855206847190857,12,False
+1515950,92550814,76561198027396956,"It's a good bunch of games. The port is very good too, maybe not on the expert technichal level but it is a good port nonetheless. Any retro gamer will enjoy this collection. Maybe a little too expensive but you can always wait for sale. Got it for the 19xxs games and Ghouls/Goblins. But there are many other fun games. Worth buying if u are a retro fan.",0.5667272806167603,13,True
+1515950,92551648,76561198091206076,"Why won't the developers let us change the controls to whatever key/button we want to use? That is my biggest peeve with all of these retro packages they come out with. MAME allows me to change the controls to what I want but if I pay for the game, they limit my ability to change the controls. UGH! Developers why not let us choose the controls? Is the LShift key so special that it must be used? I try to support these companies but they can't even do the basics.",0.60993492603302,12,False
+1515950,229246920,76561198808491346,"A pretty good collection, has some cool features and a good selection of games. Shame it's been maligned from people who thought all of the games were free but only got one, though it's not like Capcom did nothing wrong, they still did list the base game as free, giving people this impression, they could have made it hurt less if it was more like the SEGA Genesis collection where the DLCs would be listed like individual games and the base game wouldn't show up in results, andd really? Paying for invincibility cheats? Also yeah, you could just use MAME, but it's neat that they provided an official way to buy these games. Though I wish it also gave you the full rom files you could use on MAME like the Genesis collection, also online multiplayer, and why the the heck do some games only have the Japanese Roms even though they have English ones?",0.5597484707832336,4,True
+1515950,218498205,76561198116558138,"More titles please such as Caddilacs & Dinosours, Alien vs Predator, The Punisher and some CAVE games.",0.5515349507331848,4,True
+1515950,92556915,76561198232388560,It's a great bunch of capcom arcade games. Whats a huge plus for me is that you can extract the .pak files and use them in MAME. Tho i think they accidentally put an extra game in the .pak files thats not included in the DLC roster lol.,0.5477402210235596,4,True
+1515950,92840200,76561198264278290,"I have an arcade cabinet and a bunch of Capcom arcade boards. I bought this collection as I was hoping to get my favourites (Street Fighter II, Daimakaimura , Final Fight, Super SFIIX) running on my 50'' 4K TV.  And, importantly, I wanted to use my new 6 button controllers, the astroy city mini 6 button pad and the Astro City Arcade Stick.
+
+Unfortunately, neither work. The PS4 pad is no good for these games as they require very precise inputs which is difficult on the PS4 digital pad (especially for Street Fighter II) so I can't really play the games seriously. This is unfortunate as I like the presentation a lot, the scanlines options are good, the games run well. I could buy one of those Saturn USB pads and hope it works but that's more money spent. I hope Capcom improve support for gamepads and arcade sticks.",0.5461949706077576,6,True
+1515950,219809324,76561198257682341,"I'm gonna give the Capcom Arcade Stadium a passing score for one reason and one reason only: the games are good, they run well and it's a decent bang for your buck overall. That's three things. 
+If you just want to boot up the arcade classics from your childhood or explore a world before your times in case you're a younger peruser, then go ahead and enjoy. I did too, don't get me wrong, but when looking at the whole picture there's quite a lot of stuff that i have issues with. 
+
+I wasn't a fan of how there's no explanation anywhere of what differenciates the japanese and international ROM of each game. And on one hand i can understand why, as most descriptions would boil down to either ""the japanese version was a wreck and we had to fix up so much shit that there's not enough space here to list it all up"" or ""we have made this game worse for the west for absolutely no reason"" and that's not the most flattering way to present a product you've charged money for, but on the other hand... who gives a shit? These games are 30 years old at their youngest, you can put on your historian hat for a second and be honest about your own work, Capcom. 
+
+And since we're on the topic of history and what-have-you... would it have killed you to include any kind of old promotional material in the collection? Flyers, magazine ads, commercials, that kinda stuff. I know this is the Capcom Arcade STADIUM and not the Arcade Museum like i erroneusly called it in one of my earlier reviews for the games here included, but after playing Atari 50 every kind of game collection out there seems so low effort in comparison. I'm not asking for in-depth developer interviews or exclusive factoids or 3D renders of the arcade cabinets with the accurate stickers attached on, just the bare minimum. I know you're keeping all this stuff stored in some hard drive already, it's an afternoon's work. Come the fuck on guys. You don't even have to translate the japanese stuff if that's somehow too much effort over the same games you've been reselling for the 20th time. 
+
+Since there's no flyers and anything of the sort, the games are explained to you through digital manuals, digital manuals that suck ass if i might add. I've found them to occasionally be incomplete or even incorrect, for example in Captain Commando its mentioned nowhere that you can sprint by double tapping the movement input, and in Forgotten Worlds there's an explanation for a mega attack that's not actually doable in the game, and if i dig more i doubt i won't find more examples like these. Default inputs sometimes wil need to be remapped, as they can be counterintuitive or clunky, like in the case of Dynasty Wars or, once again, Forgotten Worlds. 
+
+Challenge runs are a genuinely neat inclusion, unfortunately i suck at videogames so just getting at the credits is enough of a challenge for me, but if you're looking for a way to spice up your playthroughs and to swing your big gamer dick in front of the world it's somethign you can do. You can also edit the dip switch settings of each game if you want a more personalized experience, another thing i liked there.
+
+But i'd hate to end this technically positive review on a positive note, so here's why save states in the Capcom Arcade Stadium are weird and stupid: first off, all games share a limited amount of save slots, which is less than the total amount of games included, different versions notwithstanding, secondly there's no quick button to reload a save state, thirdly saving each still takes a few seconds which depending on how you wanna use them can be annoying, fourthly i wish there was a way to turn off rewinds altogether because it's an unrelated feature i've only used once that's clearly meant to replace the practicality of save states but absolutely does not.
+
+Post scriptum just to laugh at the people in the Steam reviews who dowloaded this for free and are complaining that there's only one game in it, duh retard?",0.5454545617103577,2,True
+1515950,203859198,76561198377894191,"[b](This review is for both Arcade Stadium Editions available as of the original date of publishing this review, so the body of text is repeated for my review of Capcom Arcade Stadium 2.)[/b]
+
+Capcom Arcade Stadium, both 1 and 2, are solid collections of games that I am not disappointed in owning. I love to play arcade games, but have a difficult time mastering them. With these collections, I can play a wide variety of games - bullet hells, fighting games, platformers, Puyo Puyo-likes, Tetris-likes, Match 3s - and master my timing and skills in these games which I still fare horribly at.
+
+Having a rewind/slow-mo/fast-forward feature is very much appreciated, one that I also loved in SEGA Genesis and Mega Drive Classics (which I still own). I'm not very good at Street Fighter, for instance, but I can better practice the Special Moves in slow motion (I have no idea how to execute them properly yet, and I've been playing SF for about three years now). I can also rewind, if a move I make is not well executed.
+
+Some games I don't really like, such as Darkstalkers (although I appreciated Felicia's innocent, playful personality), but I'll almost always play a Mega Man game, and I know that there are two in these collections!
+
+[i]PLEASE NOTE: One con about this title is that it uses The Enigma Protector, a type of DRM Capcom is using on older titles in place of Denuvo Anti-Tamper. However, I would not be too worried about it, as it is not super aggressive and can be defeated with anti-DRM tools if necessary - let me stress for legal reasons that I am NOT recommending this and do not endorse piracy or cheating, but if you're only playing offline AND not sharing the software, then it can be done - but even with Enigma in the game, all it really is meant to do is prevent cheating in the ranks, so I say leave it be.[/i]",0.5445860028266907,2,True
+1515950,92964586,76561198073088368,"I picked this game up hoping it was an enjoyable arcade experience but nope the game lag out and freeze up and random spots making for random deaths where their shouldn't be.
+
+Also Capcom should really learn what makes Arcade games fun by making the games that are 2 player On-line co-op instead of using the Steam RemotePlay. If they could do it with their Beat 'Em Up Bundle they should be able to do it with this.
+
+If you want a great arcade experience but it has less games but you can play online with friends without having to hop though hoops, just stick with the Capcom Beat 'Em Up Bundle.
+",0.5897232294082642,12,False
+1515950,94303006,76561197985353991,"I want to like this, especially for what it cost me. The problem is that there are a lot of games here that just didn't do it for me back then (in the arcades) and nothing has changed with that. I just can't seem to care about the vast majority of games that feature side scrolling beat em ups or shoot em ups. After a while it is just not fun or different from one game to the next. 
+I'm hoping they will be releasing more hits or giving people some choice here on how much or little to buy. I appreciate the new features and the work on making this a more modern experience. I've not been able to spend time on exploring everything or every game to the fullest, but I can easily spot what interests me or was from my past arcade experience that makes me smile. Capcom, I don't know what games you are perhaps sitting on or not releasing as part of this, but perhaps consider expanding it.",0.5351925492286682,6,False
+1515950,114899631,76561198138953398,"The video filters plus the added 3D environment where you can actually ""see"" the arcade cabinet, and the ones around playing demos while you play, makes this the ultimate retro experience on Steam. The selection of games is fantastic. Especially in the airplane games area. Hope they add more games in the near future. HOWEVER, the title song is a fucking piece of shit. Nobody listened to that modern EDM crap in those days. They should fix that ASAP.",0.5338512659072876,5,True
+1515950,215058090,76561199187239564,"So if you're looking at the reviews, you might notice that many of the reviews are negative, and I understand the reason why. It's a bit scummy that they only give you one free game (that one being 1943) and have to buy the rest. You can see that as either a good or a bad thing, for me personally, if you buy the bundle for all games when it's on sale, you should be able to get all games for like $15. That being said, I do believe that this game is a nice selection of games, with a great presentation and quality of life features that make these games more enjoyable in a modern setting. I do still find it frustrating that the invincibility setting is locked behind a paywall, preventing players from trying out a way to play the games in a new way and testing out different ideas in a less time consuming way, which is why I can only assume that's the reason why they offered it for free in the second collection.
+Getting back to this collection, I do find it has many interesting games, such as Strider, the arcade version of Ghouls and Ghosts, and some other classics that I don't believe were ported to English and brought overseas. It's a great way to play some classic arcade titles that would otherwise be unplayable.
+My biggest complaint with this game is that, because it cannot confirm any game you will have, all the achievements are rather lame. There's beat a game, beat a game on the hardest setting, beat any game 10 times, beat any game on the hardest setting 10 times, start a game 1000 times, play for 100 hours, get max Capso Rank (the score you get when you exit a game). It's all very unengaging and boring and tedious for no real gain, and doesn't encourage you to try out every game. Usually, I achievement hunt games to see everything the Devs have to offer, but here, you can somewhat realistically get 100% completion from just the free game included in the base download. It's a shame really since there are plenty of fun games to try out. I do reccommend getting this when it's on sale, as you can buy all games in the bundle for less than the the specific games you do want. If you do that (and just cheat the achievements, if you actually care about them), then you should have a fun time.",0.523809552192688,2,True
+1515950,206897984,76561198044918193,"⭐️⭐️⭐️⭐️☆ A Fantastic Arcade Collection — But Missing Some Key Regional Versions
+
+Capcom Arcade Stadium is a wonderful tribute to one of the greatest arcade legacies in gaming history. The presentation is slick, the emulation is smooth, and the selection of titles covers an impressive range of genres — from shooters and beat ’em ups to classic action and platformers. It’s pure nostalgia, beautifully packaged for modern systems, and the ability to adjust difficulty, add rewind, and use save states makes replaying these classics more fun than ever.
+
+That said, there’s one frustrating issue that holds it back from being perfect: the inconsistent inclusion of regional versions. Some games are missing their English-language releases, while others are missing their Japanese versions, and this inconsistency can be annoying for players who care about historical accuracy or just want to play the version they grew up with.
+
+What’s especially disappointing is that certain games — like Mercs and Armored Warriors, for example — are Japanese-only in this collection, even though they were officially released in English in the West decades ago. There’s really no reason these versions shouldn’t be included, especially since Capcom has always been good about preserving their multilingual history in other releases.
+
+Despite that, Capcom Arcade Stadium remains a must-own for arcade fans. The gameplay quality is top-notch, the customization options are great, and the collection as a whole is bursting with energy and nostalgia. With just a bit more attention to regional version variety, it could easily be the definitive Capcom arcade experience.
+
+🎮 9/10 – A stellar celebration of Capcom’s arcade history that deserves full regional support to truly shine.",0.523809552192688,1,True
+1515950,92576984,76561198013588356,I dont like this port very much. It looks cool from the screen shots but in reality the playing window is too small. The worst part is how to exit the games and the main interface to leave this game. It needs some serious help like making it EASY to exit.,0.523809552192688,2,False
+1515950,170952765,76561198396904662,"I completely understand why people have an issue with this game. This is an example of caring about money over your customers. This ENTIRE game (1 + 2) should have been $20 - $25 max, and I think I'm being generous with that. It's nice to be able to buy games by themselves, but if you want the entire collection there should be a more reasonable price. 
+
+Outside of the pricing, the actual games aren't bad at all, These are fun collections. If you find this game on sale, grab it then. It'll still be expensive, but it is a little better.",0.5222336649894714,2,True
+1515950,104971726,76561198077989074,"The collection of games is a nice dose of nostalgia.  While nothing will quite match up to the days of my youth going to arcades with friends 30+ years ago, returning to these games again is always a nice trip down memory lane.  Even though I've bought similar collections from Capcom and others in the past, particularly on previous console generations, I still continue to buy them and am glad to see these types of collections being released.  The games play the way I remember them, which is enough for me and I look forward to the day when my kids might humor me and play some of the co-op games in the collection with me!",0.5185185670852661,2,True
+1515950,93387889,76561198107608663,"I see a lot of complaints about how the DLC works, but I have to say the games play really well, they're responsive, no slow downs, they're rendered nicely, and I like the arcade interface.  I'm liking this.",0.5128535628318787,13,True
+1515950,155857710,76561197960393604,"Capcom has decided to add ""Enigma"" DRM to this game.  DRM fails multiple virus checks, impacts the system performance (would explain the sudden issues I've been having of late), and acts as malware.  This is just one example in a long line of unethical, and downright harmful practices from the company.  Avoid this game as long as this DRM exists.",0.5599132776260376,9,False
+1515950,116792041,76561197966385727,"Tested the setup with the free copy of base Street Fighter II.  This is really good emulation.  Expect to get your butt whipped in some of these games, even if you set the difficulty to easiest.  Has a lot of options for speed, difficulty, etc.  Can use infinite credits, since it's a button press to get one.  Some people say you can't rebind controls, you can, once in a game (not on the game selection menu), hit start, go to controller settings, you can change it there on a per game basis.  Basically there are 3 tiers of menus, after you load up the arcade selection screen.  One on the arcade selection screen, one after you select an arcade (this is where you get game settings for things like speed and difficulty), and one after you hit A after selecting an arcade, which launches the game - this is where you need to be to rebind controls.  Has a rewind feature and save states.  I don't notice any input lag.  Got the 3 bundle set for ~$25CDN on a 50% off sale.  Lots of coop games, both same time and take turns.  Going to have a lot of fun with this.",0.5081360936164856,1,True
+1515950,202263125,76561198056104247,"The collection is great!
+Online leaderboards, savestates and rewind buttons, optional challenges, built-in autofire, multiple screen settings.
+One can choose between american and japanese versions of games.
+What's not to love here?
+Trust me, it's much more convenient to buy this collection on sale than do emulators.",0.5069994330406189,1,True
+1515950,205073979,76561198025049120,"Worth it, if only for the two mech games. They appear to be set in the same universe, but one is all japanese, so I can't confirm. The first is an absolutely badass BMUP where you can rip parts off of defeated enemies to customize your mech into a unique hybrid of parts *ON THE FLY*. The other one is a pretty awesome fighting game using nearly identical sprites but more complex combat controls rather reminiscent of old 2D Gundam based fighters. Both incredible. The rest of the collection has some great classics, but is overloaded with Street Fighter 2 variants. So, if you're trying to get the most complete SF2 experience imaginable, I guess this would be the game for you! But I really just use it for the two mech games.",0.5065789818763733,1,True
+1515950,92636781,76561197993391356,"Pro: There's nothing wrong with the games, they work fine.
+
+Neutral: You might own some of these in other collections
+
+Don't care for the pseudo-arcade machine visuals, but also it doesn't really bother me all that much either. I'm focused on the games when playing, not that.
+
+Con: If you own some of these in other collections then the bundling of games as DLC might irritating instead of individually offered. 
+
+Invincibility as a DLC made me actually groan out loud when I saw it.
+
+Overall: I have no issues with the games themselves. If you don't already own a bunch of these titles elsewhere it's a decent enough package. If you do, maybe wait till they offer up titles individually. I don't own a bunch of these elsewhere so I'm not as bothered by the way they are offered currently as others may be. I've enjoyed what I've played so far and that's my biggest factor in giving it the old thumbs up.",0.5030682682991028,5,True
+1515950,92639375,76561197999646621,"I agree with most complaints and here they are: 
+(1) You should be able to buy each game individually (Capcom did price them individually)
+(2) Cabinets should have authentic artwork
+(3) High score leaderboards need replays
+
+In spite of these problems, this is still a great collection of games for a reasonable price (assuming you don't own them already), so don't review bomb because you already bought the Capcom Beat'Em Up and Street Fighter collections or because your dumbass thought the game was entirely free.
+
+Pack 3 is great if you like shmups. Progear, Giga Wing, and 19xx for $15 is a deal and that alone justifies the existence of this collection.",0.5008928179740906,4,True
+1515950,92550050,76561198044029682,Love that I get to play the old games. But!! there is a big but here. Needs better controller support . So far have to set my controller up on each game and still have to use keyboard. Will check back with this game in hopes I get to use controllers.,0.5004839897155762,6,True
+1515950,235719611,76561199385860878,My favorite arcade games in the Capcom Arcade Stadium are all of the SHMUP games. But I think my favorite one I like the most is Giga Wing.,0.5,0,True
+1515950,229287093,76561199139048791,"It's a good set of Classic games. It'll have its bugs, but you need to give this a chance if you enjoy classic video games like I do.",0.5,0,True
+1515950,227511017,76561197982521010,"Got the full DLC package on sale. Kind of worth it. None of the games are great, but for the amount of games you get it's still a good deal and it's a good history lesson.",0.5,0,True
+1515950,225445376,76561198316016002,One of the best emulators to play legally. There is a lot of shumps and the rewind is one of the best features implemented,0.5,0,True
+1515950,222638595,76561198369962419,"bought the DLC on sale, it's just great with nostalgia feeling, dun tell me there're many web emulators to perform the same games easily, it's an authorised combo, alright? the bad thing is the original key binding for each game sucks, and you have to rebind your preferences ones for the games one-by-one.",0.5,0,True
+1515950,218418515,76561199885878390,"This is the best port of Final Fight there has ever been. With one caveat. The developers changed the default dip settings. If you are going to use this port for a 1cc, make sure you reduce starting lives from 3 to 2.
+
+I'd also recommend turning off V-sync and extra visual effects. This will reduce input lag to be pretty close to the arcade version imo.
+
+I mainly use this port for save state practice. You get 30ish slots total, which is plenty for one game at a time but not enough to practice 2 games at once imo. There is also a really cool real time rewind feature. DO NOT USE REWIND IN A REAL RUN GUYS! But it is great for experimenting in practice sessions. There are so many times where I want to see ""what if I did ____ instead?"" and rewind makes that possible immediately in the moment.
+
+So far I have used this game to practice Final Fight and Progear (play the Japanese rom btw) and both have been phenomenal experiences. This collection is probably my favorite game on Steam.",0.5,0,True
+1515950,216351613,76561198026852985,"Cabinets are reset every time they are selected. controls are assigned that are to easy to press on accident and mess up my playthrough. it's nice playing these games again. but i wish they had put a little more thought into the meta setup. such as cabinets only manually reset and the ""cheat buttons"" being optionally assigned",0.5,0,True
+1515950,198311514,76561198086670692,"I don't get why there are 2 Arcade Stadiums instead of just adding those games to this, but that's just a minor inconvenience really. Plenty of Capcom's best games are here",0.5,0,True
+1515950,197013031,76561198306552393,"It's a pretty good collection, especially if you get them all on a nice sale. This review was previously negative since it had really bad stuttering, but V-sync seems to have fixed that. But yeah this collection has a whole bunch of iconic Capcom arcade games, you have infinite quarters to shove into the machines, there's a whole bunch of screen filters and borders to choose from, and the collection really does give you quite a lot of options for how you want to play the game, even down to configuring the options within the cabinet like starting lives and such. You have basic tools like save states, rewind, and fast-forward, and there's a few different game modes to choose from along with an online leaderboard. If you're a fan of classic Capcom games, this pretty much has all the highlights. Just make sure you do enable V-sync or you'll likely have a bad time.",0.5702264308929443,0,True
+1515950,150534629,76561197970982307,"There are some things that are fun about this product, but yeah, the presentation, the crappy Billy Eilish crap music, I'd rather just have anything than what this is.  Good games, not great games.",0.5,0,False
+1515950,137200926,76561198348787152,Amazing ! I love that we can emulate old arcade games in an official and legal way. This is also a great selection of classics.,0.5,0,True
+1515950,128374276,76561198129155713,"Lot of work to magnifier the launcher-room : bravo !
+It's superb, but it also consume too much power. It would be nice to have a light version for old computers, because it's old games which doesn't need a nuclear central.
+
+Despite this, some games are cool, others are bad : it's depends of your tastes. And most important, it lacks SPORTS GAMES !
+Make your choices.
+
+Works good on Steam Deck, except it heat up and Grips Buttons R4-R5 & L4-L5 don't work.",0.5,0,True
+1515950,126310274,76561199021748500,"This is the best done arcade collection I've ever seen on steam, and I've seen a lot of them! I also found some new gems
+
+The things I love: being able to customise the screen well, I suggest keeping the arcade aspect ratio, but using better buffering, or the sprites will get overblown. Most importantly INFINITE COINS = INFINITE CONTINUES :D HELL YEAH!",0.5,0,True
+1515950,118371777,76561197960999276,"Previously I left a negative review, being that the arcade collection would not allow me to use/change the controller to work with the games and I would get locked in menus with no means out, unless I used Ctrl+Alt+Del to hard stop the game from running.  I have since learned that the way to gain controller access is to open the Steam Properties for the game and Disable the Steam Controller.  Now that I have the collection working and am able to play the games, it is nice.  I bought the collection at 50% off on sale and it is a fine collection of arcade roms.  Is it the best thing ever, no....  but it is nice to have these games in Steam.  The nostalgia for these games is high and I know I will get my monies worth out of the purchase.  I just wish the Emulator worked out of the box without having to tune it.",0.5,0,True
+1515950,117204757,76561197966074900,"Honestly, I am having quite a bit of fun with the game. While i would not pay full price for all the games, if you can get them at a discount (I was 50%) off, it is a fun collection of games. Little challenges and such and being able to play locally with a friend or remote, it is decent.",0.5,0,True
+1515950,107765716,76561198077695950,"TL:DR Arcade Stadium is a middle of the road Capcom version of SEGA Mega Drive and Genesis Classics. OK ports, acceptable controls, passable graphics, less than stellar pricing model.
+
+I really like 1942 and Dynasty Wars; so it was awesome to see Capcom release them officially with a ton of other great classic titles like Ghosts and Goblins, Commando, Final Fight, and Strider. I could personally do without yet another Street Fighter II rerelease; in this case 3 of them but it is nice to have available anyways.
+
+I think the overly complicated means of buying all the games is unacceptable, but Capcom do as Capcom does. Selling Invincibility as a $0.99 DLC is pretty scummy and having a small selection of music sold as 'mini-albums' is outright the worst thing I've ever seen. Many compilations games of the past would've included a side mode with a sound track listening option and concept art and I must say I don't like the direction many recent classic retro game packs are taking.
+
+For effectively being a dump of old games' ROMs with modern controller support and a basic UI Arcade Stadium is a bland, unoffensive title. They have some notable fan favorites as expected, a few lesser known titles making appearances, and another rerelease of Street Fighter II that nobody wanted; especially in this manner. It's a mediocre offering; best bought for only the games you actually want it for. I can't recommend against it due to the games being only $1.99 each; but I will say this isn't the most lovingly crafted game Capcom could have made. Clearly they didn't show too much love towards their older IPs or they wouldn't have shipped Arcade Stadium the way it is.",0.5,0,True
+1515950,92604272,76561197981062579,"Playing since the 80's with the original machines. Then with Commodore 64. This is like a dream. I like that you can change the keys and a LOT of stuff to configure the games and even the place. The only thing I miss is to can change intro and background music... Maybe hear a ""real"" FX with the sounds of the machines instead of music (at selection) can be nice. Hope more games will be added in the near future. Now back to play Ghost n Goblins!!",0.4992251396179199,1,True
+1515950,117484243,76561198069742828,"Don't understand the hate. The games on this collection work fine for me and I had no issues navigating the menus. The most frustrating aspect about this collection is how difficult the games are. Street Fighter II AI is brutal and Ghost and Goblins is as unforgiving as ever. Strider is also insanely difficult and I found the game to be disappointing. I never played it before and I'm happy to know I wasn't missing out on much. Was probably neat for the time. Anyways, games work fine for me, I just wish they were a little easier because even when setting the difficulty to the lowest setting I'm still getting destroyed constantly. These games were intended to devour all of your quarters though so the difficulty makes sense. Recommended if any of the games on the collection interest you.",0.49824562668800354,1,True
+1515950,141762375,76561197991277308,"You cannot re-assign the keyboard buttons C and V, which are used by the ""framework application"". Unacceptable, period. Also, the difficulty in Super Street Fighter II Turbo is broken* (and brutal) and that ruins the game for me. To be clear: a game that isn't fun, fails at its main goal.
+* The game speed setting 1, 2 & 3 is also poorly implemented as 1 is ""normal"" speed and 3 is ""way too fast"".",0.4954128563404083,1,False
+1515950,99858137,76561198348991855,"I love it. I bought it on Nintendo Switch and I loved it enough to buy it again on Steam. Granted, I didn't buy everything. I'm content with just the Dawn of the Arcade Pack and Ghosts 'n Goblins. Before I played Capcom Arcade Stadium, I wasn't particularly interested in arcade games or older video games in general. There was some event when it was first released on Switch where you could get Ghosts 'n Goblins for free. I thought to myself, ""Huh, I might as well try this and see what it's about."" So I had two games: 1943: The Battle of Midway, and Ghosts 'n Goblins. I played 1943 and realized that these arcade games were fun. I played Ghosts 'n Goblins and realized that the games didn't look nearly as bad/old/primitive as I thought games from the 1980s would look. So I bought the Dawn of the Arcade Pack, because those first two games sparked my interest. (And that's also sparked a wider interest in old-school video games from  before my time.)
+
+I do not regret my purchase. 
+
+My favorite of all these games is Commando from 1985. There's a score challenge mode, and it's what it sounds like: you try to get a high score, and if you pass a certain threshold, you get ranked on the leaderboard, and you can see who else is ranked. I had gotten ranked for some other games, and since Commando was my favorite, I decided I would get on that leaderboard. I played Commando for two or three hours straight in my determination. By the end of it, my hands were shaking. But eventually, I did it. And I'm already on my quest to do it again on the Steam version.
+
+Now for some reason, the game Trojan is only available in its Japanese version, called Tatakai no Banka. I'm not sure why that is. (This is also the case for the game Mercs from the Arcade Revolution Pack. It's only available in the Japanse version, Senjo no Okami II.) Bionic Commando is only available in its English version. I don't think that would be a deal-breaker since there's hardly any text in the games, but it's worth saying.",0.4910714328289032,1,True
+1515950,93135832,76561198048990717,"A lot of the negative reviews are because of the payment model, with a free shell and DLC content. I'm not sure if people were expecting thirty or so games for free, but that's hardly realistic. I'm enjoying Capcom Arcade. I got the early bundle with all the available titles and extras. I'm a sucker for any of Capcom's 8-16 bit compilations, and I've no regrets here. Thus far, I've played Final Fight, Street Fighter World Warrior and, to my surprise, Legendary Wings. That was a favorite of mine on my old NES as a kid. Didn't remember it being a Capcom title. Anyhow, take Arcade Stadium for what it is, a hub of DLC arcade ROM packages in a very nice package. They play very well - probably perfectly - probably better than the originals, because arcade sticks always sucked back in the day. It's worth your $45.00. Don't let the bad reviews scare you. There's no scam here.",0.4885192811489105,27,True
+1515950,93075652,76561198007278651,"Excellent emulation, excellent packaging, excellent meta-game with CASPO etc.
+Remember, all the negative reviewers / haters = the first ones against the wall when their particular country decides it isn't 'fair use' and rounds up all the emulation people for time in the slammer or something.
+
+I wouldn't bite a chance to go legit in the hand.
+Fair warning given.",0.48724761605262756,1,True
+1515950,95071875,76561198095984297,"There are a lot of bad reviews here, but it usually doesn't really concern the quality of the games or emulation... so here are my two cents:
+
+- To me, this was worth it. I got all games as a bundle for cheap (15 bucks or so, don't really remember). I wouldn't pay full price though.
+- The games I tried all played well, and there are enough options to tweak them to make them enjoyable (i.e. not super hard). Also, you can save your progress. This was important to me. Invincibility mode is not free, but I got it anyway.
+
+Sooo... if you want all the trimmings and it's on sale, I'd say go for it. Full price, or if you want only certain games... I'd say give it a pass.
+
+Cheers
+
+
+",0.4869304597377777,3,True
+1515950,207057115,76561199588147018,"Bad port, and all DLC. I enjoyed my time when I was playing with a controller but that isn't saying much because even with the DLC the game felt so empty.",0.48574867844581604,1,False
+1515950,97269079,76561198146798482,"It's a good selection of games. Yeah, you pay for a bundle, but I'm happy to support the porting of these old roms.",0.48505523800849915,10,True
+1515950,93278657,76561198193269975,"This is an incredible collection of classic games. Like many collections it does have games that some games that are more or less fun, but even in the short time I have played I have found a few games that are new to me that were a ton and one of fun! This game collection is made with love and care, and is well worth spending the currently less then $40 on to own in it's entirety.",0.4825681746006012,2,True
+1515950,114958524,76561197986851165,"When I was a kid I've played a lot of arcades, especially during summer holidays. I've played 1943 (included here), Metal Slug, Puzzle Bubble, Pang, Frogger, so on and so forth. When I saw this collection, I had to buy it. It costs a few bucks, but hey - back in the days you wasted much more money than 1€/game. I would recommend it? Totally, but only if you like arcade genre. Otherwise, you might find those games ""boring"". Recently I spoke with a guy that told me that Days Gone is an ""old"" game, if you are that kind of guy avoid this game or you might be disappointed.",0.53125,3,True
+1515950,92563888,76561198061042984,"Capcom Arcade Stadium, contrary to other beliefs, is a darned fine collection of Capcom Arcade games with an nice amount of downloadable content already available i the game, with hopes of further additions to come.  Each game that has been added to collection had a nice assortment of options to keep the game fun and entertaining. I have only played just under 3 hours since it unlocked, but at this point I personally can say I am enjoying this collection.",0.5310940742492676,15,True
+1515950,118140862,76561197982818411,I know most won't agree with this but it's worth buying just for instant rewind and a legal way to play Progear.,0.5791075825691223,6,True
+1515950,113504700,76561197974061804,"I mean....it's amazing. For just a couple bucks per game you can enjoy great ports of arcade classics created by expert designers  who had a powerful, direct financial incentive not to waste your time",0.47812530398368835,4,True
+1515950,134439709,76561198147820669,"Where the fuck is Three Wonders.
+
+Where is everything off the Classics Collections.
+
+I NEED MIDNIGHT WANDERERS AND CHARIOT DAMMIT.",0.526881754398346,2,True
+1515950,155807533,76561197969787923,"CAPCOM are retrospectively adding DRM to their games which significantly impacts performance and is likely to prevent previously Steamdeck certified games from being playable.
+
+Don't support this - I do not recommend buying CAPCOM games with DRM that impact performance.",0.5263499021530151,9,False
+1515950,94571424,76561198082044124,"[h1]Retro Games, modern prices[/h1]
+
+Capcom Arcade Stadium has been a.. ""controversial"" release to say the least, and I feel most of the reasons cited for it are a tad undeserving. The collection uses Mame, a free and open source arcade emulator, the absolute best in class, which is reflected here. (minus one 1942 logo bug that Mame fixed but is still broke here) This is huge, as not only did Capcom PROPERLY FOLLOW THE LICENSE OF THIS ONE (looking at you final burn alpha), but it shows that the efforts of the Mame team are now even recognized by companies, and that free and open source emulation is here to stay, and is welcomed by the systems they emulate (baring you Nintendo) 
+
+The emulation as I stated, is perfect, all the dip switch settings are available to you, tate mode for those vertical games, and the sound is now perfect too (Mame at the time of the switch version did not have sound cores that could be used commercially, so Capcom made their own, really bad ones, they have since replaced them with the new Mame ones, and they sound fantastic.) Input lag is non existent and it even has default controls for both controllers and arcade sticks!
+
+The fronted is powered by re engine, and its alright, its smooth, the games show attract videos, and unlike Mame, navigating the options doesn't make you wanna blow your own head off with an awful outdated ui. My main gripe is you cannot make the machines look as they actually did, no original artwork, no custom models, just generic bland trash.
+
+So why the hate? If the emulation is rock solid, supports the community, and is improving with updates, why do 64% of Steam users not recommend the game? I've complied the main points I've seen, and will try to answer them.
+
+[b] -You can emulate them for free![/b]
+
+You can also pirate the collection too if you felt like it, just because Mame exists (which need I remind this collection uses.) doesn't mean official releases are simply just not allowed to exist. Mame is in a grey area legally, while other emulators can throw up the ""We tell everyone to only use their dumped games and we wont help pirates!"" shield, Mame cant. Mame is the one emulator where you HAVE to pirate the games, usually the whole damn 50gb of it if you want to ensure it works. I am absolutely for the free sharing of roms, in an age of DRM and abandonware, so many games would be lost to time if not for roms, but getting free roms through piracy does not make an official collection have less value.
+
+[b]-Its too expensive! Why cant they sell them individually?[/b]
+
+I agree, 50 bones for some roms and an emulator they didn't make is steep as hell, and while Capcom has stated they will sell them individually, (the price of each game was listed as $2.50 on Steam before Capcom hid them) there's zero reason why it should not have been a day 1 option.
+
+[b]-No online![/b]
+
+1. Remote play together
+2. I'm sorry but, how often are you really going to use it? The online in these collections ALWAYS dies instantly. Check out that Street Fighter collection, or the Samurai Showdown collection, the Beat em Up collection. Or that time players said they wouldn't buy an XBLA port of Golden Axe unless it had online, which on launch, had 2 total players online. All dead onlines that players begged to have in. I get there are people would genuinely use it once or twice, but its just not worth it. If you want online, use Fightcade, Retroarch Netplay, or Steam Remote Play Together. All great options (with fightcade having that rollback netcode everyone loves.)
+
+[b]-Its not really free![/b]
+
+N-no shit? They advertised 1943 as being free. get your head on right.
+
+The primary complaints about this collection really boil down to ""price too high"" which while a fair point, do not automatically make the collection itself bad, Capcom making the game free really fucked this up as any brainlet can download it, get upset its not free, and say it sucks, which is just absolutely unfair.
+
+
+[h1]Ok sum it up now ya asshole.[/h1]
+
+Capcom Arcade Stadium features perfect emulation curtsy of the Mame team, the ui is snappy enough to use, and all the options you will actually use are there. But its price is just too much, so hopefully they can sooner rather than later get these games sold separately. If using Mame scares you, you want to encourage more companies to use free and open source emulation (that's me!), you feel guilty about pirating them for all these years, or you just see the flashy ui. Capcom Arcade Stadium itself, is a great product.",0.4736173450946808,4,True
+1515950,96312410,76561198064306164,"I don't know why people are giving this a negative review. The emulation is great, it runs well and the games are tons of fun. And with about 30 games for about 35 bucks, it's everything else than expensive.",0.47350937128067017,3,True
+1515950,97998591,76561199010413839,"It's fun finally being able to play Strider on a modern system. The only thing worth mentioning is my built in iMac speakers don't work in the app, so I use headphones instead, where the sound works great.",0.4723091125488281,2,True
+1515950,106876205,76561198017210776,"This game collection's got Street Fighter II CE.
+No.  I'm not talking about Champion Edition.
+I'm talking about Censored Edition.
+Who wants that?
+Can you believe that Capcom censored Street Fighter II in this game collection?
+I can't!  I never thought I'd see the day.
+Street Fighter II is one of Capcom's greatest achievements.  
+It's puzzling to see them ashamed of it instead of proud of it.
+I want the real thing.  
+I do not want a watered-down censored, neutered version of a game.
+Only the original will do.
+I cannot recommend this game.
+
+The user interface is extremely laggy. 
+This means that games made decades ago run poorly, even on the latest hardware.
+
+To make matters worse, the games lack online multiplayer. 
+This means that you will not be able to get an online match in Street Fighter if you play this game collection.
+What's the point in buying it then?
+
+Capcom, you really need to provide a lag-free experience in your games.
+The game needs to play smoothly and the online experience needs to be enjoyable, with no noticeable lag.
+
+It's no wonder that the Street Fighter V champ would rather play Guilty Gear these days.
+
+""Victor “Punk” Woodley qualified to play in his fourth run in the worldwide tournament, but when asked how he plans to prepare for the higher levels in the tournament, the Street Fighter V champ says he’d rather play Guilty Gear – or rather “Imma just play Guilty Gear.”
+
+After the confused expressions from the tournament commentators and the flurry of emojis in the livestream’s chat, Punk said “I’m in Capcom Cup. There’s no reason for me to play this game anymore. I don’t like the lag so I’m not going to force myself to play.”",0.7721078395843506,152,False
+1515950,92653764,76561197996097280,"This does a good job of providing an immersive experience within the confines of a virtual environment.
+Though not completely the same,
+it still gave a strong feeling of being at the arcades once again.
+
+The real indicator of this
+was when I heard the sounds from the other room
+of the arcade cabinets running in attract mode.
+That definitely felt like when I'd round the corner to enter an arcade at the mall.  :-)
+
+Also, no noticeable lag while playing the game.  :-)",0.47029101848602295,3,True
+1515950,92554521,76561198138849607,"Decent collection of old school Capcom arcade games, despite the rush of negative reviews. I like the general idea behind the presentation and how you're virtually going to the arcade with coins to spend. It's not perfect and seems gimmicky, but at least some effort went into it. Emulation and gameplay seems fine so far. There are features like challenges and gameplay rewind that almost feel like they should be standard by now. Love being able to play 1942 again most of all with this collection. While I'm not thrilled with shelling out money for bundles of games, I do hope Capcom is listening to players' concerns here.",0.4701063930988312,2,True
+1515950,209645410,76561198990494364,"That's Great Collection!
+I bought some titles per it, But I bought all titles bundle at last.
+I hope and hope, next ""Capcom Consumer staduim"" Please Capcom!",0.5172414183616638,1,True
+1515950,95075473,76561197970356863,"Great to be able to play Capcom Arcade classics, at such a reasonable price.   1943 is free!
+
+Controller works well.  
+
+Each game has a very entertaining '1 credit' score challenge mode (with online scoreboard), plus variable special challenge modes, as well as regular gameplay modes.
+
+10/10.",0.4640718400478363,2,True
+1515950,155932037,76561198814864504,Yea I won't be buying capcom games anymore. F*** Enigma DRM! It breaks compatibility with the Steamdeck!,0.5627112984657288,9,False
+1515950,116114314,76561198026042504,"Works well on linux, fun games. It's a big of a wrapper for the rest of the games which need to be bought in sets, but not a bad deal.",0.511212170124054,2,True
+1515950,156197854,76561197998264900,"Don't buy or download anything capcom until they stop with this war on modding. This new DRM ""Enigma"" is russian trash that has the primary focus of destroying mods.",0.5098471641540527,8,False
+1515950,155843750,76561197968301870,"There are some cool games here but since Capcom went and retroactively added performance killing DRM to a game that has already been out for a couple of years I can't recommend this. 
+
+Capcom, if you read this, this why people would rather just use emulation or even pirate your games. The emulated/cracked/pirated copies will actually work better.",0.45840951800346375,6,False
+1515950,94491622,76561198049352298,"Really nice collection. The emulation is great, excellent presentation, and a whole load of features added that modern players now come to expect. Rewind, challenges and multiple incentives to keep playing. Good value for money too, you can upgrade your CAS one pack at a time if you are tight on cash.
+
+Hopefully this is the start of a bigger project where we can finally have some re-licensed games, such as Alien Vs Predator, as we know more packs are coming.",0.4547157883644104,4,True
+1515950,96983452,76561198151853139,"Awesome package, slick front end, good options, and an eclectic selection of games.  A Solid retro experience.  The only thing I would ask for, is more games.  Well worth the price to legally play these classics with Steam functionality.",0.45354658365249634,11,True
+1515950,214687652,76561197970458445,"It's nice to have a collection of a lot of great (and some not-so-great) arcade collections, but it is done in the most cash grabby way possible. There are some absolute gems in here like the 19XX series, some classic Street Fighter, Final Fight, etc. Controls are good, difficulty levels, speed, rewind, save state all work great. The various challenges to try and beat are pretty good. I would say it passes the ""just as good as emulation"" test I would normally apply to these, but they run pretty inefficiently.
+
+Also, you can disable the arcade console-view that comes default and play them on a black background. At first I thought you couldn't, and that would make the tone of this review very different!
+
+The ""cash grab"" accusation comes from the paid DLC for everything - buying the games individually adds up cost, but paying for an invincibility cheat is a bit much!",0.5529869794845581,5,True
+1515950,92586273,76561197970530053,"Excellent emulation and a very slick interface. I'm playing on a 43"" 4K with filter ""F"" and it looks great.",0.501354992389679,2,True
+1515950,198466897,76561198106193324,Pls buy  Capcom Arcade Stadium In summer sales .I think summer sales discount  is ok .,0.5,0,True
+1515950,198395566,76561198342739916,"Capcom Arcade Stadium is an amazing collection of 32 different Capcom arcade games from 1984 to 2001. I love aesthetic choice of having each game be located in a literal lineup of arcade cabinets which you can customize to your heart's content. There is some input delay, but it's nothing unmanageable. I also appreciate being able to compete with other players via comparing score counts. This is how you compete with emulation.
+
+This collection provides the option to purchase individual games at a lower price than the collection as a whole. I personally advise you buy the entire bundle, but if you insist on buying only a handful of games, then my personal top five recommendations are Battle Circuit, Cyberbots, Giga Wing, Progear, and Strider.",0.5,0,True
+1515950,136911598,76561198966012830,I have no idea how I got my Capcom Arcade Stadium game in PC mode. I can't use the steam deck controller. Can someone please help.,0.5,0,True
+1515950,134624629,76561198025403991,"So for 20,- Bucks on Sale you get 31 Capcom Arcade Classics. (Don't buy fullprice)
+The Switch Version is not as good as the PC Version.
+
+Best Games:
+Strider
+Ghouls n' Ghosts
+Progear by CAVE
+19XX - The War against...
+1944 - The Loop Master
+Varth
+Giga Wings 
+Mega Twins
+
+Pro:
+Legit Arcade Emulation
+Rewind Function
+Save Game
+No Hassle to search for Romz
+No Hassle to config Retroarch
+No Hassle to config my Hayabusa Arcadestick
+
+Con:
+The 3D Arcade Menu is terrible.
+Sometimes the Emulation laggs.
+Input Lag in some Games. Worst Example Giga Wings. (Dremcast Emu on Retroarch is much smoother)
+
+My 5 Cent:
+2 Bucks a Pop for your favourite Capcom Arcade Game is ohhkay in my opinion.
+On Sale it is worth taking a look to buy all three Packs.
+On Switch it's 7 Bucks for Arcade Archives or ACA NeoGeo Games!!
+
+7/10 because of the input Lag.",0.5,0,True
+1515950,92645768,76561197990194377,"Edit: Finally managed to get it up and running so I guess I'll keep it, and I'll change to a positive recommendation, but I'll leave my initial review up to reflect the frustration of initial setup.
+
+First up... set your expectations of the package relatively low. Capcom hasn't re-invented the wheel, there isn't much here that can't already be done with a mame setup. This is essentially some form of emulator for existing roms. What this package does is provide a decent front end for a large selection of games, and legitimize the roms.
+
+One thing I do give them credit for are the display options. Portrait mode options are decent... for 1943 you can select Full Screen (stretched up/down), Full width screen with borders at top and bottom, or one of several ""3D"" options that wraps the game screen in a digital upright console.
+
+ORIGINAL REVIEW:
+
+Less than an hour in, and I'm debating whether or not I just want to return it.
+
+Control settings are an absolute hot mess! It will apparently only recognize an XBox style controller so my custom zero-delay joystick will have to be custom set in steam? (I finally found the controller mapping option, but it doesn't recognize the fire buttons I have set up, it will only let me use the trigger buttons which on my setup are being used as pinball flipper buttons on the side.....
+
+Any game that still has me scratching my head on controller configuration after 30 minutes has something seriously wrong with it.
+
+I'll give them credit for having their display system automatically adjust for play on a portrait mode monitor, and after a bit of cursing it finally started respecting the windows ""norm"" of opening fullscreen on whatever monitor the shortcut is placed on.
+
+I really wanted to like this package as I believe in paying for content as opposed to pirating it, but they're not making it easy....",0.5151515007019043,0,True
+1515950,116865052,76561198004478810,"Needs a gaming PC to run a menu and overlay for games that can run on a Raspberry Pi.
+
+Even once in a game (setting the display to 2D mode) the launcher overlays are still running and cause poor performance on eg. a laptop. The launcher is grindingly slow to even get that far on a machine with integrated graphics.
+
+The games speak for themselves though, so if you can extract them and run them in MAME directly this would be a good way to acquire them.
+
+",0.49811241030693054,2,False
+1515950,124250492,76561199025720201,Good collection. Fun. Even more fun with an arcade stick.,0.4976429045200348,1,True
+1515950,127025732,76561198182773250,"This brings retrogaming on another level .
+An awesome farewell to the arcade games , the real one the cabinets and to the fun had by the kids back at the 80s .  Really appreciated",0.4886903166770935,0,True
+1515950,116863578,76561198023237051,"laughing so much at the complaining complainers. Finally an arcade emulation that works perfectly with big screen tvs and xbox controller, Don't have to mess around with mame and legitimately own the games too. Only complaint from me is this should have existed 15 years ago and hope there is more games",0.4384969174861908,1,True
+1515950,112911177,76561198414247318,"This package ISN'T aimed at any gamers born after 1995... It's DEFINITELY aimed at us Old school arcade fans born BEFORE 1980, the earliest game here ""1942"", I fondly remember calling to me at age 7 when i went to the corner store for a treat with my allowance... By 1992, Age 14, I was playing a version of SF Rainbow edition at my neighbourhood arcade. 
+good times...
+Ok, so let's break this down. Rather, lets sum this up. The package is meant to be just that, a Package. The best idea is to buy the WHOLE thing, (Excluding the soundtracks, unless you're a SERIOUS die hard) Yes, grab the Invincibility too. It will save headaches and add Fun, because rewind can get irritating. 
+Yes, you DO have the option of Emulating from elsewhere..... But why bother, these are dedicated titles. They work amazingly. I Played 99% of these titles in the 80s, 90s when they released, using ACTUAL Quarters (SF cost 50cents at times) so it's nice to have the option just to mess around and remember the Old days",0.48763415217399597,2,True
+1515950,233971437,76561198151721416,"As a piece of software, this is a massive pile of doggy doo shit ass garbanzo beans holy fucking fuck this is bad. Who the fuck thought it was a good idea to have you set the display options for each game individually instead of all of them at once? Who the fuck thought it was a good idea to make the Start (or whatever the fuck they call it these days) button bring up the emulator menu and not function as the start button in game? Why is the select button the default start button in game, when so many of the games tell you ON THE SCREEN TO PRESS THE START BUTTON TO START THE GAME? Why? Actual negative IQ decision making. 
+
+But the games are fun and I don't have to deal with the fat pain in the ass that is trying to comprehend how MAME works to play them
+
+Do not buy this full price. On sale, it's still debatably not worth it, but I'm a poopoo brained troglodyte who can not get MAME to play the games I want to play and I want to experience old arcade games and this is also a way of doing so legally. 
+
+I do not regret purchasing this collection. Do I recommend it? Not particularly, it's kind of terrible",0.43708768486976624,2,False
+1515950,115097729,76561197978598904,"Absolutely love it. I bought all games currently available for it (as of May 2022) and think it's a very well put together package. Ghosts & Goblins is sublime. I remember playing this in a dingy old video shop in Newport, South Wales, in the mid 1980s on my way to and from school. Great memories!",0.6356177926063538,13,True
+1515950,122881183,76561199364858759,I love Capcom Arcade Stadium. This collection of games is fantastic! I highly recommend all 3 Packs and Overlay Bezels.,0.4830757975578308,1,True
+1515950,162942559,76561198018439923,Classic retro collection. Even some original ROMS for games that were only made for Japan. Don't buy full price get it on sale.,0.4794520437717438,1,True
+1515950,119182464,76561198001399556,No matter what the plebs say. This is a fantastic collection. Worth a buy.,0.5267157554626465,4,True
+1515950,104220365,76561198018714420,"Ohh the memories!! 
+Where is Black Dragon and Magic Sword??? I hope they'll come soon to my stadium!!!1",0.523809552192688,2,True

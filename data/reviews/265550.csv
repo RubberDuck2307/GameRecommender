@@ -1,0 +1,1098 @@
+appid,recommendationid,author_id,review,weighted_vote_score,votes_up,voted_up
+265550,106818307,76561198067946468,"Since this game isn't exactly a good port, there are some issues with it, mainly a 30fps cap. However if you're thinking of buying the game, there is a solution:[olist]
+    [*] Make a file in the game folder named ""User.ini"" and put ""gmpcr_unlock_frame_rate = True"" in it.
+    [*] Leave V-Sync on. (Because it messes with the aiming)
+[/olist]
+Other than that I've had a pretty fun time.",0.893811047077179,88,True
+265550,137390409,76561198064663191,"A great game, held back by a nauseating 30 fps that Microsoft never bothered to modernize. 
+
+Let’s fix that with a quick tweak, supported by the original developers of the game:
+
+1. Go to your DR3 game directory, located in SteamLibrary.
+
+2. Create a new text document, and name it “user.ini”. No quotations btw.
+
+3. Type “gmpcr_unlock_frame_rate = True”, and save. Also no quotations. 
+
+Congrats! You’ve officially unlocked your frame rate, and you can now enjoy the game!
+
+And one more note: If the text document doesn’t change after adding ini, make sure that file name extensions are turned on by going to View on the top of file explorer, and checking extensions to be enabled! It’s as easy as that!",0.884750247001648,89,True
+265550,96182910,76561198844919257,"Go to C: Program Files (x86) \ Steam \ Steam Apps \ Common \ deadrising3,
+
+1) Create a new text document. name the text file = user , not ""user.ini""
+2) Copy and paste, this -> gmpcr_unlock_frame_rate = True , to your user text document
+3) Click File --> save as... File name = user.ini , Save as type = All types
+4) Now you can see another user.ini file apears as configuration file
+
+Now you can enjoy your 60fps gameplay",0.875539243221283,95,True
+265550,149204336,76561197970409609,"READ THIS BEFORE PLAYING THIS WILL UNCAP FRAMERATE FROM 60-120
+- Right Click DR3 and Select Properties and open Game File
+- Click View in the top left of File Explorer and Click ""View File Extensions"" in the tickbox
+- then create a file called ""User.ini""
+- COPY AND PASTE THIS IN THE FILE - gmpcr_unlock_frame_rate = True
+- SAVE AND EXIT
+
+Boom your game should be unlocked and the framerate should now be unlimited.
+If it does not work look up a 1 minute youtube guide its very simple.",0.8976384997367859,90,True
+265550,34379176,76561198252161392,"C:\Program Files (x86)\Steam\steamapps\common\deadrising3, make user.ini file and paste this in it: gmpcr_unlock_frame_rate = True and then save. There you go no more 30 frames cap",0.8833745121955872,104,True
+265550,78047909,76561198087794419,"[quote]
+⚖️ Grade = A. Worth a play, if you enjoy Cinematic Campaign. However, if you're looking for variety of Location or Enemies, don't play it
+[/quote]
+
+[h1]          AVAILABLE CONTENT:[/h1] 
+✔️ Vehicle can kill up to 100+ zombies
+✔️ Salvage Anything to Stay Alive
+✔️ Exploration for Collectible 
+✔️ Crafting & Skill Tree 
+✔️ Adult Toys
+✔️ Mini Game for replay value
+❌ Advance Setting Controls
+❌ Easy to Control
+❌ Shortcut to play mini game
+
+[table]
+    [tr]
+        [th]GRADE[/th]
+        [th]MATCHED[/th]
+        [th]WORTH PLAYING?[/th]
+        [th]DISCOUNT?[/th]
+ [th]COMMUNITY[/th]
+        [th]REVIEWER[/th]
+    [/tr]
+    [tr]
+        [th]A+[/th]
+        [td]5[/td]
+        [td]Loving it [/td]
+        [td]No Wait[/td]
+        [td] -[/td]
+        [td] -[/td]
+    [/tr]
+    [tr]
+        [th]A[/th]
+        [td]3-4[/td]
+        [td]Liked it[/td]
+        [td]No Wait[/td]
+        [td] -[/td]
+        [td] ✔[/td]
+    [/tr]
+    [tr]
+        [th]B[/th]
+        [td]2[/td]
+        [td]Half satisfied[/td]
+        [td]Wait 50%[/td]
+        [td] ✔[/td]
+        [td] -[/td]
+    [/tr]
+    [tr]
+        [th]C[/th]
+        [td] 1[/td]
+        [td]Less Interested[/td]
+        [td]Wait 75%[/td]
+        [td] -[/td]
+        [td] -[/td]
+    [/tr]
+    [tr]
+        [th]D[/th]
+        [td] 0[/td]
+        [td]Not what you need[/td]
+        [td]Wait 100%[/td]
+        [td] -[/td]
+        [td] -[/td]
+    [/tr]
+[/table]
+
+🏅 Community Rating: [b] Mostly Positive [/b]
+🔎 Long Version Checklist ➜ [u][url=https://steamcommunity.com/groups/expectationchecklist/discussions/1/3002172045216510365/]Reveal[/url][/u]
+📢 Mocking on Short Hours + Harsh Criticize ➜ [u][url=https://steamcommunity.com/groups/expectationchecklist/discussions/0/4594180031254224809/]Write here[/url][/u]
+
+[h1] ⭐️         DEAD RISING 2:[/h1]
+* Auto-aim while walking 
+* More easily to access vehicle
+* Always require vehicle to travel safe
+* Powerful vehicle weapon
+* Craftable vehicle
+* Allow save the game anytime
+* Allow craft weapon anytime
+* More easily to find various item
+* Special weapon able to last longer
+* Less stressful if not able to save the survivors
+* The boss fight is a little easier now
+* Much more option for outfit customization
+
+[h1] 💎         COMPARE TO OTHER SIMILAR GENRE:[/h1]
+* Diverse Facial Expression
+* Plenty of ways to kill zombie
+* Allow to slash zombie limbs
+* Optional mini challenges with personal best record
+* Many women outfit for men
+* Psychopaths bosses
+* Adult toys as weapon
+* Five type of endings
+* Free DLC
+
+[h1]  🔊         BUYER MUST KNOW:[/h1]
+* Optional online coop in story mode
+* Game world timeline: Story happen in 10 years after DR2 
+* Manually backup save files ...Documents\My Games\Dead Rising 3
+* Edit user.ini to uncap 30 fps
+
+[h1] 🕘          IMPRESSION:[/h1]
+* Year 2014: Game released 
+* Year 2020: Started playtest for the first time 
+* 7 hours later: Very exciting in the first few hours :D
+* 20 hours later: Fun game, but need to rest now
+* Year 2022: Review update 
+* 21 hours later: Camera is really bad...
+
+[h1]  ⚠️        RUMOR CHECKING:[/h1]
+* Progression lost ➜ Not happen here, but we also can manually backup the save files
+* Disappointed 30 fps cap ➜ Require steam guide to solve the problem
+* More crashes than ever before ➜ Require a healthy computer
+
+Remember  to 👍 for me if you liked this review:
+🔔 More similar reviews ➜ [u][url=http://store.steampowered.com/curator/31940448-Expectation-Checklist/]Browse Here[/url][/u] and follow this Curator, or
+🤝 Visit Our Gaming Discussion ➜ [u] [url=https://steamcommunity.com/groups/expectationchecklist]We're Here[/url][/u]",0.8301968574523926,106,True
+265550,32035958,76561198068821876,"I finally understand why people are so iffy about the Steam review system. 
+
+Overall, it's a decent game, but it does have its problems - problems that would make this game better suited for an intermediate ""Meh"" option (like 6/10). Honestly, on sale I can actually recommend it. And if you're choosing between 4 and this, I'd choose this on the sole premise of having a co-op campaign. It's mindless fun for a bit, but not something you're likely gonna want to replay a lot. And you're gonna need to be prepared for how buggy it is. 
+
+At least half of my hours came from trying to 100% it. One major design flaw was that the PP trials for killing zombies aren't all active at the same time. It's not until you complete the first one, that the second becomes active and so on. I played through the game several times and joined a bunch of randos, but made little progress. 
+
+What it actually took was mindlessly driving around in the overtime chapter with a combo vehicle. It shouldn't have taken forever, but two things stood in my way:
+
+First, a bug that deleted my save file, and attempted to do so multiple times after that (the remedy was to not play the game, but instead relaunch until it loaded your save file).
+
+Second, the lack of polish in the game that frequently would cause my car to spontaneously flip and blow up or get randomly impaled in the ground.
+
+These things should have been dealt with before release, or at the very least actually fixed at some point.
+
+Capcom didn't learn from this, and DR4 was plagued with several of the same issues (I actually think the close quarters combat become even more clunky in it). DR3 is a relic from their ""fun, but incredibly unpolished"" era.",0.8427742719650269,266,False
+265550,173492625,76561198106147025,"When I first bought Dead Rising 3. I couldn't get passed the FPS being locked at 30. Really killed it for me, so I stopped playing for a long time. Then someone on YouTube gave me a solution. It's very simple. Make sure to adjust dead rising 3.exe in nivida control panel after following the steps in the video below or it will not work as shown.
+
+Video: 
+Dead Rising 3 PC 'How to Uncap the Frame Rate' Guide (4K)
+By: JokerAlex 21 
+
+After this fix. The game runs great, and it feels great. Being able to run around Dead Rising 3 at 120 frames feel incredible and definitely is worth a try for any fan of the dead rising series or anyone just likes killing zombies in general. 
+
+
+",0.8362410068511963,78,True
+265550,234751503,76561199492632368,"Warning to everyone wanting to play DR3 on PC, DO NOT BUY!!! This Port is trash. The graphics bug out, its locked at 30fps, there are more bugs than you can imagine. The game itself is great and I recommend playing it just not on PC. One very well know and awful bug that I just exp is when you start one of the DLC missions it will completely wipe all of your story data and set you back to lvl 1. There are some ways around fixing it but nothing worked for me. 26 hours I spent on this game for nothing. Impossible to recover. So you can imagine I am fucking pissed. Fuck this goddamn PC port. Go play it on Xbox.",0.7791200280189514,44,False
+265550,79096207,76561199088020486,"Great game, best used with these fixes, unlocked fps and mouse lag fix,
+
+1. Switch on V-Sync in settings <necessary to remove aim glitch>
+2. create text file in :\Program Files (x86)\Steam\steamapps\common\deadrising3
+3. open text file and add these lines then save as user.ini:
+gmpcr_unlock_frame_rate = True
+mouse_smoothing = False
+mouse_acceleration = False",0.7772356867790222,34,True
+265550,133672418,76561198074501922,"Some people call this the downfall of Dead Rising and I can see that, but I can argue that this game does have some positives that makes it enjoyable as Dead Rising 1/2. After finishing Dead Rising 4, this game was taken for granted, such as the past games.
+
+Combos feel STRONG, and easy to get, making it way too easy to survive in this game, meanwhile I can hop onto this game, turn my brain off and just have fun, this isn't like Dead Rising 1/2 where I have a big time limit to worry about, DR3 does have a time limit but its a week. DR4 is a drag to play. This is a game I could hop on after a long day at work, and listen to videos or podcasts while driving about, going from store to store, dressing up as random stuff to give me joy.",0.8142350912094116,43,True
+265550,43223616,76561198241714480,"Game is really fun. Holds up to the first two Deadrising games. Has a 30fps lock be adivsed. To unlock 60+ fps you need to go to your Steam apps folder, then go to Deadrising 3's file, right click anywhere in that file, then make a new text document inside of the Deadrising 3 folder. 
+On that text document enter ""gmpcr_unlock_frame_rate=True""
+then save as and then it will put a config folder inside the DR3 folder then you can ACTUALLY ENJOY THE GAME :D",0.8136501908302307,53,True
+265550,119522029,76561199007930037,"dont play untold stories it resets your level
+i was level 30 story mode and i thought id play untold stories and when i got bored of that and went back to story but i seen i had the same level as i did in untold stories which was 5",0.7549355030059814,54,False
+265550,90627088,76561198048743600,"Hi folks, there are some things you should know before you pick up this awesome game.
+
+First off, the game is capped at 30 FPS. This is very easy to fix, and I'll explain how:
+
+1. Navigate to C:\Program Files (x86)\Steam\steamapps\common\deadrising3
+
+2. Create a new notepad document, paste ""gmpcr_unlock_frame_rate = True"" into it.
+
+3. Save as, title it ""User.ini"". Make sure it is saved as ""All Files"", so that it registers the extension.
+
+Now you can play the game at 60 FPS, but I highly recommend that you cap your FPS at 60. Otherwise, aiming and other stuff will be messed up.
+
+Next up, there is a rough save bug in this port. However, I've discovered a pattern and it is easy to avoid once you follow these next steps.
+
+When the game first boots up, it will ask you to specify your gamma/brightness for the first time. Remember, if this EVER comes up again, your saves DID NOT LOAD. If this happens, just hit okay or whatever the prompt is to ""set"" your gamma, and then close the game out and re-open it. You can test this, because if you go to load your game you will see your progress display as if you are level 1. When you load the game up and it DOES NOT ask for your gamma setting, your game likely loaded in properly - but make sure that you actually read the display for your progress before you load. I have not experienced an issue when following this pattern, but as a precaution I decided to back up my saves. The directory is as follows:
+
+C:\Users\YourName\Documents\My Games\Dead Rising 3\saves
+
+Just copy that entire folder and set it aside each time you want to back it up, and if anything goes wrong next time you load it should be okay to paste it back in. From what I've read, when your saves get screwed - they get screwed for good so overwriting the screwed saves should be okay.
+
+Also, if for some reason you have trouble with the FPS - turn LOD to the minimum. I can play on max with that at the lowest setting, but it grinds my game to a halt if I crank it up. It will probably add some pop-in, but I don't mind it.
+
+All that aside though, this game is amazing. I've played a lot of zombie games and I can't believe that this one flew under my radar. It's been such a blast and I highly recommend it.",0.9031401872634888,90,True
+265550,11986142,76561198060700440,"[u]Guide to remove 30fps cap[/u]
+
+>Go to your deadrising3 folder. Default should be (C: Program Files (x86) \ Steam \ Steam Apps \ Common \ deadrising3)
+>create new text file in the folder
+>name it ""user.ini"" (make sure you change the file type from txt to ini)
+>open the new text file and type in “gmpcr_unlock_frame_rate = True”
+>save the document
+>start the game
+>enjoy!!
+
+EDIT: Kindly read the title. Note that I didn't say it would improve your gameplay experience whatsoever, it simply removes the fps cap. Also if it doesn't work for you, move on, no point raging at me. I do not work for Capcom either.",0.7909717559814453,1883,True
+265550,147908393,76561197975109506,"Out of all the Dead Rising games I have enjoyed this one the most.
+
+While most of the other games are very time crunch sensitive I've never felt that with this one. If you've enjoyed Dead Rising 1 or 2 this one might feel a bit different, but you'll notice the quality of life being really great. If you have a friend who hasn't experienced the Dead Rising games this one would be a great introduction to it as the co-op mode makes this even more of a blast! 
+
+I will say that the only issues I've personally experienced were some crashes and a really bad case of my entire save file being completely wiped. Unless you're trying to 100% I wouldn't really even stress about any issues.",0.7390493750572205,21,True
+265550,91681884,76561198377633742,"I rarely play zombie games. [i][b]Dead Rising 3[/b][/i] is one of the few zombie games I’ve played. There is nothing to say about this kind of game, just ask for a sense of pleasure and excitement.
+
+[b]Enter the text below.[/b]
+
+[h1]PROS[/h1]
+1. Abandon the workplace. Players can combine synthetic weapons and more combination weapons anytime, anywhere (105 in total), a great many weapons.
+2. New vehicle combinations, more synthetic beverages.
+3. With the improvement of skills, you can choose which skills to upgrade, and even break through the restrictions of combination types.
+4. Open world map, cancel the disgusting zone reading.
+5. More collection elements.
+6. Powerful AI survivors.
+7. Very rich wardrobe and dressing system.
+8. The safe house has its own arsenal, you can get it in the arsenal after you once used it.
+9. It can be saved anytime and anywhere (only for normal, nightmare difficulty still has to go to the roadside or the toilet in the house to archive, I think it is very good).
+10. The rich 4 DLCs make the whole story complete.
+11. Physical skills reinforced.
+12. Crazy boss represented by the seven deadly sins.
+13. It’s very easy to level up, and the bloody effect increases the sense of percussion by a level.
+14. Added a large number of dialogue voices.
+15. More play time (normal difficulty only).
+16. Nick is really good-looking.
+
+[h1]CONS[/h1]
+1. The shortcomings in the plot are flawed. Story telling is poor to me.
+2. The optimization is very poor. Many bugs. Lock 30 frame rate.
+3. Poor shooting feel, disposable magazine.
+4. Forced detour, forcibly increasing the game time. ( Barricades are installed on the road to make you detour)
+
+[h1]Recommend to buy at a discount.[/h1]",0.7283938527107239,39,True
+265550,168702726,76561198353385270,"Will never understand the hate for this game, straight forward zombie killer with some cool combo weapons and combination vehicles that make the playing experience simply fun, although I had to play this game with a Melee build because of the fact aiming in jitters on press but that's alright because that's all I usually do in the other Dead Rising games.",0.7185037136077881,32,True
+265550,206259089,76561198268540972,"I was about to 100% the game, I only had the kills PP trial and the DLC achievements and it deleted all my fucking progress after beating the first DLC, 40 fucking hours all deleted because of a fucking bug.
+Fuck this shit.",0.7150680422782898,25,False
+265550,23645536,76561198040319157,"Dead Rising 3 for PC... A misfit port at the start, and an overwhelming game at the finish.
+
+Don't get me wrong, this is a good game, but the port to PC had its fair share of problems. But those are all in the past now, and there are plenty of easy fixes for the few that remain, so I'll just say this: This is a good game IF you have a good computer.
+
+My last computer, which I first bought this game on, wasn't all that bad. I can't remember the specs, but suffice to say, it was a good laptop for the most part. But this game was too much for it. The frame rate issues were so severe that the game ran as slow as a zombie, pun intended. Yet I still played this to the point that I beat the final boss and completed the story. But it wasn't very pretty...
+
+But now that I've got myself a new computer, with better specs from the looks of it, the game runs just fine. Maybe it was just my old computer that couldn't handle the game, or maybe Capcom's hotfixes worked as they should in the end? In either case, now I can enjoy this game as I should have a few years ago.
+
+Since this is the third entry into the DR-series, I'm pretty sure we're all familiar with the basic premise: Grab anything you can find and beat zombies with it, rescue people and kill psychos. It's all pretty standard, except you really can pick up anything, from bricks and broken pipes to garbage cans and benches; if it's not nailed down you can pick it up and use it as a weapon. That's the big selling point of this franchise as a whole, and I have to say, it's a good point.
+
+With the second entry came the ability to combine different weapons into new and better versions, so how could this be improved on? Why, vehicles of course! The first two games had some vehicles to throw around, but it was all pretty limited between different zones. But now that the whole game is one big map, save a few special locations, there's no better time to introduce combo vehicles! Sure, there are only ten of them, but any one of them can lay waste to hundreds of zombies and make travelling the city a breeze! Normal vehicles aren't bad either, but there's just something more satisfying about riding a giant creepy clown cart which sucks up zombies like a vaccum and tosses small explosives than just... mowing them down with an SUV.
+
+Oh, and there's a story about escaping the city with your buddies before a big bomb goes off. But who cares about the story? Just have fun and get out in due time.
+
+Frankly, these are some of my favourite kinds of games: They don't care about story, they don't care too much about characters or even realism, they just put you somewhere and lets you have a wild ride. It's like Doom: You're fighting demons on Mars, what else do you need?
+
+I can drone on and on about the different things you can do, the fun possibilities of dressing up in women's lingerie and then beat zombies to (permanent) death with a handbag, or with a giant battleaxe, or a lightpost that can fry, freeze or electocute your foes. But frankly, you're best off to find those things for yourself; provided you have a good computer of course.
+
+So yeah, I can recommend this one to the well equipped gamers. Now if you'll excuse me, I still have a few achievements to earn and a few more zombies to kill. Ta-ta!",0.7607564926147461,65,True
+265550,217833929,76561198881303970,"Yes I Recommend Dead Rising 3. Even tho its got its REALLY big problems.
+Pros.
+1. Story is good
+2. I like the Protagonist (Like all Dead Rising protagonists Nick is Wise and funny)
+3. The psycho Paths are funny, and great.
+4. Killing zombies feels really good
+5. Love the level up system and combat system.
+6. THE CO-OP IS SO GOOD when you have a friend to play it with :)
+
+HOWEVER
+cons.
+1. Game is locked at 30fps and if you push it past or up to 60fps it breaks the game. Also the only way to push to 60fps and on is putting something in your game via your games files. Sucks ass dude. 
+2. The physics suck badly, mainly when driving cars and coming in contact with stuff.
+3. I personally don't like the area the game takes place in.
+4. Most roads are blocked making your time spent in the game more irritating. They might as well call it Dead Rising 3: ROAD BLOCK CITY!
+5. I'm sorry but the way Nick feels and plays feels like ass.
+6. DLCs are......OK at best personally.
+7. This GAME HAS A CHANCE OF RESETTING YOUR PROGRESS. I had to get a file that gave me a lvl 50 save file just to continue my 100% cause it reset on me due to it not wanting to save properly during the DLC runs i did. Something due to the steam cloud save corrupting it was ass. IDK if it was all Steams fault or Capcoms on that part. But thankfully i was able to get that shit back id have never finished or re did this games 100% if it wern't for that save file backup.
+
+Overall, 7/10 i do like it. I wanna give it a higher rating, but i just can't. Its a bad port. Don't blame the game tho CAPCOM can't optimize any of their games for shit. And this poor game came out around the time of BAD PC ports. Also this game has BIG problems. I wouldn't recommend this games 100% it was so irritating personally.",0.7054833173751831,20,True
+265550,12226801,76561197989212516,"Bought this game a few days ago, had a blast playing it. Thought I would make a review for it.
+
+Positives
+
+- Extremely Fun
+- Interesting Story
+- Good Characters
+- Replay Value
+- HARDLY ANY LOADSCREENS!!! YES! But there are still a few between cutscenes ;(
+- Open world, not stuck in a Mall.
+- I'm sure there are tons more Zombies in this game than the previous titles in the franchise.
+- Plenty of Collectibles to collect.
+- Really cool Blueprint Crafting system, where you can now craft Vehicles and many new weapons!
+
+
+Negatives
+
+- Very short game, finished the Story in 7 hours (Without doing Side Missions)
+- No FOV slider, meaning the camera is literally up your ass most of the time.
+- Sometimes the the actions are really delayed, you will press E to pick up an item and it takes him a few seconds to do it. Could link in to the 30 FPS issue idk.
+- 30 FPS Cap.
+- No Infinity Mode (Was a Mode from Dead Rising 1 where it would let you Free-roam, meaning there is no Freeroam Option without being put against a timer, always hated that in Dead Rising 2. However there's a part in the last chapter where you aren't timed so you are able to freeroam but aren't able to do side missions)
+- Still slightly buggy in many cases. Not game changing though.
+- Psychopaths aren't really a Challenge in Dead Rising 3, were more difficult in 1 & 2.
+- The Level Up system is... meh.
+- Map feels very small after a while.
+
+
+I'd recommend waiting for the price to drop a bit for this one (Christmas Sale). Still a great game though.",0.7505612969398499,125,True
+265550,83467360,76561198036109454,"I've played this game for over 50 hours then all of a sudden lost ALL of my progress, including levels and unlocks. A quick Google search showed that I was far from being alone with this problem. This is absolutely unforgivable for any game, especially seeing that such a game breaking issue hasn't been addressed for years. The previous 2 installments (DR2 and Off the Record) had problems with the saves as well, but it actually got worse for this game.
+
+As for the game itself, it's fun, but tries way too hard to be more GTA-ish. Also, the DLCs' run times are grossly padded with annoying collection side quests, so if you're a completionist like me, you'll be scouring the city for items a LOT.",0.6975897550582886,49,False
+265550,212604613,76561198964483408,A hood classic and one of the most underrated games of all time.,0.6934640407562256,22,True
+265550,170525758,76561198133739044,"(FOV/FPS UNLOCK SKIP TO BOTTOM)
+This game is definitely worth on a sale, the only problems I've had with the game was the 30FPS lock on pc (which can be unlocked but you still need a 60 or you will encounter bugs such as aiming in and out bug) - *SAME FOR THE HORRIBLE FOV*. One last problem is the DLC 'Untold Stories' isn't co-op, which kinda sucked but still fun to play. Overall this game isn't as bad as some people made it out to be, and the story (both main and DLC) were pretty alright and entertaining. The map is massive and there are multiple combo vehicles to get around with so it doesn't get too old. The collectibles are marked on the map so you don't need to constantly check a guide, and combo juices/weapons/vehicles can be made anywhere for convenience sake. 7.5/10
+----------------------------------------------
+FOV - FPS UNLOCK (USE 60FPS) - Use RivaTunerStatistic (or whatever you prefer)
+
+Create user.ini in Root Game folder with this in the .ini:
+
+gmpcr_unlock_frame_rate = True
+gmpcr_FOV = 120
+gmpcr_unlock_FOV = 120",0.6923754215240479,14,True
+265550,195794959,76561199379933770,"I want to leave a good review so badly, the game is good, not as great the prequels, but it's good, I enjoyed every second of the game back when I had the xbox one, it's story is alright, good gameplay. But, for whatever reason, the FOV feels so low in the PC port that the last time I tried, I just couldn't play it, I don't know why I had no issues on the xbox one version, I don't remember the camera being so close to Nick. But the real crime is that you can't even CHANGE the FOV in the PC version. Then there's the FPS lock... Why even make a PC port if you aren't gonna optimise the FPS, the fact you have to find a guide just to increase it to 60fps from 30fps is just silly. Then last but not least, people having issues with saves literally deleting itself if a dlc episode is started or if the steam cloud is having a bad day. Too many cons to defend it. Good game, awful PC port. If you can, play it on the xbox one. Or play the prequels, they're great, in my opinion better and are actually optimised for the PC.",0.6857762932777405,17,False
+265550,224569835,76561199018228262,"extremely underrated. the map is very fun to go around especially with the combo cars, the story is amazing nick is a very likable main character aswell as the other side characters you meet. i love how the psychopaths are all based on the 7 deadly sins definitely makes them more interesting",0.6814100742340088,13,True
+265550,164918127,76561199276445631,"Just a little and not long overview.
+Game is pretty good, modifications, combos, gameplay and the outrages amount of dead :) I really suggest to play the main storyline. As for the Untold stories, there is an big issue. I've completed the first Untold Story for the military, exited the game and when I got back to other stories I was level 0.... This is a global issue as I googled it up. The save file just overwrites itself and count as you are starting from a scratch... No Skill points, no vehicles, no nothing..... Deleted the game after that... But if you have never played it, keep that in mind and just backup your save files. Wish you all the best :)",0.6795946359634399,18,False
+265550,201123729,76561199505453346,Dead Rising 3 is legit an underrated masterpiece. The graphics and atmosphere still age well to this day. The crafting system was so off the rails but also forgiving with upgrades you could walk into the street and craft some of the best weapons because of the ease of use and perks were very meaningful.,0.679358959197998,14,True
+265550,124306971,76561198069420334,"Before I get into the actual review, let me preface this with: DO NOT PLAY THE DLC UNTIL YOU ARE POSITIVE YOU ARE DONE WITH THE MAIN GAME!!*
+
+Moving on, this is an extremely fun game to play. The world building and story are both amazing. However, minus the fourth game, this is probably the least ""Dead Rising"" game. While there is quite a bit of world building, and lots of side quests, there IS a lot that goes on throughout the game and part of the ""Dead Rising"" novelty wears off a bit and causes this to be more of a zombie killing game that has a stellar story with Dead Rising elements. 
+
+*Now, the reason why I urge you not to play the DLC until total completion of the main game is because there is about a 75% (or more...) chance that ALL of your progress will be wiped due to a bug. I was level 47 back in 2021, and I only just recently started playing the game again because I was so incredibly angry and burnt out from the fact that I lost SO much progress.
+
+However, all things considered, great game overall, and great for killing time. I like the references to past games, as for me personally, it keeps a little bit of the flair of the old games. As someone who grew up playing every DR game, this is probably my favorite because of the story and all the characters.",0.7290914058685303,24,True
+265550,90280364,76561198127444373,Spent most of the game running around in a Japanese schoolgirl outfit and got munched on by zombies. Great game 10/10,0.6789329648017883,26,True
+265550,195038380,76561198048307320,"Ya know capping the game to 30 FPS that I had to find a guide to manually uncap it was one thing. But losing an entire Level 50 File including Nightmare Mode completion, all because I started the DLC episodes without knowing just how broken this game really was? That's really a shame.
+
+It's really a shame that I'm giving this game a negative review, considering that I really like the improvements they have done around this game since DR2 OTR, such as the ability to build combo weapons on the go or the the various combo weapons AND vehicles you could make.
+
+But damn, this game has a bunch of bugs that needs to be looked upon, and during the time that Capcom Vancouver was still around, there was a chance to fix those problematic bugs like the save deleting ones. But now that they are gone since 2018, this game is now practically abandoned with the bugs around.
+
+If you really want to buy this game, you're gonna need to start looking up on the internet for what kind of issues still exists in the game and what fixes you need to manually do so that things work out well, HOPEFULLY. Because the old dev team is no longer around.
+
+Or another option perhaps is wait until there's a Deluxe Remaster of this game made by the dev team behind Dead Rising Deluxe Remaster. But when or IF it will happen? No one yet knows. This is all you're going to have to deal with for now if you REALLY want to get this game so badly.
+
+The game itself is not bad, it's actually pretty good. But the bugs that is now in no way going to be OFFICIALLY patched AT ALL is the one that's not good for players.",0.6785873174667358,17,False
+265550,182526745,76561198068277411,"Dead Rising 3: Apocalypse Edition is like a warm bowl of ramen: satisfying, fun, and full of flavor, but you can't help but think, ""Could it have been better with just a little extra spice?""
+
+The game's open-world zombie apocalypse is a joy to explore. Smashing hordes of undead with bizarre weapons like a sledgehammer-teddy bear combo is peak ridiculousness, and I dig that vibe. The crafting system is still super fun, letting you MacGyver your way through chaos. Plus, the edition includes all the DLCs, which is a nice touch for the completionists out there.
+
+But... and here’s the Buddha laziness kicking in... the game doesn’t push itself. The story? Eh, it's there, but it doesn’t hit deep. The characters? Kinda meh, like a side dish you barely touch. And while the map is big, it feels a bit samey after a while—like you're chewing on the same flavor of gum for too long. Also, some bugs and performance hiccups can pull you out of the moment, which feels like someone spilling tea during your meditation session.
+
+Don’t get me wrong—it’s good. A fun game to kick back and turn your brain off for some zombie-smashing zen. But could it have been more? Absolutely. A sprinkle of better storytelling, a pinch of variety in the world, and maybe a dash of technical polish could’ve elevated it to legendary status.
+
+So, I’d say it’s worth a go, but go in expecting a comfy chair, not a golden throne.",0.6770362854003906,11,True
+265550,15892786,76561197970529119,"The very first Dead Rising still remains one of my favorite games of all time.  My review might be slightly biased.
+
+I bought this on sale; a massive mixture of concern whether or not it would run on my system, alongside the built up anticipation I have had since the game's release on Xbox One.  I don't own, or intend to own, that console anytime soon, so  when Dead Rising 3 was ported to PC I was very excited---until I read all of the horrible experiences people with much better systems than my own were having running the game.  The Capcom publisher sale finally convinced me to take the risk, and the results have far surpassed my expectations.
+
+With the settings on low, I get excellent FPS, and it is more than playable on medium.  I am shocked at how well it is running on my laptop!
+
+As far as the game itself goes, it is interesting having such an open environment to explore this time around.  Random survivors will appear that you can save for extra experience, much like the random crime events in a superhero game like the Amazing Spider-man or something, and the stress on time management seems to have been removed for the most part.  This can be viewed as a good or bad thing, I suppose: worrying about appropriately scheduling your tasks was a big part of the immersion factor for me.  On the other hand, the GTA-ish formula isn't gamebreaking--it is nice to be able to have such control over when events are triggered.  At the time of writing this, I am only a couple chapters in, so I guess all that I just said could still be countered; I'm far enough to know that I am really, really enjoying this game, in many of the same ways that I enjoyed the previous entries in the series.  The only thing that keeps throwing me off is HAVING to have a blueprint for something, even if I know how to make it myself.  I wish they had left that aspect the same as it was in Dead Rising 2.  It really becomes a small complaint though, as searching for these blueprints can be entertaining and addictive.
+
+So proceed with caution if you are considering buying this.  The game itself is fantastic.. however, a rather alarming number of users encountered issues.  I'll post my specs at the bottom, but I am considering myself fortunate that I am able to run this, and run it as well as it is running.  If you are willing to take a gamble then you might come away with a winner.
+
+Win 8.1 64-bit
+AMD A-10 4600M 2.3 Ghz
+8GB RAM
+Radeon HD 7660G + HD 7700M",0.7268123030662537,40,True
+265550,77465807,76561198046307715,"I'm just barely recommending this one. I would give it a side thumb if I could. While you can have some mindless hack and slash fun with it for a bit. This game lost most of the charm the first two games had. Psychos aren't as good and they are less of them. Side quest and survivors are boring and generic. The map is bigger than the first two, but it's not as interesting to explore because the color palette is dull. 
+
+Treat this game like a fast food meal. Enjoy for a bit and then move on. I recommend the first two games over this if you haven't played em. We don't talk about Dead Rising 4..",0.6767871379852295,18,True
+265550,39355469,76561197970761123,"Dead Rising 3, the fourth dead rising game (Off the record was it's own game but a rehash of 2).  I've played all of them up to this point and to be honest, Dead Rising 3 might be my favorite. 
+
+The big thing Dead Rising 3 does is give the player far more power and time than the other games.   The time limits are huge now, to the point where you barely have to pay attention to the story, just play the game, do all the side missions you want and then continue the story.  It's a freedom that the first 2/3 games didn't have, and makes this game a joy to play.  On the other hand it takes a 6 hour limit and moves it to closer to 30 for the first playthrough.  This is actually a good thing as most people won't replay these games repeatedly.    I know some do, but I'm thrilled at only really needing one playthrough to see everything. 
+
+The other thing Dead Rising 3 produces is a great fluidity in the game play.   The player can still be swarmed by zombies just as in the previous games, but he can easily maneuver around them or murder them efficiently with his weapons.  The player doesn't feel completely helpless against the zombies, and honestly that makes the game feel a lot more fluid than anything else. 
+
+I actually love playing Dead Rising 3, I apparently spent 60 hours doing so, and maybe that's a bit high (could have left it on one night) but I easily hit 40 hours on the main game, and maybe 15 more on the DLC trying to do everything.  There's a lot of content on here. 
+
+There's also more zombies on the screen at one time, more items, vehicles and a great map.   Dead Rising 1 and 2 always included cars that feel pointless when trying to drive around a mall.   Dead Rising 3 changed the world to include an entire city based on Los Angeles.  There's four districts that open up fairly quickly (in the first 5 hours) and this city is large but manageable.  This actually creates a use for those cars and ability to design a better city.  Dead Rising 2's mall was insanely large, this is the next logical step and I believe it was a great movie.  Los Peridos is an interesting place. 
+
+On the other hand the story is weaker, not that the stories in Dead Rising ever shined.  I liked most of the story, but the fact is the main character is the weakest of the three.  While Frank West was a good character, and Chuck Greene was a good father, Nick what ever his name is is kind of an any Joe.  He has a small story arc but most of the time he's viewing the story, he's not a huge part of the story.  The story is the world and the military, Nick is just an outside observer until the end, and even there, it's not a great character, but a good story around him. 
+
+Overall though the game is great if not excellent, I really enjoyed playing. 
+
+That doesn't mean it's perfect, but most of the complaints are nitpicks. There's the idea of Tragic Deaths.  Sounds interesting and sad, but it's not.  First the player can change his outfit like previous games, so when NIck is dressed up in lingerie and go-go boots, and it breaks immersion, but that's the player's fault.   However the game goes farther and says ""tragic death"" and there's a person who is headless.  or a person who's head is in another's lap and then says something like ""Just trying to get ahead"" or similar while playing sad music.   So which is it, is it supposed to be tragic or is it supposed to be silly?  Just an odd moment 
+
+The DLC for this game that's included is a bit weak.  It is called the untold stories.  The fact is they probably were untold for a reason, they're not that interesting.   There's not even a real link to the original story or the four side stories, two connect but barely. 
+
+Finally there's achievements.  And while this doesn't kill the game (I mean a fun game with no achievement is still a fun game) but there's a few flaws here too.  One achievement on the base game will require hours of busy work and at least 6 hours of grinding.  That's a real horrible achievement where you have to kill about 350,000 zombies (About 1000 a minute is the best rate anyone seems to get).  Kind of slow. 
+
+On the other hand on the fourth DLC story there's at least one if not two achievements that are bugged, and if you get this bug you are forced to wipe your save game.  While I was planning on getting a perfect score, I ended up with 86/88 because of these.  Honestly, kind of annoyed by this, but that doesn't effect my overall feelings on the game. 
+
+So in conclusion I don't just recommend this game, I HEAVILY recommend it for anyone who liked any of the previous dead risings.  It's a lot easier especially once you get a blueprint for a combo gun called the Z.A.R.  There's less time management, and the game requires less replaying but it feels like the best Dead Rising 3 game, and a great zombie game that doesn't rely on making you always feel weak.  You become a Zombie fighting machine in this game, and that's a great feeling.   It's currently 30 bucks, and it easily is worth that, but you can find it cheaper, either way, I can't recommend it enough because it's really an enjoyable game.
+
+In addition I've created a curator account to gather all my reviews availble here if you are interested: http://store.steampowered.com/curator/31803828-Kinglink-Reviews/",0.7253963351249695,26,True
+265550,23045042,76561197977690701,"It sucks to not recommend this game because I really liked Dead Rising 1 and 2. But in the apparent rush to improve the graphics and get this out as an Xbox One exclusive launch title, Capcom sacrificed a good game.
+
+The core elements of a Dead Rising game are here. You're trapped in an open world zombie apocalypse and there are dozens upon dozens of weapons at your disposal, lying around everywhere. Combo crafting new, wacky types of weapons also make it. You'll follow the main story, save survivors by either clearing zombies near them or escorting them, and kill psychos. You gain experience points (Prestige Points, or PP) and level up, gaining new abilities, more health, inventory space, passive buffs, etc. One nice addition to the game is a skill tree that lets the player decide, through the early and midgame, how they want to specialize. You can level up forever though, and they even keep giving you skill points after you've bought every available skill in the game. Come now, that's got to be a few lines of code at most... Anyway, Dead Rising 3 occurs on a bigger scale than the previous two, you've got a whole city now! It should be great, right?
+
+But I think it's simply lost its self-aware charm. The city, Los Perdidos, is as bland as it comes. The way roadblocks snake through the city seem artificial. Instead of funny moments, there are little Tragic Endings. There are only 7 Psychos in the game, plus main story bosses. The psychos are based off the Seven Deadly Sins, which sounds cool in a boardroom design meeting, but there's an absurdity missing from most of them. Dead Rising 3 might be trying to be a little more serious, but at the same time it does try to be silly at times too. The whole balance of the game has been destroyed by Safe Zone Weapon Lockers, which, I shit you not, let you load up a full inventory of miniguns at level 1, and just mow zombies, human baddies, and even bosses to a pulp with zero effort. The old weaknesses of Dead Rising are present. Movement is sticky, it's often difficult to target the item you want to pick up, and survivors are morons. Nothing new or interesting is really brought to the table for the franchise. The graphics got a sizeable makeover and the zombie hordes are impressive, at the cost of a 30fps cap.
+
+The lack of love in the game really comes to fruition in the DLC packs, which are good examples of the shittiest game design I've seen out of a AAA game studio since whenever the last Dynasty Warriors game came out. Take most of the grindy collectible activities you do in the main game: pick up statues, destroy surveillance cameras, and drive from Point A to B to C to D. All right, now do that with a different character in four separate stories. The collectible activities are just reskinned: pick up WHISKEY, hack INTO cameras, and of course, drive from Point A to B to C to D, oh and some roads are now closed, making the drives even longer and more pointless. To top it all off, the only rewards in the DLC packs are more experience points (PP). Just more PP, here have some PP! I hit way past max level playing the base game, the rewards are completely useless. You're also essentially a god at max level, and you need to try to die in order to lose a fight, even against bosses. So what's left here? Nothing really. Just a chore.
+
+So, then we get to the PC port itself. There's a 30fps cap which you CAN disable with some .ini editing, but that's a mark of a lazy port right there. Unlocking it can cause issues. The game has a few CTD bugs. The Co-op experience is nothing short of a fucking nightmare. If you're LUCKY, you'll only get CTD when you host or join another game. The unlucky will have their game hang the whole computer, sometimes requiring a restart. You pretty much have to do alchemy with your game settings until the co-op experience works... MAYBE. I managed to get a single co-op session going after about 2 hours of trying. And although this didn't happen to me personally, there are even higher frequencies of CTD bugs while playing co-op. Woo, zombie slaying with a bud has never been easier...
+
+Just kidding. Get Dying Light instead. It's not comical, but at least it's properly fun.
+
+If you're a BIG fan of Dead Rising, well, you probably already own this. And if you're still on the fence, it might be worth it on a 75% or higher sale price. Otherwise, it's not a very good game.",0.7241707444190979,49,False
+265550,117038517,76561198046999701,"The last good Dead Rising, though I wish the PC port wasnt that botched.
+
+Really good combo weapons though, and Nick is probably the most underrated protagonist in a capcom game.",0.6713271141052246,15,True
+265550,27434572,76561198338654638,"Comparing to the previous Dead Rising games:
+-------------------------------------------------
+1) No loading screens when entering a different area.
+
+2) Gameplay is noticeably improved well compared to the last two games.
+
+3) Only 2 difficulty modes (Story; which feels like a easy mode due to the fact that time restrictions is very forgivable or Nightmare; which is clearly hard mode, has the time restrictions feel like how it should of been for the ""Story"" difficulty).
+
+4) An online matchmaking system that you can select from, which are: Completionist, Hardcore, Speedrun... etc. You get the idea.
+From my personal experience with this poorly labeled system as online matchmaking, if you want a solo experience with this game and DON'T want anyone to join your game, you need to select ""Single Player"" a lot of randoms i matchmake with using this will boot you right away, it was quite annoying to find someone to play with, tho I get the labeling... I do, it lets people that are searching for rooms know what kind of playstyle your doing while searching for others to play with, but it would seem that people may have confuse this as a ""Difficulty setting"" even tho it's not.
+
+5) There is no Sandbox Mode (Free roam w/o time restrictions) like in Dead Rising 2: off the records. IMO, story mode offers you a very generous amount of time to explore in between missions just to do whatever.
+
+===========
+Things in DR3:
+---------------
+1) Combining vehicles (unlike DR2, your not restricted to only comboing bikes, you can combo cars, trucks... etc.)
+
+2) The ability to combine things on the spot without the need of workbenches or blenders.
+
+3) Weapon Lockers, in safehouses there are these lockers that hold just about every item you picked up and used throughout your playthrough. At the cost of points (depending on the item) you can reclaim or stockpile boss weapons or any non-vehicle combo item you had and resupply your inventory.
+All collected items are transferred through to new game plus, in case if your wondering.
+
+4) A Survivor board, also in safehouses there are these whiteboards that you can recruit any survivors you had rescued during your game to be your personal bodyguard.
+
+5) A Sprint button, no more jogging from place to place or exploiting pushing weapons or moose head charge attacks to get from place to place fast like in the previous DR games, tho you can still do those if you still want to.
+
+6) The ability to choose what stat to increase per level up. Meaning you can focus on stats that benefit your own personal playstyle.
+
+7) Collectible trophies & Magazines that no longer take up inventory space.
+This means that you can collect ALL magazines without the worry of inventory space, and if i remember correctly... they stay collected on your person for every NG+ may want to do.
+
+=====================
+Personal recommendation:
+------------------------------
+If your new to Dead Rising and want to embrace yourselves in the lore, I would recommend start playing 1 & 2 first (you can ignore ""Off the Record"" it's non-cannon), but if you don't care about the lore, I'd say it's fine if you start off on 3.
+
+I also recommend you look up how to edit your FoV, the default FoV in game feels too restrictive and way too close to the character and doesn't offer enough vision of your surroundings.
+
+Especially since the MC's fat ass is covering up most of the screen and there's no way to change camera orientation from his right shoulder to the left shoulder to help you see. That is a must-have for 3rd person shooter type games, shame on devs that forget to implement that function... the only time I can be somewhat OK with not having this function is if the playable character is somewhat transparent.",0.7199469208717346,18,True
+265550,50493869,76561198315805560,"Best for newcomers and casuals to play on than the previous titles. The time to mess around and do more things is more lenient and in your favor. To get rid of the 30 fps cap, make a text file and name it ""User.ini"" right in the game's directory folder. Type ""gmpcr_unlock_frame_rate = True"" into the User.ini file to unlock the frame rate.",0.7659240961074829,35,True
+265550,177368956,76561199454557386,"The Game is Great i Remember watching Vannos and H2O delirious play this game when i was younger and now that i'm playing its very nostalgic and is just so good can't say that about the 4th game
+",0.662511944770813,13,True
+265550,129276596,76561198956849890,"The game doesn't save, at least for me. I played this game a bunch on xbox one when it originally came out, and wanted to play again to relive some old memories. Got 2 hours in before realizing every time I saved, a message would pop up at the top of the screen saying, ""FAILED"". Every fix I have tried for this has not worked, as every discussion for this game seems to be at least 2 years old. If you were like me, and wanting to play this game, I would do it somewhere else, because otherwise you'll have to keep it open 24/7 to save your progress. I'll update this review if I find a solution, as I'm still actively working on it, but I'm not the best with technical stuff and game files, so I doubt I will be able to find one. If you're seeing this, and you've gone through similar troubles, and you know of a solution, please let me know.",0.6613508462905884,18,False
+265550,72580461,76561198054329342,"A fun title for both seasoned veterans & newcomers.
+
+It's got a healthy amount of action, with character building & customization, fun areas to explore, memorable characters, with a unique horror/zaniness that is distinctly Dead Rising. 
+
+For better or worse, it's very similar, but doesn't feel quite like Dead Rising. It's too different. It shines in its own ways & goes off in its own directions - in some ways very well. Personally, it feels more like a spiritual successor to the Dead Rising series, rather than a full, official title - but that isn't to say it isn't fun. It's a great time, but certain mechanics & changes will definitely put off some players.
+
+I was very worried & skeptical, especially with how the game launched & given the reviews here about crashes, deleted saves, frame rate drops, etc. I bit the bullet during a sale however, & purchased it for both myself & my sister. We've had nothing worse than the rare light frame rate drops & the co-op has been a blast.
+
+If you like zombie & action games, this game definitely warrants a look. Even if you don't like the older Dead Rising games, or if you don't like where this newer title goes, there's still plenty of fun to be had here.",0.7092539668083191,23,True
+265550,200074710,76561198315906492,"Great game and very fun BUT there is a major glitch that hasn't been fixed by the developers.
+
+When you start any of the DLCs there is a chance that your entire progress will be reset.
+It happened to me when i started episode 2 of the DLC and all of my blueprints, items, clothing etc all were gone and my level went back to 1. Totally ruined my will to continue playing this game. If you are reading this i recommend first playing through the DLC then the base game in order to avoid this issue",0.6587733030319214,14,False
+265550,106394673,76561199154517470,"I always wanted to play this game when i was around 12 years old and i discovered it from theradbrad's walkthrough. Its definitely better than the previous one as it has more weapons, quick weapon building and bigger map! And i love the new mc in this one. Hopefully there's DR5 in the future :> zombie-slaying games never gets old",0.6564687490463257,14,True
+265550,26954804,76561198043903494,"An underrated game. This game is too much fun in every way.
+
+Dead Rising 3 is basically an open-world gta-like game with tons and tons of zombies, you complete missions and sidequests, rescue survivors and make them your side-kicks, hundreds of weapons, hundreds of vehicles, you can craft tons of awesome new weapons such a giant p*nis that works as a flamethrower and ice launcher, or a tank that with missile launchers and machine guns or motorcycle that launch saws and soo much other options. Believe me, You can do soooooooo many things in this game.
+
+The story is good and Nick Ramos is an interesting character overall. And the psychopaths gives a humorous mood to the game.
+
+On the technical side, The game run smooth at 60FPS (need to modify a file). FPS drops happen very rarely and the entire time my FPS is between 70 and 110 FPS. However, there is a really annoying bug with opening the weapons menu i couldn't find solution for.
+
+Other than that, the game is so much fun, the gameplay is awesome and there too much freedom to play the game.
+
+People can join you and help you and you can do the same which makes the Co-Op/Multiplayer mode is equally fun.
+
+Plus, you have all the released DLCs for free. That's means you have 4 DLC side-stories missions and tons of DLC weapons and vehicles.
+
+If you are a fan of Dead Rising series and zombie games and love crafting and do crazy shit, I say get it.
+
+9/10.",0.7063591480255127,24,True
+265550,215799746,76561198241596870,"My mom got me this on the Xbox one back in the day, so I have a lot of positive memories from this game. I love you mom, and I’m very happy to have you in my life and mold me into the person I am. But honestly? Pick up on sale. 3rd best dead rising. It’s just a bit too easy I think. Would do the harder modes for a real dead rising experience. Might be my personal favorite 5/10",0.655674397945404,10,True
+265550,12002179,76561198037442392,"Hi, I just wanted to share my performance with the game so far.
+First of all here are my computer specs.
+
+[b][u]Computer Specs[/u][/b]
+OS: Windows 7 64-BIT
+CPU: AMD FX-6300
+GPU: 2GB AMD 7870
+RAM: 16GB DDR3
+
+[b][u]Game Settings[/u][/b]
+UNCAPPED THE 30 FPS
+Screen Resolution: 1600x900
+Render Resolution: Full
+Texture Resolution: High
+Shadow Quality: High
+SSAO: Disabled
+SSS: Disabled
+Mirror Quality: Medium
+VSync: Disabled
+AA: SMAA
+Zombie Quality: High
+Motion Blur: Disabled
+DOF: Disabled
+Texture Filtering: ANISO X2
+Sky Quality: High
+LOD Distance: 11
+
+[b][u]Performance[/u][/b]
+When I first booted the game up it loaded with no problems, in the menu I was getting 50+ fps. I then loaded the first mission and during the first cut-scenes i was getting 40+ fps although it looked like 21fps because of some really odd lag issues.
+After I loaded in and started moving around for the first time (The first time you actually get control of your character) i was getting 50+ fps no problem. [spoiler] once i got to the part with all the zombies inside the fenced of area I dropped to around 35-45 FPS, and it when up and down until I first experienced night time (After you find Anne, or whatever her name is and go into the watch tower) looking over far distances It dropped down to around 20 - 35 fps and if i looked away it would go back up to 40-50. [/spoiler]
+
+So my whole experience with the game has been great, performance wise it really needs to optimization, mainly with the zombies (Not the amount of them but just the amount of lag they cause).
+
+[b][u]Bugs / Problems I have encountered[/u][/b]
+FPS Drops while looking over large distances. Objects not loading correctly while moving at high speeds (For instance driving fast in cars) The game freezes for 1 or 2 seconds at random points (Not often)
+But other than that I have had no crashes or any other problems.
+(I'm using the first release, no updates or anything)
+
+I would not recommend this game until they fix it.
+
+[i]Also sorry for my terrible formatting[/i]
+
+[b]EDIT[/b]
+
+A lot of you are saying lower your graphic settings, No. What is the point in buying a game like this, just to play it with terrible graphics, It's not an FPS or a competative game so I really don't mind the FPS Drops.
+
+Also to the guy that said change the texture quallity, that is pointless, I have 2GB GPU and 16GB of ram. Changing that would change nothing.
+
+#EDIT 2
+
+I have tried changing the texutre quallity and it looks like crap and the performance is no difference.",0.699988842010498,226,False
+265550,74748259,76561198002209252,"I loved the original Dead Rising and skipped the second because it started to get silly.  While Dead Rising 3 has tons of silly stuff, overall the vibe and atmosphere is a lot more serious and gritty.  I was super hyped for it when it came out but there was a lot of hate and I was very busy at that point in my life.  Anyways, after the dumpster fire that was the Dead Matter launch I was looking for a new zombie fix and decided to pick this up.  It is so close to being everything I've ever wanted in a zombie game.  I truly feel this is not just the best Dead Rising (I did eventually get around to playing 2, have not played 4), I believe it's one of the best zombie games I've ever played.  I've had a blast playing this and the situations you can get in are amazing.  I stay away from OP weapon combos, the lockers, and silly costumes and play with just what I can pick up around and it's perfect. Definitely get this.",0.6995117664337158,28,True
+265550,166369674,76561199081046710,"dead rising 3 is a good game but sadly 10+ years later the pc port is a buggy mess that has multiple glitches which not only break the game and its quest but ones that can delete all your save data as well making the game  
+unplayable at times these issues should have been fixed by now",0.6439613103866577,23,False
+265550,170300630,76561199218260121,"Due to the recent news of the Dead Rising Remake/Remaster I decided to give this series a shot starting with Dead Rising 3. I was always aware of this series growing up but unfortunately never had the chance to play till very recently and I've been having a blast so far with this game alone!! I've heard that Dead Rising 3 and Dead Rising 4 weren't looked as fondly as the first two games apparently and while I can't comment on Dead Rising 4 as I haven't played it yet I don't understand why Dead Rising 3 gets the short end of the stick since it's still a pretty damn fun game, I think that might be because this is my first Dead Rising game and if I played the DR1 and 2 first then I'd see it differently but as of right now I think it deserves alot more love than it's gotta.
+
+P.S Apparently this port doesn't save your progress properly if you try out the DLC and while I haven't encountered this problem I still recommend backing up your saved progress just in case so you don't lose it, hope this helps prevent anyone from having this problem in the future :D",0.6432734727859497,12,True
+265550,174367010,76561198030852600,"Mindless fun, like all Dead Rising games, but with something distinctly missing. Everything looks the same, most combo weapons feel identical, and the map is filled to the brim with collectable litter. You can tell this was an XBOX ONE launch game, in that this game tries to make you feel like everything is bigger and better. In a sense, it is - but the tradeoff is that it is painfully easy. If I wasn't interested in exploring, I could have finished the game earlier tonight. Bosses are locked into animations while you throw damage at them. The sense of caution you have at lower levels is gone. There is no tension.
+
+But still, it's mindless fun, and exactly what most people want in a zombie sandbox. And to tide me over until the Dead Rising 1 remake comes out, this game is worth all of the 8 dollars I paid for it.
+
+",0.6415964961051941,10,True
+265550,197231503,76561198075462979,"Dead Rising 3 is a game released back in 2014. I played it 11 years after and I really enjoyed it, BUT! ..
+
+Before I even start to write this review, the first thing I have to acknowledge is, there is 30FPS lock from console port. It is possible to uncap it (check guides), but it might break the game, save files or it might bring problems with aiming. Keeping that in mind i finished the game with 30fps cap.
+
+Also there are some bugs related to save games. If you want to re-play already finished chapters, then all safehouses are again infected, even if you cleared them trough your playing. Another bug I encountered was also about save files. After I finished main story, I started with DLC - untold stories. From what i read about it, you should have been able to keep your main character progress - levels, perks, everything and yet after the start of first DLC, the whole progress was reset again. I might consider it as a challenge to play from scratch with other characters, but it is still a bug. 
+
+Neverthless, I played this game for 29 hours so far, and I enjoyed it. The story is divided to eight chapters, the missions are really varied, and there are also timed side missions. You have only 7 days to finish the storyline, then the whole inficated city would be destroyed by bombs. Nonethless, the timer is really generous so you can finish all quests and hunt for collectibles with time to spare. 
+
+Where the game excels is open world, which is divided to four city parts. Whole streets are flooded with zombies which you can massacre any way you like. You want to fight them by hand? machette? rifles? You can. But you can also combine weapons which are much more stronger and effective. Are you tired of guns? Make a combo of motorbike and roller machine with flamethrower attached to front of the car and plow right though them. 
+",0.6406779289245605,10,True
+265550,28108025,76561198026037977,"I don't really want to compare DR2 for this review, but I'll at least say that if you didn't enjoy 2, you probably won't find much fun in this one either.
+
+One of the core negatives in my opinion is how blatantly overpowered combo weapons are. Even staple weapons such as katanas and fire axes will take several hits to kill zombies, whereas MOST combo weapons will mow down a horde effortlessly. But that isn't necessarily a bad thing, as it gives incentive to hunt for materials rather than gravitate towards where the most overpowered weapons spawn. 
+
+Beyond the game feeling a lot more destructive than its predecessors, it still has a lot of common relations to previous Dead Rising game. Comedic cast of characters, B-tier plot, stupid psychopaths, and the gameplay feeling far more refined than ever. And while the time constraint still exists, which in my opinion has never really been an issue in the first place, it never feels like it actually exists,
+
+I can see why people may have been burned by this for a heftier price tag, be it $60+DLC or $30+DLC, but I purchased the complete edition for around $10, and still have an obscene amount to do in this game. I imagine my clocked in hours will increase over the next week or so, but at that sale price, if you can catch it again when Christmas comes around, I highly recommend it.",0.688877522945404,24,True
+265550,28568908,76561198093509462,"Got this game just yesterday, December 22, 2016, for a fantastic deal of only $9 and it comes with every single DLC! What a bargain. I am a very die hard Dead Rising fan and zombie game fan overall so this review is legit. This game picks up every aspect of the last 2 Dead Rising games (not including prequels/non canons) and improves upon it massively, except for some of them. The graphics are obviously way better than the last 2, but this means higher demanding specs and let me tell you like everyone else is the optimization is TERRIBLE. Kind of close to DayZ if I'm honest. But that should not stop you from buying this game. The story is meh, definitley not as good as the previous 2 games, but during the end it picks itself up with a surprise return from someone who I won't mention, but if you don't know after 3 years of the game coming out you might as well look it up on YT. Now we get to gameplay, this game definitley has the BEST gameplay of the previous titles, introducing sprinting, being able to carry big things like teddy bears in your inventory, the ability to run and eat, run and shoot etc. but the only complaint I have about the gameplay/combat is that weapons feel very weak in this game, in the previous titles one slash of a broadsword would cut a zombie in half and in real life you would probably expect it to as well, but in this game it is like you just hit them in the stomach with a wooden baseball bat, and that means it feels terrible slashing through zombies with blunt weapons when it should feel amazing, this means that you will be using the new heavy attack button most of the time to kill zombies which will destroy your weapons in around 30 or 40 hits. This is unbelieveable as in other games the weapons were kind of realistic and could last more than 50. With a bigger map means a new way to traverse around the map and with this comes the addition of combo vehicles, much like combo weapons, combine two things and make something completely unrealistic that shoots fire and you can take on zombie hordes. This is probably one of the best additions and most fun for the game. But overall, this game is far from perfect but still a very good pickup for only $9, and I would definitley recommend you purchase it.",0.687293291091919,24,True
+265550,12008843,76561197985686073,"Dead Rising 3 is a mixed-bag. It's a bag filled with delicious chocolates and overly salted pretzel. You can pull out something sweet and succlent, and other times nothing but shit. Dead Rising 3 is one of those games where it had a lot of great ideas and fun elements but get weighed down by plenty of pretzels.
+
+Dead Rising 3 is the next installment in the Dead Rising franchise, a franchise of which I love. Seeing Frank West plow to hordes of zombie in a shopping mall was one of the greatest things I had seen for the Xbox 360 at the time, and my love for the series pushed forward by the new combo weapons, B-movie style, wacky game that Dead Rising 2 was. It seemed Dead Rising 3 might of been a spark for another entry in a series that I had always found enjoyable, despite it flaws. Yet, Dead Rising 3 had proved me wrong.
+
+Let's talk about the good things first though, Dead Rising 3 features plenty new elements to franchise. The game feels more fluid and less clunky, Nick is able to create combo weapons on the fly, and the city of Los Perdidos is much more massive than Willimette and Fortune City. The game features two modes, Nightmare and Normal. Nightmare is more in the style of the previous Dead Rising games, with a tight time limit and a saves only available in safe houses and bathrooms, for those who like a challenge. While normal mode has a very long time limit, and lets you freely explore the undead-infected city at your leisure. Some very minor changes include being able to eat/drink while moving, improved psychopath health bars, less escort missions, and the abillity to access clothing and weapons from the safe house you've previously unlocked or picked up. The zombie-slaughering is a blast, with a wide variety of effective and silly weapons at your disposal. Combine a katana and a scythe to make the all-mighty Reaper, and you can combine that together with a gasoline can to having a Fire Reaper. Put rubber ducks on boxing gloves, or put a shotgun and an assault rifle togheter and face hordes of thousands of undead obstacles with your powerful weapons. Slicing and dicing zombies feels satisfying, and finding new blueprints to a new combo weapon is always a blast. Unlike most open-world games, Dead Rising 3 has a lot of interiors. It's choke full of hardware, clothing, and yes, even porn stores. The absurdity is the finest part of Dead Rising 3, even if it feels a bit juvenile or silly at times, it feels wonderful to plow through the hordes. 
+
+Now here's the bad news, let's just get this out of the way, very few will deny it. Dead Rising 3 runs poorly. It's playable, but don't be expecting to run on 60 FPS on the highest quality of machines. Is it a crappy port? Depends on how you look at it. The Xbox One version of Dead Rising 3 (a launch title for the console) was known to run terribly at times, with many technical issues. One could say the PC port of Dead Rising is actually much better compared to the Xbox One version, the thing is, it still runs like crap at times. The weirdest thing is that during cutscenes, the game's FPS tends to drop even less. One very frustrating annoyance, is the game tends to crash every so often. It's almost impossible to do Nightmare mode as the game crashes so frequently that you might end up losing your save, because you couldn't make it to a safehouse or bathroom before the invisible ""crash timer"" rings its bell. It's a very big problem, unless you don't care all too much about running Dead Rising 3 on the highest settings, or don't mind getting under 50 FPS at times, then the performance issues shouldn't really affect you. Even then, there are still some weird texture pop-ins, objects appearing out of nowhere, and some low quality textures even on the highest settings. Plenty of games look much better than Dead Rising 3, and play much more smoother.
+
+As for negative gameplay aspects, it may very from person to person. Los Perdidos is big compared to the last two locations of Dead Rising. It's also very maze-like, unmemorable, and twisted. In the previous two Dead Risings, the landmarks were very clear. The giant slide in Pallisades Mall in Dead Rising 2, the courtyard of convicts in 1, but Dead Rising 3 doesn't have those types of memorable landmarks. There's no way to tell where the gun store once was, or the knife shop, or the pizza place. The streets, more often than not, look the same. Most locations have to be travelled to by car along a confusing routes of highways, and frequent roadblocks that require you to find a new automobile. It all felt tedious getting around. The side missions, are just your generic open-world ones, such as find 5 guns and bring it to Tommy, or take Sarah to a certain store. A lot of the psychopaths in Dead Rising 3 felt underwhelming, they weren't as interesting or challenging as the previous two and lacked any real great rewards. In Dead Rising 2, deafeating Randy gave you the massive pink chainsaw or defeating Seymour gave you the powerful 60 bullet Six Shooter, and in Dead Rising 1, defeating Adam gave you the mini-chainsaw. However, defeating psychos in 3 only give you PP, a key, sometimes survivors, and only three the six optional psychopaths give you some sort of weapon, none of which are very good. All these features can really tone down some of the great potential the game could have, there's so many minor irritations that just turn into one big itch you can't scratch.
+
+Despite the hordes of zombie killing, the incredibly fun combo weapons, and the bizzareness of the entire game. As hard as it is for me to say this as a really big fan of the series, I can't reccommend Dead Rising 3. It's performance and crashing issues are much too big to ignore, the twisted and unmemorable map of Los Perididos are frustraiting, and it's lack of any real sort of accomplishment from rescuing survivors or doing side missions makes you hesitant every time you get a call. The game could of been so much more, what sounds better than a open-world sandbox co-op zombie killing game? Instead, you're left with a technical mess, and a bland game. With all the things it does right, there's just too many damn pretzels in this bag.",0.6869299411773682,177,False
+265550,36100473,76561198068821618,"Its good but just the 30 fps cap is really annoying when my pc could handle more 
+
+Other than that, great game
+
+
+*****EDIT******
+
+problem can be fixed 
+
+create a new text doc and copy & paste this ""gmpcr_unlock_frame_rate = True""
+and save it as user.ini
+
+The game is now running more smooth",0.68382328748703,18,True
+265550,57580681,76561198321122128,"You love to kill zombies? also love to see things burn and explode like saints row? 
+This is the perfect game for you. :) 
+
+The DLC The Untold Stories of Los Perdidos is great and it has 4 episodes showing the aspects of the story that Nick was never a part of, all of them are fun and nice to play because you play as a commander of the military forces, an illegal, a psycho motorcycle gang leader and the last episode you play as agent Brad Park he works for the zombie defense and control which is basically the ""zombie FBI"" :P 
+
+Dead Rising 3 Apocalypse Edition 10/10
+Heisen.",0.6772735714912415,28,True
+265550,77605815,76561198026460082,"I played for 40 hours plus just to find that a bug suddenly, my character is back to lv1, and back to square one, with the mission completed and the game finished. I cannot replay it from the beginning wasting my 40hrs plus searching for all treasures and blueprints. Waste of time. With just one last dlc to do, I skipped it entirely and quickly uninstall the game.",0.6237972974777222,21,False
+265550,107783700,76561198091875179,"The now defunct Capcom Vancouver had been in charge of creating Dead Rising entries after the first game. Each of their entries so far had been successful, and while different, were good games. Now it's 2013 and we're in the 8th generation of consoles, Capcom Vancouver had the privilege of having [i]Dead Rising 3[/i] as a launch title for the Xbox One; the question is how well did they do compared to their other titles in the series?
+
+[h1]The Story[/h1]
+It's the year 2021 and the world has put its utmost effort in trying to provide safer protection against and to prevent zombie outbreaks after Fortune City. Citizens are implanted with GPS chips with Zombrex and are monitored by the ZDC. Despite all this safeguarding, an outbreak occurs in the city of Los Perdidos and the city quickly falls, with many struggling for survival and power. You play as Nick Ramos, a kind and somewhat cowardly mechanic who simply wants to survive and keep everyone safe. As you explore and attempt to escape the city, you'll uncover the truths of what is happening in the city and what caused the outbreak to occur. Along the way, you'll meet another interesting cast of characters, both friend and foe.
+
+[h1]The Gameplay[/h1]
+While the controls are much more fluid than the stiffness of its predecessor, it manages to make you feel sluggish and slide around as well as feeling somewhat unresponsive, not to mention the game being capped at 30 FPS normally. PP (prestige points) have new ways to be earned such as kill counters and PP Trials, but the leveling system has been overhauled; I will go over this in the next section. The game is much more vast in its world size and has an entire city to explore; while this may sound exciting, I personally believe Dead Rising takes advantage of smaller world sizes that have a high level of personality, detail and polish, and this world feels like the antithesis of what makes Dead Rising unique and have its own identity as a sandbox zombie game. Combo weapons return and there are plenty more to craft, as well as new combo vehicles expanding upon ones from DR2 such as the iconic chainsaw motorbike. With such a big sandbox, there are [i]many[/i] collectables to find; while this may be perfect for someone who loves collectathons, I personally found this to be somewhat cheap padding and trying to compensate for the emptiness and lack of personality in the world. The game ramps up the sexual tones in some places, and while it's sparing, it can feel a bit intrusive on the experience when it does (but that's just me).
+
+[h1]The Mechanics[/h1]
+There's a lot to cover here, so let's just jump right in. As mentioned before, the leveling system has been tweaked; when you level up, you gain attribute points which you can spend on upgrading certain categories such as life, melee, ranged, etc. This gives you more control in how you progress and can bring possible challenge ideas, but also cuts out some replayability as there is no longer RNG elements to leveling up. Creation of combo weapons (and combo vehicles) are no longer limited to certain workbenches and can be created anywhere; while this helps keep uninteresting downtime at a minimum, it comes at the cost of immersion. Magazines can now be permanently collected and don't take up inventory slots, and while this is convenient, it takes away from Dead Rising's inventory management. The time limit has been greatly extended to 7 days, providing lots of time to both explore and complete main and side quests; even with all this content, this is a grave mistake, as the short time limit was a staple of Dead Rising and provided tension and the need for time management to get things done efficiently. There are safe houses around the city that can be cleared out to manage survivors, clothing, and weapons; the weapon locker, while also convenient and even including a limiter, takes even more difficulty out of the game.
+
+[h1]The Survivors[/h1]
+There are still unique survivors to save, but a good number of them will show up as random encounters nearby, requiring that zombies around them be cleared out in order to receive a PP bonus. Traditional survivors in this game lack the charm and personality of those before, more or less being a PP boost and powerful lackeys at your command.
+
+[h1]The Psychopaths[/h1]
+The psychopaths of this game represent the Seven Deadly Sins; lust, gluttony, greed, sloth, wrath, envy, and pride. With this theming comes unique gimmicks for each boss, being a mixed bag in my opinion. With the theming and gimmicks, the bosses are more outlandish and comedic, all of this together taking away from what individuality they could have by being linked to a specific description for the entire encounter (i.e. ""that boss that revolves solely around being a glutton"") instead of being something on their own.
+
+[h1]The Endings[/h1]
+The multiple endings are somewhat gimped as well. Ending F for exceeding the (extremely long) time limit, Ending D, Ending C, and (canonically) Ending S through Overtime Mode. Not much else to say here, it's underwhelming.
+
+[h1] The Modes[/h1]
+The main game has a chapter selection option, which is a nice addition for this game. The game, as I mentioned earlier, has Overtime Mode. The game also introduces Nightmare Mode, which modifies the game to be generally harder and more akin to traditional Dead Rising games, which for hardcore fans like myself, was a good compromise.""The Untold Stories Of Los Perdidos"" deserves its own section, as it's a pretty large DLC collection.
+
+[h1]The Untold Stories Of Los Perdidos[/h1]
+This collection of DLC consists of 4 mini-campaigns starring minor characters in the main game as playable characters, telling their story during the zombie outbreak. This answers questions and gives screentime and development to characters that had little to none of it beforehand. These DLCs all take place on the same world, and are each chock full of their own collectables. This, along with intentionally-placed barricades in certain inconvenient places, make it plain to see the padding of these short DLC stories to try and get as much play time as possible out of them. Each introduce new weapons, 1 combo weapon per episode, and a unique outfit for Nick from each episode in the main game (the weapons are also available via the weapon locker). I found these mini-campaigns pretty neat, but overall it's nothing to write home about.
+
+[h1]Miscellaneous, Yet Major[/h1]
+[i]Dead Rising 3[/i] has a very glaring save data issue that crops up occasionally, which causes the game to ""forget"" about some of your settings and even your save file itself upon startup; this can primarily be avoided by simply restarting the game to try and get the game to recover on its own. While this is usually easy to avoid, it is a dangerous detriment to the player and their experience with the game, such as myself. I obtained all the collectables, all the blueprints, maxed out my character; I was 3/4 through the DLC and it happens because I was unaware of it or how it worked, possibly even unintentionally avoiding it previous times. The game is going to be 9 years old this year at the time of posting this, and while Capcom Vancouver virtually no longer exists, even the time when they were active, a glitch such as this is absolutely unacceptable and soured what little goodwill I had left for this game.
+
+[h1]Conclusion[/h1]
+[i]Dead Rising 3[/i] tried many new things for the franchise's formula, for better or for worse. Capcom Vancouver's burnout on the series from being Capcom's ""Dead Rising studio"" is even evident here, in my opinion. The game is the black sheep of Dead Rising, not holding up nearly as well as its predecessors and not being nearly as atrocious as [i]Dead Rising 4[/i], even with some of the warning signs being evident in this entry. It's average at best, and disappointing at worst; pick it up during a sale if you want to try it out. Hey, at least it isn't [i]Dead Rising 4[/i], right?",0.6226689219474792,21,False
+265550,77209295,76561198167380567,Nice history and too many different craftable weapons and vehicles really nice. I'm enjoyed too much and anti stress game too one shot all zombies. I'll recommend,0.6193559765815735,11,True
+265550,23389684,76561198024852748,"This game is excellent! after the 60 fps unlock is in place, it just runs and plays beautiful. tons of things to do..",0.719281792640686,35,True
+265550,16982918,76561198067168151,"I waited to buy this game on sale and now I’m really glad I did. If I bought this for the full price I would’ve been very p%ssed. Not everything about this game is bad but a lot of bad decisions were made while creating this game.
+
+Pros:
++ The graphics are quite nice in my opinion.
++ The psychos are insane and unique as always and have fun cutscenes.
++ The Ultimate combo weapons are fun to use. (Try the Massive Bomb. It’s awesome)
++ Darlene’s boss fight is hilarious. 
++ Firearms are a bit more useful than in previous games. In my opinion.
++ [spoiler]Chuck Greene[/spoiler]
+
+Meh’s:
+~	Maybe I missed the prompt that told me what to with survivors (how to get rid of them to be specific) or they just don’t tell you. I accidentally dragged one into a bossfight where she of course died because I didn’t know that I had to deselect her at the whiteboard in a safehouse.
+
+Cons:
+-	The game crashed a couple times. Even forced me to reboot my PC twice.
+-	Sometimes textures take long to load.
+-	It’s dumbed down to appeal to the masses. I didn’t die once in the story. In DR1 and DR2 that was pretty much impossible to do.
+-	You have way too much time. There was no feel of urgency at all. I finished the game on day 4 even though I completed all the side missions and psycho missions. Had I focused on the main missions I would’ve finished it on day 3 at the latest.
+-	The collectables sometimes are a real pain in the #ss to find. More than once I found myself thinking “How the f#ck am I supposed to get up/over there?”
+-	The vehicles are useless as sh%t. Fun yes but the fun lasts for about 2 minutes tops. Then they go boom.
+-	It feels like there are less combo weapons than in DR2
+-	The constantly getting grabbed by zombies. Every 10 seconds you have a Zed hanging on your #ss. So damn frustrating.
+-	The constantly exploding sh!t right next to you. Maybe I was too blind to see it but somehow there was always stuff exploding right next to me and Nick hugging the street.
+-	90% of the doors are locked and will only open if you do a side mission that is related to that place. I’d like to emphasize on one in particular where you have to protect a woman on a shopping trip and one store is locked. She simply kicks the door open… She can do that but Nick, who is at least one foot taller than her and bit more muscular, can’t? That’s b#llsh%t.
+
+I guess that’s about it. I haven’t played the DLC’s yet but I probably will in the next few days and I’ll probably play this game in Coop where it’s hopefully more fun.
+I can’t recommend getting this game at a full price. If you really want it wait till it’s on sale again.",0.6684672832489014,141,False
+265550,50330734,76561198126422246,"Bought it on sale this week for super cheap.
+All in all its a fun game, if you want mindless zombie killing and cool weapons and vehicles to craft this is the game for you.
+It's a lot more open than the previous two installments.
+
+The downside is its capped at 30 frames default, although there's an easy fix you'll see all over the place in the discussion page. Literally just a simple copy and paste.
+And it's not perfect, there's some bugs/glitches every so often.
+
+But if you can get it on sale for under 10 bucks like it is right now, go for it!",0.6670259237289429,15,True
+265550,187249931,76561197996309838,"it isn't the first two games and that's okay!
+at least it isn't the fourth 💀💀💀
+
+the pc port isn't all that polished so you may have to tinker a little for it to make it look smooth because it's capped at 30fps
+
+and the camera shake might get some ppl nauseous but other than that it's a solid dead rising title that tries to innovate from what the previous ones did and succeeds (in some ways) but also falls flat in other ways.
+
+while this game still does retain the silliness and the combo weapons especially up the ante from previous weapons, the charm from exploring a mall and doing dumb stuff is gone, it's been replaced with hack n slash combat that allows you to do finishers, not unlike the first two where every weapon (kind of) has a unique attack attached to them. 
+
+overall if you like the series it's still some good ol dead rising, just uniquely different!
+",0.6153846383094788,6,True
+265550,22870086,76561198023615227,"A review of the blood & gore effects in Dead Rising 3
+https://www.youtube.com/watch?v=2KUocIAOk2k
+
+Very nice and detailed dismemberment
+Zombie behaviors will change on amputations (legless zombies crawling towards you, love it)
+Blood spilling is OK-ish and the mess will stay for a while (though not permanent)
+
+Biggest downsides are human characters that have no body damage, and bosses that are mainly a pain in the ass",0.6649219989776611,19,True
+265550,90888279,76561198166353759,"---{Graphics}---
+☐ You forget what reality is
+☐ Beautiful
+☑ Good (it's a game from 2014)
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ Paint.exe
+
+---{Gameplay}---
+☑ Very good (I like the effect to combine a story line and a open world game)
+☐ Good
+☐ It‘s just gameplay
+☐ Mehh
+☐ Starring at walls is better
+☐ Just don‘t
+
+---{Audio}---
+☐ Eargasm
+☐ Very good
+☑ Good (it's like the most games)
+☐ Not too bad
+☐ Bad
+☐ Earrape
+
+---{Audience}---
+☐ Kids
+☐ Teens
+☑ Adults (there are some 18+ weapons)
+☐ Human
+☐ Lizards
+
+---{PC Requirements}---
+☐ Check if you can run paint
+☐ Potato
+☑ Decent (nowadays everyone has recommended in their computer / laptop)
+☐ Fast
+☐ Rich boiiiiii
+☐ Ask NASA if they have a spare computer
+
+---{Difficulity}---
+☐ Just press ‚A‘
+☑ Easy (if you use dlc weapons or late game weapons early on it's not that hard)
+☑ Significant brain usage (if you use the normal weapons you find around when playing for the first time it can get hard)
+☐ Easy to learn / Hard to master
+☐ Difficult
+☐ Dark Souls
+
+---{Grind}---
+☐ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☑ Isnt necessary to progress (some people like to grind there level to max level (level 50) so it get a lot easier , you certainly do not have to grind your level, you do level through the game)
+☐ Average grind level
+☐ Too much grind
+☐ You‘ll need a second live for grinding
+
+---{Story}---
+☐ Story?
+☐ Text or Audio floating around
+☐ Average
+☑ Good (i like it a lot )
+☐ Lovely
+☐ It‘ll replace your life
+
+---{Game Time}---
+☐ Long enough for a cup of coffee
+☐ Short
+☐ Average
+☐ Long
+☑ To infinity and beyond (you can start over and over again , there is also a 2 player co-op so you can mess around with a friend)
+
+---{Price}---
+☐ It’s free!
+☑ Worth the price
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{Bugs}---
+☐ Never heard of
+☑ Minor bugs (I found 1 bug that's sometimes get really annoying , its in the museum)
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs",0.6130393743515015,6,True
+265550,23906126,76561198021697617,"Dead Rising 3: Apocalypse Edition
+
+Pros:
+- Fun Gameplay
+- Open World
+- Great Graphics
+- Challenging Gameplay (Not too hard)
+- Zombies Everywhere
+
+Cons:
+- Capped at 30 FPS (Can be fixed)
+- Poorly Optimized (Laggy with unlocked FPS (GTX 970))
+- Wonky Camera at times
+- FOV is limited
+
+Verdict: 8/10 
+Great game but could be better optimized.",0.6613943576812744,14,True
+265550,50637253,76561198083644163,"---{Graphics}---
+☐ Is this real life?
+☐ Beautiful
+☐ ok-looking
+☑ Decent
+☐ Bad
+☐ Forgot my makeup
+☐ PlayStation 1 
+
+---{Gameplay}---
+☐ 10 hours in and still playing
+☑ Good
+☐ Well I am not bored
+☐ it could be worries
+☐ Would rather watch paint dry
+☐ Outside here I come
+
+---{Audio}---
+☐ So crisp I swear I was there 
+☐ box-office movie 
+☐ Good
+☑ Not too bad
+☐ What F*%^ was that
+☐ Ear-rape
+
+---{Audience}---
+☐ Kids
+☑ Teens
+☐ Adults
+☐ MONEY, more MONEY 
+☐ EA
+
+---{PC Requirements}---
+☐ My pc turns on
+☐ Potato
+☑ got it at Wal-Mart 
+☐ Fast
+☐ I am loaded
+☐ I own the bank
+
+---{Difficulity}---
+☐ Just press ‚A‘
+☐ Easy
+☑Have to think from time to time.
+☐ ok, not I really have to think
+☐ Dark Souls
+☐ Dead Space 1 Impossible mode
+
+---{Grind}---
+☑ I played for it, enough said. 
+☐ I want to rank up online
+☐ Story, with skills
+☐ Its an RPS, so duh
+☐ Just give it to me, dam 
+☐ Free to play
+
+---{Story}---
+☐ Noo, noooo, noooooooo
+☐ wait there’s a story?
+☑ It keeps my attention 
+☐ Could re-play, mehh
+☐ I was heavily entertained.
+☐ The Last of Us, The Witcher 1,2,3
+
+---{Game Time}---
+☐ 2 hours or less
+☐ Short
+☑ week-end
+☐ Long
+☐ Skyrim 
+
+---{Price}---
+☐ It’s free!
+☐ Wo steam sale
+☑ Worth the price
+☐ Not recommended
+☐ Buy anything else
+
+---{Bugs}---
+☐ Never heard of
+☑ A few here and there
+☐ Oh, come on I am stuck
+☐ Fallout 4
+☐ Fallout 76, I want my money back!!
+
+
+
+layout for review by ""roadblocks skinhub.com""",0.6576806902885437,35,True
+265550,95743112,76561198053835225,"This game is just what a video game should be like the ability to turn anything into a weapon is so enjoyable.
+  i don't know how many times i have beaten or have gotten stubborn friends who hates zombies or this genre type of game to sit and down and listen/watch them giggle and laugh so much.
+   Nick and Chuck will always hold a special place in my heart.
+   Action games with comedy are the best, and the ability TO DO STORY WITH CO-OP! You SUCK Dead rising 4!~
+     I just love hearing my friend laugh & laugh. 
+  Also......
+  I get so horny for Nick, i love him yes you read that right.
+",0.6076576709747314,8,True
+265550,90394106,76561198832977161,i played with a random on online we both had lego heads and he said i could ride in a wheel chair and before i got disconnected we fought military and he told me that bees were the infection and they shoot down boats,0.6570772528648376,20,True
+265550,140656716,76561198119775395,"Multiplayer is unplayable.  Bought it for co-op, doesn't work, had to refund before my time was up.",0.6555712223052979,51,False
+265550,169628694,76561199144348429,"I was going to say this was my favorite dead rising ever.
+
+But then I played one of the lost stories DLC's and then went back to mess around in story mode only to find my story mode save completely wiped and the game having me start from scratch with my character.
+
+This bug is terrible and it ruined my experience.",0.7054570317268372,36,False
+265550,77851942,76561197970436435,"As a Playstation player I missed out on this game when it first came out, the only DR game I missed out on. Finally got to play it on my PC and it's still great fun.
+
+Update: 
+
+I have one big complaint and warning about the game. If you just want to blast through the story content, it's great. But if you try getting all achievements you will encounter many frustrating bugs that are inexcusable. Trying to get 200,000 zombie kills when the tracker keeps resetting randomly, invisible collectibles (bio-hazard piles) that I could only find using game guides and guesswork. Not very impressive polish.",0.6046814322471619,7,True
+265550,228122025,76561198058714477,"I think DR3 got a bad wrap when it first came out. After playing through the story with a friend I can say this game is an absolute blast. It's full of Capcom corniness while retaining a lot of humor that holds up surprisingly well in today's time. Nothing about the game felt frustrating to deal with and fun was to be had for most if not all of the playthrough. The only downside and warning I would say is that the game does NOT handle high FPS well. You'll find many posts online saying the same thing. You will need to add a .ini file to allow unlocked framerates. Once you do this, do not go above 100 or the game will break. I personally recommend creating a custom resolution set to 95 FPS for this game. 
+
+If it's on sale, I absolutely recommend picking it up.",0.6032211184501648,7,True
+265550,206873281,76561198345190671,"ABSOLUTE PEAK!!! Though you need to do some basic and easy tweaking in the game files to get 60 fps cuz the game is capped at 30 fps, the game is mostly... PEAK AF!!!",0.602753221988678,9,True
+265550,211719752,76561199026195605,"Dead Rising 3 leans into chaotic, open-world zombie smashing, and honestly, it’s a blast. There are tons of weapons, tons of zombies, and plenty of over-the-top moments. It’s not the most serious entry, but the freedom and crafting make it ridiculously fun to mess around in.",0.6026557683944702,13,True
+265550,24882026,76561198003597366,"Okay optimization. Good for some mindless zombie hack n slash. Laughable plot and voice acting.
+
+If you've played the previous games, the time limit in this one is a lot more forgiving.",0.7026089429855347,36,True
+265550,75688924,76561198313816545,"Let's go to something useful and no bullsh**
+1.As we create a file in main game folder (a folder named DR3 and you can see the dr3.exe inside)to unlock the framerate
+2.Than we shall use NVIDA Tools as you can see in the bottom right of your screen
+Find the Program Settings in 3D sets
+3.Then add DR3.exe as the project that you can customize
+4.Find the Frame Rate and click it to adjust the maximum rate to 60
+5.FINALLY CLICK THE APPLICATE BELOW 
+In this process you don need to turn on VSync anywhere 
+If this doesn work then with any steps unchanged ,turn on VSync both in game and in NVIDA Tools
+
+This method is to solve the trouble when you unlock the 30 framerate to higher rate and cause the aim bottom(RMB) and inventory bottom(F) work unstably (close repeatedly)",0.6509400010108948,26,True
+265550,12959508,76561197969444677,"Dead Rising 3, the latest in the costuming zombie killing franchise comes as a port of the XB1 with some mixed feelings due to porting issues.  While the performance isn't ideal, it deosn't hurt the gameplay significantly, and if you can run it it's a fun time.  
+
+I've played: Story mode through the 'S' ending, some of the DLC, level 40 character, ~25,000 zombies.
+My rig (all stock)
+CPU: Intel i5-2300
+GPU: Gigabyte GTX 770 Windforce
+Ram: 16GB
+HDD: 5400 rpm green drive (recycled from a NAS box)
+
+I set up the game to run at an internal 1080p resolution since I game on my living room TV.  I'm a late purchaser, so all 5 paches are applied.  I had no crashes, bugs, glitches, or other graphical issues.  The framerate is locked at 30FPS, but it was consistent, and as a converted X360 gamer that's around what I'm used to, especially for this series.  I had one startup where things were chugging and dropping frames, but a quick restart fixed that, and I attribute it to the plethora of other software running rather than anything DR3 specific.  
+
+The story is basic Capcom style, where the game's lore is just kinda slapped on top of the previous iterations and connected where it makes the least sense.  It gets pretty self-referential near the end, but if you're buying this for the story, you're picking the wrong game.  
+
+Compared to previous DR games the gameplay itself is far less restrictive.  Combo weapons crafting can happen anywhere, saving can happen anywhere, survivors and psychos are almost all optional, and you can make super combos and combo cars.  The super combos get really fun and greatly aid the survival challenges scattered throughout the game, and the combo cars are a requirement if you're going to travel from Pt. A to Pt. B with any reference to the game's internal clock.  
+
+Speaking of the clock, it's not hard to beat it.  I restarted once, somewhere in Chapter 3, about a day and a half into the game's internal time system.  In previous DR games this would be the first of many restarts, as the time ticked away quickly and often accelerated based on how you were doing.  Not so in DR3.  My second ""start"" saw me getting all the way through Overtime, beating all psychos, finding about 70% of the collectibles, and rescuing about 15 other survivors.  I finished the main portion of the game with a little over 3 days time remaining, which was a bit surprising. 
+
+The bosses aren't too bad, if you have some combo guns where you need them.  The weapons lockers help restock before hand, a couple of bosses have handy blueprints nearby, and the police sergeant was really thy only one that gave me much trouble.  Most of the time, go in with your rocket punch and you'll finish anyone off easily.  Same story for the seven deadly Psychopaths, and while their attacks were somewhat varied, the dodge roll keeps you out of trouble pretty easily.  
+
+The zombie slaughtering remains fun, the weapons are more plentiful, and the optional crafting upgrades (use any blung weapon instead of just a crowbar) make combo weapons as pletiful as you want them.  The addition of the combo cars (especially the forkwork or the party slapper) add to the fun.  
+
+There's plenty to complete for the completionists, plenty to do for the casual, and enough of a horde everywhere you go to add tension even for a higher level character.   If you've got the hardware to run it, it's a fun fun game.  Now if you'll excuse me, I've got a sledghammer that needs to find a fire axe.",0.6505770683288574,34,True
+265550,197674191,76561198152115744,"I was enjoying the game, until all my saved data was wiped upon starting the DLc. This is a great game, but your going to wanna back up your saved data if you don't wanna end up in the same boat as me.",0.6000000238418579,5,True
+265550,203738165,76561198082052359,look up an easy tutorial to uncap the framerate and download the FOV mod and the game is amazing,0.598616898059845,6,True
+265550,78637208,76561197993813497,"Honestly, this game is great fun. 
+
+There's little differences from the earlier games, for some people, that's a huge issue. Myself, I don't really see it. My only real gripe in that area is you can't view the names of buildings on the map like you could in earlier games.
+
+But guess what? Some awesome guy made an interactive map in Unity that you can download for free. A quick alt-tab and you're gucci.
+
+There -are- technical failings for a PC game. No FOV adjustment, no borderless fullscreen, locked frame rate....
+BUT all of these issues I was able to solve with some -super- simple tweaks anyone who's unzipped a folder can handle.  We can bitch, and we have a right to, but this kind of jank has been a staple of PC gaming since time immemorial. In the end, it works and it works lovely.
+
+
+AND DUDE
+
+YOU DON'T NEED TO COMBO WEAPONS AT A BENCH ANYMORE! YOU CAN DO THAT SHIT -ANYWHERE-!
+
+YOU CAN COMBO COMBO WEAPONS INTO SUPER COMBO WEAPONS !
+
+
+FIREARMS ARE ACTUALLY GOOD NOW AND YOU CAN DO THE WALKING DEAD HEADSHOTS WHILE RUNNING THING AND IT'S FUN AS SHIT
+
+THERE'S STILL PLENTY OF DEEPLY DISTURBING OCCASIONALLY HILARIOUS PSYCHOPATHS
+
+
+YOU DON'T NEED ANY F%@^KING ZOMBREX EVERY TWENTYF*$@#NG FOURF*#%!@NG HOURS
+
+
+SURVIVORS ARE STILL A THING BUT THE MAJORITY OF THEM JUST NEED A HAND WITH SOME ZOMBIES AND THEY'RE ACTUALLY
+CAPABLE
+OF SURVIVING
+! ON THEIR OWN!
+
+THE ONES WHO DO HAVE MORE COMPLEX QUESTS ACTUALLY JOIN YOUR PARTY LIKE SOME RPG S%!T AND YOU GET TO FORM A ZOMBIE-SLAYING POSSE!
+
+
+In short, this game totally rocks balls and you ought to give it a try if you like gibbing zombies into next year (lucky b&sta&rds amirite?)
+
+
+9/10
+
+",0.5998222231864929,6,True
+265550,215355434,76561199074392250,"The only zombie game where you can dress like a gimp and kill zombies with a dildo launcher.
+12/10",0.5989235639572144,5,True
+265550,64025773,76561198049840197,"Dead Rising 3 is a fun game. But its not the same kind of fun as previous Dead Rising games.
+If your a fan of the series don't buy this, if you just want to kill zombies buy this.
+
+The main issue with DR3 is the difficulty is just gone, psychopaths have been a series staple and in DR3 I've beaten every psychopath first try almost flawlessly. They simply have no counter for the player snuggling up next to them and spaming a fast melee weapon. Previous Psychopaths had defenses, Cliff Hudson would dive into airvents and teleport around, Chuck would ride his bike very fast, Snowball would pounce on the player. But in this game all the psychopaths are pathetically easy, even if you don't dodge their attacks they barely do any damage and any story psychopaths are surrounded by good weapons and tonnes of health that make it so you have to basically choose to die. 
+
+I don't mind the new combo system too much, though I do miss scratch combos (when you combined things at random you could get a scratch combo which meant since you didnt have the proper blue prints the combo item was weaker) blue prints basically function just like combo cards used to. I don't mind being able to combo things anywhere any time without having to find a work bench since you still need to find the items to combo. 
+Combo cars are very cool and loads of fun to use some players complain about having so many road blocks but to me they make perfect sense to balance combo cars so you can't just ride around in a tank the whole game and have to get out to actually put yourself at risk some times.
+
+I also really enjoy Nick as a character, he's a lot more interesting and better written then Frank or Chuck ever were. Sadly the same can't be said for the rest of the story, the more I play this game the more I feel its someone's out of hand T*ump protest fan fic. People infected with zombie disease are called ""Illegals"" and are blamed for spreading crime and disease, the secretary of defense has a fucking N*zi SS over coat and his right hand woman has a totenkopf hat complete with the skull symbol. The Psychopaths seem to have taken a direct hit in writing quality along with their difficulty. We no longer have mournful moments like Chuck loosing his daughter, or Cliff having a PTSD fit. Now we just have ""haha funny fat man peed himself and had a heart attack"" or ""ewww fat lady chokes on her own puke"" or my least favourite penis flamethrower man who wants to fuck our underaged player character.
+Most people will probably brush this off as ""ohh those wacky Japanese game writers' but this game was actually published by Capcom Vancouver and on behalf of all Canadians I apologise. 
+
+Finally level design, previous games took place in largely enclosed areas and this lead to them having a very high level of detail that made navigation very easy. Every shop you saw could be entered and there were dozens of hidden stashes to find and loads of reasons to explore. Dead Rising 3 is mostly bland non-descript city streets with few if any iconic landmarks. Honestly DR3s map is just boring and hard to navigate, not that I mind the later point. Navigation is a key element of the difficulty in the Dead Rising series since your always timed learning how to get from point A-B super fast is a skill in itself. 
+
+
+Honestly the more I play DR3 the more I want to play DR2 again, if you have the money I'd say buy Off The Record which is just DR2²",0.6476817727088928,15,True
+265550,217460158,76561198000160613,"Note: There will be spoilers in my review.
+
+First off, I'm a huge fan of DR1 and DR2. When DR3 came out, I literally bought an Xbox One for it, and I was very disappointed.
+
+Let’s start off with the bad.
+
+First, this is nothing like DR1 or DR2. It’s a GTA clone with zombies added, mixed with a vehicular combat game, and a sprinkle of DR2.
+
+Second, they completely destroy the lore from Dead Rising 1, Dead Rising 2, and Case West. Anyone who says “play this for the lore” either never played DR1 or DR2, or at a minimum doesn’t respect them. To make it worse, they ruin the lore. They bring back Chuck just to make him a washed-up dad, and the big reveal is that Annie is Katey. Then they take it even further: right at the end of the game, by using Isabela, they turn her into someone who wants to “restore the family’s reputation” and who hatched a scheme with the U.S. military to draw out an immune person by staging an outbreak. This honestly makes no sense… because what are we saying, Nick is Deadpool or something? I really question if Capcom Vancouver even bothered to read their own script for DR2 before making this game.
+
+Third, the map is laid out atrociously. For a game with so much emphasis on vehicles and vehicle combos, you really don’t drive them for long. It’s usually: drive to a point, the vehicle is cooked, bail out, get another. I also don’t like that they randomly block off one part of the map halfway through the game. It would have been better if they had isolated the game and unlocked the map gradually. Even though it’s probably bigger, the map somehow feels smaller than DR2’s. There’s just nothing to do except get mobbed by zombies.
+
+Finally, the stock camera and aim assist are junk and make it feel even less like a DR game. You’ll do yourself a favor by downloading the camera mod to restore the feel of the first two. It makes the game a lot more tolerable.
+
+Okay, now to the sole good thing.
+
+The game is fun. The weapon combos and vehicle combos are pretty fun to mess around with. At its best, it really does feel like an improvement on the gimmick from DR2.
+
+Most of the psychopaths are okay. They’re not super memorable, but they fit within DR.
+
+Nick goes from a whiny crybaby to a more confident character. That’s one thing I think they did well—you’ll hear him get more confident in random dialogue as you level up. I remembered from my playthrough years ago that I really disliked Nick, but playing through again, I think he was a good character.
+
+The neutral.
+
+There’s not really a countdown or survivors in the traditional sense. I think you’d be hard-pressed to fail the time limit. Survivors now act more as companions. I don’t mind these changes, but it really does take away from the formula. For better or worse, part of DR is the fact they’re escort games. I do like that you get to make your own posse with the ones you rescue. If you ever did the Alpha and Omega achievement in DR2, you’ll probably enjoy being able to make survivors help you and not die in a few hits.
+
+The other characters are fine up until the end of the game. It really feels like they had some kind of time crunch to get this out the door. The ending feels super rushed.
+
+Overall.
+
+It’s a fun game, but it probably needed more time in the oven or more involvement from some of the original DR staff. No game is likely to top DR1 or DR2, but at the end of the day, at least DR3 is enjoyable for the most part. I'm putting the score as ""recommend"" but overall DR 3 & 4 are both a race to the bottom.",0.5972163081169128,6,True
+265550,111128761,76561198311833660,"Only Dead Rising 3 allows you to combine a bag of marbles and a buzzsaw to make a dildo launcher. 10/10
+I enjoy making limp dick unicorn zombies.",0.5943828225135803,9,True
+265550,11990849,76561198061645319,"best loading screen simulator to date, it really makes you feel like you're actually waiting for a game to load!",0.6905527710914612,197,False
+265550,18708231,76561197986554526,The best in the series. No heavy time pressure like previous games - plenty of time to do side missions and explore the huge city - although Nightmare Mode is available if you want time pressure. Tons of combo weapons and vehicles that you can create ANYWHERE - no need to lug items back to your base to craft at a workbench like in DR2. Great city design with plenty of nooks and crannies to explore. Achievements system with bonus PP rewards. Awesome levelling system to choose where you want to upgrade your skills and inventory (all can be maxed out before the end of the game if you spend extra time on it). Rank S. Highly recommended.,0.6404250264167786,115,True
+265550,199007253,76561197967376879,"SO BUMMED THEY NEVER FIXED THE BUGS IN THIS GAME!!!
+
+I was so closed to finishing the game more then 3 times....
+It was hella fun.
+
+BUT IT WILL CORRUPT YOUR SAVE GAME FILES.
+
+Also the DR remaster was super buggy and CAPCOM support is so brain dead.
+They give you advice like it's 1998 - basically it's your computer's fault, reformat, restart.
+Just really terrible support.
+
+This game was fun, I think I even liked it more than DR4 but i'm going to check.
+
+This is a thumbs down because they have now had 11 years to fix a corrupt file bug, and you can google it, it's a KNOWN issue they just never gave a shit about. Actually that's all they gave about it is shit.
+
+CAPCOM support isn't even a joke, so bad it's just not funny unless you are really bored sitting on the can yah know.",0.5899122953414917,5,False
+265550,191851109,76561198863504165,"Not the best Dead Rising, but man it's a fun zombie slaughtering sandbox; perfect game to boot up after a long day. Story basically takes a backseat to the gameplay, but the gory second-to-second action should be the main reason why you decide to pick this up (recommend getting it on sale - I did and it was worth every cent). Before you start: make sure to look up how to unlock 60fps, tweak the Steam launch options according to your specs for optimal performance, and you're good to go. Also A Word Of Warning: Back up your saves before starting the DLC Episodes - they are notorious for erasing progress in your main save file - so at least by having it backed up in a separate folder you'll be able to restore it after playing through them via your system's Documents folder. Lastly, if you're looking for the more classic Dead Rising experience, play through the game on Nightmare Difficulty, it has tighter time constraints and more challenging enemies.",0.5886120796203613,6,True
+265550,224205063,76561198128628339,"I honest to god wanted to like this game despite heading into it with pretty low expectations and honestly? It's a mix of fun gameplay and a miasma of bland Zombie story and character tropes, tedious objectives and a bland, crappy open world filled with recipes that you won't use half the time because they either
+
+ A. Already gave you the most tankiest van with both a mounted shotgun cannon and blades on the side to carve through hordes. 
+
+or B. You have the DLC in which case you can just go to any weapon locker in any safe house and just spawn like 6 miniguns or grenade launchers and just make the game look like a joke. I appreciate Nick's ability to create combo weapons on the fly but it just feels like all the systems I mentioned prior are just fighting eachother. 
+
+Onto my last point which is what prompted me to write this review, I went to go play each of the major DLC stories and was completing one per play session only to find after the second one that my saves had been totally wiped and I went from lvl 50 back to lvl 1???? This is absolutely playthrough ruining and prompted me to just uninstall the damn thing. Btw the frame rate of the game is terrible and I had to install a seperate mod to undo the 30 fps cap.",0.5877031683921814,8,False
+265550,118766738,76561198247294090,"has bangbros mansion and there's a side quest that you collect zombies for gay p0rn
+
+10/10 truly epic",0.6373270750045776,13,True
+265550,203754498,76561198081099250,"What a terrible port.. TERRIBLE!. I can't take it anymore with these lame ass ports. Every time i run it. It freaks out on what its trying to place when it comes to aspect ratio. And don't even get me started with the Coop play. Every thread out there does NOT work. It works MAYBE 10% of the time. I have 3 computers. One that is sup'd up with a 4090, I9, 128 gigs of memory. and a 1080 ti black edition, new motherboard in both!!, ram, etc... And STILL it struggles! to even be playable. The original game was way better. When i played this on my OLD gaming laptop a long time ago. (back in 2013). it worked perfectly.  Thumbs down!!!!! Never installing this game again.",0.5866633653640747,11,False
+265550,166857215,76561198409211064,"tldr not as good as dead rising one or two, but way better than dead rising four. So 6/10 just make sure to exit out of the game if it asks you to set the brightness for a second time after you set it initially or it will delete your save file. it doesn't happen often but it happens about 15 or 20 percent of the time upon start up.",0.6353588700294495,16,True
+265550,43918875,76561198008978699,"Game has a known bug that deletes your save file, and apparently it's fairly common. I was struck by this bug and lost 17 hours of progress, starting back at level 1 with no combos, books, weapons, story progress, pp trials, etc. That's like the worst thing an RPG can do to you. From discussions in the community, this has been going on since the release and Capcom has not fixed this bug with all the time they've had.
+
+Avoid this game at all costs.",0.6347476243972778,23,False
+265550,227210374,76561198017409305,"Out of all the Dead rising games, and there are 4 i think.This is one  of the better ones.The campain is big,the weapon selection is endless .The amount of zombies on screen at any one time is ridiculous .You can use vehicles to mow them all down .You can create vehicles or weapons to obliterate them all.The game is a very good undead game.And you will get lots of enjoyment out of it. My rating for this excellent game is 8.5 out of 10.",0.5841196775436401,6,True
+265550,204960362,76561198164076288,"good game, very fun, but its still broken, if you start the dlc after finishing the main story there is a posibility of deleting your save files",0.5841008424758911,5,False
+265550,140111620,76561198093483350,"[h1] Bigger and better than ever, Dead Rising stays true to its vision and is one of the most entertaining games in the series.
+The gameplay is the same as in previous Dead Rising games. There is a huge variety of weapons that you can create to kill zombies.[/h1] 
+https://youtu.be/KdAu7ZIYKGk",0.5840693116188049,34,True
+265550,218827367,76561197991261547,"Dead Rising 3 is a decent zombie game, but is nothing like the prior games of the series. The fun and soul of the game is gone. We go from Frank West and Chuck Green, both oddballs and bravado in their own way, to a whiny and weak willed protagonist, with fickle 'friends' and a nonsense story that makes each character less likable as you progress. There is not one character in this entire game that I liked, villain or otherwise. The protagonist is milquetoast, companions are insufferable, and villains shallow and boring.  
+
+In all, if you want to play a generic and soulless zombie game, this might be enjoyable. For me, I was extremely disappointed by this jarring change to the Dead Rising name.",0.5832802057266235,14,False

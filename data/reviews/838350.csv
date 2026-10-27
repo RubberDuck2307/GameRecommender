@@ -1,0 +1,861 @@
+appid,recommendationid,author_id,review,weighted_vote_score,votes_up,voted_up
+838350,44945150,76561198019389502,"For some reason I found this game is more addictive than any other games I played before, include Rimworld and M&B.
+
+It's an extremely complex Wu Xia/Kong Fu world simulator. Managing your own village, learning new style from different guides and practicing them,  finding a good partner and get married, those are just some examples from the huge amount of actions this game allows you to do.
+
+And the story doesn't end when your character dies. Taiwu has a sophisticate inherit system, and which is actually one of the core elements in this game. It's not posible to beat the game within one or two generations.  Selecting and cultivating your inheritor carefully to make sure the next generation is stronger than the last, is a necessary and fun part of the game.
+
+It is also a living world. In such a small game, hundreds of charactors have their own everyday life and relations just like yourself. Like in Crusader Kings, charactors don't really have very complex AI but the way the system work make you think they are alive. If you pay attention to NPCs' life, you would find many interesting storys that can be a Wuxia fiction by themselves.
+
+The combat system is not completed yet. The current system favors those styles that causing directly injure rather than debuff. So some famous style is totally unuseable in the game(Tai Ji is a lie!!). The KongFu system is too huge to describe by simply writing about it, you would have to try to understand how it work. Let me put it in this way: it fullfill every wet dream you ever had about a world of KongFu(more precisely, WuXia).
+
+The UI is anti-human, it must be change. Saving is not stable. Considering how much time and energy you could put on one family line, it is simply unacceptable to see your save break. 
+
+As an early access, the developer already let us see enough potential. Thank you and please keep going. Hire a professional programmer if you can afford please, because you deserve a rest and the game deserve a better frame.",0.9484024047851562,447,True
+838350,60048292,76561198053997827,Great game. Thank you for the english translation. Been enjoying this one for many years. The recent update brought me back.,0.8972522020339966,106,True
+838350,228158598,76561198020929648,"If the idea of an RPG where you wander a world filled with interpersonal NPC dynamics that are even deeper than Crusader Kings while learning martial arts, kicking ass and reincarnating across multiple generations appeals to you, this is it.",0.8873592019081116,138,True
+838350,47662591,76561197966058769,"A review for English speakers:
+
+There is a straightforward mod made by TeddyForest, that you can find on the steam discussion boards. It translates more than enough of the game to make good sense of it. Without the slightest clue on Chinese language or culture I'm sailing.
+
+This is one of the best games in my library. It gives me the same kind of ""I'll never need another game"" feeling that xcom2 and rimworld gave me (though obvs it's nothing like either of them). There is so much depth in building your village and character, and progressing throughout the game, learning all the different martial arts.I'm completely hooked. There's an amazing balance between just living in your village, studying the arts and fighting skills while building up support, and going out adventuring in the world, taking on villains and testing out your long studied skills. Simply working out the mechanics is like figuring out a whole new world, and very satisfying once you get the right combinations working. (While in the meantime becoming a chess grandmaster and fathering a brood of children one of which you will probably one day be playing as).
+
+Highly recommended.
+
+Plus... the crickets. :-)",0.930158257484436,190,True
+838350,232020222,76561198052299807,"A Warning for English Players — From a Chinese Player
+
+If you've played Taiwu in English and felt like you were missing something you couldn't name — you were. This review is an attempt to name it.
+
+# Part I — On Emptiness, Meditation, and a General Who Achieved Enlightenment in Battle
+
+## The Structural Problem
+
+Precise translation of classical Chinese is nearly impossible — not a matter of effort, but of structure. Chinese is a uniquely dense logographic language where a single character compresses millennia of layered meaning. Add classical literature, Taoist/Confucian/Buddhist philosophy, folklore, and ancient medical concepts, and accurate translation becomes structurally impossible. Historical attempts to render the *Zhuangzi* or *Dao De Jing* into English have always fallen short — not from lack of skill, but because the target language lacks the equipment to receive what the source is transmitting. A game localization team under commercial deadlines never stood a chance.
+
+This gap has deep roots. Western engagement with Chinese thought has historically followed material interest, not intellectual curiosity — from the silk trade to Marco Polo to Enlightenment philosophers like Voltaire and Leibniz, who idealized China as a rational meritocracy. Then the 19th century arrived: industrial power, colonial expansion. The admiration collapsed. Western perception has always swung like a pendulum between romanticization, arrogance, and strategic wariness — and the translations that survived each swing reflect that.
+
+## 虚室生白 — The Emptied Vessel
+
+Zhuangzi gives us the most precise description of what meditation preparation feels like in four characters: **虚室生白** (*xū shì shēng bái*) — *empty, room, generate, white/brightness.*
+
+The ""room"" is the mind. ""Emptied"" is an active discipline — deliberate subtraction, the clearing of mental clutter. ""White"" is not brightness but clarity: the quality of awareness that arises when you stop filling the space with noise. My translation: ***""The emptied vessel illuminates.""***
+
+*Vessel* earns its place because the Western tradition carries the same intuition from the opposite direction. Paul's ""earthen vessels"" (*2 Corinthians 4:7*) hold divine light precisely *because* they are hollow. The theological concept of *kenosis* — God self-emptying to take human form — runs on identical logic: reduction enables illumination. Two traditions, thousands of miles apart, arriving at the same paradox.
+
+This is not poetry. It is a description of a preparatory state — the condition you enter before meditation begins.
+
+## Qi Arts: You Already Know This Practice
+
+Qi Arts (气功/内功) is the internal cultivation underlying every impossible feat in the game. What the localization never tells you: **it is meditation.** Literally.
+
+The same practice appears across every major civilization under different names. The *hesychasm* of Orthodox monks, the *contemplatio* of Catholic mystics, Sufi breathwork, Buddhist *samatha* and *vipassana*, Confucian *jìngzuò* (静坐, quiet sitting), Taoist *zuòwàng* (坐忘, sitting in forgetting). Every traditional Chinese medical student still receives formal meditation training in college — the practitioner's inner stillness is a clinical instrument, not a spiritual hobby.
+
+The 20th century repackaged it commercially: Mindfulness, MBSR, Google's Search Inside Yourself, Flow State coaching, the Wim Hof Method. The branding changed. The mechanism did not.
+
+## Wang Yangming and the Battlefield Test
+
+**Wang Yangming (王阳明, 1472–1529)** — neo-Confucian philosopher, military strategist, battlefield commander — pushed this tradition to its operational limit. He argued, and *proved under fire*, that the highest internal stillness is not achieved in a quiet room. It emerges when the inner mind is completely calm while the outer world is in absolute chaos. Later, people called this 心学 (*Xinxue*, Heart-and-Mind Learning).
+
+Psychologists today call it **Flow State**. Mihaly Csikszentmihalyi arrived there through decades of research with rock climbers and chess grandmasters. Wang Yangming arrived there in the 15th century through philosophy and battlefield command. Same phenomenon. Five centuries apart.
+
+The chain runs from 虚室生白 — empty the vessel — through every monastery, medical college, and corporate mindfulness retreat in history, to a general who used the resulting stillness as a military asset. When your character sits cross-legged in Taiwu to cultivate Qi, they are participating in something humans across every culture have practiced for thousands of years. The English translation gives you a fantasy mechanic. The Chinese original is pointing at something real.
+
+---
+
+# Part II — The Game Review
+
+## Depth — ★★★★☆
+
+**Pro:** Exceptional systemic complexity — martial arts, relationships, cultivation, craftsmanship, medicine, and time, all layered and genuinely interactive.
+
+**Con:** Scope creep produces decision fatigue. True freedom requires mods. Hunyuan Qi builds are frustratingly difficult to maintain.
+
+## Freedom — ★★★☆☆
+
+**Pro:** Genuinely permissive — bandit roleplay, NPC murder, polyamory, high-tier crafting at low cultivation. The simulation lets you become who you choose.
+
+**Con:** A rigid ceiling hides beneath the freedom. High-tier martial arts require massive grinding or cooking mastery (which requires its own grind). Combat is hard-capped by cultivation level. Primary attributes cannot be trained organically. Seriously — give the character a pair of dumbbells and enough protein.
+
+## Cultural Depth — ★★★★★ (Chinese) / ★★☆☆☆ (English)
+
+**Pro:** For native Chinese speakers, the game is intuitively legible and deeply rewarding. Everything hums at the right frequency.
+
+**Con:** The localization frequently undermines the experience. Three specific failures:
+
+**奇门武器** → ""Exotic Weapons."" Should be ""Unconventional"" or ""Unorthodox Weapons."" The point is tactical heterodoxy, not cultural foreignness.
+
+**鸳鸯连环脚** → ""Feet of the Mandarin Duck."" In Chinese, mandarin ducks symbolize perfect pairing — elegant. In English, it sounds like a menu item. ""Linked Double Kick"" or ""Swan Double Kick"" (swans also mate for life) would land far better.
+
+**元山弹腿** → ""Yuanshan Tan Tui,"" untranslated and unexplained. ""Tan Tui"" (弹腿) is a real, historically documented Springing Leg system — foundational northern Chinese martial arts. Without context, it reads as a random placeholder.
+
+## Combat — ★★★☆☆
+
+**Pro:** Tactical dungeon crawler with genuine micro-decision density. Qi functions like mana — the genre conventions work within their own logic.
+
+**Con:** Strictly 1v1, making teammates ornamental. Instrument-based martial arts are overpowered — they should fail against anyone deaf or wearing ear protection. More broadly: Chinese armies used firearms from the 10th century. If martial arts fail, bullets finish the job. At minimum, add crossbows. In a pure 1v1 meta, a bandit with a pouch of quicklime defeats every grandmaster in the game.
+
+---
+
+## Final Verdict
+
+Accept the design loopholes (shared by most wuxia games) and tolerate the translation failures with enough patience to puzzle through the gaps — this is a genuinely excellent game.
+
+Otherwise: **keep your money for extra chicken wings and soda water.**
+
+---
+
+*— A Chinese player who has spent too long thinking about four-character phrases*",0.9262297749519348,266,True
+838350,228745717,76561197995114672,"After spending a significant amount of time with Scroll of Taiwu, researching the game's systems through both the in-game wiki and extensive Chinese guides and forum discussions, I've come away disappointed by how little substance there is beneath its enormous surface.
+
+At first glance, Scroll of Taiwu appears to be a deep sandbox cultivation RPG filled with complex systems, faction politics, character relationships, crafting, management, and martial arts. In practice, almost all of those systems ultimately exist to support one goal: preparing for a sequence of eight boss fights.
+
+The game's progression loop quickly reveals itself. Identify the next boss, determine its weaknesses, then either build specifically to exploit those weaknesses or simply accumulate enough stats to overpower it. Nearly everything else in the game exists only as a means to facilitate that process.
+
+The biggest issue is that very little side content feels worthwhile. Most activities consume valuable time while offering rewards that can usually be acquired more efficiently through other methods. Once you understand the mechanics, much of the game devolves into an end-turn simulator where you're simply waiting for resources, relationships, or training progress to accumulate.
+
+Unfortunately, the combat doesn't carry the experience either. Compared to games like Tale of Immortal, combat feels relatively uninteresting and lacks the excitement needed to justify the amount of preparation leading up to it. Since the boss fights are the primary destination of the entire progression system, this leaves the game without a compelling payoff.
+
+The problem becomes even more apparent when examining the game's individual systems.
+
+Martial arts acquisition initially appears flexible and immersive, but in reality it's largely deterministic. Need a specific technique? Go to the sect that teaches it, befriend a sufficiently skilled member, and learn everything you need. There's little discovery, experimentation, or meaningful uncertainty involved. Once you know where the abilities are located, acquiring them becomes routine.
+
+Itemization suffers from a similar issue. Crafting eventually boils down to creating exactly the item you want. Materials are generally straightforward to obtain through harvesting, trading, or NPC interactions, meaning gear progression lacks the excitement of adapting to unexpected finds or making difficult choices.
+
+Town management sounds like a major strategic feature, but in practice it mostly functions as a money and prestige printer. Rather than presenting interesting management decisions, it primarily serves as another mechanism for obtaining resources needed elsewhere.
+
+The NPC system is perhaps the most disappointing of all. Relationships rarely feel organic or engaging. Instead, social interactions often amount to repeatedly challenging characters or sharing random pieces of information until they like you enough to provide whatever benefit you're seeking. For a game that places so much emphasis on its living world, the characters themselves feel remarkably mechanical.
+
+What ultimately surprised me most is that Scroll of Taiwu's greatest strength should have been its systems. The game presents itself as a complex simulation where numerous mechanics interact in interesting ways. Instead, most systems are shallow, deterministic, and exist largely in isolation. Once you understand the optimal path, much of the mystery disappears and the experience becomes surprisingly linear.
+
+In the end, I found it to be an extremely lackluster experience and one that I would struggle to recommend over the many stronger cultivation and wuxia games currently available.
+",0.8752487301826477,216,False
+838350,228153554,76561198011356996,"If you're struggling to find the translation (as it starts in chinese), either click the dropdown box in the top left (marked by an icon with a circle) or select the third box down in the menu to access settings and change it in the dropdown there. With the official english translation the game is more accessible than ever, but english speakers will likely still run into a bit of cross-cultural barrier as far as the actual contents of the text still. There is however very little like Scroll of Taiwu that's accessible to an english audience, so if you're willing to bear with the confusion of stepping into Wuxia/Xianxia stuff, I fully recommend it, as it's worth the time and is quite deep with a lot of moving systems.
+
+It is still a very complex game, so you will need to be patient, do the tutorial/look up information like you would stepping into a game like Crusader Kings for the first time. There's a couple pieces that they seem to have missed in the translation, but nothing that impedes understanding so far.",0.8591419458389282,91,True
+838350,44982560,76561198299726829,Hello，I am a Chinese Player. I don't think you will see English version because the dialogs are too difficult to translate into English. The literary language used in ancient China is quite different from the  language which we speak nowadays. Even many Chinese players usually don't understand the meaning.,0.8457417488098145,209,True
+838350,45565873,76561198321716748,"希望有更好的无障碍支持。
+我是一名听障，打游戏一般不开声音，这样会比较轻松，目前遇到的一个问题是捉促织时似乎需要听到促织的声音，虽然游戏里也有图片提示，但是我还是几乎捉不到。。所以能不能让图像提示更加明显一些？
+总体来说非常棒！",0.8874430656433105,105,True
+838350,45462516,76561198282565260,"长文报警
+首先，我先重申：
+
+这是个硬核肝帝游戏，这是个硬核肝帝游戏，这是个硬核肝帝游戏。重要的事情说三遍！！！
+这是个硬核肝帝游戏，这是个硬核肝帝游戏，这是个硬核肝帝游戏。重要的事情说三遍！！！
+这是个硬核肝帝游戏，这是个硬核肝帝游戏，这是个硬核肝帝游戏。重要的事情说三遍！！！
+
+没错，这件事情本身也是重要的事情，也要说三遍！！！
+
+如果你没有一个好肝，那么请绕道，这个游戏不适合你。如果你认为有，你可以继续看下去了。
+
+这游戏预期说是个游戏，不如说是个武侠世界生成器。感觉类似于之前玩过的某飞行模拟器……优点是真实，缺点是太TMD真实……
+我玩的时间不算长，600小时，但是也算能肝动大多数玩家了。
+
+但是600小时之后你问我我的游戏感受，我认真的回答你：枯燥，但是不无聊。快乐，但是不轻松。
+
+这游戏的重复性是否存在，认真地说存在，大多数游戏都存在的重复性在这个游戏中体现的可能更为明显一点。但是无论是地鼠（侠客）风云传还是刨矿世界（Minecraft）这种哪怕是半开放世界的游戏，重复性工作都是客观存在的。只是这个游戏采用了更极端的方式：它不再是点一下一个动画告诉你你学习了某个武功，而是采用了两个纯数字硬核游戏来表达你读书（心法）和练功（突破）的过程。这两个游戏硬核到很多玩家根本无法接受其中的数学模型，只是觉得：我做不到。实际上，游戏中遭遇战斗胜利过后会提高战斗突破的基础成功率，较艺胜利过后会提高杂学突破成功率。读书更是可以凭借堆悟性，造藏书阁阅经阁等多种手段来打成目的。但是唯一的问题是……看头顶上我说的前三句话。游戏开发者很清晰的表达出了，你想成为武侠中的人上人，你就需要付出足够的努力。你需要读书，练武，不同的武功还需要不同的技艺支持（比如少林寺的武功你需要佛学很好，然山仙师的武功就要求你在占卜上投入更多的精力）。也许可能会门口一个乞丐在机缘巧合下学会了太极剑法，但是由于他没有剑术基础，也没有道法理论支撑，个人资质没有定力加强。虽然剑法使出来凭借剑法的精妙能打到我。但是伤害效果却是大打折扣。完全符合越高深的武功越难的逻辑————但是也有特例，比如狮相门是个纯外功门派，它的武功就只要求你体格足够强悍，身体越好攻击就是越高。
+可是以上的一切，体现在几十个小时的游戏逻辑里，你会发现你就真真正正的成了一个江湖中人。你需要真的拿出江湖中人应有的时间去练武。台上一分钟，台下十年功的含义被表现得淋漓尽致。武侠小说里我们看到的都是快意恩仇，却很少有人思索在快意恩仇背后，每一个侠客背后所付出的艰辛努力。
+
+这也就是这游戏差评的由来：是我们玩游戏，还是游戏玩我们？我们代入了游戏中的人物，却发现我们不由自主的被这个江湖所控制，本来生活就很累，玩个游戏难道也要这么累么？
+
+但是这也同样是这个游戏好评的由来：这就是真实的江湖，真正的武侠游戏，没有付出就是没有回报。也许五代人的努力，可能仅仅是为了最后一剑定乾坤的舒爽，是在无尽的默默努力之后终于得到回报的畅快。
+
+我通关3个周目了，但是依然乐此不疲。虽然，真的很疲……
+
+但是……我依然乐在其中，因为天知道这个档会变成什么样子……这个档里的世界会变成什么样子。我喜欢在通关的过程中，认真的去读每一个跟我有交集和没有交集的NPC随机出现的故事。被妖女蛊惑，千夫所指的少林方丈；一心爱慕百花谷谷主，最终做好事做到誉满天下的五仙教圣姑；村中行乞，机缘巧合偷学会一招太极剑法后干脆拜入武当，终成一代名宿的小卒。不甘被棒打鸳鸯，和被金刚门驱逐的弟子一同跑去村庄做木匠的少妇。心性大变入魔的人，就算你解救回村子，他的仇人依然会不死不休的追逐，除非你这个村长出面消耗声望来化解。因为萍水相逢爱慕你的人，也可能这辈子不求名分的跟你东奔西走（哪怕不在一个队伍里）。
+
+你可以做一个优秀的村长，村庄科教文卫繁荣昌盛，各地商贾慕名而来，岁入近百万银钱（哪怕是最顶尖的材料书籍不过十万银钱），天下事没有钱砸不下来的。你也可以做一个行侠仗义的侠客，学好武功仗剑天涯，装备全靠杀歹徒强盗爆，钱全靠卖东西所得，浪迹天涯四海为家结交天下英雄。你还可以当个江湖大盗，专挑名门大派的弟子下手，杀其人，夺其谱。你甚至可以当个天下第一厨神，路边采个鸡蛋做一盘天地一口香，天下英豪会为之驻足……问题是……你做哪一个，都需要付出足够的努力。赚钱你就要安排人手建设村子，调配人工世界各地找材料，必要时候甚至要亲自跑去买，同时还要研究对应的技艺（譬如你想修藏经阁，那么你佛学至少要达到相当高的造诣），如果你要出去行侠仗义，你至少一半的时间是闷在家里读书练功的，否则你就不是去行侠仗义，而是被行侠仗义了……而这个过程的枯燥，和你最后获得的快感，成不成比例……只能说见仁见智吧……
+
+扯了这么多没用的，最后说一句，这是个好游戏，我会一直支持下去。不推荐没时间的玩家选择这个游戏，它真的一点都不快餐，甚至认真地说你的第一次成就感可能甚至来自于100小时之后回顾这个过程的努力……
+
+但是无论如何，武侠就在这里，太吾就在这里……
+
+Long text alarm            
+First of all, I would like to reiterate:            
+This is a hard core game. This is a hard core liver game. This is a hard core game. Important things are to be repeated for 3 times!!!            
+This is a hard core game. This is a hard core liver game. This is a hard core game. Important things are to be repeated for 3 times!!!            
+This is a hard core game. This is a hard core liver game. This is a hard core game. Important things are to be repeated for 3 times!!!            
+Yes, this is also an important thing, and three times!!! 
+
+If you are not a very very good hard-core game player, please bypass. This game is not suitable for you. But if you think so, you may keep on reading
+
+This is more like a Chinese martial art world rather than a game. It feels like a flight simulator that I has been played before. The merit is real, the shortcoming is such stupid real......
+I didn't play so long, just 600 hours, but it is enough for me to write something. 
+
+After 600 hours playing,you asked me how I felt about the game? I seriously answered you: reapeatable, but not boring. Happy, but not easy. 
+
+Whether there is repetition in the game or not, seriously speaking, most games have repetition that may be more obvious in this game. But whether it's a hamster or a minecraft, for a semi-open world game, repetitive work is objective. 
+
+Is this game a more extreme way: it is no longer a point about the animation to tell you that you learn a skill, instead of using two pure digital hardcore games to express your reading and Practice. These two games are so hard-core that many players simply can't accept the mathematical model, just think: I can't do it.
+
+But in fact, encountering combat victory in the game will increase the basic success rate of combat breakthroughs, compared with the success rate of miscellaneous learning breakthroughs after victory.
+
+Reading can be accomplished by many means, such as building a library, building a Kjing Pavilion and so on.
+
+But the only problem is that the game is too hard-cored. 
+
+Game developers have made it clear that if you want to be a great Chivalrous man, you need to work hard enough. 
+
+You need to read books, practice martial arts, different martial arts also need different skills to support (such as Shaolin Temple Martial Arts you need Buddhism is very good, but the RanShan mountain immortal martial arts require you to invest more energy in divination). 
+
+Perhaps a beggar at the door learned Tai Chi Sword(a very Advanced Wudang Factions swordplay) by chance, but because he had no foundation in fencing and no Taoist theory to support him, his personal strength was not enough.Though the sword method came out, it was able to hit me with the finesse of the sword. But the damage effect is greatly reduced.  Completely in line with the logic that the higher the martial arts are, the harder it is --- but there are exceptions, such as the Lion Phase Gate, which is a Factions of pure simple strength. Its martial arts only require you to be strong enough, the better the body, the higher the attack. 
+
+But all of this, reflected in dozens of hours of game logic, you will find that you really become a man in a lake. You really need to take the time you need to practice martial arts. There is a Chinese saying that ""one minute on the stage,  the ten year's performance"" has been most vividly displayed. What we see in the martial arts novels is joy and revenge, but few people think about the hard work behind the joy and revenge, behind each Kjing Pavilion.
+
+This is the origin of the game's Criticism: are we playing games or playing games with us? We have replaced the characters in the game, but found that we can not help but be controlled by this lake, the original life is very tired, play a game is also so tired? 
+
+But this is also the origin of the game's praise: this is the real river and lake, the real martial arts game, no pay is no return. Maybe the efforts of the five generations are just for the comfort of the last undefeatalbe sword, and the joy of being rewarded after endless silent efforts. 
+
+I've Eliminate final BOSS 3 times with 3 different Kjing Pavilion, but I still enjoy it. Though it is very very tired...
+
+Because no one knows what this lake will be... I like to read every random NPC story that intersects and doesn't intersect with me during customs clearance. 
+e.g.
+The abbot of Shaolin, who was bewitched by a demon Factions‘ girl, Become poor reputation.(In this game ,abbot of Shaolin is who you come for Confession like the father in church).
+A demon girl in Five Poison Factions, just because of love and admire the Lord of Dozen Flowers Factions(a high prestigious medical factions ) , and finally do good deeds to make her fame spreads throughout the world.
+a village begger, chance coincides to learn a trick Tai Chi sword and then worship Wudang, eventually become a great Kjing Pavilion.
+You can be an excellent village head,and in your leadership the village flourished, merchants from all over the country come here and make nearly a million silver dollars per year (even the top material or book are only 100,000 silver dollars per one), and there is no things in the world that can not be done by money. 
+You can also be a knight-errant, learn martial arts to go out and wander, equipment by killing gangsters and robbers to obtain, money through the sale of goods, travel all over the world to make heroes.      
+You can also be a bandits, robbing disciples of the great factions, robbing him even killing him. 
+You can even be the world's top chef, just pick up an egg on the roadside ,can make the best dish,that could attract the highest-ranking people.(for Chinese,cook is cook,food is food)
+The problem is... Whichever you do, you need to work hard enough.
+Steam do not allow me to type more words,Input upper limited.
+Anyway, the Taiwu is here. I am here. 
+",0.8337958455085754,68,True
+838350,45046250,76561198112462413,"I hope this review/introduction is helpful to those non-Chinese speaker but interested by the the trailer.
+According to the develop team, the mechanics and frame of this game is 90% complete, but only 30% content is covered for the current version. Still, I already spent 100+ hours of my time in a week since this game was released. The Scroll of Taiwu is definitely one of the best independent rougelike games I’ve ever played, and it’s my most anticipated strategy RPG in near future.
+The game is based on an ancient Chinese Wuxia world-set, but perhaps borrowed some concepts of Chthulhu which makes it an interesting mix: There is a threatening being known as Xiangshu (相枢), which slowly corrupt people’s mind and once nearly destroyed the whole world. And the characters you play are the successor of Taiwu (太吾), who hold a Saint Sword (伏虞剑) and are supposed to stop Xiangshu and save the world. The work will continue for generations, so after the first character dies (get killed or just reach his/her age), you’ll play his/her successor, who could either be the son/daughter, or a companion you had (your decision to make). The skill you learnt will be passed on by the Saint Sword, but because each character has his/her unique status which may or may not be suitable for the build you planned, you should plan very carefully before making decision about the successor of your current character.
+The game is a turn-based sandbox RPG, similar to Taiko Rissiden, you spend your action point practicing skill, visiting different places for adventure, or collecting your resources to build your base (Taiwu Village). After all your action points spent, you enter the next month and may encounter random events depending on what you did and who is standing next to you. There are two different types of skill trees: one is fighting skill and the other one is your life skill, for both skills, you need to collect relevant skill books to learn, and practice/breakthrough in an appropriate building (both require your action point). In current version, there are 15 factions in the game where you can learn different skills, but you can only learn the very basic ones at the beginning until you earn enough support from other members in the faction to unlock the next tire. Furthermore, ‘learning’ the martial art (fighting skill) is merely the very first step, in order to master each skill you also need to meet different requirements, which can be a life skill, or your character stats (by the way, you do not simply gain exp and ‘level up’ in this game, you only get a higher stat by ‘equip’ a skill you learnt)
+I’m not going too deep to the complex fighting mechanics, which may worth a whole wiki site to explain, and I’m going to list a couple of other things you might find interesting:
+1.	Completely random but interesting interactions between npc: all NPCs in this game live their own life (or even next-life) which may or may not has anything to do with you. They fall in love, get married and have a family, become enemy or best buddy with other NPCs. Although there isn’t much lines they speak (which may because this game is still in Beta version), but it makes you feel that each character has a unique personality and life. 
+2.	Beautiful but somewhat realistic Martial art combat display: finally, the martial art skill is no longer one slash followed by a beam of laser or something. I also believe each fighting skill has a unique animation.
+3.	Cricket Fight: You gotta catch 'em all!
+As I said a number of times, this is still an early access version so the game still have a number of things need to be improved: NPC’s AI and their action is a bit too random and sometimes seems ‘very wrong’, the content in late game might be a little repetitive, the game only automatically save after each term and sometimes you have to be a save-scum to roll the best results. And most importantly, this game only has Chinese sub at this moment and probably for a while. But please understand and give the develop team just a little more time (considering it only has 4 formal members in the team up to this point, and believe or not, they are basically self-funded during the process of developing), there will be a masterpiece in one or two years.",0.9325602650642395,233,True
+838350,207127709,76561198097060097,"Where to begin.......
+I've played this game for 1700 hours and I'll likely play it for 10,000 more.
+I've played this game since the characters were jank and looked like they were drawn by 10 year olds.
+I've played this game since before the moves had animations and you had to imagine what the attack effects would look like.
+I've played this game since the dark ages. My childrens children will likely play this game.
+With all that said, if you love Wuxia sims, this is THE game to play.
+
+THAT BEING SAID: the following is also true.....
+The game was made primarily for the chinese audience, therefore there's no official english translation.
+The devs have been saying the English translation is coming, however the release has a history of getting pushed back.
+The English Mod DOES exist and it's come a LONG way through the efforts of Li Wei and the gang of the discord. That being said, it's still very much imperfect. A small unofficial (unpaid) mod team with personal lives can only do so much.
+
+IF the current English Mod is too abrasive for you, you will not like this game.
+
+If you can accept the English Mod as it is, this is objectively one of THE BEST GAMES OUT PERIOD. 
+I would pay $60 for this game. Let alone $20. I have games that I've paid more for that give SIGNIFICANTLY less content than this game does.
+
+Not to mention, despite their flaws, the devs do constantly update and upgrade the game. You can tell the game itself is a labor of love. They want to build something fun, even if some understandably don't agree with how they're building it.",0.8181260228157043,51,True
+838350,190539617,76561198008902204,"[h3]Introduction[/h3]
+This is a highly replayable mythological-wuxia sandbox combat-oriented RPG with extensive relationship simulation in a story generator, with base-building element.
+
+[h3]The English Translation[/h3]
+	While the developers announced that English translation is part of their plan, we are still very far away from its implementation. The language used in the game is written in Classical Chinese. The dev reported 4 million words in the game. New tutorials and in-game wiki are planned. With two more sects and three main storyline updates in the queue, I speculate that the English translation is impossible until mid-2026.
+The dev announced that they have started working on the translation in Apr 2025 live stream. They also planned to have monthly major updates, with five or less updates before 1.0.
+
+[h3]The Game Story[/h3]
+	The player is the Chosen One who can eliminate the world's evil. The game's background is in the fantasy realm of China, around 1000 AD. The world's inhabitants are tormented by a demonic presence named Xiang Xu. When the NPCs or the player experienced a prolonged depression, they would be possessed by Xiang Xu. Possession by Xiang Xu is a death sentence. The player, named Taiwu, is the only one in the world who can exorcise possessed individuals, making him a savior. Only one Taiwu can exist in the world at a given time. All major sects made a pact with Taiwu to teach their moves. In return, Taiwu will travel the world to eliminate Xiang Xu. Learning one move months in-game time and is impossible to learn all the moves in one lifetime. Fortunately, Taiwu also owns the hilt of a broken legendary sword called Fuyu, which allows Taiwu to transfer all his knowledge and experience into the sword. The following person who inherits the sword will be the next Taiwu, picking up all the knowledge from the previous Taiwu.
+
+[h3]The Game Mechanics[/h3]
+	The [b]reversed designs[/b] contributes to its steep learning curve. The developers attempt to be innovative by reversing many game mechanics familiar to RPG players. For example, in a typical RPG, the depletion of an HP bar usually means death or defeat. The HP bar in this game is better understood as injury markers, which implies death or defeat when full.
+	
+	The game attempts to [b]gatekeep the progression[/b], resulting in uneven pacing and waste of time. Obtaining better quality items, powerful moves, or high social status NPCs are locked behind defeating dungeon bosses. Defeating the dungeon bosses will progress the state of the world, making Xiang Xu more rampant. However, defeating regular enemies becomes a nuisance when the player becomes powerful in the endgame. The frequent enemies spawn on the world map make combat a mind-numbing chore. Multiple major game mechanics are also locked behind the game progression, such as the reincarnation system, the kung fu competition, the establishment of the Silk Road, the emergence of the heavenly books, etc.
+	
+	The unintuitive [b]book reading[/b] is one of the major criticisms of this game. To learn a move, the player must master the theoretical and practical aspects of the move. The theoretical element can be mastered by reading the relevant book. Each book will come with a summary, five chapters, and varying conditions. The entire book-reading gameplay, including the hunting and reading all the book chapters, is boring.
+	
+	This is [b]not a stream-friendly game[/b]. The interactions between NPCs, with or without the player's interference, made the world lively. However, the interactions are only presented in texts, which requires the players to fill in the gap with their imagination. The dungeon crawling aspect is just hex-tiles map, with confusing markings, reducing its appeal (planned for overhaul in the future).
+
+[h3]The Combat[/h3]
+	The combat is always in [b]1v1, 2D side-scrolling format[/b]. Pausing in the middle of the combat is allowed for precision control. All other NPCs in the party act as supportive characters. The player may learn the combat moves from the 15 sects in the world, each with unique 40+ moves. Every move comes in two opposites; for example, Shaolin's long fist deals [i]external[/i] injury when learned from reading a positively written book, whereas the same Shaolin long fist deals [i]internal[/i] injury when learned from a negatively written book. Combined with the different game mechanics, such as five types of poison and 14 types of weapons, the players can dream up infinite builds. All bosses and enemies have their own fighting styles, making boss fights a real challenge. A single-boss fight is usually a showcase of all the experiences accumulated over several lifetimes; winning it is deeply satisfying. However, battles with regular enemies are frequent and mind-numbing, which are usually skipped with the auto-combat feature.
+
+[h3]The Developers and the Mixed Reviews[/h3]
+	The developers are notorious for refusing to accept and listen to the community’s feedback. The community has pushed for the release of the main storyline for years, but the developers refused. Instead, they chose to revamp the minor systems related to the sects in the game world since mid-2019. To the community's dismay, the developers decided to go into close beta in mid-2020, only releasing sporadic news in between until they re-release the revamped version in late-2022. The community felt cheated as the game was riddled with game-breaking bugs and was severely under-developed, resulting in a mixed review.
+	
+	The developers’ stubbornness turned out to be one of their greatest strengths. While the community constantly doubted the developers, they stayed true to their visions and continuously updated the game. Hopefully, their dedication will prove the doubters wrong and recover from the undeserving mixed review.
+
+[h3]The Story Generator[/h3]
+	This game has a lively world, a perfect game for master storytellers. Hundreds of NPCs are spawned during the creation of the game world, each with its unique name, personality, likes and dislikes, social roles, belongings, knowledge, etc. These NPCs may grow up, fall in love, get married, have children, and die of old age on the other side of the world without the player's intervention. The NPCs may develop a crush, get rejected, harbor resentment, exact revenge, lose their belongings, be harmed in natural disasters, or get injured or poisoned. They may not even have the chance to meet with Taiwu in person before death, only to be discovered decades later when Taiwu passes by their tombs.
+
+[h3]The Relationship Simulator[/h3]
+	While the game system only allows monogamous matrimony (re-marry is possible after the death of spouse), it is possible to build a harem with lovers and concubines. Rape, incest/inbreeding, extra-marital affairs, family trees, genetics, LGBT, fertility, physical attractiveness, the birth of twins and triplets, and birth defect are all possible in this game, allowing complex storytelling. The behaviors of the NPCs are tied to their morality. Evil-aligned NPCs are more likely to engage in obscene acts. Leaving your spouse behind to travel the world (traveling across the map takes months, and training takes years), it is not uncommon to find your spouse has given birth to several children upon your return. Jealousy and rivalry between romantic interests may even lead to duel or murder. 
+
+[h3]Conclusion[/h3]
+If the Chinese gaming community were to describe this game in one word, it would be “[b]hardcore[/b]”. You will probably spend around 100+ hours before reaching the final boss. The current game also has a lot of game breaking bugs, with even more game breaking bugs introduced in each major update. If game breaking bugs is a deal breaker, potential buyers may withhold until 1.0 release. This game is a masterpiece, but it is not a game for everyone and definitely not a game for casual players. The main storyline is still a work in progress.",0.8120281100273132,44,True
+838350,45017854,76561198137009461,"For those who are interested in this game but can't read Chinese, here's my personal despription for this game.
+Sorry for my poor English :P
+
+-About How I found this game:
+The game is like a Paradox game mixed with The Sims, but developed by only 5 ppl, including one founder who's just a normal gamer who'd love to burn his own money for the team to make this game.
+One of the developer is my no-so-close friend. We have lunches n dinners sometimes and I've heard about this game through him before. However, I never expect their game to be so outstanding/ unique that it got me hooked immediately.
+
+-About the game.
+Unlike other Wuxia rpg games or most of the rpg games that only the things involved with your main hero matter. In this game, every NPC has their own life stories n relationships with others. 
+The game auto saves every 30 days (in-game time) and operates what happened in this mounth for EVERY NPC, Wulin guild, village and city. NPCs interact with each other, live, work, learn, be sick/hurt and die without witnessed by you. You can make friends with the NPCs and invite them to accompany you, or learn/teach martial arts, life living skills and music&painting skills etc from/to them. You travel around in the ancient land of China, and learn various kinds of skills to help (or bother) ppl to win their support, and become a legend.
+
+But most amazingly, after you died, [spoiler]you can choose one of your friends to be your new main hero to pick up the duty and continue your journey. That means you don't play as your first character forever. However as an individual character, your new hero may not have the same talents as yours. So I'd like to interact more with the most talented NPCs I can find to pass my duty to one of them. Or, you can just get married and then give birth to babies that inherite from you, then choose them to be your  successor. If you die alone, random NPC will pick up your sword and become your new main hero.[/spoiler]
+
+I have to introduce a concept REINCARNATION in this game. After one(including every NPC and your main hero) dies, part of their spirit and talents will reincarnate into random newborns, and you can find them somewhere around the world. You may check the previous life of every ppl you met, or follow the hint told by your dead friend through dreams to find their afterlife. Kinda creepy but that's just a part of Chinese traditional belief.
+
+It's hard to introduce the game here in the review bc it has massive systems& mini games. All I need to tell is that this game may be one of the most unique games you've ever played in your life,
+and it's not available in English, yet :P It's still an early access version, the team needs time and professional help to complete the game. So it might be a while before the English version is available. 
+
+Good day, and have good luck finding crickets!
+
+
+-----Oct 8, 2018--------------
+Ok now I've played this game for over 40 hours and I still have new things to learn. Part of that was bc that the game‘s lack of wikis n in-game tutorial, part of that was bc it really has massive systems and more deadly -- hidden freatures.
+
+BTW this game is kinda friendly to LGBT players. Plenty of gay characters and you can chose to be a trans hero. [spoiler] Some Wulin guilds only accept apprentice of specific gender, like Shaolin for males only or Xuannv for females only. Well it's part of the Wuxia world settings of China, that some martial arts can only be taught to male/female apprentice. But if you chose to be a ""male born as a female"" or ""female born as a male"", then you'll be accepted by both gender-required wulin guilds. [/spoiler] Have fun!
+
+
+-----Oct 22, 2018--------
+Ok now It's been 58hours in game. I didn't spend much time on the game bc I busy working life but tbh I'd rather spend all my night playing this game, but if I do that I'll die. I watched some vids about the game and started to search for guides. The bosses are impossible for me to challenge cuz me as a Chinese have totally not realize the working system of those martial arts, especially the way they effect each other and the differences of learning them thought different type of books. God it's so complicated.",0.839565634727478,60,True
+838350,82660894,76561198072542853,"Now this is a game that I spent a lot of hours and completed all achievements but still couldn't recommend to any one.  There's a slim chance that a very niche group of players who are extremely patient, love unconventional complex systems and a lot of interest in Chinese culture may appreciate the game.  But there are still way too many issues for me to recommend.  
+
+The learning curve of the game is very steep.  From the character building, equipments, combat system to interactions between characters,  almost all systems are unconventional and complex.  It will take a lot of effort to understand the system and to come out with a viable strategy.  I strongly recommend new players to play on the easiest difficulty.  Even on the normal difficulty, most players will suffer a lot.
+
+As if the learning curve is not steep enough, AI chatbot is useless to this game, as 90% of the time AI chatbots will give you outdated guides and information.  The game is patched frequently and the mechanism can be changed often.  Due to this, most of the mods are not useable if not updated recently.  One of the most terrible things can happen is your save file with 200 hours get corrupted due to a latest patch conflicting with mods.  
+
+The story is disappointing.  I have little interest to meddle in deities' business especially when I don't like either side.  All those deities are just selfish childs that inflicting pains to mortals.  Being tricked to work for them and without a choice is just frustrating.  
+
+The user interface is terrible, as many players have mentioned.  The game is released on Huawei Phones and the UI has been changed to cater for the phone version's needs.  There are many functions difficult to find or not easy to see.  E.g. I only found the manual book reading function after 100 hours of game time.  There're several functions I only discovered at the late stage of the game, although I have been reading the in game wiki diligently. 
+
+The game could be interesting for awhile when constructing viable builds, but it's getting repetitive quickly and switching builds are quite painful.  Regional quests and main stories are quite long, and more than half of the game is grinding mindlessly.  Interesting interactions between NPCs seems to be greatly reduced than earlier versions.
+
+Achievements are mostly achieveable in one run.  On easy difficulty, one full run of finishing all books, all quests and all endings (with manual back up of saves) will take about 300 - 400 hours.  On higher difficulties, the time required could easier go above 500 hours. 
+
+8 years ago, I played this for awhile and it had a promising future at that time.  It's quite unfortunate that the game ended this way. 
+",0.7834628820419312,45,False
+838350,228476234,76561198076153465,"Whilst I have enjoyed the actual gameplay so far, the utter lack of any manual save system makes this game a chore to play. With its dense systems with so many interconnected parts and a vibrant world to explore it would be an incredibly fun time if you had the ability to save your progress mid month as taking the time to read and understand the systems takes time and real life can get in the way of playing whilst you are halfway through a month. I am sure that with practice and understanding a lot of the decisions and gameplay can be progressed through quickly enough that experienced players can manage just fine but for new players or even those who cannot have long play sessions the lack of ability to save and pick up from where you left off is crippling to the initial onboarding of the game and means I cannot recommend it.
+
+I hope in future there will be some patch to allow manual saving.",0.7827901244163513,76,False
+838350,168729503,76561198026912403,"EA玩家，本来想等1.0再给真正的review，但是这么多年过去了，我觉得再等可能我要挺不过这个游戏了。
+
+其实游戏的优点很多，对武侠文化的精准把握，出色的世界概念，和庞大的内容，都能看出诚意。但是，有一个老生常谈的问题——游戏，终究是拿来玩的。
+
+很明显茄子对于武侠很有想法，但是对于如何让玩家获得乐趣，就毫无头绪。
+1.奇遇
+整个游戏的核心循环其实就是如何获取更强的功法，然后通过组合和练度，战胜更强的敌人。在早一些的版本中，甚至整个家园建造的终极目的，就是为了能获取高阶人物的喜爱度，并且想办法得到/修复/修炼他们的秘籍。而在这样的一个世界中，你会惊奇的发现，练就一身神功的你，并没有什么特别的地方可供探索。
+整个奇遇设计简直是逆着整个行业而行，毫无任何互动，唯一的互动是路线安排，而路线安排又不能直接选择，而是有一套几乎没有任何其它系统会用到的’赋性‘来决定，除了个别情况可以稍微更改路线，玩家几乎毫无控制能力，只能被动服从安排。在杀戮尖塔和黑暗地牢的同一时代，你很难想象竟然有这样的设计，从’教你玩游戏‘，直接进入了’你看设计师玩‘这样的离奇境界。
+而且格子的所有奖励，都要考验技艺水平。这本身无可厚非，但是这又是一个没有互动环节，实际上一次奇遇，除了打架意外，其他的格子都没有任何互动。而且，更令人发指的是，在玩家开始游戏不久，’古墓仙人‘这一必做奇遇，已经开始要求150点的技艺水平。注意，这时玩家根本没有任何精纯，甚至没有加入门派，没有任何人可以可靠的指点出150点的技艺。那你设置这个不切实际的要求有什么意义呢？只会让玩家养成忽视格子的习惯。
+综上所述，这个游戏的所有地下城，走到哪你控制不了，而格子之间也没什么本质差别，除了打架（大地图上也有的是人可以挑战）几乎不提供任何其他内容，反而通过一系列的被动灌输拖慢节奏。以至于有了’直接打奇遇boss‘这类mod，打了之后游戏体验还成倍增长。可见关卡设计，如果这个游戏真的有的话，已经差到什么地步。
+
+2. 敌人和boss设计，其实整个游戏最有趣的地方，就是想进各种办法跳精纯拿到神功，配出想要的功法。面对某个难解的敌人的时候，总有那么几种特别的功夫，能够让你反制住强大的对手，从而提供成就感。
+可是敌人的强大真的有必要到这种地步么？掐时间放护体，掐距离放催破，有些敌人还会放三个小弟来回出来挡刀，而且boss的护体几乎都是没有破绽的，放出来就要老老实实等它结束。
+而如此精明的敌人，在极长的版本更替中，又常年被卡武器距离导致一刀放不出，被逆狮子吼一个功法删除了所有护体甚至催迫技能，甚至有些版本中，boss甚至会反复猛攻玩家的护体，导致自己杀死自己。全程突出一个智障，和神经病。
+这里出现了一个很奇怪的现象，茄子对战斗的设计是完全按照玩家博弈的思路来的，AI不是配合玩家玩游戏，而是把自己当成玩家。很明显的对比是，杀戮尖塔，boss几乎都是循规蹈矩按照一个固定模式行动，但是就是好玩，你也不觉得它笨——因为任何一个人都已经知道，这是AI，它的强大来自于它的超模数值和特殊机制，而不是因为AI很聪明。
+对于现代游戏来讲，搞清楚这个boss的机制，凑出足够多的属性，就可以顺利成章的打赢。而不是搞出一个一方面很聪明，一方面又很傻的AI，让玩家寻找这个AI那些地方有思维死角，那些机制AI没理解或者不会应对，这样不是更好的玩法么？
+实际上很多boss本身的设计也的确是如此，找对防御属性，找对护体和绝技，通过正常手段获胜是最爽的。可是茄子总是怕boss不够强，非要搞出一系列的测dps机制，逆天的回复，加上大量的无限叠加性属性，搞得本该正常获胜的战斗，经常由于一个疏忽，让boss放出一个护体，或者拖过了时间，就前功尽弃，然后读档，再走一遍又臭又长的剑冢迷宫，用同样的战术重新打。
+有必要这样设计么？现代游戏的设计思路是让玩家赢，却没那么容易赢，而不是让敌人设计和AI尽量想办法卡住玩家。
+
+3. 没有章法，故弄玄虚和不知所谓的机制。
+有多少人在大地图上反复追一个紫竹化身，结果好不容易找到，人家跳地图了。交换了半天藏书，结果一个门派凑不出一本正的高品功法，甚至低品功法都凑不出来。生孩子个个东倒西歪，还经常给我反目成仇，真的有必要么？
+还有以秘闻为首的一系列边缘机制，你说有用，偶尔有用，但你说完全不用，游戏照样玩。立意非常好，可是真的有必要这样设计么，看了秘闻找不着人，找到了人用不上，好不容易用上一次，也是形式大于内容。而相比之下，去非人峰和少林寺搞私奔的剧情要有趣不知道多少倍。那你为什么要花时间死磕秘闻，而不是再多搞一些门派内，非主线的奇遇呢？
+还有那个十世转生，我顶你个肺阿，让人好好玩游戏就有那么难么？你是做游戏做出幻觉，感觉自己是所有人的人生导师了是么？我呸！
+4. 不完善的奇怪UI。那个反选武功filter我就不说了，建筑界面，到了今天，都还不能去掉无法建造的建筑，我真的不知道这个公司有没有UX和QA。
+
+总之，这个游戏现在还勉强保持着独一份的武侠世界和内容广度。但是在各色中文沙盒游戏层出不穷的今天，我，一个EA起就一直在关注太吾的老玩家，真的已经挤不出一丝丝的动力再打开绘卷。就以这篇review，作为饯别的信物。阿叔我终究没能等到茄子写完这个故事，江湖路远，有缘再见。
+",0.74181067943573,32,False
+838350,44905492,76561198029584787,"Pros:
+- The usage of archaic Mandarin Chinese is well designed and carefully executed, the names of character traits and kung-fu styles are exquisite and noteworthy, which would inevitably lose its flavour through translation, and it is understandable for the devs to mothball their plans to include multiple languages (to a later date maybe?) since it would be extremely tough for localisation.
+- The world feels alive since NPCs live their own lives like the protagonist sans the village management.
+- Unbelievable amount of skills and kung-fus to learn and master, and this is where you would spend time on the most(unless you are into cricket fighting)
+- The music is nice, but could be better.
+- Relationships between characters can go very wrong, be prepared for pedophiles and CK2-esque idiosyncrasies.
+
+Cons:
+- Being in EA, the content is obviously lacking, but there are lots of other things that you can preoccupy yourself with.
+- Newborn infants seem to know more types of kung-fus than you do, and they can sometimes even be the leader of a sect.
+- Interactions between characters felt robotic, and their personalities are utterly one-dimensional. IMO Most people are morally ambiguous, and there are no good guys or bad guys, there are only people who did the right thing at the right time and people who did the wrong thing at the wrong time. The characters in this game on the other hand have clear-cut moral boundaries and you can either be a diabolical exemplar, neutral, or a biblical moralist. This underestimated the complexity of moral living. But the devs made quite an effort to create more traits to a character to make them believable, and to that I’m grateful. 
+- Given the number of skills and martial arts you can learn and master there will be A LOT OF grinding, and it doesn’t matter that you are a genius, you would still learn skills at the same pace as your intellectual inferiors.
+- The absence of a character’s ability to give consent to sexual intercourse. If you play as a female character and you have a bunch of male members in your party, be prepared to get pregnant 24/7.
+
+TL;DR The game isn’t half bad at all, has much potential to be greater. Kudos to the devs.",0.7908896803855896,51,True
+838350,228034590,76561198216057591,"FOR THOSE ARGUING ""NO ENGLISH IN-GAME, NEEDS TO EDIT STEAM PAGE!"".
+
+You guys are a 1-2 days early. This game will officially release version 1 (out of early access) in 06/17/2026.
+They have prepped things for the release, so just wait. If you can't, there's still an English mod for this game that you can use.
+
+Thanks!
+p.s. : Grinding for cuteness (/// ▲ //)~",0.74029940366745,108,True
+838350,231051056,76561198037617202,What is the point of having a grand global release to get more players if patch notes are excusively in Chinese?,0.7349992394447327,106,False
+838350,231254906,76561198932236155,"This game's not even playable with these every day updates. It's absolutely ridiculous that this is still necessary after a 1.0 release.
+
+I bought this game when it first came out in early access years ago because it looked like it had promise and I wanted to support the dev's yet it's been how many years now (7? 8?) and It's still not in a playable condition? Give me a break.
+
+Not to mention they still can't be bothered to even auto translate some English patch notes for a game that says it supports English. Or leave a stable branch up for people to actually be able to play the game they paid for?
+
+Frankly, you all need to just do better at this point.
+
+Shame...",0.7177297472953796,46,False
+838350,228664680,76561198014292115,"I’ve noticed a lot of the negative reviews from new players seem to come from a mismatch in expectations. Once you understand what *The Scroll of Taiwu* is actually trying to be, many of those concerns become a lot less severe.
+
+This is not really a “main character” RPG. Your starting character is not *the* protagonist. The focus is your lineage, your sect, and the long-term legacy you build over time. The monthly save system can definitely feel frustrating at first, especially when you think you’ve lost progress, but it makes more sense once you realize the game is built around continuation rather than one perfect character run.
+
+I’m new to Wuxia-style games, and the Chinese gaming scene is still pretty new to me, so there has been some culture shock. I’ve restarted a few times because certain mechanics were unclear, and I do think the game could explain some systems better. That criticism is fair.
+
+That said, the in-game lookup tool, community guides, and Discord have been extremely helpful. Once it clicks that this is more about managing your lineage and martial clan’s future than protecting your first character forever, it becomes a deeply rewarding experience.
+
+**TL;DR:** Great game, but a lot of the frustration comes from misconceptions about what type of experience it is. It’s not a main-character RPG; it’s about lineage, legacy, and building your martial clan over time. Some mechanics are confusing, and that criticism is understandable, but putting a little effort into learning what you don’t understand makes the game much better.",0.7109981179237366,32,True
+838350,44876661,76561198148972894,"7.0/10 (Overall)    9.0/10(Chinese context)
+    + Really realistic Chinese swordsman style 
+    + Extremely complex simulation systeam 
+    + Relatively original inheritance system
+    + Artistic style is just perfect  
+
+    - Unreasonable game saving system
+    - Poor combat system
+    - Cumbersome UI interaction
+    - No multilingual support
+
+    This is an open  world swordsman simulation game which has roguelike elements.
+It is just like Chinese Kongfu version of Sims. Inside the game of a fiction world you 
+can learn the secret of kungfu, recruitment partners, fall in love with NPCs, even 
+create the next generation and let them inherit your skills. So you play the role of the 
+whole family. Also, the game has multiplex martial arts skills, life skills, social skills, etc. The 
+text and dialogue are mixed with classical Chinese which is  extremely difficult to do 
+localization.
+************************************************************************************************
+以下是较为主观的看法（仅评价缺点）:
+    1.游戏的存档系统很差劲，作为一款随机性很大的回合类游戏，没有办法选择是
+否在恰当的时机存档是很致命的。每次存档都要隔几天，中间可以夹杂大量操作，而且存档的时候没有取消，一旦不满意就要覆盖掉几天前（游戏中）的存档重新来过，很是麻烦。
+    2.战斗系统完成度不高。战斗系统采用即时+暂停的方式进行表现，在操作手感上显得
+一断一续，缺乏整体感和连贯感。尤其是武器招式不能在暂停的时候查看，更是给策略的
+执行带来困难。由于游戏中的战斗频率并不是很高，所以感觉还是把战斗场景做精做长点好，
+增强代入感。
+    3.游戏的系统过于庞大，UI过于割裂，人机交互几乎没有。我看了全部的教程后对UI交互
+还是云里雾里，最后不得不借助官方攻略来提升自己的操作，这部分硬核的过分了。
+    4.游戏的本地化表现不够完美，多语言几乎没有，字体太小，部分文本还有性别的
+文本错误（捏了个女娃，结果被称为“他”，emmm）。
+     游戏还是不错的，在人性化层面多打磨打磨，一定能成为国人的好游戏的。",0.7592161297798157,38,True
+838350,57992345,76561198096089355,"Love the game, had to update with English Mod in order to make it playable for me. While the mod translates a LOT it still has a lot of other info missing. If DEVs were to develop English version I would highly recommend it to anyone. As of right now I will only recommend it to those who don't mind reading a broken English Version.",0.7591017484664917,30,True
+838350,48271497,76561198382359241,"We Need a patch for English! 
+TeddyForest ENGLISH MOD are good, amazing actually, but we need an English friendly UI since the roman characters spacing in the game are killing my eyes (T_T)",0.854759693145752,79,True
+838350,130408133,76561198142797689,"
+有一个极其繁复复杂的战斗系统，但却不能真正地鼓励玩法套路的多样性
+
+给与了玩家充分的沙盒和养成体验，后期却没有与之相匹配的精彩内容
+
+Boss的设计各有特色，丰富立体，但是过于死板的剑冢机制在游戏过程中产生了大量的重复内容和垃圾时间
+
+第一次经历太吾绘卷，觉得那就像是一部精彩的小说，有角色，剧本，背景设定，画面，机制。就仿佛真的如同天地的绘卷般，梦与江湖的宏大在挥毫泼墨间展现得淋漓尽致。
+
+但当你真正开始游玩时，你就发现体验完全不是这么一回事。有多少的时间浪费在了查找攻略，寻求Build，搞最优解，种田，SL读书。新手或者一般的玩家要么缺乏指引，要么没有时间去专研，根本没有能力去参与这些曲折离奇的伤害计算机制，或者学习研究游戏的内容。而当你真正花时间去研究了之后，发现也许来来去去的也就是一些偷窃流，种田流，核弹流这种既成的套路。而等你真的天下无敌之后，你又会觉得后期的游戏内容乏善可陈，除了主线以外，并没有什么别的可做了。而主线本身，又充满了作者自身个人的喜好，作为小说看也许还行，但作为游戏的一部分意义不大。
+
+这就好比你为了玩这个游戏，必须去做大量和玩游戏无关的内容，仅仅只是为了玩好这个游戏，而当你发现你真的玩好了这个游戏之后，这个游戏就已经没什么可以玩的了。
+
+沙盒游戏的乐趣本来就在游戏的自由度，对未知的探索，对世界的发掘，和NPC的交流，资源的采集和利用。但是练武的时间却大大占用了这些游戏当中原本该是核心的部分。玩家被迫在探索和习武之间选择，必然就会造成设计和体验间严重的割裂。而如果游戏的最终目的仅仅只是为了挑战剑冢，那么开放世界的意义又何在呢？为了找一个外表随机得不错的NPC当伴侣？为了体验一下各种乱搞性关系的节目内容？离开了直播间的节目效果和论坛的话题，又有多少人会孜孜不倦地反复去做这些事情呢？
+
+
+我能感受到螺舟在太吾绘卷的创作中倾注的满满诚意，但却又不得不说游戏的机制和设定上实在是有太多这种似是而非的东西。
+
+缺乏以游戏体验为中心的设计逻辑，使得太吾绘卷能够打破常规，大胆创新，发展出新的沉浸式体验，但却终究逃脱种种机制流于表面，不合常理，以及昂杂无用的问题。过于零碎，割裂，以及不能相辅相成的游戏内容，令我甚至觉得螺舟不是在做一款游戏，而是在写一部小说的同时做一款迷你小游戏，你只有在小游戏上通关了，才能把这本小说读下去。
+
+虽然这么说了，但我觉得太吾绘卷还是国产游戏的一次了不起的创新，一款独一无二的作品。我希望螺舟工作室能够一直努力下去，我期望能够见到他们的下一部作品。",0.702301025390625,16,True
+838350,228209999,76561198127370513,"Thank you dev team, it's been a long wait.
+---
+For those who are not familiar with the title, reimagine a dynamic world like Kenshi but everything is turn-based and with Wuxia vibe. Lots of things to do, many to explore and optimize on your own.",0.7019525766372681,26,True
+838350,191911273,76561198850126719,"This review is for all the non chinese speaking gamers.
+In terms of gameplay its entertainig and very fun but this is not the reason i write this reviw.
+the game has been remade 4 times (1 in beta and 3 times by now) you can get lost very fast into the game and the mechanics wont help you either.
+its only thanks to the discord comunity and the teams translation mod that its can be relatively played.
+the devs are so obsesed in coding and changing the game that they dont even think about the user.
+And as of a final pice of info the devs are leching of the discord translation team to translate the game for them and they dont even reward them at all it just ghost them.
+i dont have a good feling about this game in the long run so if you want to buy the game at fuul price then think again. 
+",0.6999426484107971,43,False
+838350,229515229,76561198022579375,"Ok, this one is difficult to rate. On one hand ""mostly negative"" is underserved, it's definitely better than plenty of shovelware on Steam and it even has a decent English translation. On the other - it's not for everyone either.
+
+First of all I need to clarify that most of the features the game boasts about are surface level at best.
+
+""Living world"" - yeah no. NPCs can ask you for stuff and kill each other, but they don't matter, they are outside the main game loop. The only exception is asking them for manuals, which is solved by a couple of expensive gifts.
+Dynasty management - not a thing either. You technically can have kids and whatnot, but except for the roleplay there is nor need nor benefit in engaging with this system. Possesing any rando you've picked up works just the same.
+If you are looking for deep tactical combat you'll probably end up dissapointed. The outcome is 90% decided before the battle even begins. 
+The game only looks complicated because it's awfully obtuse about itself.
+
+The only thing which stands tall and proud is the buildcrafting. So if you like that, collecting stuff and Chinese fantasy you can give it a try.
+
+P.s. If you somehow decide to play it, do yourself a favor - combat screen -> ""Auto-Battle Settings"" -> untick everything except ""Auto Attack"" -> Enable ""Auto Battle"" and keep it on most of the time.",0.6920787692070007,20,True
+838350,84761631,76561198153625992,"Bought this game during EA two years ago and enjoyed the contents then. 
+If you want this game, then good news for you, you are going to get the exact same experience as if you got the game two years ago. Right, now you get it! This FK game did not get any meaningful updates for two years!
+Do not buy it.
+
+Update on 09/24/2022
+For some reason, the devs were forced to release an 'official' version of the game, and by no means it is a finished version. It is actually worse than the EA version as many nice features in the EA version were removed. The number of game breaking bugs is outrageous, I experienced 5 game breakdown in just about 7 hours.",0.6796212196350098,31,False
+838350,45042820,76561198062594030,"我不懂中文。
+
+这是一个令人兴奋的视频游戏。我在学习和工作时听背景音乐。等待英语。
+
+请在Steam上购买并制作更多中国游戏。十大，两场比赛都是中国人！英国人很困惑。",0.727139949798584,37,True
+838350,54646419,76561198273521546,"OK for those of you that dont know jack about this game or a single thing about chinese language or martial world ? 
+dont worry that doesnt matter theres a translation patch on discord done by a guy named teddy forest that has translated about 90% of the game (https://discordapp.com/invite/k78SA4n)  you will find no problem not being able to understand whats happening or what you need to do due to translation.
+
+The game has a tutorial but it will only take you through the basics of the game and it will at least gives you an idea of how to play the game the reason why i say idea is very simple the game takes a sh*tload of hours of play through with trial and error to figure out there are many ways to play the game many cultivation paths you can take a wide variety of schools from good to evil, medicinal and poison, assassination one, a weapons one there's even a elegant one and others there's about 9 schools if I'm not wrong probably more too lazy to check either way you guys get the point.
+
+The game is hereditary you pass down skills and such to the next generation but be careful not all are passed down only a certain amount so choose quality over quantity.When it comes to selecting a wife well check her stats and talents and make sure she has a high number on the ones you want your son/daughter to get or on the ones that better suit your martial arts path you trying to get your family to follow.
+You also get to choose if your character is just, kind, even,rebel or egoist each allow you to choose different outcomes on adventures and certain actions when you choose different from what  you supposed to be your character gets a bit depressed so try not to choose different many times on succession that said if you are for example just and you only choose rebel for a certain amount of times not sure if in succession or not your character will switch their personality to rebel without you knowing.
+well im tired of writing im gonna let you guys figure out the rest by yourself's good luck .
+
+Almost forgot I highly recommend it if you like indie and strategy games this is for you the game is complex but once not hard to understand once you get down a strategy it becomes hard to let go of your computer this will take you generations untill you complete it and one life lasts a looooong time so you wont get bored of it quickly cause you completed it.",0.7244756817817688,26,True
+838350,48810994,76561198427553670,"I believe it's a good game because it contains a great number of Chinese culture elements. And if you burst into this world, you will found a enormous world inside it.
+So if there is any foreign friends want to have a try, please connect me as as interpreter, though my English is not so good.",0.7558314800262451,32,True
+838350,162705714,76561198201261479,这套功法系统是相当出彩的，但剧情实在是减了大分了。这种模式其实应该参考的是策略游戏，类似太阁立志传，三国志，十字军之王，还可以搞出不同玩法，比如“唯我”的目的是一统江湖，“叛逆”的目的是当天下第一，“刚正”的目的是铲除邪派等等。至于说剧情，可以给不同的门派，地域，立场做不同的剧情。还可以结合成就系统引导玩家做不同的事，甚至可以像黑魂那样把剧情碎片化拼图化，巧妙地塞进游戏过程里。目前这种线性叙事的模式简直是上世纪90年代的遗产，放到rpg游戏里都过时了，更何况是这种模式，更何况剧情编的还真没什么意思。这样老套的剧情配上这么有创意的游戏模式，如同给高铁装了个蒸汽机。,0.6479683518409729,12,True
+838350,227321837,76561198397144653,"I used to pirate this game, but I quickly realized it’s so good that the developers genuinely deserve my financial support. A huge shoutout to Li Wei and the community for tearing down the language barrier and allowing the English-speaking community to fully experience this masterpiece. The wait is finally over! The horrible couple of years of silence, i even gave up hoping. but now? watching it evolve from early access (spaghetti code problem)  into a brilliant full release. Huge applause to the dev team. Congrats",0.6466607451438904,35,True
+838350,100411015,76561198194524515,"The recent negative reviews are due to failed expectations on the completed version's timeline. There isn't any more new contents or bug fixes since they entered into a so-called ""intense development"" phrase.
+
+To be fair, the delay is not unreasonable given the current Covid situation that affects all businesses. The game is decent in it's current state and has plenty of contents. I'd rather give them another year to release a good endproduct than crapifying the game with a broken release.",0.6446197032928467,15,True
+838350,83808308,76561198080539043,"Yep there is English mod
+Yep i am absolutely loving this one
+Its like all of those manwas about cultivators and sects, but in a game",0.6404127478599548,10,True
+838350,44875741,76561198088929490,"有希望成为一代经典的国产游戏
+
+缺点：和骑马与砍杀，文明等游戏一样，经常容易将游戏时间延长到天亮，严重影响睡眠",0.7362714409828186,25,True
+838350,229022609,76561198099208204,"Summary: If you want a xianxia game just play Tale of Immortal instead.
+
+Review:
+
+I want to like this game, I really do - who doesn't want to be a wandering cultivator ready to save the world?
+
+Unfortunately it's awful.
+
+Pro's: Beautiful game, cool art style, background music is well designed
+
+Con's: Clunky UI, inconsistent translations, poorly implemented tool tips, an almost overwhelming amount of tools, systems, and mini games that are shoved into the game with little to no explanation.
+
+It's an indie game, and a chinese translation, so I'll give it grace where it's due but the overall gameplay arc is just too poorly designed. There is little to no guidance or tutorialisation - which would be fine if the systems were at least explained or tool-tipped, but they aren't. Instead the Dev seems to want you to try, fail, and try again until you ""maybe"" understand each system.
+
+The entire gameplay loop seems designed to frustrate and alienate the player which is a strange choice.
+
+Am I missing something? Maybe, the game has over 3 million players so that's definitely possible
+
+Will I keep banging my head againsts the wall for a few more hours to see if something clicks - yes probably
+
+Should you buy this game as an english speaking player? Definitely not.",0.6322759389877319,19,False
+838350,45200125,76561198063533625,First time writing a review in my 10-yr history of using steam and purchasing many games. Absolutely outrstanding work by the team. Really love it despite being a beta version. One only wish if you can understand Chinese to enjoy.,0.7302833199501038,24,True
+838350,44890971,76561198313245542,"First of all, I need to apologize for my sub-par English writing.
+
+This game is amazing. I highly recommend this game to people who enjoy City Building + RPG + Sandbox + Ancient Chinese games.  This game contain elements from a vast veriety genres of games. You must be satisified with this ""cocktail"".
+
+HOWEVER, I really hope that the developer allow players to save the game whenever they want. Currently, the game is saved only after one month (in game) is passed. This is not user friendly. 
+
+MOREOVER, there should be more slots for saves. 3 slots are not enough. This is a PC game and I think think additional save data will not hamper the storage space of PC greatly. 
+
+FINALLY, the fighting scene should not be two shadow fighting. I believe the developers should replace the shadows with the art of the characters. It is quite unreasonable to see monkey, wood-man, young monk and old guy share the same shadow. 
+
+This game is amazing in other aspects.",0.6781324148178101,26,True
+838350,219677164,76561198136688091,"This game somehow brings me my childhood joy of when I was young and haven't learned English yet. It's like that game half the time it's about figuring out how things work (even with english translation mod, the tutorial teaches the basic but nowhere near enough to understand the fundamentials.) 
+
+For some weird reason, I still ended up having fun. But this definitely not everyone's cup of tea.  
+
+In the vast sea that is all the weird Chinese game and occationally untranslated slop, this is peak cinema. 
+
+7/10 would leave the game open on auto fighting a tiger as a 4 pure essense bum while cooking dinner 20 minutes. Come back and still just halfway through its injury bar.",0.6260623335838318,7,True
+838350,198809580,76561198127297226,"独立游戏制作不易，不到万不得已肯定是不给差评的。但是如果打 boss 必须要查攻略的话，那这游戏就没意思了。我认为，这种机制复杂的游戏最大的乐趣就在于摸索。但是如果你跟我说我用了 28 小时的“自创流派”，能够轻松应对野外的 4 清纯甚至 6 清纯敌人，但是打第一个剑冢的第一个阶段就会被直接剃光头（https://imgur.com/a/3mYahS3），而原因是我的“build”不对，打剑冢要专门的 build。游戏可以复杂，但是你不能说一个玩家自己摸索了 28 小时一直都可以行的玩法其实是完全错误并且直接给你卡关卡死的。如果一个玩法玩不下去，玩了 20 分钟就应该告诉你了，充其量 1 个小时。而不是等了 28 小时打第一个剑冢才告诉你。
+
+题外话，前几天 B 站给我推荐了一堆沙雕手游氪金视频，看见别人嘎嘎往一个垃圾武侠手游里面冲成千上万块钱。我当时还觉得这些人好傻，为什么不玩太吾绘卷。然后今天我吃了这口剑冢的屎以后终于明白了。有的游戏是氪金就让你爽，有的游戏就是单纯设计有缺陷。哪个好还是真的不一定。",0.6217396855354309,16,False
+838350,150741756,76561198309355577,"Big thanks to english mod creators
+
+about game:
+this game is a sandbox martial arts role play action adventure game with tons of details
+hard to learn but very unique experience (steam guides and discord guides realy helpful)
+game is long and hard for first couple hours i'm 100 hours in and at the year 51, i think im at the %35 of the story and %15 of the game completion
+game has very basic base building and town management, companion system being friend or enemies, merchants, crafting equipment, poison stuff, tomb digging or treasure digging, cities and sects to visit, learning martial arts, managing which arts to learn use, tactical card minigame, cricket catching and battling minigame, tournaments and lots of stuff that i dont remember now
+
+gameplay:
+real game starts at the taiwu village and now you can go explore the world and visit sects get their support, learn their martial arts, upgrade village, get companion, marry, have children or fight the bosses to death(not recommended) basicly you start within the village and there is world before you so take your time and explore the world get powerfull and challange the boss when you have a family member with you
+
+story:
+you are a descendant of the taiwu (aka the sword holder) your quest is to get strong and beat the evil by the time you age marry and have children and at some point your main character dies and all his knowledge transfer to new heir this means new character but the world continues and every heir get stronger and stronger so you play a family of heroes to beat the evil and save the world",0.6205199956893921,8,True
+838350,232227749,76561198046869604,"Wait to purchase until things are actually fixed, or never (more likely). Constant hotfixes or updates that kept introducing new bugs into the game which get fixed only to introduce more. In this way the development updates are the embodiment of the game in this weird cycle. Sorely in need of a way to save during turns (who doesn't love losing 20+ minutes of progress because they needed to stop suddenly?) and lack of information for Western audiences from update notes.
+
+The game is also more story-based and is missing advertised features (NPCs interacting with and influencing the world in meaningful ways, when in reality they can be ignored for the most part w/o consequence).
+
+One day we will have a great cultivation game that Western audiences can enjoy, unfortunately it's not today.",0.6172381043434143,16,False
+838350,95940306,76561198012821328,"Unofficial English mod isn't perfect, but it's VERY good overall (especially for the UI, where it really wants to be) and this game is exceptional enough that it's worth putting up with. You'll have to find this mod out and about; the creators distribute it through their Discord server, since the game has no workshop support. I also suggest grabbing the mod that converts moves to icons!
+
+Once you have, though, you're in for... I really don't know how to compare it to other games. It's Chinese Crusader Kings with a fantasy setting, plus a little Oreshika, all with a load of unique features all its own. If you're intrigued by wuxia or xianxia, or you enjoy sandbox games, this is [i]definitely[/i] worth your time. Learning curve is a little tricky, but once you learn, you're in for a real treat.",0.6162536144256592,8,True
+838350,100646265,76561198254207589,"This game is a good idea executed by very bad team. Not see any meaningful updates after 3 years of EA. The team doesn't have any respects to its player,  the recent apology statement just show how ignorance the team is and how less the team can care about the EA buyers.  
+
+I didn't plan to leave a comments on this game, but that stupid apology statement made me have to leave a not recommend review.  This review is not about the game itself, its just about mutual respect.
+
+
+===============================
+edit after Sep 21, 2022 update.
+sorry, I have to keep the thumb down review for this one.
+
+What am I doing? where am I? What I should do next?  Those 3 questions keep popping up. 
+
+I only noticed visual improvement after 3 years since I played last time.  The battle part is more tedious than before. I like the previous one much more than this one. 
+
+The story mode is not even there, what have been done in the past two years' ""intensive development""? 
+
+",0.6148317456245422,18,False
+838350,122578424,76561198050151346,"说出来你们可能不信，906小时没有打过3个以上剑冢，就跟我骑砍1000多小时没有统一过一样，逛街种田私奔下蛊偷东西，什么道德败坏人心不古的事情都干了个遍，今天EA版永久进入历史舞台，但我不会忘记这段时光。
+
+10月23日更新：
+今天的神一品更新后忍不住夸一下，我从EA刚出第一天就期待着人物关系页面的超链接，像CK2一样。EA只能看到人物位置，现在有悬浮信息，可以点，还可以后退前进。就这一下我游戏体验可以提高25%",0.6134714484214783,12,True
+838350,236474377,76561198219271107,"It’s been 7 or 8 years since this game first entered my library, and time has just flown by. Honestly, it’s rare to find a developer team this deeply dedicated to their craft. If you bought it back in the early days, I guarantee it was worth every cent. And if you haven’t bought it yet, it’s never too late—please consider supporting the passion and hard work of this dev team, because they truly deserve it.
+
+Alright, enough rambling! Let’s get straight to the point. No matter how great a game is, it always has its pros and cons.
+
+PS: Don't look at my current playtime on Steam—it's not accurate at all. Back in the early days, the game was so packed with bugs and errors that updating it constantly made it unplayable, so I ended up playing a cracked version instead! xD
+
+Pros:
+
+Rich Narrative: A lengthy storyline with multiple distinct endings.
+
+Massive Amount of Content: Packed with features and minigames—hardly any other game offers this much variety.
+
+Extensive Martial Arts System: A vast array of kung fu techniques and sects to learn and master.
+
+Deep NPC Interactions: Countless ways to interact with characters throughout the world.
+
+Complete Freedom: The game lets you play truly the way you want.
+
+Vibrant Modding Workshop: Incredible mod community (and thanks to AI tools nowadays, there’s even more content dropping constantly!).
+
+Cons:
+
+Post-Update Bug Fest: Every time a major update lands, get ready for 101 bugs and thousands of red error lines. (As I write this, I’m waiting for modders to update their mods or having to purge outdated ones. Sure, you could say ""just don't use mods,"" but so many essential QoL features are in those mods that I’d rather wait for fixes than return to vanilla).
+
+Steep Learning Curve: Because the game offers so much content and freedom, the sheer volume of systems can feel overwhelming at first. If you don't like digging into mechanics, you might find it tedious or frustrating. But if you’re someone who loves exploring and learning deep systems, this will feel more like a huge plus than a minus.
+
+Summary:
+I strongly encourage you to give this game a shot. Start by playing naturally as you would with any new game, and then feel free to look up guides or download QoL mods later on. Just make sure you try it. You might end up with an unforgettable gaming experience—and chances are, you won't find another game quite like it. The Scroll of Taiwu is truly special and addictively captivating.",0.6129031777381897,8,True
+838350,122820967,76561198073606280,"Yes it's not perfect, compared to EA some of the better systems got gutted and some of the most annoying UI things are still here (villager and inventory management come to mind).
+But there are positives too, such as adventure management being a million times better, end/start of turn requests and events being better, several useless skills rebalanced, extra content...
+Lastly the ONE THING which makes me certain this will end up better then EA is modding capacity and workshop. This alone will make Taiwu into an incredible game and I'm sure all the little annoyances will be gone with some mods soon enough !",0.611954927444458,15,True
+838350,45675933,76561197993147323,"听朋友介绍了这个游戏，朋友说有盗版的可以让我玩，我网上看了一下评论，毅然掏钱买了正版，也在劝说朋友也去买正版。我们需要支持这样有理想的游戏制作人。我和朋友都是以前玩北大侠客行MUD起家的，虽然后来各种花里胡哨的游戏层出不穷，能让我真正忘不了的游戏还是武侠MUD，金庸群侠传，三国志系列这些老的开放式游戏。现在年龄大了，俗事缠身，根本没有时间再去玩游戏，包括这个，但是仍然买了正版，算是对作者们的小小的支持，希望你们越做越好，中国游戏界太需要这样的制作团队了。
+
+Heard about this game from an old friend who I used to play text MUD (Xia Ke Xing) with together.  BTW, anyone here play text MUD before?? My friend told me that this game is just like the MUD. Lack of visuals allows you to fill the voids with your imagination. And the virtual world is so real..
+
+I am in my 30's and have too much work to do everyday. I am so afraid that once I start playing it, I will be addicted. So I am not going to play it but I still bought it so that I can financially contribute to the team which developed this game. We need to help such people in China who are dedicated to making the ideal game for real gamers, rather than pursuing profits by making craps like all kinds of online Chinese Wuxia games nowadays",0.661709725856781,14,True
+838350,186054843,76561198023548977,"Super autistic crusader kings wuxia where you cultivate your power to fight dragon ball z gimmick bosses and lifestyle sim the rest of the game to grind better skills, gear, and genetics.",0.610204815864563,11,True
+838350,168660988,76561198372142772,"It's a great game, one of the best cultivation games. The downside is that this game has not had the English Language (yet, idk if the dev intend to do it). It has the Eng Translation mod from the discord server tho but there are lots of limitation of it.
+The game is good if you can handle the rough translation. For me, I would wait for another 5 years when the game has properly translated lol.",0.6063434481620789,9,True
+838350,228645597,76561198084076851,"For english players, i wouldn't recommend to buy it for now, it's too close to launch and the dev is still actively patching and updating the game daily, BUT that means their main focus is on the chinese version of the game and if the english version have minor bugs it'll probably only get fixed way later. Just hold it for now and let them cook with the CN version until stable first. such is the sad fate of second-class-citizen EN players.",0.6029710173606873,16,False
+838350,71453873,76561198070412660,"Update: After playing the (nearly) full release for a while I feel I can comment on the changes. To begin with: nothing in the new game's systems are worse then the previous ones. We've lost some things that are familiar (I personally loved the old reading system), but the systems that replace them either have more depth or more accessibility. Often both. This is still the same familiar game that everyone fell in love with, and the developers have shown their passion with daily bug fixes and updates. Which leads into my second point.
+
+What's the most different about the update? The performance. I don't think people realise just how poorly optimised the previous version of this game was. It was horrendous, and it would get increasingly worse the more turns you took in the game. I was looking at upwards of 5 minute loading times for each turn on a gaming rig that can play the latest releases in 4K Ultra. Because it wasn't a hardware limitation but a software. The new version is incredible in comparison and it's obvious how much effort was spent in the backend of the game during closed development. That alone is an incredible difference.
+
+Why is the game not released yet? The game needs lots of QA work. Bug fixing. Many minor improvements that really need to be worked on. The developers have always sucked at prioritising QA and the game's only just getting the bare-bones of its much needed QA now. Part of the reason you see people getting mad in the reviews is because there are no real tutorials. The game's still not new-player friendly.
+
+People getting upset at the game is justified. Their blatant attempt at misleading people who read their reviews isn't. The update is a strong step forward for the game regardless of what they personally believe. Is it worth getting now? Yes, especially if you want to take advantage of EA price. The fan English translation is very presentable right now, and the official one will release in 3-6 months. The content is all there - balance, bug-fixing and QA are the core of the updates. However you can also wait. At this pace you're looking at them finishing off the game's polish in the same ETA as the translation (3-6 months).",0.6481715440750122,17,True
+838350,76482298,76561198107621945,"Taiwu is definetly a good game the best of its genre. At least that is how I used to look at it, its been already 2 years since the early access release and yet they had no major patches, always a bug patch here and there, even the english mod was created by the community and not by the devs.
+I literally thought that this was it, the promised game that would direct the Chinese gaming industry towards singleplayer games, that you pay and play. Free to play multiplayer with in game transactions have been trending at the top of the Chinese gaming by decades and the system and culture built around is disgusting, and it seems that we gonna wait for another while, I really hope Black Myth is going to be that game.
+I really dont know what happened to this studio, was it the success they had with only the early access that went over their head or the game was destined to stay early access and get some quick coin through its actual state.
+DONT BUY UNLESS THEY RELEASE THE WHOLE GAME!!",0.645879328250885,12,False
+838350,123328359,76561198134670325,"Let's put those inhuman mechanism / UI aside, the game is buggy as hell, ridiculously much buggier than EA. Most bugs make the game stuck and forced exit is the only way out. Your current month progress is rewound.
+Until I get a gang's 100% support (almost complete the main quest), I have endured 43 times forced exit and, as the situation becomes worse, rendering the whole game unenjoyable, I give up this game now.",0.5941702127456665,8,False
+838350,177393462,76561198825677957,"6 years in early access
+still no official english translation
+blocks cheat engine
+why did I even bother with this game :D",0.5917872190475464,25,False
+838350,229287276,76561198141921641,"The game has its flaws, but the Scroll of Taiwu doesn't deserve such low ratings. The game's interface isn't very user-friendly, although I've gotten used to it. The developers are releasing patches and trying to fix this issue, as well as the bugs. On the plus side, the game has many martial arts schools, a good combat system, and overall, it's fun to play. So I would advise you to take the game more relaxed and give  it a chance. In my opinion, the game is good and deserves more attention and positive reviews.",0.5903400182723999,9,True
+838350,228713606,76561198143278426,"While I can understand the negative reviews I have read (about 15-20), I do think people are throwing things out of proportion. The only issue I am facing/bug is last names and first names not rendering properly and I doubt it is an issue on my end since I simply bought some DLC, might have been a hotfix or something else. Point is... This is a solid game. It has deep mechanics and the core gameplay is not about reaching the destination, but HOW you wish to reach it. VIllage building, combat, debates, cricket fights and etc, I had a small taste of everything but I can completely understand why people would get overwhelmed. I know I did. 
+
+Despite that, however, what everyone should keep in mind is that this game rewards you for actually...CREATING a character. It sounds obvious, yes, but it is true. When you create a character, you set yourself up for the type of gameplay you want to partake in, what village you want to build, how you want to make money, how to fight, and more. None of it is necessary even if it feels like it, but you have the choices to do so. It wasn't until after I rebuilt my character about 4 times that I realized each birthing month actually gives you a different trait...not just the elemental Qi bonus. 
+
+Personally, this is a massive step up from Tale of Immortal, another game of the same genre and playstyle and while the art differs as does everything else, the core gameplay is relatively the same. You choose the type of person your character is. You grow that character. He can be the villain slaughtering everyone, the monk that converts others, the schemer in the background that has control of the sect and despite the sect leader being married...he is her lover. 
+
+I am not used to the autosave feature and no manual save feature but I think it is fitting for this game for a simple reason. You need to own up to the choices you make. Didn't realize something you said upset an important NPC you wanted to learn martial arts? Boohoo, should have gifted them a better gift instead of making the worst compliment you ever could. 
+
+I do not deny that the game is confusing and does not hold your hand, but understanding core mechanics does not matter unless you wish to play on higher difficulties. I barely understand a thing, the only thing I do is auto run combat and fist people to death. On easy mode you don't even need to think. You don't need to understand. Anyone struggling should consider the easiest difficulty simply to learn mechanics for that one character you wish to play. 
+
+You aren't born a hero. You are MADE to be a hero.",0.5872064828872681,6,True
+838350,232007360,76561198038422830,"Only 3 hours in, but i'm really enjoying. I almost never got this cause of the somewhat mixed reviews, but glad i did. Only 8.4% of players even completed the tutorial, which was relatively easy and a good set up for the story. So take the negative reviews with a grain of salt.",0.6371880173683167,9,True
+838350,228451349,76561198223723876,"So for all the tutorials in this game which I think is eight, or ten? Can't remember, it needs a hell of a lot more for whatever this game is aiming to be. Like one moment it wants you catch crickets; then it wants you to play a deck builder, finally after that it wants you to land manage. It's overwhelming amounts of chaff enshittening what this games focus should generally be, the cultivation and Wuxia aspects.
+
+The Cultivation aspects of collecting shit loads of tomes and regents, to take back to my town to turn into something that increase my overall power by like .01% (<Extreme exaggeration) is what I love about Wuxia. This aspect of the game is solid.
+
+Also there is some nasty bugs plaguing the game atm. I got hit by a massive red textwall that bricks the game at mid to late game when you have to rest during travel, this has hit multiple people. So take that as you will when you buy.",0.5866847634315491,17,False
+838350,163726633,76561198003333984,"I tried the game, seemed quite promising, but even with the translation mod, made by fans of the game, it is still way too annoying to play.  Kudo's for the translators for trying. Cannot recommend for non-chinese readers, despite other reviewers claiming it is sufficient..",0.5852908492088318,11,False
+838350,221187422,76561198830208059,"It is a good game but without the english translation it really just isn't worth buying atm... Even with the translation mod which is decent I would wait and see. Especially considering they are going to be doing a price hike from 20 to 30 for US players which is insane without translation thats been delayed over and over. 
+Edit: I have not played since the new update with new translation so ignore this review.",0.5827730894088745,16,False
+838350,215442264,76561198161452090,"The idea is fun, but the mechanics are not. There are little to no explanations for the extremely complex battle systems, and you cannot realistically progress without a guide. You also cannot play this game the way you want. Builds are highly restricted, you need a specific build for every single boss, and you are forced to redo your character from scratch each time. The game does not respect your time. Do not buy it. There are better games.",0.5825961828231812,19,False
+838350,44959124,76561197976622133,"Since the game is still under EA stage and only supports simplified Chinese.
+I will put down an English comment for those who interest in worldwide.
+
+Take it as simple, Rimworld with martial arts.
+10 life cycle with a straight timeline. (Well I never make it to 3rd round yet, so unconfirmed :P)
+
+You can start your beginning but with random various of personality.
+You almost can do anything you want in the world, fighting, poison someone, marriage, kids...etc
+And before you notice, 12 hour passed. (Yeap that's exactly how my yesterday slipped away)
+
+However, there is still some cons that Devs need to work on more and adjust quick.
+1. VERY, VERY POOR tutorial, basically I will say it is just a starting plot. No explanation on pretty much everything except battle. (which is the least important part to worry about) And it take me like 4-5 times to restart just because I finally understand the mechanism.
+2. Battles are routine in late period, you just keep adjust your distance and wait for the cool down then click the attack skill. While two black man are pretending they are busy. Teammates almost does nothing besides add some strength on your skill or poke enemy with a branch since dev didn't teach you how to equip the, 
+
+Over all, it is a good game with great potential and full of new elements.
+Although it is only 60% readiness and lots of content need to be filled yet. 
+But it totally worth 10 USD.",0.630632221698761,9,True
+838350,101907159,76561198199989058,"I dissapointed with this developer. the update getting less and less until no update at all. and for the love of god from 2018 till 2021 now u still not input english language feature to this game. Im tired have to patch it over and over again. Then your story is stuck and after u stuck u just playing around then voila 300 hrs of gaming. This game have many good feature if developer take it seriously. 
+
+Unfortunately they blinded by money and abandon this game. Not recommend it at all",0.5800781846046448,14,False
+838350,114648515,76561198219470657,"I played it. (with the translation mod) the game is ok, but still early access. I remember seeing somewhere that the developer said he would translate it... still hasn't happend (but it might who knows (side not for the side note:they could probably just get the modders to help them but they won't)). so overall it was an Ok experince but I would definetly recommend waiting for a long time ... maybe buy it if it is on a sale or something or when it is done.",0.5800747871398926,7,False
+838350,124007502,76561198104089969,"bug 过多，以至于不能正常游戏，新进战斗系统完全没考虑过高难度，高难直接点半个小时鼠标，mod管理器没有排序与依赖功能，mod一多就会严重冲突，最好半年后再玩。
+Toooooo many bugs
+The new combat system does not consider the high difficulty at all, you need to click for half an hour to defeat one enemy
+The function of mod manager is missing.no sorting function,cause if mods number >10, will meet serious conflict.",0.5796152353286743,9,False
+838350,228445394,76561198075591970,tm单击游戏还有敏感词屏蔽，我还不能叫刘华强了,0.5788281559944153,18,False
+838350,44947093,76561198050938129,"曾几何时，当我第二，第三次打完博德之门，后来的永恒之柱。 我曾想过有这样一个游戏，有着完整详细深入的设定和数据，建立在中国的武侠世界。后来看着越来越浮躁的中文游戏风，渐渐就放弃了。突然见到这个游戏，虽然还显稚嫩，还是毫不犹豫就买了。真心希望开发者能好好做下去，潜力巨大。 
+谢谢开发者！",0.6244298815727234,12,True
+838350,229791726,76561198000426015,"There's a really interesting and entertaining game in here somewhere, but the English localization is broken and either stays the same, or gets even worse, after each new patch. Aside from this, the game is also just quite buggy in general, and it's a rather complicated game too. All three come together to result in an experience reserved only for the exceedingly patient, so I can't recommend it to anyone else, even if I keep trying it myself!",0.5723989605903625,8,False
+838350,122638194,76561198032730414,"I bought this game in EA. Not ""like a month ago."" Years, and years, and years ago, when the completion was uncertain, when the only translation was janky, when the systems were unrefined. I played it for a hundred hours straight. Stayed up overnight just playing.
+
+Then the system got refined, rebuilt. The appearance of the game improved. The mechanics got smoother, more interesting, more intricate. The devs' love started shining through.
+
+Now, years and years and years later, I finally see the completion of a game I loved way back when, and still love. Not just that - a game loved by many, many people, including the devs themselves. The devs absorbed the fan translation community and had them help polish, edit, and improve the English translation. The devs cooperated and communicated and took feedback from the English community as well as the Chinese. 
+
+The devs haven't run. They're still improving the game. They love this game, and so do I. Unlike so many Chinese games with a cheap MTL translation abandoned as soon as they declare an incomplete 1.0, this one is a labor of love. A labor of effort. A labor over years and years.
+
+Buy it. Love it. You'll understand.",0.5723558664321899,12,True
+838350,50275205,76561198196981819,"喜欢这款游戏，2019年4月还经常玩。首先这款游戏不是rpg，不是rpg，不是rpg，对我来说这款应该是沙盒模拟探索类游戏，由于武侠世界观之特别，让太吾在各种原创游戏中独一无二。最近很多人在抱怨茄子一直在搞功法的平衡，让游戏毫无进展，都没人玩了。但是吧，感觉对这些玩家来说就算游戏更新了非常厉害的内容，他们还是会该玩只狼玩只狼，该打dota打dota。茄子在2018年9月的更新日志里就写了他的计划，链接在后面。现在过去大半年了，这个计划也确实地在一步步完成。话说到今年4月才正式成立的工作室，你们指望这期间茄子一个人维护代码能更新多少内容？光debug都不知道要花多少时间。他还有生活和家庭，外加组建团队招揽人手训练新人。。。进度确实没有想象中的快，但是我觉得能理解，希望工作室步入正轨，下半年加油！
+https://steamcommunity.com/games/838350/announcements/detail/1685925928843636289",0.6206896305084229,10,True
+838350,48635037,76561198011080036,Great game!! english players there is a fan english mod and it makes the game quite playable! they did a fantastic job on it!! very complex yet also simple game. its truly going to be a masterpiece.,0.6201647520065308,13,True
+838350,229019442,76561198097590955,"Played this game for 20+ hours as I currently write this review.
+
+This is a strange game, on the ourside it looks like a sandbox game that allows you to venture all over the Wuxia lands of China, but then your hit with the pure essence issue. As someone who plays immersing into the charater I created, I wanted to slowly train my character and bring him all around the world to learn different martial arts and join in with different stories. But then the moment I finish the prologue, I was hit with the eight boss dungeons, without beating a boss and acquiring their Pure Essence, you are essentially a weak slab of tofu that any typical mob can end you, except for the weakest amongst them. And the main way to get stronger is to attain more Pure Essence by defeating the boss. 
+
+I know there are several other methods like woo-ing NPCs and using different methods to 'steal' Pure Essence or attain better martial arts from them, but that's not how I want to play it. The game subtly forces you to 'die' and reincarnate again and again to beceme stronger, literally discarding the point of Character Creation. 
+
+Moreover, the UI is so cluttered, messy and lagging, everytime I load the game, I feel like clicking my mouse on the loading screen would make it crash. It's not really a true sandbox Wuxia game, It feels like it's trying to accomplish many different aspects and delivering none, a Jack of all trades and master of none.",0.5683881640434265,9,False
+838350,156078590,76561197971855344,"This game has made me realize why I've been feeling bored with video games over the past few years, always trying to chase some feeling I've lost.  This game actually requires thought, with so many avenues to explore, with each play through being different.  It being in chinese and using english translation mod makes it a tad more complicated, but overall this is quite a good game.  Well worth the entry fee.  
+
+Hopefully they actually finish it and it gets a proper english translation.",0.5651562809944153,6,True
+838350,45147706,76561198030789062,"Think Crusader Kings/Sims but Wuxia fantasy with a really interesting combat system. There's a lot of work left, but you can see the diamond in the rough. Let's hope that the developers can deliver on their promises, but I'm certainly intrigued. Also helps that I can read the language lol.",0.6151289343833923,18,True
+838350,135835891,76561198005005896,"played the old version for 1k hours. now i just come back and clocked 100 hours again in a week.
+
+no idea what happened for the bad reviews by players, but if u're looking at just gameplay itself its a massive good from me",0.563758373260498,7,True
+838350,122769135,76561198201120970,"在EA玩法已经基本就位，只差补剧情的前提下（正式版剧情补得也不多），正式版把EA的爽点和改进的功能全部删除，再加上一堆垃圾UI交互设计，更甚至报复性地反向优化，我完全不能理解。
+NGA有个帖子把被删除的爽点拉了个表，总结得相当到位，引起数百楼共鸣。对我而言，其中最要命的是：npc之间完全无任何交流（这个游戏能火的关键点，没了，导致玩不下去，我相信只是没有实装，但这种游戏命门不优先实装就非常迷惑）、衣着互动（也不优先实装，所以出生时可选衣服带入游戏是为了什么？）、斗蛐蛐（你家下注时能捂着？你愿意对方捂着赌注时就和他玩？真实吗？）、读书强制降低效率（闭关练功读书很真实，现在只能过月读书才一点都不真实，过去1个月3本书，现在1年能读3本就不错了，而且因为见闻系统的加入，完整读书的重要性增加，体验瞬间降低一个数量级）。
+什么武学build，打斗机制，捏脸机制（多给几个脸型都做不到？人家mod都做出来了，你家美术是给你交钱才工作的吗？），混乱的UI交互，还有完全没提示的让玩家心力交瘁又无法享受游戏的种种“探索感”，大家已经吐槽过了，我就不再赘述。
+现状的唯一解释：做正式版的人，不仅没玩过EA，而且没有游戏开发经验；做EA的人，没玩过正式版。
+
+至于大家的这些意见，茄子看不看改不改，我已经无所谓，反正现在没有可玩性，不会因为急着玩下去而要他改。但是想到自己等了3年，给别人安利了3年，还是觉得自己的青春喂了狗。
+讲道理，茄子，你玩一玩EA，再玩一玩这个正式版。我就不说那些瞎了眼的、对比度极低、辨识度极差的背景色、物品贴图、地图贴图、仓库贴图了（EA那种清澈美丽又一目了然的黑色背景啊……）。EA大多数机制都很好，怎么正式版就连移植过来都做不到？
+估计即使在国庆期间，也不会有本质上的改进。新人可以去玩EA，正式版就算了。",0.7625058889389038,38,False
+838350,228695255,76561198104682478,"I have always loved Chinese wuxia stories, but this game completely failed to live up to my expectations. After nearly 500 hours, I came to the realization that this is a terrible game—just as I once came to the realization, far too late, that my ex-boyfriend was a terrible person.
+
+1. There is no Japanese localization. I had to choose between reading English at a painfully slow pace or reading Chinese, where I could only understand about half of the content.
+
+2. There is no manual save system. As a result, I frequently lost my progress.
+
+3. The game provides very little guidance for new players. The in-game encyclopedia does not solve this problem; if anything, it makes things even more confusing. While this did not affect me personally, I still consider it a serious design flaw.
+
+4. As for the gameplay, it appears to offer a great deal of freedom on the surface. In reality, however, it feels as if the developer prepared nine specific problems for the player to solve. Each of these problems has both a general solution and several specific solutions. If you discover the general solution, the rest of the game becomes little more than gathering the required resources, waiting for long periods of time, and eventually reaching the ending while trying to follow a story that is often difficult to understand.
+
+5. Regarding the art style, I do not personally like it, but it is at least distinctive. I would say it is barely acceptable.
+
+In conclusion, I regret purchasing this game. It wasted both my money and my time.
+",0.5619673728942871,16,False
+838350,229339321,76561198036509243,"So, if you have played games like Tale of Immortal, then you will be slightly familiar with this game. The English translation is pretty good compared to most other releases of this genre. My biggest suggestion to new players is to look at the guides on Steam and read the in-game wiki. The game doesn't really explain a lot and this is a thing you'll find with a LOT of Chinese releases.
+
+They have minimal tutorials, and you'll need to look at the community and wiki for a lot of things. Their design philosophy is just different from North America.
+
+The game is ""Wuxia"" which means it more grounded, A world of martial artists where ""qi"" exists but it doesn't overshadow human abilities and it's not too wild, no DBZ level destruction and power scaling (Xianxia) but people can run across roofs and cut through stone.
+
+I can't really write much of a review because graphics really aren't a focus, and gameplay is a bit to much to explain in a review. You can buy it and within 2 hours you'll just know if this game is for you or not.",0.5619212985038757,5,True
+838350,228456831,76561198031897831,"disaster UI/UX design, and buggy, game-breaking functions (e.g. inviting people to meet at somewhere will cause that npc stuck at unknown place etc)",0.561253547668457,8,False
+838350,50360202,76561198110467957,"Spent my whole life making my son the master of Wudang. He then killed me for a piece of Kungfu note.
+
+10/10.",0.6609954833984375,14,True
+838350,228572104,76561197993298365,"Auto save combined with game locking bugs is not great (game doesn't crash but cannot forward month or move). Means if you spend some time chatting and buying you lose all that time at any lock. I used a few mods so that is likely the reason, take my experience with a pinch of salt.
+
+I honestly think the concept is very interesting and the game seems to have a lot of systems to support it.  The idea seems very solid.",0.556357204914093,11,False
+838350,228744659,76561198003275728,"I never played early access and am an english speaker, however I have played other esoteric chinese martial arts games like amazing cultivation simulator and tale of immortal. 
+
+Right now I am playing on hard difficulty and I am still in probably the early/mid game of this game and I'll give you a breakdown of what to expect. So far I am finding this game to be really fun, though extremely complex with a lot of complex mechanics that I am still trying to figure out how to min/max.
+
+This by its heart is a stat min/maxing game where you try to find synergies between all the martial arts to make a god like character. there are like 15 sects in this game and each sect has like 50-100 martial arts, and each martial art has unique effects. the martial arts are ranked from tier 9(weakest) to tier 1 (strongest), however when you breakthrough each martial art you can get an unique effect, the effect can either be blue or red and can be build defining (some passive, some active). Because of the unique effect, some Tier 9 (weakest) martial arts you will use till the end game because they synergize well with other stronger martial arts, so every tier of martial arts can be viable in the end. The build possibilities are honestly kind of crazy, like its not too hard to make a decent build you just learn all the martial arts of one sect and make a build with just one sects martial arts, but you can wrack your brain trying to piece together a min max build because you are not constrained to learning the martial arts of just one sect.
+
+As for the sandbox portion of the game, story wise there is a main story and I think you can pursue a few endings to the main story but at the beginning you are doing the same things in terms of main story, and each sect has their own extensive side story quest that each give end game rewards. The true sandbox part is how you interact with the NPCs to get what you want, you can steal/swindle or learn martial arts legitimately to make your build. There is even a super in depth crafting system where you can min/max your gear but I haven't dabbled in that yet despite my dozens and dozens of hours.
+
+You can recruit NPCs and assign them ""jobs"" like you and literally make a NPC companion a vendor of a specific type so you have a portable vendor with you at all times. Sandbox wise there are tons of tons of things you can do, but however if you are expecting to make your own main story then yeah this is not the type of game.
+
+If what I described sounds fun then get this game, I personally am having a blast. However if you are expecting some kind of build your own main story with 1000 branching randomly generated storylines or something (does any game actually do that?) then this is not the game for you, like the first few hours of the game you will always end up being the mayor of a town, but thats literally is just the tutorial (1% of the game), the game just opens up from there, you can decide to take on fighting the bosses of the sword mounds or just run around doing whatever, making friends, joining sects and learning their martial arts or whatever and ignore the sword mount bosses until you are ready.
+
+Oh and crickets are OP, you can get learn up to tier 3 martial arts even in the early game by beating high level characters in cricket duels in the early game. Like I ran around at true essence level 2 while knowing a whole host of tier 9 to tier 3 martial arts just from winning them from cricket duels.
+
+Also the in game encyclopedia is actually extremely extremely helpful, it literally lists what every stat does, what all the gears in the game do, what all the martial arts in every sect does, etc. Can be a little bit spoilery because it even lets you know what end game rewards the sect side quests give you too and even the activation requirements for said quests.",0.5555555820465088,3,True
+838350,44846446,76561198049385425,"我已经很久没有玩游戏认真看文字剧情了，但是太吾绘卷充分解决了这个问题，短短六章剧情，不仅内容跌宕起伏，而且也教会玩家绝大多数的初级操作。虽然梧桐木和沾血梧桐木居然变成了两个不同的道具（在制作十二机戳戳戳的时候可以看到）有些奇怪哈哈。emm因为自己是做音乐的，音乐方面可能还要下些功夫，民族乐器的bgm配器稍显单薄、但管弦的那个还可以。画风我就不说了好吧，嘻嘻。总体来说是非常值得期待的游戏哦~
+
+I've been used to skipping so many literal stories in a game because they are always boring, however this game, The scroll of Taiwu, totally solve this problem. In the 6 short stories of it, we can both receive fabulous content and most of the tutorials. Of course, there 're some troubles. The first one is a little bug in the tutorial, when Huanxin bleeding on the phoenix wood, this item will become two dif items. And Because I'm a composer, I think the orchestration of the Chinese style bgm should be worked more. Totally speaking, It's really a expecting game!",0.6026647090911865,12,True
+838350,229644815,76561197991609936,"if you expected a game where you cultivate and grow stronger, do not play this game. it's a village management and development game with a cultivation coat of paint.",0.5501858592033386,8,False
+838350,49653315,76561198215525996,"This game should be called ""harem simulator."" I had too many male and female lovers and spreading my seeds everywhere.
+
+-I meet some random guy, we talk a lot, then become friends, and then become lovers.
+-He died because of my recklessness. I felt bad for my character so I try to woo some random women but no luck
+-had another male lover, again. He died again because of an untended wound (gimme a break, I still learning the game!)
+-depressed, trying to seduce characters again randomly.
+-Add some random woman to the party, and we quickly become intimate and spend some nights together.
+-dunno why she can't get pregnant, oh well.
+-Had another companion, this time a male. He was pretty nice, but I got friend-zoned.
+-We three had some good adventures together 
+-One day in another village, I met a beggar woman, I felt bad for her, so I gave her some money.
+-We quickly became friends.
+-This woman continues chasing me like a stalker. Is she like me or something? So, I think, why not become lovers then? I confessed to her, and we quickly became lovers and married!
+-Whenever I go, I take her with me, because if not, she's going to follow me like some kind of maniac.
+-She then got pregnant (I seriously did not notice at this time).
+-Again, I seduce random women whenever I go, meet some ugly woman when I come back to my village, and we become intimate easily (holy shit).
+-Skips some time, my wife gave birth to triplets, then the ugly woman gave birth to twins.
+-All the babies got locked into my party, so I must carry 'em whenever I go (why must the daddy take care of all these babies...?!)
+-wife still in my party, we had a lot an intimate night, the ugly one too when I visited my village
+-Again, my wife gave birth to a son.
+-The ugly one went missing. I dunno where she went. I probably can't stand I keep cheating around.
+-went into another village and befriended all the men and women.
+-Had a crush on some pretty doctor, but she keeps rejecting me.
+-Depressed because I can't get that chick
+-I keep trying to confess to her again and again, but she keeps rejecting me. Guess I failed to add another person to my harem.
+-become sworn brother-zoned by her (DAMMIT!)
+-try to seduce some official, max his/her affection, but again keep getting rejected.
+-depressed because I can't seem to woo people to join my harem. Did I get worse because I kept getting older? Am I getting ugly??
+-meet some random merchant woman, manage to become lovers and become intimate (yis!!!).
+-can't stand my wife because she's a nympho ( no kidding).  I kicked her out of the party. But she keeps chasing me wherever I go.
+-had lots of intimate night merchant women, waiting for my 7th kid to be born.
+
+Everything will be chaos when my kids grow up
+Just hope no Sweet Home Alabama though
+
+please note this game can go endlessly as long as you have an heir to pass the Fuyu sword hilt.
+I still on 1st generation, review might change again later someday",0.6498450636863708,14,True
+838350,169389323,76561197977314742,"我玩了400个小时都不知道到底玩出了个什么所以然。。。。 。。。。
+
+大更新之后，都不知道我在做什么。。。 
+
+而且为什么early access了6年还在develop。。。。",0.5453392267227173,7,False
+838350,108223965,76561197980597313,"Even though I don't understand very much of how this game works, everytime I figure something out it feels like a genuine breakthrough. There's a unique blend of RPG and crafting and city magement simulation that I find to be very unique and extremely captivating. The main loop of combat is fun and the animations are gorgeous. The translation mod team did wonders and I'd really like to see more work on the game itself as well as  an official translation.",0.5447284579277039,3,True
+838350,229843767,76561198011511022,"This is a mixed opinion, really. The game is complex, with a very interesting topic and idea (nurturing your martial artist characters through generations, making them powerful enough to challenge an ancient evil, and in the meanwhile interacting with a living wuxia world complete with cricket fights, poetry tournaments, ancient martial arts manuals, rivalries and romance and fights to the death). It is quite idiosyncratic and peculiar in how it does various things, the interface is very much cluttered, the gameplay can feel like it lacks a direction or like you are living a real martial artist's life, and - most importantly for me - the English translation is the worst official English translation I have ever seen in any game. Heck, fan-translated wuxia novels are leagues better. It is just enough to get by, but a lot of nuance and detail gets lost.
+
+I give it a thumbs up as an encouragement, if the translation doesn't improve I'll have to switch the review to negative.",0.5441089272499084,2,True
+838350,229530421,76561198050275430,"just misses the cultivation vibe for me, gating power behind bosses that require specific builds is just a wild choice imo.",0.5437513589859009,5,False
+838350,122906763,76561198086034192,"Anyways, now that the release version of the game is out, I do have to say the changes overall has gone in the right direction,  and for the most part makes the game more fun, and leave me with high hopes for the future development. I can still see it as Taiwu but alot also changed and had to be relearned. Overall though, the QoL of the game has been imrpoved compared to the atrocious original, art got all around better, and the new combat/martial art/book reading system all seems to be taking things in the right direction.
+
+Make no mistake however, this game is still a game in its EA stage, I have beat 3 of the sword tombs and content isn't significantly improved from old taiwu, just polished or redone. Some of the new addition like the chicken house and multiple travel locations doesnt seem to do much at all. There are many janky balance issues like cricket battle now bringing almost no income (was too high before), you can pretty easily cheese the art competition to rob NPC of items without making too many enemies, etc... But the dev have done a good job in the last few days pumping out updates, if it keeps up, I am optimistic.
+
+As for bugs people mentioned, I have not encountered anything game breaking that can't be fixed by simply exit and restart, but fortunately I am following the path of those who came before as dev seems to be fixing bugs that appear just a tad ahead of my progress. 
+
+Lastly, just like the original taiwu, the ingame tutorial and info is atrocious and will not help you learn the game at all, if you cannot watch a chinese guide video I'd suggest wait until some more guide comes out, even now I am half trying to figure out mechanics, half searching on baidu as I go.
+
+Overall, you traded one EA game with massive potential with a more polished EA game with massive potential, but very much still an EA game. I dont see it leaving EA for awhile, so if you can wait, I'd suggest you do, but if you really want to scratch the taiwu itch after the long hiatus I'd say you will have fun as you always had with the previous version. 
+
+Here's hoping somepeople can get together to do a good en TL like they did with amazing cultivation simulator or Path of Wuxia :P",0.5433449745178223,4,True
+838350,229089430,76561198056647004,"This is a recomended yes BUT...    Its quite expensive for what you get, the game is not even close to a finished product and riddled with bugs and mistranslations. The developers clearly have 0 care for their english players for example there was a bug that made all characters have SurName_299 instead of their name that made it past multiple patches and yet you can easily fix it yourself in 2 seconds by changing the names in notepad, The fact they wont even make such a simple fix to their game proves this. As for the game itself every couple of days there is a huge patchlist of hundreds of bugs they are fixing that even sometimes breaks other things. They clearly do not have any kind of test server and are treating its players as playtesters depite being the 'full release"" the game feels more like an alpha playtest. So this is your warning, the game should be EA based on the state its in. Despite all its flaws the game IS fun. Travelling the land gaining support and powering up standard wuxia fantasy type sht. Emergent story with NPCs interact with each other and yourself in various ways based off their natures if you feel like roleplaying it. If you have the patience to learn all the games systems and deal with the clunky UI and bugs you will be able to have a lot of fun with it.",0.5416666269302368,3,True
+838350,89029042,76561198328972621,"The game is such a jerk! The picture art sucks and game flow repeated over and over again.Don’t sell waste semi-finished products that have not been designed！！！！！
+真的是不行，1. UI界面设计得就像喝多了，无快捷键，全靠鼠标点，游戏体验差的一比！
+2.游戏性更烂，斗蛐蛐过程中只能看还不能跳过，跟昆特牌完全没法比，毫无操作与亮点。门派功法就是无限拿时间拖进度条，
+国产游戏支持了很多，这是第一次写差评，之前都是能忍就忍了，许多内容根本不硬核，也不复杂，而是为了冗余而冗余，硬核复杂与沆长冗余的区别就是，前者侥幸完成后觉得惊险而刺激，而后者完成后只觉得恶心与反胃，EA阶段不是反人类的设计的借口，硬核深奥永远不等于恶心反胃。",0.5409002304077148,8,False
+838350,70018341,76561198007193766,"I have long been a big fan of Hong Kong Kung Fu  Movies, RPGs, and Videogames, but this graphically understated, yet evolvingly complex world of multi generational Wuxia takes the sweep of Monkey Journeys West, One Armed Swordsman,  Drink With Me, Enter the Dragon, Snake in Eagle's Shadow, and Crouching Tiger Hidden Dragon and puts them in a 4k village sim twist. Highly Recommended... Wish I read Chinese.",0.5906181931495667,14,True
+838350,228770755,76561198125988667,"Not much of a sandbox game and more of an RPG where your choices don't even matter. You can't role-play as anyone other than the guy who is supposed to save the world. 
+ 
+Tons of systems that, at first glance, make you think it is a very deep and complex game but as you play more you realize all of them are as superficial as it comes.
+
+The UI is non-intuitive and most of your early hours will be spent trying to find something you know is in the game only to find it in a menu that seems completely unrelated.
+
+But I do think the English translation is very good. Way better than what I'm used to seeing in Chinese games.",0.5394063591957092,5,False
+838350,98211201,76561199031992902,Now if you are thinking whether to buy this game due to some of the negative reviews. I suggests you look at the reviewers' play time. Even the haters have played the games for 200-300+ hours! LOL. haters are indeed your biggest fan.,0.5885452032089233,10,True
+838350,229049241,76561198095439777,"Steam says that I played this game for 4 hours, but I've actually been reading the in-game guides for 4 hours, and I've barely scratched the surface. This game is mind-bogglingly deep.
+
+My early feedback is that the English translation is far from perfect, and some interactions are so cliche that I'm left wondering if these guys are for real, or if they tried to mock the tropes by being over the top cliche.",0.5384615659713745,2,True

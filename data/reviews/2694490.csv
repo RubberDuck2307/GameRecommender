@@ -1,0 +1,1337 @@
+appid,recommendationid,author_id,review,weighted_vote_score,votes_up,voted_up
+2694490,182280270,76561198114165995,"truly awesome game! I'm 42 and this game really brings back the feeling I got when I first played Diablo 2. The dark grim atmosphere, the difficulty, the beautiful voice acting and subtle feeling of dread! Truly an honor to be alive to play this game!",0.9269654750823975,1075,True
+2694490,194027025,76561198033267307,"This review is for those with experience playing Path of Exile 2; new players are encouraged to play the game to develop their own opinions.
+
+To be clear, Path of Exile 2 has the potential to evolve into something great… the greatest ARPG ever in fact. Even small design shifts like the introduction of a dodge roll have added substantial tactical depth to the gameplay. But despite these improvements, the game’s publicly stated design philosophy is increasingly at odds with the actual gameplay experience. 
+
+GGG has repeatedly insisted that PoE2 is meant to be slower and more deliberate. That’s a fine vision; but in reality, endgame mapping and enemy speed blatantly contradict this claim. The pace remains just as frenetic as it was in PoE1 and there’s just as much onscreen effects which can make it exceedingly challenging at times to even know what’s going on. If the intent was to slow things down, then loot distribution should have been adjusted to match. It hasn't been. On the contrary, this current iteration has made currency even more scarce, doubling down on grind without commensurate reward. The trade system? Still a disaster, faithfully carried over from PoE1 with all its archaic inefficiencies.
+
+GGG seems unwilling to internalize a lesson that should be fundamental by now: punishing gameplay is not the same as challenging gameplay. Many systems are saturated with negative modifiers that drain momentum and morale rather than inspire mastery. Nowhere is this more obvious than in end game mapping, where stacking mods can paradoxically make a map less playable due to sheer mechanical overkill. Several mods outright mean that if you luck into the wrong map suffix you will automatically be throwing that map in the trash (I’m looking at you temporal chains).
+
+Yes, the game is in early access, but GGG seems to have misunderstood what early access is for. It’s supposed to be a testing ground, a sandbox for players to explore systems, theorycraft, and search for broken interactions. In a  game that’s loot dependent, that requires access to resources. Instead, loot is miserly. I constantly run over 100% magic find and still see abysmal returns. Divines are rare. Exalts bizarrely drop more often than Chaos, Regals, or Alchemy orbs. Orbs of Annulment or Chance? Nearly mythical (I say this after playing for over 420+ hours).
+
+Crafting is nonexistent in any meaningful form as the entire system has been reduced to pure gambling. The tools are there and were shown to work in PoE1, but in PoE2 there’s no actual semi-deterministic crafting so experimentation dies on the vine. 
+
+Defense stats in PoE2 remain deeply imbalanced. Armor is still underwhelming, scaling poorly in the face of high incoming damage. Evasion is serviceable. Meanwhile, energy shield continues to dominate across most content. This persistent asymmetry undermines build diversity and reinforces a stagnant meta. This is further exacerbated by the aforementioned lack of currency and crafting, which often leaves players stuck if they’re not wealthy enough to regear their characters in a different manner.
+
+The Trial of the Sekhema is one of the more baffling screwups in the game. The central mechanic, an “honor” meter that diminishes when you’re hit, actively punishes entire archetypes of play. Builds that rely on taking damage as part of their identity such as anything melee related, thorns-based, armor-heavy, or self-damage synergies, are effectively penalized for functioning as intended. The concept of ""honor"" in combat might make sense thematically, but from a gameplay perspective it's incoherent. “Oh but honor isn’t an issue if you stack honor resist”, ok, stacking “honor resist” is a lazy workaround, not a solution. “Well you can do the Trials of Chaos then”, sure, let’s talk about the ToC.
+
+The Trials of Chaos continue the trend of stacking punishment under the guise of difficulty. Layer upon layer of negative modifiers are applied to both the player and the environment, creating scenarios where success often feels less like a result of skill and more like surviving Jonathan’s spite. Once again, the issue isn’t that the trials are difficult, it’s that GGG confuses misery with difficulty. These trials don't challenge a player's decision-making or adaptability so much as test their tolerance for suffering. Some of the modifiers will 100% of the time be a death sentence, which is ridiculous for a game mode that demands you run a gauntlet.
+To reiterate: punishing gameplay is not the same as challenging gameplay. And until GGG takes that distinction seriously, much of the game's potential will remain unrealized beneath the weight of its own contradictions.
+
+And then there’s the death penalty: a flat 10% XP loss. It’s an outdated design relic that punishes players disproportionately, especially in a game this unstable. The optimization is rough; CPU usage spikes inexplicably, screens freeze, and enemies with invisible on-death effects can wipe you before you even register the threat. The game already limits player through currency scarcity and map restrictions, why stack another misery mechanic on top of it all? Literally nearly every one of my high level deaths has been due to the game freaking out and freezing for a split second at the most inopportune times. This is the mechanic that makes me rage quit. This is the mechanic that makes me put the game down and leave it for extended periods of time. This is the mechanic which makes me rethink spending money on stash tabs, cosmetics, mystery boxes, etc.
+
+Let me be absolutely clear here: the XP penalty is not just frustrating, it’s demoralizing. It actively discourages continued play and reveal a fundamental disrespect for player time. Once you hit the late 80s or early 90s in level, even fully juiced maps roll several levels below your character level, making XP grinding a slog. Combine that with PC performance issues and what you’re left with is a bad experience. And yes, I can already hear the diehard fanbase trotting out the same tired defense: “There have to be consequences, otherwise people will just spam content and they won’t learn how to get good.” Sorry, but no. That argument falls apart under the most basic scrutiny. Players can’t spam the same content; maps are gated behind RNG & limited runs. The system itself is already self-limiting. You don’t need an additional punitive XP penalty to “preserve challenge”; you need a well-balanced game that respects player time and rewards effort instead of eroding it in a hot instant.
+
+Things I would like to see:
+• Campaign Skip After Completion
+Once a player has completed the campaign, they should be allowed to skip it on subsequent characters. 
+• Make the Remaining Campaign Choices Reversible
+In both Act 3’s, characters are forced to make two decisions regarding stats that are currently permanent. This design is incoherent, especially given that ascendancy choices can now be changed freely. Please allow these decisions to be changed as well (Let Doryani be the interface to make the changes).
+• League Character Imports
+The requirement to re-run the campaign for each new league or character is, again, tedious. A solution could involve importing characters back into a new league; either starting fresh at level 1 or with a baseline (e.g., level 60 with 500k gold and access to early maps). 
+• PoE1 Atlas Skill Tree
+The Atlas passive tree in PoE1 was amazing. The current iteration in PoE2 is by comparison a poor imitation. Bring back that depth!
+• Boots: movespeed is necessary, so make it an implicit
+• An Actual Early Access Philosophy: Treat the current state as a live experiment, not a soft launch. Be generous with currency, unique’s, and loot bases (hell let Ketzuli have another few tabs that just sell white bases), focus on testing systems rather than preserving some arbitrary economy that can easily be reset or wiped.",0.9079309701919556,1599,False
+2694490,182936769,76561198025265695,"I did not like PoE1. Got very overwhelmed with the skill tree and had to watch a bunch of explainations on YT to understand anything.
+PoE2 is MUCH more accessible and fun. Bosses are clean. Maps, environments, and abilities look great. Skill tree is much easier. 
+This game is great if you are a normal functioning human with a job and don't have to spend 4 hours to know wtf everything does. 9/10",0.8993268013000488,633,True
+2694490,182507808,76561198306141620,"I'm nearing the end of Act2 and I am loving this game. Finally an ARPG where I have to think about what I'm doing and not just mindlessly melting hordes of enemies. I have played and enjoyed a few other popular ARPGS, but they always just felt like clicking simulators at the end of the day. 
+
+I like that I die every now and then in POE2 against swarms of normal enemies, or need to take a few attempts to clear a boss. It gives the game some challenge and makes it feel more cerebral.
+
+This game feels like it was made for real gamers. I don't smell corporate greed at every turn. It seems like their game design and philosophy respect real gamers who are sick of the diluted AAA experiences the large companies are trying to force. 
+
+The graphics, animation, and soundtrack are all top notch for the genre. I would highly recommend giving this game a chance in Early Access or in it's full launch. 
+
+Great work GGG!",0.8963087797164917,609,True
+2694490,230731037,76561198215591648,This game is gas but PLEASE make the 4k textures a separate download/optimize the storage. Other than that so much fun,0.8861525058746338,146,True
+2694490,182593366,76561198001366665,"Pretty similar to the first game, but now you can PAUSE — perfect for when your cat jumps on your keyboard mid-chaos!",0.8818573355674744,326,True
+2694490,187091995,76561198039412230,"It pains me to write this review but I have no choice. 
+
+Right now, the game is not worth your time. Why? Because it OPENLY disrespects your time. I have over 700 hours, and let me be honest, I would say at least 500 of those hours feel like a complete waste. The campaign is just great. Extremely punishing, stupid difficult, but overall pretty fun. The gameplay does feel slow and methodical, and the bosses are a solid blend of challenging but doable. 
+
+However, when you get to maps, and then as you push through beyond level 85 (I made it to level 96), the game becomes completely different. It's much less methodical, everything either kills you instantly or you kill it instantly, and there is virtually no in-between. There are like 5-6 builds that are mandatory to progress, so build-diversity is zero. 95% of the uniques are completely and utterly worthless. And worst of all, every death comes with such an OVERWHELMING amount of punishment, that your literal life force as a human will be drained. Beyond level 70, you lose 10% XP per death, which is absolutely INSANE beyond level 95. Every death will wipe DOZENS and eventually HUNDREDS of hours of character XP progress. It got to the point where every death was an instant log off and do something else moment. You lose, the map, you lose the node modifiers, you lose all the loot on the ground, and you lose 10% XP. I have never before experienced a game so punishing with every death. 
+
+In its current state, the game is simply NOT fun beyond the campaign. Every moment is so stressful because the amount of stupid 1-shot mechanics with zero telegraph or counterplay is just insane. So many deaths you won't have a CLUE what killed you. And again, keep in mind the cost of every death. This combination makes the game essentially unplayable. 
+
+I am hopeful for the game's future. But for now, I am out.",0.8807220458984375,1684,False
+2694490,225522079,76561198110663983,"Installed the game: “Wow, this looks incredible.”
+
+Reached first boss: “Okay, cool mechanics.”
+
+Died 14 times: “Fair enough.”
+
+Opened the passive tree: “What in the doctoral thesis is this?”
+
+Found a new weapon: +5% stun duration against enemies that are on fire during a lunar eclipse
+
+My current build:
+
+* emotionally compromised
+* rolling constantly
+* surviving on vibes
+* somehow scaling poison, lightning, and regret simultaneously
+
+Meanwhile the game: “You have insufficient spirit.”
+
+Brother I have insufficient will to live.
+
+Loot system:
+
+* kill ancient horror from beyond reality
+* receive: sandals
+
+Every boss fight feels personal.
+Every respec costs the GDP of a small nation.
+Every veteran player explains mechanics like they’re teaching quantum physics.
+
+And yet … After 6 straight hours of suffering:
+
+* boss finally dies
+* health bar at 1 pixel
+* hands shaking
+* garbage loot drops
+
+10/10.
+See you tomorrow.
+",0.8786646127700806,1393,True
+2694490,182552481,76561198100643498,"Now, let's address the elephant in the room first: Yes, this game is difficult.
+If you like games where you can breeze through and be done in 20 hours, this isn't a game for you.
+
+However
+If you like a challenge
+if you like the feeling of accomplishment when you kill a boss
+if you don't mind getting stuck into the skill tree to figure out where to go with your character
+then this is most definitely the game for you!
+
+P.s. I'm a 61 year CRPG gamer.
+Aside from a few hours of the original Diablo, I have NEVER played an ARPG...and I'm having a blast.
+If an old fart like me can succeed in this game, you can too :)",0.8785193562507629,583,True
+2694490,193464910,76561198076256067,"I'm a player that has reached T15s on day 2 of both leagues, gotten multiple 90s and multiple mirrors worth of currency and gear, so I've played this game a lot. I want it to improve and do well, and I believe it still has the potential to be great IF the developers get their shit together. 
+
+HOWEVER, in its current state I cannot in good faith recommend it to anyone. 
+
+NO VISION AND DIRECTION:
+The developers don't seem to know what they want for this game. They want it to be ""meaningful gameplay"" that is different from POE 1, so they slow down character speed, but they took the steroid mobs and mechanics from POE 1 like breach and delirium that favor kill speed. Why would I use your slow ass combos that take a year to set up when I'm being swarmed by hordes of enemies that bum rush me at the speed of light? If you don't want it to be like POE 1 then stop copy pasting shit from it then.
+
+ILLUSION OF CHOICE/ LACK OF DIVERSITY:
+Their passives and supports have too many negatives and conditionals. Everything has a cost. On paper, there are a lot of builds and paths to explore, but in game there's actually not that many, unless you want to play very sub-optimally and struggle even harder.
+
+NO LOOT, NO CRAFTING:
+""Path of Exile 2 is an Action RPG which is all about making powerful characters and getting epic loot."" What loot? There's no loot and no crafting. You just pick currency and buy gear from others. Crafting is nothing but gambling, there's no player agency. It feels incredibly unrewarding and unsatisfying.  Not to mention trade league economy being ruined by bots and price fixers. Play SSF you say? Good luck gambling for your loot there.
+
+NO FUN
+End game just feels like such a slog. Mapping feels like a slog. Setting up their shitty precursor towers before mapping feels like such a slog. Games are supposed to be FUN not so fucking tedious and boring. I don't understand why they didn't seem to learn anything from their 10 years of running POE 1. It actually feels like they took a few steps back.
+
+TLDR: Tedious and confused mess with no idea what kind of game it wants to be. NOT FUN.",0.8709239363670349,1258,False
+2694490,182113174,76561197968087513,"I've played 2000+ hours of Path of Exile 1. There was a real chance this game might not have been for people who like PoE1, but I like it better. The slower pace allows for decision making, in a meaningful way - there has been a lot of thought and design that's gone into ""what is a modern ARPG"" here that's come out of hard won knowledge making PoE1, not from guessing or momentum from the first game.
+It's early in the game's life (and my time with it), but a lot of my gripes from PoE1 have not come over to the sequel. PoE often felt like a game about making a build and playing the game was just an equation to see if you were right in how you made the build, rather than playing that build being fun. We will see how that goes long-term, but for now, it feels like a game again.
+(and I've always been here for the lore, they do a good job despite the genre fans really not appreciating it)
+
+20 hours: Completed the Act3 story, took my time - if you like the lore, it's good! Gameplay is damn solid and continues to be fun, let's see how Cruel and Endgame treat me. This is early access, they WILL be blowing up builds with balancing, so don't bitch about it. It's what early access is for you thimby toves.
+
+48 hours: Completed Cruel, it's neat how they changed up act3->Cruel and then Cruel->endgame. 
+
+Current (120 hours): Endgame is a bit lacking. Little things (like not being able to mouse over tooltips on the atlas but once an area is selected, those tooltips work) and big things (standard PoE scaling resulting in one shots without being able to tell it's coming, If you die it eats all your portals for the map (why have only 6 if it's for looting only?),  crafting being pretty sparse aside from orb spam) are a problem for endgame right now, but it's early access. Plenty here to play, and maybe fair to just try new builds rather than grind out current endgame. Not much guidance for endgame questing or directing you towards mechanics to hit bossing, either - I expect it will all come, but currently not there.
+
+190 hours, patch 0.3: Endgame is changing quite a bit. I hope they vary up the leveling process, because playing through the same story killed PoE1 for me - it's boring, it was a kludge in Diablo and following games, it remains that way. They need to inject new gameplay and something to occupy you, not just numbers go up and catering to no-life streamers. I remain optimistic, because the new act is interesting and an interesting structure for being able to inject changeups into the leveling process",0.8632577061653137,252,True
+2694490,184036603,76561198005951873,"Every time I start doing good in the endgame the game reminds me that I'm trash, that my build is trash, that I'm a garbage player, failed husband and father, and that I should be fired from my day job.
+
+10 out of 10, would recommend",0.8630821108818054,271,True
+2694490,226834743,76561198052925888,"I don't recommend this game purely because of the support that is GGG. Bought the game a few months ago, but didn't really enjoy it at the time and refunded it. I only played for 48 minutes at that time. Bought it again at 50% off this weekend, tried to log in and my account was locked. 
+
+Contacted GGG support, they said it's locked because of an unauthorized refund and apparently this counts as stealing from them. I contact steam support, they confirm that the refund was legitimate and since the ban was a outside of steam and through GGG's system, they can't do much. 
+
+I contacted GGG support yet again and am met with silence. 
+
+If refunds through steam are counted as ""unauthorized refunds"" then perhaps you shouldn't have steam be able to issue refunds on your behalf. 
+
+If people are exploiting premium currency by buying the game and then refunding, maybe YOU should have some exploit fix in place and not punish innocent/unknowing players for this.
+
+I am glad Steam has decent refund policies for instances like this.",0.8628633618354797,4849,False
+2694490,182116441,76561198867177080,"Great new update
+The new classes and changes to the endgame feel amazing
+
+If you are just playing the game for the campaign, 1.0 should turn out really well if the current story additions are any indicator.
+
+Apart from all that, best arpg ever made
+Perfect and keeps getting better each league
+Has great controller support and most skills feel very impactful
+
+If you actually let your creativity run free and make your own builds, there is really no other game that can match how satisfying the early leveling experience is",0.8596614599227905,268,True
+2694490,198988112,76561197983667638,"I’d purchased Early Access under the impression that this game would scratch a longstanding itch—which is to say that while there has been, in my mind, a trend of oversimplification across games of several genres, this one would offer depth and meaningful character-building.  Whereas other games gave (and continue to give) merely an illusion of choice, PoE2 would allow me to lose myself in all the different possibilities its system would offer.
+
+For the duration of version 0.1, the game met those expectations.  The campaign was (and still is) 200% more time-consuming than it needs to be, but I found a very fun and comfortable endgame loop: run some maps, tinker with my build, maybe find a different mechanic or ability to explore, maybe change my build entirely (which likely entails re-gearing), rinse, repeat.  I brought four characters to level 90+, thoroughly fascinated by what each of their classes brought to the table in terms of distinctiveness—and intrigued further yet by what magic sometimes happened when, say, I took one class’s ostensible predispositions and superimposed them on some aspect(s) of a different class’s identity.  This constituted a freedom rarely seen anymore in character-building systems.
+
+And then it was gone.  The 0.2 update saw an end to all of that by way of imposing arbitrary limits to the skill tree; the developers saw what they labeled as overpowered builds, and instead of fine-tuning the numbers/skills/options to rein in those builds—or, indeed, enabling [i]other[/i] possible builds to reach the same heights—they gutted the system.  (baby:bathwater::fun:unbalance)  Now, as with seemingly every other game, there’s merely an [i]illusion[/i] of choice; while the skill tree is large and visually full of possibilities, there are only a few and finite number of viable ways to play a given class.
+
+That has been my primary gripe since the 0.2 update, but the game is imperfect in other ways.  (See: the numerous other negative reviews here; see also: the complaints on the GGG message boards.)
+
+[b][i]“Bro, the game isn’t done yet.”[/i][/b]
+
+
+^This is a frequently touted rejoinder to criticisms of the game, and while it’s very true that the game is still in Early Access, this trite remark does not take into account what has happened.
+
+Imagine you’re watching a baker of some renown prepare a cake for you.  You’ve already paid for your share of the cake, and you—like the many others who have invested—intend to eat your own share.  This master baker creates the batter with some basic ingredients: flour, eggs, milk, sugar.  He throws in some cinnamon, vanilla, maybe something more unconventional, like miso. So far, so good.  Then he throws in some dogshit, shredded cardboard, and ground horseshit.
+
+“The cardboard is an interesting choice,” a fellow customer says.  “But can we forego all the shit?”
+
+The baker waves a hand dismissively.  He says, “The feces is part of the vision.”
+
+“Bro,” another customer says.  “The cake isn’t done yet.  Let the man cook.”
+
+Oh, he’s absolutely right: the cake isn’t done yet.  [i]But the baker has intentionally just thrown shit into the batter.[/i]
+
+
+As far as I can tell, the “vision” GGG is pursuing is the much-maligned, never-much-played “Ruthless mode” of PoE1.  I wasn’t around for PoE1; I had to read about this failed experiment more recently.  Arguably, I played its most recent iteration.  I don’t like it.  I love a challenge, but that’s not what this game is.  On a fundamental level, this speaks to a core issue with the game’s current state: the developers appear to have conflated [i]challenging[/i] gameplay with [i]annoying[/i] gameplay.  After having wasted so much time on player trades that ultimately fell through, I see the lack of an auction house as the best example.  The game’s archaic trade system has players manually reach out to other players for gear the latter have made available for sale; far more often than is reasonably acceptable, trades fall flat.  From what I understand, the “vision” prescribes some measure of “trade tension”, the expectation being that a player feels a greater sense of relief(?)/elation(?)/accomplishment(?) when a trade successfully results in a gear upgrade—absolutely ludicrous.  See also: excessively large maps, experience loss on character death, extreme scarcity in useful loot, invisible one-shots, etc, etc, etc.  In keeping with this design philosophy, they could make players solve a prolonged series of CAPTCHAs before they’re allowed to log in: fire hydrant, crosswalk, bus, bus, motorcycle, fire hydrant, fire hydrant, traffic light, bus, bus, bus, bus, bus, bus, motorcycle…  Pass the images through a dark fantasy filter and boom, “challenging” gameplay!  
+
+The bottom line is that GGG is making this game as slow and as cumbersome and as otherwise artificially “challenging” as its player base will allow.  If that’s your jam, then shit, more power to you.  Me, I can’t recommend this nonsense—even after all the time and money I’ve put into it.  [i]Especially[/i] after all the time and money I’ve put into it.
+
+Reader, I uninstalled it.  I’ll likely check back every now and then, though to be clear, the bullshit present in the game is there [i]by design[/i].  Maybe we’ll see something closer to 0.1 after the dust settles, but I’m nearly certain we will not.",0.8538959622383118,818,False
+2694490,227063357,76561198286586959,"Path of Exile 2 delivers deep character customization, challenging combat, and a much stronger campaign experience than most action RPGs. The visuals, boss fights, and skill system are impressive and rewarding for players who enjoy experimenting with builds. However, the game can feel overwhelming for newcomers, and some progression and balance issues are still noticeable during early access. Overall, it’s a very promising ARPG with excellent gameplay depth, but it may require patience and a willingness to learn its complex systems.",0.8525529503822327,328,True
+2694490,192177005,76561198871349471,"0.2.0 review
+
+Market a large part of your 0.2 update promotion & hype around Huntress & the new spear skills, while hiding almost all the info on support gems from players until launch
+              ↓↓↓
+Release it with only 2 spear skills feeling remotely comfortable past act 2 due to the level scaling, leaving the rest of the class extremely undertuned and feeling horrendously bad, to the point where auto attacking bosses was unironically doing more damage than the skills themselves.
+              ↓↓↓
+Introduce a parry mechanic that's completely horrible outside of bosses (not even worth it on them either), as not only do you get 3s stunned if you parry too much, but in groups you parry one enemy to then get hit by 6 more.
+              ↓↓↓
+Make the game permanently feel like a dark souls game, but instead of fighting 1-2 enemies at a time, you're weak as hell and fighting packs of 10-15 at a time, and all you're left with is the wish.com version of a dodge roll
+              ↓↓↓
+Watch 90% of people reroll their character (and for more casual players, just simply quitting lmfao) due to how insufferable campaign is on the character if you aren't using the only 2 spear skills that actually do anything.
+
+The actual content updates are great, but unless you're wanting to play one of the very limited meta spear builds, you'll be miserable in acts 3-->6 trying to actually play with majority of spear skills. And even after 2 days to be able to theory craft and come up with good campaign builds, it's still the same miserable experience getting to a point where you can actually utilize those builds.
+
+And that's only talking about Huntress. This doesn't get into the fact that they made the game itself extremely slow, very similar to Ruthless in poe 1, where difficulty was raised a lot and drops became very scarce. But instead of it being a mode, it's just now the entirety of the campaign.
+
+GGG wants to push more combo heavy builds that require multiple skills to succeed, rather than 1-2 button nukes, which is perfectly fine, but can't happen if groups of 10+ mobs are running at mach 10 while you're stuck in a 300 year animation to just use 1 ability.
+
+Even with them coming out with an immediate patch that nerfs monster health during campaign, due to the sheer amount of character wide nerfs, it's like putting a bandaid on a limb thats been torn off, it still feels horrible and the pacing between characters & mobs is completely off. 
+
+The game is still great, but they're making horrid decisions that absolutely no one asked for. Nerfing the unintended interactions or broken items/builds was needed, but did not have to bleed into nerfing the entirety of the gameplay, while not taking into account how enemy scaling would feel. 
+
+endgame gameplay/content updates = good 
+Campaign experience + class updates = horrible",0.8521983623504639,1348,False
+2694490,182239429,76561198067002702,"I'm greatly enjoying this game. 
+
+One of the most common comments i see around here and on Reddit is ""the pace is too slow"" and ""the game is too difficult"".
+""Slow"" and ""Difficult"" are indeed two true adjectives but they are not necessarily too much in my opinion.
+
+I love having big maps and taking my time to carefully maneuver enemies as they are more threatening than it's predecessor, where even from the start you could 1 or 2 click clear the screen out of them with little to no effort. 
+
+I love the game being slower paced and handling you resources you can eventually learn and rightfully implement in your arsenal rather than having everything shoved down your throat in a couple hours.
+
+I love the QoL changes such as being able to refund passive points without needing to reroll a character or passing hours on the internet looking for the perfect build to follow religiously.
+
+This is exactly the type of arpg i was looking for: tactical, dangerous, sober. If you love having your screen flash and moving at mach 300 while dropping nuclear bombs for free, you can stick to PoE1. Let us Dark Souls/Monster Hunter enjoyers savour this one.",0.8488487005233765,400,True
+2694490,192831624,76561198209442295,"Game is a joke.
+
+-Removed all fun from the game in pursuit of the ""vision"".
+-Loot is nowhere to be seen, from items to currency.
+-Massive amount of skills, all but a few are literally pointless.
+-Massive amount of support gems, all but a few are literally pointless and the few good ones have negatives...fun.
+-3 second stun should never have made it past the idea phase.
+-Combo gameplay will never be fun in an ARPG so stop pushing it.
+-Running around an area for 30 mins with nothing to do but look for the exit is not fun.
+-I understand they need to sell cosmetics, but the prices are an absolute joke.
+-Refuse to implement a player marketplace, which would solve all issues to do with trading. (Like every other game has lol)
+-Servers are so bad its actually funny. I understand there is an ongoing DDOS attack right now but there is 0 reason or justification for your disconnects to roll players back and remove progress from them. Remember every input is tied to servers so high ping = input lag. Meaning everything you do up until it disconnects you is being sent to the server perfectly fine... So why the rollback? That's a DC compensation issue, fix it.
+-Moderators on Reddit are removing posts to do with the disconnect rollbacks, along with many other negative subjects. Ask me how I know... absolute softies.
+
+Bored of typing things out now, I'm going to go watch paint dry because its more fun than talking about or even playing this game. Absolute shambles.",0.8470370173454285,1859,False
+2694490,217703302,76561197985798702,"[b]Path of Exile 2 has the potential to become one of the best action RPGs ever — but right now, in early access, I do not recommend buying it.[/b]
+
+I’ve played PoE 2 for over [b]1,000 hours[/b] in its first year of early access, and I don’t regret the time — but the experience has been increasingly frustrating, and in its current state I don’t think it’s a fair or stable experience for new players.
+
+[hr][/hr]
+
+[h2]Economy Is Not Optional[/h2]
+
+PoE 2 is a game that — in my experience — can only be enjoyed properly if you meaningfully participate in the in-game economy. To do that effectively you need premium stash tabs and especially AFK shop tabs. Without them, trading efficiently is difficult, risky, prone to scam attempts, and time-consuming.
+
+Community creator GhazzyTV once described Path of Exile as:
+
+[quote]
+“Free to try, not free to play.”
+[/quote]
+
+That still applies to PoE 2.  
+Meaningful economy participation costs additional money.
+Plus, PoE 2 early access costs money straight away! It will only be [i]""free to play""[/i] on full release.
+
+[hr][/hr]
+
+[h2]Fate of the Vaal – Economy Collapse[/h2]
+
+The most recent Fate of the Vaal league exposed how fragile the economy can be. A new league mechanic — the Temple — was poorly balanced at release, and an abrupt rewards increase just before a holiday break caused massive inflation. By the time GGG returned and patched the situation, many players were so far behind they could no longer participate meaningfully. A league intended to last ~4 months became effectively unplayable after about [b]1 month[/b] for a large portion of the player base.
+
+GGG did not:
+
+[list]
+[*] Roll out a patch quickly  
+[*] Reset the economy  
+[*] Roll back progress  
+[*] Punish exploiters  
+[/list]
+
+The situation was justified with “it’s early access.”
+
+Technically true. Practically devastating.
+
+[hr][/hr]
+
+[h2]Community Response Says Everything[/h2]
+
+The community organized and crowdfunded a private league called:
+
+[b]Second Wind: Fate of the Vaal[/b]
+
+[list]
+[*] ~51,000 total slots  
+[*] ~48,000 registered players  
+[*] One of the largest private leagues in PoE history  
+[/list]
+
+Tens of thousands of players voluntarily paid to join a community-run reset league because they wanted:
+
+[list]
+[*] A fresh economy  
+[*] A fair start  
+[*] A playable league  
+[/list]
+
+That level of participation speaks louder than any forum post.
+
+[hr][/hr]
+
+[h2]There Are Good Things[/h2]
+
+To be clear:
+
+[list]
+[*] Combat feels good and challenging  
+[*] Build depth is promising  
+[*] Core systems have real potential  
+[/list]
+
+But none of that matters when:
+
+[list]
+[*] The economy can collapse without proper measures taken by GGG
+[*] Exploiters go unpunished and are incentivized to always look for new opportunities to break the game for everyone
+[*] Progress becomes meaningless due to developer negligence  
+[*] Player time investment isn’t protected  
+[/list]
+
+[hr][/hr]
+
+[h2]Final Verdict[/h2]
+
+I believe PoE 2 can become something special, maybe even the best action RPG so far.
+
+[b]But right now: I do not recommend buying Path of Exile 2 during early access.[/b]
+
+Wait for later development stages when economy handling, balance processes, and player-time protection are clearly more mature.
+
+I expect — and hope — to change this review in the future.
+",0.8372706770896912,412,False
+2694490,203875186,76561198115023050,"I want to be clear: the gameplay itself can be very enjoyable, and I was looking forward to investing a lot of time into it. This review is not about the game, but a serious warning about the company's punitive and deeply flawed customer support that is now preventing me from playing the game I paid for.
+Here is what happened:
+Months ago, I bought an Early Access pack and refunded it via Steam because it was too buggy at the time. A standard, legitimate action.
+After major updates, I came back and repurchased the game in good faith, and have been playing since.
+My account was suddenly locked. Support informed me that their system had failed to remove the in-game currency from my initial refunded purchase, and I had spent it by mistake. In their first email, they accused me of ""stealing.""
+I immediately offered a fair solution: I told them to remove all the items and currency from my account, or even do a full account reset, wiping all my progress. I just wanted to correct the mistake and play the game I had legitimately repurchased.
+Their response? After a week of being locked out and my ticket being ignored, their final, unchangeable demand is that I must pay for the supporter pack a third time to unlock my account.
+This is a warning to any potential buyer. The game might be good, but if you ever encounter a system bug or a clerical error on their end, you will be treated like a criminal. Their support is inflexible, accusatory, and will hold the product you paid for hostage rather than accept a common-sense solution.
+TL;DR: The company locked my account due to their own system's error, accused me of theft, ignored my fair offers to fix it, and are now holding my paid-for game hostage until I pay them a third time. Absolutely cannot recommend.",0.8321864008903503,519,False
+2694490,182454538,76561198126989657,"Amazing, what it should be, just like in Diablo 2 Lord of Destruction days. Its hard, its fun, the loot is rare, which is nice not having to upgrade every 4 minutes and loot manage, I'm looking at you diablo 3 and 4.... This is the game I've been waiting 15 years for. 
+
+Already played 51 hours, my eyes hurt, my back hurts, but my heart is happy! <3",0.9314248561859131,1300,True
+2694490,188532178,76561198050570492,"TLDR 
+
+The Good -
+The campaign story is fun and interesting
+The boss fights are a lot of fun
+The artwork and visual effects are gorgeous
+The skill tree offers a lot of flexibility pre-endgame
+
+The Bad -
+The game design has no respect for your time once you reach the endgame
+The punishment for death past 70 costs you exponentially more of your time the higher your level
+Ascensions are boring and can cost you hours of your time
+Ascensions should be something that supports and helps enable your progress through the game but currently it is the opposite
+The gameplay past the campaign is a stale grind
+Crafting is a joke and not worth your time unless you just really enjoy gambling your resources
+The economy is awful and seems to show no signs of improving
+The marketplace requires that you buy a special inventory tab in order to post items for sale
+The marketplace system can be a massive time sink when trying to make a purchase
+Unique items are 99% garbage but they will sell you a tab for real money to “collect” them in
+Cosmetics cost more than a new outfit in real life
+The game design is rife with mechanics that encourage the player to spend money on inventory and then hinder the player if they choose not to do so
+Endgame builds are not as flexible and interesting as they could be and you wind up cornered into a few select options if you wish to clear maps quickly which is literally all the endgame is
+
+
+
+I really enjoyed the campaign gameplay, story and the flexibility of how I could build my characters. This continued until around level 70 when I finished the last of the campaign and started the mapping grind. Once I started the endgame grind I figured this would be when I started being able to really min/max my character, experiment with builds and really dial things in gear-wise. Sadly this was not the case, instead I started to discover just how many little (and sometimes not so little) time sinks have been designed into the game. Everything, inventory management, UI/UX design, buying/selling items, building up enough currency to buy items, finding citadels on the map, literally every aspect of the game’s design is engineered to hold your time hostage and then for some of it they offer to ransom it back to you for real money. Some will argue that you can play the game without spending a penny and they would be right, you can. However the game is specifically designed to make that choice hamper your gameplay in every respect. 
+
+Beyond the design elements that attempt to ransom your time back to you there are elements that just unapologetically thumb their nose at it. For example player deaths and the 10% XP loss. At level 70 this is no big deal and you won’t think much of it. Once you reach the upper 80s and into the 90s you are going to start losing hours and hours of gameplay and it just gets exponentially worse. For me this was most common when mapping with friends and 9 times out of 10 I wouldn’t even be able to see what killed me and maxing out resists does not guarantee you won’t still get one shot by something you never even saw coming. The level of visual noise is so incredibly high that it just isn’t possible to see everything that could kill you. I can live with it when it is my mistake and I just got lax. When the player is not given the opportunity to try and avoid it then it becomes a design flaw.
+
+Player to player item sales early on were ok, it was quick, efficient and most players were polite enough to let you know if the item you DMed them about was currently being sold so you didn’t waste your time waiting on them to respond. Over time a shift took place and people stopped communicating and the process became a lot of refreshing the page waiting for the market to update so you could see if they sold the item to someone else. Instead of being able to just pay an intermediary system this system requires the player to be online, it requires the player to stop what they are doing to meet up and it requires that you don’t miss a message in your chat log which is very easy to do when mapping. It seems like it was perhaps designed to push players to engage with each other but unfortunately it winds up being just as impersonal as an automated marketplace and far less efficient. It even goes so far as to clash with mapping mechanics. When you generate a map with a waystone you get a limited number of portals to access the map. Every time you leave the map and go back it consumes a portal. Due to limited inventory space it is very easy to consume most or all of your portals just retrieving loot. Leaving a map to meet with a player and sell an item will consume one of these portals making it the wise choice to finish the map first which can often result in a missed opportunity to sell something as the buyer often hedges their bets by DMing multiple sellers with similar items.
+
+Ascension trials are terrible. Period. The honor mechanic in Sekhemas punishes melee classes while making it easy by comparison if you are ranged. Trial of Chaos will often present you with such terrible debuff options that synergize with each other so strongly you can wind up forced into an unbeatable trial. It should always be possible to get through it! This is another place where the game can completely waste your time and provides absolute nothing but frustration in return.
+
+The list of problems this game has goes on but I’ll just conclude by saying that if you value your time and don’t want to invest in a game that has no respect for the limited time we all have on this earth then look elsewhere for your entertainment.
+",0.8302100896835327,717,False
+2694490,192007678,76561197971152023,"They made a game mode for Path of Exile 1 called ""Ruthless"" that was extremely slow and boring with very few item drops.
+
+They said it was a ""side project"" that wouldn't affect the game.
+
+Nobody played Ruthless mode in PoE 1 because it wasn't fun to play.
+
+Ruthless was the beta test for PoE 2. Path of Exile 2 is their vision for Ruthless as a stand-alone game.
+
+Not playing Ruthless 2.0 - sorry, it's just not fun!",0.8300431370735168,5033,False
+2694490,187159225,76561197960415477,"Great game so far, but the trading needs an overhaul.  It is time for some type of auction house / automated merchant system where trading can done while we're offline, instead of spending all of our time browsing the site and trading.",0.867275059223175,132,True
+2694490,206834391,76561198014245449,"I spent 200 hours theory crafting, trading, and fine-tuning what’s probably the most expensive build in the game.
+Every support gem perfectly linked, every stat optimized, every passive point blessed by Chris Wilson himself.
+
+Then I got one shot by a tiny green ball a random crab farted out after it died.
+
+Balance is a myth.
+Defense layers are an illusion.
+RNG is my religion.
+
+Every patch note feels like a personal attack, every map feels like a prank, and every death feels like a TED Talk on hubris.
+
+But somehow… I keep coming back.
+
+10/10, would die confused again.",0.815895676612854,106,True
+2694490,195055978,76561198062101413,"Before early access launched the developers said EA would last 6-12 months and at release there would be 36 Ascendancy classes and 6 acts.
+We're now 6 months into EA and all the developers have done is basic game balance and they've added 2 new Ascendancy classes. We still only have 3/6 acts and 17/36 Ascendancy classes.
+PoE 2 is currently in a state where the developers should pay people to beta test it rather than charge money from people. And despite that they're monetizing the game like it's a fully released f2p game. They just added new stash tabs which are arguably p2w to the store and they're introducing and advertising new lootboxes.
+
+A few years ago GGG also promised that all applicable micro transactions from the original poe will be usable in poe 2 and that they would continue releasing new leagues in poe 1 even after poe 2 launched. I'm sure they have intentionally said these things so people keep spending money in poe 1.
+The reality now is that the vast majority of mtx that people spent money on in the past is still unavailable in poe 2 and poe 1 development has almost completely halted with no new leage in close to a year. So people who bought mtx a year or two ago with the expectation to use it now got borderline scammed by GGG. And to add insult to injury they're introducing new micro transactions rather than prioritising to imlement the old mtx.
+
+If the game was great I could view past all that because things change and I don't necessarily think GGG intentionally mislead people at the time. But the game is mid at best and development is going at a snails pace so I can't recommend playing poe 2 at the moment.
+To be honest I kinda lost hope for GGG. Many of the people who made poe 1 a great game have left the company recently and the remaining team seems to struggle finding a direction for poe 2. Meanwhile Tencent who GGG sold out to is squeezing for money.",0.8117864727973938,744,False
+2694490,182458779,76561198010714572,"A blend of Elden Ring & POE 1. Combat feels amazing. Finally an ARPG for me. Feels less like an exam and more skill based. Atmosphere, gameplay, sound and art style 10/10",0.8077723979949951,338,True
+2694490,227357244,76561198393692751,"I thought topdown games looked boring
+
+Then I downloaded PoE 2 ""just to try it""
+
+That was several days ago.
+
+Now my sleep schedule is gone, my browser has 47 tabs open for build guides, and I still have absolutely no idea what half the crafting materials do.
+
+10/10 psychological warfare",0.8547480702400208,204,True
+2694490,233089632,76561197964741532,"Great game.  Need to work on netcode better, has some hitching issues 2 years later still.  Make an offline mode for single player so we don't get network hitching or at least put up a true Midwest server in Chicago/Detroit area.  This game has been fun with the updates but it is time to polish and finish it out of early access after 2 years.  Put in the last characters that are left open right now.  Stop with new material and finish what you need to get out of E.A.  Let's finish the game.",0.8002430200576782,78,True
+2694490,185926320,76561198053102631,"This is a really good game. I'm a newcomer to PoE, having only briefly tried the first game a few years back. I consider myself a fairly casual ARPG player, but I love RPGs in general. This game is very much worth the cost of admission.
+
+This game's combat feels satisfying in a way that no other modern ARPG has quite managed for me. The character progression and build variety have been the real highlights, though. The various systems for managing skills, stats and gear are really enjoyable and easily understandable. The best part is you'll actually have to use these systems since the game isn't afraid to provide a challenge.
+
+The amount of mechanical depth on offer here is really impressive for how intuitive everything is at a glance, you can tell the devs really put a great amount of thought and care into how everything is presented. There are some rough edges, but overall the game is really good in this regard.
+
+I strongly dislike using guides, so I've gone in as blind as possible. I highly recommend taking this approach, despite what some players might say. Using a guide is not necessary, and overpowered builds will likely get nerfed. If you use a guide you are doing yourself a genuine disservice and ignoring the most interesting aspects of the game. That's just my two cents though, play the game however you like.
+
+I don't have many complaints. I think endgame would be more fun if the player could return to an area after dying. The XP loss is a good mechanic in my opinion, but I don't like having to restart from scratch AND use another waystone in order to do so. It's tedious and requires too much attention. The game currently doesn't attempt to accommodate more casual players at endgame. I think more options and a less restrictive structure would help a lot. As it stands now, the campaign is the most enjoyable part of the game.
+
+tldr; gud game, I am lazy, add fishing",0.7966504096984863,89,True
+2694490,211291010,76561198994329111,"-> New league released
+-> Try new class (or class changes)
+-> Grind all act until endgame and mapping
+-> Clear all superbosses at endgame
+-> Got bored after min-maxing build
+-> Wait for upcoming new league
+-> Rinse and repeat
+
+The players are not bored getting exiled anyway",0.7964150309562683,320,True
+2694490,193922858,76561198293960249,"This game is a great representation of toxic relationships in life. 
+It hurts you, but you keep going back to it because you can't find a better one....",0.7944185733795166,133,False
+2694490,226123365,76561199507177482,"I usually feel like I'm too old for this game and completely lack the time or patience for it. Yet, I still end up jumping in every second season, and once I start, I can't put it down until I reach the endgame.
+
+For me, the real fun is theorycrafting, testing out new builds, and farming items from absolute scratch. I don't really care about the crazy min-maxing in the deep endgame right now. This is by far the best game in the genre. The animations are clean and it is incredibly satisfying when a build finally comes together and the entire screen just explodes.",0.794342041015625,74,True
+2694490,193757623,76561198045071331,"Almost every game play decision is made to make it more annoying and tedious. 
+
+-Locking talent points between challenges that take HOURS to even attempt (one requiring you to do the same hour long challenge 3+ times to even attempt), only for the boss to be 10x harder than the rest of the challenge you blazed through and kill you. 
+-Dying and losing not only XP, but maps, modifiers, gears, time, etc. 
+-One shots from regular mobs while overgeared and leveled while 90% of other mobs tickle you. Of course, no combat log to reveal the BS that went on for that to happen. 
+-No drops, you need to rely almost entirely on the horrid trade mechanic where 95% of the time people wont reply. 
+
+It is like the developers just think of any way to be annoying an inconsistent, and slam those ideas into the game. If you figure out a way to make your character OP enough to finish this content, it will be nerfed into the ground and unusable, forcing you to go broke respeccing and buying new gear (because, oh yeah, nothing good ever drops). Not recommended.",0.7890518307685852,203,False
+2694490,227222252,76561198125360257,"I like the game, I like the way the game feels and looks, but the game doesn't like someone like me. It feels like unless you want to look at how someone else plays the game it'll make you feel like you don't know what your doing. You feel like you are punished if you try to experiment with the crafting system, considering the resources you need are not just thrown at you. I feel no matter what I try every season the game just wants me to feel dumb and have to look at how the ""pros"" play, when I just want to have fun and try my own thing. If you like the feeling of your parents telling you that you'll never be anything in life no matter how hard you try unless you do what your better, older, and wiser brother does, then this game is a 9/10. if you want something to get on a couple hours a day, grind some loot and get stronger, this ain't it. One mistake costs hours depending on what point of the game you are at and how well you managed all your resources. People will see this as a me problem, which is fine, but I've tried. I just don't feel wanted here and my time is not respected.",0.7890163064002991,157,False
+2694490,232267889,76561198052579221,This game turns you into a zombie. You are constantly zoned out when you are away from it. You no longer understand what your colleagues and boss are talking about. You've lost your sense of hearing. You forget what lunch is. Time does not exist. You feel you have never been this close to the center of the universe. You then realize it's time to wear your underwear inside out.,0.7872296571731567,93,True
+2694490,203193489,76561197979169919,"(Update 0.5)
+Trials unchanged, they are still the opposite of fun. I can't recommend the game until that changes.
+Too many design decisions still feel at odds with each other. It's like the game sometimes doesn't know what it wants to be.
+
+Slight campaign improvements are a step in the right direction, but your levelling experience still depends on the broken skill design/balance. Early game builds vary from ""pretty smooth"" to ""masochists think it's too punishing"". Experimentation isn't an option and gem acquisition is way too slow. Each archetype is basically locked into one playstyle during the first few Acts.
+
+Endgame changes seem very promising (so far) and It feels great in SSF.
+Sadly, I've already encountered several bugs: getting stuck in terrain during a map, some things not loading, and small sound issues. Losing progress because of a bug is always frustrating, so I might wait for a patch or two.
+
+Review will get updated once I'm ""finished"" with my first character. I really want to try out one more build with the new runes, but that's only going to be tolerable with some good twink gear.
+
+(0.5 Endgame Update)
+Very good changes overall. It feels great to target specific content on the Atlas, but I wish some things were clearer and better explained. Delirium is especially confusing and strange.
+
+Travel nodes without special rewards are in an awkward spot, because I want to run T15s for good drops, but I don't want to spend ages getting to the spot on the Atlas I'm actually targeting. Spamming low level waystones is faster but feels like a waste of time.
+
+Visual clarity is terrible, but boss fights still feel epic thanks to the excellent music. I would prefer lower graphical fidelity, if it meant that I could actually see what is going on during combat.
+
+Performance sidenote: There is a massive heatwave coming up where I live, so I won't play a game that turns my PC into a radiator on the verge of melting.
+-------------------
+
+(Update 0.4 Reveal)
+Trials unchanged. Endgame rework pushed to 0.5. New class doesn't change my issues with the levelling process. Skipping this league and stocking up on hopium for the future.
+-------------------
+
+To answer some of the more frequent comments:
+It's not about being unable to do it - it's about not having fun while playing the game. The difficulty is fine but extremely tedious. Levelling becomes an exercise in frustration tolerance, especially if you pick anything other than the narrow path predetermined for your archetype.
+
+And for what it's worth: I didn't play a melee/thorns build. I used that as an example to show how ridiculous a ""don't get hit"" mechanic in an ARPG is. My ranged character didn't have a problem with the trial. The boss was the only threat and, even though I had more than enough Honour left, I got extremely salty just by the thought of possibly having to do it again.
+
+I would love to play around with more ascendancies and figure out different builds, but having to slog through the early game again makes me not even want to start the game.
+-------------------
+
+Original Review:
+Fresh League levelling with anything off-meta is like repeatably slamming your head against a wall. The skills are designed in a way that feels extremely restrictive, and most of them just aren't viable during the Campaign.
+
+For me, the most enjoyable part of ARPGs is the slow and steady progress you make throughout the entire game. Sure, there are power spikes here and there, but most of these games make you feel like you're constantly going in the right direction. 
+
+Struggling up a sheer wall, in the hopes of finding a semi-functional build on the other side, isn't fun. This isn't just a balance/numbers issue. The entire skill system funnels you down specific paths, with restrictions like gem acquisition further exacerbating the issue.
+
+Currently (0.3 and before), PoE2 has by far the worst levelling experience I've ever experienced in any game of the genre. It punishes experimentation, wastes your time with overly large zones, and just isn't fun to play for the first few hours of an untested build. It doesn't matter how (potentially) good/fun the endgame is, if you never get there because you quit out of frustration during the Campaign.
+
+The main reason this review is negative, is the utterly insane decision to force everyone into the Trial of the Sekhemas (don't get hit Honour bs).
+It was fine as an optional activity in PoE1, but who in their right mind thought it was a good idea to make it the requirement for getting your Ascendancy?! I assume that person doesn't play melee or knows Thorns build are a thing. I never thought I would miss the lab.
+
+Hopefully, they fix these things in future patches, and I'll update the review once the game is in a better state.",0.7868716716766357,1775,False
+2694490,182062526,76561198147374522,I can't even get into the game but the login screen is already better than diablo IV,0.7847700119018555,1111,True
+2694490,210814047,76561198067176026,"One thing to keep in mind whilst playing this game is that it is still in early access and thus, not complete. We don't yet even have all the classes unlocked so to judge completely is quite difficult, since it is a work in progress. But what is there is done very well in my opinion.
+
+The game is visceral, graphically quite stunning with combat feeling impactful. The campaign arc i enjoyed, albeit unfinished. Out of the two POE games from GGG, i enjoyed the POE 2 campaign way more than POE 1.
+
+Despite my Steam account only showing 41 hours, i switched to using GGG's own client for both games a while ago since, for me, both feel more performant doing so. I actually have close to 1000+ hours in each game.
+
+The not so enjoyable:
+
+One thing to note however, and this is what annoys me about GGG, and also to iterate that this is my own perspective as a player as i see it and how it makes me feel. They, GGG, tend to favour end-gamers, those who like to min-max their characters over casual players, and this is blatantly obvious with how the loot drops have been programmed to work in this game.
+
+You can roll a character and for that run end up being extremely lucky with currency / gear drops. You can roll another character and have the inverse happen where your drops-luck tanks to the point of frustration. This essentially soft-locks you from progressing in any meaningful way and forces you to grind (pun intended) previous completed levels to power up your character for the upcoming harder content. This, in turn, actively slows down your character from progressing normally.
+
+This is one of the most agregeous and infuriating aspects which exemplifies how GGG truly perceive their player base. And you can defend this all you want but, in my view GGG do not respect their player's time enough. They want you to grind, really grind for minimal reward, until you hit end-game. And it's this kind of thinking that alienates a potentially larger player base from engaging in the product.
+
+This stems from the fact they, GGG themselves are gamers and are developing a game 'they' want to play which isn't a bad thing per say but, i do think it blinkers the company when their choices instantly alienate those of us that do not have the free time to dump thousands and thousands of hours into a title to feel like you are not being rewarded enough for your efforts. In fact, sometimes it feels like you are being punished for progressing which i find very distasteful. Almost sadomasochistic in effect.
+
+However, with all that said, if you enjoy arpg's and want a somewhat challenging experience i would still recommend this game. It does scratch an itch that other titles fall short on.
+
+I just hope GGG try in the future to think about the choices they make from outside of their own personal bias and maybe we'll end up with something really special!",0.7797113656997681,108,True
+2694490,225085267,76561197975492538,"This was my first time with any poe game, and I was not disappointed.  This is by far the best arpg ive played, and im a huge fan boy now.",0.776883065700531,100,True
+2694490,183297529,76561198299474170,"Updated review after spending 200+ hours. I've forced myself to go through most of the endgame, pushed to t15 maps, got lvl 90, 8 ascendacy points etc.
+
+While there are moments of greatness, significant flaws hold the game back from being truly enjoyable in the long run. 
+
+Pros:
+
+Animations are fluid and visually impressive, adding a sense of polish to combat and abilities. Same with effects and graphics in general—the world of the game is visually appealing, with a great atmosphere that does it job to immerse players into the dark fantasy world of POE.
+
+The 3-Act campaign is well-crafted, enjoyable, and easily the most rewarding part of the game.
+
+Cons:
+
+Endgame Balance: The endgame feels tedious, plagued by poor drop rates, frustrating atlas mechanics, and build limitations. Progression feels more like a chore than a reward. Tldr: You might end up crippling your experience and getting frustrated faster than you may get your 5 socket gem or find your first divine orb :)
+
+On-Death Effects: These mechanics are far too punishing and unfun, making the game feel unfair rather than challenging.
+
+RNG Dependency (in a bad way): The trials (Sekhemas and Chaos) are overly punishing. The mechanics lack inspiration and offer little room for meaningful counterplay. The RNG itself is too punishing—if you get unlucky with debuffs, you can outright lose the trial through no fault of your own. For example, getting a movement speed debuff often leaves you as good as screwed, no matter how well you’ve prepared. I think it can be easily improved by adding more links between room choices in Sekhemas and more debuff choices in Chaos and making debuffs less punishing at least in early stages.
+
+Similarly, the Atlas system feels like a battle against RNG rather than a test of skill or preparation, punishing players regardless of their gear or build. The endgame allows little to no creativity in build crafting. The game is so punishing that players are forced to build around strict defensive caps just to survive. For example, you have to push resistances, but even then, you can still be one-shot by an absurd ""on death"" mechanic from a random white mob. Survivability becomes mandatory, leaving players no choice but to roll defenses on every single piece of gear. The game is just unplayable otherwise.
+
+*Kripparian’s video ""Path of Exile 2 is Ruthless"" captures these issues perfectly. The endgame systems feel needlessly harsh and punishing.
+
+Final Thoughts (updated):
+
+I can recommend Path of Exile 2 in its current state solely for its excellent 3-act campaign, which is a fantastic experience.
+
+However, I suggest avoiding the game’s endgame content for now, as it is plagued by poor balance, frustrating RNG mechanics, and punishing systems that stifle build creativity.
+If you’re interested in the good endgame experience, I recommend waiting until GGG hopefully addresses at leat some of the abovementioned issues, fixes the endgame, adds more classes, updates the skill tree, fixes armor/resistance balance and so on. But as it stands, I can’t recommend playing endgame in its current state, nor am I willing to overlook the game's flaws simply because it is ""better than Diablo 4."" Being better than a bad game is hardly an achievement, and Path of Exile 2 should aim much higher.",0.7768629193305969,1046,False
+2694490,207857728,76561198867862690,"The game is fun but frustrating at same time. It looks nice and feels good to play - thats a W. The balance is off but its early access, undertandable. Whats not understandable is lack of updates and hotfixes. Optimization is awful and its getting worse - on PS5 this game can literally burn your console, on PC its not great as well (yes, I bought this game twice). I dont care if the balance is off or endgame is boring, it will get better next league and so on. What I do care about is not to brick my hardware while playing it. This is a known issue and ignoring it seems weird. You can fix it first and then think about new league or new supporter packs or whatever.  Cant recomend it to anyone until then.",0.7718853950500488,205,False
+2694490,234875142,76561198041203487,"I purchased this game and didn't immediately play it much. 
+
+Several months later, I came back to the game and when I tried to log in, I get the message that my account has been banned by an administrator.  I contacted the developer and after having a short back and forth through emails, I was informed that my account is to remain closed. They informed me that I am free to make a new account. Unfortunately, my account is tied to my Steam account and I cannot find anyway to change the account. They were wholly unhelpful after banning me from a game I didn't even get to play. I will not support this company in any way. They are thieves and they don't care about their customers.",0.7710439562797546,256,False
+2694490,215893926,76561197970261420,"To me, just like in Diablo 2, the fun in POE2 is making hardcore characters with builds that you make on the fly [no guides] and kick ass until you die [my Druid is still alive thankfully]. I'm not a fan of going from point A to point B and screen clearing mindlessly though, so I usually lose interest with endgame content, but when the game is challenging and you have oh crap moments where you almost die, that is where the fun lies. POE2 still needs work but overall, it's a fun game and I've enjoyed my time with it more than Diablo 3 or 4.",0.7677603960037231,72,True
+2694490,192111093,76561198076507267,"This game reminds me of blizzard's failures. it actually feels like the developers won't listen and actually despise its players
+
+*edit
+
+you can not craft in this game, the developers want you to gamble your currency on random rare drops, you are better off trading for upgrades.
+
+the combo gameplay is lame and boring and your character is extremely slow.
+
+ascending requires more luck than skill, running sanctum and getting hit with 10 afflictions on the first 2 floors is just frustrating.
+
+the maps got stale pretty fast, extremely large zones full of null space and tight corridors that even the monsters get stuck in....
+
+I picked Lich and one of the core skills was bugged, i could not cast despair in tight confined spaces (which was more than half the maps.) I did not want to reroll because the campaign takes way too long.
+
+the direction of this game is worrying.
+
+0.3 edit:
+
+monsters are still faster than players and will chain light stun you to death. the only counterplay is to screenwipe them. world atlas map is still buggy and uninteresting, and so so slow to progress in. gearing is still terrible as all classes have to target +skill levels/defensive stat/resistance which make uniques terrible.
+
+0.4 edit:
+
+campaign is still way too slow, end game is still incredibly boring to navigate around the world atlas. I find it gross how poe1 had such a fun and interactive way to set up your maps, yet they decided to pivot away from what has worked for a decade... now crafting is more like pulling slots still, except failed crafts could set you back a ton of currency. ive put in well over 200 divine worth of materials into crafting experiments withing the first week of this patch and im only wearing 1 item i self crafted. with that said the amount of different omens and currencies you need to craft is both annoying and confusing at times and is hardly deterministic.
+
+still no swords or axes in this game wtf
+
+0.5 edit:
+
+still no swords or axes in this game wtf - skipped this patch",0.7669835686683655,259,False
+2694490,192053011,76561198096486654,"Update 0.2.0 made terrible changes to the game balance, making it absolutely uninteresting, especially after version 0.1.0. And if the optimization problems can be forgiven, then the nerf of all skills, including unpopular or rarely used ones, made the gameplay disgustingly boring and slow. I do not recommend this game until the developers understand that their ""vision"" in this case only made the game worse
+
+I will be glad to change my review if the developers will soon make the necessary changes to the balance
+
+/////
+
+About Patch Notes 0.2.0b: it looks pretty ridiculous when a huge amount of bad balance patches are tried to roll back by simply reducing the health of enemies. It became a little easier to play, but for those who have reached the maps - it certainly did not become better. And an interesting fact - there is much less loot on the acts, which negatively affected the idea of self-crafting equipment, the problem is experienced by me and all my friends :(",0.7660264372825623,144,False
+2694490,182158381,76561197961277512,so much better than 300 apm clickfest with brain turned off that was endgame poe 1. Will only get better from here,0.8151529431343079,503,True
+2694490,193008025,76561198006722802,"I've played this game for over 600 hours. I beat the campaign and all of the end game content with multiple characters. I do not recommend this game. Why? This game loves to waste your time. 
+
+Is this game fun? To a point it is. The campaign is the strongest point. If you're at all an OG Diablo fan, then Act 1 will make you grin like an idiot for hours. Its just really well done. Acts 2 and 3 are nowhere near as good but they aren't bad and have some really cool memorable moments and bosses. After you beat the campaign on normal and cruel difficulty, you begin the ""end game"". This is where Path of Exile 2, goes from fun to WTF:
+
+The Loot: 
+
+None. Garbage. Zippo. Zilch. You will be playing the game for hours, go through ten or more levels and still be rocking gear from ten or more levels ago. Why? Because loot drop rate in this game is still absurdly bad. I have had well over 100% rarity find and still barely get any good sort of currency or gear drops. The community has been bringing up the loot issue to the developers non stop and while it has improved ever so slightly, it is still one of the lowest points about the game. Which is ironic, because PoE2 is an ARPG which is supposed to be all about the loot. Unless of course you happen to be a streamer, then you'll get Divines and Perfect Jeweler Orbs dropped like candy... Oh wait we're not supposed to talk about that... Sorry... Streamer Client isn't real....
+
+The ""Crafting"" System:
+
+This isn't so much a crafting system per se, but more of a let me use some rare currency to ""discover"" some extra random properties on this item that I thought was going to be good but is now a useless piece of **** just like nearly every other item. There is no crafting. Its pretty much a casino roll. The devs have recently introduced some ways to make the crafting system feel like an actual crafting system, but you guessed it -those ways cost rare currencies that happen to rely on an abysmal drop rate.
+
+The XP Loss on Death:
+
+Probably one of the biggest offenders, the XP loss on death. At levels 70 and above, every time you die you will lose a percentage of your experience. This is egregious in a game that has monster on death effects that will kill you from 100-0, random enemy attacks that you do not see coming because of poor visual clarity or just a floor effect that you weren't aware that you were standing on for the past 0.5 seconds and are now dead. You will die from things that will make you question why the **** you are still playing this game. 
+
+And this is where it has brought me. If you plan on playing POE2 for its campaign, then I think you'll find this game to be a solid bit of fun. However, if you are at all a player who likes to take their character to the limit and enjoy the power fantasy aspect of creating a cool build and finding great loot... I can't recommend this game in its current state. Trust me when I say this, this game LOVES to waste your time, so don't take the bait like I did.",0.7624332308769226,113,False
+2694490,218735467,76561197971293858,"This game, either hates me, or I hate it. Maybe both. I keep coming back each ""season"" (putting those in quotes because it of course still is in early access) to see what is new and let me sum up what my and likely your experience will be with this game:
+
+1) Install/Pray you don't get the same performance issues everyone else is talking about
+2) Pick whatever class you are interested in trying out this season
+3) Play through the campaign for the 1st or 30th time
+4) Begin your mapping journey
+5) Get your build tight around T5 then quit around T10/T11 once you realize it is all one massive waste of time and what made the game fun initially is now just a test of patience with a side order of copium.
+6) Uninstall; convincing yourself it will be a more fun experience next season
+7) When new season comes out repeat Step 1
+
+The combat is fun until it isn't. The story is interesting, until it isn't. The build diversity is ""diverse"" until you realize it isn't. 
+
+Notice I haven't mentioned the economy until now. Other people have already ranted on this issue, but in reality, I doubt most of you will stick with the grind long enough for that can of worms to even matter.",0.7585645318031311,174,False
+2694490,233283863,76561198322993775,"This is the best ARPG in the market by far.
+After the 0.5 update, game feels satisfying and rewardful. There are tons of endgame activities and meaningful character progression.
+Campaign became a very smooth experience.
+I played WoW for over 15 years and never felt that Blizz*rd gave a flying f*k about the game with the same formula FOR DECADE 4 dungeons 1 raid 4 new zones, meanwhile in Poe2 feels like devs are true gamers, each update there are tons of content that reflect what players need indirectly... GGG is top tier.
+
+Also, be careful cause it's truly addicting, each league launch is a big event in my life now that I reserve time for it.",0.756193995475769,49,True
+2694490,196054619,76561198137003110,"T H E   S H A D O W   A R C                               
+=============================================================================
+
+[h1]Path of Exile 2 Early Access Review: The Dark Souls of ARPGs Claims the Throne
+
+[b]TL;DR Rating:[/b]
+🔲 Just buy it
+☑️ Highly Recommended (For ARPG veterans)
+🔲 Wait for a sale
+🔲 Pass
+
+[b]Difficulty:[/b]
+🔲 Easy (Diablo 4 style)
+🔲 Moderate
+☑️ Brutal (Dark Souls style)
+
+🔮 [h2]Enter the Shadow Arc[/h2] 🔮
+Let me clue you in, I will be Crowned, in Silence. Tell me, do you long for Darkness? Do you idolize Tricksters? Does the assassin-like shroud of the Veil secretly feed your God Complex? Is the answer yes? Most likely you are fiending for the Shadow arc, just like me. Welcome to a not so casual friendly review, i am iLLzy EA, Shadow Main Blaster preparing to fully immerse myself in the brutal world of Wraeclast and the twisted realms of Path of Exile 2.
+
+⏳ [h2]The Evolution of a Masterpiece[/h2] ⏳
+With the [b]Path of Exile 2 full 1.0 release officially locked in for December 11, 2026[/b], the monumental Early Access period is drawing to a close. What began on December 6, 2024, as an ambitious overhaul has evolved over my last two years of rigorous testing into a genre-defining masterpiece. Grinding Gear Games (GGG) didn't just build a sequel—they completely redefined what a modern Action RPG can be, executing a masterclass that throws a massive shadow over its primary competitor, [b]Diablo 4[/b].
+
+📜 [h2]My Ultimatum: Why Depth Beats Casual[/h2] 📜
+Because casual is the bane of my being, I can tell you straight up that while Blizzard's title captures the casual, pick-up-and-play market, [i]Path of Exile 2[/i] cements itself as the true king for anyone seeking meaningful depth, tactical mechanics, and long-term complexity. This is my detailed review of my journey through Early Access, an analysis of how I watched it transform the genre, and my look toward the staggering future that awaits us at full launch.
+
+⚔️ [h2]1. Combat Overhaul: Tactical Genius vs. Brainless Zooming[/h2] ⚔️
+For over a decade, ARPG combat was defined by running at lightspeed and evaporating screens of monsters with a single button. [i]Path of Exile 2[/i] completely shatters that paradigm.
+
+[h3]WASD Controls & Dynamic Animation Shift[/h3]
+The inclusion of [b]WASD movement[/b] alongside traditional click-to-move is a total game-changer. It gives the game a highly responsive feel that allows me to kite, dodge, and aim abilities independently of my movement vector. Coupled with a dedicated [b]dodge roll mechanic[/b] featuring conditional frames of invulnerability, combat is a skill-expressive dance.
+
+[h3]The Diablo 4 Contrast[/h3]
+Compare this to [i]Diablo 4[/i]. In D4, combat quickly evolves into a repetitive loop of management metrics: I pull an entire room, spam my resource-generator, execute a core skill, and wait for cooldowns while level-scaled mobs melt into screen-wide visual clutter. In PoE2, [b]every single skeleton matters[/b]. Standard trash mobs can easily punish lazy positioning, and the [b]50+ campaign bosses[/b] are massive, multi-phase mechanical encounters reminiscent of [i]Dark Souls[/i]. I cannot simply out-gear a boss; I have to learn their attack tells and master my animation locks.
+
+[code]
++-------------------+-----------------------------+-----------------------------+
+
+| Feature           | Diablo 4                    | Path of Exile 2 (EA)        |
++-------------------+-----------------------------+-----------------------------+
+
+| Primary Movement  | Click-to-move / Controller  | Click or WASD Controls      |
+| Defensive Utility | Evade on a strict cooldown  | Universal Dodge (No CD)     |
+| Combat Pacing     | Arcade power-fantasy        | Tactical and high-stakes    |
+| Boss Design       | Health sponges / One-shots  | Multi-phase gauntlets       |
++-------------------+-----------------------------+-----------------------------+
+[/code]
+
+💎 [h2]2. Character Classes & Build-Crafting Sandbox[/h2] 💎
+The Early Access sandbox launched with a stellar lineup—including the [b]Warrior, Ranger, Witch, Monk, Mercenary, and Sorceress[/b]—each showcasing completely distinct mechanical identities. But standing not as a casual wanderer of Wraeclast, I stand as a devoted Shadow — a player driven by obsession, mastery, and relentless commitment.
+
+[h3]Ultimate Freedom vs. Rigid Class Locks[/h3]
+Build-crafting is where PoE2 utterly decimates [i]Diablo 4[/i]. Blizzard restricts my identity: if I play a Necromancer in D4, I must use Necromancer skills, and only you can hold a shield.
+
+PoE2 retains the brilliant, fluid class philosophy of its predecessor: [b]any class can use any weapon or skill gem[/b] if they meet the attribute requirements. The Game is more than just another time sink, or a cheap dopamine fix. I crave the Grind, my DNA is fiending for the Min-max, and my God Complex will never be Final, unless I lay waste as I glide through the Veil like a God. The depth of the passive skill tree offers unprecedented granular customization.
+
+[h3]Economy and the Respec Revolution[/h3]
+Early Access introduced gold as a tangible currency, fixing a historical hurdle. I can spend [b]gold at NPCs to easily respec passive skill tree points[/b]. Instead of punishing my creativity or forcing me onto rigid meta paths found in online guides, PoE2 rewards my constant iteration during the campaign.
+
+🪙 [h2]3. The Economy: An Era of True Value[/h2] 🪙
+[h3]Why the Loot Feels So Much Better[/h3]
+In [i]Diablo 4[/i], my dopamine hits are cheapened by an endless shower of generic loot. I fill my inventory with ""Ancestral Rares"" every 15 minutes, sorting through minor percentage-point increases (+2.3% Damage to Close Enemies) before breaking them down at the blacksmith.
+
+In PoE2, [b]loot matters again[/b]. Item drops are scarcer, but finding a well-rolled piece of rare gear can fundamentally alter my build’s survival or damage. Furthermore, PoE2’s trading economy is lightyears ahead of D4. With an optimized, built-in asynchronous trade market, buying and selling items is seamless for me—completely eliminating my need to browse clunky third-party websites or deal with unresponsive players.
+
+🚀 [h2]4. The Hype for 1.0: What Lies Beyond the Horizon[/h2] 🚀
+The Early Access phase was merely a highly polished testing ground for me. Every mechanic, every build, every challenge fuels a burning passion growing stronger with every reveal and every glimpse into the darkness ahead. The approaching [b]1.0 Launch on December 11, 2026[/b], is where the true beast awakens.
+
+[*] [b]The Full Roster:[/b] The launch will introduce the remaining character classes (bringing the total to 12), including the highly anticipated, hyper-agile, sword-wielding [b]Duelist[/b].
+[*] [b]The Complete Narrative:[/b] The repetitive ""Cruel difficulty"" loop utilized during early testing will be replaced by a seamless full campaign, highly anticipated to feature up to six massive acts.
+[*] [b]The Ultimate Infinite Atlas:[/b] A fully realized, expanded Atlas of Worlds endgame featuring dozens of maps, deep League integrations, and devastating pinnacle bosses that make D4’s endgame loops look agonizingly shallow to me.
+
+💀 [h2]Final Verdict[/h2] 💀
+Path of Exile 2 Early Access wasn't just a beta test; it was a promise fulfilled. While [i]Diablo 4[/i] serves its purpose as an accessible, casual-friendly ARPG arcade experience, it simply cannot compete with the sheer artistic design, mechanical mastery, and intellectual depth of GGG's work.
+
+The foundation is rock solid, the combat is unparalleled, and the community is electric. The path chose me... Exiled one... When the gates finally open, I will enter with purpose: to push limits, perfect my craft, and carve my name into the chaos of Wraeclast. Prepare yourselves, Exiles—the true dark age of Wraeclast begins this December, and it is going to be absolute.
+
+Your's Truly iLLzy EA",0.9560499787330627,212,True
+2694490,192555688,76561198062962411,"I just don't think it's fun and this community has devoured itself. No matter what your opinion of the game there is an army of players ready to belittle you for that opinion. I do not enjoy the game or the community.
+
+The devs have made a game with great variety BUT if you want play the whole game you will have to follow a guide online to be able to do any of it. The amount of times I've just asked for advice about my build and people treat me like a complete moron for not understanding. One of the most toxic comms i think i have come across",0.7554709911346436,61,False
+2694490,214984245,76561197994077076,"“I don’t think you can just nerf people in the middle of a league no matter what.” — Jonathan Rogers, Game Director, Path of Exile 2. ---- proceeds to nerf every member of the community that did not get in early to exploit and try to build legit, whilst allowing the exploiters to continue to enjoy the fruits of their cheating
+
+'Play the game the way WE INTEND, not the way we've allowed the streamers to profit and ruin the economy. We will nerf the little people and allow the exploiters to continue to profit'",0.7529578804969788,418,False
+2694490,220618507,76561198147553868,"One of the saddest games there are rn. So much potential, such great visuals (some people complain about optimisation, but I guess it is good enough for my laptop), so many possible builds. But it is just not fun, which is why majority of players tried it, enjoyed it for some time, got tired and left. The devs destroy their own strengths: many possible builds? - only a few can even pass campaign (majority of players need to watch guides and builds to pass campaign), great variety of items and loot? - what loot? there is no loot, even bosses drop next to nothing (the rarity drop boost was nerfed btw, which is hilarious because even with it at full power the game didn't give much) and that is taking into account that enemies hit hard, swarm you and you do very little damage, many bosses have one-shot attacks. I have no problems with difficulty, but the game doesn't reward you for your effort((. I am told by people, that defend this game to trade with other players and check vendors after every level up. In ARPG. Where the most satisfaction come from looting. Lame, people, very lame. I am not Asian bot, I can't grind enough divines for anything in this game really, I have a job. The amount of time needed to grind good gear even to pass campaign is just heart-breaking. Again, it is fine that the game demands skill and attention from you, but it doesn't reward you nearly enough for that effort and may just lock you out of finishing campaign if you didn't check viability of your build on forums. There is no obvious simple build that will always work. As a beginner in souls games I started Elden Ring and with little guidance finished the game, Malenia and DLC, just with a big hammer and classic strength bonk build. Not at all original, but I got to experience the game. Maybe at some point I will go for something more complex, now that I understand how things work. I wish POE2 had some simple obvious builds like that for beginners, builds that might not be good enough for endgame content, but would at least give us a decent chance at campaign.
+
+Edit: I have just realised what the economy and loot in this game has a horrible resemblance of free to play grinding donation games like War Thunder.",0.7485202550888062,229,False
+2694490,183025669,76561198072367055,"I had never played PoE 1 but decided to give this a try after really enjoying Diablo. If you enjoy the endgame in Diablo and want a more challenging experience that has a lot more depth and importance in crafting / gear / etc then this game is for you. Game will be free on full release with the only really game changing micro-transactions being extra/special stash tabs for you and your guild. Also if you are looking to get the premium currency PLEASE BUY A PACK AND DO NOT BUY CURRENCY DIRECTLY. The packs cost $30+ to get/upgrade but you will get a 1=1 premium currency conversion when buying a pack and will ALSO get all the skins/extras that the pack includes. DO NOT BUY PREMIUM CURRENCY DIRECTLY FROM THE STORE BUY A PACK.
+
+Edit after nearly 300hrs played:
+
+This game is much harder than diablo. Understanding all the mechanics with building gear, trading gear, looking for good gear is huge and not very well explained. Its a lot of trial and error with builds because unlike diablo your build is heavily reliant on gear and not really as reliant on your passive trees. It takes time to get the knowledge you need to become stronger and can be very overwhelming in the beginning and very discouraging if you look up a build and don't feel strong after using that build. You will die A LOT but thats okay. When you get stronger and are destroying the enemies that have been killing you previously it feels a lot more rewarding. The more time and effort I continue to give this game the more rewarded I feel as a player. This is something that I haven't felt in games for a long while and makes the grind not so meaningless.",0.747355580329895,57,True
+2694490,183176010,76561199124624947,"Wannabe FromSoft slug fest, ruined exclusively by dev arrogance. 
+
+Don't get me wrong, the devs and people working on it combined with the history of POE make for the potential for this game to become the best modern day ARPG. However, currently the devs have allowed the success of the original POE to get to their heads and since the launch of POE 2 have been making decisions that make this game unenjoyable and alienating towards their audience.
+
+GGG's rhetoric has changed to grand stating since POE 2 but reality is instead of embracing their audience they decided that people will want to play the game the way THEY see and intend it, they tailor it according to them ignoring vocal concerns. They think people want a more ""challenging experience"" so now we have a severely overturned slug fest.
+
+Since launch POE 2 had builds that were significantly more powerful than their counterparts in POE that had everything going for them with effectively no weaknesses. The priority, however, was to nerf more niche builds first. Before getting to the ""big ones"" they claimed  ""We look forward to seeing what overpowered builds you can make"" and elaborated they will never directly nerf all aspects of a build and will instead focus on making necessary adjustments here and there to balance it. Once they do get to nerfing, they end up not only significantly nerfing the actual (most popular) skills but also their support gems, the entire gearing logic associated with them, the ascendancy class, the passive skills, individual pieces of gear. The combination of that not only balances the skill to where it's ""less op"" but trashes it into the ground to where it is not viable to play for basically any aspect of the game anymore. 
+
+In the latest patch similar nerfs touched most classes for a more ""challenging"" feeling, following the passionate rhetoric of inspirations of souls games. Well, devs who had success because of listening to their fans and adapting and adjusting for over a decade of hard work now switch philosophy thinking fans will want to play the game the way the DEVS imagine it, throwing away what made the original successful. That has lead to a launch of a new hyped up class they want to be played but it's basic attack does more damage than you can get by building around it's skills. And you can't even quit the character or league that is completely overtuned to go back to playing your old characters because they are all nerfed into oblivion. All these balancing decisions were so bad they had to literally nerf every single non boss in the game, let that sink in.
+
+You want to try a new build? Joke's on you, some of the most game-changing gems are locked behind progressing so far into the campaign and levels that it can literally take you 20/30+hrs just to realize your build sucks, the skill gems don't properly stack because they're clearly designed to be a lot more restrictive than GGG claims and you have to restart the severely too slow, over-tuned campaign with nonexistent loot all over again. Then suffer through ascendancy trials which are both over tuned, likely through at least two of them to once again even get a feel if your build is worth playing because everything is locked behind tens of hours of grinding. Which feels like a grind because the devs want a challenge and don't want builds to be op so all these varied skillgems end up leading to everyone playing the same builds anyway because nothing else feels good. 
+
+Obviously not to mention it took them 2 months on launch to fix a completely game and rig breaking crash that would force a full system reboot for the rig to function, which they chose to not communicate about until pressured into oblivion by tens of thousands of posts all over their social media. 
+
+These design and rhetoric choices come from an arrogant mindset of thinking that you know better than your audience what it wants because you let your success that came from listening to your audience get to you. The potential is there but until the entire company's attitude changes this game is on a serious downhill ride and as much as it pains me and I would love for it to succeed, I cannot recommend it to anyone.
+
+Edit: they heard the hate and started fixing it post fact by rebuffing classes, still resulting in an overall ~800% dps nerf on most classes even post buffs.  Following that it's already been over a week of people constantly experiencing server crashes that are yet to be officially addressed despite them claiming server crashes are much easier to debug. If they work on major issues they fail to communicate it and it makes it feel like they don't care about the playerbase, which discourages you from playing the game. Turns out in a podcast that the server issues were ddos attacks all along that they just didn't bother to communicate to the audience on any of their official platforms at all so everyone was stuck waiting for nothing. That's exactly how the whole game feels now. You want to enjoy but you just can't.",0.7449318766593933,913,False
+2694490,223725260,76561197976409594,"Hi, I tried to play this game in hardcore mode only. As fresh beginner I lost several characters and today my best approach with lvl 54 in total of 223 hours. It's a lot of fun. This game has a good story and a lot of nice mechanics. I really like the diversity of content. Btw I only played druid-class: plant-druid, wolf-druid and wyvern-druid. Haven't even tried bear-druid. And there are 8 classes in total?! So imagine the time you can throw into this game.
+The only thing which I find negative: After some days not playing this game, you felt overwhelmed by the amount of items, your stash and you nearly always forgot what you had in mind. Like upgrading which item and why. You really have to study the game at some point. Ah, and playing a temple without pen & paper aside takes ages.
+Overall a very good game. I found some bugs too, but those appeared like under 1% of the time I played.
+Cross-play also works pretty well, even if you sometimes have some rubber-banding.",0.7406836748123169,37,True
+2694490,236858731,76561198090166121,"I’m enjoying PoE2, but I still strongly prefer PoE1’s approach to character building.
+
+In PoE1, the socket system in weapons and armor gave you enormous flexibility. 
+
+You could take one skill and keep layering mechanics onto it until it became something completely ridiculous and uniquely yours. A projectile could split, chain, ricochet, leech, trigger other effects, and the fun came from seeing how far you could push the system.
+
+The passive tree supported that same philosophy. I would often create entire “highways” of minor nodes just to reach a cluster or notable that genuinely changed how my build played. 
+
+The small nodes were the cost of getting somewhere interesting, and the payoff usually felt worth it.
+
+In PoE2, I rarely feel that same incentive. A lot of supports feel less like upgrades and more like tightly controlled tradeoffs: more projectiles, but less damage; chain, but less damage; more speed, but another penalty somewhere else. The passive tree also feels much less rewarding to path across when the destination often amounts to another modest numerical increase instead of something that meaningfully changes the build.
+
+PoE1 felt like the game handed me a huge box of parts and said, “see what you can make.”
+PoE2 feels like it hands me the same box with a rulebook attached.
+
+I understand the balance philosophy, but for me that restraint comes at the cost of experimentation, build identity, and the sheer fun of creating something stupidly powerful and weird.",0.7397381067276001,76,False
+2694490,225611784,76561198094876953,"So much time and effort for such little reward it transcends frustration and spirals into brain melting hysteria. 
+The look of this game is likely it's only redeeming quality because its honestly great, they really managed to encompass the graphical fidelity that we always expected of Blizzard and it handles as well too. However where Diablo 4 felt too fast paced in order to get you to their end game grind, PoE 2 is the complete and total opposite and in the worst way. This game is SUCH A SLOG Act 2 was mentally AND physically draining and Act 3 has made me quit...twice (I've come back to PoE 2 - 4 times). You find yourself grinding for hours, going through mazes of these enormous sprawling maps that feel like they never end and the Vaal temples that take 45 minutes to an hour to complete and provide practically nothing, I just started skipping them by end of Act 3 I just didnt care anymore because I wasnt getting gear that was worth putting in the Vaal temple room upgrades. Also if you filled up most or all of the Vaal board layout it just goes on and on and on. You're just grinding for hours every day for orbs just to maybe upgrade and replace 1 piece of gear that maybe had 1 good modifier that you have to trade off for another good modifier. None of the gear ever feels well crafted enough for your character, oh look a melee skill modifier for my Sorc, or int mod for Warr.
+The skills...yikes, I never hated the skills in PoE 1. I actually thought PoE 1 was a fun spin on the typical D4 playstyle I was used to at the time, but the skills in PoE 2 feel like an after thought that was rushed together. The skills really need a desperate overhaul, I used the same 2 sorc skills and 3 witch skills for practically 60% of the game. My favorite class to play is usually a minion build and Witches Minions + Lich build is closest, but it does NOT have the same feel. 
+This game is so mentally draining and gut wrenchingly unrewarding that I can't stand it anymore. I really want to play a good arpg dungeon looter, and today PoE 2 almost made me want to go back and play D4. 
+I'm out, I'll watch the new update on a stream but I can't see myself coming back in a couple weeks unless it really gets an overhaul on literally everything.",0.7380751967430115,350,False
+2694490,182184384,76561198066224354,"This should be taken with a grain of salt as I played Path of Exile 1 for 6500 hours, and my first impressions are biased by the differences in comparison with a game I love so much as PoE 1. I'll obviously disregard all the disconnections and the ""login screen simulator"" because, well, we already kinda accept that.
+
+In Path of Exile 2, the entire campaign feels like playing The Mud Flats on Path of Exile 1. The gameplay feels very sluggish, and killing every mob pack is a task by itself. It's not hard at all... it's just tiresome. The boss fights felt the same to me.
+
+I tested 3 different classes, and movement always felt incredibly slow, even with boots with movement speed or playing as Monk with skills that favour movement. The game feels clunky... nothing is snappy. It feels like everything has too much weight and inertia, and you're always struggling to move or do anything (cast a spell, dodge, walk, hit something, open a portal). It feels like slow motion.
+
+Having collisions between players in the same party was a terrible idea, and it feels awful, especially in narrow corridors and passages, even with the rolling dodge. You and your teammates block each other all the time and even walking too close to another player in your party in open areas will be annoying.
+
+Your power scaling as you progress through the game feels as slow as the player's movement. In PoE1 you feel more and more powerful as you progress through the campaign, and you keep feeling challenged by facing larger packs of more powerful monsters. In PoE2, you feel you keep fighting the same quantity, level, and types of monsters you started fighting against, but you feel weaker against them.
+
+In regards to graphics, I understand they wanted to improve the visuals for items and gems, given how beautiful the new graphics of the game are right now, but while chasing for visual consistency, they made it so everything looks the same, and you can't distinguish between things or easily spot what you're looking at. In PoE1, if you fill a tab with different types of boots, you can clearly distinguish them. The same goes for Gems. In PoE2, everything looks the same. All the gear looks like indistinguishable beige scraps, and looking at gems on a stash tab tells you nothing about them.
+
+I could keep writing here about many other aspects I disliked, but I don't want to trash the game, that's not my intention here. Also, after only about 13 hours of playing the game, this should obviously be considered with a grain of salt as it's more of a ""first impressions"" community feedback rather than a full review.
+
+Like me, everyone who has played PoE1 since its beta knows how long it took to become the game it is today (my favourite game). Maybe GGG still has a lot to improve on it, and maybe it will become a better game than it is on early access, but for now, sadly, it feels like PoE2 is for PoE1 exactly what Diablo 3 was for Diablo 2: not the same game with improvements, but a worst and different type of game.
+
+Many of its positive reviews on Steam just say a brief ""D4 bad"", and I don't disagree with the sentiment about Diablo 4. What I'll say is that this game is too much like D4 and too far from PoE1 for me to like it as it is right now.
+
+I love Path of Exile, and I sincerely hope this game gets better in time.",0.7378697991371155,121,False
+2694490,196152428,76561198326829184,"Path of Exile 2 Review – A Diamond with Rough Edges
+
+Path of Exile 2 improves upon its predecessor in many ways, offering deep ARPG gameplay with stunning visuals and smart QoL upgrades. However, several frustrating design choices hold it back from greatness.
+✅ The Good: Why PoE 2 Shines
+[list]
+[*]Clearer & Smoother Progression
+        The revamped skill tree and leveling system are more intuitive than PoE 1, making builds easier to plan without sacrificing depth.
+        Passive skill choices feel more impactful, and early-game pacing is improved.
+[*]Graphics & Atmosphere
+        The game looks gorgeous, with detailed environments, improved lighting, and a distinct art style that sets it apart from other ARPGs.
+        Monster designs and spell effects are visually striking (even if sometimes overwhelming).
+ [*]QoL Improvements
+        Reconnect feature is a game-changer—no more losing progress due to crashes or disconnects.
+        Alva’s Currency Exchange shows the potential for a better trade system (now we just need it for everything else).
+ [*]Endgame Potential
+        The core gameplay loop (maps, bosses, loot hunting) remains addictive, and new mechanics add fresh challenges.
+[/list]
+
+❌ The Bad: What Needs Fixing
+[list]
+ [*]Post-Death Effect Overload
+        Killing mobs shouldn’t feel like navigating a minefield, yet PoE 2 insists on filling every encounter with delayed explosions, lingering ground effects, and stacking DoTs. In Delirium, this becomes absurd—waiting 20+ seconds after clearing a pack just to avoid death isn’t engaging gameplay; it’s tedious. The visual clutter makes it worse, as effects blend together, leaving players guessing where to stand.
+ [*]Corridor Hell: Lack of Open Maps
+        The endgame map variety is shockingly bad. Out of dozens of maps, only four (Savannah, Oasis, Rustbowl, Steppe) feel truly open. The rest are claustrophobic tunnels or obstacle-filled pseudo-open zones (looking at you, Creek and Blooming Field). Maps like Augury, Decay, Hidden Grotto, Seepage, and Vaal Foundry are outright miserable, forcing players into repetitive, cramped combat.
+ [*]Ranged Combat Feels Punished
+        The game pretends to support ranged builds but constantly forces point-blank engagements. Mobs burrow, teleport, or materialize out of thin air, nullifying the advantage of distance. Shadow creatures, underground ambushes, and off-screen projectiles make ranged play feel like a lie.
+  [*]Outdated Trade System
+          The trade system is stuck in 2013. Alva’s Currency Exchange proves that automated trading works, yet the rest of the economy relies on:
+  [list]
+         [*]Mandatory third-party tools (Awakened PoE Trade, trade sites).
+         [*]Being online 24/7 to sell items. As a result trade market was crowded with bots and price fixers until game lost 70% online.
+         [*]Constantly leaving maps to complete trades.
+         [*]It’s a time-wasting relic that favors no-lifers and punishes casual players.
+  [/list]
+      Solution: Expand Alva’s automated trading to all items.
+  [*]Crafting = Gambling
+          The crafting system is a slot machine disguised as depth. Want a top-tier item? Prepare to:
+  [list]
+        [*]Spam 100+ bases with Essences.
+        [*]Pray for 1 usable result after dozens of attempts.
+        [*]Lose everything to an unlucky annul/exalt.
+  [/list]
+          Recombinators help but don’t fix the core issue: crafting is RNG layered on RNG, designed to sink currency, not reward skill.
+  [*]The Casual Player Trap
+        The economy and progression are heavily skewed toward full-time players. A ""nerd"" farming 10 hours/day will:
+  [list]
+          [*]Hoard currency faster.
+          [*]Flip items for profit.
+          [*]Engage in crafting (because they can afford to lose). Meanwhile, casual players hit a wall—they’ll never save enough for top-tier crafts or meaningful upgrades without treating PoE 2 like a second job. Players with more time dominate the market, leaving casuals struggling to afford upgrades.
+  [/list]
+[/list]
+
+⭐ Verdict: A Strong Sequel That Needs Polish
+
+Path of Exile 2 improves on the original in many ways, with better progression, visuals, and QoL. However, annoying post-combat effects, map design, and archaic systems hold it back. If the devs address these issues, it could become the best ARPG ever. For now, it’s a must-try for fans but exhausting for casuals.
+
+Rating: ★★★★☆ (4/5) – Great, But Could Be Legendary",0.7343935966491699,100,True
+2694490,226790565,76561198032212521,"I've played every league since early access launched, and at this point the game has become genuinely exhausting. 
+
+The core issue is the campaign and early game. Replaying the same story from scratch every few months is simply not fun, and the early game does nothing to make that easier. Your character feels sluggish, enemies are overtuned for how little your skills do, and the whole thing drags in ways that feel more like friction than challenge. By the time you finally escape into the endgame, you've already resented the journey.
+
+Not recommended, unless GGG fundamentally reconsiders the campaign-replay loop.",0.7324107885360718,186,False
+2694490,188650199,76561197990245882,"Boiling frog: the game. This game is a trap, but a slow one. You strat and it is all good. Hack and slash, lots of maps, monsters, items and all. The amount of skills - active and passive - is huge and it allows to create mad amounts of builds. So far so good. Graphic and sound is good too, performance is not bad. You play some, level up few times, grab some loot and kill some bosses. It is fun and all. But sooner that later you discover few things about the game mechanics, and the more you play the more you notice. First you will discover that gold is useless and can't be used for anything else than respecing your build. Then you will discover than than all of the magic items are useless trash and it is only used to create orbs. Then rare items become useless, unique items too, so you turn all of them into shards, so you can turn them into orbs... So, you may ask yourself: ""from where do I get any good loot?"". The only way to get items in this game is to buy it from the market (1999 style, it is not integrated with the game, full of trolls, scammers, fake offers). For some time it will let you play some more, but after you reach ""end game"" content, it is almost over for you. Good stuff is so expensive it is beyond of your reach. Prices ofi Items you want starting are at values like 1200 divine orbs. And the best part at the end: every time you die you loose 10% of your experience. So you play few hours to get 3% of exp, you die, start over. But there is no way to get better loot anymore, so progression halts completely. And basically everything can one hit kill you. No joke. And then there is nothing to do, some mechanics are completely luck locked, drop chances for some keys are so low that at level 96 I haven't seen any of them yet, progression for stuff like expeditions or rituals are impossible. 
+
+Someone may say: ""Just create another build bro, for sure it will be better than last one"". 
+
+No.",0.731056809425354,109,False
+2694490,207339747,76561198002014349,"This is going to anger a lot of POE fans, but I want to preface this with saying that I have always been more of a Diablo player. I enjoy its more simplistic nature that doesn't require a degree in statistical mathematics to get the most out of. The screen clutter was also a big turn off in POE and just looked ridiculous to me. I am glad to say that some of these ""problems"" from my view have been addressed in POE 2, to a certain extent. 
+
+The game is a lot slower and more methodical than the average ARPG; it feels almost souls-like in some parts. It's a very different style compared to the rest of the genre, and certainly to POE 1. Which is also the reason why the game has garnered a lot of hate from fans of the first game. I personally love this new direction and had a blast playing the campaign, as far as it's available right now. Endgame is another matter - here the game fell flat on its face for me. Suddenly I was confronted with the mapping system, which ditches every aspect of the game I enjoyed until then (that being the story, the goal-oriented map design, the progression in biomes, the leveling and powering up of my character and frequent game-changing gear upgrades) and replaces them with mindless, practically zero progress grind in completely randomized, context-devoid fighting arenas. I would have thought that it was a placeholder for early access, if I didn't know that POE 1 employs a similiar system. It gets ridiculously punishing as well, to a draconian degree. Suddenly monsters hit like ten times harder and beat you into the muck in fractions of a second. The screen clutter also gets much worse, too often conceiling one-shot capable projectiles or monster death effects underneath. And every death is brutally punished by the game by taking away your XP (the few scraps you even get at this point) and your ingredients used for opening maps. This ain't a difficulty spike, this is a difficulty SPIRE.
+
+And yeah, the fans of the first game are going to say ""this is where the fun begins!"" but I have neither the time nor the desire to play this game 24 hours a day for a month straight just to make a single level of progress and find a weapon that does .1% more damage. 
+POE 2 by no means stands alone in this, almost every ARPG has the same kind of decline towards the end, requiring ungodly amounts of work for nearly no benefit; but here the contrast couldn't be starker. So while I fell in love with the game's style and gameplay during the main campaign, as soon as that ended, so did my fun. And yes, I realize that the endgame is optional, and I can simply choose to not engage with it. I can still criticize it though. 
+
+What's left is a game that has two faces: one that invites me in with its exhilerating gameplay, intense grimdark style and narrative, and one that angrily shoos me away for not sacrificing my entire life to the grind. I can only hope that the first face gets some love from the developers too.",0.7296801805496216,34,True
+2694490,213447373,76561198043479250,"Every time, I have fun with pretty much everything else but then I meet the bs that is the ascendancy dungeon and its horrible ""Honor"" mechanic.
+Oh here- have a resource that drains from just getting touched- Oh it only regenerates from specific rooms.
+Oh you are playing a melee build, well tough luck- you are going to get hit and lose that resource.
+And then you lose and have to start all over again.
+
+Until that mechanic is changed. I can't be bothered to play this game.",0.7264314889907837,58,False
+2694490,184248495,76561198044364393,"[list]
+    [*]2017 last time played (PoE 1)
+    [*]200 hours in PoE 2
+    [*]level 90 witchhunter
+    [*]quitting the game now
+[/list]
+
+Is it worth the ~30 bucks? [b] Absolutely. [/b] (+  I trust GGG will address many of the frustrating issues in the endgame...)
+
+CAMPAIGN
+[h1] 9/10 [/h1]
+The campaign alone justifies the early access price.
+[olist]
+    [*]Great storytelling
+    [*]Outstanding voice acting
+    [*]Incredible boss fights
+    [*]Amazing gameplay pacing (I really loved the level up -> check vendors for potential upgrades cycle)
+    [*]Pressing buttons feels veeery good
+[/olist]
+
+
+ENDGAME
+[h1] 3/10 [/h1]
+The endgame is not only very undercooked but also very frustrating in multiple ways: leveling up, progressing, upgrading gear, and simply playing your character (not always, but most of the time)
+[olist]
+    [*]Level up -> check vendors for potential upgrades = ""GONE"". Not really but pretty much useless in endgame.
+    [*]You HAVE to use GGGs TRADE SITE for upgrading your gear or your screwed (unless you're a veteran who knows what to pick up, when to craft, and how).
+    [*]You SHOULD also use [b]third-party tools[/b] like Sidekick or Exiled Exchange 2 or something else or you endgame experience will suffer greatly.
+    [*]If you still decide to craft without deeper knowledge -> Crafting = RNG, have fun :) (I personally don't like it at all).
+    [*]Ascendancy progression is locked behind 2 types of trials, both heavily RNG-based and requiring very little skill. Set 1 and Set 2 are easy, good luck, have fun with Set 3 and 4.
+    [*]Waystones mechanic (MAPS in PoE 1) is extremely punishing (1 death = [b]Map gone; 10% XP gone; Boss gone; Breach gone; Every other Icon + Modifier gone[/b]). This might be acceptable IF...
+    [*]...[b]VISUAL CLARITY[/b] wasn’t [b]the absolute worst in gaming history[/b]. So many one-shot and on-death mechanics... EVERYONE on the internet seems to hate this in particular, and for good reason.
+[/olist]
+
+(Video) Visual clarity is bad, REALLY BAD. This is what will frustrate every single one of you :) (+ obviously all the on-death effects):
+https://www.youtube.com/watch?v=K8KHK1igUu8&list=PL8InGed9Mc4m_AlhBw5UMSwrsl2H6iW8h&index=2&pp=gAQBiAQB
+
+(Video) Proof of how RNG-based the Trial of the Sekhemas truly is:
+https://www.youtube.com/watch?v=xC7Tp97Aibw&list=PL8InGed9Mc4m_AlhBw5UMSwrsl2H6iW8h&index=1&pp=gAQBiAQB",0.7756998538970947,98,True
+2694490,218433740,76561198094933535,"I'll start off by saying that i really do like Path of Exile 2 and i 100% recommend it if you like the aRPG genre, the developer's actually do care alot and its a really good game despite some issues it has during early access.
+
+With that out of the way, I came here to the comments to rant about the one personal issue I have with the game. No, its not how the endgame doesnt feel rewarding enough, and no its not the optimization issues or how broken the vaal temple has made the economy.
+
+My one issue is this: Why the hell are there so many downsides to some of the gems/skills/passives etc.?! I get excited about Rapid Attacks III, but i lose like 30% of my damage?! Like why? Oh i can have more spirit but i have to trade like 25% of my max life? Why? I can have a shield that blocks elemental damage but i lose like 25% armor and evasion? Why? Just let people have powerful things or don't put them in the game. It just makes certain points in the game for certain builds just not feel good.",0.7255916595458984,29,True
+2694490,231839248,76561198008666635,"Good foundation ruined by ""The Vision""
+
+POE 2 has infinite potential, but is completely bogged down by the GGG's stupid vision of what they want the game to be.
+They want two contradictory design philosophies to exist within the same game, causing it to be a schizophrenic, inconsistent mess of a game.
+
+
+It is obvious that GGG wants the game to be a hardcore, slow paced dodge game, where enemy hits matter and damage cannot be tanked easily, but this kind of design only works when the difficulty of the game is consistent and predictable, a game where you fight a few enemies at the same time at most, so that you can respond to attacks and look for openings in enemy movesets. A game where you learn the timings of enemy attacks, learn what attacks you can take, poise through, etc.   Basically a Fromsoft game.
+
+What the community seems to want though, including me, is a fast paced, screen clearing, blasting gameplay. Killing hundreds of enemies at any given time. The kind of gameplay where your whole screen being covered in visual effects is a good thing and not a death sentence.
+
+This game tries to have both. You are always facing entire screens of enemies that have the potential to one-shot you at any time, which doesn't work together well and ends up punishing you for not seeing one big attack inside a complete garbled mess of visual effects caused by:
+your abilities covering half the screen if you're playing the game correctly, 
+enemy attacks and modifiers covering the screen in VFX, 
+stupid amount of ground effects that most maps will have
+dozens of on death effects that enemies leave as well as other random league mechanics like delirium or breach which add another layer of visual clutter to an already incomprehensible mess of effects
+
+
+GGG wants this game to be difficult, which is fine, but the way they do it is not fine at all.
+Enemies do a lot of damage as a baseline which is done to make combat ""meaningful"", which would be perfectly fine in a game with consistent difficulty, but this game does not have that.
+
+This game has modifiers that you add to maps as a whole that make monsters stronger or you weaker, modifiers that monsters spawn with randomly which can stack up into a short novel under the monster's name, modifiers that give other enemies buffs, shrines that buff monsters around them, spirits that possess monsters to give them even more buffs
+This combined with the baseline monster damage and the eye cancer that is covering the screen at any point in time, results in a completely inconsistent, unbalanced and ultimately frustrating experience, filled with random one-shots that you don't learn anything from, as most of the time, you will have no idea what killed you.
+
+All of this is made worse by the fact that death is also heavily punished, you lose XP, lose your map, lose the charge of expensive tablets, causing even more frustration and friction that is completely unnecessary, but GGG seems to think punishing=hard and hard=good.
+This extends to a lot of features in the game, even simple convenience features like sprint are punished heavily if you make the mistake of taking even the tiniest hit during it, causing a very long stun and basically certain death if there are any enemies near you when you fall.
+
+I don't mind games being difficult, learning from mistakes and overcoming difficult challenges can be very satisfying, but being randomly kicked in the nuts every 30 minutes by a monster moving at mach 3 speed with the whole Lord of the rings trilogy written under it's name, that hits you for 3 times your health total is not particularly fun or engaging, nor do I learn anything from dying that way, I just get that much closer to completely dropping the game every time.
+
+I see the potential in POE 2, I know there is a great game somewhere under all these poor design choices, which is why I sunk over 500 hours into it just this season, but the more I play, the more frustrating these design issues become.
+This alongside the myriad of bugs that are constantly bricking league mechanics, costing me time and resources, that stay unaddressed for weeks or months, would make me not recommend this game in the state that it is in now. I doubt that the design philosophy will change drastically at any point, but if it does, POE 2 has the potential to be an incredible experience",0.7250996828079224,349,False
+2694490,211940613,76561198021285869,"Can’t downvote it, but I also can’t enjoy it (yet).
+
+I’ve tried starting Path of Exile 2 several times now and every single time I drop it before finishing the first chapter.
+For me, it’s.. surprisingly boring in the early game, and I genuinely don’t understand why I should play PoE2 when there are so many other great ARPGs out there.
+
+And I love this genre.
+Diablo 1, 2, 3, Titan Quest, Sacred - these are comfort games I replay every couple of years without fail. But with Path of Exile (both 1 and 2) something just doesn’t work for me lol.
+
+At the same time, I can’t give this game a bad review.
+PoE2 looks great, feels weighty, animations are excellent, sound design is good (and the soundtrack is honestly beautiful, I listen to it outside the game all the time).
+
+But I still don’t understand the hook. Maybe on my 4th or 5th attempt I’ll finally get it ^^
+
+Another big thing that scares me off is the endgame.
+Every video I’ve seen looks like the screen turns into a chaotic storm of visual effects it’s overwhelming to even watch, let alone play. And the idea of spending dozens (hundreds?) of hours learning builds, systems, crafting, and mechanics… it feels like picking up a second job or starting a new business. (Which is funny but also kinda true.)
+
+So for now.
+Respect for the craft. But the fun part is still locked for me.
+Maybe someday I’ll understand what makes PoE so special for thousands of players I’m just not there yet.",0.7246617078781128,103,True
+2694490,229671452,76561198052236950,"There is a lot to like about this game, even in its current early access state. The visuals, story, and combat are all excellent. WASD control and roll dodge add a lot to the experience. On the surface everything appears to signal a winner. However, once you scratch past the surface you quickly realize this game still has a long way to go before it is ready for a broader audience as outside extreme enthusiasts and those with many hours a day to invest, it is not a rewarding experience AT ALL.
+
+First of all, there is NO progression system in the game. None at all. 100% of the so-called ""crafting"" system is a gambling casino slot machine simulator with tiny modifiers. You take a random drop with 1 or 2 decent stats on it, and use an item that ""removes one random stat to add X."" That means you have a very good chance of removing the valuable stat and rendering the half decent item totally worthless. That is a best case scenario. The vast majority of crafting items literally just ""remove a random stat to add another random stat"" or ""add a random stat"" or ""upgrade to a rare item with 4 random stats."" 90% of the time this results in useless trash and wasted resources and most important, TIME.
+
+On the subject of time, I have never played a game that has less respect for your time. Currency needed to play the crafting slot machine mini-game is EXTREMELY stingy with drops. I can run half a dozen fully juiced t15 maps with 3 tablets plus Doryani for +1 level irradiated (20 or 30+ modifier maps) and not get ONE single Divine Orb. Couple this with the obvious and rampant RMT currency buying going on that GGG seems to have no interest in policing. Literally many of the top build guides on Youtube are overtly advertising buying cheap in-game currency for real money!
+
+The ""league"" system is also terrible for the average player with maybe a few hours a day to invest. Due to the aforementioned stinginess of loot drops and rampant cheating/currency purchasing, the economy is absolutely broken after the 2nd or 3rd week of any given league. The items needed just to run an effective build for t15 endgame maps for even a hope at the stingy currency drops is driven up to many hundreds or THOUSANDS of Divine Orbs (as of this review ONE Diving Orb trades for over 600 Exalted Orbs), with some individual items being multiple thousand Divine Orbs and yet, the drop rates are awful. Maybe one per map if you are lucky.
+
+So, the only people this game seems designed for is those who can afford to stay at home and grind for 12+ hours a day to maybe have enough currency to buy the gear they need to ""progress"" after several weeks of hair pulling tedium/madness, cheaters who simply buy currency for real money on one of the many dozens of websites advertising openly on Youtube and build guide sites, or gambling addicts who enjoy the thrill of repeatedly wasting days of their life grinding currency on the hopes they will one day ""win the jackpot"" of actually gaining a useful item, which they often won't even use but just sell to recoup some of their losses.
+
+The game has so much potential to be great, but GGG appears to be married to this Las Vegas style RNG gambling casino slot machine loot system. There is ZERO progression system, ZERO sense that by investing time your character gets stronger proportionally. There is ZERO respect of your time as a player. On top of this, the only cosmetics are cash shop items with an average outfit price of $30 to $40. That is a big ask considering the ""vast ocean 2 inches deep"" level of effort they have put into making the game feel like it rewards you for your investment.
+
+In its current form it is a fun game for the first few acts, but endgame is the epitome of ""all stick, ZERO carrot."" For days or weeks of your life invested, you literally have nothing to show for it except maybe a few more pulls at the slot machine. An absolutely HORRIBLE design married to RNG for ALL loot that is unfortunately destined to fail. But, I would recommend playing the first few acts at least. It is a fun combat experience. Hopefully GGG can do something about the worthless economy and utter lack of meaningful rewards apart from an occasional gamble token.",0.721591055393219,206,False
+2694490,182062916,76561198029736632,"""An unexpected disconnection occurred."" 
+
+Clearly we can gather 2 things from this: 
+
+1. Diablo 4 bad 
+2. This is the greatest game of all time.",0.7212422490119934,577,True
+2694490,203159317,76561197996654138,"I don't know game balance doesn't feel right ... Most of the skills are junk. Also many skills that take 3 seconds to activate? This is very active game who would be standing on same spot waiting for 3s for skill to get activated?? This doesn't make any sense. Some classes also feel very under powered for instance warrior compared to which. Maybe game gets better at higher level i'm not sure, but on lower levels it's just huge drag that kills whole motivation to keep playing",0.7205315828323364,368,False
+2694490,186245879,76561198004847075,"Although my critique and rating of the game are negative, I’ve spent almost 200 hours playing it and had a lot of fun up to a certain point. Maybe this criticism will change by the time the game is released.
+
+Pros:
+
+- The game runs extremely well, and the graphics are stunning.
+- The details of the monsters and demons are next level.
+- It dares to provoke and break disgusting barriers. I never thought I’d get hit by rotten breast milk squeezed from the  breasts of a demon mother. Simply epic.
+- The impact of skills – whether arrows from a bow, axe strikes, or spells – is fantastic. Especially in the beginning, you can 
+   feel every arrow hitting the flesh of a demon.
+
+Before diving into the negatives, I have to admit that I never played Path of Exile 1. However, I was constantly told how complex and deep the game’s mechanics were. POE2 is supposed to simplify things, but I was still led to believe how challenging and intricate the game would be, particularly the skill tree and crafting. That made the endgame loot and crafting all the more disappointing.
+
+Cons:
+
+- The loot filter is essential. Unfortunately, it’s not integrated into the game and has to be downloaded and installed from a third party. This isn’t a big issue on PC, but I still think it’s weak that it’s not handled through in-game menus. What do console players think about this?
+
+- Many long-time POE players will hate me for saying this, but their beloved trade website is nothing more than an external auction house. This, too, isn’t integrated into the game, and I have to use a website to trade. This should absolutely be part of the game itself.
+
+- Trading currently only uses two currencies: Exalted Orbs and Divine Orbs. Boring. Many, including myself, have often criticized Diablo 3’s in-game auction house, especially POE players. And even if no one wants to hear it – yes, the POE trade site is an auction house. Period.
+
+- The loot itself is extremely dull. Maybe it’s because of my thousands of hours in Diablo 2 LOD, but almost nothing drops in POE2. You set your loot filter and wait for a blue or yellow item with decent stats. There are no useful unique items to get excited about – most are dismantled right away. Everyone just waits for a God-tier yellow item to drop so they can sell it on the auction house to buy their own God-tier item. There are no sets, no runes, and no rune words. Is this supposed to be the incredible loot system? Blue and yellow items?
+
+- Crafting in POE means applying orbs with random effects to items and hoping for the best. Sure, it feels good to roll great stats once in a while, but it’s not really engaging.
+
+- The massive skill tree isn’t any better than other systems found in existing ARPGs. You have your meta builds, and those are what people play. The tree allows for a bit of variation, but despite its size, it doesn’t offer many meaningful options. It’s all smoke and mirrors. I only mention the skill tree because every POE player immediately points to how massive it is and what you can supposedly do with it. Almost as if they're trying to compensate for something.
+
+All in all, it's a good game, but the boring loot and the utterly uninspired crafting system personally ruin the fun for me. The omnipresent auction house, aka ""the trade site,"" which isn’t integrated into the game, along with the external loot filter, drives me away for now. 
+
+P.S.: As I’ve read countless times in in-game chats, I agree with the sentiment: Diablo 4 is the worst thing to ever happen to the gaming world. Blizzard is dead; the original creators of the classic stories and games are gone. It’s time to move on.",0.7202925086021423,89,False
+2694490,214998029,76561198058751600,"GGG makes a decision of implementing a mechanic, and after players invest ten, or even hundreds of hours they want to change it and crush down casual players, I was happy that I invested into coins supporting the game Devs. Never again. As you said nobody should get nerfed mid league, u did it, why should we trust you again, I m quitting.
+ZERO PRINCIPLES OF HOLDING UR WORD.",0.717990517616272,246,False
+2694490,183007651,76561199145739531,"This game absolutely wrecked me. Bosses hit harder than a freight train, the loot drops dangled just out of reach like the universe was laughing at me, and don’t even get me started on the skill tree—I spent 30 minutes staring at it like it was a math problem I couldn’t solve. My build was a disaster, my ego took a beating, and yet... I couldn’t stop playing. It’s brutal, addictive, and somehow feels like it loves you and hates you at the same time—10/10, I’ll be back tomorrow for more suffering",0.7145633101463318,21,True
+2694490,205698151,76561199178657986,"ran a map with 152% quant, 446% rarity. stacked another 150% rarity on gear + primed quiver (1/6 arrows = 600% rarity).
+
+ggg says rarity on maps doesn’t have diminishing returns… but 446% rarity and still not a single div? not even an annul? i get rng, but mapping shouldn’t feel like a slot machine.
+
+idk how ggg can fix this, but running 400+ rarity on some maps and getting no divs should be illegal.
+
+the real meta right now is just crafting — sit in your hideout, slam crafts, print 100s of divs. meanwhile actually playing the game with giga juiced maps gives you nothing.
+
+fun game, addictive as always, but loot feels giga nerfed and unrewarding.
+
+idk if i would recommend the game, but for the sake of having high hopes for its future i’m gonna choose “yes.”",0.7142940759658813,29,True
+2694490,229397569,76561198052829241,"I havnt showered since i bought this game, every league I feel the need to hear the divine orb drop noise to fix my itch. Its the same feeling people get when shooting up some drugs",0.7130706310272217,60,True
+2694490,192360866,76561198081383649,"As someone who has never played poe1 I love this game personally. Maybe because I never played poe1 I find the slowness nice. It was weird seeing people insta clear maps with teleport+lightning last season which I might be in the minority but I found that boring like whats the point in playing. Main thing I hate was white minions being harder to kill then the rare mobs but they seem to have fixed this. Cool skills, hate that you cant change ascendancy, hate no slot on my skele wand, fun gameplay, cool bosses, maps to big (hate playing the campaign twice for end game), one of the few people who liked the chaos trials (hopefully they didnt change this on act2 right now), like how many unqiues there are, like the story/campaign (not every 3 months though bit to much),  and lot more I forgot just these off of the top of my head. Lots of postives/negatives but I find the game very fun and intersted to see where they go with this. 
+
+JUST MY OPINION AS A CASUAL WHO HAS NEVER PLAYED POE1. I UNDERSTAND WHY PEOPLE MIGHT NOT LIKE IT",0.7097330689430237,321,True
+2694490,200098530,76561198012481203,"I swear, the ARPG crowd is so hard to please. They'll sink 1000 hours into a game like this and then be like ""I'm sorry I simply can't recommend this, it's too much of a grind"". Make it make sense. No one is forcing you to treat this like warframe, you can still have fun playing this under normal human conditions.
+
+The reality is this game feels better to play than any other in its genre and it's not even close. Sure, progression is a bit slow at the moment, but the gameplay is so polished that it's easy to ignore while it's in EA. I don't doubt that changes will be made to improve the progression system/grind factor.
+
+But I'm not even some hardcore min-maxer that sits there with a T-87 calculator adding up my gear stats, I just pick things that have a higher number than my previous piece of gear. In other words, I'm firmly in the ""casual"" category and I've had no problem keeping up with the enemy levels in new acts.
+
+Each class feels unique and completely changes the dynamic of how the game feels. I'm excited to see how this expands in the future.",0.7083792090415955,208,True
+2694490,184714171,76561198048476033,"A Game That Respects Your Intelligence; Not Your Time.
+
+I can't remember the last time I gave a game a negative review. Honestly, I don't want to give this game a bad review either. I want to like POE2. In fact, I am happy to recommend it later if enough things change. My problem is that, at the moment, the game has too many mechanics that are intentionally designed to prevent you from succeeding unless you get lucky.
+
+There are typical video game barriers that are meant to be overcome where the solution is fun and learning. POE2 requires that from you, but asks for so much more; giving you opportunity, then taking it away without offering you the chance to try again. Did an Atlas Map boss defeat you? Congrats, you can never fight that boss again, forfeiting their loot (which includes more Atlas Maps). Did you get one shot, with 4000 shields, from the perfect combo of Rare Modifiers on a monster right out of the gate? Congrats, you didn't just lose the XP in that Atlas Map, but you lost XP from the last 2 Atlas Maps you completed as well. Did really rare currency drop for you, but you immediately died from invisible ground damage? Too bad. It's gone and there are no ""escape death"" skills available in the game.
+
+It is understandable that people would make the ""Git Gud"" argument. I don't necessarily disagree, but what concerns me is that getting ""gud"" in POE2 isn't fun and involves a lot of RNG. Around level 90 the game just doesn't feel fun anymore and most, if not all, of the endgame activities do not have sustainable mechanisms to help players recover from unfortunate experiences without demanding more time, more risk, and other sacrifices...
+
+I don't have a lot of time to play video games. The holiday season is an exception. The last thing I want is to put an hour into a game only to be worse off than when I started. It's okay to slow progression upon failure, but to take it away feels cheap and un-fun. Video games should be an escape and feel rewarding. Even if I did plow through all of the challenges to hit max level, I don't believe I would feel like the time was worth it. And, I would certainly not want to go through that pain again with multiple characters; potentially one I might like more.
+
+I told myself I would review the game after hitting level 90 to give it as fair of an assessment as possible. There are things I love about POE2, but the endgame, as is, does not want me as a player. It isn't my style. Honestly, I feel as though the design choices I outline in this review (and many more) are antithetical to what gaming is all about. As an engineer myself, I have a bunch of ideas I'd bring to their brainstorming sessions, but I know I'm just one player. If you are like me then I cannot recommend POE2 until GGG values our time better or until it fully releases for free.",0.7082391381263733,77,False
+2694490,194684416,76561199092963867,"I have recommended this game. 3 of my friends came into this game with huge aspirations. 
+Being D2 players in the day. None of them are here to play it anymore. The moment this game began relentlessly shitting on you with no respect to the players or their time, they all walked away. 
+And I doubt they return
+
+I now, after 700 hours, cannot earnestly recommend this game. 
+
+I have heard time and time again, it's intuitive compared to POE1. If you're comparing games, sure.
+If you're a new player entirely, not at all. They hold you hand for the simplest, most obvious of basic things. (ie: 1 to Heal, 2 for Mana, Equip Items, Portal to town - Inventory Full). But fail to give you the simplest explanation over crafting and upgrading, utilizing Resistances, stat usage. Using the Currency Market or Trading. FFS, not even a menu or some kind of journal or context to explain this stuff. To be quite frank, in contrast, the game is very unintuitive.
+
+Despite having this HUMONGOUS skill tree. You do not have freedom within it. Every character is inevitably locked into a few meta builds (literally 3-4 buiilds) that will yield forward progress late campaign through mapping. This is becoming quite stale. 
+
+The new Map/Tower system....Let's disrespect the players time even more! Didn't like losing the map, loot and 10% exp with one death? Well now you can die multiple times and lose 10% PER death. But you keep the map and loot! Yeah, we went from losing A map, the unclaimed loot, and ONLY 10% of your experience with a death. To now you can die as many times as allowed per Waystone. The map and loot hang out til then. Buuuttt........you also loose 10% exp EACH time you die. Gimme the old system back.
+
+I've seen GGG game directors constantly take interviews from streamers and the hardest of core players that are vets from POE1, going over issues with the game. Here's an idea. Do an interview with a panel of legit new Poe players. How about you learn why most of your new players have failed to stay here and keep playing? 
+
+I'll revise this as I go. But if you don't want to have your time wasted on so many levels. Please go find another game.
+
+I am personally on the brink of walking away myself. For how long, who knows?",0.757876992225647,167,False
+2694490,218072808,76561198080597072,"Path of Exile 2 has been a really pleasant surprise for me. The biggest selling point was native local co-op with shared screen on PC. Unlike Diablo IV, Grim Dawn, Titan Quest, Torchlight and even the first Path of Exile, which only offer online co-op and/or couch co-op on consoles, this lets me play on the same PC with my wife. That's a huge selling point for us, and I honestly think the store page should clearly mention it with the appropriate tag.
+
+I barely played the original PoE, so I cannot really comment on lore or continuity. I have just reached Act 3, so I have no feedback on the endgame content yet, which seems to be the focus of many controversial reviews. So far I am just enjoying the strong Diablo 2 vibes. I played that game nonstop back in the day and loved its atmosphere, and the environments here feel very close in spirit.
+
+The graphics are good, with a strong art style, and performance has been solid for an Early Access title. I do not have deep experience with classes, but the three I tried felt balanced and different enough to support distinct gameplay flows.
+
+Some quality of life improvements are needed, especially for the gamepad interface. I would love easier access to certain features across menus, like being able to socket support gems directly from the skill menu, and generally making some interactions less convoluted. That said, it is still Early Access, so this feels understandable.
+
+I did run into some server instability, heavy lag, and a few cases where the game froze with a ""Game Paused"" message. From what I read around this may be tied to ping going over 100 ms. That could be a problem if you live far from the available servers, so it might be smart to check the server list before buying the Early Access support pack. I also had long freezes after several hours of play that eventually turned into a loading screen and put me back exactly where I left off, with no progress loss. I am not sure if that is a local memory issue or a server desync.
+
+Overall, my experience has been positive. As a Diablo 2 LoD veteran playing alongside my partner, who is still fairly new to isometric ARPGs, we are both having a great time.",0.7066336274147034,36,True
+2694490,212647856,76561198056389644,"I purchased the supporter pack and I ended up deleting my account trying to link Sony and Steam. Entirely my fault and I accept that I've lost any saves or data associated with those accounts. However, I now can't play the game at all and after going back and forth with support for 2 days, and providing a receipt for my purchase they say I have to just purchase it again. I'll just say the game is no way good enough for me to pay for it twice. 
+",0.7055802345275879,446,False
+2694490,182418093,76561198168473852,"Im by no means any kind of POE expert, I've put like 100 hours into the first one. I like ARPGs but I dont have time to no-life them. I got 3 or 4 d4 characters to 100 so nothing crazy. That being said, Im still in the campaign here, but Im having a blast, Ill never play any of the older ARPGs again. This is one of the best EA releases ever, I think its easily the best in recent memory. I've had a couple stutters here and there and got booted maybe twice so far, it's an incredible feat especially considering the amount of players on day 1. I can't speak to the difficulty or system changes from POE1 but I will say that, halfway through the campaign, I feel like I have a decent grasp already, it's not as complicated as it looks. I know that a lot of players coming from POE1 have some growing pains, but if you're just a fan of ARPGs, and are willing to try something a little different, there's a good chance you'll never look back.
+
+10/10 for an Early Access, IGN is a terrible website, Amen.",0.904181182384491,451,True
+2694490,182960181,76561199558562334,"[h1][b][u]My Ongoing Journey with Path of Exile 2![/u][/b][/h1]
+
+Early Access Struggles: The Noob Chronicles
+
+Prior to this Early Access, I played around 70 hours on the original game, give or take a few dramatic rage quits, and let’s just say my experience wasn’t exactly award-winning.
+
+I jumped into Path of Exile 2 with zero expectations; I knew from the start it wasn’t going to be easy. So imagine a hyperactive cheerleader with zero rhythm, that’s basically me trying to master this game. I died a lot. Like, embarrassingly often. Bosses turned me into a pincushion, and my build? A glorified paperweight that barely did any damage early in my playtrough.
+
+Grinding, Building, and Finally Winning
+
+After a lot of trial and error, and countless rage quits, I discovered the magic formula: patience, persistence, and a bit of luck. Building a decent character in PoE 2 is like assembling IKEA furniture blindfolded, frustrating but oh-so-rewarding when done right.
+
+Once I landed on a working build. ... 😈
+
+the gears started turning. Bosses got less deadly, and leveling felt like progress instead of punishment. The game’s notorious difficulty softened a bit, and I even managed to snag some wins that felt legitimately earned. Not bad for a guy who used to die just opening a chest.
+
+Updates and Endgame: Smooth Sailing… Kinda
+
+Fast forward to recent updates, and things have eased up, mostly because my character’s a tanky beast now. Grinding the early game over and over gave me a leg up, and the new content didn’t feel like an insurmountable wall.
+
+That said, the endgame is still a beast. Hardcore players will have their work cut out for them, and the trading system remains a maze I haven’t fully navigated. For me, it’s casual grinding and occasional boss fights, and that’s perfectly fine.
+
+Trading, Community, and the Hardcore Divide
+
+Let’s be real: I’m not the trader king or hardcore min-maxer. I mostly play for the fun of the journey and rely on community tips to avoid faceplants. PoE 2’s player base is brutal but also incredibly supportive if you stick around and ask questions.
+
+If you’re a hardcore PoE veteran, this might feel slow or shallow. But for casual players like me, it’s a wild ride that rewards perseverance more than perfection.
+
+Final Thoughts: Still Challenging, Still Worth It
+
+Path of Exile 2 isn’t a walk in the park. It’s more like a hike up a mountain wearing flip-flops. It’s tough, unforgiving, and sometimes downright confusing. But when you finally conquer a boss or figure out a build, it hits that sweet spot of accomplishment few games can match.
+
+Will I keep playing? 
+
+Hell yes. Despite all the chaos and frustration, this game scratches an itch no other RPG does. Just don’t expect to be good right away, mess up, get roasted, level up. Repeat.
+
+📜 TLDR NOTES:
+
+[code][b]⭐ For me the WASD and the added roll/dodge were a must for me to pull me into this genre.
+⭐ Positioning, and reactive reflexes are very important, without them you will surely die!
+⭐ The lack of in depth knowledge en understanding boosts community interaction.
+⭐ Visuals and voice acting are from the highest quality, they nailed it in this game.
+
+I never expected myself to enjoy this type of game, but the Early Access drew me right in![/b] [/code]
+[code][b]⚠️ While I believe this game is more accessible to a larger audience, it may still not be for everyone, particularly due to its steep difficulty, challenging learning curve, and significant time investment required. If you're not prepared to dedicate considerable effort to mastering the mechanics and overcoming tough challenges, it might be best to wait for the free version before committing![/b] [/code]
+[code][b]📢 As this is an Early Access release, updates by the developers are inevitable, and my experience is likely to change as I advance beyond the first Act. Accordingly, this blog will be updated over time![/b] [/code]
+
+[table]
+[tr]
+[th][/th]
+[th][/th]
+[th][/th]
+[/tr]
+[tr]
+[td]Utility[/td]
+[td]💚[/td]
+[td]Expands the genre to a wider player base; bolsters rich content and features; Passive skills and crafting are deeply woven into the root of the gameplay.[/td]
+[/tr]
+[tr]
+[td]Controls[/td]
+[td]💚[/td]
+[td]Combat controls are responsive and satisfying; The interface is straightforward; no hand holding, encourages exploration and community interaction![/td]
+[/tr]
+[tr]
+[td]Performance[/td]
+[td]💛[/td]
+[td]Runs smoothly overall; I ran into some minor network jitters. I streamed while playing on the same rig, the optimization kept things stable and enjoyable![/td]
+[/tr]
+[tr]
+[td]Pricing[/td]
+[td]💛[/td]
+[td]Free-to-Play offers great value, cash shop is mostly cosmetic; some pay for convenience transactions are present; micro-transactions are not being pressured![/td]
+[/tr]
+[tr]
+[td]Interface[/td]
+[td]💚[/td]
+[td]Sleek and intuitive, offering easy access to essential info; Boosts accessibility and ensures a smooth experience for players of all levels.[/td]
+[/tr]
+[tr]
+[td]Immersion[/td]
+[td]💚[/td]
+[td]With rich lore, immersive audio, and stunning visuals, the game pulls players into a world full of adventure and discovery at every turn.[/td]
+[/tr]
+[/table]
+
+[h1]Enjoy and Happy Gaming![/h1]
+
+[quote=kevanh79] 🛈 Note: English is not my native language. While I am self-taught and always checking for grammatical errors, some may still slip through the cracks. I am trying to improve and update these mistakes when I find them. Feel free to point them out in the comments if you spot any.[/quote]",0.7033028602600098,62,True
+2694490,228300786,76561198349544684,"My first ARPG, and I have to say it was totally worth it. I still have a lot to learn and my builds are probably a mess, but thanks to all the guides online, I've been managing just fine. It's been a really fun experience so far!",0.701984167098999,27,True
+2694490,196759565,76561198044267972,"(Disclaimer: I know I'm a few hours shy of the 3,000 required to have a valid opinion on this game (and its predecessor), so if you're a longtime PoE veteran, please forgive my utter hubris in posting this review. I'm sure seeing a disgusting casual like me must be deeply sickening to you.)
+
+The good:
+
+[list]
+[*] Combat feels weightier and animations are extremely polished and satisfying
+
+[*] Visual effects such as flames and electricity are incredibly well made, and both effect and ambient lighting are gorgeous
+
+[*] A lot of the core changes to things like skill gems, currency, and the passive tree successfully address many of the things I didn't enjoy about the first game
+
+[*] Divisive as it is, I like the switch to more active, action-based combat, at least in concept. Blocking with shields, dodge rolling, etc. make the game feel more dynamic. In practice, though...
+[/list]
+
+The bad:
+
+[list]
+[*] Bosses suck. I'm sorry, but they do. The hard ones are miserable and the easy ones are boring. Having 80% of the arena slathered in lethal (but visually impressive!) elemental damage you may or may not be built to partially resist is a lame and anti-fun design choice. And it's unfortunately a VERY common mechanic. Most of them have gigantic health pools, too. So after you're done mowing down hordes of enemies and feeling like a badass, you can slowly chip away at this angry lightning man for 15 minutes while he shouts tropey villain quotes at you and then vaporizes you for flubbing a dodge roll.
+
+[*] The entire game seems designed to punish melee combat. In the first game, you were basically forced to max out your defensive stats to an absurd degree if you wanted to play a tanky bruiser, but it was doable. In PoE2, every combat mechanic seems to be built around punishing you for even being in proximity to enemies. As someone who prefers up-close melee combat, the game just feels generally hostile towards my playstyle.
+
+[*] Loot and quest rewards feel almost barren compared to PoE 1. They've purportedly made attempts to adjust this, but damn do I just feel so unrewarded most of the time. And vendors usually have mediocre inventory, so you can use all that gold to buy a blue-text weapon with bonuses to light radius and the wrong primary stat. Yeah, that sounds exciting. Sure.
+
+[*] As with the first game, the community is awful. The most vocal ones are the usual bootlicking no-lifers with 7,000 hours who respond to every complaint about the game with ""bro its so easy tho, just don't suck, the devs literally killed my family and cut off my arms and you don't hear ME whining about it"". When guys like these are providing the bulk of the feedback the devs get, it kind of starts to explain how this game ended up being so frustrating.
+
+[*] The hyper-expensive microtransaction model hasn't changed from the first game. 5 bucks for an item that lets you hide a piece of armor. A SINGLE piece of armor, on ONE character. Want more than one at a time? 5 more bucks. Want an armor set that doesn't look like drab garbage from the normal loot table? 40 bucks. Oh, but you can't toggle the annoying visual effect that comes with it. Obviously. Pay up, idiot.
+[/list]
+
+TL;DR Polished and good-looking but bosses suck, loot sucks, the community sucks, the MTX's suck, and the overall experience is more frustrating and unrewarding than its worth. Will it get better with time? It's possible. Will it get worse instead? Also possible. For now, I think I'll play something else.",0.7513352036476135,62,False
+2694490,182143755,76561198018894642,"This is not an extensive review but my thoughts after 8 hours in-game ([i]okay let’s be real, a couple of those hours were waiting to get into the game[/i]). But once in, damn it was fun. Gorgeous environments, combat feels good and the animations and magic effects are beautiful to look at. 
+
+I played with a friend and once in it was easy to join up and loading into areas was seamless and quick. 
+
+I supported GGG way back in 2013 when they launched the first game through their website. I have to admit I never stuck with POE over the years. When I heard the hype for this one I was intrigued and when I dusted off my very old account my donator items from years ago were still there, including my stash tabs (which moved over to this game)! Now that was beyond impressive. Hats off to GGG. Any other company would have deleted my old account and made me buy those tabs again. So the devs had my respect and support once again. 
+
+And this game, it is my game of the year. And I have never said that about an early access game before. Yes there are some server disconnects but putting that aside and once in game, it just feels so fun. 
+
+So these are my thoughts, as a few friends have asked me about what I think of it. Judging by how many people turned out to support the devs in early access and the attention it is getting, a lot of other exiles are ending their year on a high note with this game. ⚔️",0.700227677822113,105,True
+2694490,210333208,76561198809992752,"Path of Exile 2 is shaping up to be one of the most ambitious ARPGs in years. Even in its current state, it’s clear that Grinding Gear Games has taken everything that made the original great and pushed it to an entirely new level. The combat feels heavier and more responsive, the environments are richer and more atmospheric, and the new class archetypes offer a refreshing variety of playstyles.
+
+The redesigned skill system is a standout feature. Linking skills through support gems feels more intuitive, and the visual impact of spells and abilities has been upgraded across the board. The game rewards experimentation, and every build feels like it can evolve into something unique.
+
+Performance has been surprisingly stable, and the visual overhaul is stunning without feeling overwhelming. The soundtrack and sound design also deserve praise-every hit, spell, and monster roar lands with weight.
+
+If you enjoyed Path of Exile 1 or simply love deep, loot-driven ARPGs, Path of Exile 2 is absolutely worth your time. It’s still evolving, but the foundation already feels extremely promising. I’m excited to see how the game grows from here.
+
+Rating: 9/10 - A bold and exciting evolution of the ARPG genre.",0.6957243084907532,56,True
+2694490,229821729,76561198013334427,"Don't ever uninstall the game and not play it for a long time. 
+When i reinstalled to play guess what happend?;
+
+I'm afraid that your account has been permanently banned for breaching of our Terms of Use. After a thorough investigation of this account there is no evidence to suggest the ban was applied in error and we will not be reinstating access to the account.
+
+
+
+The ban was placed due to a breach of Section 7 of our Terms of Use, and as is mentioned in our Terms of Use under Section 16, you will be solely responsible for all activities undertaken on your account.
+
+
+
+According to Section 7 of our Terms of Use, under no circumstances, without the prior written approval of Grinding Gear Games, may you:
+
+- Adapt, reproduce, store, distribute, print, display, publish or create derivative works from any part of the Website, Materials or Services other than in accordance with the Licence.
+
+- Modify or adapt (including through third parties and third-party tools) the game client or its data, other than in the normal course of PoE gameplay as permitted in accordance with the Licence.
+
+- Utilise any automated software or ‘bots’ in relation to your access or use of the Website, Materials or Services.
+
+- Knowingly perform any actions that may cause the computers used to support the Website, Materials and Services (the “Servers”) to become overloaded or crash.
+
+- Connect to the Servers through any software other than the authorised game client software.
+
+- Use any data gathering and extraction tools or software to extract information from the Website or utilize framing techniques to enclose any of the contents of the Website.
+
+- Use any meta tags or other hidden text which incorporate Grinding Gear Games’ name or any of its intellectual property including trade marks.
+
+- Perform in-game services during your use of the Website, Materials or Services for any form of compensation outside of PoE.
+
+
+
+This includes the use of third party software such as botting and trade tools, and also Real Money Trade (exchanging in-game goods or services for external compensation).
+
+
+
+This account closure is permanent, and will not be reviewed further. Any further correspondence about the closure of this account may not be replied to by our team.
+
+
+
+You are welcome to create a new account if you wish to continue playing, provided you adhere to our Terms of Use on the new account.
+
+
+
+Kind regards,
+
+Accounts Investigations Team 
+
+0 Transparency on what I did to make it to a ban. I don't even know whats going on and have no avenue to address this with the support team now that they retroactively just decided that a generic reply for a review is sufficient to stop communication/discussions.",0.6956260800361633,98,False
+2694490,185191730,76561198104032233,Its like modern D2 with fantastic atmosphere. Amazing,0.6922263503074646,42,True
+2694490,187849465,76561198074260101,"[h2] Path of Exile 2[/h2]
+
+From the very first minutes of the game, I was pleasantly surprised by the physics, movement quality, and combat mechanics in general. You could say that the visuals are no worse than Diablo 4 (and in some situations, even more interesting). 
+
+Of course, the budget difference is colossal - one studio can literally create short films for its story - but for me, that's probably the only area where Diablo has the upper hand. If you want to chill and enjoy a cinematic storyline, that's the game for you.
+
+But Path of Exile truly shines in battles against mobs and bosses - the sheer variety of builds and progression is insane. Almost every boss is unique in its own way, and this is the first Souls-like Diablo-style game I can remember (even though it loses some of that feel in the endgame).
+
+The gameplay is pure excitement, and defeating mobs and bosses gives you a real dopamine rush - unlike the complete indifference I felt in Diablo 4. I want to wait for the full release and finish the remaining unfinished acts before diving into the endgame, but from what I’ve seen so far, I’m more than satisfied!",0.6901742219924927,79,True
+2694490,203223229,76561198045112414,"Enjoy a ranged game? sure, you might like it. Have any inclination to play a melee character? Don't bother. The entire game is designed with ranged in mind and GGG has failed, at least for me, to open up melee as a viable option.",0.6880666017532349,49,False
+2694490,187507219,76561199058999083,"Unfortunately, after almost 300 hours spent in this game, I've come to the conclusion that I can't really recommend it.
+
+The honey moon phase is FANTASTIC. I've never played any other similar aRPGs, the Diablo games and the like nor the prequel, but despite the slightly overwhelming learning curve of the beginning I quickly became very addicted to this game. The campaign is fantastic and I enjoyed completing it many times with different kinds of builds that felt absolutely riveting to level up. For that experience alone I still hold this game in high regard. Someone somewhere said that learning is ultimately the best part in any videogame, and the amount you get to learn here to make yourself powerful feels really rewarding.
+
+The problem is the endgame, and specifically one particular aspect of it that kills the game for me: loosing XP when dying. Now I get that there's got to be some kind of a consequence and punishment for dying (and playing badly), and there's arguably several here (loosing the Waystone and any items on the floor you didn't pick up), but the loss of the XP is just disrespectful to the player's time. Maybe I'd feel differently if I wasn't in my 30s now and felt like I'd have more time to dispose into gaming, but since that's not the case, this punishment feels horrendously frustrating. And it's not like I didn't try to min-max the heck out of the possibility of dying: I've watched several endgame build tutorials on how to stack defensive stats through leveling and gearing, spent hundreds and hundreds of exalted orbs onto really cracked gear, upgraded everything to the max and stacked resistances etc, but no matter what, sometimes you get deleted in seconds to some silly garbage you can't necessarily even see, which feels even more of a slap to my face. There's no out-learning the mechanics that kill me when sometimes I haven't the faintest clue what got me killed, and ofc you can't learn to avoid dying in something like a Souls-game by memorization since the maps, mobs and their modifiers are randomized etc. The Souls-games, generally considered very ""unforgiving"" are really nothing in comparison to this: in a Souls-game, you still get the chance to retrieve your potentially lost XP/currency (aside from Sekiro) if you end up messing up and dying, and 99% (if not 100%) of the time you're also able to play evasively and homeward out in order to make use of the souls (XP) in case you want to chicken out and not risk loosing your progress before tackling the new challenge. Slight tangent here comparing the experience to an entirely different kind of game, but the point is that POE 2 is frustratingly unforgiving with your time and effort to level up your character in the endgame, especially when the prospect of managing to get the next defensive or offensive node seems like the possible one that's going to help you survive a lot better in the future.
+
+If they'll end up changing their minds about this and changing what punishment for dying in the endgame looks like, I'll be happy to re-install the game and to continue playing, but as for now, I'm REALLY not up for loosing progress again and again because of some nonsense. And I can't recommend you to play the game that far either; there's just better things to do with the time that you'll loose.",0.6872556209564209,74,False
+2694490,183123445,76561198016581033,"The game hard crashes taking the OS with it, requiring manual shutdown by using the power button.
+
+GGG has been silent about this issue except a single post in known issues which misdiagnoses the problem as a ""Win 11 24H2 issue"". GGG requested DxDiags and did not access them.  GGG does not mention this issue in the patch notes.
+
+Currently on the Path of Exile 2 Early Access Bug Reports Forum has two main threads:
+1) Hard crashing PC locks up: 248 Pages, 2471 Replies, 146069 Views. Created at 7th of December, 2024.
+
+2) POE 2 Complete PC Freeze while loading screen: 216 Pages, 2159 Replies, 204635 Views. Created at 7th of December, 2024.
+
+In comparison the entire ""[POE 2] Bugs"" thread has 138 Pages, 1370 Replies, 29196 Views.
+
+In terms of ratio, more than half of the replies and views to the forum belong to these two threads.
+
+There are no bugs that are more important than this. This is not ""I cannot use X skill bug"". This is ""improper usage of system APIs by the application"" causing ""100% CPU utilization"" leading to a crash, resulting in ""shortened component lifespan and possibly bricking PC"".
+
+There are people who have lost their PSUs, SSDs, GPUs, CPUs, Bluetooths, USBs... Any part you can put in a PC, there is someone on the forum that have lost it due to this ""bug"".
+
+This happens on every kind of OS and hardware.
+
+OS: Happens on Linux, Win10, Win11.
+Hardware: AMD and Intel CPUs, AMD and Nvidia GPUs in all types of combination. If a hardware can run it, there is a person with that hardware on those 400 page threads with this crashing bug.",0.786098301410675,1721,False
+2694490,201448356,76561198026804799,"If they designed this game around the offline 'SSF' experience it would probably be my favourite game in any genre ever. 
+
+And yet as it is, I genuinely hate it. Why?
+
+Because I hate the concept of seasonal content. I hate server issues. I hate trading with other players. I hate classes that are fun getting nerfed to protect 'the economy'. I hate the concept of an in-game economy. I hate that their in-game economy is inherently capitalistic. I hate server issues. I hate essentially being forced to redo the whole campaign again every season. I hate drop rates on necessary crafting items being pitifully low just so trading no-lifers can feel wealthy. I hate server issues.
+
+I'd very happily pay for an offline, stand-alone version of the game at full release for the price of a full game. Because the actual game underneath all the bullshit is brilliant.
+
+Fuck the 'micro'transaction model of monetisation. It kills fun.",0.686030387878418,2172,False
+2694490,186065880,76561198038803871,It's crazy how much better this is than diablo. this is what we should have gotten instead of diablo 3 and 4. only a handful of hours into it but it's safe to say i will most likely never play diablo after playing this. it's better is every single way.,0.6855283379554749,104,True
+2694490,184786730,76561198026951607,"I dont mind pointing out all the ""good"" things about this game and would gladly praise where it's good and give it a positive review. But honestly, the bad things causes incredible frustrations that overshadows the good I'm just going to say it - dont buy this game. I'd refund if they'd let me. 
+
+Mobs On-Death Player Kill ; decades later this is still a thing. It serves no purpose other than to slow you down and take the fun away. It's not even a ""let me damage you a small amount of damage and it takes multiple to kill you""- it's literally a 1-shot death, big boss, rare mobs, magic mobs, WHITE mobs can all do it. There are so many poorly visual overlap that you wont even be able to recognize it. So you'll get a lot of ""how did i just die question mark"". 
+
+It's not a die and let's redo it again - because when you die, you lose 10% exp, it's a couple hours of your life when youre 90s+ level. You also lose the map, modifiers, items and all the buffs you put onto that map. It's a 1x try and if you fail you have to reinvest again in order to retry. The thing is, it's not a once in a while thing, it is a CONSTANT thing, every single map and every single mob as the potential to just auto kill you after you kill it. You can spend 300 hours to find an end game boss and dies and have to repeat that RNG again.
+
+At this point - it feels like i'm playing a game where theres' 10 monsters that im using AOE on, and if i accidentally hit that 1/10 mob that's inserted in there, i'll die and lose all my progress. That's literally how it feels. Did I just give GGG a new idea to implement just now? A hidden monster in the mobs that if we kill we auto lose similarly to killing FPS hostages in rescue missions?
+
+The punishment is just absurd - it's always more steps back than forward. You could be grinding 10 hours a day and make zero progress in the game for some very specific reasons. 
+
+- exp lost, you can farm for hours and it just takes 1 death to take it all away
+- items balancing - you can farm days for an ""upgrade"" and not be able to use it because you'd have to rebalance your entire 75 minimum resist to even be able to play the game. So no, your ""upgrade"" isnt an upgrade, it's sitting in your stash for days/weeks until you can find the other 5-7 pieces to make it usable. Keep in mind in end game it could cost a fortune per items.
+- the balancing ~ literally the game makes it where if you do not have the mandatory resist? you simply dont play the game. Not all stats are created equal but some are just mandatory absurdly implemented. 
+
+GGG can claim to be a game for hardcore all day - but let me tell you something - from a business standpoint? your real $ and revenues inst from the HC players and the dedicated grinders - it's your casuals that works a full time job and can play a few hrs a day. 
+
+Once the hype goes down - expect this game to drop like any other if they keep up with this ridiculous punishment that has no place in today's ARPG. 
+
+Advice for GGG - hire a few psychiatrist and ask them to explain why people play video games and whats actually keeping them playing. Run a few studies and data mining - you'll be surprised that if you'd fix those things? you'd be far more successful.",0.6844901442527771,51,False
+2694490,220521766,76561198096211770,"Please add a proper transmog system. All the uniques look cool but 90% of the time will be awful for your build. The stupid $0.60 one time skin transfer is lame, and there is no reason my end game character should look like shit without spending $50 on a skin.",0.6839835047721863,18,True

@@ -1,0 +1,1593 @@
+appid,recommendationid,author_id,review,weighted_vote_score,votes_up,voted_up
+1237970,71153263,76561198069812185,"This game should have been huge and taken over the FPS scene. Now you've got another chance to try one of the best FPS games in years. 
+
+Even when the hype fades and the multiplayer possibly dies down again, the single player is beyond worth it.",0.9781932234764099,1653,True
+1237970,70996987,76561197997661934,"[b]HUGE DISCLAIMER[/b]
+The Steam version of Titanfall 2 STILL REQUIRES ORIGIN. It has NO useful Steam integration whatsoever. It launches the game through Origin, and you can only invite friends through Origin. If you've already got Titanfall 2 on Origin, you may as well skip this. 
+
+THAT SAID
+Titanfall 2 is one of the greatest (if not [i]the[/i] greatest first person shooters of our generation. The game's four years old, I'm not sure I can say anything that hasn't been said before.  The story is short and sweet, and genuinely really really good. The multiplayer is the meat of this game, and it's fantastic. Movement is fast and fun, shooting feels great (I mean, these dudes made Modern Warfare, so), piloting a giant robot is sick as hell.
+
+I don't know what to tell you. If you play FPSs and you've never tried Titanfall 2, you owe it to yourself to buy this game.",0.9737441539764404,1657,True
+1237970,71326410,76561198353074156,"Battlefield 1 release date: October 21, 2016
+Titanfall 2 release date: October 28, 2016
+CoD: Infinite Warfare release date: November 4, 2016
+
+EA released Titanfall 2 smack dab in the middle of the 2 biggest shooters of 2016. Any chance for longevity and a healthy player that the game may have had was pretty much dead on arrival. This game is truly a gem in the rough. As far as first-person-shooters, there is nothing quite like it. Multiplayer, Story, graphics, balance, and attention to detail are all top notch. Don't hesitate to buy Titanfall 2, it is truly a master of its class.",0.9700308442115784,1075,True
+1237970,71249615,76561198059533824,I literally don't understand why anyone still plays Call of Duty in a universe where Titanfall exists.,0.95655757188797,2222,True
+1237970,138208238,76561198133858081,"[u]Warning:[/u] If you are looking to play multiplayer and you are using Intel 10th gen or newer, you will fail to establish a connection to the server unless you do this workaround:
+
+[u]Windows:[/u]
+
+1. Right click on ""This Computer"" then > ""Properties"". 
+2. Once you are there find the setting ""Advanced System Options"" 
+[u]NOTE:[/u] If the window is opened through the traditional control panel then it's gonna be on the left hand corner of the window, if you are accessing this through the newer settings application found on Windows 10 and higher, then it's gonna be on the right hand corner.
+3. Go on the ""Advanced"" tab and find ""Environment Variables..."".
+4.Once you are there, we are greeted with two fields, the upper one is for your user account, the second one is global for your entire OS. We need to edit the one affecting the entire OS. You have to click on ""Create"" and add the following entries:
+[u]Variable Name: OPENSSL_ia32cap
+Variable Value: ~0x20000000[/u]
+5. You are now ready to play Titanfall 2. Just make sure to restart the game if it was still running in the process. I personally restarted my computer as well just in case.
+
+[u]Linux:[/u]
+
+[b]Tip: Keep in mind that you have to run the game in ""Proton Experimental"". Otherwise the EA launcher will keep crashing on startup.[/b]
+1. Open Steam, find Titanfall 2 in your library, right click on it and go to ""Properties""
+2. Head to the ""General"" tab and find the section with ""Launch Options"" which should be located at the bottom
+3. Paste this on the launch options field:
+[u]OPENSSL_ia32cap=~0x20000000 %command%[/u]
+[u]NOTE:[/u] Steam specific commands go after the ""%command"" separator, before it, specific to Linux commands only work. If you are looking to enter other Linux specific commands such as ""mangohud"", just separate them with an interval (spacebar).
+4. You are now ready to play Titanfall 2. Just restart the game if an instance of it is already running.
+//mandatory [url=https://i.imgur.com/cm0sabk.png] neofetch [/url]
+//[url=https://i.imgur.com/KLVPMFt.png]windows edition [/url]
+
+[u]Alternatives:[/u]
+If you are still having connection issues with the official servers, I recommend giving Northstar a go. Unlike the vanilla servers, this worked out of the box. Though keep in mind, Northstar disconnected me pretty frequently before doing the variable workaround. I tried recreating the issue, but I have been unable to so far, so even if you choose to play on Northstar, please do the workarounds. I have the download page linked down below and also a guide on how to get it to work on Linux.
+https://northstar.tf/
+https://r2northstar.gitbook.io/r2northstar-wiki/installing-northstar/steamdeck-and-linux/installing-on-steamdeck-and-linux
+
+
+Sources: https://www.intel.com/content/www/us/en/developer/articles/troubleshooting/openssl-sha-crash-bug-requires-application-update.html
+[u]//thank you smaleef for reminding me about northstar[/u]",0.9558298587799072,415,True
+1237970,71856735,76561198393005716,"Titanfall 2 is a first person shooter fans dream.
+Fast fluid movement, cool gadgets and toys, huge robots, teamwork and tractability, responsive shooting, and a fantastic campaign to go with it!
+
+Gameplay: 9/10
+Visuals: 9/10
+Story: 9/10
+Audio and sound design: 9/10",0.954367458820343,685,True
+1237970,162752487,76561198011612085,"Best FPS ever made. If the devs could stop focusing on Apex and actually work on a good game again they need to either support this game or just make TF3 already!
+
+Edit: (2025) Highguard... I said Titanfall 3. I don't think the devs read these reviews at all.",0.954083263874054,426,True
+1237970,75943577,76561198289206143,"I have more than 4,000 hours between CSGO and Rainbow Six Seige. And it is one my greatest misfortunes i think that i found those cancerous games before Titanfall 2. This is not competitive, tactical or strategic. It's just fun, y'know, the thing all games are supposed to be. The rush of having a 20 ton titan hunting you down as you run for your life is unparalleled. All while your butthole is clenched so tight it could be an airlock on the ISS . This is the best first person shooter i have ever played. Even though the hit reg sucks balls at times i rarely ever feel cheated by the game simply because of how many options there are to save myself. most deaths feel justified, and kills feel deserved.",0.9527657628059387,539,True
+1237970,148421424,76561198044505156,"For the uninformed, Titanfall 2 is the game that Respawn Entertainment made before they made Apex Legends. Everyone knows about Apex Legends at this point, right? Compared to this game, I have ten times more hours in Apex across Origin and Steam, spread across 4+ years and 18 seasons at the time of writing. Clearly, I like Apex a lot (or at least I used to, at any rate), and I'll probably continue to play Apex in some capacity for the foreseeable future, no matter how much it may abuse me. Titanfall 2 makes me regret spending that much time in what I now think is a vastly inferior game.
+
+Titanfall 2 is so much better, so much more [i]fun[/i] than its follow-up, that it's kind of incredible. Like Apex, I played this game on Origin first, so I have about 250 hours total. I genuinely think that in those 250 hours of Titanfall 2, I had roughly as much fun as I had in about 2.5k hours of Apex Legends. This game is honest-to-god 10x more fun than Apex. I have yet to meet somebody who played this game and did not like it.
+
+If you like movement shooters, [i]buy this game.[/i]
+If you like giant robots, [i]buy this game.[/i]
+
+If you like movement shooters but hate giant robots, there are giant-robot-free game modes, so [i]buy this game.[/i]
+If you hate movement shooters but like giant robots, there are giant-robot-only game modes, so [i]buy this game.[/i]
+
+If you hate movement shooters and also hate giant robots, do not buy this game.
+If you hate shooters in general, why are you even here? But also definitely do not buy this game.
+
+For everyone else, wishlist this game; when it goes on sale, [i]buy this game.[/i]
+
+
+
+
+
+Alright, now I'm just gonna gush and ramble and critique for way too long. You can and probably should stop reading here, but if you want to understand why I was jerking this game off so hard, you might get some answers below.
+
+This game truly has it all. A quality campaign, incredible PvP, and a hidden gem of a PvE mode. And in every mode, you will experience some of the best movement in any GAME, let alone shooter. Also in every mode: piloting giant robots. That shit is just plain cool. If you disagree, I respect your opinion, but I also think you are lame as fuck.
+
+
+[b][u]Campaign[/u][/b]
+The definition of short but sweet. A bit overrated, IMO, but man, it's still really good. Just packed with creativity, every level is unique in some way. Even the worst ones are still mostly enjoyable because of how good the movement and gunplay are. It's also a great training course for multiplayer pilot gameplay. My only complaint is that it absolutely does not prepare you for multiplayer titan combat. Your campaign titan may share loadouts with the multiplayer titans, but it otherwise functions very differently.
+
+A word of warning: Do not play on the hardest difficulty on your first playthrough. If you are bad at games, it will be impossible and miserable. If you are good at games, it will be possible, but tedious and still a little miserable.
+
+
+[b][u]PvP[/u][/b]
+This is the main attraction. For every match that's a terrible experience, I have 10 that were joyrides from start to finish. I will admit that I still haven't played every mode, but pretty much all of the ones I tried have been at least decent. 90% of my PvP matches are in the 'main' mode, Attrition. Attrition is honestly kind of genius. The developers found an answer to the question, ""Without making the lobby size huge, how can a military shooter still feel like an actual war?"" Attrition is 6v6 TDM with giant robots and computer-controlled ""fodder"" units. I put that in quotes because the AI can fuck your shit up if you're not careful. Not a common occurrence, but it's always embarrassing when it happens. Adding titans and AI opens up a surprising amount of gameplay diversity. Bad at pilot combat? Farm AI until you can call down your titan. Bad at titan combat? Auto-Scorch with Assault Chip; use that sucker as bait. It'll pick up a few random kills, too. (I've heard Auto-Northstar can be lethal as well.) Bad at everything? Well, at least you respawn fast. (Can't say the same for Apex...)
+
+Balance is pretty good, too. Some things are definitely much better than others (looking at you, CAR), but every weapon and titan can be broken, given the right situation. And *almost* (again, looking at you, CAR) every weapon and titan can be useless, given the wrong situation. Everything has at least a little counterplay. When the opposition is running some utterly joyless loadouts and making my match completely miserable, I often feel like I can turn the tide with a smart counterpick and a little strategy. Doesn't always result in a win, but it usually makes [i]some[/i] kind of impact.
+
+Also, when you're starting out, run whatever the fuck you want. You will sometimes find people that will try to give you shit for playing certain weapons (e.g. CAR, Spitfire) or titans (e.g. Tone, Monarch). These things are, admittedly, annoying to fight and/or easy to use. You still shouldn't feel bad for using them. (Unless you are intentionally using them to piss people off. Don't do that unless they were toxic first, you little shitter, you.) Don't let these people talk down to you just because you want to learn without getting [i]entirely[/i] stomped. This game has a sky-high skill ceiling. If the opponent can't deal with you, they aren't very good to begin with.
+
+On the flip side, try to avoid calling anything broken or no-skill before you've actually gotten a chance to use it. I know I've had my fair share of eye-opening moments...
+
+Aside from that, I've found that toxicity is pretty low outside of weapon shaming. For every racial slur or salty insult I see, there are 5 chat messages that are just wacky nonsense. It's great. You'll even see a 'ns' sometimes. Crazy!
+
+[spoiler]though i do sometimes wonder what is going through the minds of g100 players that still use the car[/spoiler]
+
+
+[b][u]PvE[/u][/b]
+[b]THIS SHIT IS ACTUALLY GOOD.[/b] Frontier Defense is severely underrated. I have yet to get deep into this mode, but so far, it's been a blast. Massacring clueless grunts, mowing down armies of titans, watching your own titan slowly become the most overpowered thing you've ever seen, barely scraping by on your last retry. (Yes, there are retries. Don't leave until the match is over! Unless you already knew that, and you're just a filthy ragequitter.) It's all good stuff. I find Easy a little [i]too[/i] easy, but Regular is great for some brainless fun with a little challenge. Hard is actually hard and makes me have to think for once. I am currently too afraid to play Master and Insane, but I hope to one day git gud and try those out.
+
+
+[b][u]Price[/u][/b]
+Okay, this doesn't fit with the other sections, but it bears mentioning. This game is on sale relatively often, and the discount is usually [b]deep.[/b] I got this game on Steam for $3, and I think I bought it on Origin for $5.
+
+
+[b][u]""Why did you buy this game twice?""[/u][/b]
+Yeah, I understand nobody gives a rat's ass about this. As you can clearly see, I'm not expecting anyone to read down this far (or read this review at all, for that matter). Congratulations on making it here! Anyway, this will take some explaining. If you're not aware, this game still runs through Origin (well, technically, it's the ""EA app"" now). When you buy and install it on Steam, it actually just installs Origin on your computer, and whenever you run it, Origin will launch (don't worry, it closes when you close the game). So, if I can't avoid Origin, why did I buy the game again? I bought this game for a second time on Steam because I couldn't be bothered to install Origin when I got a new PC. Yep, this game is so good that I was willing to pay $3 for it to install Origin for me.",0.951988697052002,447,True
+1237970,136083048,76561199167765466,"An answer from all fans to EA: If you want to experience more sales, remove the EA app completely so that all your games can be run directly from Steam. The same thing you did for Apex Legend. Like this comment so that it reaches the EA Company.",0.9454311728477478,1368,False
+1237970,144727575,76561198862156504,"This Game is one of the biggest tragedies among the FPS titles. Never got the reach to the masses. 
+Even though the campaign revolves around the same old story of 2 faction ""The bigger one trying taking over all the resources "", the story itself is very well written. The game blends the best movement based shooter mechanic with best Robot v/s fights is any game I have seen. The campaign cover Pilot and Robot Fights equally and the Time Travel Mission was such a innovative concept. 
+The graphics still hold well after 7 years of release and compete with today's AAA titles. All in all Campaign is solid 10/10.
+But the Multiplayer(that never worked)  is a pile of S**t. Its expected from EA, but RESPAWN abandoning the game and the community and riding the C***tails of APEX legends :(
+Only hope for Multiplayer is the Northstar Server/Launcher that community came up on its own.
+
+The game is worth it for the campaign alone.",0.9415513873100281,785,True
+1237970,71104657,76561198065422602,"Two of the best Shooters, TF2 and TF2, are now both on Steam. Nice!",0.934434711933136,654,True
+1237970,171307881,76561198126196160,"So far, no other FPS has come close to being as good. The movement, shooting, graphics—all top-notch and still feel almost too good to be true (and this is all, mind you, on the Source engine). The story campaign, though short, is memorable, thrilling, and powerful on all fronts, never letting you get bored. The multiplayer... I'm glad they restored the servers, but it's a shame that new players didn't stick around much. If this game were released today, it would be compared to Baldur's Gate 3 in terms of quality, and people would say, ""This shows up those greedy conveyor-belt shooters.""",0.9339394569396973,317,True
+1237970,83222583,76561198270038678,"[b]yes,[/b] the singleplayer campaign is good. [b]yes,[/b] the multiplayer feels like a constant dopamine rush.[b]yes,[/b] the game is underrated and [b]yes,[/b] you should get the game.
+
+edit: overrated but underplayed, actually lol",0.9286731481552124,223,True
+1237970,209260897,76561198068158926,"EA doesn't deserve Titanfall.
+
+This is one of the most beloved FPS games for a reason. The campaign is fantastic, the movement has an incredibly high skill ceiling, the guns are awesome, Titan combat is really fleshed out and integrates amazingly into the game's singleplayer and multiplayer, there's not really any microtransactions, and there's no skill-based matchmaking. You start out sucking at the game, and as you get better, you really [i]feel[/i] your improvement as you begin to stand out against the other players in the lobby. It's very gratifying and refreshing compared to the dozens of modern FPS games where you are basically guaranteed to have a 50% winrate no matter how good you are due to their ELO systems. 
+
+The overwhelming community love and support for this game that has grown even past the game's heyday is something that is extremely undervalued by soulless megacorp Electronic Arts. I guess it's just less risky and probably more profitable to continue to milk Apex Legends until the Titanfall franchise fades into irrelevance.",0.9174228310585022,158,True
+1237970,198145139,76561199590345405,"Somewhere out there, there's a universe where EA cared about this,
+
+
+but alternate universes don't exist (probably)
+Great game 10/10, please play",0.9169207215309143,172,True
+1237970,192774318,76561199548856316,"Delete and refund all your games. Titanfall shall fill the Titanfall shaped hole in your heart you never knew existed. This game fulfills every single possible wish any person out there has for a multiplayer movement shooter. It has been said millions of times before and I'll chant those same words, EA let this game die for the hell of it. It is a shame that the only reason this game is played today is the disaster that is Apex. This game needs zero new content for it to be relevant in modern gaming besides crossplay. The only thing holding it back to appeal to everyone is the necessity of the EA app. If this game is on sale buy it, if its not on sale buy it. You will love this game, no matter who you are.",0.9161931872367859,157,True
+1237970,183435923,76561199057054645,"A Masterpiece That Deserved Better
+
+This isn't just another FPS - it's a testament to what gaming can be when innovation meets perfect execution. The tragic irony is that this gem was sacrificed by EA's catastrophic decision to release it between Battlefield 1 and COD: Infinite Warfare, essentially burying one of the greatest FPS games ever created.
+
+The campaign, though brief, is absolutely stellar. The relationship between Cooper and BT-7274 is something special that stays with you long after the credits roll. Every level brings something unique to the table, with some of the most creative mission design I've ever experienced in an FPS.
+
+The multiplayer is where this game truly shines - the fluid movement system, the perfect balance between pilot and titan gameplay, the satisfying gunplay - it all comes together to create something that no other game has managed to replicate. Even Apex Legends, while good in its own right, couldn't capture the magic that makes Titanfall 2 special.
+
+It's bittersweet to see this masterpiece available for such a low price. While it's an absolute steal for new players, it's also a reminder of how this game was mishandled. The fact that we're getting Apex content instead of Titanfall 3 feels like a cruel joke to those of us who know just how revolutionary this series could have been.
+
+To new players: You're in for a treat. To EA: You had lightning in a bottle, and you let it slip away.
+
+Protocol 3: Protect The Pilot
+Protocol 4: Give Us Titanfall 3""
+
+This combines many popular sentiments while maintaining originality and adding personal touch. It hits key points about the game's quality, its unfortunate release timing, and the desire for a sequel, while staying engaging and authentic.",0.9143218398094177,454,True
+1237970,100187496,76561198084602676,Most criminally underrated game of the last decade.,0.912718653678894,214,True
+1237970,140824229,76561198102941556,"[b]BT:[/b] Pilot, this Titan weapon is an advanced design and may give us a tactical advantage.
+[b]Cooper:[/b] I think someone's in love...
+[b]BT:[/b] The human concept of love requires admiration, attraction, devotion, and respect. Conclusion: I am 50% in love.",0.9119424223899841,185,True
+1237970,121582208,76561198878439418,"> buys game for £3.99
+
+>played it before, but never finished the campaign
+
+>plays campaign
+
+> ""A throw is our only option""
+> ""trust me""
+
+my soul is empty and i will never feel happy again
+
+",0.9106954336166382,258,True
+1237970,217875148,76561199262959494,Hands down my favorite game of all time. I want to be laid to rest with a physical copy of this game,0.9070777893066406,118,True
+1237970,71003454,76561198001873461,"alright, let me talk about this game.
+
+I've been playing this game since the game was released on Origin, but I've bought one more package on Steam. because, it deserves it.
+
+compared to the first Titanfall game, Titanfall 2 has made improvements and very persuasive experiences.
+
+Level design of singleplayer is a masterpiece, continuous actions and puzzles will not let you get bored. It is completely polished as a game, every stage and its theme changes its color periodically.
+
+story is wonderful, It may not be quite good if you are someone who want the game stories should have to tell something that meaning, but the story of this game is telling what exactly the developers wanna say. it is the relationship between the Pilot and the Titan.
+through the campaign, the relationship between you and your titan is growing up from a collaborator to a companion, from a companion to the friend.
+
+This game focuses on The relationship between The Pilot YOU and your TITAN. when you have finished the campaign, you would have deep affections to your titan. I will not talk too much about the story of singleplayer. because i want you feel it in yourself. I'm sure you will 100% enjoy how you grow up from a rifleman1 to a qualified Pilot with your titan friend. and finally you will know, you will understand what I've said in this review. and this relationship is intentionally keep showing as player experience in multiplayer.
+
+
+after the campaign, you would be missing the titan friend accompanied while entire story. but your relationship is keep going on the multiplayer.
+
+In Titanfall 1, player always have seen the world in first person view. when you are running when you are embarking, when you are executing enemy, in Titanfall 1, You were a Pilot and also were Titan. starting from a grunt, and becoming to titan machine. that was Titanfall 1. But in Titanfall 2, developers intentionally show your titans at your eyes. It is much like developers are saying, ""Look at this. this is your titan.""
+
+when you are embarking, the camera changes its view third person, and shows how Pilot, you and your Titan binding each other. when you are executing enemy titans, the camera shows how badass you were and also your titan was. They show the thing, in a one screen, Pilot, you, and your titan both.
+
+
+If i tell about the multiplayer game itself, titan battle became much more stick and solid. In Titanfall 1, you could freely change your titan loadouts. Chassis, weapons, kits, etc etc, but In Titanfall 2, your titans have their own weaponry system and abilities. it is like champions in MOBAs. Some people didn't like this changes because it seems like just limitations. but I think differently. In my thought, too much freedom brings less diversity lead to less freedom, because there is always most efficient loadouts exist in these type of games and it will dominate entire contents. it will make lack of contents compare to the actually prepared.
+Titanfall 2 avoided this problem. Titan loadouts are more limited but actually these limitations make sense. it makes necessity of cooperation.
+Whether you are skilled or not, you can not just dominate battlefield on your own. but with your teammates you can. because your titan unit clearly has weak-point, you should drive him/her much delicately. to maximize your advantages and minimize weakness. this feels very reasonable.
+
+And there are titan kits. that offers little tweak-able aspects for your titans. titan loadouts are not completely fixed. by your kits, titans will be little more different. you can customize your play style enough. but I think it could update little more options like teamfortress 2 so that the game earns more longevity.
+
+besides the titans have little limitations, pilot loadouts still ample.
+there are various weapons you may have seen already at APEX Legends. Tactical Abilities are basically classes but your loadouts are not be restricted by that. weapons have there own signatures, so learning and researching how to use them is very interesting. Most people recommend CAR sub-machine gun because it is very basic and effective weapon, but ultimately, it depends on your playstyle.
+Pilot versus Pilot combat is not like any FPS you have played. It is something like human size dogfight. so the outcome is not by aiming skill like twitch shooters. 
+
+
+Titanfall 2 is most interesting FPS game I ever had played. I hope that, more people enjoy this game.
+
+[| ● |] =乃  Trust Me.",0.9051792025566101,503,True
+1237970,215573666,76561199235451823,"This game had the potential to be the standard of shooter games for years to come. Shooter games were PERFECTED here and instead the people chose hero shooters, tac shooters, BR’s, and whatever the hell CoD decides to release every year. The fact that this game exists is a slap in the face to all AAA shooter releases in the past 10 years, because the devs understood that games are for the players, and not a tool to suck the the most money possible out of the consumer.
+
+For a whole THREE UNITED STATES DOLLARS (on sale) you get a complete and working campaign (wow how did we get to a point where that isn’t standard) that has incredibly unique level design and so many memorable moments. 
+
+The multiplayer provides the one of the most unique and fun gameplay loops I’ve ever seen. The interaction between all of the games mechanics, including pilots, titans, ability and weapon customization, movement, and map design create a phenomenal experience throughout every match. No holding angles for 2 minutes straight, no being forced to swap off heroes because they instantly lose to another hero, no battle royale. You get to play how you want whenever you want and the game rewards that with pure speed, power, and an adrenaline rush like nothing else.
+
+Also, this game has NONE of the predatory business practices that we see so often nowadays. There is a store (purely selling cosmetics) but its not shoved in your face constantly, there’s no battlepass, and an there’s extremely large amount of cosmetics that are completely free. 
+
+Oh and, it looks great and runs great, even on older GPUs (perks of using the source engine)
+
+So yeah if you’re tired of modern shooters and looking for something that makes you feel like a badass without the bullshit, pick up the greatest shooter games of all time for 3 dollars.",0.9051187038421631,112,True
+1237970,213954401,76561198384933967,"Vince Zampella will be remembered as one of the great innovators within interactive media. Medal of Honor, Call of Duty, Titanfall, and Battlefield 6. Rest in Peace.",0.9047441482543945,178,True
+1237970,71052810,76561198086763216,"This is by far one the best shooters I have ever played, I am extremely happy to see it land on steam to be given the chance to play it. 
+
+A few of the selling points are as follows:
+
+1.Killer Campaign: It's not the longest in history, but an excellent story with a few adrenaline pumping moments and fluid gameplay. The game cleverly weaves mechanics together that never subtract, only add to the way you play. 
+
+2.Movement:This game has such a fluid movement system, it always feels like reaching a new spot to kill an enemy always feels possible. The transitions are smooth and intuitive 
+
+3. Gunplay- Amazing set of firearms that readily invite plenty of customization. The guns feel good to shoot and never feel clunky
+
+4.MECHS- I for one am obsessed with mechs, and this game really scratches the itch. The titan classes are both fun and interesting to learn, each with their own personality in multiplayer
+
+Respawn, if you're listening... I will gladly support a titanfall 3 if it ever comes to surface. 
+
+10/10 Titanfalls",0.9519745111465454,529,True
+1237970,76784391,76561198010315744,"Single player review only.
+
+So I'm just a few years late to the party, but this game has been on my radar ever since they announced a single player campaign...and it has a fantastic campaign at that. In can be finished in 6-ish hours or so, but it's one of those games that cut out all the fat without adding any filler and in the end the experience was totally worth playing. 
+
+This game felt like a mix of Crysis, Transformers and Mirrors Edge. The weapons feel AMAZING, and I couldn't wait to try out a new one that popped up. Plus, every time you come across a
+weapon not only does it show the name of it but also a short summary of what it does- very handy during intense combat. Double jumping around and wallrunning had me a little concerned at first but it felt natural (and fun)in no time. Moving on to the mech combat- its truly satisfying.  The premade loadouts you'll find through the campaign are all fun to try out to see what you like best and/or choose for the situation. And the story? Well, it's simple and straightforward, and like I said earlier- no filler. I loved it.
+
+ The connection between my Titan and I felt very similar to The Terminator and John Connor in T2. Voice acting is all top notch and well written.
+
+Like my Battlefield 1 review, this game also does the story extremely well without adding cliche scripted ""epic"" moments or ticking a box just to have a feature in the game. Since the game is made my ex members of Infinity Ward who also brought us CoD 4 Modern Warfare, it gave me that same feeling of being engrossed in the story and characters in almost every way.",0.9019347429275513,168,True
+1237970,161938885,76561199287684462,"
+---{ Graphics }---
+☐ You forget what reality is
+☑ Beautiful
+☐ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{ Gameplay }---
+☑ Very good
+☐ Good
+☐ It's just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ Audio }---
+☐ Eargasm
+☑ Very good
+☐ Good
+☐ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{ Audience }---
+☐ Kids
+☑ Teens
+☑ Adults
+☐ Grandma
+
+---{ PC Requirements }---
+☐ Check if you can run paint
+☑ Potato
+☐ Decent
+☐ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{ Game Size }---
+☐ Floppy Disk
+☐ Old Fashioned
+☐ Workable
+☑ Big
+☐ Will eat 10% of your 1TB hard drive
+☐ You will want an entire hard drive to hold it
+☐ You will need to invest in a black hole to hold all the data
+
+---{ Difficulty }---
+☐ Just press 'W'
+☐ Easy
+☑ Easy to learn / Hard to master
+☐ Significant brain usage
+☐ Difficult
+☐ Dark Souls
+
+---{ Grind }---
+☐ Nothing to grind
+☑ Only if u care about leaderboards/ranks
+☐ Isn't necessary to progress
+☐ Average grind level
+☐ Too much grind
+☐ You'll need a second life for grinding
+
+---{ Story }---
+☐ No Story
+☐ Some lore
+☐ Average
+☐ Good
+☑ Lovely
+☐ It'll replace your life
+
+---{ Game Time }---
+☐ Long enough for a cup of coffee
+☐ Short
+☐ Average
+☑ Long
+☐ To infinity and beyond
+
+---{ Price }---
+☐ It's free!
+☑ Worth the price
+☐ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{ Bugs }---
+☑ Never heard of
+☐ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{ ? / 10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☐ 7
+☐ 8
+☐ 9
+☑ 10",0.9002614617347717,163,True
+1237970,88804220,76561198028876221,"As an avid FPS enjoyer, I have always heard good things about Titanfall. What for many years prevented me from playing it was my stupid ass thinking ""no way I'm playing another CoD clone"". I would like to take this opportunity to formally apologize to Respawn for fabricating such a thought in my mind. Compared to TF, CoD is an old and senile man's game. Titanfall's smooth gameplay puts a gun in your hand, a giant mech by your side, and lets you fly. Literally. Its pace and community put other shooters to shame. In no other title can you feel so powerful while being so trash at actually playing the game. And while I normally don't play the campaign in similar, multiplayer-focused titles, in Titanfall I did. And I'm happy I did. It was short, it cut to the chase and it told a simple story - yet it made me form a connection like no video game before it did. With a giant talking robot. Yes, BT definitely carried this campaign on his shoulders - or rather, on his hull.
+
+Only now, after playing Titanfall have I realized that up until this moment, I was merely an average FPS fan. Only now I can claim the title of enjoyer. Standby for Titanfall!",0.948778510093689,551,True
+1237970,117551904,76561198444225158,"Because a lot of people will get this game, know that multiplayer does not work, but is available via Northstar client. Look up their discord and all the instructions are there.
+
+Apart from that, buy this game. Unparalleled FPS gameplay and incredible multiplayer experience.",0.8973793983459473,155,True
+1237970,71742782,76561198034297875,"I’ll start my review with my take on the singleplayer campaign, as it’s not exactly what I expected from the creators of the modern military shooter genre. Instead of placing the player in the boots of a grunt who must follow their leader’s orders at all times, Titanfall 2 lets us be a badass Pilot who can dropkick someone in the face, then cloak and effortlessly wallrun across a massive gap and take out an annoying sniper, all in a few seconds. There are some scripted moments, but for the most part, Respawn Entertainment‘s first attempt at a singleplayer campaign is a rare sight in the modern videogame landscape, as the player can choose how to engage the enemy without being told that they are out of bounds or similar things.
+
+The game’s story is a collection of cliches but it’s well told and the voice actors in charge of bringing both friends and foes to life do a great job. Those who didn’t play the original Titanfall won’t be lost here, although the new title references events that happened during the multiplayer campaign featured in the first game in the series. As a militiaman turned Pilot (Pilots are highly skilled special units who can call down Titans and possess superhuman movement abilities thanks to their high tech jump pack kits) we will have to fight our way through territory held by the evil Interstellar Manufacturing Corporation, trying to find a way to stop their oppressive regime from taking over the galaxy. As the game goes on, players will bond with their Titan, a hulking mechanical beast named BT-7274 who can’t stop saying unintentionally funny things. Just as in the multiplayer modes, game time will be divided between on-foot sections in which we’ll have to sneak and make use of our superhuman movement skills, and Titan battles in which we’ll have to engage similar sized threats (and boss Titans)
+
+As I said previously, the on-foot sections are mostly freeform, with the player being provided with an objective and set loose upon huge levels. Although the majority of the campaign consists of gunfights separated by small environmental puzzles, there is a special level which reminded me of Portal and will probably stay fresh on my mind for years, thanks to the way in which it was presented and the freshness of the gameplay on display. Most sections revolve around a particular gimmick or thing to do for the player, and then drop it completely, ensuring that the game never feels repetitive. Aside from the variety in offer during the Pilot parts of the campaign, the combat is also fast paced and rewarding, letting you slide across the floor, wallrun and go invisible at the touch of a button all in the same combat encounter. Yes, most levels can be completed with tried and true tactics such as popping out of cover, hitting the enemy in the head with a few well placed rounds and then taking cover again, but the great thing about Titanfall 2 is that this is just one of many possible options. Other modern military shooters have adopted the wallrun and jetpack mechanics, but they still force players to hide behind cover once their health gets low, or to wait for specific scripted moments in order to continue onwards.
+
+Titan combat scenarios are different, because they are mostly linear affairs in which the player must either fight hordes of robots, a few enemy Titans at the same time or a powerful boss Titan. Defeating bosses adds their loadout to the player’s inventory, and BT-7274 can swap weapons and abilities mid fight, something that can be incredibly useful during boss fights. The unlockable Titan loadouts also work as a sort of training for the multiplayer mode, since they are the same different chassis that can be used when battling online.
+
+So, the campaign is great, but I hear you asking… How is the multiplayer mode? Is it as good as Titanfall 1 or did Respawn make a great singleplayer shooter with a weak multiplayer component? Is it even alive?
+
+I hear you, multiplayer fans, and you can rest easy knowing that Titanfall 2′s online offering is not only a great game on its own, but it also isn’t just a rehash of the first game’s player versus player component with a few tweaks thrown in for good measure. Instead, Respawn Entertainment chose to revamp the entire concept, going from small tweaks such as the removal of Titan shields, to bigger changes like the addition of a grappling hook or the introduction of a completely new mechanic such as Titan Batteries. There are new game modes as well, such as the Pilots only variant (which disables Titanfalls) or the Coliseum, which pits one player against another in a match of sheer skill.
+
+Matches start just as they did in the first title, with everyone running around as an agile Pilot, wallrunning all over the place and using different gadgets such as grappling hooks, sonar based knifes that can reveal the enemy’s position, stealth kits and other fun high tech tools. Killing enemy combatants advances the Titanfall timer, and once that meter is full, players can call down their mighty mechanical buddies. Just like in Titanfall 1, Titans can be set to be AI controlled or the player can climb inside and control them in real time. However, thanks to the removal of the shield system, AI mode titans are quite easy to kill, so they won’t be such a common sight as they were in the first game in the series. Another important change is the Battery system. Instead of rodeoing an enemy Titan and shooting at its core with a gun, Pilots will now climb on top of its hull, open a compartment and steal a battery that can be used to add a shield to their own Titan or a teammate’s. This mechanic can be incredibly useful during heated Titan battles, and it adds a strategic layer to the fight, as a talented Pilot can steal an enemy Titan’s battery just in time to save a teammate from certain death in a way that wasn’t really possible in the first Titanfall.
+
+Another big change is the removal of customizable Titans in favor of a class system in which players can choose from six different archetypes who all sport different weapons and abilities. This makes them feel like MOBA heroes or hero shooter characters, as every one of them has a signature ultimate ability that can be unleashed upon the enemy as the core progression meter reaches 100%. Of course, even though the new Titan classes can’t be customized in terms of weaponry or skills, gamers can still choose different skins, making each machine slightly different from the rest.
+
+The progression system has been overhauled as well, and there are a lot more weapons and customization options to be earned as players level up, something that will definitely help the game on the long run.
+
+Titanfall 2 shines on the tech department as well, as it not only looks gorgeous (it’s hard to believe that this game runs on Valve‘s Source engine) but it also runs like a dream. Voice acting is perfect, as we said before, and both the sound effects and the soundtrack fit the title perfectly, with chunky hit sounds giving the right feedback as bullets hit their targets, and catchy tunes playing just when the situation needs them.
+
+To conclude, Titanfall 2 is one of the best shooters released in the past decade. Respawn Entertainment mixed an unforgettable singleplayer campaign with an excellent multiplayer suite, creating the ultimate action package, something that every FPS fan worth their salt should at least try (and while we are at it, the Stream re-release has revitalized the playerbase, so multiplayer matches are easy to find. Get in there, Pilot!)",0.9452140927314758,363,True
+1237970,229726227,76561198074881151,"They'll never make a game quite like this again. Multiple free unlocks per game, amazing progression. Titanfall 3 comes to me in visions of an alternate world, just out of reach of us mortals.
+
+It saddens me that it will never exist. If they even make a Titanfall 3, it will be full of predatory microtransactions and  destroy the soul of the series. 
+
+Enjoy this one, support one another, and remember, Protocol 3... Protect the Pilot.",0.8949635624885559,95,True
+1237970,219933262,76561198821673706,one of the greatest games of all time sadly we got apex legends instead of titanfall 3,0.9440654516220093,321,True
+1237970,71211892,76561198098680293,"Probably have a good 500+ hours combined with PS4 and original PC release.
+
+Titanfall 2 is still one of the best FPS shooters around, with probably one of the best single player campaigns in a decade.
+
+if you have even the most fleeting interest in FPS games, you owe it to yourself to jump in, it will blow your mind!",0.8924005031585693,240,True
+1237970,236584159,76561198007310013,"Played with the Circuit Lord VR Mod.
+
+Don't pay attention to my ""Time played"". I played this with the Circuit Lord Titanfall 2 VR Mod, which uses it's own launcher. So Steam doesn't recognize the game as being played, other than achievments I guess. I've already played it for a few hours.
+
+This is an amazing AAA game, and playing it in VR just makes it all the better. Plus, if you get this VR mod, it's so good that it runs like a native VR game, and not just a 3rd party mod added after the fact. It is completely immersive with full motion controlls. I am absolutely loving it. Highly recommended.",0.890309751033783,106,True
+1237970,95238065,76561198260031749,"One of the best FPS I played. The movement-shooting ""flow"" is incredible, the campaign one of the best I have seen in a FPS game and the multiplayer solid aswell. The campaign could have been slightly longer in my opinion but the quality makes up for it.  
+The gameplay idea of being a team with your titan is unique and fun. There were quite a few moments were I had to laugh in the campaign because of the conversations between your character and your titan BT.
+
+For only 6€ on the Steam Sale this is a huge recommendation from me.",0.8894960284233093,91,True
+1237970,187017041,76561198827878787,"---{ Graphics }---
+☐ You forget what reality is
+☑ Beautiful
+☐ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{ Gameplay }---
+☑ Very good
+☐ Good
+☐ It's just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ Audio }---
+☑ Eargasm
+☐ Very good
+☐ Good
+☐ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{ Audience }---
+☐ Kids
+☑ Teens
+☑ Adults
+☐ Grandma
+
+---{ PC Requirements }---
+☐ Check if you can run paint
+☐ Potato
+☑ Decent
+☐ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{ Game Size }---
+☐ Floppy Disk
+☐ Old Fashioned
+☐ Workable
+☑ Big
+☐ Will eat 10% of your 1TB hard drive
+☐ You will want an entire hard drive to hold it
+☐ You will need to invest in a black hole to hold all the data
+
+---{ Difficulty }---
+☐ Just press 'W'
+☐ Easy
+☐ Easy to learn / Hard to master
+☑ Significant brain usage
+☐ Difficult
+☐ Dark Souls
+
+---{ Grind }---
+☐ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☐ Isn't necessary to progress
+☑ Average grind level
+☐ Too much grind
+☐ You'll need a second life for grinding
+
+---{ Story }---
+☐ No Story
+☐ Some lore
+☐ Average
+☐ Good
+☑ Lovely
+☐ It'll replace your life
+
+---{ Game Time }---
+☐ Long enough for a cup of coffee
+☐ Short
+☑ Average
+☐ Long
+☐ To infinity and beyond
+
+---{ Price }---
+☐ It's free!
+☑ Worth the price
+☐ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{ Bugs }---
+☑ Never heard of
+☐ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{ ? / 10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☐ 7
+☐ 8
+☐ 9
+☑ 10",0.8864164352416992,206,True
+1237970,208196299,76561198062506049,"Honestly, this game is truly underrated. That 2009–2016 era of FPS games was something special, and coming back to Titanfall 2 just reminds me how unmatched it really was. The combat is slick and incredibly fluid, movement just feels great even if a little floaty. I’m still not the biggest fan of some of the guns (a few lean a bit too hard into sci fi gimmick territory for me with a few interesting ones I wont lie), but the moment to moment gameplay more than makes up for it. The story isn’t the most original premise you’ll ever see, but it never tries to be anything it isn’t. It’s confident, tight, and surprisingly heartfelt. The banter with BT hits that perfect balance of dry humour, warmth, and weight a nice emotional break from the game’s overall darker tone. It's genuinely one of the better buddy dynamic narratives in shooters. And the level design? Honestly incredible. There are moments here that feel like master class set pieces taking advantage of unique mechanics in ways that are memorable without feeling like gimmicks. Levels like that one (you know the one) are still talked about for a reason, and even outside the standout moments, the campaign’s pacing and creativity keep things constantly engaging. It's got some decent performances by its voice actors which is always appreciated. It’s short, punchy, and doesn’t waste your time a rare thing now. Titanfall 2 really deserved better support and recognition at launch, because even today it stands toe to toe with the best shooters ever made.",0.8851356506347656,113,True
+1237970,133578892,76561198164335563,"[h1] Thank You Respawn and Apex Whales for Killing this Game and Titanfall 3 [/h1]
+[i] Firstly, let me clarify that despite the negative recommendation I'll be highlighting, I am an avid fan of this game and would highly recommend it under normal circumstances (especially the story). However, my criticism is solely based on the game's current state....
+
+This is no longer the case! This is back up and running based off the reviews, however I cannot be arsed to test if this is true. But i have my faith in the community[/i]
+
+[h2] Actual Review [/h2]
+Titanfall 2 is a first-person shooter game developed by Respawn Entertainment and published by Electronic Arts. The game was released in 2016 and received positive reviews from critics and players alike. It features a unique mix of fast-paced multiplayer combat and a single-player campaign that tells the story of a soldier named Jack Cooper and his Titan, BT-7274.
+
+[h2] Pros and cons [/h2][table][tr][th] 🟩 Positives [/th][th] 🟥 Negatives [/th][/tr][tr][td]
+-  The gameplay of Titanfall 2 is known for its fast-paced action and mobility, which gives players the feeling of being a powerful Titan pilot.
+
+- The story of Titanfall 2 is highly praised for its unique premise and strong character development. The relationship between the player character and the Titan they pilot is a standout feature of the game.
+
+- The movement system of Titanfall 2 is one of the game's standout features. The fluidity of the movement, combined with the fast-paced action, makes for an immersive experience.
+
+- The levels in Titanfall 2 are designed in a way that allows players to experience the world in a variety of ways. The levels are designed to encourage players to experiment with different strategies and play styles.[/td][td]
+
+- One of the biggest criticisms of Titanfall 2 is the length of its single-player campaign, which is around 6-8 hours. While the campaign is highly praised for its quality, some players may feel that it is too short.
+
+- Despite having a solid multiplayer mode, some players have criticised the game for lacking content in this area.[/td][/tr][/table]
+
+[h2]Gameplay [/h2]The gameplay in Titanfall 2 is fast, fluid, and highly entertaining. Players have the ability to control both their human pilot and their Titan, allowing for a wide range of combat options and strategies. The movement system is particularly noteworthy, allowing players to easily traverse the environment and engage in combat with both their pilot and Titan abilities. The multiplayer mode is where the game shines, offering players a variety of game modes, maps, and customisation options to keep the gameplay fresh and exciting.
+
+[h3]Movement System [/h3]
+The movement system in Titanfall 2 is one of the game's standout features. The fluidity of the controls and the ability to easily traverse the environment with both pilot and Titan abilities make for a truly enjoyable experience. Players can easily zip around the map, executing double jumps, wall running, and sliding. The movement system also plays a large role in the multiplayer mode, allowing players to quickly and easily maneuver around the map and engage in combat.
+
+[h2] Story [/h2]The single-player campaign in Titanfall 2 tells the story of Jack Cooper and his Titan, BT-7274. While the over-arching plot may seem cheesy and typical of a Michael Bay action movie, the relationship between Jack and BT is a standout aspect of the story. The campaign's strong level design and satisfying gameplay mechanics also help to further develop this relationship, making for a truly enjoyable experience. The campaign provides about 6-8 hours of non-stop fun, making it a great option for those looking for a brief, action-packed single-player experience.
+
+[h2] Art Style/Theme [/h2]The art style and theme in Titanfall 2 are heavily influenced by science fiction and futuristic technology. The game's environments and characters are visually stunning, with detailed textures, lighting, and animations. The game's overall theme is dark and brooding, with a strong emphasis on military technology and the struggles of soldiers in a war-torn world. The art style and theme of Titanfall 2 are well-suited to the fast-paced and action-packed gameplay, providing a truly immersive experience.
+
+[h2] Conclusion [/h2]In conclusion, Titanfall 2 is a highly entertaining game that offers a unique mix of fast-paced multiplayer combat and a single-player campaign with a strong emphasis on character development. The game's standout features include its movement system, fast-paced gameplay, and visually stunning art style. Although the game may not have the same level of popularity as some of its competitors, it is still a highly recommended title for those looking for a unique and action-packed gaming experience.",0.8829622268676758,474,False
+1237970,134765259,76561198347590696,"i like this game a little bit i guess
+
+edit: another 1000 later and i guess i still like it a little bit",0.8822829723358154,115,True
+1237970,194142727,76561199156359354,"edit: I just found out about the layoffs are you fucking kidding me 
+
+>gets game on sale
+
+>first game ive ever bought
+
+>dopamine and nerves
+	
+>plays through the fucking gold standard for fps campaigns
+
+>dopamine
+
+>tries multiplayer
+
+>gets obliterated by {Connection To Server Timed Out}
+
+>gets liquidated by anyone in a titan
+
+>uses northstar
+
+>gets mutilated by stimmy swingy kraber maniacs
+
+>gets jumped by montage makers 
+
+>learns how to press   w a s d 
+
+>grapple sling and hit those kraber 360 noscope crossmap shots
+
+>dopamine
+
+>becomes the only game i play
+
+>wonders when titanfall 3s gonna drop
+
+>starts taking pills
+
+⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠛⠛⠛⠋⠉⠈⠉⠉⠉⠉⠛⠻⢿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⡿⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⢿⣿⣿⣿⣿
+⣿⣿⣿⣿⡏⣀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣤⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣿⣿
+⣿⣿⣿⢏⣴⣿⣷⠀⠀⠀⠀⠀⢾⣿⣿⣿⣿⣿⣿⡆⠀⠀⠀⠀⠀⠀⠀⠈⣿⣿
+⣿⣿⣟⣾⣿⡟⠁⠀⠀⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⣷⢢⠀⠀⠀⠀⠀⠀⠀⢸⣿
+⣿⣿⣿⣿⣟⠀⡴⠄⠀⠀⠀⠀⠀⠀⠙⠻⣿⣿⣿⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀⣿
+⣿⣿⣿⠟⠻⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠶⢴⣿⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀⣿
+⣿⣁⡀⠀⠀⢰⢠⣦⠀⠀⠀⠀⠀⠀⠀⠀⢀⣼⣿⣿⣿⣿⣿⡄⠀⣴⣶⣿⡄⣿
+⣿⡋⠀⠀⠀⠎⢸⣿⡆⠀⠀⠀⠀⠀⠀⣴⣿⣿⣿⣿⣿⣿⣿⠗⢘⣿⣟⠛⠿⣼
+⣿⣿⠋⢀⡌⢰⣿⡿⢿⡀⠀⠀⠀⠀⠀⠙⠿⣿⣿⣿⣿⣿⡇⠀⢸⣿⣿⣧⢀⣼
+⣿⣿⣷⢻⠄⠘⠛⠋⠛⠃⠀⠀⠀⠀⠀⢿⣧⠈⠉⠙⠛⠋⠀⠀⠀⣿⣿⣿⣿⣿
+⣿⣿⣧⠀⠈⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠟⠀⠀⠀⠀⢀⢃⠀⠀⢸⣿⣿⣿⣿
+⣿⣿⡿⠀⠴⢗⣠⣤⣴⡶⠶⠖⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡸⠀⣿⣿⣿⣿
+⣿⣿⣿⡀⢠⣾⣿⠏⠀⠠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⠉⠀⣿⣿⣿⣿
+⣿⣿⣿⣧⠈⢹⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿⣿
+⣿⣿⣿⣿⡄⠈⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣴⣾⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣦⣄⣀⣀⣀⣀⠀⠀⠀⠀⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡄⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀⠀⠙⣿⣿⡟⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠀⠁⠀⠀⠹⣿⠃⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⡿⠛⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⢐⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⠿⠛⠉⠉⠁⠀⢻⣿⡇⠀⠀⠀⠀⠀⠀⢀⠈⣿⣿⡿⠉⠛⠛⠛⠉⠉
+⣿⡿⠋⠁⠀⠀⢀⣀⣠⡴⣸⣿⣇⡄⠀⠀⠀⠀⢀⡿⠄⠙⠛⠀⣀⣠",0.8818100094795227,132,True
+1237970,95600758,76561198150963847,"Important Note: Don’t buy this game in the Titanfall Collection bundle that comes with the first Titanfall, at the time I’m writing this review Titanfall 1’s servers are still down due to hackers, meaning the game is 100% unplayable even though it’s still being sold full price on Steam, from what I've heard this problem has been going on for 3 years + and still hasn't been addressed at all. Titanfall 2 is just fine though and still has a thriving online community from my experience (I’ve heard of others having server/hacker problems with TF2, but personally I never had issues getting into lobbies and never found any hackers in 50+ hours of multiplayer, so I can’t recommend against the game because of that risk if I never experienced it personally), so for sure get it on its own, just don’t buy Titanfall 1 unless you hear they fixed the servers (which Respawn did promise to do, but that was several months ago, so who knows if they really plan to go through with sorting out these issues in the long run).
+
+More info on these issues can be found here: https://www.rockpapershotgun.com/the-first-titanfall-arrives-on-steam-utterly-broken, https://savetitanfall.com/whats-happening-to-titanfall-2
+
+Update: Respawn have been working on TF1 after all, I bought it and played a bunch of matches recently with no issues, how long this will last for is anyone's guess but clearly they are making moves to squash these hacker problems, took much longer than it should have but credit to them for coming back to an old game like this.
+
+Pros
+- Singleplayer campaign. One of the biggest strengths of Titanfall 2 for me is that it has a full scale singleplayer story mode, the “campaign” in Titanfall 1 was a series of online multiplayer matches with narration over the top and cutscenes before them, TF2 on the other hand has a 9 mission campaign with maps specifically built for it, offering up a good mix of Titan and Pilot gameplay, combat and platforming and including lots of different scripted sequences and gimmicks to keep things interesting throughout, the story is solid and the relationship between your player character and their Titan really stands out, it’s a bond you stick with and get committed to.
+- Smooth movement. As a Pilot movement is really fast paced and traversing around the maps with a combo of sprinting, wall running, boost jumping and flinging yourself around with the grapple hook feels amazing, going from A to B at breakneck speed has never been so fun.
+- Excellent multiplayer.  The combat in TF2 is competitive and exciting, there’s a solid variety of weapons to use (Primary Weapons like Rifles, SMGs, Snipers, Shotguns, Sidearms aka Pistols and Revolvers and purpose built Anti-Titan Weapons: Energy Weapons, Rocket and Grenade Launchers), lots of different abilities to equip (cloaking, grapple, phase shift, etc etc) and you can pick from several different classes of Titan to use each with their own weaponry and abilities. There’s a healthy balancing act between Pilots and Titans, a skilled Pilot player can easily zip around and destroy Titans in David v Goliath acts with special Anti-Titan guns, a skilled Titan player can rip enemy teams to shreds with their high powered gear, the fast time to kill of Pilot vs Pilot combat also contrasts nicely with the slow TTK of Titan v Titan fighting.
+
+Cons
+- Campaign is short. All the missions in the campaign feel well done and enjoyable, but they’re fairly short and easy to beat, the campaign doesn’t last longer than 6 hours or so in total, it feels like it could’ve had a few more missions included to be properly fulfilling.
+- Occasional unbalanced matchmaking. This isn’t really a fault of the game, just a consequence of the small playerbase, but since there’s not a huge community for the game any more you can sometimes end up in wildly unbalanced lobbies either going up against an elite team way more experienced than you which gives you a thorough curb stomping, with your brothers in arms all being low level new players or vice versa, ending up with a super OP team and stomping out the enemy without them having a fair shot at a win, most matches I’ve gotten into have been fair and workable but sometimes you end up in borderline unwinnable scenarios because the teams don’t have a good mix of new and experienced players each.
+- Lacking game mode variety on MP. Again, not really the game’s fault, but due to the small community it’s very hard to find matches in any mode other than Team Deathmatch (aka Attrition), Attrition is the mode everyone’s still playing for the most part so you’ll almost never have any luck getting a game in another mode unless you sit in matchmaking for hours on end or get lucky.
+
+Honestly I think that Titanfall 2 is one of the best shooters of its generation, it’s what the boost jumping Call of Duty games (Advanced Warfare, Black Ops 3, Infinite Warfare, etc) should have been, really smooth fast paced movement and stellar gunplay combined with a really interesting setting. The Campaign is worth a run or two and that can make up around 6-12 hours or so of your time and while the Multiplayer community is small (averaging roughly 4000-10,000 players online every day) it’s still very active and matchmaking is fast as long as you don’t mind only playing Attrition most of the time, MP has a ton of unlocks to get and milestones to reach and its something you can sink thousands of hours into if you choose to stick with it (I ended up getting 30+ hours in Multiplayer in my first few days of getting the game because I got so hooked). I really enjoyed the first Titanfall when it came out and 2 improves on that game in more or less every area imaginable, I just cannot recommend this game enough, it’s nearly 5 years old now yet it still holds up 100% today, if you enjoy competitive MP shooters you really should give it a try.",0.8792455196380615,136,True
+1237970,174405561,76561199265491342,"---{ Graphics }---
+☐ You forget what reality is
+☑ Beautiful
+☐ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{ Gameplay }---
+☑ Very good
+☐ Good
+☐ It's just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ Audio }---
+☐ Eargasm
+☑ Very good
+☐ Good
+☐ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{ PC Requirements }---
+☐ Check if you can run paint
+☐ Potato
+☑ Decent
+☐ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{ Game Size }---
+☐ Floppy Disk
+☐ Old Fashioned
+☐ Workable
+☑ Big
+☐ Will eat 10% of your 1TB hard drive
+☐ You will want an entire hard drive to hold it
+☐ You will need to invest in a black hole to hold all the data
+
+---{ Difficulty }---
+☐ Just press 'W'
+☐ Easy
+☑ Easy to learn / Hard to master
+☐ Significant brain usage
+☐ Difficult
+☐ Dark Souls
+
+---{ Grind }---
+☐ Nothing to grind
+☑ Only if u care about leaderboards/ranks
+☐ Isn't necessary to progress
+☐ Average grind level
+☐ Too much grind
+☐ You'll need a second life for grinding
+
+---{ Story }---
+☐ No Story
+☐ Some lore
+☐ Average
+☐ Good
+☑ Lovely
+☐ It'll replace your life
+
+---{ Game Time }---
+☐ Long enough for a cup of coffee
+☑ Short
+☐ Average
+☐ Long
+☐ To infinity and beyond
+
+---{ Price }---
+☐ It's free!
+☐ Worth the price
+☑ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{ Bugs }---
+☑ Never heard of
+☐ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{ ? / 10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☐ 7
+☐ 8
+☑ 9
+☐ 10",0.8766704797744751,162,True
+1237970,171704421,76561199316288523,Bagged this bitch for only 3$ and it's better than anything Apex Legends has ever shat out in it's entire lifespan. Why tf did they not make Titanfall 3,0.9246401786804199,330,True
+1237970,71015404,76561198113748746,"remember titanfall 2??
+ofcourse you don't, it was released 8 days after battlefield 1.
+
+let's fix that.",0.9718910455703735,3391,True
+1237970,190108337,76561199574909134,"
+---{ Graphics }---
+☐ You forget what reality is
+☐ Beautiful
+☑ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{ Gameplay }---
+☑ Very good
+☐ Good
+☐ It's just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ Audio }---
+☑ Eargasm
+☐ Very good
+☐ Good
+☐ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{ Audience }---
+☐ Kids
+☑ Teens
+☑ Adults
+☑ Grandma
+
+---{ PC Requirements }---
+☐ Check if you can run paint
+☐ Potato
+☑ Decent
+☐ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{ Game Size }---
+☐ Floppy Disk
+☐ Old Fashioned
+☑ Workable
+☐ Big
+☐ Will eat 15% of your 1TB hard drive
+☐ You will want an entire hard drive to hold it
+☐ You will need to invest in a black hole to hold all the data
+
+---{ Difficulty }---
+☐ Just press 'W'
+☐ Easy
+☑ Easy to learn / Hard to master
+☐ Significant brain usage
+☐ Difficult
+☐ Dark Souls
+
+---{ Grind }---
+☐ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☐ Isn't necessary to progress
+☑ Average grind level
+☐ Too much grind
+☐ You'll need a second life for grinding
+
+---{ Story }---
+☐ No Story
+☐ Some lore
+☐ Average
+☐ Good
+☑ Lovely
+☐ It'll replace your life
+
+---{ Game Time }---
+☐ Long enough for a cup of coffee
+☑ Short
+☐ Average
+☐ Long
+☐ To infinity and beyond
+
+---{ Price }---
+☐ It's free!
+☐ Worth the price
+☑ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{ Bugs }---
+☐ Never heard of
+☑ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{ ? / 10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☐ 7
+☐ 8
+☑ 9
+☐ 10
+",0.8710057735443115,244,True
+1237970,198616595,76561199016416091,"INCREDIBLE GAME! THIS IS THE FUTURE OF GAMING
+It would be so foolish for future games not to utilize the incredible mechanics and earth-shattering gameplay. 
+GAMING CAN ONLY GO UP FROM HERE!!!
+
+Edit: Did not realize that this game was not brand new. Turns out that the gaming industry and this company in particular really dropped the ball and let everyone down. bummer.",0.8690882921218872,95,True
+1237970,90389154,76561198017791752,"Few games come as close to perfection as this game.
+
+The sound design is absolutely crisp, animations satisfying and gameplay truly amazing. Moving and mantling in this game are as smooth as butter and control fabulously. The only downsides that come to mind are the incredibly repetitive dialogue of the two guys in your earpiece during frontier defense. They probably cycle through about 4 different lines at the end of every wave and beginning of every game. It becomes annoying very fast. This can of course be fixed by killing the dialogue audio slider, but I digress.
+
+Definitely pick up this game on sale or even full price if you're feeling it. It's worth it.",0.8669330477714539,243,True
+1237970,179009616,76561198106002224,"‎Just the sheer joy of seeing a titan drop and getting into it is enough to make this game one of the best. If only proper love was given, it would have been better than Apex Legends. There are still some people playing it, so hopefully more people will get into it.",0.8665573596954346,107,True
+1237970,175626596,76561198013786639,"Pros:
+It's September 2024 and matchmaking takes 2-40 seconds.  
+People still play the PvE (Frontier Defence).  
+Graphics still look good.  
+PvP difficulty is ok, there are some veterans who are impossible to kill, but there are also what looks like relatively new players too.
+
+Cons:
+But it also requires the garbage EA app to be installed on your PC, and even after you quit the game and the EA launcher, it will leave a ""EA Background Service"" in your processes, taking up a bit of your ram and doing god knows what.
+
+Edit:
+Lol, a day after writing this review the game stopped working for me. It just doesn't launch. Tried clean reinstall - no luck. What a disappointment.
+Edit 2:
+After 3+ hours of trying different fixes, here's what worked for me:
+https://steamcommunity.com/app/1237970/discussions/0/4843148117774494267/?tscn=1727416796#c4840896594187375355",0.8661143779754639,73,True
+1237970,77802258,76561197972179425,"The fundamental FPS movement mechanics are so paramount in this game they are given a sense of style that most other FPS games lack. The wall running, double jumping and mech embarking blends together to form a piece of artwork in of itself.
+The campaign is exciting non-stop action throughout, plenty of opportunities to see each Mechs abilities and weapons. The continuous escalation of intensity culminates with a slight touch of genuinely earned emotional gratitude towards the end, even if it feels like it under stays its welcome.
+From the multiplayer I've played, each match starts with teams fighting on foot, until about halfway players are given the ability to call down a Mech at slightly different times. Mech fighting is where multiplayer shines as using them makes things fun even when you lose. I was able to call down a mech multiple times during a match, but even when on foot, the anti-mech weapon you can have in your loadout is effective. The multiplayer has AI grunts running around which help make each player feel valuable since defeating them gives XP at the end as well. The more you play, the more XP you get and the more loadout items you unlock. I got into the game for the campaign but multiplayer was worth checking out.",0.8659334778785706,101,True
+1237970,225832937,76561198402328155,"Oh, I got to tell you, it was perfect. Perfect! Everything, down to the last, minute details.",0.8629260063171387,82,True
+1237970,196845517,76561199057657845,"Great campaign, no debate. Only minus on the campaign is it being a bit short. Good multiplayer, tho today pretty much only regular players are still online so expect a bit of a harsh start.
+
+
+---{ Graphics }---
+☐ You forget what reality is
+☐ Beautiful
+☑ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{ Gameplay }---
+☑ Very good
+☐ Good
+☐ It's just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ PC Requirements }---
+☐ Check if you can run paint
+☐ Potato
+☑ Decent
+☐ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{ Game Size }---
+☐ Floppy Disk
+☐ Old Fashioned
+☑ Workable
+☐ Big
+☐ Will eat 15% of your 1TB hard drive
+☐ You will want an entire hard drive to hold it
+☐ You will need to invest in a black hole to hold all the data
+
+---{ Difficulty }---
+☐ Just press 'W'
+☐ Easy
+☑ Easy to learn / Hard to master
+☐ Significant brain usage
+☐ Difficult
+☐ Dark Souls
+
+---{ Grind }---
+☑ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☐ Isn't necessary to progress
+☐ Average grind level
+☐ Too much grind
+☐ You'll need a second life for grinding
+
+---{ Story }---
+☐ No Story
+☐ Some lore
+☐ Average
+☐ Good
+☐ Lovely
+☑ It'll replace your life
+
+---{ Game Time }---
+☐ Long enough for a cup of coffee
+☑ Short
+☐ Average
+☐ Long
+☐ To infinity and beyond
+
+---{ Price }---
+☐ It's free!
+☑ Worth the price
+☐ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{ Bugs }---
+☐ Never heard of
+☑ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{ ? / 10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☐ 7
+☐ 8
+☐ 9
+☑ 10
+",0.8606492877006531,159,True
+1237970,72963114,76561198039843270,"I can't believe EA almost made me miss this masterpiece.
+
+The campaign lasted ~7 hours and that's the only complaint I have about this game.
+I usually do a 'pros' and 'cons' but for this one, it can only be 'amazing' and 'good'.
+
+Amazing:
+- Animations - so well crafted and carefully detailed.
+- Gunplay - every gun feels good, especially the ones for the Titan.
+- Mech piloting - easy to understand and so satisfying. 
+- Music - fits every scene.
+
+Good:
+- Writing/dialog - the way the story/bond flows between BT and Cooper is amazing considering the campaign length and the dialog overall is not over-the-top and funny in just the right amount.
+- AI - for the bosses especially.
+- Level design - so good in the factory and some wall running places.
+- Mechanics - not innovative but the combination is really good.
+
+It's truly one of the best FPS of all time.",0.9102987051010132,172,True
+1237970,181378787,76561198083376855,"Just about the campaign:
+
+It's like those seventh gen campaigns inspired by the hideous popularity of Call of Duty games. Super linear, very short, overscripted and committed to relentlessly presenting stupid popcorn cinematic blockbuster action in which thinking, breathing and acting on your own was considered a crime. Canned in a package with great production values, extreme polish and stories chewy enough to be digested by an infant.
+
+That's what Titanfall 2's campaign is. But good. 
+
+If CoD campaigns were creative, well-inspired, and replayable, they would be like this campaign.
+
+It's a tight compilation of very well-made levels, a little more open and immensely more creative and fun to play thanks to the expanded moveset and the very friendly and charming talking robot that shoots missiles and has a flamethrower. 
+
+The pace is close to perfection and the freshness never ends because it's a game that never stops throwing curveballs and surprising you with new ideas until the end of its short duration. Everything is given time to breathe, develop and then be replaced by the next crazy concept, without ever abandoning the very solid and well-balanced movement and combat mechanics.
+
+The level of action in this game is simply sublime. Perfectly dosed, chaotic, exciting and modestly challenging, without being too demanding. 
+
+Depending on the situation, you could even say that there is some level of depth and strategy involved in the  shooting.
+
+And best of all? The game isn't just about that. It's not just about moving forward and grinding out endless hordes of convenient stereotypes. There is a good dose of exploration and traversal challenges, and a combination of these elements.
+
+They definitely nailed the dynamic between controlling the titan and playing with boots on the ground(Or on the walls), and the balance between the quiet times that generate immersion and the bombastic action sequences that puts any blockbuster to shame.
+
+And there's even a fun story, with a enduring chemistry between you and your robotic friend. 
+
+All the one-liners you want are here, being thrown at the most memorable moments. As it should be.
+
+Graphics, sound, music, and the like, leave nothing to be desired. This is a top-notch presentation.
+
+It's so good that evoking that game's terrible influences feels insulting. 
+
+In fact, i'm sorry for that.
+
+It's simply a very polished and satisfying experience that doesn't overstay its welcome. It breaks the rigid and highly scripted formula of its main influences and adds a good dose of Half-Life to its construction, creating something that feels fresh.
+
+For the price, it is probably one of the best and most polished pieces of singleplayer content available on the market within this genre. And it runs very well even on a potato.
+
+And it even has multiplayer attached! 
+
+(But I don't know if it's good. I never played.)
+
+I recommend it to anyone.",0.8593606948852539,136,True
+1237970,236523717,76561198031127122,This is gonna be the best VR game ive ever played. the first time i played it. in those 3 hours. all i thought was ''damn. i wanna do this in VR'' never even having owned a headset at that point.,0.9083060026168823,161,True
+1237970,186212606,76561198841078872,"Titanfall 2 is nothing short of a gem in the world of first-person shooters, blending fluid mechanics, engaging storytelling, and thrilling mech-based combat into one unforgettable package. Released in 2016, it stands as a testament to how innovation in game design can produce something truly special. However, despite its brilliance, the game now faces challenges in its multiplayer landscape, largely due to being overshadowed by its battle royale sibling, Apex Legends.
+
+[h1]Campaign: A Perfectly Executed Storyline[/h1]
+One of the standout features of Titanfall 2 is its campaign mode, which is widely regarded as one of the best in FPS history. The story revolves around Jack Cooper, a humble rifleman who unexpectedly forms a bond with a Vanguard-class Titan, BT-7274, after his pilot is killed in action. Their journey together is emotional, exciting, and filled with clever twists. The dynamic between Jack and BT brings heart to the narrative, making the story more than just a vehicle for the action.
+Each mission introduces new mechanics that keep the gameplay fresh, from wall-running platforming challenges to time-travel puzzles. The creativity behind these sequences ensures that every level feels unique, culminating in a finale that will leave you in awe.
+
+[h1]Gameplay: Smooth, Fast, and Addictive[/h1]
+Titanfall 2's gameplay is its crown jewel. The movement mechanics are unmatched, offering fast-paced wall-running, double-jumping, and parkour-like traversal that feels incredibly fluid and rewarding. Whether you’re darting across walls in a tight gunfight or dropping into a Titan from orbit, the gameplay never stops being exhilarating.
+The combat offers a seamless blend of infantry and mech-based gameplay. Titans, the giant mechanized war machines, add a layer of strategy to the combat. Each Titan comes with unique abilities and playstyles, ensuring there’s something for everyone. Pilots and Titans complement each other perfectly, making every battle feel dynamic and intense.
+
+[h1]Multiplayer: A Double-Edged Sword[/h1]
+Titanfall 2’s multiplayer was revolutionary at launch, providing chaotic and action-packed matches where players could seamlessly switch between Pilots and Titans. Modes like Attrition and Last Titan Standing kept players hooked with a mix of tactical and frenetic gameplay. The progression system, customization options, and map designs were all top-notch.
+Unfortunately, time has not been kind to Titanfall 2’s multiplayer. With the rise of Apex Legends, Respawn Entertainment’s wildly popular battle royale game, Titanfall 2's servers have become much less active. It’s a sad reality that this incredible multiplayer experience has been largely abandoned by the player base, leaving many matches sparsely populated or difficult to find. For a game that thrives on competitive energy, this lack of activity is a noticeable drawback.
+
+[h1]Graphics and Sound Design: A Feast for the Senses[/h1]
+Visually, Titanfall 2 still holds up beautifully, even years after its release. The environments are diverse and detailed, ranging from lush forests to industrial war zones. The Titans themselves are intricately designed, showcasing their power and scale.
+The sound design is equally impressive. The heavy footsteps of a Titan, the crackling of energy weapons, and the atmospheric music all combine to immerse players in the game’s sci-fi universe. It’s a sensory experience that feels both grand and intimate.
+
+[h1]Final Thoughts[/h1]
+Titanfall 2 is a masterclass in first-person shooter design. Its innovative gameplay, heartfelt campaign, and exhilarating multiplayer make it one of the finest FPS games of its generation. However, the decline in multiplayer activity and the rise of Apex Legends have left this incredible game underappreciated by newer audiences.
+If you haven’t experienced Titanfall 2 yet, it’s a must-play for the campaign alone. It’s a love letter to innovation in gaming, and for those lucky enough to find a multiplayer match, it’s a reminder of what peak FPS multiplayer can look like. Whether you’re new to the series or a returning fan, Titanfall 2 deserves your attention, it’s a game that truly deserves to stand tall, even if its servers are quiet.",0.8577839732170105,125,True
+1237970,104823431,76561198081774643,"This game is truly a gem in the rough, despite it's occasional server issues. It feels like a relic from the golden age of FPS titles, before they were bogged down with season passes, battle royale modes, and premium currencies forced down your throat.
+When you hop into Titanfall 2 it feels FUN, like a game is supposed to be. The community is pretty laid back and chill, PvP feels fair despite some desync issues, and progression is rewarding. Pilot gameplay is responsive and fast, with each class of pilot having unique special abilities that each have advantages and disadvantages over others. And same goes for Titans, with each Titan feeling different to play, but each balanced to perfection. You can make really any loadout viable in any gamemode if you get good with it.
+
+It was sadly choked out by the likes of CoD and Battlefield back in 2016, but it still has a dedicated playerbase to this day that keeps the servers active. It is still a fun experience to hop into even if you've never played it before! The community overall is pretty friendly, so go in looking to have some good old fashioned fun!",0.8563598990440369,131,True
+1237970,204292666,76561199230685862,"Titanfall 2 taught me two things: 
+1) parkour makes everything cooler,
+2) my giant robot is my best friend and also my therapist. 
+
+11/10, would cry over BT again.",0.9043213725090027,114,True
+1237970,162709513,76561198030784015,"I don't have much to say about Titanfall 2 that other gamers haven't already said. 
+
+This is a fantastic game that was really overlooked when it launched, but fans and gamers wouldn't let it die.  And that is the power of the gaming community. 
+
+While this is quite a few years old now, Respawn spared no expense at making a AAA+ game.   So it's aged like scotch in the barrel.  It still looks better than some supposed AAA games today.   The visuals are immaculate, with rich, high res textures and detailed environments.   Top tier graphics are what make a game truly immersive.  They nailed it. 
+
+It's got a cranking sci-fi mecha theme.  And the optimisation... even when it was new the gameplay was smooth as butter.  Now, coupled with much newer, faster rigs?  The performance in the game is a dream. 
+
+The single player campaign is simply epic, best of breed, inspiring, exciting, imaginative, and brutal.  It's just a winner.
+
+The absolute worst thing about this game is that the single player campaign wasn't long enough.  And they didn't make any  more content filled DLC.   I was left wanting much, much more. 
+
+There's also a thriving multiplayer scene, I can't say too much about it (but consistent, high player counts don't lie... this is a good PvP game), but part of that was because of the outstanding single player content that inspired gamers to keep the game and keep it living.    Developers must never overlook the importance of a strong single player experience... even in PvP games.
+
+You can get this for about $5-10 if you shop around (and if you never played the single player campaign, you should buy it!). 
+
+I really hope there's gonna be a Titanfall 3.  I want more content in this universe.",0.8534982204437256,132,True
+1237970,98421164,76561198085268212,"Great game, campaign is solid but multiplayer is in shambles because of the DDos attack. So take that for what you will. i love this game. Just wish the devs would show it some love. But its not apex so yea...... 
+
+
+#savetitanfall",0.8518422245979309,103,True
+1237970,214806923,76561199231885299,"Best fps of all time, sad that EA flopped its telease date and crammed it inbetween 2 of the largest franchises.",0.8507250547409058,77,True
+1237970,197732209,76561199021786885,"If you ever hear somebody say that ""Large companies would never pass up the opportunity to make more money, that's just stupid"" show them this game and then ask them where is Titanfall 3",0.8498908877372742,80,True
+1237970,156824661,76561198103116028,"An absolute masterpiece. If you like first-person shooters even the slightest bit, it's your duty to try this thing out. The balance of pilot / titan combat is just perfect: the fast, parkour-like freedom of movement of the fragile pilots carrying relatively weak weapons contrasts with large, powerful, but slower and less manoeuvrable robots with specialised weapon loadouts.
+
+Not only do you get the contrast between the two modes within the same game, you get a wildly different experience depending on which combinations of pilot and titan loadout you use. Although you're likely to settle on your favourite titans and pilot loadouts, one of the best features of this game is that you can have tons of fun just trying something different out for a game or two. Some of the most fun games I've played have been the ones where I'm the lowest-scoring member of the losing team.
+
+The single-player campaign is excellent too, a combination of excellent story-telling and tutorial for the main game mechanics you'll need in multiplayer. I only regret not having tried Titanfall 2 out earlier - I discovered it in September 2023 when it was on sale and I've literally played no other game since. 10/10, the best video game I've ever played.",0.8953108191490173,117,True
+1237970,205591552,76561199802153104,"Edit: Spoiler Alert!
+
+Never really enjoyed FPS games because I am so bad at it. Never played campaign of fps games.
+
+Titanfall 2 is the first FPS game I played in campaign.
+Bought it just because it was 90% off.
+Played it as a warm up before I go on-stream with my horror game.
+Chose to play it because it was the only FPS in my library that doesn't have update.
+
+
+Played the first 2 episodes off-stream, was impressed.
+Decided to play it on-stream, finished the game... and cried for my titan.
+
+
+10/10, I love this so damn much.",0.8439374566078186,243,True
+1237970,71295660,76561198071376085,"Probably the most fun I've had in a competitive shooter. Everything you do looks and feels amazing. Even getting bodied the entire match looks cool.  The stylishness combined with the ultra tight shooting and unprecedented freedom of movement makes it just great. Stomping around in mechs is the cherry on top.
+
+Also, the campaign is surprisingly excellent and well worth playing.",0.893771767616272,160,True
+1237970,105617136,76561198053826208,"DDoS hackers pay much more attention to this game than the developers or the publisher who pays for the server.
+FYI: problem is still out there.",0.8925908803939819,547,False
+1237970,236590522,76561198216288073,"WIth the free VR mod from Circuitlord, this game goes from an already fabulous title to the BEST VR title I've ever been able to play. PLEASE if you have access to a VR headset, try it. I promise you will not regret it.",0.8409494757652283,66,True
+1237970,221908582,76561199805524362,"Just finished Titanfall 2… and damn, I wasn’t expecting it to hit this hard.
+
+At first I thought it’s just another shooter, but the way the story builds up, the missions, the gameplay twists… everything feels so fresh. And BT… bro that wasn’t just a machine, it actually felt like a real companion.
+The ending really got me. Like you just sit there for a minute thinking about it… didn’t feel like a game ending, felt like losing someone.
+Honestly, games like this are rare now.
+Glad I played this.",0.8398049473762512,92,True
+1237970,213336179,76561198988940568,"Oh my god! This is probably the best FPS game that I've ever played till now! EA, now please give us Titanfall 3!!! You can do it, make it a great single player experience, leave multiplayer aside, continue the story and bring Titanfall alive frorm the graveyard! This game single-handedly beats and exceeds all the Call of Duty games based on future timelines! EA listen, you can easily beat Call of Duty again by giving us a good Titanfall game! Please do it and make history again! And please, don't forget about the story mode! Thank you! :)",0.8388715982437134,99,True
+1237970,113915156,76561197979947064,"Campaign is incredible, albeit shorter than I wanted it to be. 
+Multiplayer is fun if you can actually find a game. Survival wave defense with giant mech bots is awesome, so frontier defense is the only multiplayer I ever actually bothered with. 
+Shame they abandoned this game, it really is something special and it shows when you get your hands on it.",0.8377134203910828,91,True
+1237970,198976298,76561198305936179,"robots smash eachother and little men for fun, fisting included",0.8370311260223389,65,True
+1237970,203079000,76561198049841198,"Nearly 10 years later and I've yet to find an FPS as mechanically joyful and exhilarating as Titanfall 2. Every lesson learned in the shooter genre beforehand - from controls to physics to presentation to storytelling - is brought to practice from Respawn, and the result is arguably the greatest shooter of the 2010s, and a game that hasn't left my hard drive since.",0.8352718949317932,54,True
+1237970,80718061,76561197992694498,"[h1]Get to da choppa[/h1]
+
+Titanfall 2 is a fast paced shooter with extremely fun gameplay, beautifully crafted levels and some interesting mechanics.
+You're a soldier who finds the titan of his fallen brethren and becomes one with it. You and your titan start binding with each other, knowing each other and becoming not only partners but friends. Nothing special, just a simple story about a boy and his titan but it's told very well. There's not a lot dialogues or cut-scenes. Story is uncovered by dialogues while playing. This game is really similar to CoD, a CoD game with robots to be precise. That's not a bad thing.
+
+The fun part is the gameplay. It's fast and it's fun as hell. You control either the titan and you sit inside of it or your character on foot. Usually you control the titan in open locations and the main character only in closed environments. Basically waves of enemies spawn around and try to kill you and you must use your arsenal to kill them. You can jump, land on them and punch them or go invisible and stab them from the back or just shoot them all to the face. The combat is very fluid and action is rarely interrupted. While inside your titan you feel invincible, especially when killing simple foot soldiers, it's like crushing ants. But there are tough sections too where you fight bosses who are bad guys with their own titans.
+There's one interesting mechanic – you can run on walls and jump from one wall to another to go where you want. Some of these platforming sections could be a bit tricky but it's still fun. Other than that it's a nicely done shooter with very satisfying gameplay which is full of non-stop action.
+
+There's a multiplayer, it's a fast paced shooter very similar to CoD, only you can summon the titan for limited time. I'm not into multiplayer, but I guess this should be extremely fun for CoD fans and those who don't care about teamplay, tactics etc, just point your gun, shoot, jump, die, repeat.
+
+Graphics are pleasantly surprising. Although the game is few years old it still looks very good. Every area is quite unique and feels fresh. Gameplay is changing depending on the mission so there's no repetitiveness at all.
+Performance is flawless, should run on potatoes too.
+
+If you're getting this for the campaign then save your money and get EA play instead. The game is very short (~5 hours) and isn't worth the price. If you're interested in multiplayer and you love fast shooters then it's definitely worth a buy.
+
+[b]Pros[/b]
+[list]
+[*]Great gameplay
+[*]Looks nice
+[/list]
+[b]Cons[/b]
+[list]
+[*]A bit too short
+[/list]
+
+[url=https://store.steampowered.com/curator/32930811-Kosmos%27s-Cosmic-reviews/?appid=704030][h1]Follow my curator page for more[/h1][/url]",0.8350241780281067,120,True
+1237970,70998267,76561198073519393,"As a titanfall content creator who has spent 1450+ hours in this game on origin since launch, I love it with all my heart. If you like adrenaline pumping, fast paced action games you'll love Titanfall 2. Don't be afraid to try out new stuff and get creative with your kills. The Frontier is your playground.
+(To put it simply, the trailers are 100% realistic)
+
+The community is generally friendly and is always welcoming to new players, don't be scared to ask about anything. (But for a positive conversation, avoid the smart pistol)
+
+All paid DLC is cosmetic (such as titan/weapon/pilot skins) and all gameplay DLC is completely free!
+
+If the multiplayer isn't your thing then try out the singleplayer. I don't want to spoil it, but you will most likely like it!
+
+For those who wants a recommended loadout to start with, try using this:
+Primary: Alternator/C.A. R/Spitfire
+Secondary: RE-45, P2016
+Anti-Titan: MAG Launcher
+Titan: Scorch
+
+HIGHLY SUGGESTED!
+//The Flying Tea Cup",0.8338590860366821,204,True
+1237970,212412896,76561198876195583,"
+---{ Graphics }---
+☐ You forget what reality is
+☑ Beautiful
+☐ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{ Gameplay }---
+☑ Very good
+☐ Good
+☐ It's just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ Audio }---
+☐ Eargasm
+☐ Very good
+☑ Good
+☐ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{ Audience }---
+☑ Kids
+☑ Teens
+☑ Adults
+☐ Grandma
+
+---{ PC Requirements }---
+☐ Check if you can run paint
+☐ Potato
+☑ Decent
+☐ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{ Game Size }---
+☐ Floppy Disk
+☐ Old Fashioned
+☐ Workable
+☑ Big
+☐ Will eat 15% of your 1TB hard drive
+☐ You will want an entire hard drive to hold it
+☐ You will need to invest in a black hole to hold all the data
+
+---{ Difficulty }---
+☐ Just press 'W'
+☐ Easy
+☑ Easy to learn / Hard to master
+☐ Significant brain usage
+☐ Difficult
+☐ Dark Souls
+
+---{ Grind }---
+☐ Nothing to grind
+☑ Only if u care about leaderboards/ranks
+☐ Isn't necessary to progress
+☐ Average grind level
+☐ Too much grind
+☐ You'll need a second life for grinding
+
+---{ Story }---
+☐ No Story
+☐ Some lore
+☐ Average
+☑ Good
+☐ Lovely
+☐ It'll replace your life
+
+---{ Game Time }---
+☐ Long enough for a cup of coffee
+☐ Short
+☑ Average
+☐ Long
+☐ To infinity and beyond
+
+---{ Price }---
+☐ It's free!
+☐ Worth the price
+☑ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{ Bugs }---
+☑ Never heard of
+☐ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{ ? / 10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☐ 7
+☐ 8
+☑ 9
+☐ 10
+
+",0.8305286765098572,120,True
+1237970,112065548,76561198068938289,"When I saw this available on steam, I immediately bought it especially at the time with the sale (80% off).  Please note that I got this purely for the campaign which did not disappoint. [b]Titanfall 2[/b] story is divided in nine chapters of excellent level design across a variety of environments. Each chapter also contains hidden helmets to collect that will test your ability to use the [b]phenomenal parkour mechanics[/b] in the game. This game has a variety of firearm types and titan loadouts that can be swapped at any time to adjust your tactical options. As you progress through the campaign, new mechanics are introduced to help you complete the levels platforming and/or puzzle sections. The only negative is how short the game is (6 to 8 hours) and the multiplayer is not working anymore making it nearly impossible to collect all achievements.  Overall, the story is good with exceptional parkour mechanics, variety of titan loadouts, fun platforming sections, and excellent level design. [9/10]",0.8290272951126099,89,True
+1237970,92478818,76561197977824972,"For a long time I've been hearing from other people ""PLAY TITANFALL 2"", and I was all ""Well I don't want to install a whole other digital store just to play one thing"" and they'd respond with ""PLAY TITANFALL 2"". The game got released on Steam and having played it myself I will now join the chorus of people yelling in all caps ""PLAY TITANFALL 2""
+
+Normally I wouldn't be into a shooter like this with such a quick time to death, but the movement adds fun new layers of tech to the shooter formula that's been dominated by the CoD franchise to make Titanfall stand out. Wall running lets the player reach speed that cannot be reached by regular running around. The double jump and climbing allows the maps to have lots of verticality and gives the player multiple options to get to where they want to go. When running the crouch becomes a slide, letting the player swooce into cover if getting shot at, allowing them to zip under small gaps, and turning melee attacks into uppercuts.
+
+Weapon wise there's a lot to work with, all the staples are here and there should be something for everyone. Shotguns, SMGs, rifles, machine guns, energy weapons, even stuff that shoots projectiles you need to lead instead of the hitscan weapons that you'd expect. Multiple grenade types as well, so there's plenty of things to mess around with until you mix and match your way to finding exactly what works best for you. Personally I'm a fan of the energy machine gun that makes people explode like hotdogs in a microwave and the thermite ninja stars.
+
+Then we get to the titans themselves. In multiplayer you build your way towards earning one (in the modes where there are titans) by fighting, and they're pretty good rewards for doing so. They completely change how you play, you can kill players outside of titans just by stepping on them, the UI changes, you lose options for movement and are too big to get into smaller spaces, but you get new tricks in return. Each titan model has different guns, different skills, and a different super move that they can do if they live long enough to earn it, and a different look (that you can customize further with skins and nose art and stuff), so each one is pretty unique. Though titans are harder to kill than regular pilots, pilots have their own stuff to even the odds as well: anti-titan secondary weapons such as RPGs or laser cannons, and you can jump on enemy titans to steal batteries and deal damage, and jump on friendly titans to prevent the same thing from happening to your team, and to give batteries you stole.
+
+Multiplayer is still active, despite the games age, I never had to wait too long to get into a match, and there's plenty of different mods to mess around with. While there are max level ""John Titanfall"" players who've been around since the game was originally released I never ran into too many, so that wasn't that big of a deal for me. The community isn't that bad, there's some shit talking but I never ran into ""XBOX live lobby"" levels of pre-teen screeching.
+
+I did have to install some version of Origin to gets this going which I didn't like, but I don't think this was going to come to Steam otherwise.
+
+The singleplayer campaign is great, lots of cool set pieces, lots of chances to screw around with the wall running, would recommend even if you don't want to touch multiplayer.
+
+Visually the game is pretty stellar, they squeeze a lot out the Source engine.
+
+TitanFall 2 is pretty great, I wish Titanfall 3 was a thing, booooo Apex Legends boooo you can't wall run BOOOOOOOOO. I give Titanfall 2 a ""PLAY TITANFALL 2"" out of ten.",0.8776026368141174,98,True
+1237970,218779791,76561198328211545,Its unfortunate the game came out in between the 2 giants of the fps titles which overshadowed it. At least Apex Legends was born from this but its just not the same. This game is peak and still is even in 2026,0.8272929191589355,83,True
+1237970,131530835,76561198287175652,"How can it be that a multi-million dollar company, that is backed by a multi-billion company, can't shield their servers from foreign hackers? From what I've read, this issue persists for months now and you people either are too incompetent, or just dont give a flying f*** about your game. I can't even edit my loadout because I get disconnected before any changes can be applied by the server.
+
+I loved this game but Titanfall 2 in 2023 is just a joke.
+
+Edit: A lot of people are suggesting that I get the Northstar client. A Fan-Project consisting of community-run servers so people can still play multiplayer. While I appreciate the helpful advice, I don't accept this as a solution to the problem at hand. We shouldn't have to rely on third party tools to be able to play a game that isn't officialy declared as dead by the developers. As long as they're not saying ""We're shutting down the servers lads, was a nice time"", they are obligated to maintain and protect the integrity of their game and servers. Northstar is not an option.",0.8269350528717041,258,False
+1237970,220431126,76561199667007483,"You kill me, you’re better. i kill you, I’m better. 
+
+as someone who usually doesn’t like fps games, this game is 10/10.",0.8261612057685852,95,True
+1237970,71327952,76561198008078633,"Works great on Linux with Proton.
+Gameplay is solid and responsive. Graphics and Performance is good.
+Campaign took around 7 hours, which is pretty good for game like this. Story is quite generic, but gameplay makes up for it. Multiplayer works great and there seem to be many people playing it as of writing this review.
+No bugs or glitches noticed on my 9 hour of playing this game.
+
+8/10",0.8752150535583496,101,True
+1237970,79580226,76561198014771681,"The only bad thing about TItanfall 2 is that once you've played it, every other shooter will feel clunky and slow. I'm a long-time Halo fan, but Titanfall 2 is the best FPS of all time.",0.8724725842475891,126,True
+1237970,214083307,76561198056584646,"Rest in peace Vince Zampella, thank you for your work. Titanfall was one of the best shooter that you made",0.8214160203933716,76,True
+1237970,176456018,76561198067371601,"Godtier PvP shooter, insane single player campaign, crazy fun co-op horde mode, and its got mechs in it, need I say more?",0.8208912014961243,55,True
+1237970,204591600,76561198823760560,"this game will very often go on a MASSIVE sale (90-80% off) and when it does BUY IT
+the campaign is my favorite campaign of any game i have every played 
+amazing movement and speed tech with one of the best storys of any game i have played 
+
+the only minor problem i have is with the multiplayer as with how old this game is most of the people who are still playing the game have over 1000 hours and it can get brutal 
+
+BUY THIS GAME
+its worth every penny",0.8202190399169922,50,True
+1237970,71069878,76561198135675869,"Did you ever hear about the tragedy of Titanfall 2's Marketing?
+
+I thought not.
+
+It's not a story EA would tell you.
+
+It's a Respawn Legend.",0.968080461025238,2608,True
+1237970,207440815,76561198215049403,"A game I keep on coming back to and probably my favorite campaign out of all the first person shooters I've played
+
+TITANFALL III PLEASEEEEEEEEEEEEEE",0.817825973033905,54,True
+1237970,172068387,76561198033317759,"One of the best FPS games and story campaigns ever (especially the Cause and Effect level, mindblowingly good). Multiplayer is fantastic and there's a ton of stuff to unlock. A pure 10/10 game!
+ 
+Now give us Titanfall 3 already!",0.8175194263458252,64,True
+1237970,72108621,76561198094292201,"~ DIFFICULTY ~
+
+🔲 My 90 year old grandma could play it
+🔲 Easy
+✅ Normal
+🔲 Hard
+🔲 Hardcore
+
+~ GRAPHICS ~
+
+🔲 MS Paint
+🔲 Bad
+🔲 Meh
+🔲 Graphics dont matter in this game
+✅ Good (You'll notice a lot of low-res textures, but the game world is pretty)
+🔲 Beautiful
+🔲 Masterpiece
+
+~ MUSIC ~
+
+🔲 Bad
+🔲 Not special
+✅ Good
+🔲 Beautiful
+
+~ STORY ~
+
+🔲 This game has no story
+🔲 Like playing Temple Runners for the story
+🔲 It's there for the people who want it
+✅ Well written
+🔲 Epic story
+🔲 Imagine the complex lore of Kingdom Hearts but on crack
+
+~ PRICE ~
+
+🔲 Free
+🔲 Underpriced
+✅ Perfect Price
+🔲 Could be cheaper
+🔲 Overpriced
+🔲 Complete waste of money
+
+~ REQUIREMENTS ~
+
+🔲 You can run it on a microwave
+✅ Average
+🔲 High end 
+🔲 NASA computer
+
+~ LENGTH ~
+
+🔲 Very Short (0 - 2 hours)
+✅ Short (2 - 15 hours)
+🔲 Average (15-50 hours)
+🔲 Long (50-90 hours)
+🔲 Extremely long (90-110 hours)
+🔲 No ending
+
+~ FUN ~
+
+🔲 I'd rather watch paint dry
+🔲 Hard to enjoy
+🔲 Repetitive
+🔲 Actually pretty amusing
+✅ The kind of fun youll remember
+🔲 Ride of your life
+
+~ REPLAYABILITY~
+
+🔲 It's a one-time experience
+✅ Only for achievements (Singleplayer)
+🔲 If you wait a few months/years
+🔲 Definitely
+✅ Infinitely replayable (Multiplayer)
+
+~ WORTH BUYING ~
+
+🔲 No
+🔲 Wait for sale
+✅ Yes",0.8654517531394958,603,True
+1237970,219226140,76561199032529218,"I played the beta for Titanfall 2 on ps4 and the game was amazing and never got to play the campaign until recently.
+Hope we get Titanfall 3 but, we probably won't because rest in peace Vince Zampella.",0.8145490884780884,61,True
+1237970,204953696,76561199138227252,"After all these years, it’s still the best first-person shooter by a huge margin.
+I can’t believe people prefer to play the same repetitive Call of Duty or Battlefield games with no special gameplay or story, while a masterpiece like Titanfall 2 is collecting dust—just because EA was stupid enough to destroy their only masterpiece with their own hands.
+
+Even after losing this game, they’re now losing Apex as well. With simple ideas—like adding Jack Cooper as a character in Apex, or even just releasing a few skins for Titanfall 2—they could have kept the community alive. But instead, they decided to focus on Battlefield and their other useless games.
+
+If you’re interested, read this review from me, a young FPS gamer who’s been playing shooters for almost 10 years.
+
+Gameplay
+The core gameplay of Titanfall 2 is a masterpiece. Not because it was the first game to combine this kind of movement with an FPS, but because it did it in the best possible way.
+This movement system doesn’t add any disadvantages—it only improves the experience.
+
+The campaign missions are incredible, combining amazing level design with masterful gunplay and movement. The online gameplay was so good that Apex later took many of its mechanics, and other shooters copied elements of it too. It’s a joy to see that there are still skilled players keeping the online alive.
+
+The gameplay truly showcases what a masterpiece looks like.
+
+Story
+The story is genuinely engaging. Jack Cooper starts as just an ordinary soldier, and the plot develops in a way that turns him into the pilot of BT-7274. But what really shines is the evolution of the bond between the two.
+
+Earlier, BT even tells Cooper about his long relationship with Captain Tai Lastimosa, and we realize that the bond between pilots and their Titans is not ordinary at all. The way this relationship develops is beautiful. Cooper clearly doesn’t know anything about being a pilot at first, and the dialogue reflects that. But together, they learn. BT becomes a true friend, and Cooper becomes a true pilot.
+
+Just as BT’s first lines explain the protocols, his final lines end with the same—and with that unforgettable “Trust me.” I’m sure no one has ever felt such emotions for a robot before.
+
+Issues
+Aside from the campaign being short, my biggest problem was the weak boss fights. Except for Viper—who was absolutely amazing—the others were weak, almost indistinguishable from fighting a normal Titan. But still, when you defeat Ash, you get that satisfying feeling of victory.
+
+Final Thoughts
+I bought this game for 5 dollars, and it feels like I committed a sin. The game is absolutely beautiful, and you enjoy every moment of it. The campaign is amazing, and the multiplayer is still alive even today.
+
+Definitely buy this game if it’s on sale—it’s absolutely worth it.
+
+Trust me.",0.8114473819732666,51,True
+1237970,129372892,76561199207283514,"---{ Graphics }---
+❌ You forget what reality is
+❌ Beautiful
+✅ Good
+❌ Decent
+❌ Bad
+❌ Don‘t look too long at it
+❌ MS-DOS
+
+---{ Gameplay }---
+✅ Very good
+❌ Good
+❌ It's just gameplay
+❌ Mehh
+❌ Watch paint dry instead
+❌ Jake Paul’s content
+
+---{ Audio }---
+❌ Eargasm
+✅ Very good
+❌ Good
+❌ Not too bad
+❌ Bad
+❌ Jake Paul’s music
+
+---{ Audience }---
+✅ Kids
+✅ Teens
+✅ Adults
+✅ Grandma
+✅ Bucky Barnes
+
+---{ PC Requirements }---
+❌ Check if you can run ms paint
+✅Potato
+❌ Decent
+❌ Fast
+❌ Rich boi
+❌ Ask NASA if they have a spare computer
+
+---{ Difficulty }---
+❌ Just press 'W'
+❌ Easy
+✅ Easy to learn / Hard to master
+❌ Significant brain usage
+❌ Difficult
+❌ Elden Ring/Dark Souls
+
+---{ Grind }---
+❌ Nothing to grind
+❌ Only if u care about leaderboards/ranks
+❌ Isn't necessary to progress
+✅ Average grind level
+❌ Too much grind
+❌ MW 2019 Damascus Camo grind
+
+---{ Story }---
+❌ No Story
+❌ Some lore
+❌ Average
+❌ Good
+❌ Lovely
+✅ It'll replace your life
+
+---{ Game Time }---
+❌ Long enough for a cup of coffee
+❌ Short
+✅ Average
+❌ Long
+❌ To infinity and beyond
+
+---{ Price }---
+❌ It's free!
+✅ Worth the price
+❌ If it's on sale
+❌ If u have some spare money left
+❌ Not recommended
+❌ You could also just burn your money
+❌ You need 50% of Elon Musk’s wealth
+
+---{ Bugs }---
+❌ Never heard of
+✅ Minor bugs
+❌ Can get annoying
+❌ ARK: Survival Evolved
+❌ The game itself is a big terrarium for bugs
+❌ Cyberpunk 2077 before patch
+
+---{ ? / 10 }---
+❌ 1
+❌ 2
+❌ 3
+❌ 4
+❌ 5
+❌ 6
+❌ 7
+❌ 8
+❌ 9
+✅ 10",0.8101614117622375,731,True
+1237970,131013638,76561198246471936,"Better than Apex, but it was left to rot because BRs are meta and make more money.",0.9595833420753479,820,True
+1237970,95921769,76561198067981802,"[h1] WARNING TO ANY NEW PLAYERS WHO ARE CONSIDERING BUYING THIS FOR THE MULTIPLAYER [/h1]
+
+[u] Due to recent issues with hackers, Titanfall 2 is currently in a state where the playability of the game in multiplayer is no longer guaranteed, and there will be periods of the day where you simply cannot enter a multiplayer match due to DDoS attacks either causing the match itself to crash shortly after it starts, or by not even allowing the player to enter the game at all. If you are considering purchasing Titanfall 2 for the multiplayer, I would recommend holding off, as, as the hacking gets worse and worse, there is no guarantee the multiplayer will even be playable at all after a certain point. That aside due to the work of hackers, there also exists a multiplayer blacklist, meaning that if you get chosen by these hackers, any match you play will cause the entire game to crash [/u]
+
+Thankfully if you're only buying Titanfall 2 for the campaign, everything should be working as normal, and I do recommend the campaign a lot, I think it's one of the best shooter campaigns of the past decade, and dare I say the best shooter campaign of 2016 arguably. But because of the fact that this multiplayer issue is so prevalent, I'm going to mark this review negatively, in the hopes that someone from EA or Respawn will listen, and help fix this.
+
+I love Titanfall 2, when I first played the game in October, it quickly became one of my favourite games, due to the satisfying momentum based movement system, giving me such a sense of player freedom, speed and flow that, no other game has ever given me. But seeing it slowly die at the hands of EA has been one of the most depressing things in my life recently, seeing this game that I loved get abandoned to the wayside by a company that just doesn't give a damn about the game, all the while the fans are fighting tooth and nail to keep it alive, it's just heartbreaking, and I hope that more people come to know about how EA abandoned this game.
+
+I also want to say that while Apex players, think that this doesn't matter to them, that Titanfall is an old game and it shouldn't get any attention or help because of this. Apex players should be very scared about this, because the engine exploits that exist in Titanfall 1 and 2 are the same ones that exist Apex, since they all run off the same engine. With Titanfall 2 finally falling, it is only a matter of time before things get far worse for Apex players due to hackers, and when that day comes, things are going to get a hell of a lot worse. People should be putting pressure on EA and Respawn to fix these issues, if not for Titanfall 2, than for the Apex community, because as the recent attack shows, nobody is safe here, and nobody playing any game related to Titanfall should have to deal with hacking issues like this.
+
+#savetitanfall
+https://savetitanfall.com/",0.8590154051780701,113,False
+1237970,97598457,76561198060203956,"[h1]  One of the best shooters ever made![/h1]
+
+Titanfall 2 is a perfect sequel. It really is. The developers listened to our feedback and improved on absolutely everything. The result? A modern masterpiece! I remember playing Titanfall 2 back in 2016 and thinking ""This is it. This is peak online shooting. It can't get much better than this."" Do I still think this is true? Definitely. Multiplayer is not the only reason why the game is great though.The campaign is excellent as well. Sure it only took me five hours to beat the campaign on hard but it was a brilliant ride.
+Let me put it this way: I rather pay 49.99€ for a great 5h long campaign than a 20h long slog.
+
+The story itself is quite decent. It has a few pleasant surprises here and there. The pacing is perfect and the action... Oh my, the action! The campaign throws perfect wall-running, sliding,
+shooting, jumping, mech action, puzzle-solving, and exploring sections in your face and absolutely every single one of those sections is marvelously designed, wonderfully paced and just a joy to play. 
+At first, you might think Titanfall 2 is another ordinary military shooter with the addition of wall-running and mech control but that simply isn't true. As I already mentioned the game throws platforming and puzzle sections at you as well.
+The story itself does have a couple of twists in it and it's not just humans you have to battle. There are different monsters, people, robots, mini-mechs, huge mechs, boss mechs, and harsh environments you have to navigate yourself in.
+I have to admit I was falling to my death more often than I'd like to admit and definitely died more due to failing jumps than getting unalived in combat.
+
+Now let's talk about multiplayer.
+Right off the bat, I want to say there is also a co-op mode that doesn't get enough credit and
+people never mention it in their reviews.
+It is pretty straightforward: Four players must work together and survive five waves of enemies.
+
+PvP is what interests you the most though, right? It's incredible! Have you ever seen any of the Call of Duty, Battlefield, Apex, or any other multiplayer trailer for a game? The trailers look intense but you never see anything like that in the real game. You rarely get any of those epic trailer moments in your average multiplayer match.
+Titanfall 2 is the exact opposite. No trailer does it justice. Every match you make, every breath you take, is a ballet of an action hero.
+Call in your titan while wall-running, double jump towards the titan that just landed, and squashed your opponents. The titan grabs you mid-air and together you rock 'n' roll to blow
+everything up. It's brilliant, smooth, simple to execute, and satisfying.
+
+What modes can you play? I hear you ask. You have your classic team deathmatches, capture the flag, free-for-all, domination-like mode, and a couple of more deathmatch modes with different rules. Oh, and in case anyone is wondering: Yes. The multiplayer is very much alive.
+
+Conclusion: Titanfall 2 has more than enough content to justify the price. It is a perfectly executed game and a worthy sequel.
+It's unique, beautiful, and will satisfy both single-player and competitive players alike.
+It's definitely worth your hard-earned money.",0.8074631690979004,96,True
+1237970,73772117,76561198082610824,"A masterpiece of a game that had it's potential destroyed by EA's stupidity to release it between a new COD and BF game :( :( this game is worth the full price just for the single player campaign alone, the movement and shooting mechanics in this game is top notch and many other games have tried to mimic it. I've played through the single player 4 times now (twice on ps4, once on xbox and once on pc) and every single time the game has been a blast, trust me play it :) I really hope respawn/ea make titanfall 3",0.9559664130210876,946,True
+1237970,74610856,76561198017224594,"I only purchased the game for single player. This is one of the best single player FPS I've played in the last decade. Not quite as good as games like Halo and Crysis, but it's up there and I will remember this game. I normally get bored of single player games about half way through and quit and forget the game within a few weeks, but this game kept me on the edge of my seat hoping the game wouldn't end... which is rare! If you like FPS and a solid single player experience you won't find many better FPS games on the market... if any.",0.8551117181777954,176,True
+1237970,228297155,76561199150883438,"greatest fps game ever
+campaign/story is high-key movie quality type stuff
+movement is the best
+multiplayer is peak
+11/10",0.8016390800476074,61,True
+1237970,194679439,76561198367471798,"Titanfall 2 remains an exceptional example of how a first-person shooter can combine fluid movement, satisfying weapons, creative level design, memorable characters, and large-scale mechanical combat without allowing any single element to overshadow the others. Developed by Respawn Entertainment and published by Electronic Arts, it offers both a carefully designed single-player campaign and competitive multiplayer. Its defining idea is the contrast between extremely agile Pilots and heavily armed Titans, creating two distinct styles of combat that complement each other remarkably well.
+
+The campaign follows Jack Cooper, a Militia rifleman who finds himself stranded behind enemy lines and unexpectedly partnered with BT-7274, a Vanguard-class Titan. What initially appears to be a straightforward military science-fiction story gradually develops into a surprisingly engaging partnership. BT's logical, literal personality provides plenty of understated humor, while Cooper's growing trust in his mechanical companion gives the campaign an emotional foundation. Their relationship never overwhelms the action, but it gives purpose to the battles and makes important story moments considerably more memorable.
+
+Movement is arguably the game's greatest accomplishment. Cooper can sprint, slide, double-jump and wall-run, allowing environments to function as elaborate traversal playgrounds rather than ordinary shooter corridors. Chaining these abilities together creates an exhilarating sense of momentum. Once the mechanics become familiar, simply moving from one location to another becomes entertaining. Combat benefits enormously from this mobility because staying stationary is rarely the most enjoyable approach. Players can rush along walls, leap over enemies, slide beneath obstacles and fire while constantly repositioning.
+
+The gunplay is equally responsive. Weapons have satisfying feedback and cover enough different styles to encourage experimentation, but their effectiveness is enhanced by the movement system. Instead of repeatedly hiding behind cover and exchanging fire from fixed positions, players are encouraged to attack aggressively and use vertical space. Encounters can become fast, almost acrobatic sequences where traversal and shooting blend naturally together. The result is an FPS that rewards both accuracy and an understanding of momentum.
+
+Titan combat provides a deliberate contrast. Entering BT or another Titan changes the player's perspective from vulnerable but extraordinarily mobile infantry to a towering armored machine. Titan battles emphasize positioning, defensive abilities, powerful weapons and knowledge of enemy capabilities. Different Titan configurations support different approaches, preventing mechanical combat from becoming a simple contest of durability. Despite their enormous strength, Titans do not make Pilot gameplay irrelevant, which is crucial to maintaining the balance between the game's two major combat styles.
+
+The campaign's level design deserves particular praise because it constantly introduces new situations rather than repeatedly recycling the same formula. Platforming challenges, environmental hazards, large battlefields, mechanical puzzles and inventive gameplay concepts regularly change the rhythm. Some stages introduce mechanics strong enough that another game might have built its entire campaign around them, yet here they are used for a focused section before another idea takes their place. This approach keeps the adventure consistently fresh and gives individual missions distinct identities.
+
+Multiplayer takes the movement and Titan mechanics into a much more demanding environment. Human opponents understand verticality, wall-running and rapid repositioning, producing matches that can become extraordinarily fast. Pilots can appear from rooftops, walls, windows or unexpected angles, while the arrival of Titans dramatically changes the battlefield. The mixture of infantry and mechanical combat creates a distinctive competitive identity that separates it from shooters built around conventional ground movement.
+
+Customization adds another layer to multiplayer. Players can experiment with Pilot abilities, weapons, equipment and Titan choices while developing loadouts suited to their preferred style. The different Titan types offer meaningful variations rather than functioning merely as cosmetic alternatives. Some approaches favor direct aggression, while others reward range, positioning, defensive play or careful ability management. This variety gives players plenty of opportunities to find combinations matching their strengths.
+
+Visually, the game continues to benefit from strong artistic direction. Industrial complexes, futuristic military installations, wilderness areas and enormous mechanical structures provide varied backdrops while simultaneously supporting the movement system. Environments are designed with walls, platforms and vertical pathways that encourage traversal rather than merely decorating the battlefield. Audio contributes heavily to the sense of power as well. Firearms sound forceful, explosions carry weight, and Titan machinery convincingly communicates the enormous scale of these machines.
+
+The campaign does have limitations. Its strongest ideas sometimes disappear almost as quickly as they are introduced, leaving the player wishing certain mechanics had been explored further. The story is effective but relatively straightforward outside the Cooper and BT relationship. Multiplayer also presents a substantial learning curve because experienced players can use advanced movement techniques to cross maps and attack from unexpected directions with intimidating speed. Beginners should expect some difficult matches while learning how traversal and combat work together.
+
+The Steam version additionally requires interaction with EA's account and online infrastructure, which introduces an unnecessary layer between launching the game and actually playing it. It does not ruin the underlying experience, but players who prefer completely self-contained Steam titles may find the additional account requirement inconvenient.
+
+Steam Deck compatibility is more complicated than the game's controller-friendly mechanics might suggest. It does not currently carry an official Steam Deck compatibility rating from Valve. Community reports indicate that the game itself can run well on the handheld and its controller-based movement translates naturally to portable play, but the required EA launcher can introduce complications. Launcher updates, authentication requirements and occasional compatibility issues can affect an otherwise capable handheld experience. Players primarily interested in Steam Deck play should therefore expect that some troubleshooting may occasionally be necessary rather than assuming a seamless console-like experience.
+
+Ultimately, the game succeeds because virtually every major system contributes to a consistent feeling of speed, freedom and power. Pilot movement is exceptionally responsive, Titan battles provide satisfying heavyweight combat, the campaign continually experiments with new ideas, and the relationship between Cooper and BT gives the adventure genuine personality. Multiplayer further demonstrates how much mechanical depth exists beneath the accessible controls. Even years after its original arrival, few shooters combine parkour, precision gunplay and mech warfare with comparable confidence. It is an outstanding choice for anyone who values inventive FPS campaigns and fast, skill-driven action.
+
+Rating: 10/10",0.8470062613487244,108,True

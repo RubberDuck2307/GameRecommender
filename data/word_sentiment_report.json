@@ -1,0 +1,15 @@
+{
+  "game_files": 663,
+  "labeled_reviews": 63858,
+  "positive_reviews": 50221,
+  "negative_reviews": 13637,
+  "positive_percent": 78.64480566256381,
+  "negative_percent": 21.355194337436185,
+  "majority_to_minority_ratio": 3.6827014739312167,
+  "unlabeled_reviews_excluded": 0,
+  "duplicate_rows_excluded": 0,
+  "min_review_count": 3000,
+  "min_abs_score": 0.0,
+  "smoothing_alpha": 1.0,
+  "retained_words": 312
+}

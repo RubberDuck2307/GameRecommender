@@ -1,0 +1,628 @@
+appid,recommendationid,author_id,review,weighted_vote_score,votes_up,voted_up
+6850,32620542,76561198124204626,"Very fun game, However there are some technical problems on WIndows 10 (Just as any old computer game) , It is a very good game if you do some technical matenince. Since im a nice person i'll tell you how to make the game better.
+
+The first problem is resolution, in order to get a 1920x1080 resolution you must find the game in Steam Libray > Steam Apps > Common > Hitman 2 Silent Assassin then open the ""Hitman2.ini"" file and it will open up as a text file, then scroll all the way down and you should see the text ""Resolution:????"" replace the current resolution and save the file, it should be in 1920x1080 
+
+
+Another problem people come across playing on new hardware is that whenever you Hold shift to run it will be very slow, this is because the game is going over 60fps, There is no frame limiter option anywhere in the .ini folder I mentioned earlier or anywhere else in the game. So, you will need another program to do this. Use a program called ""Dxtory"" it is a frame limiter tool, however it is not free but you are allowed to download it and use it in the trial version forever (The frame limiter is in the Trial version) CAUTION keep in mind that this is a program from Japan (It's in english so don't worry) so be careful where you download it from. They have a website I think.
+
+That's it Hitman 2 is a very fun game, but it is old, and defenitely worth the $6.99, but before you buy it (If you want a good experience) be prepared to do some computer matienence, just as with any old steam game.
+
+Content wise it is very fun the first time around and very replayable.
+
+I really hope this helpped someone.",0.9008499383926392,145,True
+6850,148955166,76561198833279958,"If you are having trouble running the game, open Hitman2.ini in the game folder with notepad and change DrawDll RenderD3D.dll to DrawDll RenderOpenGL.dll",0.866422712802887,62,True
+6850,8369620,76561198000171319,"So, I owned this game back on CD until that one broke, and when it appeared on Steam, it didn't take me long to make the decision to re-acquire it.
+This game is one of the classics and my personal favorite of the series (maybe, mabye tied with [i]Blood Money[/i]). 
+Don't expect HD graphics as the game [i]is[/i] fairly old, but they still hold up and the gameplay makes well up for it.
+The game mostly gives you free reign over how you deal with your missions, wether you go in guns blazing or infiltrate the building disguised as the milkman, take out your target and leave without anyone ever knowing better; the only consequence being a distinct shift in your overall mission ratings (though wether or not a [b]Mass Murderer[/b] rating is good or bad is still technically up to you.).
+What you have to know is that if you play it quiet, you play it slow. Be prepared to wait for good whiles to learn guard routes or for your target to be in the perfect spot; be prepared to reload often (if you're a perfectionist) when things didn't go as planned, or quickly adapt to your new situation.
+So, overall, if you enjoy the thought of being the unseen angel of death that puts Altair and Ezio to shame, or if you played and enjoyed any of the other [i]Hitman[/i] titles (and for some reason don't already have this one), this is a definite must-have.",0.8605353236198425,107,True
+6850,49810340,76561198041431762,"Thumbs down for the Steam version, I can't even get it to work. Now I'm finding out that it's a slightly more censored version as well. Just get the superior GOG version like I did. The only thing that sucks is that GOG only has Codename 47, Silent Assassin, and Contracts as of writing this. The reason I got the Steam version was so I have all the games in one place.
+
+""The Steam version (v1.02) is slightly censored (removed certain lines of dialog, alcohol references, and minor changes to certain disguises). The GOG.com version is patched to work better on modern operating systems and it's the uncensored version 1.01."" - https://pcgamingwiki.com/wiki/Hitman_2:_Silent_Assassin",0.8520220518112183,87,False
+6850,32961855,76561198041546793,"Great game! A classic in the series.
+
+[h1]How to make this work with windows 10:[/h1]
+1) Download [url=enbdev.com/download_convertor_dx8todx9.htm]Dx9 Converter*[/url] (zip file)
+2) Extract the contents in the game directory**
+
+[h1]For widescreen resolution:[/h1]
+1) go to game directory
+2) open Hitman2.ini with notepad. Scroll at the bottom and change the resolution to whatever your screen resolution is. Then change the ""window 0"" to ""window 1"". Bottom part in the ini should look like this (example for 1920x1080):
+
+Resolution 1920x1080
+DisableHWTnL 0
+Window 1
+EnableP5 0 
+
+Have fun!
+
+*Dx9 Converter link in text form: http://enbdev.com/download_convertor_dx8todx9.htm
+**Default game directory is: 
+C:\Program Files\Steam\SteamLibrary\steamapps\common\Hitman 2 Silent Assassin",0.8253200650215149,55,True
+6850,200773213,76561198867958726,"[h3][b]One of those childhood games that made me an addict (to gaming!)[/b][/h3]
+[quote][b] Rating: 8.5/10 [/b][/quote]
+This masterpiece is full of gameplay bugs which cannot be fixed. However, I recommend this guide for modern PC:
+[url=https://www.pcgamingwiki.com/wiki/Hitman_2:_Silent_Assassin] Just follow Widescreen fix + apply Built-in wrapper[/url]
+
+Remember, the game will crash every time you open Settings before launching campaign, so just don't. If it crashes even after precaution, run Hitman 2 configuration via steam launch option and press ""reset"".
+
+If you are going for complete stealth gameplay, read game rating mechanism [url=https://hitman.fandom.com/wiki/Difficulty_Level/Silent_Assassin] here[/url]. 
+Basically Never Kill Civilians, max 2 alerts or max 1 alert with 1 guard kill. The cleaner the better.
+
+[b]Good luck, 47![/b]",0.7709336280822754,28,True
+6850,138423371,76561199088466196,"I am Playing in 2023 but still feels AWSOME!
+Levels are Good...
+Fully Nostalgic..!!
+Could have done a Remaster of this Game.!
+
+(JUST 1 Issue -> Compatibility, I had to play in 16-bit 1024x768 to actully run the Game else it always Crashes)
+
+Critic : Review of Game (My Experience)
+
+🎚️ Difficulty
+🔲 My grandma could play it
+🔲 Easy
+🔲 Normal
+☑️ Hard
+🔲 A challenge to be reckoned
+🔲 In the heat of confrontation, (Only PVP games)
+
+
+🗺️ Graphics
+🔲 MS Paint
+🔲 Bad
+🔲 Meh
+☑️ Normal
+🔲 Very Good
+🔲 An original artistic direction
+🔲 Beautiful
+🔲 Masterpiece
+
+
+📚 Story
+🔲 This game has no story
+🔲 Basic element of the contractual requirements
+🔲 It's there for people who want it
+🔲 Well written
+☑️ Leading to more in-depth researches/thoughts
+🔲 A model to get inspired by
+
+
+⌛️ Length
+🔲 0 (No story)
+🔲 Short
+🔲 Average
+☑️ Long
+🔲 To infinity and beyond
+
+
+🎶 Music
+🔲 Just filling noises/No music
+🔲 Trivial and uneventful
+🔲 Good and/or fitting the game's artistic dispositions
+☑️ Memorable
+🔲 Transcending whispers of a forgotten world
+
+
+🕹️ Interest
+🔲 I would rather watch paint dry
+🔲 Hard to enjoy
+🔲 Repetitive and/or uninspired
+🔲 A good moment
+☑️ Sticking out of the pack
+🔲 You will remember it long after
+
+
+🔁 Replayability
+🔲 A one-time experience
+🔲 Only for achievements
+🔲 If you wait a few months/years (or with mods)
+☑️ Definitely (Different endings)
+🔲 Infinitely replayable (or almost)
+
+
+🐛 Bugs
+🔲 Never heard of
+☑️ Minor bugs
+🔲 Can get annoying
+🔲 Impacts the player's experience badly
+🔲 The game itself is a big terrarium for bugs
+
+
+⚙️ Requirements
+🔲 You can run it on a microwave
+☑️ Low
+🔲 Average (Maybe higher)
+🔲 High
+🔲 NASA computer
+
+
+💰 Price
+🔲 Free
+🔲 Underpriced
+☑️ Perfect Price
+🔲 Could be cheaper
+🔲 Overpriced
+🔲 Complete waste of money
+
+
+🤑 Worth Buying
+🔲 No
+🔲 If you have nothing else to play
+☑️ Wait for sale
+🔲 Yes
+
+
+🎯 Expectations
+🔲 It's a completely different game
+🔲 This game is a scam
+🔲 It's missing many features they announced
+🔲 Looks very similar to the steam page
+☑️ Better than expected and/or announced
+🔲 Masterpiece, no patch or feature has to be added.
+
+
+✒️ Final Rating
+🔲 1
+🔲 2
+🔲 3
+🔲 4
+🔲 5
+🔲 6
+🔲 7
+☑️ 8
+🔲 9
+🔲 10
+
+
+Thank you for taking the time to read and think about this review.",0.8202163577079773,44,True
+6850,162453635,76561199149778869,"1. Gameplay: 9/10
+2. Story: 8/10
+3. Graphics: 9/10 (when released)
+4. Mission Design: 10/10
+5. Difficulty: 9/10 (best in series)
+6. Soundtrack: 100/10 (Peak)
+A must-play game
+Don't call yourself a fan of the series if you haven't played it yet
+I F*UCKIN LOVE IT <3",0.7593713998794556,28,True
+6850,8484149,76561198000056379,"The Hitman series is a piece of history.  I think this game was the fruition of the stealth/action genre, and its effective implementation have inspired dozens of other games, including Assasin's Creed. Hitman 2 is my favorite, not because it's the best, but because it was one of the first PC games I fell in love with. The atmospheric mood, soundtrack, and art stylization really drew me in and have greatly influenced what I look for in the medium. While the gameplay has dated, the effective combination of other aspects have kept it consistently in my top 20, even a decade later.
+
+Gameplay: 5 
+In a post Assasin's Creed world, it has definitely dated.  At the time, however, the controls and AI were stellar. 
+ 
+Story: 6
+Nothing revolutionary, but it serves to draw together the wide variety of locations presented in the game.
+
+Art: 9
+The mood and atmospheres are incredible. No other game at the time captured the diversity of worlds so well with so little graphically, justifying literally hundreds of hours of slow sneaking - without ever feeling dry or boring.  This combined with the music makes it a classic. 
+
+Music: 9
+Jesper Kyd is a master. At a time when most games featured popish midi synth, he had his soundtrack was performed by the Budapest Symphony Orchestra.
+
+Should you play this?
+If you haven't played this before, you likely won't be impressed. But if you like classic games and want to see a bit of history, enjoy it for the fantastic environmental moods the game creators were able to capture. For those of you who enjoyed it 10 years ago, you'll appreciate a replay.",0.7890398502349854,54,True
+6850,163178742,76561198414718700,In order to run the game on Win11 you need to cap your system FPS at 60 (ex. change your refresh rate and enable global vsync in nvidia control panel),0.7381015419960022,25,True
+6850,210292184,76561199446456888,"Hitman 2 Silent Assassin is an amazing sequel to the first hitman game. It fixes almost all the issues of the first game that the first game has, Most of the levels are great and offer my ways to kill your target. there are a few missions that are bad, like the japan mission which are a walking sim, but most are good. 47 is much more fun to control in this game compared to the first, and they added quicksaving which is a life saver. the safehouse is also a great feature as it is fun to go back through levels to find more weapons to add to it. The only main issue (with the gameplay), is that disguise system is very weird, as running is basically illegal and npcs will randomly see through your outfit at times, but it doesn't ruin the game.
+
+The reason this review is negative is that the simply does not run on many pcs, which is a major issue as you can not even play the game. The only fix is to download some files online, which should not have to happen. It should be expected that the game you pay for, should be able to work, and it simply doesn't. this games is great but unfortunately it just doesn't work. if you are willing to look for the files to fix it, then you should buy it, but if you aren't then don't waste your money.",0.7192113995552063,23,False
+6850,8833451,76561198035180936,"This is the game that got me into the Hitman franchise, and I wouldn't recommend it to new players. It's very difficult, the AI is buggy as hell, and you're not given much guidance on what you're supposed to do. But that doesn't mean it's not one of the best games ever made! IO Interactive took the basic idea of Codename 47 and made it ten times better when they made Hitman 2: Silent Assassin. You'll be blown away from the main menu screen to the end credits. At the time I had never played a game that was so open-ended. You're pretty much thrown into a map, told to kill a guy, and it's up to you to figure out how you're going to do it.
+
+I had seen this game in a store but originally passed on it. The idea of being an international hitman was appealing, but I figured it was going to be watered-down garbage. By chance I received a copy of Hitman 2 and now I'm glad I did! One of the best experiences I've ever had in a video game and one in which I've played for thousands of hours and lost sleep on just trying to figure out new ways to kill targets and complete missions in crazy ways.
+
+A classic in every sense of the word and you owe it to yourselves to play this game.",0.7281652688980103,31,True
+6850,187958609,76561197987167966,"This game was my jam back in the day, I played it obsessively, I silent assasined everything.
+
+And it aged like rotten milk.
+
+Look, we are not hurting for quality Hitman content nowadays. If you're new to the series - play Contracts, play Blood Money, play the reboot trilogy. Hеll, you could consider giving Absolution a shot before even thinking of touching the first two games in the series, because they barely function.
+
+The broken AI of this game is the stuff of legends. They open fire if you sprint for five seconds, they open fire if you look at them funny, they open fire just because they feel like it sometimes. And there is no reliable way to knock out someone using anesthetic – only the RNG gods know if the guy in front of you will freak out at the last possible second or not. And they freak out way more often than not. I have a suspicion that this is 60 FPS bug or something, because I don’t remember it being that way, but it is very annoying nonetheless.
+
+And all of that exercise in frustration honestly would be forgivable if level design was good, but it’s really not all that. There are around 6 missions out of 21 of them that are even remotely Hitman quality, and by Hitman quality I mean barely passable, none of them are going to the hall of fame anytime soon. Even Codename 47 kinda wins this round because it at least has Tradition of the Trade level in it. The rest are either comically simple, limited and short, or huge giant empty wastelands devoid of Hitman gameplay entirely. The Hidden Valley retroactively approaches Hunt Down The Freeman level of quality and I’m not joking.
+
+I can recommend this game either to die-hard fans who MUST finish anything Hitman or to those interested in videogame history. And even then – don’t even bother to do Silent Assassin, it’s really not worth it.
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=3427771731",0.6704883575439453,16,False
+6850,15235375,76561198171827095,"[i]""Hitman 2 should be everything we wished of its predecessor – and that gives us extremely high hopes."" [/i]
+- PC Gamer, 2001
+
+Silent Assassin is where the Hitman series truly excelled. Codename 47 gave a great introductory to the franchise, Hitman 2 had so much to work with and delivered incredibly well. Without spoiling the ending to Codename 47 and the plot of Silent Assassin, Agent 47 finds himself in similar territory: to kill. 
+
+Through a wide variety of challenging scenarios, 47 must overcome all barriers to reclaim something extremely important. Through this journey it outlines to 47 that he is incapable of finding inner peace and therefore must continue work through the ICA.
+
+Highly recommended. My favourite stealth game alongside Hitman: Blood Money. 
+",0.719649076461792,24,True
+6850,218481173,76561198325404399,"Initially, I was very frustrated with this game, as much as I enjoyed the more recent Hitman games.  But, once I beat the first few missions, I realized how well designed and thoughtful this game is.  It is an incredibly difficult game, especially on my chosen difficulty (Expert).  It requires extreme patience from the player in order to avoid suspicion from trigger-happy guards.  Essentially, everyone is an enforcer.  So, you need to walk like you belong where you are and turn your face away when you pass a patrol.  These little details do an incredible job at making you feel like a real spy deep behind enemy lines.  The soundtrack adds to the tension and is definitely one of my favorites.
+In addition, you can watch all NPC movements on your map, something that isn't possible in the other Hitman games I've played.  I learned how powerful this can be and it allows you to devise a master plan and execute it.  In effect, I leave every mission feeling like I executed it the same way that 47 would have.  I highly recommend you give this game a fair shot if you want true satisfaction out of playing a game.",0.6556481719017029,11,True
+6850,42918198,76561198348195590,"This was my first Hitman game and ever since I've been hooked on the franchise. Silent Assassin is still my favorite of them all. Glad to have on pc once again. Replaying now compared to back in 2003 the story and gameplay still hold up well, graphics are obviously dated though.",0.7028504610061646,16,True
+6850,149302756,76561198006408091,"INTRODUCTION
+Ok so this one is way harder for me to recommend than the first one. I was really close to checking ""Not Recommended"", but due to this game having some fantastic levels (even if a few), which are among the best in the whole classic Hitman, combined with the fact that this game barely costs anything, I couldn't bring myself to do that. Given that, if it were to come out today, or if it was priced any higher, I would definitely give it a thumbs down.
+
+Sooo, let's start: the first glaring issue you'll see right after launching is the fact that unlike the first game, this one doesn't work out of the box. Thankfully, Widescreen Fix for this one is even better than the one for the first game: you just install it, set a 60 FPS limit in your video driver, and the game works as fine as it would on an older system, as well as looking quite pretty even at low res.
+
+LEVELS
+As I said, the main selling point of this game is levels. Unlike the previous game, this one has higher highs and lower lows. Levels like Anathema, Tracking Hayamoto, Shogun Showdown, Basement Killing, The Jacuzzi Job, Murder at the Bazaar, The Death of Hannelore, Terminal Hospitality, are all very memorable, have multiple Silent Assassin solutions, as well as look great. Also most of the negatives I'll list further don't apply strongly to these levels.
+On the other hand, levels like Hidden Valley, Motorcade Interception, Temple City Ambush, are to be avoided at all costs, don't even bother getting SA on them. They are either a buggy mess or too RNG dependent. Everything else is in the middle.
+
+GAMEPLAY
+Let's start with the positives: Default control scheme is better. New mechanics are introduced, such as lockpicking, side stepping, crouching, sedating, knocking out, 1st person camera mode. You are now equipped with fiber wire, compass, and binoculars by default. Map system is redone and is better. Scoring system is introduced, it's way superior to what we had before, and adds another layer of replayability to the game. You now have a hideout, a hub of sorts, where you can start missions from. Saving the game mid-level is now a feature!
+
+Now to the negatives... Disguising, enemy AI, enemy patrol patterns, various animations, average map size, average amount of floors per map, all of those and more, were revamped to be worse.
+Disguises don't work the way they used to. You still arouse suspicion, even with the best disguise, and with most of them you will get spotted and shot on sight. This results in many levels being played as if they were Suit-Only, hiding out of sight, waiting for AI patrols. In and of itself I wouldn't say it's a bad feature, but combined with everything else, this becomes very annoying and doesn't work in the game's favour at all.
+Enemy AI: Forget about running. Running in someone's sight will not only raise their suspicion, in many cases it will straight up make them open fire. Running is ILLEGAL in this game💀. When out of sight - running makes such a loud noise, that it makes some NPC go and check the area out, while for others, it breaks their pattern completely and makes them patrol a random direction. This is something you would actually utilize if you were going for Silent Assassin rating in some missions. Nethertheless, it's absurd. Some enemies like to follow you in this game, for no reason, they just do, sometimes they stop after a while, sometimes they don't, you eventually get a feel for it, but it's another frustration you have to deal with. Nearly every NPC has a no-no square around them, meaning if you get too close - they go berserk on you in seconds. That's a fine way to fix the cheesy ""knife from behind"" strat from the first game, but this game insists on putting NPC in tight walkways, meaning in many cases you have to walk past them and test your luck. This WILL kill you at least a few times. Some AI is downright broken: guards kill themselves in some levels, they see you through five layers of wall in some levels. Most, if not all stationary guards will permanently change their looking direction, based on sound. This may get you through an otherwise impassable spot, but it could also prevent you from completing a mission, if you happened to sprint OR EVEN WALK in a wrong part of the level.
+OK, disguises suck, AI is awful, what else could go wrong? Well, a cherry on top is revamped patrols. Many guards now have very extensive patrol routes, that may take over 5 minutes/cycle. Some guards will take ""breaks"" in the middle, that last minutes. This, combined with the SuitOnly-esque gameplay results in you waiting around for minutes and minutes just staring at the map or a door, waiting for AI to move, at least on your first time through that is. This game LOVES wasting your time.
+Speaking of wasting time, EVERY animation now takes longer than it did in the last game. Changing a disguise, pulling out a weapon, dragging a body, climbing a ladder, even sneaking feels slower. On top of that, the new lockpicking mechanic is not only slow as hell, it's also random: sometimes it's relatively quick, sometimes it takes ages.
+Now normally, I'd praise a game for having big maps with a lot of floors. More stuff to explore! But due to everything mentioned above, the average map/floor size of this game, makes many levels even bigger timewasters than they already were. Also swapping between floors on the map is a chore in this game, and the game isn't even paused while you do that, so yeah, another ""fun"" feature.
+All of this results in a tedious gameplay, and if you stick around, after a while you start to find glitches and abuse them heavily. For example: redirecting stationary guards with sound to never see you; canceling every concievable animation by spamming the map button; doing a ""slide-run"", by holding shift and spamming W, which allows you to walk at running speed. All these and more will become a part of your arsenal if you attempt higher difficulties. This game doesn't treat you fairly, and neither should you.
+Ok, I'm through with the big ones, now let's go through some nitpicks: sedating takes too long and lasts too little. Knocking out is not only inferior to sedating, it actively prevents you from shooting if an enemy is too close. Default items don't include NightVision. You can't get any sort of armor anymore. New weapon system is neat on the first sight, but it makes no sense lore-wise, and after a while, replaying levels just to get a weapon becomes very frustrating. Good luck getting Custom Sniper... Difficulty levels cut your saves, and you only ever get 7 at the easiest one. Professional difficulty makes you lose your weapons if you don't have them on you when you exit, and the game makes no effort to communicate that. The scoring system is confusing: it's relatively clear how to get SA, but every other ranking feels random. Your hideout is not a permanent feature, it only happens after some levels, and it doesn't happen anymore once you beat the game.
+
+VERDICT
+Play this on Normal, don't bother doing SA on broken levels, you don't get any weapons or anything for it. If you're feeling ballsy and want to play Professional - do yourself a favour and learn the game on Normal or Expert first.
+
+CONCLUSION
+Unfortunately I just found out there is a hard limit to how long a Steam Review can be, so duh, I won't even get to stuff like Story or Music. I've cut a lot of fat already and kept the most important stuff, so I think this should be enough for you to decide whether you want to invest time in this game.
+Usually I talk about techy stuff at the end so here we are: I've played through this game three times, once on each difficulty, once on each resolution: 640x480, 854x480, 1920x1080. Overall I'd say 854x480 is superior of the three, as it keeps the proper UI size, has no black borders, and doesn't look significantly worse than 1080. Just make sure to use Widescreen Fix.
+As always, thanks for reading through this mess of a review😅",0.7013345956802368,15,True
+6850,77420927,76561198321122128,"Well pure nostalgia, 18 years ago I've played this masterpiece..
+so nothing to say about the second game of Hitman.
+
+Hitman 2 Silent Assassin 
+47/10
+Heisen.",0.6989465951919556,45,True
+6850,179243959,76561198012785506,It requires hours of trial and error to make it work on a modern machine. Don't buy it.,0.6474151015281677,13,False
+6850,141340367,76561198248889064,"I was really looking forward to replaying this for the first time in almost 20yrs (yes Im old). I was very upset when it turned out that the game is pretty much unplayable able on modern PCs. I tried for 5 days to get it to work. I tried every trick I could find on Steam or on Google to get it to run but nothing worked. I was very sad to have to ask for a refund. (Thank you steam for granting it btw) 
+
+I loved this game as a kid and it sucks that I couldnt get it running. If you can find away to get it to run go for it. But if you cant just refund it.",0.6437132954597473,15,False
+6850,81007201,76561198340342204,"Obviously, Hitman 2: Silent Assassin is the Best Hitman Game to ever be Created. To Even Prove this it has the Highest possible rank of ""Silent Assassin"" in its title. So It Must be ranked number 1, among all the other Hitman Games! 
+
+No wonder why IO interactive created another Hitman 2 16 years later. They wanted to copy the success and praise their first Hitman 2 Game Had. But Honestly Hitman 2: Silent Assassin will always be far superior to Hitman 2 released in 2018.",0.6380721926689148,27,True
+6850,234407563,76561199744837452,This was my dad's favourite game and my first ever game when I was a baby (I played this at the age of 2). Buying and now being able to try this out without needing a PS2... I can see what my dad was talking about! This is the most fun I have had in so long,0.6368715167045593,8,True
+6850,54943250,76561198132921979,"Hitman 2: Silent Assassin is the second game in the franchise and helped to establish many of the core aesthetics of the series. Addressing the biggest complaints about the first one, Silent Assassin is a solid and worthy sucessor. Controls are more solid and responsive, with better aiming, and wider options for the player to tackle the missions; and everything is bigger and better. The main new feature is the creation of the famous rating system, were the highest rank is Silent Assassin.
+
+The briefing is now narrated by Diana, creating one of the most recognizable features in the Hitman series, which you can hear while watching the mission video (the first one, in St. Petersburg Stakeout, is glitched though, as it cannot transition to the second part of the video). Locations are more alive, more populated with NPCs and with more indirect approaches. The map is now more useful, showing real time positions of NPCs and critical elements like elevators and ICA caches. Albeit still mostly linear, Hitman 2: SA tries its best to give the player different options of approach and has more signature kills, with the most famous being the killing of Hayamoto Jr. with a badly prepared Fugu fish.
+
+The story is a ""back in the game"" type, starting shortly after the first game with 47 peacefully tending the garden of a church in Sicily until being forced back into the killing business, in an epic adventure that will take our hero to exhotic locations such as a Japanese fortress and a rebel underground base in Afghanistan. Japan is by far the most epic in its visuals, soundtrack, design and plot; but also the most broken. The soundtrack by Jesper Kyd is amazing, superbly well syncronized with the atmospheres presented in the game. Characters will speak their native language, with Russians speaking Russian and Japanese yelling ""Yame! Yame!"" and shooting you for no reason.
+
+Hitman 2: SA is noticeably much harder than all other games in the series, with trigger happy guards and inconsistent AI; plus longer missions containing more complex objectives. The gameplay is more slow-paced, with 47 now walking most of the time as running will attract suspicion; that you can manage through a suspicion metter that is somewhat useful but not much, especially because guards will now see through your disguise if you get too close, run or get caught doing something you shouldn't. But the AI is really underdeveloped and guards will spot you when they shouldn't and the frustration in this game is really present, worsening the trial and error basis of the gameplay. ""A waiter running harmlessly far away in the distance? Not on my watch!""
+
+Another bad decision is the painfully slow stealth mode. You cannot simply walk near people, they are going to hear you, so you need to go into stealth mode but it is soooooooooo slow as to be nerve wrecking. Enemies can simply turn back for no reason and now you are dead.
+
+Nowhere in the game is this AI problem more evident than in the utterly broken Japan missions. Not only the trucks in Mission 7 - The Hidden Valley are glitched, stopping for no reason and forcing the player to keep restarting until the game gets it together, the bloody ninjas always come for you to check your ID; an irrational design decision, given the game's concept of hiding in plain sight. And this happens at any distance, with the guards either following you or shooting you outright. Basically, the game throws away its own rules in Japan, making The Hidden Valley, easily, the worst mission in the entire Hitman series.
+
+Graphics are a great step-up from the original game, with far better character models; starting with 47's suit, the snow suit used in Japan, with a white heavy smock and thick combat boots. Agent 47 also dresses as an Afghan. 
+
+NPCs and guards are really varied, from Russian soldiers to Sikh guards and Afghan guerrillas. The Japanese Yoyimbos can be said to be the coolest guards ever designed. Lei Ling is really hot in her short kimono, and she looks the best as she has ever looked in the series - albeit the heavily-accented voice is a step-down from the earlier game.
+
+There are little nods to the first game, either by mention in the story or by means of easter eggs.
+
+If you are a stealth fan, very stubborn and determined, and want to check the Hitman series before it became casual, this game is for you. This game is cinematic, with advanced narrative and an engaging story, but the main product is the gameplay. Despite it's flaws, Hitman 2: Silent Assassin can be easily considered the best of the first three games.",0.6867145895957947,19,True
+6850,194557092,76561198072094217,"It's an ok game and an awesome game if you actually played it back in the day. These passing of years haven't been kind on this game, but you can still have some fun stealing disguises and sneaking around the different maps trying to kill every target with as few people around as possible.",0.6323749423027039,8,True
+6850,40113574,76561198097885323,"Hitman: Silent Assassin was the very first Hitman game I've ever played. I remember way back in 2002, my brother walked in the back door eager to play this game. I asked him: ""what new game did you get?"" My brother said: ""Hitman: Silent Assassion"". I took a look at the game and I had thought: ""Hmmm, looks like a boring game, but nonetheless, I think I'll give it a try"", and man, was I wrong. It was one of the best games I had played during that time as there was no other stealth-like games that where like Hitman: Silent Assassion. From that very day, I had gained the epiphany of: don't judge a game by its cover; simply play it, lol. Every since then, I've been an avid fan of the Hitman series. The story of this game is, unequivocally, phenomenal. 47 is trying to repent of his sinful ways of his savage past of killing people for money, only till turmoil comes and forces 47 back into what he was running away from...The gameplay of this game is pretty fun as you have many ways of kiling your enemies. You can either take the stealthy way of killing your enemies, or you can go in guns blazing; the choice is up to you. As for the soundtrack, it's Exceptionally well-written by one of my favorite music composers: Jesper Kyd. Overall, this game is a good game to play. I definitely recommend playing this game.",0.6819267868995667,13,True
+6850,190520817,76561199157800889,"This game was so far ahead of its time, its crazy. The score, the gameplay, the story, everything. It was definitely groundbreaking for that era and it holds such beautifully nostalgic memories for me. The newer era of Hitman is also a masterpiece and later games after this entry are more updated and refined. However, this game still stands the test of time as one of the best ever made.",0.6303818225860596,8,True
+6850,94999270,76561198066112320,"[h1]A great game that has aged terribly.[/h1]
+This is my favourite Hitman game in the series. Completing it on the PS2 was a big achievement for me, because here's the thing - the game is bloody hard.
+
+Like Codename: 47, learning the boundaries for sneaking; using the 'fibre wire'; taking out targets, etc. takes a little bit of time. Whilst this holds true for every Hitman game, it's made even more difficult here by the unpredictable, hyper-aware AI used by the NPCs. Unfortunately, this can make for a super frustrating experience when you're trying to get the best ranking for each mission.
+
+I really like the level design in this game, and think that it's second only to Contracts. Each mission manages to capture a different emotion. For instance, I found myself feeling slightly on-edge by the oppressive, brooding appearance of the St. Petersburg levels. 
+
+If you're up for a challenge, and appreciate the early 2000's era of PC gaming, then this game is right up your ally.
+
+",0.6215596199035645,8,True
+6850,114576976,76561198039219386,"amazing game ... works well after some tweaks and changes so im here to help you guys !! :)     change after downloading this game in steam the file hitman2.ini (hitman2) file in the folder where the game is downloaded in usually is something like this          
+
+D:\Steam\steamapps\common\Hitman 2 Silent Assassin
+
+delete the text in the hitman2 file and change it with the text below 
+
+
+DefaultScene=AllLevels/Logos.gms
+
+SoundDll SoundEngine.dll
+ScriptDll SDL_Engine.dll
+ScriptIfDll ScriptInterfaces.dll
+DrawDll RenderD3D.dll
+
+LocaleFile=Locale\English.xml
+
+AutoDumpName ScreenDump0000.jpg
+ColorDepth 32
+ErrorLog error.log
+EnableConsole
+
+Anisotropy 1
+Antialias 0
+ShadowDetail 2
+TextureResolution 0
+UseDirectInputMouse
+UseDirectInputKeyboard
+HeroControlMode 1
+MouseSpeed 0.8
+
+SpeechVolume 100
+MusicVolume 88
+SoundEffectsVolume 100
+
+ConfigFile=Keyboard.cfg
+
+DisablePolyLimit
+UseEAX 1
+NumSoundBuffers 16
+DrawDistance 1.200000
+LevelOfDetail 2
+Subtitles 1
+WeatherEffects 1
+GammaValue 1.000000
+DisableTrilinearFiltering 1
+
+Resolution 1920x1080
+DisableHWTnL 0
+Window 1
+EnableP5 0
+
+save and have fun if there are still problems please let me know ill try my best to help you  :) hope you all have an amazing day and fun playing this game like i always had :):) i love all of you kind regards !!
+
+",0.6687827706336975,12,True
+6850,219521186,76561199813547288,"FIrsty, this game is awesome, at its worth the potential extra work to get this running on Windows 11.
+
+Okay, in my first review, I gave this a bad rating, since it didnt work on Windows 11 right now of the box. I tried things like compatibility mode and such, but the game wouldnt even run, after I was even able to find the game folder. But, I was able to fix this by editing a config file. Ive seen similar fixes on Google, including downloading a replacement DX8 DLL, but I dont really want to download a potential virous right now (although, the DX8 github replacement MAY be a safe and viable option).
+
+The following are steps to remedy ths issue:
+
+1.) Open file explorer
+2.) Navigate to folder and edit config file at location:
+    ""C:\Program Files (x86)\Steam\steamapps\common\Hitman 2 Silent Assassin\Hitman2.ini""
+    a.) *IMPORTANT* Make sure to backup original .ini file somewhere that you can find it again if needed
+3.) Find this line near the top of the .ini file: ""DrawDll RenderD3D.dll""
+4.) Change to ""DrawDll RenderOpenGL.dll"" (Without quotes)
+5.) Save and Run game
+
+This is all that I had to do. Graphics settings didnt matter on my machine, compatibility mode didnt work, running as administrator is dangerous. Just alter that single line in the .ini file and you should be good.
+
+It IS possible the game will render better with DX8 instead of OpenGL? I havent tried that yet; I just wanted to play the game and I dont want to risk downloading things.",0.6183461546897888,7,True
+6850,201083116,76561198338229342,"i'm going to assume that you're reading this because you plan on marathoning the hitman franchise. it's why i bought it, and if you're here in the current day, it's safe to assume you're also fond of the hitman franchise.
+
+ so, does it hold up? compared to codename 47, yes. silent assassin, while having its own kinks and quirks that come with its age, feels much more like a true hitman game. that being said, it is definitely the hardest in the series (although you could argue codename 47 is made harder by its jank), and you would have a very difficult time beating this game without a save system. fortunately, you given 7 saves (sometimes more) per level if you play the game on normal difficulty, which is more than enough. you should not play this game on a higher difficulty during your first playthrough, even if you feel confident going in. 
+
+is it fun, though? i think so. the gunplay feels good, and the stealth usually takes on you on interesting routes. there are definitely a few crappy missions, but i think there were an equal amount of great ones. if you have the patience to see it through to the end, i think you will enjoy hitman 2. i wouldn't blame you for skipping it, though.",0.6174863576889038,6,True
+6850,96376739,76561197995645782,"Great game. A total classic. 
+Won't run for me on windows 10.
+Can't recommend.",0.7170175909996033,41,False
+6850,179679239,76561198131533970,"There's a game breaking glitch in the Hidden Valley Mission which, if you get, will prevent you from getting Silent Assassin and can even stop you from progressing. Truly a terrible experience at that point. The only saving grace is that the other levels are at least doable. Hidden Valley also comes with Guards who ID check every other guard for some reason. I.e. you can't even use disguises in this level to get past them. Which, I might add, is a core game mechanic for Hitman games.",0.6121610999107361,10,False
+6850,177790432,76561198108111017,The most unrealistic part of this game is the fact that Russian civilians run to the guards after seeing a man in a suit carrying a sniper rifle.,0.6114224195480347,8,True
+6850,120639097,76561198801515989,"This is a bit hard and very slow-paced, but it is a classic that anyone should have played at least once in their life.",0.6593688130378723,13,True
+6850,204522530,76561198068224839,"Game will not run, tried to get my money back but because i spent too much time messing with the settings then getting mad and walking away apparently the game was running(frozen) for over 2 hours. My PC is significantly overpowered for this game and should not have issues. IOI should be required to refund all purchases since they dont know how to sell an optimized game.",0.6063541769981384,8,False
+6850,47763710,76561198030250363,"A considerable improvement over Codename 47 in that it's actually playable, Silent Assassin is nonethless yet to graduate to the dizzying heights of ""fun to play."" The much-needed addition of limited save slots at least means that you don't need to start from the beginning every time you make a minor mistake, without letting you simply save-scum your way to a flawless run.
+
+Unfortunately, it feels like Hitman hadn't really figured out its own appeal at this stage. Despite the ability to creep around incognito being one of the big draws of the series, many of the levels - particularly in the earlier parts of the game - are set entirely in high-security areas where guards shoot first and ask questions later, meaning stealth is more about figuring out which order to slaughter your way through the security rather than trying to just sneak past it.
+
+Additionally, the levels are extremely narrow in scope, with most missions only taking a few minutes to complete once you cut out all the ""wandering around figuring out what the game wants me to do"" parts. In essence it feels less like a stealth game and more like a murder-puzzle with only one or two predetermined solutions rather than any opportunity for creativity.
+
+I'm willing to give the next game in the series a chance, since the game is at least mechanically sound. The main limiting factors are in the way levels are designed, which between more experience and better engines will hopefully only get better with time.",0.6555658578872681,23,False
+6850,203427329,76561198334565254,The levels are creative and there's a lot of freedom in how you approach each mission. A step up from the original in pretty much every way.,0.6030554175376892,7,True
+6850,175193,76561197964153663,"Hitman 2 Silent Assassin is a game that one approaches with much anticipation. The original Hitman was a true classic and any follow up to that would have to be something extraordinary in order to meet the expectations.
+
+As Silent Assassin starts out 47 has retired and now lives a quiet life, tending the gardens in a Sicilian monastery. This all changes rather dramatically of course as your friend and mentor is kidnapped and you are forced to once again, take on the role of a professional hitman.
+
+The story in general leaves much to be desired and the extremely subpar voice acting does not to help it. The grating sound of foreign accents that might as well have all been done by the same American voice actor often takes you out of the game and it is a shame that the developers couldn't have sprung for a couple of authentic sounds along the way. The high quality soundtrack and some passable ambiance makes up for some of this shortfall but not all of it unfortunately.
+
+In terms of gameplay nothing much has changed. You travel from mission to mission, picking your starting gear and then going about killing a preset target in whichever manner you find to be the most efficient. Silent Assassin introduces a new rating system at the end of each mission that rewards you based on performance. Unfortunately the highest rating you can receive is usually only given out for executing a mission in a very specific way and this makes it very counterintuitive to the otherwise very open-ended missions.
+
+The mission areas are much bigger this time around and while this sometimes allow for more creative thinking in solving the missions it also tends to slow down the game's pace, particularly in missions where running might attract the attention of nearby guards.
+
+The developers seems to have paid attention to some of the fan feedback of the original and Silent Assassin has now been given a save game system. Depending on your difficulty level you are given a certain number of saves each mission and while this is still a far cry from what really should be standard in PC games it is also a huge leap forwards from the complete lack of in-mission saves in the original. A number of new camera angles are also available to you at popular request.
+
+Graphically Hitman is still a beautiful game, not quite as big of a step forward as one might have wanted, looking at what else is out there, but still good enough that it adds to the experience rather than detract from it.
+
+All in all Hitman 2 Silent Assassin is a good game, even a good sequel, but in many ways it is also a bit of a letdown. It doesn't do much to advance the franchise instead sticking with what worked in the original and mostly rehashing what was already there. If you liked the original Hitman then you are going to like Silent Assassin. Just don't expect it to do anything new or exciting.",0.6528952717781067,10,True
+6850,203147316,76561198830859724,"The game wont even run, just purchased it. Literally freezes while loading up later it just crashes.",0.5979729890823364,7,False
+6850,191737196,76561199113549172,"The disguise system is actually really complex for such an old game and it's complexity is the reason many wonder why the AI is so unfair so let's break it down.
+
+-Your suspicion meter rises if you're running in a guards disguise:
+Realistically if you are a guarding someone and you see a guard behaving odd like full on sprinting  and abandoning their post for no reason you'd assume they aren't a body guard.
+
+-The suspicion meter rises if you're looking at someone:
+this isn't hard to imagine but agent 47 doesn't fit in every country as the average person because of his facial features, and if you were guarding a VERY high priority individual every guard should've been familiarized with eachother.
+
+And how do you eliminate this? simple, you hug the walls looking away from guards and as for running you can hold the sprint button and tap a movement key. You're essentially running with animations resetting which doesn't alert the guards as would full on running.
+
+Aside from that the maps are a pain in the ass, most of the maps are large no, TOO large for the game and it results in too few npc's filling the game world. there are also maps that are just nightmares to silent assassin because unlike in future entries at most you have 1 or 2 ways to eliminate someone by interacting with the environment, the biggest example being the missions A hidden valley, because it's the same mission stretched out over 3 maps with insane security and guards posted EVERYWHERE, you have snipers that can see a very long distance, ninjas that camp on top of frames and guards who run to ID you if they see you. Now on the hardest difficulty without any saves? i'd throw my pc out the window. But the game is still a lot better than codename 47.",0.5961132645606995,8,True
+6850,88047839,76561197985409325,"Hitman 2: Silent Assassin is part of the oldschool Hitman series. Gameplaywise, Agent 47 is expected to be stealthy and wear disguises to gain access to security complexes to accomplish his objectives. If you get caught, you can always shoot all bad guys to finish the mission. The game is quite good for its age and you can save whenever you want, which is a feature Hitman: Codename 47 was missing. Silent Assassin is somewhat lacking in the story department. The game starts well and has a unique ending, but the missions in-between don't really add to the main story. For this reason I can't rate it higher than Hitman: Blood Money. Recommended to Hitman fans and stealth players.",0.59487384557724,5,True
+6850,226165738,76561197960499970,"whole game feels like the average north korean experience, shot on sight if you're even caught moving quicker than a senior citizen. 
+
+still great though, improved from C47 in every single way and made the series a household name",0.5922296643257141,9,True
+6850,98063990,76561197988888016,"This game should be renamed into 'Hitman2: Mass Murderer' because the stealth gameplay possible in the first game has been nerfed to the ground. Disguises barely work for 5 seconds. Hiding dead bodies is a waste of time, everyone seems to know it's exact location anyway. Once you shoot someone, the whole map full of enemies will be in your location pretty much instantly. Once you break stealth, there is no way to recover, you'll just have to murder a map full of guards right there on the spot. Enemies also have eyes on their backs, sneak mode and fibre wire rarely work like intended. Better have that quick save/load button ready. There are a few missions where you can switch off the lights, that's the only stealth mechanic that actually works well and that is pretty cool. The music is a banger and the story is decent but I really can't reccommend this game unless you have childhood nostalgia for it.",0.5920063853263855,9,False
+6850,232826539,76561197972311098,"A great game from the early 2000s that unfortunately doesn't function on my PC. 
+
+The opening credits don't even load, it's just a black screen unless I spam esc a few times, then once I get into game I can just move my camera around, none of the controls are working.",0.5914285778999329,6,False
+6850,180860630,76561198059115958,"My favorite stealth shooter on the classic Xbox when I was a kid.  This game holds up well after so many years.  I recall having a frame issue on another PC where trying to move around would be janky, the solution I had to use then was to adjust frames for this game in Nvidia control panel and limit it to 30, this issue didn't occur when I played through it this time around.",0.5913439393043518,8,True
+6850,227158110,76561199026195605,"A huge step up from the original, with larger maps and more freedom to approach objectives your way. The stealth can feel a bit clunky by modern standards, but there's a certain charm to learning enemy patterns and pulling off a perfect assassination. Some missions are frustrating, yet the atmosphere and classic Hitman sandbox design still hold up surprisingly well.",0.6407719254493713,10,True
+6850,35437299,76561198011435595,"This is still the best Hitman game in my opinion, I'm not big on the churchy theme but this game without a doubt has the best mission list of all the Hitman games. You go to Italy, Russia, Germany, Japan, Malaysa, Afghanistan and India with 2 or 3 missions in some locations and the characters there actually talk in their own language or accent! Something the current Hitman game unfortunatly doesn't do (Pretty rediculous hearing every store owner in the middle east talk with an english or american accent on Hitman 2016...) 
+
+Fun and challenging game, especially when you aim for that Silent Assassin rating ;)
+
+A good idea if you are on newer systems is to download dgVoodoo
+Enable the VSync option and tweak the settings to your taste using the dgVoodooCpl.exe. 
+Copy the dgVoodoo.conf then d3d8.dll from the MS folder into the Hitman 2 directory
+you only need to copy d3d8.dll & dgVoodoo.conf into Hitman 2's directory nothing more.
+
+dgVoodoo download link:
+http://dege.freeweb.hu/",0.6872474551200867,22,True
+6850,197879784,76561198059779819,"The game starts off well: it doesn't start.
+
+After a bit of modification of the game files via GitHub from a user-provided download, it finally works...
+
+The levels are a bit better, so despite all the technical issues, it's still recommendable.",0.585474967956543,6,True
+6850,160106222,76561198014574052,"This port is broken and frustrating. I'm sure the game is good, but this version of it is unplayable. I tried really hard, but it just would not work.",0.6344437003135681,9,False
+6850,33170056,76561197969749884,"Hitman 2: Silent Assassin managed to successfully build and improve greatly upon the gameplay of the first entry of the series and mechanic wise can be considered the first 'true' Hitman game, featuring countless disguises and several different approaches to all objectives. Considering the time it was released it featured very large maps and successfully conveyed a feeling of absolute freedom to one's approach.
+
+Being one of the earlier games, it didn't yet feature the massive amount of level and setting diversity yet and graphically, save for a few maps, was dominated by the colour grey, which is also probably a result of the predominant setting within Russia. All the same, Hitman 2: Silent Assassin remains being one of the best stealth games ever developed until this day and can therefore be heartily recommended.",0.6339209675788879,9,True
+6850,216437478,76561198342461301,"TLDR: Game was revolutionary, has aged like milk, play Contracts or BM if you want the same vibe/gameplay but better.
+
+Hitman 2: Silent Assassin *was* revolutionary when it came out and set the groundwork for all the **far** better games to come later in the series. Realistically, even if you do patch this game (like I did) and cap the FPS to 30/60 (like I did), you're still not really going to have a good time unless you love guide watching or have profound nun-like patience.
+
+The game frequently suggests this allure of mission variety but in reality 9/10 your choices for a kill are ""shoot far away, shoot close up, or fiber wire"". All of the melee weapons are borderline parody bad and serve no use besides slots at the church. Guns work ok for the most part but bullet speed is ridiculously slow beyond a certain distance. 
+
+A more controversial game decision to note: the game's ""Ethnicity-O-Meter"" that's level by level supposed to dictate how well 47 can blend it is fundamentally broken.
+
+If you're really wondering how well the disguise system works, here's a general summation:
+
+Italy: Passable
+Russia: Strong
+Japan: Almost Entirely Worthless (Yes, you'll need to get out of your default disguise in order to complete the missions but everyone is comically suspicious of 47 whenever he does anything). 
+There's some fucked up comedy in the ""weirdly asian looking 47"" model somehow standing out the most in the Japan levels despite the fact you're wearing full face garb.
+
+Malaysia: Workable but not really needed beyond the Firefighter garb (e.g you're wasting your time on the Jacuzzi Job)
+Indonesia? (The entire cult section is forgettable besides the surgery segment) Easy
+Return? Utterly Worthless
+
+Ultimately, Hitman 2: Silent Assassin tries a lot and fails at a lot of what it stands out to do.
+
+If you desperately need a taste of Hitman pre WOA, pick up Contracts or Blood Money. They're far superior, more logically sound on the front of AI and level design, and generally hold more interesting story beats.
+
+Don't get me wrong, this game is still alright. The story is *really* good. It's such a damn shame the gameplay drags this one down. If the missions were consistently like Petersburg or the first one from Afghan I'd be far more favorable.
+
+What really kills this for me beyond everything else is that there are simply too many missions (many of which either obtusely experimental and metagame reliant (go point a then point b then point c with no exploration or everyone gets telepathy and molests you for dawdling) ORRRRR piss easy and able to complete in less than 3 minutes). There are 10-12 missions total I'd actually say hold their merit and the rest are ""One Piece Filler Arc"" tier in terms of quality.
+
+Finally, the nail in the coffin and the nail in my fucking patience is that it still refuses to fix the main pisspoint of Codename 47 - The Timing. If you do not know exactly where to go and exactly what to do from the minute you spawn in, you're practically fucked. There's almost no room for error in a lot of these missions and information is so vaguely given to the player that they won't realize they've saved themselves into a corner until they're 40 minutes into a ""5 minute"" mission where you have to murder a guy in a hottub surrounded by women with guns (goals). Hell, in some ways, it's actually worse. I recall beating Rotterdam in C47 and thinking ""Well it can only go up from here"" just to deal with the abject slog that is Afghanistan and Japan.
+
+""Know when to strike instantly, *know when to take your time*. Chance favors the prepared. Failure is not an option.""
+
+One of these marketing statements is a lie, from my review you can probably guess which one.",0.5826141238212585,10,False
+6850,206606869,76561198793828957,brings back memories so for me its fun ... but a bit outdated to be fair ... :) still anybody that loves the hitman series can't go out trying this ... for me its what truly started the series ...,0.5817490816116333,4,True
+6850,182100674,76561199230879817,"NOTE: This game has to be capped at 30fps in order to fully work as intended, 60fps will break certain stuff. However, above 60fps the game becomes broken.
+
+Hitman 2 Silent Assassin is one of the best hitman games in the whole series. Everything about it just seems perfect. The missions, soundtrack, storyline... I also love the balance of this game, it is not too limited yet not too advanced. As someone who prefers the first 4 hitman games over WOA, I was always a fan of more simple stuff than things being too large and advanced. Awesome game worth giving a try!",0.5817490816116333,6,True
+6850,219840902,76561198059465148,"not playable unless you downloaded and change, some trial and error, then gotta changer render because the game cant render models, switcher render, no models are black. download some third party stuff, fixed.
+amazing gamecube era game, but this verison is censored.",0.5815343856811523,5,False
+6850,19843509,76561198206468105,"Hitman 2: Silent Assassin provides an estimated duration of ten hours (parameter now average), an in my opinion very addictive, definitely living. Fans would highly recommend it as it is the better of the two chapters on the history of Agent 47 while those new to the saga recommend you try it, maybe at your neighborhood store, to see if the setting menus and commands may be to their liking. If you allow me, a final warning: do not be discouraged, this is a title designed to be extremely difficult, at times slightly frustrating (spend three afternoons trying to accomplish a mission may also get tired!) And then, if you want to play with, arm yourself with a good patience ... good luck, agents 47!",0.6814002990722656,47,True
+6850,83546505,76561198011791224,"This is an easy yes, if you're a Hitman fan. If you're playing anything new, stop. Play codename 47 first, then this one, and go through the series, than go onto the new ones. I promise, you'll look at things differently than just buying this randomly when it's on sale. Remember, this game was created during a time when things like this were hitting limitations in the game mechanic/function department. This is a darn good game to play.
+
+The story is incredible.
+The NPC's are hilarious when they get taken out. You actually have to cover your tracks in this one. You can't just walk around blasting everyone.
+The Graphics are merciful to your eyes lol. There are HD packs out there if you're willing to install it.
+
+Remember, you're a hired professional, act like one in this game!",0.6300174593925476,13,True
+6850,205764546,76561199195246108,"Totally bought back my entire childhood....This game was wayy ahead of its time trust me, better than alot of AAAs",0.5792880654335022,4,True
+6850,154844019,76561198076479022,Regardless of the annoying AI it is easily one of the best Hitman entries and sits up there with the greatest of stealth classics.,0.6292007565498352,9,True
+6850,203614465,76561198083682984,"Decided to go back into my catalog and try to play through old games I hadn't. Don't get this if you're considering it, opening cutscenes freeze and force you to skip through them, and you get stuck immediately as soon as you're in game play, with inputs not working and leaving you stuck in place at the very beginning.",0.5784426927566528,6,False
+6850,229666357,76561198355500604,The game freezes up constantly and won't load properly when I start playing.,0.5769230723381042,5,False
+6850,191159757,76561198823214298,"-Walked funny and got shoot at
+-Stood too near a guard and got shoot at
+-Stared at the guard and got shoot at
+-Ran near a guard and got shoot at
+
+Hitman 2 is a getting shoot at simulator where you discover various ways and trivial reasons to get shoot by the guards. Your primary objective is to not get shoot by anyone and survive the level. Highly recommended.",0.6262388229370117,7,True
+6850,174293800,76561198088164161,"Great game but the steam version requires patching in order to play on modern hardware by either converting the game to DirectX9 or using Wine on windows?!? It's also censored, an entire storyline is altered to remove references to Gurdwara. 
+GOG version is prepatched and uncensored so please consider that one instead unless ur willing to download random patches off the interweb 
+",0.5708200335502625,6,False
+6850,85932324,76561197970519761,"I would argue that this game is the best to ever come out in the hitman franchise. Some partial bias perhaps as it is engrained in my memories, but then again so are all the others , codename 47, contracts, and blood money. They are all superb in their own way and honestly i enjoy them all more than the newer iterations of hitman that have been coming out. But to me Hitman 2 always stuck out, maybe it's the missions, the difficulty, the music, the graphics were way ahead of their time , or a combination of all of those things. It's a game that i know i will always go back to every decade. Sure it has it's flaws but if that's all you knew for a time , i'm sure you would also come to appreciate it's finer points, like i did.",0.5705574750900269,5,True
+6850,227568728,76561199145109860,"Great game, very nice atmosphere, I think it has aged quite well, even if you have to use guides every now and then. It gives more freedom than codename 47, and it gives a lot of personality to 47's character. Great Game and probably one of the best soundtracks",0.5700334906578064,3,True
+6850,234951869,76561198414503483,"for some reason this is the only hitman game i completely fuck with. even though contracts, blood money and the woa trilogy look and play better i like this game more than those",0.5698924660682678,4,True
+6850,153420316,76561199098079898,"ive had trouble with playing the game. i spent 2hrs trying to fix it and i finally found a website that helped me
+ https://github.com/fkortsagin/Himan-2-Silent-Assassin-Resolution-and-Black-Screen-Fix-Windows-10",0.6187288761138916,9,True
+6850,215313312,76561198387880485,"This is a substantial improvement over the first one. This game has great stealth, action, levels, atmosphere, music, everything you'd want from a Hitman game.",0.5684931874275208,4,True
+6850,168459381,76561198883982463,I will always get good memories from playing this game. I first played it on my PS2 when i was younger and then i purchased it on pc for extra nostalgia and fun. It was worth it but i needed to tweak some things in my computer to make it work. 100% fun guaranteed,0.5676160454750061,4,True
+6850,165374454,76561198971433658,"Less janky than the first game, but not as functional as the next two games. It's good, but it'll probably make you want to tear your hair out. It's very hard because of the jank, so you better bring your A-game and something to calm you down if you're gonna play this game. The music is incredible and the graphics, despite having aged, are quite charming. I'd recommend checking out the PCgamingwiki page for this game, in order to patch it to work on modern systems.",0.5675662755966187,5,True
+6850,93431055,76561198085497274,Would be good if it was even playble. Given that the game is this old I wasn't expecting much but I was not even able to get in game. Idk if this is just for me but the game isn't playble for me at all. I couldn't even find a setting to change the resolution so i was stuck at 800x600.,0.5674115419387817,6,False
+6850,212839753,76561198807701577,literally the hardest game ever made i actually can't get past the first level,0.5669510364532471,7,False
+6850,216353889,76561199121629025,"Cant even move and have spent 24 minutes trying to figure it out, did everything everyone told me to and still didn't work, kind of sad because i really wanted this game too",0.5668202638626099,4,False
+6850,198948121,76561198041570168,"Completely unplayable.
+
+Black screen and hearing the intro.
+That or nothing but gray tones on the display.
+
+Unfortunate, as I loved this game back in it's day.
+But this port is horse****.",0.566524863243103,14,False
+6850,131068203,76561198850760048,"A good game I played when I was younger, doesn't even work anymore on the steam port. Don't sell it to begin with if I need to download many unofficial patchs to play. Buy GOG, it actually works and better than just a pirated version.",0.5661120414733887,7,False
+6850,199460745,76561198050560606,"God what a massive improvement from the first game, the mission design was so much better. The AI was still pretty bad sometimes but it felt far more consistent than Codename 47.
+
+7/10",0.5658696889877319,3,True
+6850,173741373,76561198169133553,"The game where sh*t got real.
+
+You can tell how the budget for this game was way bigger than c47, it has the same ambition and creativity, but after the success of the first game, IO had the money to back it up.
+
+This game is a prime example of what a sequel should be: Improve and build upon the previous game, upgrading and adding new ideas instead of changing it for the sake of being new (e.g absolution)
+
+
+
+
+",0.5655599236488342,7,True
+6850,210411176,76561199104772433,"Hardest game in the whole hitman series, i didn't knew running is the biggest crime in hitman 2's world, one small mistake whole fbi after you, but still legend, very cool game, especially soundtracks, snowy levels, beautiful atmosphere, old but gold",0.5652173757553101,4,True
+6850,100938161,76561198160039417,"This is my personal favorite Hitman game so far! (Haven't played through the new 1-3 yet)
+It has a great story, the most levels of any hitman game, all levels are varied and open, the gameplay is a bit slow but good, great music too.
+I've seen some complain about the levels which don't have a target where you just reach the end. There aren't that many and they were still a fun challenge to complete.
+You may need to do a file fix, and the hud will be small on resolutions above 1080p",0.5652173757553101,4,True
+6850,139744859,76561198004346216,"A classic. Not too advanced, but still lets you feel a sense of accomplishment when you figure out how to solve a level. Runs perfectly on ubuntu  22.04 through steam with proton.",0.564586341381073,4,True
+6850,96349561,76561198900073125,"[b]Weapons are louder and more realistic sounding the Call of duty.[/b]
+
+[hr][/hr]
+
+
+
+
+
+This game works just as well as a conventional third person shooter as much as a stealth game. Seriously, even in 2021, the audio design, the sounds for reloading and shooting of weapons are phenomenal. Going on a stress-bustin murdering spree is as fun as sneaking around in a pizza delivery boy's outfit. There are a ton of levels set in different countries around the globe which are all quite different from one another.
+
+Jesper Kyd's soundtrack is worth its weight in diamonds. Story is cool and mature, no silly plot holes and some great twists along the way. 
+
+
+100% recommend.",0.5639452934265137,3,True
+6850,39035676,76561198006944802,One thing I liked about Silent Assassin compared to the other Hitman titles is the challenge it poses especially when doing stealth in the missions even with the easiest difficulty. Other than that it gives a nostaligic feel of the series since I've already played this even before it reached Steam.,0.6637009978294373,11,True
+6850,220816346,76561198928944857,"The visuals and art direction on this game (specially on cutscenes) are amazing despite the old graphics, the story is interesting and gives 47 more personality. The levels are a bit weaker since there isn't a lot of options to approach the levels and they are slightly harder but not too much, BUT the last mission does a ridiculous difficulty jump. Still another fun Hitman game",0.5634920597076416,3,True
+6850,186176277,76561198405993307,I first played this game around 2006 [spoiler]and I can still say it’s the [b]most difficult[/b] in the Hitman series (at least if you're aiming for a Silent Assassin rating).[/spoiler] ... A classic! :D,0.5634920597076416,3,True
+6850,63152389,76561197983190499,"9.5/10
+
+- great nostalgic experience
+- one of the games I've enjoyed the most in my life [personally]
+- has a long story
+- very fun
+- ingame music is 10/10",0.6132268309593201,8,True
+6850,29264517,76561198112586418,"Hitman 2: Silent Assassin is one of those games that I would reccommend to some people, but not reccommend to a lot more people. In many ways, It took the formula of the first game and improved on it. However, there are too many problems  remaining to justify a positive rating. First, the positives: The graphics have vastly improved. This game, graphically speaking, has aged a lot better than Codename 47. The maps are large and are a lot more fun to play in than before. However, it's not perfect. The A.I. is really the only problem I have with this game, but it's a big enough problem to stop me from reccommending. The A.I. is unrealistically hard. They will kill you on sight for carrying string. They will kill you on sight if you look at them wrong. They will kill you on sight for running. You get the idea. They make this game more hard than it is supposed to be, which makes it almost unplayable. If you want to finish your hitman collection, or if you just want to find out what an unrealistic challenge feels like, then get this game. Otherwise, don't buy it. There are better hitman games you can play.",0.6124941110610962,10,False
+6850,105023032,76561198251215136,"Recommended only for nostalgia/revisitation or for very patient players. If you didn't play this game on your family's Windows XP desktop back in the day, chances are this won't be a very rewarding experience.
+
+I was genuinely surprised by the extent to which my loving memories of certain missions, from the [i]Basement Killing[/i] to [i]St. Petersburg Stakeout[/i] to [i]The Jacuzzi Job[/i], were nearly overshadowed by the jank AI and design that aged like a fine milk. Granted, I was playing on expert mode; I now know that no one should ever play beyond normal difficulty (unless you want these underpaid Malaysian security guards to see through walls in dimly lit office corridors).
+
+Certain masochistic players will get a kick out of this game. New players wishing to explore the ancient era of [b][i]Hitman[/i][/b] should just stick with [b][i]Blood Money[/i][/b]",0.5602931380271912,3,True
+6850,231093134,76561199680371422,"[h2] Game LITERALY doesn't function for me, despite meeting all of the requirements [/h2]
+
+When I boot the game I'm met with the logo cutscenes that don't play, just giving me a frozen screen with music. After I skip those cutscenes with 'esc' [i](Which isn't prompted as something you can do)[/i], I get to the main menu and load up the actual game where I'm met with another broken cutscene.
+
+Finally after getting past ALL of those busted cutscenes I'm left with a game that stutters and a character that literally cannot turn around.
+
+Abysmal, [i]not worth a single penny[/i], I'd refund it if I still could.",0.5601851940155029,3,False
+6850,16802091,76561198065542696,"This game is hard as balls, but it really is quite satisfying once you finally finish the mission the way you want. There are also multiple ways to finish most levels, which is neat. It also fixes a lot of the issues from the 1st game, like having better AI intelligence (1st game's AI was way too difficult, I often got killed for no reason, not to mention the fact that they have pixel-perfect accuracy since I never stood a chance against them in a gunfight). However, the AI is still too smart, in that sometimes even though I'm disguised I still get shot for reasons unknown to me, and more often, I get killed when I venture into areas I didn't know is restricted. There should be a warning system where, if you trespass, you get a warning, not shot to death. Not a perfect game as it has flaws, but it's still really fun.",0.6101721525192261,9,True
+6850,95322079,76561199174516751,"In my opinion, this game is quite difficult. However, it's still incredibly fun. I find it somewhat intellectually stimulating, and It's quite a thrill to try and sneak past the guards. If you enjoy stealth-based games, I recommend it.",0.5597798824310303,4,True
+6850,193666379,76561198296823531,"Running is a war crime in this game. Super bad idea. The ai is as unfair as it gets. the first hitman was shit too but at least you dont get fucked for no reason whatsoever. screw this sequal. Aside from that the game is fun but dont think that you can be an assassin all the time, sometimes its just not worth it . The Ai will see you from 2 Km away. Even on the lowest difficulty  so i cannot imagine what can be harder than this.",0.557157576084137,2,True
+6850,117000057,76561198017968325,"Still a great innovative game, had a great time getting through it again trying to get the perfect hit off. I'm running on windows 10 with a 2090ti and an I7.
+
+I used this fix and everything worked perfectly.
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=1977708024",0.5551331043243408,4,True
+6850,135014805,76561198282829717,"It's a broken ass game, wont boot so I look for a fix, now it boots but it gets stuck in the opening cutscenes. Tried all fix guides but this as good as it got for me
+
+Took me some time but I got it working, still not recommended because the time it took me to get it running could have gotten me halfway though the game",0.5527785420417786,6,False
+6850,173588248,76561198260139231,"FOR ANYONE THAT CANNOT GET THEIR GAME TO GET PASSED THE GRAY SCREEN!
+When launching the game make sure you click the ""hitman 2 configure"" option then disable full screen and put the resolution to the max and it will work. (If you have two monitors hold windows+shift+the arrow pointing to the monitor you want)
+-I also went into the files and went to the hitman2 application, went to properties, compatibility and changed the launch option to windows vista(service pack2). IM NOT SURE IF THIS IS NECESSARY BUT IF IT DOESN'T WORK TRY DOING THIS.",0.5513275265693665,2,True
+6850,149315848,76561198159314488,"Play it on the Configuration mode and change your resolution so you don't experience the black screen at cut scenes. Just a tip. Otherwise, this game PLAYS JUST LIKE IT USED TO, AND IT'S BETTER THAN I REMEMBERED. Honestly a bit ahead of it's time for 2002, this game is timeless and is replayable for years and years thanks to how many ways you can do a mission and how you can challenge yourself. It also just feels badass to finish the mission even if you didn't avoid any fatalities.",0.5501729846000671,3,True
+6850,46536333,76561198095156482,"Probably the best game of the series, would love to see remaster since the music makes incredible atmosphere that is nowhere to be seen in other Hitman titles. <3",0.5987842082977295,6,True
+6850,215235136,76561199262666968,"My First Completed Game 🖤🎮
+This wasn’t just a game for me — it was a milestone.
+Hitman 2 was the first game I ever completed, and that alone makes it unforgettable.
+Every mission felt like a puzzle waiting to be solved. No rush, no noise — just patience, planning, and perfection. I still remember restarting levels again and again, not because I failed, but because I wanted to do it cleaner, smarter, more silently.Agent 47 taught me something special....",0.5485489368438721,3,True
+6850,164904002,76561197993733719,"My disguise was broken on the second to last mission but I still say it's a very good game. Good gameplay, SAVING (7 saves per mission on normal), but no minigun. 
+I was impressed by the depth of the stealth strategy required to beat this game. Clearly, it's a result of a lot of thought. Using disguises is fun and the new stealth meter meant you had to change up your pace around enemies, where in the first game you could run in disguise near enemies without raising alarm.
+I liked the guns and the shooting and if I was going to play the game more, I would play in the first person view to see the guns closer. 
+I like that in this game, headshots kill in one hit.
+If I could describe a flaw in the game, it's the censorship. This game got hit by BS censorship that mangles one of the campaign's missions. It's incoherent. Originally, the mission took place in a gurdwara where the target was getting surgery. There was an explanation behind why they stole warheads involving terrorism. Also, a guy says ""towelheads."" A collective of Sikh organizations somehow got this game censored, removing plot-relevant dialogue and censoring religious imagery in the game. There is a way to fix this, but I didn't do it since the patch is not compatible with the patch I had. 
+Also, yes, I had to patch the game myself to get it to run. It did not work ""out-of-the-box.""",0.5983272790908813,8,True
+6850,174693769,76561199021323052,"One of my best childhood games of all time, I used to play it on my ps2 back in the day, The soundtrack of the game is so sick especially the japanese mission ost, So nostalgic, It's so sad to see games you used to play shatters by time. I wish I could live these times again, But I will always appreciate the memories.",0.5465346574783325,5,True
+6850,110665006,76561198234794160,"This one is suuuuuuuuuuuuuch a step-up in quality compared to the first one it's unimaginable. The first one was short, boring, monotone, narrative-wise insignificant, technically soooo poorly aged and buggy and flawed as hell. 
+
+This is one has an adequate length, introduced so many more options, a more consistent and logical AI, greater maps and a better story too, and surprisingly it aged extremely well on a technical note like UI scaling and performance. Despite my overwhelmingly positive experience, there are of course some things that hinder the quality in comparison with Blood Money, Locations are split-up in multiple missions like the first game yet again, a poor decision I think, the story seems to completely loose it's footing after the first location, 47 basically doesn't talk after that point etc etc but still very good overall.
+
+You should definitely pick this up compared to the first one when it's on sale or you feel like it.",0.5465116500854492,3,True
+6850,223753497,76561198738753265,"If it won’t run google it, there’s a fix on Reddit involving editing a config file, very easy. Runs on older PCs without fixes but newer ones need it. Game runs perfectly",0.5454545617103577,2,True

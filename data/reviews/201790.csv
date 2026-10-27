@@ -1,0 +1,931 @@
+appid,recommendationid,author_id,review,weighted_vote_score,votes_up,voted_up
+201790,113230591,76561198012955407,"This is a great game, I've played many hours COOP with my brother and we've had a lot of fun. Under normal circumstances, I would recommend it to everyone who has a friend, 9/10.
+
+But the circumstances are not normal. Ever since they released Orcs Must Die 3, the OMD2 servers have gone to hell and we get disconnects in 9/10 games. Playing a 40 minutes game? Get a disconnect 30 seconds before finishing the final wave and loose all progress, that's the new way this game works now. The multiplayer is just unplayable.
+
+If they fix this, I will gladly change my rating, but in it's current state I can't recommend it to anybody.",0.836599588394165,64,False
+201790,90345898,76561198020313592,"[h1]The Premise[/h1]
+[h3]This review contains no spoilers.[/h3]
+[b]Orcs Must Die 2[/b] (OMD2) picks up from where the previous game left off. This time around, the Sorceress (main antagonist of the first chapter) finds herself against the Orc forces she once controlled, thus decides to join the Warmage in his effort to repel the never-ending siege. The result of this alliance is, of course, an even greater escalation of violence against the massive Orcish waves.
+
+[h1]Quick Sum-Up[/h1]
+[table]
+[tr]
+[th]🟩 [b]The Pros[/b][/th]
+[th]🟥 [b]The Cons[/b][/th]
+[/tr]
+[tr]
+[td]
+1. Exceptional blend of Tower Defense and TPS gameplay systems.
+
+2. Solid replay value: Nightmare setting adds new enemies and greater challenge.
+
+3. Great variety of equipment, defenses and items, each with unique upgrades.
+
+4. Ten extra playable levels for the owners of Orcs Must Die 1.
+[/td]
+[td]
+1. Time-based performance rating is ultimately unfair.
+
+2. Difficulty balance on the highest setting penalizes Solo players.
+
+3. Absence of breaks between waves on Nightmare is annoying.
+[/td]
+[/tr]
+[/table]
+
+[table]
+[tr]
+[th]🟨 [b]Bugs & Other Issues[/b][/th]
+[th]🔧 [b]PC Specs[/b][/th]
+[/tr]
+[tr]
+[td]
+- The game may crash if Alt-Tabbed in Fullscreen, use Borderless mode to fix.
+- Targeting radius of deployed Guardians is not displayed.
+- Framerate is hard-capped at 82FPS, overriding this limit can cause bugs.
+[/td]
+[td]
+- Ryzen 3900X
+- RTX 2080Ti
+- 32GB RAM
+- NvME SSD
+- 1440p Display
+[/td]
+[/tr]
+[/table]
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=2457284621
+
+[h1]In-Depth Analysis[/h1]
+[h3]Pros[/h3]
+[b]1.[/b]
+Not only OMD2 stays on the course outlined by its predecessor, but manages to overhaul, refine and improve pretty much every aspect that made the series a success. Enemy variety, loadout choices, map complexity, challenge - on all this and more, the second chapter doubles down. The addition of full co-op mode in all levels is the crown jewel, that takes this title to another level.
+
+[b]2.[/b]
+Nightmare mode, unlocked only after completing the game on War Mage, isn't just the ""regular"" difficulty that makes enemies spongier or more numerous. Instead, it adds a bouquet of unique, never-seen-before foes such as the mighty Mountain Troll or the insidious Gnoll Grenadier, to name some. Playing levels on this setting will force players to re-define strategies, as the challenge cranks up significantly.
+
+[b]3.[/b]
+Each completed stage will unlock at least one new piece of equipment to buy at the shop, using Skulls (currency gained by completing levels). The variety of equipment and traps is really great, as they cater to all kinds of strategies or playstyles: one can choose to build a utility-focused character, or instead a purely offensive one, that relies on its own firepower more than anything else. Experimenting (and failing sometimes) with new builds is exciting.
+
+[b]4.[/b]
+The owners of the original game will be rewarded with some skins and additional content, other than ten levels straight from OMD1, remastered to accommodate the second chapter's gameplay overhauls, and co-op. Definitely a juicy addition.
+
+[h3]Cons[/h3]
+[b]1.[/b]
+OMD2 still is plagued by the annoying time-based rating system, which rewards players for completing a level under a certain PAR time. Doing so is necessary to achieve 5 Skulls, the highest rating. The problem with this choice, is that enemy waves CANNOT be called-in early, in exchange for more challenge (as seen in many other Tower Defense), so this requirement is ultimately a bad design choice.
+
+[b]2.[/b]
+Nightmare is tough (and rightly so), however it shows more than anything else, how some levels were designed with two players in mind, especially those towards the latter pats of the campaign. There will be situations in which the lack of a second player really takes its toll, as only one simply won't be able to be in all places needing their support at the right time.
+
+[b]3.[/b]
+The hardest setting removes the strategical breaks every couple waves, seen in War Mage difficulty and below. These  ""pause times"" are crucial to re-organize defenses, as Tower Defense games are ultimately about strategy rather than quick reflexes. Removing them, thus forcing players to rush all the time, kinda goes against the nature of the TD genre entirely.
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=2457285443
+
+[h1]Gameplay Breakdown[/h1]
+
+[b]Equipment Management[/b]
+Is performed at the beginning of each level, by selecting the defenses, weapons and trinkets one intends to carry with them in that stage. A limited number of slots is available, and the loadout can't be changed again, so choosing wisely is always the critical matter. After completing a level, the Spellbook panel allows upgrading existing tools or buying new ones using Skulls, a currency earned after each level. The better the performance (no core damage, no deaths, PAR time beaten...), the more skulls are earned each time.
+
+[b]Preparation[/b]
+Is done at the start, when players always have unlimited time to plan their initial defense, by placing traps that cost currency to be deployed. There isn't a hard limit to placed traps, but there is one for Guardians, which are AI-controlled minions like Archers - the limit is only defined by running out of cash. In-between waves, a small frame of ten seconds is given for quick sales or repairs, however defenses can be placed at ANY time, even during the heat of battle. As levels progress, new Doors that deploy enemies will open, often from multiple directions, so rebalancing, transferring and weighing each side of one's defensive perimeter is an ever-evolving task. 
+
+[b]Combat[/b]
+Plays out in a third-person shooter fashion, with players able of using a wide array of ranged and melee weapons to suit all tastes. Some of such tools use Mana, which slowly recharges over time, while others have unlimited, free-to-use attacks. Different elements from both traps and weapons may be better suited for specific enemies: for example, a Frost Ogre will be highly vulnerable to fire, so accounting for this is an important part of the combat strategy.
+
+If the player is killed, some points will be subtracted to the Rift (core)'s health, immediately forfeiting an eventual Perfect ""5 Skulls"" rating. Better watch out, as most enemies, especially heavy ones, may very well kill players in just a few hits, and also stun / debuff them. Traps cannot be damaged or disabled in any way by enemies, however some of them already present in the level's layout, may be one-time use only (like the devastating Rolling Log). 
+
+All traps reload automatically after a set time, and fire again as soon as an enemy enters their kill-zone. Instead, Guardians (minions) can be killed in action, but also resuscitate every couple waves, or immediately if players have a specific item that allows it. Generally, the combination of player support and trap placement is key to win a match. Combining many effects of traps, trinkets and elements generates Combo Kills, which result in massively boosted currency gains - which are vital.
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=2457286029
+
+[h1]The Judgment: Very Good[/h1]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1989090445]Complete Ratings List here[/url]
+[i]It takes around 10 hours to complete the story on War Mage (Normal) and after that Nightmare (Hard) difficulties. After that, there eventually can be Classic levels for OMD1 owners, or challenges and Endless mode as well. The price of 21€ is fair for this quality and content amount, so I can definitely recommend buying for full price.[/i]
+
+[quote]Liked this review, and want to see more of the same quality? Check out [url=https://store.steampowered.com/curator/39323490]Tamaster's Review Archive[/url].[/quote]",0.8681588768959045,72,True
+201790,18665995,76561198014766672,"Orcs Must Die! 2 is the follow up to Orcs Must Die 1, and is a third person tower defence game, developed by Robot Entertainment.  The game was released on PC July 2012. 
+
+The main difference with Orcs Must Die 2 is the addition of co-op gameplay. Everything else is virtually the same. You play either as a War Mage or sorceress in the story mode. You have to defend at one or more rifts which open at the start of the level. Each level has a varying amount of waves of enemies continuously spawning in order to reach said rift. Your aim is to stop them by building traps whilst also using your own character to kill them as well. Before each level you choose your load out of traps that you want to use. You start out by only being able to take 4 or 5, but work your way up to being able to take 10 traps on a stage with you.  Before jumping into each level too, you can upgrade your traps to do more damage, have a lower cool down time, or some other ability such as slowing the enemy if they are hit by it for example.  You'll notice from the very beginning that there are a few traps that you'll always want to take with you, such as the slowing trap - but included in your loadout, is your characters weapon, so you have to choose carefully. 
+
+You are given an infinite amount of time to build your traps at the start of each level, and you are also given a healthy amount of time between waves to allow you to build more. You are granted extra coins after each wave, and for killing enemies, and you use these coins to purchase more traps. Whilst you can also place traps when enemies are spawning, this isn't always a good idea as your main focus should be on killing enemies then.  A large portion of this game is actually you spamming your left mouse button using your main weapon, whilst you aren't able to destroy everything with this weapon; it is more used as filler for your time as most of the damage will come from the traps.  There is a huge variety of traps as well, and you probably won't even use them all even by the end of the game, leaving you plenty of chances to experiment. 
+
+The graphics in Orcs Must Die 2 are really nice. They are in the cartoon style that many of us really enjoy, but they aren't so childish that they can't portray the maturity of the title. There are some really nice special effects, such as the lava and ice traps, they all look marvellous. Everything is perfectly animated too, whilst a lot of the enemies are copy/pasted, that is to be expected from a game of this type.
+
+Orcs Must Die 2 has a very catchy sound track too; the song is played constantly and it will be driven into your head and you'll be whistling it without realising it. Other than the soundtrack, the rest of the game's audio is brilliant too. The game is narrated in the cut scenes by the male character; it would have been nice to get voice acting on the female though. 
+
+This game has varying levels of difficulty, the regular easy, medium and hard mode. You only unlock hard mode after you have beaten the game. There is one other form of difficulty, and that is endless mode. This will pit you against an endless stream of enemies, meaning you have to constantly upgrade your traps and the enemies will not stop until they either kill you or destroy your rift. This mode will really test your metal but is extremely fun to play in. Most players should really be playing this game on the Medium skill level, the easy mode is too easy and will not really offer any challenge to any tower defence veteran. 
+
+All of the levels in Orcs Must Die 2 are so well designed; I cannot find any faults with them at all. The early stages of the game are a tutorial stage really, allowing you to test out your traps to work out how they are best used, so the levels are pretty simple, but once you reach the end levels, you'll really be putting your trap building skills to the test, as you have to defend multiple rifts from multiple entry points of enemies. Some of the bigger levels offer a bit of support in getting around quickly in the form of teleporters, these will teleport you to the other side of the map once stepping in them. 
+
+I have been playing Orcs Must Die 2 for almost thirty hours, this is because there is absolutely tons of content in this game, not only is the single player story mode eight hours of gameplay, you also have the added replay ability of playing the story again as the other hero (with different skills and abilities), and then you also can replay the whole game again on co-op which adds a whole another level of content as the enemies are all scaled up to match you and your friend - and finally, we have the endless mode, this is the part of the game that I have spent the majority of my time and I am absolutely hooked on it. As you play the story mode, once you reach the final waves of a level, you'll often feel like you wish you could carry on and see how far you get, you can do that in endless mode; you just keep building traps, and facing more and more enemies as they just keep coming. This mode alone has given me about fifteen hours of gameplay. 
+
+Orcs Must Die 2 can be played on all resolutions. I played on 4k with everything on max settings and was able to get 60 FPS constantly. I did however have a few crashes, this mainly happened when you minimize the game too many times, and it gives you a message something regarding DirectX. Although this was annoying, I only had it when minimizing and not whilst in the midst of gameplay. The game can be played with a controller, but as it has elements of aiming with a crosshairs, the game is highly recommended to be played with a keyboard/mouse - it just works so much better on them. 
+
+This game is an absolute must play for any tower defence fan, if you had any sort of enjoyment out of the first, you'll get more of the same out of this, and the added edition of co-op makes it even more appealing to a wider audience. Not to mention the hours and hours of content on offer in this game. The regular price tag of £10, 99 is fairly marked and should be considered a must play for me. 
+
+[b][u] Tom's Score Card[/u][/b]
+1) Stay away
+2) Not Recommended
+3) Only recommended when on sale
+4) Recommended
+5) Highly recommended
+[b][u]6) This is a must play[/u][/b]
+
+If you found this review helpful, please consider giving it a thumbs up. You can also find more reviews over at http://www.completingthebackloggroup.com/
+
+Please also check out Completing the Backlog's Curator page [url=http://steamcommunity.com/groups/completingthebacklog#curation]here[/url] - follow for regular updates on reviews for other games! 
+
+
+http://store.steampowered.com/app/201790
+",0.8552347421646118,318,True
+201790,119337119,76561198044237695,"Robot Entertainment hates the players.
+I can't recommend buying this because of the company behind it. If you already have it OMD2 is a fun game worth playing but if you don't already own it I suggest waiting for a heavily discounted sale because they completely ruin part of the game for no good cause.
+
+If you download [b]any workshop content[/b] your progress gets reset and you lose total access to saving until you remove all mods. This means if you try any workshop content you lose everything and can only progress from the start during a single session, then have to start over every time you close the game. Nothing ever gets saved while running any workshop content. After uninstalling the mods, your previous unmodded save files won't return. I've never seen a game do this before and thought I was experiencing a bug at first but after reading forum posts and community posts it turns out this is actually intentional. This is unacceptable in my opinion and has prevented me from buying OMD3. This should be fixed but since it has been going on for around 10 years with no fix let's be real, it'll never happen and Robot Entertainment doesn't care.
+
+This is a top tier game tainted by terrible developers in an anti-consumer/freedom way. Mods are supported but they went out of their way to effectively sabotage the game if you use mods.",0.7929439544677734,73,False
+201790,7783887,76561198026304236,"A coop sequel, this game takes the first and ramps it up.  Some of the traps you used to love suck now, as they've actually been balanced to not be god-tier.  (I'm looking at you swinging mace a.k.a. roof pendulum of win.)  Each character gets their own unique trap and weapon, but beyond that they have the same access to traps, weapons, and spells.  
+
+It's a funny and fun tower defense game with a lot of shooter elements that allow you to solve missions in a number of ways, with some great survival challenge maps to have a blast with.  Best experienced coop, but still enjoyable single player.",0.874214768409729,105,True
+201790,19030485,76561198025301599,"I was a big fan of the original Orcs Must Die, mixing the Shooter genre with Tower defense in a perfect way. so i was very excited for the sequel. and this game does not disappoint while it improves over the original in every way. expanding the traps and weapons selection. You get Story Mode, Endless Mode, and 10 Classic maps from the first game. a weekly challenge, I have played over 70 hours of this game, solo and co-op, and I feel I have a pretty good feel of it. I've also purchased and enjoyed both DLC packs which each introduced 3 new maps and new monsters. 
+
++ Great mix between a Shooter and Tower Defense genres.
++ improves over the original in every way
++ lots of replay value
++ Co-Op is so much fun 
+
+mighty addictive and highly recommended.
+",0.8169447183609009,52,True
+201790,93753128,76561197970828689,"The game DOES work on Windows 10, not sure why another reviewer said it did not.  Pretty fun game with lots to do and challenges to be had.  Really fun with other players in Co-op!",0.7580748796463013,33,True
+201790,139167412,76561198996585033,"While the singleplayer mode works great and might be some fun, I bought this game because of its co-op aspects. However, the co-op mode does not work properly as it constantly disconnects you from the session and thus forces you to restart a match. This happens way too often (approx. 15 times within two hours of playtime).
+
+Trying to solve this problem revealed that many other players have the exact same issue with the exact same error message. This problem exists since several years and apparently it will never be fixed.
+
+Thus, I simply have to downvote this game as it is not playable in co-op mode.",0.753695547580719,43,False
+201790,7747618,76561198009547755,"With the exception of the clunky CoOp, this game was absolute perfection for those of us who like FPS/Tower Defense Hybrids.  The game does not take itself too seriously, offers casual and serious gameplay at different difficulties, and gives players of all skill levels a run for their money.
+
+This is an absolute must-have for any avid gamer.",0.8157662153244019,119,True
+201790,32611213,76561198005406191,"Greetings Again!  After beating the original OMD I decided to move immediately to the sequel which is what we have here.  In my opinion this game improves on the original in every way; no we don’t see a graphics update but primarily an update to the mechanics and design.
+
+Even more Orcs:  Not only do we have more types of orcs but also other types of enemies; some of which fundamentally change the way you have to play.  Of course the trap types have improved and you are given a much more in depth advancement system in the ways of spending skulls to improve traps in 3 to 4 ways.  Generally, the first option is just making it more effective but some of the secondary options change the way the traps can be used (such as putting them on ceilings or adding poison).
+
+Crazy Lady Playtime:    In addition to all the improvements the game includes one that I felt was sorely needed; namely co-op.  This also comes with a new character; the sorceress from the first game who actually has some traps and equipment that is unique to her.  Both characters are playable but mechanically I prefer the war mage over the sorceress.  Other than that you get all of the typical things such as leader boards but the main bonus here is co-op.
+
+I’m the Greatest:  The game is great; no doubt about that and definitely an improvement but I try to always level a few areas that I think can be improved upon.  In my time replaying the game I had several crashes; usually at the end of the level (making it even more frustrating); the game usually recorded the win but I ended up having to replay the level in case there was some story I missed.  This happened on the final mission as well which was kind of annoying.  Another improvement is that I’d like some kind of checkpoint or saving option.  Maybe this isn’t needed if I didn’t have to worry about crashing.  I also would have liked some more dynamic levels; especially those that required co-op or those that focused around a specific technique; maybe levels that prevented the use of certain items.
+
+Overall, I still love the game and definitely worth every penny sale or not.  There is some DLC and it is worth a buy but overall I felt a bit meh about it.  I’m a sucker for more storyline (which there is none) and more content but didn’t really grab me like the original game.  Regardless; I’d still recommend the DLC as well.  Enjoy!",0.7654483914375305,23,True
+201790,152548048,76561198040081904,Fun co-op game to play with my wife. The building aspect is simple enough and there is a good amount of button mashing to make her happy.,0.7090355753898621,18,True
+201790,27795383,76561198058097507,"Great game for co-op and single player. I met a lot of nice people thanks to this game.
+OMD 2 has the right amount of challenge to keep you interested in it without getting repetitive.
+What I dislike is the endless mode. That is the part that is tiresome for me, but I don't hold it against this otherwise great game.",0.754847526550293,29,True
+201790,23724597,76561197980647317,"[h1]1-sentence review :[/h1]
+Perfect mix between a 3rd Person Shooter and a Tower Defense Game !
+
+[h1]Pros :[/h1]
+- Challenging without being too difficult
+- A bunch of really different ""towers""
+- A ton of enemies
+- Varied & interesting Levels
+- Funny main character
+- Coop
+- Challenge Mode
+
+[h1]Cons :[/h1]
+- Although it's globally better than the 1st OMD, it felt like it offers a bit less variety in the level design in term of gameplay (probably coz all levels now must be playable in coop and thus have some kind of symmetry)",0.7497029304504395,22,True
+201790,42067808,76561197971724802,"Using a wide range of abilities and traps, you must stop a horde of orcs and related beasties from traversing a dungeon and making their way to your sacred portal.
+
+For those of you who have never played [i]Orcs Must Die![/i], it is a tower defense game that allows the player to freely roam the environment. You’ll be allowed to pre-pick what traps and weapons you’d like to use before the waves of enemies start coming, place said traps, and then take an active role in stopping them yourself. 
+
+The gameplay is a mixture between classic tower defense and third-person action, and as you play through the campaign you unlock increasingly more powerful traps and weapons. It’s a pretty straightforward premise, but the end result is something which is surprisingly compelling and challenging.
+
+One big addition is the cooperative mode, which many felt was sorely missing from the first game. If you enjoyed [i]Orcs Must Die![/i] on your own, then you can roughly double your expected enjoyment factor when playing [b][i]Orcs Must Die! 2[/i][/b] with a friend
+
+All in all, [b][i]Orcs Must Die! 2[/i][/b] is a great game. And if you liked [i]Orcs Must Die![/i] or just enjoy a good tower defense game, then give this game your attention.
+
+[b]THE GOOD[/b]
+- Cooperative mode
+- Weapon mechanics all work well
+- Decent AI elevates the challenge
+ 
+[b]THE BAD[/b]
+- Cartoony visual style might not be for all
+- Encounters get repetitive
+
+[h1]8/10[/h1]
+
+DISASTER | BAD | MEDIOCRE | OKAY | GOOD | [b][u]GREAT[/u][/b] | AMAZING | MASTERPIECE
+[quote]
+[i]If you like this review, then please consider giving it a thumbs up. I've also reviewed other games that you might find interesting. If so then[url=https://store.steampowered.com/curator/27418263/] please click here.[/url][/i][/quote]",0.747772216796875,27,True
+201790,218260223,76561198060870160,"i love orcs must die 2 as much as i enjoyed orcs must die 1
+OMD 1 had some issues with animations but for me haven't crashed
+
+but sadly due to OMD 2 being old, the game doesn't work well on newer systems and tends to crash when you finish beating a stage
+
+6/10 truly a fun game that expanded on the first one plus has COOP but i cannot recommend buying due to bugs, resolution errors and crashing that didn't really existed when it came out.
+
+I hope the devs can fix these issues.
+",0.6872060298919678,14,False
+201790,29144555,76561198194599329,"I enjoyed the first Orcs Must Die! and I enjoyed this one too. I would strongly recommend this game to just about anyone. Even if you're a bit unsure about getting Orcs Must Die!, you should definitely try Orcs Must Die! 2. It fixes many of the cons of the original game, so here's a list of pros and cons.
+
+PROS
+-Great and easy to learn gameplay.
+-Two unique characters with arsenals varying enough to effect gameplay while not have too much difference between them.
+-Improved graphics from the original game.
+-Funny dialogue and commentary that serves both the entertainment value of the game and the story aspects of the game (which is surprisingly satisfying given how little there actually is).
+-Unlike its predecessor, there's multiplayer (albeit only dual multiplayer). And, even better, it makes sense in the story's context.
+-Tweaks the traps and weapons from the original game to balance them more.
+-Has great DLC that you should definitely try out.
+-Much more dynamic currency system (concerning the skulls) than the original game.
+-Keeps the Nightmare difficulty and adds the new Endless levels.
+-Expands the player's equipment to include trinkets and cosmetics.
+
+CONS
+-Multiplayer is limited to two people. Not a con for me personally, but it might be for some.
+-Tweaks the traps and weapons from the original game. Again, not a con for me personally, but I have heard some complaints concerning some of the changes.
+-DLC costs money. Depending on who you are, this might be a con. I personally didn't mind. The DLC was great.
+
+So, yeah, that's it. Not much do I have to complain about, and though I am sure other pros and cons exist, I can't think of them off the top of my head. Regardless, though, I highly recommend trying out this game. Odds are, it'll be a blast.",0.7354879975318909,26,True
+201790,100068851,76561198069330268,"This game seems pretty fun, and I picked it up after reading reviews for OMD3 saying that this was better in most ways. 
+
+Unfortunately it's not really playable in multiplayer - we've been randomly dc'd 3 times in the hour we've played. A quick Google will tell you this is a common problem that's been in the game since its release, and there is no solution or fix.",0.6789089441299438,17,False
+201790,42027183,76561198263427469,"An awesome action defense game.
+
+This is the sequel to Orcs mus die and it's the an axample how the sequel should be.
+Devs didn't change gameplay hard, but added new enemies, new maps, more traps. They also added character level up system and added the second main character. Also it's playable in co-op now
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=1385568310
+The rules are simple. There are gates where enemies come from, there is a core to where they move. You must don't let them reach the point. You have a character with powerful attacks and a lot of different traps.
+
+The action part is well done. You should constantly move around, changing weapons, trying to make headshots, move between different points of the map.
+
+Strategy is needed there. Sometimes you need to take exact traps to the map or make special upgrades. You need to place traps wisely if the map has a lot of entry points.
+
+There are 15 levels in the main story. They are not long and pretty fun.
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=1385568348
+Pros
+- Very cool graphics and visual effects
+- Nice divercity in traps and enemies
+- Cool level up system
+- Different modes and difficulties
+- 2 different characters
+- Co-op
+
+Cons
+- A lot of levels designed for co-op and could be very hard to complete playing solo
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=1385568271
+[h1]Resume[/h1]
+I can recommend this game for all defense fans for a full price. If you in actions games you might like it too.",0.826667070388794,39,True
+201790,154603248,76561197996107137,"While the cooperative gameplay was fun, the overall experience was ruined by frequent crashes and disconnects. After several hours of trying solutions from the forums, the issues could not be resolved. I was amused by how many forum threads there are complaining of the same unresolved issues. 
+
+I did not play this game solo. I purchased it because of the option to play multiplayer. This game is a multiplayer lemon and I strongly recommend against purchase for anyone focused on multiplayer.",0.6755709052085876,11,False
+201790,181895631,76561198055181574,"A masterpiece, Orcs must die 2 took everything about the first game and turned it up to 11. More maps, more characters, more ways to slay orcs, multiplayer, cleaner graphics. The original was great, this here is what I would call a nearly perfect game for what it wants to do, its a super fun tower defense game that is accessible even to people who have never played tower defense games before. Its best enjoyed with a multiplayer partner, but can absolutely be enjoyed solo. Its a game that is just straight up fun, that looks great, is fairly polished and is cheap. On sale you can get this for like 3 bucks, thats honestly robbery for a game this good. I give orcs must die 2 my highest recommendation.",0.6702649593353271,10,True
+201790,14214867,76561198068329619,"Updated review:
+
+Orcs Must Die 2! is a 3rd person game that involves the many slaying of orcs, while either working with a friend or just by yourself along with the aid of the many traps and weapons this game provides.
+
+The levels are unique in every way possible some levels are small and simple while others are huge in terms of how many entry points and also how many different routes the orcs must take.
+
+This game also supports Mods however there is this bug that makes the game null and void so if you try to play it once after hours and hours of using a modded version of the game, sadly all of that will be gone in an instant. I think there is a fix  for it but i wouldn't risk it.
+
+The modes that are offered in this game is nothing but plain super awesome, you will lose hours and hours playing with game with either a friend or by yourself.
+
+I recommend such a game if you like killing orcs and seeing orcs getting killed by traps or by the hands of your co-op partner and you.",0.7200444936752319,31,True
+201790,229903748,76561198034821974,I loved playing this with my cousin when it first came out. Tower defense games are always better with a partner to enjoy it with. A must have for sure!,0.6666666865348816,10,True
+201790,8755784,76561198025824483,"After the great fun I had with the first one, I was really excited to play Orcs Must Die 2 but was disappointed by the gameplay. The levels are clearly designed for two players so (for me at least) they are not fun in single-player. The problem is not necessarily that they are difficult, but it is simply tedious to constantly run around the map trying to cover all directions. This is further aggravated by the lack of local co-op and any public matchmaking. I heartily recommend getting the first one if you have not played it. Get this one only if you have a friend that owns it and is willing to play.",0.7119717001914978,257,False
+201790,32418927,76561198123060255,"In my opinion, Orcs Must Die! 2 is one of the best tower-defense games I´ve ever played. Besides this game isn´t boring and is really addicting for me personally. Aside from that, it´s a mix of tower-defense and shooter.
+
+I can only recommend this game if you love tower-defense games. It IS absolutely priceworthy!",0.76146000623703,34,True
+201790,113689683,76561198097518124,"Basically everyone was playing orcs must die 3 , and we didn't have so much money to spend 
+so it's way better playing this instead of the new one 
+for the price and for our rigs health
+definite worth a buy it",0.6427125334739685,15,True
+201790,146694216,76561198055934908,"Insane amount of crashes in multiplayer
+Attempted multiple reinstall(s)
+file validation 
+compatibility mode
+
+Unfortunately I can't recommend this game now or even
+This is something the developers need to address.
+
+If it works for you please consider yourself lucky.",0.6399775147438049,10,False
+201790,10923266,76561197965389990,"If you aren't going to play this game Co-Op with a friend, don't bother with this game. Orcs Must Die! was a great game and could be played alone. When you play Orcs Must Die! 2 alone, you notice something almost immediately; the design of the new levels is clearly built for Co-Op action with a friend. The early levels are easy regardless, and there are some fun new mechanics that you can play with (funneling the orcs along minecart paths) which is a nice change from the first game, where you just look for the best place to place your Swinging Maces. Sadly, once you get about midway through the game some of the interesting levels seem to have already passed. Most of the time through barricades or planning you could get 3 or 4 doors worth of orcs to run through one setup of traps, which is about what was needed to clear the levels on War Mage difficulty. Sadly, about midway through OMD!2, it seems someone decided to make a whole pile of symmetrical levels in which there is no common area to filter all of the orcs through. Fair enough, it must still be possible to do it alone right?
+
+If you've played the first game, you can picture what I am going to describe now: Imagine a 6 square wide path. There is only a buildable wall on one side. The other side of the path has a few blocks of lava, which cannot be used because if you try to throw them into it they just fly clear of the lava river onto the symmetrical path on the other side (past the point where your traps would be). There is a small section with a ceiling on which to build ceiling traps but Swinging Mace now basically does no damage and just throws the orcs away from your other traps. If you spend all of your money on one side of the level, you might get lucky with a setup that can stop the first 2 waves using all of the right traps in the limited possible building areas, but what do you do on the other side? Fight the whole waves yourself with no trap assistance? Goodluck, it works for a few levels and then you just get completely overwhelmed, You never end up with enough money to defend both sides, and you need to spend what you get to build up your untrapped side, and the original side that you built to start is leaking orcs (a lot of them) every level.
+
+There are a few levels like this in a row probably about 75% of the way through the game. You clearly need 2 players, so each can play their own separate game on their own side of the level. How is that fun?
+
+The first game was great. This one, not so much. I've had enough.",0.6890095472335815,157,False
+201790,102737938,76561198143961468,"The game is incredibly fun, especially when played in co-op.
+However it keeps disconnecting - the issue is known all over the internet for years now and no fix have been made. And repeating levels just because you have been disconnected right before the last wave is very frustrating.
+Moreover there is no 'wait for other player to reconnect' mechanism, which is simply ridiculous. If the other player is disconnected the game is over, have fun trying next time - this is simply absurd taking in consideration most of the time it's not your internet connection that gets you disconnected, it's either bad server maintenance or game bug, hard to say.
+Taking all of this into consideration I cannot recommend this game, even though I think it's the best game out there in the market for 2 player co-op. I bet over 15 out of 30 hours of my gameplay was spent repeating levels I or my buddy got DCed",0.6347687244415283,14,False
+201790,51148103,76561198067851126,"So much better than that always online, mp focused crap they tried recently. I really hope they take the assets from that game and come up with a proper Orcs Must Die 3.",0.7304736375808716,21,True
+201790,49764585,76561198040443570,"PLEASE READ BEFORE PLAYING IN 2019:
+
+If you aren't having issues running this game, ignore this and enjoy the game!
+
+1.) Do NOT run in high Resolution:
+
+I attempted to run in 4k res and it completed messed with my mouse calibration. 
+
+Fixing this issue: 
+
+* [Drive]:\Users\[username]\Documents\Shiner\VideoSettings.xml
+* Right click on the file and choose ""edit"" or open it with notepad.
+* Change settings to 1280x960
+Should look like this:
+
+-<Settings>
+<XResolution>1280</XResolution>
+<YResolution>960</YResolution>
+<Fullscreen>1</Fullscreen>
+<Borderless>0</Borderless>
+<LowDetail>0</LowDetail>
+<VSync>0</VSync>
+<MSAA>0</MSAA>
+</Settings>
+
+* Source: 
+Robot Entertainment, ""Can I Change My OMD2 Graphic Settings Outside Of The Game?,"" https://support.robotentertainment.com/hc/en-us/articles/202849469-Can-I-change-my-OMD2-graphic-settings-outside-of-the-game- 25 Mar. 2019
+
+2.) If you can't open/run the game in windows 10:
+
+At first, the game did not run for me. I wasn't sure if it was my anti-virus or something else.
+Changing the anti-virus setting did not help at all for me (but could for you).
+
+Fixing this issue: 
+
+* Find the file
+* My File Example: C:\SteamLibrary\steamapps\common\Orcs Must Die 2\build\game
+* Right click ""OrcsMustDie2"" and click properties
+* 'check' ""Run this program in compatibility mode for:""
+* Choose windows 8
+* Disable fullscreen optimizations
+
+* Source:
+My own attempt at fixing the issue
+
+*** IF THIS DOES WORK FIRST TRY ***
+
+* A box should pop up asking ""Did this program work correctly?""
+Follow simple instructions: 
+
+1. Click on ""No, launch the troubleshooter""
+2. Click on ""Try recommended settings""
+3. Click on ""Test the program...""
+4. Click on ""Next"" (if the test works)
+5. Click on Yes, save these settings for this program
+
+* The 'incompatible Program' should say ""fixed"" and you can close the troubleshooter.
+
+The game should work through steam after that. Enjoy!
+
+If this does not work, you may have another issue and can find a resolved issue online.",0.6769649982452393,15,True
+201790,139674874,76561198108075836,"Good Game, too bad it doesnt have local co-op.. i wanna play it with my kid",0.674238920211792,18,True
+201790,68362616,76561197979985577,"Orcs Must Die! 2
+
+Pros-
+
+#1.Still good graphics even in 2020
+
+#2.Very fun gameplay if you into tower defense and third person shooters
+
+#3.Co-Op is really fun
+
+#4.I still get plenty of enjoyment from this playing solo
+
+#5.Tons of powers and traps
+
+#6.Good variety of maps
+
+#7.Good variety of enemies
+
+#8.One trap allows an orcs mind  to be taken over so it will fight and die for you
+
+#9.Endless mode
+
+This is one thing I love about this game even playing it on solo.I try to see if I can beat my own high score in endless mode.
+
+
+Cons-
+
+#1.My biggest problem with this game is you cant save the game in endless mode or at any point in this game.
+
+I understand why they could have done this so players do not have super inflated high scores if you can save the game at any time.The reason why they should have allowed it is some maps on endless mode can literally take 3 hours or more to get to your top score and when you cant save it that means I have had to kill myself ""due to boredom or needing to leave"" just to finish it because I can get past wave 50 at times with still no chance I will lose soon.
+
+In the normal story mode it would have been nice to save at times but I really did not mind I could not.That I cant in endless mode sucks.I will also add if your steam or game or pc crashes before it ends you just wasted all that time.If your power goes out that sucks for you.
+
+#2.Co-Op connection can be bad.
+
+As fun as Co-Op is if you cant have or keep the connection it is lame.I have experienced it working great and bad so it is something to be aware of.
+
+#3. You are forced to fight personally one way or another.
+
+In many situations you need to spend some of your slots on powers,weapons or trinkets for yourself instead of traps depending on the map.
+
+It is usually easier to win when you fight or help your traps personally and that is cool but I can get enjoyment out of defense games even when I am not and OMD2 does not really offer that and certainly does not offer more camera modes.
+
+What I am saying is if I could win just as easily hiding behind the rift and having access to other camera angles or having a free camera mode where I dont have to be attached to my body that would be cool.I would just watch my traps kill them and have the camera reenter my body if I needed to move or help.
+
+You are really forced to use some slots on yourself like The Scavenger Trinket for getting more money to buy more traps.The Jar of Ghosts which has been the only thing to save my life many times.The Healing Trinket HAS to be used in some maps because there is no rift to heal you.
+
+Now all 3 of these are very helpful to use and the first 2 I always use in endless mode but sometimes I wish I could have no character and just like some defense games just build the traps and watch.
+
+#4.The story was better in OMD1.
+
+#5.You are forced to be in third person and as I said already the lack of camera angles is a con of the game.
+
+#6.Not enough characters only 2 to pick from.
+
+#7.Some levels are designed for Co-Op and will be way harder solo.
+
+#8.Each character we can pick from has unique powers and traps.
+
+In one way that is cool but in another way it sucks.
+
+I wish he could use her Polymorph Ring and Ice Vent.
+
+I wish she could use his Tar Trap and Arrow Wall.
+
+I would have made her 25% faster and 25% less health with her glide power when she falls as her only personal powers.
+
+I would have made him 25% slower and 25% more health and give him like a triple jump ability as his only personal powers.
+
+They could have had 10 characters where they messed with that stuff.Like having one character that has 50% more mana and 50% less health. 
+
+I would rather they both share all the traps and weapons and trinkets.
+
+
+
+
+The Bottom Line -
+
+
+Orcs Must Die! 2 is a fun defense strategy game/third person shooter.
+
+I have had much enjoyment from this and Orcs Must Die! 1.I like the gameplay of 2 more but the story of 1 more.
+
+Another thing I wish they would have added was practice mode in Endless mode.What I mean by that is they should have let us use unlimited slots so we could use every power,weapon and trinket but turn off the scores.It would have been really fun and interesting to have everything in endless mode even if we could not ""score.""
+
+Many traps and weapons and trinkets it is so unrealistic to use them because there is not enough slots it would be awesome to give us the option even if only for fun.
+
+I do recommend you buy both and on a 75% off sale you can get them both super cheap.I have had many enjoyable hours playing both and am glad I bought them.
+
+I would compare the specific style of defense strategy/shooter game to Sanctum and Sanctum 2.If you like this game you should check those out since they are the same genre.Yet Another Zombie Defense HD is also a defense/shooter to check out.
+
+If you into defense games without the shooter part I recommend -
+
+#1.Defense Grid: The Awakening
+
+#2.Plants vs. Zombies: Game of the Year
+
+#3.Dungeon Warfare 1 and 2
+
+#4.Battle Ranch: Pigs vs Plants
+
+#5.Fieldrunners 2",0.6737959980964661,14,True
+201790,17610335,76561198024451265,"[h1]Fast-paced & addictive // Recommended for a killer co-op team[/h1]
+
++ Co-operative play is available, a feature that adds tremendously to the experience
++ Plentiful available upgrades; can make a hefty difference in play-style
++ Massive variety of usable, upgradeable traps; adds a lot of depth to the game
++ Myriad weapons and trinkets; used to customize loadout before combat
++ Includes an 'endless mode;' basically a wave feature, though it works so well with the game that it adds significantly to its replayability
++ Well-planned traps can net some very satisfying combo-kills; results in many memorable moments
++ Range markers make it easy to coordinate kill zones and trap combinations
++ Movement and shooting mechanics are simple and polished
++ Visuals, though unimpressive graphically, complement art design adequately
++ Campy voice-acting and audio design (though certainly not my cup of tea, personally) admittedly add to the game's theme and atmosphere
+
+- Plot is barebones, and little is done to reinforce or advance it; seems intentionally placed on the back-burner, so this observation may ultimately have little weight on the player's experience
+- No automatic match-making for co-op
+- Only 2 playable characters
+
+[h1]LockeProposal's Big Day Out[/h1]
+
+[url=http://steamcommunity.com/groups/bigdayout#]Community Group[/url]
+[url=http://store.steampowered.com/curator/7611703/]Curator Page[/url]
+[url=https://www.reddit.com/r/SeriousSteamReviews/]Serious Steam Reviews subReddit[/url]",0.7711974382400513,44,True
+201790,35244818,76561198045468592,"Robot Entertainment strikes again with another brilliant game. OMD2 is everything you loved about OMD1 and introduces a great coop feature that only improves the core game.
+
+Looking for a fun coop game to play with friends? Add OMD2 to your library, worth the purchase.",0.6708360314369202,20,True
+201790,20305066,76561198023753528,"7/10 (Sleeper Gem)
+
+Pros:
+ - Cool traps(towers)
+ - Cool enemys
+ - Cool varients on gameplay
+
+Cons:
+ - A.I. (while mostly good, mobs will sometimes bug out and break barriers when they have clear paths; which will eventually kill the game for you.)
+",0.6689727902412415,25,True
+201790,154933695,76561199261855025,"Orcs Must Die! 2 is a fantastic game and has completely lived up to my expectations. It features all the stuff from original OMD that I know and love, and makes it even better. Co-op enhances and enriches the experience and additional traps and new enemies as well as a revamped and more customizable unlock system make the game an absolute delight to play. I have almost absolutely no complaints and I’ll certainly encourage my friends to play this game at every opportunity.
+
+PROS:
+✓ Multiplayer co-op really makes the experience
+✓ Two playable characters offer different strategies
+✓ Lots of crazy variety with new traps and gizmos
+✓ Excellent animation takes the visuals to the next level
+✓ The same charming cartoony style as the first game
+✓ Watching orcs get slaughtered by traps always brings smile on a face
+✓ Difficulty levels and endless mode give reason to replay levels multiple times.
+✓ New weapons and traps to use in battle while older ones have been modified
+✓ Face off with more orcs than before, they brought some new friends
+
+CONS:
+- Some occasional collision weirdness, particularly with melee weapons
+- Game audio and one-liners are recycled and repetitive
+- Occasionally disconnect in multiplayer co-op can be frustrating",0.6134690046310425,6,True
+201790,200634421,76561197993052835,Fun goofy game that would be great to play with friends if it didn't constantly crash in multiplayer.,0.6099011301994324,9,False
+201790,41235737,76561198042135862,"A great sequial to Orcs Must Die, you can pick this one up without playing the 1st game and be able to just play right from the get go. Play a tower defense game with intuitive mechanics, merged with controlling a character that also combats the waves of monsters. Can be compaired to Dungeon defenders or Sanctum in the style of gameplay, but is unique in its own style and mechanics. Great fun with a friend.",0.6564506888389587,11,True
+201790,84409584,76561198035617311,"This game.... My word this game is awesome to play with friends. Tower defence with Dying Orcs, Soooo Worth it to play with a friend or even solo!",0.6052353978157043,5,True
+201790,188663913,76561197998032388,"According to wireshark game attempts to communicate with steam network service via ports that steam network service locked somewhat recently.
+Is understandable, game seemingly picks a random port from a very wide range.
+In layman's terms, coop is no longer functional and it's extremely unlikely it will ever work again.",0.6019284725189209,10,False
+201790,205121098,76561198030552855,"I absolutely adore this game and it helped create many a merry memory with one of my friend. It's exactly what I want in a tower defense game of this kind. Build a killbox, watch it work, have fun.
+
+However, after quite some time I got another of my friends to nab this game on sale and the only level we could ever finish without crashing was the first one. Every other level crashed to desktop as soon as we killed the last enemy. Sometimes I randomly got an error related to particles and it crashed midway.
+
+Needless to say, this dampened the mood quite a bit (and probably damaged our hearing, as the Robot Entertainment startup video is always full volume), even though we kept most of our skull rewards, if the crash was one that happened at the end.
+
+But not everybody will be as patient as we were and for those of you easily annoyed, or that value your time (and hearing), please stay away. It's heartbreaking for me to not be able to recommend one of my favorite games and kinda fills me with dread that it prolly won't be playable at all in a few years.
+",0.597771406173706,6,False
+201790,16197244,76561197999459739,"I really don't know what to say here. For the first time in my life I played a demo and fell in love with a game from the first level. I then paid full price for the game rather than wait for a sale. This is a rarity for me. This game is fun and then some, beyond fun, fun+.",0.6476056575775146,10,True
+201790,93962372,76561198037114789,"""If you like orcs and some sweet traps to put in their faces, this is the perfect game for you""
+
+This is for sure my Fav Tower Defence game!
+There is so much going on in this game, the Gameplay is just amazing, never has killing orc felt so fun and for some reason super satisfying. there are just so many weapons, so many traps so many options! i wont spoil any of them, but it makes the game into a gem! 
+
+Graphics: ""Old but gold"" 8/10
+Audio: ""Its alright"" 7/10
+Gameplay: ""Really good and satisfying"" 9/10
+Difficulity: ""A good challenge"" 9/10
+Story: ""Funny and silly"" 7/10
+Game Time: ""really long"" 9/10
+Price: ""Its a steal"" 10/10
+
+if you ever wanted to try a tower defence game or have played them and missed this one then this i would really Recommend!",0.645974338054657,12,True
+201790,215080882,76561198067072860,No longer playable. Crashes at the end of a game every game. Known error for a long time and devs won't fix it. Don't waste your money.,0.5935149192810059,8,False
+201790,96866001,76561198212883587,"When the network trouble is experienced :flushed:
+
+Great game and all but unfortunately just unenjoyable when you keep getting thrown out of wave 11/12 over and over and over, resetting the entire mission's progress.",0.5911701917648315,8,False
+201790,91990250,76561197972436064,"One of my favorite tower defense but beware COOP now disconnects so often that it's highly improbable to finish a single map. A lot of people have posted on this issue, losing hope for a fix that should have come a while ago. I will change my review if at some point this is fixed.",0.5896157026290894,10,False
+201790,219533417,76561198107095751,"Loved 1. Sadly, no matter what I do, resoluton wont go past 720p and I play on aa 4k 32"" monitor so its unplayable for me on a tiny screen portion. Cannot recommend.",0.5857905745506287,7,False
+201790,113107891,76561198165581787,"Orc come, shoot orc, orc die.
+
+Orc smork, kill orc with traps.
+
+Coop fun. Play as boob man.",0.6347573399543762,13,True
+201790,38587098,76561197992229015,"Oh boy...OMD 2...or the game that's clearly not been designed around single player.
+With OMD 1 and its mini expansion I spent about 8 hours on the medium difficulty. I had to restart some levels, readjust strategy, etc. But overall, the levels were pretty fair and you got around via portals quickly. In OMD 2 this has been - for the most part - completely scrapped. Pretty much every map has been specifically designed around 2 player co-op. Even the first few levels you start having problems on the normal difficulty when you're on your own, since your characters are mean killing machines, contributing a ton to the actual damage dealt. From what I've heard, later levels are supposedly next to impossible on higher difficulties. The DLC packs are ""a bit"" better in that regard, but suffer from the same problems. This also results in later levels not being able to complete the ""par times"" for a map, which in turn results in less skulls, which in turn means you have to play more to earn enough to unlock new stuff or upgrade existing stuff. And due to the map layouts it's almost impossible to cover all ""lanes"" and build new traps, because you only have 10 seconds between each wave on normal, until you get a respite every 3 or so levels, but then again, it takes so much time just to MOVE to the other side of the map that you can't keep under par. Even on easy I'm like 4-5 minutes above them at times. Never had a problem in OMD 1 on normal 0o. More on that later. I think the maps are fine for co-op, but if you just want to murder some Orcs, stick to OMD 1. (Apparently Orcs Unchained is even worse).
+
+Unlocks: In OMD 1 you got a new trap after every level you beat in the campaign. That system wasn't flawless, but it kept you going. In OMD 2 I unlocked not a whole lot by playing, but by paying instead. You get skulls for beating a level (up to 5) and bonus skulls for...I don't even know. Sometimes enemies drop them. Maybe it's for achievements like total number of career kills or something. While you can get a lot of skulls early on, obviously it becomes more difficult later and the unlocks themselves are very expensive, since there are 3 tiers for each trap + a special ability to unlock (that was 1 unlock in OMD 1, albeit a more expensive upfront cost). Since there are no damage numbers in the game, you can't even verify what the improvement is. Most higher level traps also have to be unlocked via skulls in the first place (I'd say more than half of the traps available in the game). The only good part about it is that you can refund all of your skulls at any given point and are able to redistribute them. However, it would have been better if you were able to downgrade individual traps instead. But it's better than the permanent system in OMD 1. To earn more skulls the game constantly reminds you to do maps on endless mode. Not very interesting if you ask me.
+
+Your lovely idiot from the first game is now being accompanied by the ""evil"" female apprentice. I initially wanted to play the game with her, until I noticed that her starting weapon does pretty much nothing on its own. Damage is low, stopping power is low and somehow headshots have either been taken out of the game or are very obscure and very hard to achieve. The idiot however starts not with his trusty crossbow for some reason (which can be unlocked for skulls, but is totally pointless, since it deals less damage, has less stopping power and is so terribly inaccurate that it hurts compared to his main weapon), but with a shotgun. I have to say it kinda grew on me later on. It has pros and cons, obviously. A con is definitely that you can't reliably get headshots (if they are even in the game. Like I said, I didn't really notice, but it seemed that hits to the head DID more damage, but with a shotgun...yeah, difficult from anything but closest range). The pro, however, is that it can be upgraded to knock over most heavy monsters. That means you can single handedly defeat an ogre without it even touching you, since you can just constantly knock it to the ground...very boring. Even 2 ogres can be soloed this way. 3 or more are a problem...and boy the game throws a lot at you later on. I think only some DLC monsters are knockdown immune like the Ball and Chain for example. The shotty also has a mana reliant grenade, which does splash damage and can knock enemies into chasms. It's neat, but it lacks ""oomph"". I would have liked a much higher cost with a much higher impact. All in all, pretty disappointing. I guess the witch is only useful as a support character in co-op, but she just seems to be the weaker of the two characters, period.
+
+They've included some new monsters, but most of the more interesting ones come in the 3 mini DLC packs. Sappers are even more obnoxious now. And the basic orc models look kinda dumb and weird.
+
+If you like co-op with friends (because there is no matchmaking), you may give it a try, but I personally don't see the appeal in endlessly farming maps for skulls to unlock and upgrade everything. There's only so much variation in a map you can possibly test out. If you only want it for a quick SP stomp, I'd avoid it.",0.6343761682510376,18,False
+201790,141513166,76561198112786045,Straightforward and enjoyable coop experience only let down by stability issues. We've not finished the last campaign level simply because it has crashed 5 times on us already.,0.5802211165428162,7,True
+201790,224629100,76561198039544667,"This game is not worth it and I'm sad I didn't read the reviews before playing for longer than 3 hours. Game will crash on the last hit of a orc in your last round. Losing progress for the level. Co-op = constant crashes. 
+Amazing that the main feature showcased in the this Sequel...... doesn't work??? I'll change my review if It ever gets fixed. Doubtful.",0.5798004269599915,8,False
+201790,157744814,76561198354965305,"It's Orcs Must Die! 1 with Co-op slapped on top of it. 
+Very fun experience with a friend.
+I had so much fun playing the original game when i was a child and OMD2's co-op was very fun experience and a good re-visit to childhood memories.",0.5789473652839661,4,True
+201790,6721032,76561198073323913,"[u][b]Personal rating:[/b][/u] 9/10
+[u][b]DLC:[/b][/u] Adds a lot to the game without putting any game breaking stuff. Complete Pack is very worth it.
+
+[h1][u][b]About Orcs Must Die! 2:[/b][/u][/h1]
+It is a fast paced, tower defense game which requires you to be crafty and resourceful from the beginning until the end. But unlike most common defense tower games you actively participate in the battle, you are main defense, your towers, or rather traps, will hinder, soften or thin out the horde, but you'll still have a lot of heavy lifting to do by yourself.
+
+[h1][u][b]About the gameplay[/b][/u][/h1]
+Orcs Must Die! 2 is more refined than its predecessor, it fixes little tweaks that were very annoying in the first game and balances weapons that back then felt a little too powerful and buffs weapons that were otherwise almost useless or felt too weak to be of proper use.
+
+There's a lot of variation in your towers, or rather, traps. You can out them on the ground, walls and ceiling and some traps requires certain strategies to work well. Obviously there are traps that works better with others, but nothing is truly impossible to combine, you create your own set of traps to watch enemies get brutally pierced/crushed/burnt/frozen/stripped to the bones.
+
+The game makes sure to bring new foes and tricks to ensure that you will always try something new, something you hadn't thought before or to show that your old tactics will eventually stop working. 
+
+[h1][u][b]Improvements over the first game[/b][/u][/h1]
+Orcs Must Die! 2 fixes a lot of little things that were annoying in the first game some are noticeable such as clunky physics with Wind Belt, other are more subtle like not being able to place Boom Barrels too close to enemies and removing fall damage which was completely needless.
+
+Another big change was the improvements over control customization and options overall which was seriously lacking in the first Orcs Must Die!
+
+All in all once you play the first game you'll realize how the differences can affect in your game style.
+
+[h1][u][b]How difficulty is it?[/b][/u][/h1]
+Orcs Must Die! 2 can be difficult, a bit overwhelming at first, but you will rarely feel that the game was unfair, that it did something ridiculous that you couldn't counter before it happened. It is a rewarding experience and you will feel great whenever you pull a maximum rank victory, especially on Nightmare (I'll talk about it in a moment).
+
+The game was tailored for co-op action and after the first stage you'll be facing two enemy spawn points to defend and it can feel unfair, especially in the beginning when you barely have anything to deal with them, it can be difficult but it's still manageable.
+
+While not something I truly appreciate, you'll have to go back to certain levels when you have better equipment to ace it (5 skull). Sure, you can start playing from the get go with a friend, but damn if it doesn't make you feel like a complete pro player when you get that maximum rank victory in a difficult map all by yourself.
+
+[h1][u][b]Nightmare?[/b][/u][/h1]
+The Nightmare difficulty, unlocked by finishing the game once, is far from being a numerical difficulty where the game merely ups enemies health or their numbers (something that plagues the games ever since they were made), it ramps up the difficulty to above the roof showing even tougher enemies and giving you puny three seconds to sell traps/units. You'll be forced to rethink your strategies and sometimes change to things you never ever thought before.
+
+[h1][u][b]Bring friend to kill orcs. Have twice as fun.[/b][/u][/h1]
+The co-op is just plain fun. Even more enemies to kill with a friend is never enough and being able to share strategies and putting up your traps into synergy is pure glee. If you don't have friends to play with you can always ask for others in the multiplayer groups.
+
+[h1][u][b]Orcs Must Die, sure, but there are few problems...[/b][/u][/h1]
+There are two complaints about this great game I have: grinding and character selection.
+Grinding is bad enough (maximizing traps, accessories and weapons is expensive), but having to do twice because you have to create two separate game files for each character is just increasing the longevity of the game in a bad way, especially since it can take a while to notice the differences between both characters aside from the obvious.
+
+Changing characters requires you to return to the main menu screen, which wouldn't be such a hassle if you didn't have to leave the Party you made for multiplayer which can be very annoying.
+
+There's also the fact Orcs Must Die! 2 is MUCH shorter than it's predecessor. While the first game has whooping 24 maps in the main campaign, the second game has only 15. Of course with the Classic levels DLC (earned by having the first game) the second game is longer, but I'm was never a big fan of having to rely on DLC to have a game with good length.
+
+[h1][u][b]Final commentaries[/b][/u][/h1]
+Orcs Must Die! 2 is an excellent game. It has tons of replay value and is balanced decently for both co-op and solo play. It does feel like it's an ""Orcs Must Die! 1 v2.0"" but with so many new traps, a new character and a good amount of changes, fixes here and there, it's worth every penny.
+
+Even after the release of Orcs Must Die! 3 this game holds up very well and it stands being the best in the admittedly niche the Tower Defense genre is.",0.6283783912658691,9,True
+201790,164712807,76561198077289710,"Orcs Must Die 2? More like Game Process Will Die Do you Want It Or Not x9999.
+Every time I start the game it minimises itself for about 4 times, then it blasts me with Robot Entertainment logo on 100% volume, even tho game itself is not even close to that volume, then when I start a level it likes to minimise itself again and put my character on autorun forward. When we complete level in co-op, co-op partner just crashes, forcing them to restart the game. And maybe, just maybe it wasn't so bad, if only game wasn't also crashing mid level, forcing you to redo the waves you already did.
+",0.577223539352417,6,False
+201790,192465636,76561199495434801,"Fun hybrid tower defense / hero game. Just one piece of advice, play as the sorceress. The two heroes have separate campaign progression and leveling up of skills. The game has 1 sorceress specific achievement and the sorceress abilities seem better when going for those endless achievements. So basically unless you want to do everything twice start with the sorceress.",0.5762711763381958,4,True
+201790,236583290,76561198017223587,"So, first thing is first, never played multiplayer.  I ain't got no friends to play games with.  Not but a few good eggs who will jump into the occasional TF2 game, like Negative Xero.  No, I play solo.
+
+Game is pretty decent, a solid step up from the first Orcs Must Die!  Mechanically it is fundamentally the same, but there are more trap options to play with.  And that is where this game's strengths are, finding fun combos you can put together with traps.  Bounce a guy back, maybe two or three times by spacing traps out far enough while other traps are slowly ticking his health down, then when he finally hits the end teleport him to the beginning to do it all over.
+
+You have unlockables, differing game modes, difficulty tweaks...  And I suppose if you have the friends the potential for multiplayer.
+
+The biggest problems I had in the game were that some levels really feel designed to require a second player, with little consideration as to what a lone player may be put through.  And, I really think the game needed a little more variety in enemies.
+
+I enjoyed it, though I never actually finished every map available.",0.5755102038383484,3,True
+201790,190133624,76561197962151561,"One of the best tower defense games ever made, definitely the best of the series. Worth a buy!",0.573076069355011,5,True
+201790,7694509,76561198057849814,"[h1]AT A GLANCE[/h1]
+(Full review follows below)
+
+[list]
+[*] [b]Game Name:[/b] Orcs Must Die! 2
+[*] [b]Original Release:[/b] 2012
+[*] [b]Genre Tags:[/b] Tower Defense; Action; Coop; Strategy; RPG; Casual  
+[*] [b]My Overall Grade:[/b] A
+[*] [b]Estimated Playtime (Campaign):[/b] 15-30 hours
+[*] [b]Multiplayer Aspect:[/b] Auxiliary
+[*] [b]Recommended To:[/b] Established fans of the genre; Those intrigued by the genre; Casual gamers; Multiplayer gamers
+[/list]	
+
+[h1]REVIEW[/h1]
+[b]Orcs Must Die! 2[/b] is an amazing take on a tower defense/3rd-person action combo. Attributes of both genres are blended together perfectly to form an addictive and entertaining little game. This is a game that is very easy to enjoy.
+
+[b]Orcs Must Die! 2[/b] does a great job taking 3rd-person action elements and blending them with some tower defense to establish a good basis. Then they sprinkle in the lighthearted atmosphere and charming characters with the simplistic-yet-captivating mechanics of the game… and it shapes up to be a really fun, delightful experience. It’s definitely the kind of game you can dive right into and get hooked for hours. 
+
+There is a relatively large amount of different towers and abilities in the game when compared to many other games in the tower defense genre. You have plenty of options and can have fun experimenting with different strategies. The level designs also vary enough that they call for different approaches to beat them, so you will have to try out different tactics in order to succeed. And there is a fair amount of different enemies which keeps things fresh as you progress through the game.
+
+There is also a scoring system and leaderboards to add replay value.
+
+[b]Orcs Must Die! 2[/b] is a step forward from the already amazing first game.  All the good aspects return, with some new ideas sprinkled in. There are many more traps and abilities, and a more extensive upgrade system.  There are many new enemies.  There’s a new extensive campaign, new game modes (like endless mode), and with the Steam Workshop there are now limitless possibilities for maps.  
+
+Also the addition of cooperative mode makes the experience exponentially more fun if you have a friend to play with.  
+
+I would say practically everyone should enjoy the [i]Orcs Must Die![/i] games.  Many hours of fun to be had with the games in this series, I recommend playing both.
+
+[i][url=http://steamcommunity.com/groups/murphyslawyercuration#curation]Follow my curation page to see more of my recommendations![/url][/i]",0.6220680475234985,9,True
+201790,170063090,76561197991826653,"Really fun game that improves on everything from the first. Co-op is great!
+
+Don't bother getting the 3rd, just get this one on sale.",0.5710436105728149,6,True
+201790,211561663,76561197964806347,"The game is a blast, super fun...
+
+buuuuuuut
+
+Game is busted on Windows 11 (various crashes). However, it does run great on Linux / SteamOS",0.5706499218940735,5,False
+201790,106554973,76561198264066437,"Well the orcs start coming and they don't stop coming
+Fed to the rules and I hit the ground running
+Didn't make sense not to live for fun
+Your brain gets smart but your head gets dumb
+So much to do, so much to see
+
+It's a cool place and they say it gets darker
+You're bundled up now, wait 'til you get older
+But the rifts beg to differ
+Judging by the hole in the ceiling
+The ice we skate is getting pretty thin
+The water's getting warm so you might as well swim
+My world's on fire, how about yours?
+That's the way I like it and I'll never get bored
+
+Somebody once asked could I spare some change for traps?
+I need to get them away from me
+I said, ""Yup"" what a concept
+I could use a little fire myself
+And we could all use a little change
+
+Hey now, you're an all-star, get your game on, go play
+Hey now, you're a rock star, get the show on, get paid
+And all that glitters is gold
+Only shooting stars break the mold",0.6206368207931519,18,True
+201790,223248661,76561198179725123,"Absolutely fun game, but absolute balls when it comes to crashes and disconnect.
+
+For a 10 year old game, it holds up, but for other aspect prepare your balls.
+
+Also if you're using Windows 11, prepare endless crashes. As of right now there are no community patches for this.",0.5704821348190308,6,True
+201790,93068548,76561198060692740,very good third person tower defense. I've never seen a better example of this genre.,0.6688581109046936,17,True
+201790,130846463,76561198186530370,"Well, absolutely nothing new to offer but orcs must die is juiciously good and creamiliciously and caramelizingly fun. The tower defense games that doesn't really involve any straight-up well-sought strategy but rather you will be exhilarated until end. Best played and defeated with partner of course. 
+
+If you are new to this genre and wondering if you purchase orcs must die 1 first, forget about that totally because all that is new to offer in orcs must die 2 is 14 new levels and it also comes with all levels of part 1. So, its like a duo (both games packed into one) . This could be a dlc of first game , they have included a fragment of a story which isn't a show-stopper to pay heed to . Just enjoy your life setting traps and destroying orcs for they must die and you must buy this , yeahhhhh !!!",0.5686030983924866,6,True
+201790,106012285,76561198263309431,Orcs.  Must they die?  Yes.  That's not the question though.  The question is how should they die?  And the answer is very quickly and in great numbers.,0.6174458265304565,9,True
+201790,57796039,76561198005362867,"As a two player game, I absolutely recommend this game.  So much of the level design and character is built around having two people play.
+However, I played this single-player.  At times it felt more like a juggling simulator than a first-person tower defense.  If you are familiar with the last game, one other nitpick is the item/trap upgrade system--most of the added upgrades are just damage, which makes the early stage traps feel really weak.
+
+All said, though, if this is a person's first entry into the series, they may find it a nice spin on the typical tower defense.",0.6155297160148621,7,True
+201790,109436204,76561197975284358,"I write this review exclusively for the co-op part. While the game itself is fun, it is incredibly crash prone when playing co-op, and worst of all there is no way to rejoin or rehost from a save. You literally have to restart the entire map over. This is so intensely soul draining to experience over and over that I cannot recommend this game.",0.5650355219841003,7,False
+201790,226752148,76561198003129733,"[h1][b] TLDR: A genuine improvement over the original in nearly every way, but its co-op focused design means solo players can easily face frustration over its duo designed levels.
+[/b] [/h1]
+
+[h1]PROS: [/h1]
+➕Massive improvements over OMD1
+➕Expanded trap progression
+➕Trinkets allows a slot to provide a passive effect
+➕Leaderboards & Endless waves to improve replay value
+
+
+[h1]CONS: [/h1]
+➖Can’t remove upgrades from a single trap - have to redo everything
+➖The game seems built for co-op, which means a solo player is going to have a worse time
+➖A trap limit for playing solo??
+
+[url=https://steamcommunity.com/id/Synikx/recommended/102600?snr=1_5_9__402]My review for Orcs Must Die 1 (OMD) is here[/url]
+
+[h1] [b] Content (Game world/Narrative) – [6/10] [/b] [/h1]
+The game world largely remains unchanged from OMD - there are various maps that serve as arenas for the tower defense. The maps do seem more varied here than just a simple castle-like environment, which is good. There is still no meaningful exploration or secrets to be found though. 
+
+Continues the small narrative from the first game, but this time the antagonist joins the war mage as an optional 2nd character or co-op companion. 
+
+[h1][b] Gameplay (Mechanics/Difficulty) – [7/10] [/b] [/h1]
+It appears on the surface that the mechanics have been significantly improved, but there are some evident negatives that I found. 
+The biggest improvement is the trap progression. I liked the upgrade system and how you can choose a specialization for each trap. Thankfully, with the improved trap progression, there’s also the ability to reset improvements. I sorely wish that I could simply remove improvements from a single trap instead of being forced to remove them from all traps. 
+There’s also expanded items to slot. Aside from just traps, there’s a slew of new weapons, and even trinkets now which give you a passive effect. Very nice, but an unfortunate side effect is that your slots are now insanely valuable. With how the levels are set up and expanded for co-op, if you’re playing solo you really need to utilize every given slot for your traps, guardians, and now passive setups. 
+
+This game can be exceptionally difficult, mostly due to the fact that this seems very heavily focused on co-op, so much so that you're going to have a rough time solo playing some of the levels. The later half of the story is frustratingly annoying as I constantly sprinted between 4 rooms trying to keep track of constantly flowing in orcs. This would have been much better with a 2nd person. 
+
+[h1] [b] Graphics (Quality/Technical) – [6/10] [/b] [/h1]
+Another massive improvement over OMD is not so much the graphics, but the technical side. 
+Graphically, this is very slightly better than OMD, still around PS3-era. 
+Technical side, while there still isn’t a lot of PC-focused options, there is a lot less bugs and issues with the UI and crashes. 
+There were some bugs as well, but nothing like OMD, much better here. 
+
+1440p @ 240hz | installed on SSD  
+
+[h1] [b] Audio – [6/10] [/b] [/h1]
+Very similar audio as OMD, mostly having 2 variations of the music. 
+There’s more voice acting over OMD, still good quality. 
+
+[h1] [b] Replay Factor (Longevity) – [6/10] [/b] [/h1]
+Improved replay value here with more levels, endless mode, two different characters, each with their own traps, and of course co-op. 
+
+[h1] [b] Final Verdict – [6/10] [/b] [/h1]
+Orcs Must Die! 2 (OMD2) brings the OMD series two steps forward, and one step back. Nearly every area of the game has had great improvements. Things like mechanics and technical aspects are much better. However, all the shiny new mechanics and technical parts can’t change the foundational design of the game being focused on a co-op experience. That means i you’re playing solo, like I was, then you may have a bad time. 
+
+Like OMD2 does, I want to focus on the co-op aspects and how this impacts the game as a solo player. 
+What becomes evident as you get further into the levels is how much of a pain it is to cover 4+ paths of orcs. Having another player would alleviate much of the stress between jumping constantly between lanes trying to stop orcs that got through your trap field. Even on the “Normal” difficulty of Warmage, its easy to get overwhelmed with trying to cover so many lanes. 
+There’s also 2 different characters, each with their own traps. They tend to compliment each other, so by playing solo with one your missing out on some fundamental traps that the other has, like playing as the sorceress and not having the Tar trap is rough. 
+All of these are major factors that a solo player should consider. You can definitely beat the game as solo, but when it comes to scoring high on the leaderboards or even just maxing the skulls for the levels, you’re going to have a tough time. 
+
+Overall though, I believe that OMD2 has made net positive changes over OMD1 and thus this is easier to recommend as the better game. 
+
+[h1] [b] Recommend? (Price) [Y/N] [/b] [/h1]
+[h1]Yes[/h1]
+$15 base price is decent for the amount of content here, but the historical low of $1.50 is absolutely worth it, especially if you’re playing with a friend. 
+
+You can find my curator page here: https://steamcommunity.com/groups/Synik_GR
+",0.5649717450141907,4,True
+201790,42714199,76561198021484906,"Look at the amount of hours played. I've had this game for almost a decade and keep coming back to it. It's the perfect podcast game, has hilarious jokes, and the Sorceress is a marvelous addition to the game. The mod support is a bit garbage, but the amount of content on offer more than makes up for it, especially if you have the original game as it adds updated versions of the first game's maps.",0.6611848473548889,10,True
+201790,114720272,76561198058312834,A great game in solo but simply one of the best to play with a friend.,0.6110307574272156,7,True
+201790,94135448,76561198058362534,"Surprisingly fun both single and multi-player (co-op) tower defence game. Still holds up in my opinion today, even though its pushing nearly 10 years old - however the 3rd installment is just around the corner.",0.5607068538665771,4,True
+201790,23027005,76561198048419446,"-This game ts like Dungeon Defenders and is a sequal to orcs must die 
+
+-This game has the same placing system as orcs must die which is the ability to place traps pretty much anywhere 
+(ceiling, walls, and floors). 
+
+-This game actually has co-op but does not have matchmaking so inviting people is a must when trying to play co-op
+
+-You can upgrade you items using skulls that can be recived during and after a map/game
+
+-Skulls can also be recived by replaying a map
+
+-Controls can be remapped
+
+---My Rating---
+8.5/10 -would recommend to my friends",0.6102162599563599,9,True
+201790,70800769,76561197970731820,"I like this game so much that I kinda hate it now.  Well, maybe 'hate' is a strong word. We'll get to that later. Anyway, Orcs Must Die 2 is a fun and challenging tower defense game where you set up traps & mercenaries and use weapons & spells to keep an invading Orc army from breaking through the gates of your fortress.  The orcs are cartoonish and goofy (except for the hunters; they're cartoonish and awesome) and there are dozens and dozens of traps in your spell book that you can use to slow down or kill the orcs. You can only use 10 weapons/spells/traps/mercenaries/trinkets on each level though, so it may take a few run throughs to decide if, say, you should use decoys, barriers and archers, or acid baths, catapults and wall grinders. You start off with a set amount of gold coins that allows you to buy and place a limited amount of traps, and with every orc you kill you earn some more gold coins to buy and place more traps, either on the fly or between rounds. Each map has multiple rounds of increased difficulty with Round 1 comprising of a handful of slow moving and lightly armored little orcs up through the later rounds where more and more orcs of ever increasing strength and speed and abilities swarm the map.
+
+Depending on how fast you vanquish the orcs and how many successfully penetrate your defenses over the course of all the rounds (I think they all have 9 rounds?), you can earn between 0 and 5 skulls to use to acquire more spells and traps for your spell book. It's a sliding scale. The longer it takes and/or the more that get through, the lower the number of skulls you get if you win. And if too many get through you lose. But if you kill 'em all quickly? 5 skulls for you!
+
+The game can be played alone or in teams of two. It makes for a fun multiplayer experience as you coordinate with your teammate who will guard what areas and who will use what traps, along with updates on what areas are being overwhelmed and how each person is doing on health and mana.
+
+So why the hate? Again, 'hate' is a strong word, but this game has can be pretty addicting. It has a leaderboard that keeps track of your highest score for each map and shows it in comparison to your friends as well as where your high score ranks with the high scores of everyone who's ever finished that map. I found myself obsessing over my score on the leaderboard on a few maps: ""Which part should I set my traps in first? Which traps should I use? What if I swapped out the catapult for springing spikes?' etc. I'd play those maps over and over, trying to get a little faster and maximize the gold coins I earned on each kill. It... was unhealthy.
+
+But that's a me problem, not a game problem. It's a great game and because it's so great that I found myself playing waaaay too much.",0.6096112132072449,7,True
+201790,48207783,76561198025056671,"One of  the best 2 player co-op  games ever. If it had the option to play with up to 4 players, it would have been icing on the cake. Getting 5 stars/skulls on nightmare levels is such a satisfying feeling and after you finish those there are endless levels which you try to get higher scores compared to the community.
+
+If you like tower defense & 3rd person shooters and have a friend to play with, this is a must have.",0.6088361144065857,7,True
+201790,38403989,76561198005236784,"Seems like a good game, but the devs made a decision about mods I find... bizarre.
+You can't save your progress if you have mods. You just can't. And nothing clearly alerts you to that fact.
+So you spend a gaming session playing and having fun with the base game + some cosmetic mods or anything really and all is well, until you restart the game and discover that all your progress is lost.
+You want to play a game where barricades don't get destroyed and you can trace a nice path for the enemies to come to you ? Nope, can't allow that. Because it's 'too easy'. So what ? If you want to have a calm session where you can just stroll around and have fun, it's just not possible. Can't allow a player to have fun on his own even if it doesn't change anything to the other players...
+
+Why ? Because it would apparently screw up the achievement or the leaderboard.
+There's one thing that comes to mind about that... Just maybe disable the achievements and the leaderboard when mods are active ? Just a simple idea that has been thrown around since the launch of the game and has been implemented in numerous games to great results. It allows for both kinds of players (those who mod and those who care about highscores) to enjoy the game without disturbing anyone else.
+But wait, this game was released years ago, and it's still not there yet... Then why ? Just why ?
+
+As is, I can't recommend this game even if vanilla might be a blast.
+Don't prevent your player base from having fun with your game, devs, that's just plain stupid.",0.6086344122886658,16,False
+201790,47836509,76561198014517446,"Played this solo for the most part and loved it. On nightmare difficulty I did spent a few days figuring out a viable approach for the last few levels, but it's entirely possible. What I liked most is that what works in one level just doesn't in another. Learning to use new traps and weapons and strategizing around them was a lot of fun.",0.6585643887519836,12,True
+201790,145808178,76561199110440839,"Piece of shit game doesn't work for multiplayer back then use to be great now it's gone to shit, it was a great game when the servers actually worked now I can't play with friends and that was the only fun part of the game",0.5581737756729126,3,False
+201790,216834780,76561199069084535,"Still peak in 2026, still actually playable. Crashes sometimes when you play multiplayer at random moments, but its still really fun tower defense game. I recommend.",0.5555555820465088,3,True
+201790,191508369,76561198001761503,This game is in my top 10 Co-op games of all time. Definitely worth the buy. It's crazy to think this came out in 2012 because it hasn't aged at all. Fantastic game.,0.5535714030265808,3,True
+201790,8986098,76561198021079558,"I got this game and never ever played it.
+
+The only reason I got it was because I owned number 1 and I wanted number 2.
+Then one day, my friend brought it and she was like ""Oh you own it too? Let us play"" 
+So I downloaded, installed, played, played, played, played and played more.
+
+The game is fun.  
+
+The graphics are not amazing, but the cartoon look and feel is cute but also really nice.
+The controls are so simple, you literally cannot say you cannot play the game.  They are so easy.
+The audio is funny and nice.
+
+The game itself is top fun and best played with a friend.  Yes you can have fun alone but not nearly as much fun as you can with a friend, so best played with people.
+
+The leveling, perks, upgrades are all good fun to see and work towards.  They provide a sense up a strong build (Even though you never actually level)
+
+Is the game worth it? Yes, by all means buy play and thank me later :)",0.6031526327133179,6,True
+201790,34187812,76561198063422063,"This game as a sequal to the original Orcs Must Die! is good but not great, I love Orcs Must Die! and i wanted to seem some variation into the combat of the orcs, Yes it is a third person tower defence, But it just feels in a sense copy and paste with the orc units, Though they have added a lot of new orcs that you have to worry about aka guardian killers and other type of deadly enemy units that give new challange and a fresh stand point to the game, The story picks up where the first one left off which was nice, It was a well made segment one i enjoyed and even at times laughed, In terms of Co-op this game is quite fun with a friend the co-op system in this game works perfectly dividing the profits of each wave to make you manage more on your traps, Trinkets etc adds a new pace to the game. All in all i would recommend this game for people that just want to sit down and relax and have a lot of fun killing orcs in very funny and fascinating ways.
+
+PROS:
+Story is good but short (Can be a CON to some)
+Co-op is well placed and developed making it fun with a friend.
+New traps and other items to help progress threw the game.
+Now has survival unlike the first one which adds more content.
+New types of deadly orcs, Although some was just copy and pasted with the same attacks and animations
+Game offers great rewards and challanges and can be fun solo or with a friend.
+The skull system is really good with unlimited respecs to allow for more diverse play styles
+Has nice unique armor sets that make the character look good but offer no bonuses (can be a CON)
+Offers a lot of new unique maps for the story and even endless mode which offers new advantages and disadvantages
+
+CON:
+Some of the orc units are copy and paste 
+DLC packs arn't really interesting other then some good maps and very few new unique units to fight.
+It can get pretty repetitive if played over and over, Good for burst play but not endless hours like other games.
+Locking traps behind DLC wasn't a good idea, A lot of traps which arn't really that great to begin with.
+
+All in all for the most part this game is fun by yourself or with a friend, You can get a lot of good hours of gameplay and it offers new challanges and makes it a good peice for the original as a sequal. My finale verdict is 8/10 its a great game, Despite its few issues i enjoy playing it when i get the chance and can be fun all around when you do play the game. I recommend this to everyone that needs to relax and just have a lot of fun on the side. ^.^",0.6023537516593933,7,True
+201790,216830622,76561198076326263,"Don't buy it. It's unplayable. It crashes in multiplayer mode, rendering all the progress in the level useless. Devs refuse to fix this issue. Windowed mode freezes up the game. The buttons don't align so you can't click on anything.",0.5518950819969177,5,False
+201790,90906613,76561198071921491,"The OMD! series is surely the peak of Tower Defence games. It has a sublime mix of strategy and skill. In many other TD games, the outcome of the game is only determined by your tower/troop placement, but in OMD! you can wield a bunch of personal weapons that can be as lethal as your host of traps, or better: complementary to them.
+
+Story is boring, but the characters are enjoyable. It's one dumbass whose calling in life happens to be killing orcs, and a megalomaniac sorcerer who used the orcs for personal gain. Easily the best part of the game is the co-op. Nothing swinging an oversized hamemr on one horde of orcs while your friend launches another into a pit of lava, for some sweet sweet combo bonuses. Shout-out to DKimbo13, we killed innumerable orcs in ways like this!
+
+The enormous variety of enemies and (more often) the layout of the levels seriously force you to strategise on which traps you decide on before you start the level. The upgrade system is rewarding and gratifying. Traps and weapons can get simple damage upgrades as well as new mechanics added to them. There is plenty of extra challenge in the nightmare difficulty, endless mode and DLCs.
+
+There are some minute flaws. The sorceress sucks to play single player because she has very little crowd control BUT she complements the war mage well in co-op. Maxing all upgrades takes ludicrous farming BUT you can refund your currency at any time for no cost. Not all traps are made equal BUT this is intentional design.",0.5516563057899475,4,True
+201790,192996851,76561197997819921,"Great tower defender / fps game. Maps can be really challenging forcing you to think about what traps and weapons you want to chose. There are lots of things to unlock as you progress through the game, weapons, traps, skins, trinkets. Game is especially a ton of fun in Co-Op with a buddy.  
+Works well under Arch Linux Running w/ proton, also works very well on the steam deck.",0.5503026843070984,3,True
+201790,195126075,76561198067395159,"The actual game itself is incredible, but it's just so buggy and crashes so often it ruins the game, over half of my playtime is just redoing what I already did after it crashes",0.5500572323799133,4,False
+201790,208320598,76561198001199988,In 2025 on Windows 11 this game crashes even in singleplayer ALWAYS! Doesn't matter if I play on RTX 4080 Mobile or integrated graphics (Intel Core i9-14900HX).,0.5497185587882996,3,False
+201790,29285372,76561197992711083,"Orcs Must Die 1 was a great game. I had so much fun with it, I love tower defense games, and this game just made tower defense funner, more intimate, and funnier. 
+
+I had thought that Orcs Must Die 2 couldn't improve on the first game, all they could really do is add more traps and maps. But then, wham, MULTIPLAYER! Now I could share my joy of endlessly building crazy trap rooms with complimenting traps. I love to just zone out and set it to endless mode. Nothing funnier and more satisfying than for a horde of unwitting boobs to slog through a room of whirling, flaming, death that my teammate has created, only to be flung ragdoll right back into it. 
+
+I love this game. Right now, this game is only $3.99 on steam. How the hell can you turn that down?",0.5974382162094116,6,True
+201790,25861722,76561197994481368,"This is a wave after wave of orc killing madness. There are many ways to kill the orcs and each way seems more pleasing than the next. This is a tower / hero defense game that is very amusing. I would recommend this to kill time or play with friends. It's not my favorite co-op game but it is fun. There's nothing about this game that screams I MUST have, so if you like the previews, the art and just wanna kill orcs, then this is the game to have. Rating: 6/10",0.5958459377288818,5,True
+201790,145090279,76561198067937192,Hey what gives multiplayer/co-op no longer works it kicks me when we win i lose all points received during play. I have very few friends and even fewer gamer's that will play the same games as I. I just played this months ago w/them so need info whats up on what to do. Our gaming PC/laptop hasn't changed.,0.5457673668861389,4,False
+201790,128715053,76561198139166456,"Still the best Orcs Must Die! game, and one that deserved a proper sequel. Intensely fun in both solo and coop, with clever map layouts and multiple viable trap options. Endless replayability to boot! Here's a tip, give yourself some self-imposed challenges (try tar traps only) for extra wackiness.
+
+Not a perfect game, but dang if it's not one of the best Action TDs out there. Orcs Must Die! 3 should've taken notes.",0.6957563161849976,17,True
+201790,170905433,76561198117234743,"Every time I play with someone, the game crashes out of nowhere. I have no idea how to fix it. The game itself is great, but this problem is annoying and makes it unplayable in coop.",0.5454545617103577,2,False
+201790,16676282,76561197997909445,"While you could argue that this game is simply the first with co-op slapped in, that is by no means a bad thing. The first game was really fun and this one is pretty much the same with some new toys to play with, a few new enemies to slaughter, and the option to do it all with a friend. This game is also playable solo though if you don't have a buddy. Like the first game, the dialog and animations are quite funny. It mostly reuses music from the first game, but the music is really good so I'm not complaining. Basically, a ""it wasn't broke, so we didn't fix it"" sequel... with a pal.",0.5451375842094421,2,True
+201790,21399843,76561198129335704,Bought this game as of 2/21/16 for 40$ for me and my friend really worth it but the next day 2/22/16 the game went on sale for 3.99$ that i payed 40$ for anyone have a condom? for how bad i just got the gaben cock shoved deep inside me thanks team i love you.,0.5937082171440125,9,True
+201790,187638000,76561198152593125,"A new character, more traps, weapons and enemies.
+
+Everything that worked in the first part is even better now!
+
+I definitely recommend this game!
+
+",0.5421686768531799,3,True
+201790,236810413,76561199378048843,"Avoid this game if you like the first one.
+
+Orcs Must Die! was a tower defense puzzle game with arcade combat and horde fighting elements woven in.
+
+Orcs Must Die! 2 is an arcade horde shooter with no puzzle aspect and barely any tower defense elements, since your traps don't do much and you're mostly just running around frantically shooting enemies.
+
+If you like horde shooters, Earth Defense Force is better. If you like tower defense, OMD! 1 is the best of the genre, period.
+
+But this game has nothing to do with the first one in terms of how to play it. The first one is about solving the puzzle of where to put traps and which ones to use, and shooting the horde down was how you shore up defenses and make your traps and guardians more effective.
+
+In OMD! 2, your traps and guardians don't matter, only how effective your twitch shooting and sprinting skills are. There is no intellectual element whatsoever.
+
+1/10 tower defense
+
+3/10 as a horde shooter",0.5412984490394592,4,False
+201790,188556592,76561198018818592,"Simple, fun, and there are so many viable ways to play.",0.5405505895614624,2,True
+201790,206678077,76561199814532720,"Much like OMD3 it's amazing on co-op.   One thing I loved about this one over OMD3 is that the heroes individually are relatively weak (for example very hard to get headshots) which in turn places a greater emphasis on the traps & teamwork. It's not your standard relaxing tower defence game, you have to make decisions on where to place traps or set up a chokepoint fast & it becomes very chaotic in seconds. Single player feels grindy and a lot of the maps have multiple exits, so early on especially its going to be very difficult to not lose. I would give it like a 9/10 or 10/10 for 2 players but I wouldn't recommend if it's just you playing by yourself.",0.540229856967926,2,True
+201790,94049516,76561198082413770,Game is very good but multiplayer is basically not functional - continually disconnects,0.5396134853363037,11,False
+201790,66625503,76561198170457821,"This game rocks, but there is a word of warning: the co-op right now is BAD as far as lag, disconnects, ect. My wife and I enjoy playing a variety of other online co-op games and don't really have any problems, but for some reason this wonderful little game disconnects us about half the time we play. It's frustrating... but we still love the game. Buyer beware! :-)",0.5895203351974487,6,True
+201790,174509914,76561198010177709,"A few bugs here and there, with crashes happening at random occasions.
+Little inconveniences and lack of QoL features never allowed a smooth experience throughout the journey.
+After beating the game and experiencing most of its contents, there was this one achievement left that was too grindy, leaving a pretty bad experience at the end.
+Expected much more from a sequel, but it was overall pretty disappointing.",0.5384615659713745,2,False

@@ -1,0 +1,1211 @@
+appid,recommendationid,author_id,review,weighted_vote_score,votes_up,voted_up
+901583,87768495,76561197962044062,"Guys, please do yourself a favor and download Dxvk plugin for this game. It's a Vulkan translation layer that has the potential to double your framerate. Yes, a program meant for Linux-to-Vulkan api makes GTA IV, a non-Vulkan game, run better on Windows - that's what a disaster this games coding is. 
+You simply download dxvk, go into the x32 folder located in the zip file and then cut/copy d3d9.dll and dxgi.dll and put them into your GTA IV directory (where the games .exe is located) 
+My game is now a stable 60fps 90% of the time with all high settings and I'm one of those scrubs on a decade old AMD 8350. I do adaptive V-sync via the Nvidia Control Panel, for what it's worth. The only downside, if you even use it, is that it disables the Steam overlay, but the Rockstar one remains active: so you'll still see your delicious achievements pop when you get them. 
+
+Also, if your game is stuck at only recognizing 512mb of Vram - an old issue I thought was fixed but is apparently back thanks to Rockstars general incompetence and apathy - simply add a commandline via Steam in the launch options for the game with your Vram amount. 
+For example, ""-availablevidmem 8192"" if you have 8GB of Vram on your GPU. 
+
+It's hard to recommend this game without these improvements but once you get it running smoothly, you won't be disappointed. It's a travesty that we - as the consumer - have to jump through hoops and essentially do Rockstars job to make this game work well but those clowns have become a straight parody of themselves ever since GTA V online started making them half a billion a year. They've literally become one of the companies they would satirize in a GTA game, requiring their own customers to effectively do their programming just to make their game run adequately. It's frankly disgusting but welcome to the video game industry in 2021. 
+
+Alright, rant over. I genuinely hope this helps you as it helped me because everyone deserves to experience this gem of a game free of issues.
+
+UPDATE: FusionFix is also a must use mod and, with the newest update, now includes DXVK built into it. So you can toggle between Vulkan and DX9 right from the GTA IV graphics menu with the newest version of Fusion Fix installed, skipping the steps I listed above. Fusion Fix also includes hundreds of other fixes and improvements for this game, from volumetric fog to being able to choose between Xbox or PS button prompts. It's a must.",0.9745928049087524,3233,True
+901583,154203214,76561198152626032,"Oh Wow! Thanks for the likes! 
+here's an update 24/03/2024
+
+You need mod fixes to play this game properly,
+
+Mods
+• FusionFix
+•  Various Fixes
+•  Console Visuals
+• Radio Downgrader (optional, if you want the original music)
+
+• dxvk-gplasync by Ph42oN 
+this one is the holy grail, but uses more vram
+you can also use it to other old games,
+like Lightning Returns: Final Fantasy XIII
+it fixes the stuttering when moving around the map
+
+===============Step 01===============
+you can use in game Vsync
+lock the fps to 60 or 30
+
+===============Step 02===============
+the game is limited to 2GB ram, change it to 4GB.
+go to this location
+
+\SteamLibrary\steamapps\common\Grand Theft Auto IV\GTAIV\pc
+
+edit this file > stream.ini change 204800 to 409600 all of it
+
+===============Step 03===============
+donwload dxvk-gplasync-v2.3.1-1.tar.gz by Ph42oN
+and then copy "" all "" files from \dxvk-gplasync-v2.3-1\x32
+to SteamLibrary\steamapps\common\Grand Theft Auto IV\GTAIV
+
+> next (optional)
+
+No need for "" environment variable "" 
+click on Environment Variable...
+at "" System variable "" section
+
+Delete all DXVK Variables
+
+then click ok then close it
+
+> next
+
+make a file "" dxvk.conf "" using text document
+paste this command line
+
+dxvk.enableAsync = true
+RADV_PERFTEST = gpl
+dxvk.gplAsyncCache = true
+
+(this one is optional but very helpful)
+dxvk.hud = full
+
+save it > SteamLibrary\steamapps\common\Grand Theft Auto IV\GTAIV
+
+===============Step 04===============
+for some reason, my game detects my “resolution” and 
+“vram size” properly so I only use these two commandline.txt
+
+-nomemrestrict 
+-norestrictions
+
+this one fixes street lights from flickering during night time.
+
+save it 
+SteamLibrary\steamapps\common\Grand Theft Auto IV\GTAIV
+
+===============Step 05===============
+then play the game",0.9720459580421448,591,True
+901583,61865261,76561198076165394,"The game is still on Steam, but the ability to purchase it has been removed. A spokesperson from Rockstar explains why:
+
+""Grand Theft Auto 4 was originally created for the Games For Windows Live platform. With Microsoft no longer supporting Games For Windows Live, it is no longer possible to generate the additional keys needed to continue selling the current version of the game,"" a Rockstar representative said. ""We are looking at other options for distributing GTA4 for PC and will share more information as soon as we can.""The game is still on Steam, but the ability to purchase it has been removed.",0.968273401260376,2166,True
+901583,202752723,76561199127926809,"GTA IV holds a special place among open-world games. Its story is deep, the characters are compelling, and Liberty City’s atmosphere is amazing. I definitely recommend buying and playing it! I started this year on my Steam Deck, and it runs really well with no FPS issues. I just finished the story for the first time in 2025, and even though the game is quite old, it’s still incredible.",0.9613032937049866,580,True
+901583,196412926,76561199196913290,"“The American Dream comes with a body count.”
+
+This is Rockstar’s most mature, most honest game. There’s no Vinewood, no satire. Just Liberty City, dark and cold, pulsing with corruption and concrete.
+
+Niko Bellic isn’t flashy. He’s haunted. A war veteran trying to wash off blood with more blood. The story is heavy, the weight of consequence never lets up. Choices sting. Death has meaning. You feel the loneliness in every call Roman makes.
+
+The city feels alive but suffocating. Grit replaces glamour.
+The radio, the voice acting, the physics, It's unreal. Car chases hurt, shootouts feel raw, and friendships? They matter here.
+
+It’s a tragedy disguised as a sandbox.
+And it’s one of the best stories ever told in gaming.",0.9524423480033875,320,True
+901583,227390807,76561199593248913,"Hi... I am writing this review after playing for over 100 hours, and I can confidently say that GTA IV has the best story in the entire GTA franchise. I loved the game so much that I grinded out 100% of the Steam achievements.
+
+Everyone should play this masterpiece at least once to see what Rockstar cooked up before GTA V. However, if you are playing on a modern PC, there are a few things you need to know:
+
+1. DOWNLOAD FUSIONFIX:
+Before you even start the game, download the FusionFix mod pack. The original PC port is notoriously broken on modern hardware. If you play with an uncapped framerate (anything above 60 FPS), the game engine physically breaks. Quick-time events fail, minigames (like the dancing in the DLC) become impossible to beat, and the final mission can permanently soft-lock. FusionFix patches these engine bugs, fixes the lighting, and gives you a smooth, glitch-free experience.
+
+2. THE DLCs ARE MANDATORY:
+Just completing the base game with Niko is not enough. You absolutely need to play the two included DLC episodes (The Lost and Damned and The Ballad of Gay Tony). They aren't just extra missions; they contain massive, overlapping stories that directly connect to the main game. Playing all three campaigns is the only way to experience the complete story of Liberty City.
+
+3. THE DRIVING PHYSICS:
+Be prepared for the driving to feel very different if you are coming from GTA V. The cars here are heavy and have realistic suspension. It takes an hour or two to get used to, but once you master it, the car chases are some of the most satisfying in the series.
+
+100% highly recommended. If you love open-world games with gritty, deep narratives, this is an absolute must-play.",0.9520300030708313,293,True
+901583,198502723,76561199552586006,which ape at rockstars HQ thought it would be a good idea that you need to download rockstars launcher just to play a game from 2008?,0.9423359036445618,233,True
+901583,171979871,76561198038993862,"This is Rockstar's Magnum Opus. A highly underrated and gritty entry in the GTA series.
+
+If you're going to play it then be sure to download the following.
+1. DXVK
+2. FusionFix
+3. Lossless Scaling (£5 on Steam - introduces Frame Generation to squeeze out some FPS stability)
+4. Radio Restorer for the original music",0.9401610493659973,364,True
+901583,54281085,76561198066440288,"I was unsure if I should get the GTA 4 again on PC after seeing all the issues users were having on steam. I saw people saying that had too download all these various files and thought it too much of a hassle. Plus the games for windows that seemed to have everyone up in arms. I run a windows 10 machine which can easily run GTA 5 so no hardware issues.
+
+However I thought I'd give it a shot. 
+
+I knew this was an older game and I would need to change the compatibility settings on the local folders applications. Easy for anyone to do. I set it to windows 7 mode and put it to run in administrative mode. This seemed to start up the game no issues, then I ran into the ""apparently"" broken games for windows part, which as you read the information displayed on the screen says you can play in offline, you just need to setup an offline profile, so no hassle there either. However I pressed on with online mode to see if it was possible to run, all that happened is it redirected me to xbox.account, which I believe is on most windows 10 PCs. A quick click and account made, games running. 
+
+The only issue I faced was as the game was around prior to current graphics cards, it wouldn't recognise above 2GB cards. To a rather hilarious intro cut scene I saw floating items and diamonds etc with no characters visible, just floating hair. Everything else was visible apart from the map in the menu as well. A quick google and I found the answer. All I needed to do was change the launch options for the game in steam. To do this I right clicked on the game in steam and went into properties and advance launching options. I simple copy and pasted the following text
+
+-nomemrestrict -norestrictions 
+
+Into the text box and ran the game again. What the text does it tell the game to ignore its restrictions around available card usage. 
+
+Everything was as I remember it use to be. This didn't require me to download any dll files, patches, fixes, cracks etc. Apparently some music is missing from the game due to licencing and there is a way to get it back in there if you really want it but I wont go into that here, all I can say is google is your friend. I haven't tried multiplayer but presume it dead, I only bought it for single player anyway.
+
+Anyway I'm off to terrorise Liberty city with my cousin, he owns sports cars, mansions, I cannot wait to get off this boat!",0.9393609166145325,212,True
+901583,233861093,76561198262339960,"Don't be fooled by everybody stating that it's a bad port and you shouldn't buy it. It is an awful port, but there is a mod called Fusion Fix that's really easy to instal. After that, it's a perfect experience on modern hardware. 
+
+Solid 60/120 FPS experience (there are 2 missions that can only be played on 30fps), ultrawide support on my Odyssey G9 screen and decent mod support via nexus (Liberty Rush, Project Birds/Glass, Increased Draw Distance, etc)
+
+If you really like the story of GTA IV i would highly recommend to watch the Russian movies Brother (1997) and Brother 2 (2000) and the Pusher trilogy.",0.9369209408760071,275,True
+901583,149496033,76561198158784641,"Its a great game, a classic, just this fuckin launcher man. I dont get why these companies treat actual paying customers like criminals. I mean ffs, its not like your launcher works as a form of DRM either. There are plenty of ways to install cracked copies of GTAIV and the fuckin irony is, youll probably be playing the game faster than someone who has to sign in to use this doo doo ass launcher",0.9232137203216553,706,False
+901583,178515491,76561198090090309,"One of the best games ever made.
+
+BUT you will need mods to make this PC version on par with the console version from 2008 tho.
+[i](Look up TJGM's ""Fixing GTA IV with mods"" tutorial on YT to figure out how)[/i]",0.9218133687973022,151,True
+901583,91435211,76561198162093077,funny serbian man steals peoples cars and goes bowling.,0.915561854839325,201,True
+901583,152844136,76561198013529294,"The ability to play any Rockstar games I purchased on Steam has been stripped away just as it has for many other people due to the ridiculous social club requirement attached.
+
+Below is the support ticket.
+https://steamcommunity.com/sharedfiles/filedetails/?id=3103521022
+
+You have a single account (for a launcher!?), anything happens to it and Rockstar deems you not the owner despite obvious evidence, that’s it. Your games are now rendered unusable. The compromised account permanently tied to Steam with no option to unlink.
+The only option being to repurchase all Rockstar games once again somewhere else if you fancy playing them again (remind me why Rockstar have any incentive to adjust social clubs current implementation).
+
+In GTA 4’s instance, it didn’t even have social club when I purchased. Rockstar added it in an update in 2020 (The same update which also removed content from the game due to licence expiry). In what way does the EULA or any other measure give the right to REMOVE no longer licenced content from copies purchased previous?
+Say you own a film on DVD / BluRay, it has a wicked car chase scene. Later down the line, the movie company loses the licence from the car manufacturer of one of the cars in the scene. Can the movie company then come and take away your film and hand you another copy with the car removed from the chase scene?",0.9104612469673157,604,False
+901583,181231870,76561198002909892,"Game is excellent, but acquire it by other means. This is a gimped version.
+Cut radio music, multiplayer removed, and despite removing online multiplayer they found the time and resources to add a required secondary online account with ""rockstar social club"".
+It's honestly sickening that companies can do this to a game you paid for more than a decade ago, then claim to be victims and put the law against you for trying to get your hands on the software that you originally paid for.",0.9082094430923462,161,False
+901583,115480694,76561198032227398,"Given the choice, I'd rather have GFWL over this rockshit launcher. Just let me launch the game from Steam Rockstar. Nobody likes your laucher idea. If we did, we would buy the game directly from you instead of through Steam. Steam is the launcher. STEAM!",0.9069162607192993,608,False
+901583,208486974,76561199254252481,"Why the hell do I need to download a third party fix just to enjoy the game man, fix the gawdayum PC port Rockstar.",0.9053887128829956,221,False
+901583,66917099,76561198069586558,"12 years have passed and you decide to update the game by increasing the price, removing multiplayer, radio stations, and adding your shitty launcher, yet you haven't fixed those frame drop issues that have been sticking with us since release and make the game completely unplayable no matter what computer you're running it on.
+
+12 years for this. Fuck you Rockstar.",0.9051514267921448,833,False
+901583,146127174,76561198065895896,"The state of the game on PC is tolerable with these mods listed here, alongside some of my own recommendations:
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=921826093
+
+Here's the console visual mod that restores a bunch of the aspects of the console visuals that were lost or changed in the porting process:
+
+https://gtaforums.com/topic/989098-console-visuals-the-complete-edition/
+
+Here's a mod that that fixes a bunch of other issues with the PC release:
+
+https://gtaforums.com/topic/975211-various-fixes/ (Make sure to install it using the FusionFix option)
+
+Here's a mod that adds DualSense button prompts for those playing with a PlayStation controller:
+
+https://www.nexusmods.com/gta4/mods/327
+
+I'd also recommend installing DXVK into the game's directory (Make sure to copy the x86/32-Bit binaries to the game's executable directory), as that increases the framerate by a noticeable amount thanks to D3D9 support practically being abandoned and terrible on most GPU vendor's drivers, but especially on AMD cards. Make sure to use 7-Zip or WinRAR to extract the tar.gz archive for the release build:
+
+https://github.com/doitsujin/dxvk/releases",0.9549736976623535,359,True
+901583,168249720,76561198142247081,"I love GTA 4 so much. The story here is much more serious than GTA 5. And the many little things you can do and interact with are so good, it added more realism to this game. Shame that GTA 5 didn't pick up on those things, legitimately one of the best games of all time.",0.9515364766120911,354,True
+901583,120420835,76561199174839700,"The Social Club's offline mode is broken in this game. If you try to launch the game using Steam without an internet connection you get signed out of Social Club and you lose access to all your save files. The only way to play this game offline is to open up Rockstar Games Launcher (assuming you haven't already been signed out from trying to open the game in Steam) and launch the game from within there. I am pretty sure the developers have the means to fix this problem as other Rockstar games like L.A. Noire don't have it. I think they just don't care enough about it to fix it which is very disappointing.
+
+Can I just say, the Rockstar Games Launcher is stupid and unnecessary. There aren't enough games on the damn thing to justify even having it. Also, what's wrong with just using Steam's cloud storage to backup save files? Do we really need this Social Club mess? Why must developers over complicate things for consumers?",0.899994432926178,236,False
+901583,220749274,76561198102305840,"First of all, this PC port of GTA IV is trash. First Generation RAGE engine is fundamentally broken on modern PCs and requires a lot of troubleshooting and mods to get it to be playable. The modding community recently solved this game. Follow Gillian's Modding Guide for GTA IV to save your sanity. FusionFix and DVXK vulkan mod fixes most issues for most people. 
+
+EDIT: Another tip; GTA IV breaks at high FPS. Lock your FPS to 60 and you can use Lossless Scaling to play the game at a stable and smooth 144fps or more. 
+
+GTA IV as a game is considered one of the best games of all time for a reason. For the time it was a mind blowing leap in graphics and in physics, and it still holds up in 2026. It's insane that it ran on 512mb of GDDR3 on an Xbox 360 and the fact that it was only in development for 4 years. There is an incredible amount of detail in this game that rivals RDR2. As an example, you can steal an ice cream truck and it has different songs you can play like a police siren. The story and characters are the best rockstar story along with Red Dead Redemption. 
+
+I don't care what anybody says, the driving in GTA IV is the best to me. Every car has different handling and weight to them, going fast and making a sharp turn can make you lose control of your vehicle, it's very realistic and satisfying. Pulling off a drift in this game is the best feeling.   Also the car damage/deformation system is MUCH MUCH better than V. Cars actually bend out of shape and take damage if hit really hard, they blow up easier, and it's harder to drive a broken car because it reduces your speed and your ability to turn. It feels like Rockstar tuned back the physics and the car damage physics to streamline GTA online. GTA 4 is just a really fun game in general because of these systems.
+
+There are so many interiors in the game that you can just explore. You can go to an internet cafe, go bowling, go play pool, go eat some food to restore your health at a restaurant. it makes the city feel more alive unlike GTA V with 0 overworld interiors, 0 food vendors. You can literally go into the hospital. A lot of props are destructible as well. It doesn't feel like there is any wasted space in the city. I also swear that the pedestrians behaviors in GTA 4 are much smarter over 5, each type of ped has their own personality, every single pedestrian and cars don't run and vanish and turn into a ghost town when you shoot somebody so you can go to another street and jack a car to get away. Female peds actually fight back too.
+
+The physics in the game are over the top but crazy fun to play around with. Euphoria's implementation in this game is still top tier and never makes the game boring, and I wish more games used NaturalMotion's Euphoria. Peds don't have a default dying animation so every single gunfight is different. In fact, most peds will survive getting shot and try to get up and limp away to safety. A lot of this is just simply missing from V.
+
+GTA 4 is the best singleplayer Grand Theft Auto. I hope that GTA 6 brings back some of the charm that made GTA 4 so great.",0.8991913199424744,183,True
+901583,166648567,76561198082622728,answer me this: if the game has no multiplayer anymore or really any online features why does it require me to be online signed into a social account?,0.8989863395690918,394,False
+901583,185696917,76561197993663420,"Can't play a game that I've owned since before Rockstar launcher was a thing because Rockstar launcher is now a thing. Don't have my old email so i can't play my games. Some companies give you no other option but to  pira*** every game they make from now on. This DRM bullsh** won't ever be removed unless you do it yourself so I won't be giving them money ever again.
+
+Edit: I found if you use IVDowngrader you can remove having to go through the Rockstar launcher. Steam achievements still function with the downgrade as well as mods. I just wanna play the game and its dumb i have to do all this just to play a game I've owned for soooo long.",0.8918075561523438,383,False
+901583,195697076,76561199589148003,I hit a car with my motorcycle and got launched all the way to jupiter.,0.9394645690917969,290,True
+901583,14488811,76561197967608630,"This game gets a thumbs down because it doesn't work without doing extra work. And Rockstar is aware of these issues but won't produce a patch. Otherwise GTA IV is awesome.
+
+To get the game to run if you are on Windows 8.1 (and maybe lower) you need to download and install the latest Games For Windows Live.  Yes GFWL is cancer but it is required. Just Google it and hope the download link is still up. (It is retarded you need this considering GFWL is DEAD and no longer supported.)
+
+Then if you have a video card above 2 gigs you need to do two things to ensure it runs properly. GTA IV assumes you do not meet the requirements and limits your graphics settings. To get around this make a file in the GTA IV install folder called ""commandline.txt"" without the qoutes. Then put ""-nomemrestrict -norestrictions"" without the qoutes inside of the file and save. Then goto your Steam launch settings for the game and put those two settngs in there like the you did the file.
+
+You are welcome. Where are my support royalties Rockstar?",0.8891724944114685,746,False
+901583,229061223,76561198002281694,"[b]Before anything else: if you're planning on playing this, definitely install [url=https://github.com/ThirteenAG/GTAIV.EFLC.FusionFix/releases/tag/v5.0.1] Fusion Fix[/url]. It's practically essential if you want the best experience, as the PC port still has its fair share of issues. I'd also highly recommend restoring the removed radio stations, they're such an important part of the experience, that the game simply doesn't feel complete without them.[/b]
+
+I'm currently doing a full playthrough of every GTA game in anticipation of GTA VI, and out of all of them, GTA IV was the one I was looking forward to revisiting the most. I had already poured more than 200 hours into it back in 2008, but somehow I never came back to it after that.
+
+The day GTA IV launched is still burned into my memory...
+
+I remember sitting in school, debating whether I should stay for the rest of the day or head home after the very first class. It didn't take long to make up my mind. I slipped out of school like it was a side mission straight out of Bully, caught the bus home, and couldn't stop thinking about the adventure that was waiting for me in Liberty City. Whatever punishment I was going to get later felt completely worth it.
+
+Coming back all these years later reminded me why this game left such a lasting impression.
+
+It's funny to call GTA IV ""underrated"" considering it has a Metacritic score of 98, but I genuinely think it doesn't get nearly enough appreciation today. Whenever people discuss Rockstar's greatest achievements, GTA IV often ends up overshadowed by some of their other titles. I feell like that's a shame, because this game is one of the clearest examples of why Rockstar became the benchmark for open world games.
+
+The level of detail is astonishing. During one mission you're tailing someone when your phone rings. If you let it ring, the target hears it, gets suspicious, and starts running. Put your phone on silent beforehand, and he never notices, you can simply hang up and continue following him. Friends and acquaintances react to how you drive. Some enjoy reckless speeding, others prefer you obey traffic laws. Some even have favorite radio stations, and playing the music they like actually improves your relationship with them. These aren't features the game constantly points out. They're simply there, quietly making the world feel believable.
+
+They even created a fully functional in game internet packed with thousands of browseable pages, making Liberty City feel incredibly alive. Rockstar have always been masters at integrating the internet and social media into their worlds, and it makes me even more excited to see what they'll do with GTA VI.
+
+And that's what GTA IV does better than almost any other open-world game. Liberty City doesn't just feel alive, it feels like a character of its own. People jog through the parks. A lone saxophone player fills the streets with music. Shuttle buses and taxis carry travelers to the airport terminals. Every neighborhood feels inhabited by people living their own lives. It's a city that's constantly moving, yet somehow feels suffocating. Glamour is replaced by grime. It's cold, cynical, and yet so unforgettable.
+
+The story is really exceptional. The main character Niko Bellic is a departure from previous protagonist in the series, he isn't a flashy action hero. He's a man haunted by his past, a war veteran who seemingly could do no right, trying to wash away blood with more blood. His search for a better life slowly becomes yet another cycle of violence, betrayal, and regret. Rockstar wasn't afraid to explore dark themes, and because of that, it feels like every major story beat has certain weight attached to it. Death has consequences. Loss lingers. Even just cruising past Liberty City without a cause makes you feel just how lonely Niko really is. To this day, I still consider it one of Rockstar's finest stories.
+
+Important to say that this game also received two single player DLC's and The Ballad of Gay Tony deserves special mention. Even after all these years, it's still one of the best single-player expansions I've ever played, offering the perfect contrast to the darker tone of the main game.
+
+GTA IV isn't just another open world crime game. It's a time capsule of 2008. A technical marvel for its era. A masterclass in environmental storytelling and world building. Nearly two decades later, Liberty City still feels more believable than many open worlds released today.
+
+Some games age, but GTA IV....GTA IV simply waits for you to come back.",0.9380473494529724,331,True
+901583,202685237,76561199820998313,"Hey Rockstar, got a question for ya:
+
+What does it feel like to be certifiable Dirtbags? Honestly?
+
+Because I find it to be absolutely weird that a paying customer is constantly finding themselves being inconvenienced by having to sign/ping-in monthly just to be able to play the games they paid for.
+
+I'm not constantly online. (absolutely bewildering, I'm sure)
+
+Perhaps people like playing offline, a.k.a., single-player? Wild!
+
+It's mind numbing that Rockstar Social Network is being forcefully shoveled down players' throats for ""services"" they more than likely have ZERO interest in.
+
+Leaderboards? Who gives a rat's ass??
+
+I just want to play the game, and I'm 100% certain others feel the same way. I cannot be disproved. My judgement is concise and absolute - this assessment comes from life experience. Not from some 60 minute mouth breather session about who read their emails, and who had a ""eureka"" from their ""think tank"".
+
+You creatures are fundamentally bizarre.
+
+I sit here and think: ""Wow, I can't even sit down for uninterrupted R & R?""
+
+Fix your decrepit business model, you clowns. You're a joke.
+
+How is it that other developers and studios can manage to respect the consumers, but you, collectively, are defiant every step of the way?
+
+That experience from 17 years ago, being able to just pop the disc in and play, ... why can't we have that experience back even with this platform despite being digital?
+
+Dirtbags....",0.886978805065155,267,False
+901583,227495760,76561199823165928,"Where's luxury condo? Where's sports car? Where's Barbara with big titties and Stephanie who sucks like a vacuum? 
+
+But nah this is a good game get it fr fr",0.8866301774978638,116,True
+901583,102451421,76561197983478893,Stop forcing your obnoxious Games Launcher on people who don't want it.,0.8838834762573242,713,False
+901583,93372307,76561198032864726,"---{Gameplay}---
+🔳Try not to get addicted
+☑️Very good
+🔳Good
+🔳Nothing special
+🔳Ehh
+🔳Bad
+🔳Just dont
+
+---{Events}---
+☑️Not avaible
+🔳Not so much to talk about
+🔳Sometime's there
+🔳Much to play the game sometime's
+🔳Like fortnite
+
+---{Graphics}---
+🔳Masterpiece
+🔳Beautiful
+☑️Good
+🔳Decent
+🔳Will do
+🔳Bad
+🔳Awful
+🔳Paint.exe
+
+---{Audio}---
+🔳Fascinating
+🔳Very good
+☑️Good
+🔳Decent
+🔳🔳Not too bad
+🔳Bad
+🔳Earrape
+
+---{Audience}---
+🔳Kids
+☑️Teens
+☑️Adults
+🔳Everyone
+
+---{PC Requirements}---
+🔳Check if you can run paint
+🔳Potato
+🔳Decent
+☑️Fast
+🔳Rich boi
+🔳Ask NASA if they have a spare computer
+
+---{Loading Time}---
+🔳Really Fast (<2 min)
+☑️Fast (2-4 min)
+🔳Normal (4-6 min)
+🔳Long (6-8 min)
+🔳Very Long {8-10 min)
+🔳Too Long (10+ min)
+
+---{Story}---
+🔳Doesn't have
+🔳Something isnt nothing I guess
+🔳Not greatly told
+🔳Average
+🔳Good
+🔳Lovely
+☑️Will make you cry or smile alot
+
+---{Difficulity}---
+🔳Just press a bunch of buttons
+🔳Easy
+🔳Significant brain usage
+☑️Easy to learn / Hard to master
+🔳Not so easy
+🔳Difficult
+🔳Need to learn
+
+---{Grind}---
+🔳Nothing
+🔳Only if you care about leaderboards/ranks
+🔳Isnt necessary to progress
+🔳A bit grindy sometimes
+☑️Average grind level
+🔳A bit grindy
+🔳Insanity
+
+---{Game Time}---
+🔳Long enough for a cup of tea
+🔳Short
+🔳Average
+☑️Long
+🔳Depends on you
+🔳Endless
+
+---{Price}---
+🔳Just buy it
+☑️Worth the price
+🔳Wait for sale
+🔳Maybe if you have some spare money left
+🔳Not recommended
+🔳Dont throw money into a rubbish bin
+🔳Free
+
+---{Micro-Transactions}---
+🔳EA
+🔳Mobile Game(Necessary if you don’t want to wait 15 weeks to construct a toaster)
+🔳”Premium” Currency AND Normal Currency
+🔳”Premium” Currency OR Normal Currency
+🔳Quick way to advance
+🔳(Planes,Airports,etc)
+🔳Only to show off big time
+🔳Level DLC
+☑️None
+
+
+---{Bugs/Glitches}---
+🔳Never had any
+🔳Minor bugs/glitches
+☑️Few bugs/glitches
+☑️Can get annoying
+🔳Ruining the game
+🔳The game itself is a big terrarium for bugs/glitches
+
+---{?/10}---
+🔳1
+🔳2
+🔳3
+🔳4
+🔳5
+🔳6
+🔳7
+☑️8
+🔳9
+🔳10",0.8799676895141602,295,True
+901583,75619573,76561198080783773,"Thanks to retarded Steam licensing policy I am no longer in posession of the game I have paid money for. The game has been ""upgraded"" by Rockstar into an unplayable mess. There's now a Rockstar launcher (which is straight up malware) and I am required to log in every time I wish to play, barring me from playing offline. A good portion of music has been cut and overall performance has now became much worse than before. 
+
+To add insult to injury - have fun sorting out which one of the inane redistributable packages did not install corectly, if you run your system as a local user without administrative access.
+
+At this point you'd be better off just downloading a cracked 1.0.6.0 or 1.0.4.0 version of the game.
+
+I would highly advise anyone from supporting Rockstar and buying their products, since the level of service is abysmal. You are not treated as a customer and, by continuing your support for the brand, you only encourage this type of scummy business strategy to be perpetuated further.",0.8796716332435608,394,False
+901583,223353967,76561197987722623,"I have stayed away from purchasing this even when on sale because of all the reviews saying you need this or that to get the game to run properly, and you should follow all these guides, and I did not want to deal with the hassle...
+
+Finally, I relented for $6, installed, started to bring up the guides and mods and etc., but then I thought: ""Screw it. I'm just going to try and run it first and see what happens.""
+
+Lo and behold, I'm hours into the game at this point and there hasn't been a single issue. What the hell? Running with highest settings, 2160p, mostly consistent 60 fps (v-sync). Am I lucky? Or are the issues overblown? Not sure, and YMMV.
+
+Of course, I could have issues later, or issues with the expansions, but right now everything is fine, and I've played for ten hours.
+
+Hope this helps.",0.8782138824462891,111,True
+901583,109567290,76561197983866813,"Best GTA to date, but be sure to get Definitive Edition mod | D.E.P. to restore all the cut songs as well as get some fixes along with it. Hopefully Rockstar doesn't try to remaster this one and make it a miserable vestige of its former self.",0.8764213919639587,109,True
+901583,178785461,76561197990739162,"Amazing game, *very* bad PC port. Make sure to patch the game with mods if you want to enjoy it properly. At a bare minimum, you should at least install:
+- FusionFix
+- DXVK
+- Various Fixes
+
+There's plenty of tutorials for each of them. Google is your friend! Happy gaming!",0.87638258934021,90,True
+901583,85339026,76561197973446821,When Rockstar taught us about the struggles of life instead of selling flying bikes for money,0.9693562388420105,1593,True
+901583,210194093,76561198041263062,">Installs mods to have a proper experience on modern hardware
+>Game works fine for months and months
+>Rockstar Games Launcher Update breaks the game I spent a long time fixing
+
+bruh...
+
+really sucks because this is one of my fav's, if not my all time fav GTA... if you can get it to work, it's a wonderful game and amazing story to play through, even in 2025. A lot of cool features and details from IV weren't expanded on or even included in GTA V, which really makes this game stand out as unique and timeless.
+
+Game is a 10/10 but Rockstar's management with their game client is atrocious.",0.8655555248260498,83,False
+901583,193647993,76561198191222302,"It's a great game, but if you want to play it, I recommend getting FusionFix. The game's physics engine is tied to framerate, so the game can (and will) break at higher frames. FusionFix can solve this problem by giving you a frame limiter, and other nice quality of life fixes.",0.8608629703521729,74,True
+901583,96985004,76561198267616189,"It's GTA IV. The best one.
+
+Spent a fiver on it and got 83 hours out of just the main game by aiming to 100% complete it. Now i still have the two expansions to 100%.
+
+10/10 would go bowling again",0.8599193692207336,91,True
+901583,206197427,76561198049069430,"One of the best video games ever made unfortunately held back by an absolutely atrocious PC port.
+[url=https://github.com/ThirteenAG/GTAIV.EFLC.FusionFix]FusionFix[/url] fixes a lot of what is wrong with the port, making it an essential improvement.
+Regarding the expansions, The Lost and Damned has the weakest storyline in the franchise despite solid mission design. 
+The Ballad of Gay Tony is a must play with some of the best action setpieces in the series and a great cast of characters, in some ways it surpasses the base game which is saying a lot.
+
+A 10/10 package but please grab FusionFix, the vanilla state of this port is genuinely awful.",0.858251690864563,75,True
+901583,206845674,76561198042042163,"Great title in the series, really liked Nico's story, and the overall city seems more gloomy.
+But due to Rockstar Games Launcher, I'm never buying another game from them ever. Third party launchers that start up after Steam should be banned, sorry not sorry.",0.8572739362716675,510,False
+901583,82940948,76561198132172019,"This game is excellent...
+From a narrative standpoint, this is by far the best and most serious title to date. Niko is one of my favorite protagonists from Rockstar Games right next to Arthur Morgan and John Marston. His character offers lots of depth and amazing character development the likes of which Grand Theft Auto games have never seen and haven't seen since. This game's writing is significantly better than any other GTA title to date. It tells the tale of running from your dark past and trying to bury your demons while pursing the ""American Dream"" from a unique perspective. This game can get you emotional sometimes just from the amazing performance of Michael Hollick as Niko Bellic. You can hear the pain in his voice when he's sad and the bloodlust anger when he is pissed, which by the way, Niko is a f***ing badass. His battle cries are something the newest game lacked on sorely whereas they are replaced with funny and quippy one liners that are played off for a joke rather than someone fighting for their life. From drug deals to illegal street races to robbing the biggest bank in Liberty City, this game has quite the variety when it comes to the missions it tells within its realistic narrative. You're not pulling off insanely audacious heists every 4 missions and somehow never getting caught like in GTA V... hell the one heist you DO actually do leaves you with dead friends and arrested associates which is much more than I can say for GTA V. The choices you make in this game will actually impact characters lives and leave you in a different place than you previously were. Overall the story is amazing and needs to be praised more often imo.
+
+From a game play perspective this game succeeds in areas that GTA V somehow misses. Long gone are the amazing physics and powerful feeling/loud guns that are featured in this title... a departure, I assure you, I have no idea was removed. Though the variety of weapons is weaker than GTA V, Shooting guns in this game feels much more impactful and satisfying. From shooting a car and leaving devastating bullet holes and damage, to hitting people and watching them react very realistically (sometimes even having dialogue specific to the body part ie ""Ow my f***ing leg!""). I will say that cars do feel slidey and slow in this game in comparison to GTA V, HOWEVER, I feel like it fits within this game especially because you dont need to being going 200+mph in a concrete jungle such as Liberty City.
+
+Multiplayer is amazing and if you have friends, then I suggest you get them together and play because this game offers tons of fun modes including the iconic ""Cops 'n Crooks"" mode that is exactly what it sounds like... I cant quite put my finger on it but this games multiplayer just feels more chaotic and laxed and you can just have fun and scream and laugh with your friends and you try to blow each other up with no consequences.
+
+The DLC in this game is phenomenal.. like I can't believe this is the quality DLC we used to get back in the day. Briefly, TLAD and TBoGT are both set during the same time as GTA IV's base story is taking place and interweave the characters and events beautifully. I much prefer this ""trio protag"" style than GTA V's because in this game we actually have time to develop each character and understand them whereas in GTA V you can't really focus on one character at a time and you are forced to just get to know them through each others interpretation of them and are just kinda wearing their feelings on their sleeves and there's not much more to them. TLAD takes place within the biker chapter in LC known as The Lost MC. TBoGT takes place within the night life of LC and you work within the club business as a body guard. 
+
+Overall this game is just so much better than GTA V imo and if you dont believe me, check out Crowbcat's video that is titled ""GTA IV is better than GTA V"" 
+
+buy it.",0.8571659922599792,84,True
+901583,23785267,76561198164325434,"I think that grand theft auto IV is a very good game. The best thing is that it is open world. Yes, it takes a little work to get it working, but its still very good game. Here are the steps that will help you get the game working (those steps were actually made by ☢☭Wolvix☭☢).
+
+1) Install Games for windows live MARKETPLACE Link - http://www.xbox.com/en-US/LIVE/PC/DownloadClient 
+
+2) Right click on Grand Theft Auto IV in your library
+
+3) Click on Properties 
+
+4) Click on the tab called LOCAL FILES
+
+5) Click on BROWSE LOCAL FILES
+
+6) There will be 3 files titled ""gta4encoder"", ""gta4browser"", ""gtaIV""
+
+7) (DO THIS STEP FOR ALL 3 FILES) Right click on the file, click on properties, click on comatibility, put a check on the box that says ""run this program in compatibility mode for:"", click on the drop down box and select ""WINDOWS VISTA SERVICE PACK 2"". (DON'T DO ANYTHING ELSE IN THE WINDOW) Now click apply.
+
+8) After games for windows live marketplace is finished downloading, install it.
+
+9) YOU DON'T HAVE TO MAKE A PROFILE, JUST CLOSE THE WINDOW.
+
+10) Run GTA IV
+
+11) *Optional* Make a rockstar games account for online, then launch the game.
+
+12) When you get in the game, a window will pop up for windows live. Just click on create a new profile, scroll down and click the blue text that says create a local profile (or something like that).
+
+13) Make the profile, then close the window.
+
+14) GTA IV Now works on your windows 10 PC",0.9066330194473267,271,True
+901583,217173699,76561199403432439,"Personal Rating: Extremely Positive (95%)
+
+Maybe older and not that graphically good than GTA 5, but that doesn´t stop it from being an amazing game. Man those physics are really funny to play around with. If you go above 120FPS and you´re driving a motorcycle, you will experience ice skating in turns.
+
+We didn´t need GTA 5 Enhanced, but we NEED a GTA 4 Enhanced.",0.8562414050102234,74,True
+901583,153788811,76561199130238915,"What should you do to stay healthy until 2025 and be able to play GTA VI?
+
+Sleep at least 8 hours a day.
+Exercise every day. 15-min walking or jogging are more than enough. This reduces risk of having a heart attack.
+Stay hydrated.
+Eat healthy. Important nutrients for eye health include vitamin A, vitamin C, vitamin E, zinc and omega-3. You can eat walnuts instead of potato chips while lying on the couch. Through that when walking on the street, you can see a car more clearly, notice obstacles such as potholes, sewer pipes on the ground and avoid injuring yourself.
+Reduce the risk of infection by paying attention to hand washing.
+Remove toxic people from your life. This helps to protect your mental health.
+If you smoke, please try to quit.
+Don't push anyone's buttons. You probably won't want to get beaten or killed.
+While it might not have a direct impact on your health, to enjoy GTA VI more, you'll need to focus on it. Stop watching porn and those ♥♥♥♥♥♥ 10-second videos that ♥♥♥♥ with your skill.",0.9052122831344604,231,True
+901583,233796700,76561198149401778,"This game brings back so many memories! I remember playing it back in 2010 after watching the trailer for GTA IV. I was totally hooked, playing it in my brother's room on the Xbox 360.
+
+I recently got it for my Steam Deck, and it runs like a dream! For those interested, the graphics are still great, and the gameplay hasn’t changed at all. You get the original GTA IV, plus the two DLCs: The Lost and the Damned and The Ballad of Gay Tony. I loved every minute of GTA IV and rushed through the storyline. I even earned the Achievement ""Liberty City Minutes,"" which means I finished the game in under 30 hours. I maxed out my friend list just to hang out with them and grab rewards, like Patrick giving you a bomb to put under a vehicle, or Little Jacob allowing you to buy weapons from him. Dwayne hooks you up with his buddies for backup, and Roman gives you free taxi rides. Overall, if you’re considering playing this game, definitely go for it! The story is fantastic, and the DLCs are awesome too. There’s so much great content: gameplay, weapons, vehicles, and more that I can’t even think of right now.
+
+Just a heads-up, though: when you’re in the Liberty City part, there’s one mission at the end where Niko has to climb onto a helicopter. Drops your frames to 30 FPS, which is strange because if you try to go above 60 FPS, the game glitches, and Niko won’t climb up. So, if you find yourself in that situation, make sure to drop your frames to 30 or lower. It’s a bit of a hassle, but just keep it in mind when you're finishing that mission.
+
+Honestly, it’s totally worth grabbing if you find it on sale. I highly recommend it! If you have a Steam Deck, it runs perfectly. You might want to use Python to optimize it, but seriously, go for it! It's a blast!",0.8549332618713379,84,True
+901583,143734703,76561199135502245,"IMO one of the best story out of the entire gta series with a more darker tone yet a more personal story compare to other gta games. The driving may be kinda difficult at first and the stuttering can be annoying but trust me you will enjoy it a lot most especially the gameplay and its physics.
+I highly recommended to buy it on sale since its more cheaper and is very frequently on sale",0.8531394004821777,99,True
+901583,209282392,76561199037518265,"[h1] GREAT GAME, BROKEN PORT [/h1]
+
+[b] TL;DR: [/b] Grand Theft Auto IV is a fantastic game. By many metrics, one could consider it a perfect game. Its' writing, world building, game mechanics, and physics are near flawless and years ahead of its' time. Unfortunately, as with many console games ported to PC, this game is extremely buggy. It is essentially unplayable without extensive modding. 
+
+That's the basics. More details provided below for context.
+
+This port was extremely broken upon launch. One of the most cited issues since has been poor optimization, for which the response from Rockstar at the time was that ""higher settings are provided for future generations of PCs with higher specifications than are currently widely available."" Indeed, as hardware improved over the years, so did performance. Unfortunately, as with many games, GTA IV's physics are tied to framerate. Since the game was designed to run at approximately 30 frames per second, there are several mechanics of the game that break entirely when the game exceeds 30 FPS. These are including, but not limited to:
+
+-Real-time cutscenes (severe physical stuttering and camera zoom)
+-Mission essential timers
+-NPC AI / pathfinding
+-Vehicle physics (turning, braking, sliding, etc)
+-Various minigames (e.g. TLAD's arm-wrestling)
+-Various mission-essential Quick Time Events (the very last mission of the game cannot be completed)
+
+Ultimately, the game's engine was not never properly adapted for modern hardware. This means, in addition to the aforementioned issues, you will also deal with these issues:
+
+-Ineffective utilization of CPU cores (even more CPU bottleneck)
+-Inefficient VRAM detection (forcing lower quality textures and reduced draw distances) 
+-Improper VSync implementation (screen tearing at high refresh rates and audio stuttering)
+
+Long story short, the game is completely unplayable without mods. So let's talk about how you can go about doing Rockstar's job for them. First, since Rockstar's occasional handful of patches did nothing but break several essential mods, you'll need to use a tool to downgrade the game to a previous version that will work with essential mods that haven't been updated. Once that's done, you'll need to find the specific mods you need (such as FusionFIx, OpenIV, etc.) Of course, several of these mods can conflict, meaning you'll either need to spend several hours modifying the files, or finding the specific versions that run together (for example, FusionFix version 1.10 is the only version that doesn't conflict with DXVK and ZMenu on game version 10.0.7.0,) Now that you've finished your doctorate in aerospace engineering, you can finally play the game. Provided you keep the game locked to 60 FPS, you shouldn't have any more issues. 
+
+My point in discussing this ad nauseam is that you shouldn't have to do all of this work just to play a PC port. This is a extremely beloved and influential game that has sold millions of copies worldwide. And yet, Rockstar has made no effort to fix this game on PC. They've remastered and rereleased nearly every other game in the series. Yet, even with Grand Theft Auto IV's recent cultural resurgence, it appears that Rockstar is concerned with more pressing matters, like milking GTA Online to death, releasing a $60 broken ""remastered"" GTA Trilogy port, and... *checks notes* porting Red Dead Redemption to Netflix. I really fucking wish I was joking.
+
+This game has a very active community, and high quality mods are still being released. If you've played the game enough and want to experiment with new modded content, go for it. If you haven't played it, you should probably just play it on console. If you don't have a console, go get an Xbox 360 off Ebay or something. Playing Grand Theft Auto IV for the first time on this abysmal dogshit port is something I wouldn't wish on my worst enemy.
+
+Fuck you Rockstar.",0.8511096239089966,99,False
+901583,198091255,76561199501906294,",,War is where the young and stupid are tricked by the old and bitter into killing each other''
+
+With everything going on in the world right now, this quote hits even harder.",0.8501595258712769,125,True
+901583,131217682,76561197993465157,"Fantastic game, even in 2023. Tips for new players in 2023:
+
+1) GSHADE: Install GShade and choose DXVK/Vulkan. Free performance uplift for any semi-modern GPU.
+2) DOWNGRADE RADIO: Use the community downgrade patch (google it) to restore the game to 1.0.8 or lower. (1.0.8 or 7 are most popular). This restores older radio stations. Choose Old Vladivostok Radio if asked.
+2a) EFLC RADIO LIMIT: Optionally, install the mod to limit the Episodes/DLC radio to their own episodes. This helps keep the tone of the main story from changing early on with pop and dance music drowning out the Vladivostok Russian radio.
+Optional easy enhancements:
+3) TIMECYCLE: Install a Timecycle mod of your choice (I use Sweet Autumn). There cost 0 performance, and go well with Reshade's expanded color space. (Timecycles control weather/color/tone at all times of day.)
+4) RESHADE RTGI: If your system can handle it, go subscribe to Pascal Glitcher's patreon for a month and grab an older release of his RTGI shader for Reshade and install it into Gshade. (I find 0.17 has the best performance. Newer versions look better but hurt the GPU more.). This can cost 5fps or so depending on the system, but adds immense depth to scenes.
+
+Long version:
+For best performance, you want to upgrade from DirectX 9 to Vulkan. Vulkan is massively faster than DX9, and the speedboost helps the game engine run at a solid 60fps without stutters, even when loading. Riding in a Taxi is instant teleportation on a good system. You can do this via a project called DXVK. It's as simple as dropping it into the game folder. DXVK can be setup via a DXVK.conf file (set maximum resolution here) and one of these settings allows you to enable true HDR by expanding the HDR color range. But wait, it gets better: Reshade offers modern post processing effects, but some of the more advanced effects in Reshade (as of January 2023) don't all work great with Vulkan in DXVK. 
+
+Enter Gshade. Gshade is a fork (variant) of Reshade, which has a slightly different Vulkan implementation than Reshade which works great with GTAIV. It also releases with a integrated DXVK version. So you get Gshade/Vulkan in one install. At a later time, Reshade may operate just as well, but at the time of writing Gshade was far more consistent in being able to offer depth effects in GTAIV. I use a light DOF, light bloom, levels (to expand the color range to full blacks), and RTGI 0.17.
+
+From there, you have GShade and Vulkan, and if you have used the downgrade patch, you have your game with original radios on 1.0.7 or 8. Now you can add a few community fixes (2DFX, FusionFix and ZolikaPatch) for the 1.0.7/8 releases, and suddenly your game is looking insanely good and running at a consistent 60fps+ with no frame pacing issues. Note: In ZolikaPatch, disable the ""quick startup"" and ""vram"" and ""memory manangement"" hacks, as these actually slow down DXVK.
+
+Timecycles are far more powerful than they sound. The timecycles alone, with no other mods, allow you to change the color grading, effects, and lighting of the in-game appearance drastically, with no external tools. The default game timecycles are meant to give a smoggy, grungy filter on the city. This is fine, but if you want to use other post processing, something a bit less heavy might be better. I use Sweet Autumn.
+
+""But what about ENBs or mods""
+This is up to you. Personally, I think an ENBs 5-10 years ago offered unparalleled enhancements and would strongly recommend it. But with how far the Reshade project has come, frankly there's not a ton that ENB offers that a good Reshade+Timecycle mod does not nowadays, and Timecycle mods are much easier to implement.",0.9488503932952881,838,True
+901583,216211830,76561198067550402,R* forced their a$$ social club launcher onto the game. Don't buy it until they remove it. END EXTRA LAUNCHERS FOR GAMES.,0.8475469946861267,547,False
+901583,66713771,76561197982273259,"One of my all time favourite games and potentially my favourite GTA (It's difficult to choose as I love them all, including the Stories games on PSP/PS2) of the entire series.
+
+For years I'd wanted to replay this masterpiece on PC as I had played through it to 100% completion many times on the Xbox 360. However, whenever I tried, I suffered the malice of many issues such as GFWL integration and the fact that controllers weren't natively supported within the PC version. However, I can now say these have all been rectified within the Complete Edition, I do of course feel some amount of sorrow when it comes to some players still suffering with issues such as VRAM that plagued the original depot available on Steam, as well as the obvious loss of multiplayer. I myself was never partial to the multiplayer aspect of this game as from what I remember it was a sequence of spawning at the airport and being insta-killed by hackers, similar to that of GTA V but worse.
+
+So while I can't comment too much on an aspect I'll personally never miss, I can happily say that the following issues were indeed fixed for me and I'm very thankful to Rockstar for doing so as I was never able to play this until the recent re-release, which I found very surprising as I'd only just discussed this with a close friend prior to them actually doing it. Wishful thinking actually came to fruition for once.
+
+• GFWL is now removed.
+• Full controller support. I'm using a 360 controller.
+• Ultrawide support.
+• Steam achievements.
+
+Like I said, I'm incredibly thankful for these things being made a reality as I've really enjoyed replaying through this gem of a game. The story, setting and character development within this title was never really captured within it's successor in my opinion. Niko is such a beloved character to me and while I did enjoy Franklin, Michael and Trevor's antics in GTA V, I never really felt the passion that Niko's character displays in GTA IV.
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=2031413538
+
+I've never really understood the hate towards this title, there's many things included in which again, it's successor missed out on:
+
+• Detailed side missions such as the Police Computer/Most Wanted missions.
+• The much more complex combat system.
+• The vehicle collision/handling mechanics and physics.
+• The option of picking up random items such as bottles and using them as throwable melee weapons.
+• The large variety of friend activities such as darts, bowling, pool and strip clubs (I realise GTA V has some of these but nowhere near as many.)
+
+Having just completed GTA IV's main campaign again, I'm looking forward to diving into it's expansions to which I also love dearly. Those being The Lost and Damned and The Ballad of Gay Tony, and while they don't quite hold up to the main game's story, they do introduce even more activities and pastimes such as the fight club in TBoGT to which I'm excited to once again play.
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=2049979041
+
+This game is truly a work of art that should be appreciated by every GTA fan. Once again, thank you Rockstar for making a wish of mine come true. I do wish you could have included multiplayer for those who enjoyed it but like I said previously, this hasn't affected me directly and of course, doesn't affect my review like it will others. I'm nothing but thankful that I was able to play this again to it's full extent.
+
+If I could make one suggestion, I'd also love to see the 10th Anniversary Edition of GTA 3 with Steam achievements show up on Steam. I love me some Liberty City so I'd happily buy it.
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=2048351624",0.8967601656913757,181,True
+901583,215114522,76561198239594626,"Why is there a launcher for this game on PC when I just want to play single player? Now I'm locked out of my account due to login issues to play a god damn 17 year old game, what the hell? What a scummy move from Rockstar Games, their greed knows no bounds.  This is exactly what is wrong with the gaming industry.  I will never give a single CENT to this company, ever.  What a disgusting business practice.",0.8440242409706116,324,False
+901583,124348743,76561198358140677,Don't even bother buying it. pirated version is by far a better option since you at least get a complete game. Almost all soundtracks that made this game so iconic has been removed. You are forced to use a 3rd party launcher in order to play the game and you have to be online to play an offline game(what a joke) and the only reason I'm giving it a thumbs up is  Niko Bellic.,0.8436529040336609,94,True
+901583,204256213,76561198056241976,Classic. Better than GTAV imo with slightly more detail in its gameplay mechanics.,0.8436493873596191,64,True
+901583,142169878,76561198969969724,"Guys, please do yourself a favor and download Dxvk plugin for this game. It's a Vulkan translation layer that has the potential to double your framerate. Yes, a program meant for Linux-to-Vulkan api makes GTA IV, a non-Vulkan game, run better on Windows - that's what a disaster this games coding is.
+You simply download dxvk, go into the x32 folder located in the zip file and then cut/copy d3d9.dll and dxgi.dll and put them into your GTA IV directory (where the games .exe is located)
+My game is now a stable 60fps 90% of the time with all high settings and I'm one of those scrubs on a decade old AMD 8350. I do adaptive V-sync via the Nvidia Control Panel, for what it's worth. The only downside, if you even use it, is that it disables the Steam overlay, but the Rockstar one remains active: so you'll still see your delicious achievements pop when you get them.
+
+Also, if your game is stuck at only recognizing 512mb of Vram - an old issue I thought was fixed but is apparently back thanks to Rockstars general incompetence and apathy - simply add a commandline via Steam in the launch options for the game with your Vram amount.
+For example, ""-availablevidmem 8192"" if you have 8GB of Vram on your GPU.
+
+It's hard to recommend this game without these improvements but once you get it running smoothly, you won't be disappointed. It's a travesty that we - as the consumer - have to jump through hoops and essentially do Rockstars job to make this game work well but those clowns have become a straight parody of themselves ever since GTA V online started making them half a billion a year. They've literally become one of the companies they would satirize in a GTA game, requiring their own customers to effectively do their programming just to make their game run adequately. It's frankly disgusting but welcome to the video game industry in 2021.
+
+Alright, rant over. I genuinely hope this helps you as it helped me because everyone deserves to experience this gem of a game free of issues.
+
+UPDATE: Editing my previous disclaimer to G-Sync/FreeSync users since more people have reported NOT having issues with dxvk than those who have.",0.9430922269821167,418,True
+901583,210711194,76561198050002024,"One of the greatest games ever made. Sadly Rockstar doesn't care to fix the PC port so look up ""The definitive way to play GTA IV"" on YouTube and follow the instructions. Trust me it's worth doing!",0.8426674604415894,50,True
+901583,219171535,76561198807637153,"Still my most favourite GTA game with most favourite main character as well. Best story that is darker compared to other games from this series, physics and open world itself as well. 
+I recommend installing Fusion Fix mod for even better experience since Rockstar didn't leave this game in the best shape here on Steam.
+
+Some good remaster would have been really welcome...
+Let's go bowling cousin!",0.8425668478012085,51,True
+901583,14181826,76561198046388160,Before starting the story you must face the strongest enemy of all - Windows Live.,0.8416086435317993,337,False
+901583,141990089,76561198288075215,"The best GTA ever made. The story mode is simply perfect. GTA 4 is darker in theme and colour pallet than any previous instalment, but it lends itself great to the overarching arc of the main character Niko. And the Liberty City as a whole. 
+
+W game, will never be able to recapture the fun I had in the multiplayer of this game from 2011-2013",0.8413761854171753,55,True
+901583,115483254,76561198836015885,Game is great. Best GTA game and it’s not even close. Lost and The Damned could be better but whatever. The reason I am leaving this review is to explain how genuinely awful the Rockstar Games Launcher is. This 100% SINGLE PLAYER (they removed the multiplayer) game is 90% unplayable offline because you can’t save when your not logged into Social Club. Why? Because god forbid 0.001 percent of people will pirate a 14 year old game that costs $6 (at the time of writing) on Steam. It’s not like those 0.001 percent will have a patch out in a week or would use a older version. Pathetic and scummy on Rockstars part. Worth $6 but not much more.,0.8409664630889893,151,False
+901583,122656153,76561198100710140,"GTA 4 is Amazing. But as a PC port is terrible trash. 
+
+To fix performance issues, you need to download DXVK (Specifically DXVK 1.7.3 if you have a RDNA2 graphics card - to remove any flickering issues ) 
+
+DXVK changes Games' API to Vulkan, increasing stability, performance and removing stutters. 
+
+ENJOY GTA 4!!",0.8406150937080383,73,True
+901583,147199311,76561198014057935,"I still think that GTA IV is the best GTA ever made. There's a bit of nostalgia for me in it, too, but still. I love the characters, the story, the atmosphere. I believe this game has the best physics, driving experience, and character reactions ever. Love playing the game even after all these years.",0.8401514887809753,66,True
+901583,222118626,76561198194960453,"First you should install a graphics enhancer mod, a realistic driving mod and various bug-fix mods.
+
+If you do, this game has the magical power of teleporting you to NYC in 2008. It has the darkest tone of aesthetics and storytelling among GTA games, with some really high quality subtle character comedy elements.",0.840013325214386,100,True
+901583,187997235,76561198122814841,"The most on point GTA game ever made. This is truly about doing whatever it takes to survive and building yourself from the ground up story Rockstar did in a GTA game. If it came out today, people would brand it one of the greatest games ever made, as it is it will be an underrated gem forever. If you want to know why the hype for GTA 6 is so high, why GTA 5 was such a success and continues to be 1, it's because GTA 4 truly was the groundbreaking game that propelled Rockstar as the pre eminent game making company of our time. Do yourself a favor, buy and play it because there is not much out there even today that rivals the reality of Liberty City here! Oh and always say Yes to Roman when he wants to hang with you!",0.8374099135398865,66,True
+901583,228975281,76561199484573494,FUCK ROCKSTAR LAUNCHER I HATE IT MORE THAN ANYTHING STOP GIVING ME SLOP LAUNCHER WITH YOUR GAMES. 10/10 game btw.,0.8364847898483276,83,True
+901583,187694099,76561198008976578,"Best Story telling,
+Best Physics,
+Best Gameplay
+Has the best intricate protagonist ever written in all GTA Universe - Embodies what ""American Dream"" is 
+
+4 > 5 
+
+10/10",0.8357905149459839,98,True
+901583,206073139,76561198964594351,"One of the most nostalgic games ^.^ 💙
+
+Downloading this game after a long time gives me a strange feeling (◑.◑) 
+I don't know if I should be happy that the games that exist now are so close to reality and have high graphics and ... ^.^
+But it's not as enjoyable as it was in those years  (╥﹏╥)
+Or should I be sad that those years passed so quickly? when everything was simpler, games were made with fewer graphics and more fun with more beautiful stories  ツ
+
+When I look back and these sounds come to mind, I'm glad I experienced these games during those years. I'm glad I was a part of them and these games were a part of my life 😎️💕
+The game has a great story and has several characters with interesting and different stories, and it is good in terms of story 💖 💖 💖 
+💗️ 💗️ 💗️ I'm glad that part of my memories is still alive and I can feel it 💗️ 💗️ 💗️",0.833665132522583,86,True
+901583,187121195,76561198857794100,"This isn't the complete edition, install the game with Fusion Fix, Radio Restorer, Various Fixes, and Console Visuals for your ACTUAL complete edition",0.9323909282684326,203,True
+901583,179884605,76561198067732587,No offline saves; DRM trash. What’s the point if I can’t play while I travel. Always online for single player should be illegal,0.8812534213066101,267,False
+901583,99230306,76561198340059414,"---{Graphics}---
+☐ You forget what reality is
+☑ Beautiful
+☐ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{Gameplay}---
+☑ Very good
+☐ Good
+☐ It‘s just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{Audio}---
+☐ Eargasm
+☑ Very good
+☐ Good
+☐ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{Audience}---
+☐  Kids
+☑ Teens
+☑ Adults
+☐ All
+
+---{PC Requirements}---
+☐ Check if you can run paint
+☐ Potato
+☑ Decent
+☐ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{Difficulity}---
+☐ Just press 'W'
+☑ Easy
+☐ Significant brain usage
+☐ Easy to learn / Hard to master
+☐ Difficult
+☐ Dark Souls
+
+---{Grind}---
+☐ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☐ Isnt necessary to progress
+☑ Average grind level
+☐ Too much grind
+☐ You‘ll need a second live for grinding
+
+---{Story}---
+☐ No Story
+☐ Some lore
+☐ Average
+☑ Good
+☐ Lovely
+☐ It‘ll replace your life
+
+---{Game Time}---
+☐ Long enough for a cup of coffee
+☐ Short
+☐ Average
+☑ Long
+☐ To infinity and beyond
+
+---{Price}---
+☐ It’s free!
+☑ Worth the price
+☐ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{Bugs}---
+☐ Never heard of
+☑ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{?/10}---
+☐1
+☐2
+☐3
+☐4
+☐5
+☐6
+☐7
+☐8
+☐9
+☑10",0.8310675621032715,111,True
+901583,228915470,76561199056929882,You have to download Rockstar's launcher and create an account and permanently link that account to your Steam account. Just to play this old ass game offline. Getting real tired of this...,0.8295987248420715,777,False
+901583,160461904,76561198131151467,"Maybe the best gta ever made, certainly the most atmospheric
+
+Niko is a great character, instead of making gta 5 for 3 console generations I really wish they would of given this a visual upgrade and first person camera
+
+
+Incredible",0.927581787109375,197,True
+901583,208231347,76561199391181960,"---{ Graphics }---
+☐ You forget what reality is
+☐ Beautiful
+☐ Good
+☑ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{ Gameplay }---
+☑ Very good
+☐ Good
+☐ It's just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ Audio }---
+☐ Eargasm
+☑ Very good
+☐ Good
+☐ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{ Audience }---
+☐ Kids
+☑ Teens
+☑ Adults
+☑ Grandma
+
+---{ PC Requirements }---
+☐ Check if you can run paint
+☐ Potato
+☑ Decent
+☐  Fast
+☐  Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{ Game Size }---
+☐ Floppy Disk
+☐ Old Fashioned
+☑ Workable
+☐ Big
+☐ Will eat 15% of your 1TB hard drive
+☐ You will want an entire hard drive to hold it
+☐ You will need to invest in a black hole to hold all the data
+
+---{ Difficulty }---
+☐ Just press 'W'
+☑ Easy
+☐ Easy to learn / Hard to master
+☐ Significant brain usage
+☐ Difficult
+☐ Dark Souls
+
+---{ Grind }---
+☑ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☐ Isn't necessary to progress
+☐ Average grind level
+☐ Too much grind
+☐ You'll need a second life for grinding
+
+---{ Story }---
+☐ No Story
+☐ Some lore
+☐ Average
+☐ Good
+☑ Lovely
+☐ It'll replace your life
+
+---{ Game Time }---
+☐ Long enough for a cup of coffee
+☐ Short
+☐ Average
+☑ Long
+☐ To infinity and beyond
+
+---{ Price }---
+☐ It's free!
+☑ Worth the price
+☐ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{ Bugs }---
+☐ Never heard of
+☑Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{ ? / 10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☐ 7
+☐ 8
+☑ 9
+☐ 10",0.8270776867866516,175,True
+901583,81800179,76561198123836735,"[h1]- DIFFICULTY -[/h1]
+
+🔲 Easy
+☑️ Hey Niko! Its Roman, lets go bowling!
+🔲 Normal
+🔲 Hard
+🔲 Very Hard
+
+[h1]- GRAPHICS -[/h1]
+
+🔲 Bad
+☑️  Bowling Graphics
+🔲 Graphics don't matter in this game
+🔲 Good
+🔲 Beautiful
+🔲 Masterpiece
+
+[h1]- MUSIC -[/h1]
+
+🔲 Bad
+🔲 Not special
+☑️ Bowling Music
+🔲 Beautiful
+
+[h1]- STORY -[/h1]
+
+🔲 This game has no story
+🔲 Like playing ""Temple Runners"" for the story
+🔲 It's there for the people who want it
+🔲 Well written
+☑️ This game about bowling
+
+[h1]- PRICE -[/h1]
+
+🔲 Free
+🔲 Underpriced
+🔲 Perfect price
+☑️ Game price costs 1 bowling match in real life
+🔲 Overpriced
+🔲 Complete waste of money
+
+[h1]- REQUIREMENTS -[/h1]
+
+🔲 You can run it on a microwave
+🔲 Average
+☑️ Need bowling ball
+🔲 Good PC
+
+[h1]- LENGTH -[/h1]
+
+☑️ Bowling time (30-15 minutes) (10 frames)
+🔲 Short (3 - 15 hours)
+🔲 Average (15 - 50 hours)
+🔲 Long (50 - 90 hours)
+🔲 Extremely long (90 - 110 hours)
+🔲 No ending
+
+[h1]- FUN -[/h1]
+
+🔲 I'd rather watch paint dry
+🔲 Hard to enjoy
+🔲 Repetitive
+🔲 Actually pretty amusing
+☑️ Bowling Fun and Adrenaline
+
+[h1]- REPLAYABILITY -[/h1]
+
+🔲 It's a one - time experience
+🔲 Only for achievements
+🔲 If you wait a few months / years
+🔲 Definitely
+☑️ Only with cousin Roman on bowling alley
+
+[h1]- WORTH BUYING -[/h1]
+
+🔲 No
+🔲 Wait for sale
+☑️ For bowling, YES!",0.8265407085418701,361,True
+901583,38360513,76561198069461289,"In my opinion, one of the best Grand Theft Autos made.
+
+Story:
+
+To be honest, story-wise, this is by far my favorite Grand Theft Auto. The characters, the atmosphere, and the backstory all blend together to make a great story. I like the story a lot more than GTA V, because I feel like there's more substance to the game. Niko Bellic is not a bad person on the inside. He's a tortured soul that's been through a lot, and the only reason he does what he does is to stay alive so he can make it out of the pits that he was forced into. in GTA V, it's really just another heist story that doesn't exactly have a deep plot. Also, I'm a sucker for mafia stories, and no GTA has done the whole mob story scheme better than GTA IV.
+
+Gameplay/Physics:
+
+Gameplay-wise, this is also probably my favorite out of all the Grand Theft Autos, primarily because it seems the most realistic out of all the games. The only thing that I could see people complaining about is the way that cars handle in this game, but honestly after a while it's really fun once you get the hang of it (This is coming from a guy who loves drift racing games. If you hate drifting, you're gonna hate the driving in this game) The car physics are amazing. The crumple points are super realistic compared to GTA V. Even the sound effects when you hit another car is super realistic. (I've been in a car accident before, and I've seen them happen, I know the sound.) The combat is also fantastic. This is the only GTA where the combat feels almost real. The AI is a lot smarter than in GTA V. When you shoot an enemy, they don't just flinch, they look like they actually got hit. They'll drop, they'll stagger backwards, they'll fall over, they'll put their hand where they just got shot. Much of the time enemies will limp away if you get them to the lowest health. In GTA V it seems a lot more like any other third person shooter, where they just flinch for a second and get up and start shooting again.
+
+Multiplayer (and arguably the driving) is the only thing I can say GTA V did better, but if it had the physics and gameplay of GTA IV, you would instantly have the best GTA possible. The main problem with the GTA IV Multiplayer is that it just feels kinda pointless, you don't really work towards anything.
+
+The only con that I can give this game for the PC is the fact that you need Windows Live to play it. I have never liked Windows Live, and I find it stupid that I'm forced to use it. However, that can't stop me from giving this game a positive review, because this really is one of my favorite games ever created.
+
+9.5/10!",0.8750103116035461,105,True
+901583,225405824,76561199117454403,"This game is a wonderful time capsule from 2008. That includes the political and economic climate at the time, the ""brown grey and realistic"" aesthetic, as well as the PC port quality (which is abysmal and requires third party fixes to run at modern standards). Rockstar still had something to prove when they were making this one. 
+
+Whether it's better than GTA V or not is debatable, and people do, but I personally think it's the best game in the series. With fusionfix and the radio downgrader that restores cut songs from the soundtrack, this game provides an experience that no other game can. This was Rockstar's first ever attempt at making a game that nobody else was able to at a time when everybody and their mother were still trying to make a clone of the older GTA classics that had already taken the world by storm. Almost 20 years later, I don't think any other game dev has managed to even get close to matching its quality. Many have tried, but nobody paid attention to the little things more than 2008 Rockstar did.
+
+It loses a lot of features from San Andreas, which many people (myself included) considered a major downgrade at the time, but it offers an unforgettable story, amazing fictional version of NYC, ridiculous but still entirely believable characters, and the best physics for combat and driving that still haven't been matched to this day except for RDR1. I put many, many more hours into GTA V and their other games, but IV goes for quality over quantity every step of the way.
+
+Tons of people complain about the driving physics, but they're the reason I constantly return to this game. The sense of speed and the control you need to have border on racing sim territory compared to any other game of its type, and I spend most of my time just racing around at max speed and crashing into stuff. Older muscle cars are made of steel and don't damage easily (but you're flying out the windshield), the new pop can aluminum ones crumple, old cars lack ABS, 4WD, FWD and RWD cars all handle entirely differently, and there's no artificial cap on the max speed the cars can go like in GTA V. The attention to every detail of the driving was a game changer. Never gets old. 
+
+The Ballad of Gay Tony is also arguably one of the best game expansions ever made.
+
+10/10, would reinstall and play every year again. 
+
+",0.8244401812553406,51,True
+901583,120207143,76561198430093862,"Best GTA with actual DLC. Fight me. 
+
+
+
+
+
+Not the best port tho,",0.9231022000312805,224,True
+901583,216644820,76561198069676252,2026 and this game is still FUCKIN' GOATED. A+ for nostalgia factor and the game still holds up well. enogh to be fun. Driving in this game feels better than driving in gtav fight me if you disagree.,0.8225953578948975,69,True
+901583,229563474,76561198073837454,"need an internet connection to play a 20 year old game, god save us",0.8218637704849243,138,False
+901583,192719331,76561199218260121,"I unfortunately never grew up playing GTA 4, I always used to play GTA 5 a shit ton but sadly never got around to playing GTA 4 until late last year on PS3 and now again this year on PC. While I'll always have a soft spot for GTA 5 I can understand why so many fans love this game more despite it's flaws, it's such a charming yet dark game in the series.
+
+Sadly the port for PC is dogshit, as much as Rockstar are incredible game developers they absolutely suck when it comes to porting/fixing their games for some weird reason. Luckily the best way to fix it is by using GranAlan-84's 'Grand Theft Auto IV: CE - The Improved Classic' mod that helps fix the bugs and glitches within the game and restore missing content like the songs that were cut due to expired music licenses. Other than this issue this is a game worth playing even if it's only once just to experience the story, it's worth every minute of your time :D
+
+Edit: Also I think it's worth mentioning a fix I found for the ""Taxi bug"" and/or the bug where every car that spawns is similar to the one your driving, I've seen people on here asking around on how to fix it so I thought I'd include it in my review. After you install the Improved Classic mod by GranAlan-84 (which includes the fusion fix that you'll need for this bug fix) if you go and open the INI of fusion fix, then find the line:
+
+[BudgetedIV]
+VehicleBudget =
+
+And enter a number value in there, I went and used 120000000 which most people seem fine with (although if you can you could also change it to 144000000 but I haven't tested it myself so I just recommend inputting 120000000 just incase) and then boom it should be fixed. I haven't experienced any issues thankfully but I have heard that your game could start to crash when you're on the bridge with a lot of cars (although this could probably be countered by reducing the amount of cars spawning in the in-game settings) or when you try to enter the mission ""snow storm"" from Elizabetha so I recommend proceeding with caution, if you can't progress the game any further at some point around this time then maybe trying putting the number value back to 0 and see if it fixes. I hope this helps :)",0.8218080401420593,54,True
+901583,197905355,76561198022354240,"Good game, but unfortunately has a requirement for the broken Rockstar launcher. There is absolutely no need for a single-player game to have a constantly-online third-party launcher and activation process, and I am currently unable to play it. 
+
+Rockstar support has been entirely unhelpful when trying to correct it and allow me to actually play the game.
+
+In it's current state it is broken, and Rockstar's support is abysmal. Absolutely do not recommend",0.8187165260314941,79,False
+901583,66948191,76561198176835405,Complete edition with all the previous bugs and issues included!!!,0.8685700297355652,145,False
+901583,30036477,76561198078193056,"[b][i]""WHEN THE WAR CAME, I DID BAD THINGS, BUT AFTER THE WAR I THOUGHT NOTHING OF DOING BAD THINGS. I KILLED PEOPLE, SMUGGLED PEOPLE, SOLD PEOPLE.""[/i][/b]
+
+Everybody was looking forward to 3rd December 2008. The release day of PC version of Grand Theft Auto IV. 3 years later, I found out that some GTA IV exists, when I randomly saw ""Move Up Ladies"" trailer. Back in 2011 I used to run on Windows XP Service Pack 1. I had to upgrade. SP3 was needed. I never upgraded, and when I did month before to W7 I ruined that. I can't exactly remember how it all went down, but all I remember is, that mother cooked me soup, and while the computer was installing Service Pack 3, I was inpatiently waiting in the kitchen eating that bomb soup. Full of excitement I came to my room and that glorious legendary Windows XP background was shining at me and I immidiately started screaming ""OH YES OH YES OH YEEEEEEES"". 
+After that, there was absolute silence in my room for a week. Why? Because I was playing Grand Theft Auto IV.
+
+Now, we all know that it's legendary and before GTA V it was totem to most of the gamers who managed to run it. That optimalization was and is problem to lot of gamers, but it all was a price of the revolution. Maybe, I didn't say it correctly, because [b]revolution is change of something and after that it follows. But no game was able to follow GTA IV.[/b]
+
+Physics was totally heaven. It was like from another planet. Just imagine, 9 freaking years ago, game like GTA IV was out. That game didn't even had competition. Still I'm not sure if there's game close to that physics that we were introduced to back in 2008. Yeah I know GTA V bla bla bla bla. Sound, graphics, story, visuals, city, just every everything was new level. 
+
+Storytelling and dialogues are gripping as hell. It's really deep and intense, with absolute dedication to detail. Liberty City is dark and so is story. Liberty City is beautiful, sad, sombrely. New York in your hands. Everybody has to play it at least once, so I believe there's no need of going into the story, and if so, I'll just tell you to play it because you won't regret it.
+
+Recent update helped a game a bit, but modders used to downgrade. Mods extend the gaming experience. Game will last you easily around 30 hours. It's highly replayable. I can't even count how many times I've finished that. Easily over 10 times. Multiplayer was and is just a bonus addition. Nothing big, nothing real. GFWL sucks, everybody agrees with that. 
+
+Game expansions have been already reviewed so you can check it in my profile. If I forget about anything, let me know please. To sum it up - legendary game that everybody must finish with amazing story and storytelling, awesome visual and physics and great overal gaming experience. 
+
+[b]Bonus Point: Soup from my mother[/b]
+[h1]Rating: 9.5/10[/h1]",0.8178354501724243,123,True
+901583,196516476,76561197998883514,"Take-Two and 2K games have updated all their games Terms of Service, turning this game as well as all of their other games into literal spyware.
+
+Important Info in Terms of Service:
+• Mods are a bannable offense
+• Display of Cheats/Exploits is bannable
+• Forced arbitration clause and a waiver of class action and jury trial rights for all users residing in the United States and any other territory other than Australia, Switzerland, The United Kingdom, or The Territories of The European Economic Area
+• You can be banned for using a VPN while connecting to online servers
+• Cannot access game content on a Virtual PC
+
+Collected Data Types:
+• Identifiers / Contact Information: Name, user name, gamertag, postal and email address, phone number, unique IDs, mobile device ID, platform ID, gaming service ID, advertising ID (IDFA, Android ID) and IP address
+• Protected Characteristics: Age and gender
+• Commercial Information: Purchase and usage history and preferences, including gameplay information
+• Billing Information: Payment information (credit / debit card information) and shipping address
+• Internet / Electronic Activity: Web / app browsing and gameplay information related to the Services; information about your online interaction(s) with the Services or our advertising; and details about the games and platforms you use and other information related to installed applications
+• Device and Usage Data: Device type, software and hardware details, language settings, browser type and version, operating system, and information about how users use and interact with the Services (e.g., content viewed, pages visited, clicks, scrolls)
+• Profile Inferences: Inferences made from your information and web activity to help create a personalized profile so we can identify goods and services that may be of interest
+• Audio / Visual Information: Account photos, images, and avatars, audio information via chat features and functionality, and gameplay recordings and video footage (such as when you participate in playtesting)
+• Sensitive Information: Precise location information (if you allow the Services to collect your location), account credentials (user name and password), and contents of communications via chat features and functionality",0.8168768286705017,510,False
+901583,100586987,76561198081894036,"GTA4添加官方中文，大表哥1上PC，这两件事是R星最应该做的，而不是重制老三部曲和GTA5
+
+There are two significant things that Rockstar games should have done long time ago instead of remaking GTA trilogy: official Chinese subtitle for GTA4 and transplanting Red Dead Redemption to PC. GTA5 has caught too much attention!",0.8631781935691833,137,True
+901583,44054338,76561197970566534,"The Game won't let you save or load anymore because ""Games for Windows Live"" doesn't seem to be supported any longer...
+Also Rockstar took the liberty of removing quite a bunch of beloved songs from the outstanding soundtrack because they must have thought that they are too poor for renewing a few licenses... I feel kind of robbed and can't recommend this game in this state to anyone anymore!!!!!! F. Rockstar...
+
+UPDATE: It's that time of a year again when Licensed Songs expire for a Rockstar Game... The time has come for ""Episodes of Liberty City"" now... But this time Rockstar snatched an entire Radio Station from the game (which was my favourite radio station as a matter of fact)... So that ""everyone can still enjoy this game"" (as Rockstar calls it in Update-News), ""Games for Windows Live"" finally got removed from the game, which would be a good thing, if it did not get replaced by that friggin ""Rockstar Launcher"" which causes the problem, that the majority of people can't even start the game any longer without overcoming many new problems (check the Community Hub Discussions!)... Why couldn't they just have left all the people out of the recent changes, that already had bought ""GTA IV"" and ""Episodes From Liberty City"" seperately before, stop the Sale of those two individual products, and offer the new crippled ""Grand Theft Auto IV: The Complete Edition"" only for new customers???!!! Why have even old customers to suffer from those stupid changes and be ripped off like that???!!! Because it is Rockstar!!! That's Why!!! Too bad, that most people don't even see what a F***ed Up and greedy Company Rockstar has become... Don't expect to see any of my money in the future, Rockstar...!!!",0.862899124622345,216,False
+901583,207666211,76561199493663319,"After spending over 100 hours worth of completing every achievement and 100% completion in every episode of this ""trilogy"", I can confidently say that this is, indeed, the best gta. An average product of Rockstar Games already sits at a very high quality, and while gta 4 maybe isn't necessarily their magnum opus; it definitely stands proudly at the podium. 
+I have put tens of hours previously on ps3 and x360, and this was my first time experiecing this game on pc. As many already know, this port is FAR from even a decent stage; do not come near to it without installing [url=https://fusionfix.io/iv] Fusion fix [/url].
+Highly recommend it, a must play. 
+10/10",0.8127692937850952,43,True
+901583,76720084,76561197995524059,"Amazing experience playing through this game again on PC after all these years. 
+
+I recommend you use 'Running GTA 4 in 2020' and a few more community guides before starting a new game. 
+
+These will address some of the many performance issues that some people are experiencing, and increase the amount of RAM/VRAM the game can use.
+
+I have the game set to the maximum settings running at around ~100 FPS with VSYNC OFF. 
+With a GTX 1660S and i5 9400f and 16gb RAM. 
+
+Even though getting the most frames is nice, I also recommend capping your game to 60 FPS, through the NVIDIA control panel or other method. It fixes alot of issues with cut-scenes and smooths out some physics problems. 
+
+Good luck in Liberty city cousins!
+
+
+",0.8122951984405518,49,True
+901583,65351285,76561197991851167,"How to make an already bad PC Port somehow even worse, the Rockstar Games way:
+
+Step 1. Have an already horribly unoptimized mess of a game sitting on the Steam store for nearly a decade
+
+Step 2. Never update with bugfixes or to remove the deprecated DRM that's either incompatible with new CPUs (SecuROM) or is just offline forever (Games For Windows Live)
+
+Step 3. DO update the game when you don't feel like paying for a handful of licensed MP3s.
+
+Now a kinda funny thing happens because of Step 2. Where folks are no longer able to play because you ran out of CD keys for the online component. Now, any other competent company would just re-work the game to take out the dead live service and continue to let players enjoy the game but that's not what we're here for. 
+
+Step 4. Just remove the entire multiplayer component because fuck it, you're too lazy to actually fix the problem.
+
+Step 5. Remove even more music from the game because fuck it, you're too lazy to pay for it. 
+
+Finally, make sure to update everyone's copy of the game with the new version so even if the multiplayer component was working perfectly fine for them NOPE no fun allowed. Also it breaks their saves apparently, whoops.",0.8118653297424316,162,False
+901583,200736203,76561198079527963,"Downgrade to an earlier version and set up a Multiplayer component then get friends to play with and then it's completely worth your time. 
+
+GTA 4 Multiplayer > GTA 5 Online",0.8115262985229492,98,True
+901583,84469804,76561198393005716,"It's basically a remake of GTA 3 with a bigger budget, a new cast of characters and solid storytelling. 
+And it's still incredibly captivating.
+
+4/5",0.8108780384063721,149,True
+901583,196794027,76561197990155409,"Rockstar is using Take 2 Games data sharing pages, it's opt-out only, not opt-in, please look at the  Account > help > do not sell my data and follow the links from there to see the links to T2G stuff, please remove these practices.",0.8605124354362488,360,False
+901583,43634862,76561198071613997,"I have always prefered this over GTA5 just because of the memories of it on PS3 and Xbox 360. 
+
+Fixing the game and making it work is pretty easy. 
+Option 1) Google ""GTA 4 Steam 2018"" and follow the guides
+Option 2) Google ""GTA 4 latest patch"" and dowload/install 
+Option 3) Deal with it. 
+
+10/10 would reccomend. 
+
+Oh, and you don't get banned for using reshade :)",0.8592647314071655,77,True
+901583,167119687,76561198140862977,"Yet another great game ruined by another launcher being needed to launch it. It's like a rocket launch every time you want to open it.
+
+UPDATE 10/21/24:
+I fucking hate Rockstar Games Launcher. Getting mods working is hard enough but this stupid bullshit with ""GTA 4 quit unexpectedly"" is so fucking annoying. What, Rockstar, is your perfect masterpiece untouchable and you don't want the plebs to get their dirty paint covered hands on the canvas? Or more likely than not, your parent company is made up of soulless suits who will send PIs/Pinkertons to modders houses? People who love your video games and do what they do soley out of passion for your video games, Rockstar? I know there are plenty of passionate, well-meaning people working at your studio but the leadership suck. Fuck them. They are Rockstar. Fuck Rockstar.",0.856856644153595,170,False
+901583,214137261,76561199041987183,"""War is when the young and stupid are tricked by the old and bitter into killing each other""-Niko Bellic , Liberty City,2008
+
+Actual review - This game is such a masterpiece and different from the other GTA games. The game itself tell the American reality and express the dark life of the main game protagonist Niko Bellic who tries to improve his life but always getting caught by his haunted past .The game atmosphere is so unique I don't know why but I feel like I am in New York city actually sometimes. The characters, gameplay, storyline , atmosphere , etc. Feels so real . This game is ahead of time, this game contains a lot of details which can't be described in the single review . The game has a lot of things to do you will not be bored to do . Unlike other GTA games the money making is really tough in GTA 4 and the expenses is really high like hospital bills, weapons, etc .There are  a lot of activities to do in this game like bowling, playing darts , watching show ,etc . The game is really good in physics and the gunplay feels so real . 
+
+Lets talk about the things I don't like about this game or let's just say criticisms . The car driving mechanism feels little bit bad and the helicopter is so terrible . The game was too ahead of time but they don't have checkpoints in the mission meaning that you have to restart the whole mission I don't know why they don't put this checkpoint feature in this game or they forget about this . The optimization of this game is worst  . That's the things I have faced in game so far although there are some minor problems but I don't think it is justified to criticize although . At the end of the review game this is the one of the best open world games I have played and you should play this game too ,it's really amazing and unique from other GTA games due to it's dark atmosphere and highly detailed game . Purchase in the sale ofc .
+
+My personal review to this game - 9.7/10 :)",0.8039432764053345,52,True
+901583,94979136,76561198008376294,"Grand Theft Auto IV means the matureness for Rockstar, abandoning -though not completely- all its insane humor and arcade action, this chapter of Niko Bellic captures the essence of the American society with black humor, great narrative and the characteristic 'sandbox' gameplay that the franchise has featured all these years. For the PC version all stays the same: only the great technical optimization and the original video-editor are present as news. But, when you leave a masterpiece exactly the same, it's a right move.",0.8021556735038757,45,True
+901583,212897537,76561199800363207,"GTA IV delivers one of the darkest and most realistic stories Rockstar has ever created. Liberty City feels alive in every corner, and Niko Bellic is one of the best-written protagonists in gaming. The combat may feel dated compared to newer titles, but the physics, atmosphere, and depth of storytelling easily make up for it. If you value narrative over flashy graphics, this is still a masterpiece.",0.8009911179542542,40,True
+901583,189416822,76561199042392317,"GRAPHICS
+🔲 You forget what reality is
+🔲 Beautiful
+✅ Good
+🔲 Decent
+🔲 Bad
+🔲 Terrible
+🔲 Don’t look at it
+
+GAMEPLAY
+🔲 Very good
+✅ Good
+🔲 It's just gameplay
+🔲 Meh
+🔲 It sucks
+🔲 Just don't
+
+AUDIO
+🔲 Eargasm
+🔲 Very good
+✅ Good
+🔲 Not too bad
+🔲 Bad
+🔲 I’m now deaf
+
+AUDIENCE
+🔲 Kids
+✅ Teens
+✅ Adults
+🔲 Grandma
+
+PC REQUIREMENTS
+🔲 Check if you can run Paint
+🔲 Potato
+✅ Decent
+🔲 Fast
+🔲 Rich boy
+🔲 NASA computer
+
+GAME SIZE
+🔲 Floppy Disk
+🔲 Old Fashioned
+✅ Workable
+🔲 Big
+🔲 Will eat 10% of your 1TB hard drive
+🔲 You will want an entire hard drive to hold it
+🔲 You will need to invest in a black hole to hold all the data
+
+DIFFICULTY
+🔲 Just press “W”
+🔲 Easy
+✅ Normal
+🔲 Significant brain usage
+🔲 Hard
+🔲 Dark Souls
+
+GRIND
+🔲 Nothing to grind
+🔲 Only if u care about leaderboards/ranks
+✅ Isn't necessary to progress
+🔲 Average grind level
+🔲 Too much grind
+🔲 You'll need a second life for grinding
+
+STORY
+🔲 No Story
+🔲 Some lore
+🔲 Average
+✅ Good
+🔲 Lovely
+🔲 It'll replace your life
+
+GAME TIME
+🔲 Long enough for a cup of coffee
+🔲 Short
+🔲 Average
+✅ Long
+🔲 To infinity and beyond
+
+PRICE
+🔲 It's free!
+🔲 Worth the price
+✅ Better if it's on sale
+🔲 If u have some spare money left
+🔲 Not recommended
+🔲 You could also just burn your money
+
+BUGS
+🔲 Never heard of
+✅ Minor bugs
+🔲 Can get annoying
+🔲 Bethesda/Ubisoft
+🔲 The game itself is a big terrarium for bugs
+
+? / 10
+🔲 1
+🔲 2
+🔲 3
+🔲 4
+🔲 5
+🔲 6
+🔲 7
+✅ 8
+🔲 9
+🔲 10",0.8003807067871094,183,True
+901583,174228599,76561198078716748,Need a Rockstar account to play my single player game that when I originally purchased require no such account.  Love how these companies can amend the terms of a sale after the sale and our spineless governments don't throw these criminals in prison for such blatant crooked behavior.,0.7997668385505676,84,False

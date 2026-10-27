@@ -1,0 +1,1442 @@
+appid,recommendationid,author_id,review,weighted_vote_score,votes_up,voted_up
+268050,94672291,76561198291240499,"Very good game but in order to be playable first do this 
+
+1. Under steam launch options set: ""+com_allowconsole 1 _""
+2. When in game, press Insert to open the in-game console
+3. Type R_swapinterval ""0"" into the in-game console
+
+Congrats, no more 30fps cap!",0.8494299054145813,61,True
+268050,12512515,76561198022658238,"Before the actual review.
+The devs finally added framerate cap and letterboxing options. Enabling console doesn't prevent you from getting achievements anymore. While these options should've been there from the beginning it's nice to see that these issues have been addressed.
+
+Actual review.
+I'll keep it semi-short, I don't want it to be bloated. Story spoiler-free.
+
+Short introductions.
+The Evil Within (TEW) is an oldschool survivor horror game with semi-tanky controls. If you'd ask me which games does TEW remind me of then I'd say Silent Hill, Resident Evil 4, Outlast and Alone in the Dark. If you ever played any Silent Hill title then you'll notice the familiar dirty, rust and blood covered dilapidated locations, scary mental hospital with beds and wheelchairs all over the place. The game is medium paced, which is good and bad at the same time. It's good because it doesn't get boring. it's bad because it decreases the horror factor. Puzzles are there, but really scarce and simple.
+
+The visuals.
+The game has some really nice lighting, reflections, shaders, particles, post processing effects and dynamic shadows. Depth of field and film grain make a really good combo here and add a lot to the experience. The locations are well made, a lot of attention to the detail, even though there are some cheap visual solutions (like 2D rock textures on water). The polygon count on most of the objects is medium, texture quality is mediocre at best. The worst textures I've noticed were the beginning (the city) and mostly rubble, no notable HD textures. City destruction is nicely looking, but is entirely scripted. Most of the animations are smooth, jerky ones have been fixed in the first patch.
+
+The enemy types.
+This contains some partial spoilers. Throughout the game you'll be greeted with different types of zombies (Haunted) and their sub-mutations. Just like in Resident Evil 4 you stumble upon angry villagers. Some of them will attack you with bare hands, some of them use torches, knives, hammers, sickles, molotovs and even crossbow, guns and sniper rifles. Notable mutations: invisible zombies (barely visible, fully visible on hit), two headed monsters with a surprise (AlterEgo). There are also mini-bosses and actual bosses.
+
+The combat, mechanics and AI.
+Many people mentioned that it's like RE4 on steroids. Semi-tanky controls, you can't dodge or counter. If you get hit you're usually given time to recover and fall back. Unless it's an instakill attack. Oh yes, there are plenty of enemies in this game that can instantly kill you. But unlike in RE4 you can actually move while you aim and now you have the option to use stealth.
+
+You can sprint (uses stamina), run and duckwalk. You can't shoot while you're duckwalking as it's meant for stealth kills (you sneak up behind enemies) and trap disarms. There are two types of traps: hidden ones that can be simply disarmed by holding the button (bear traps, string triggered dynamite, etc) and more obvious, but dangerous sticky bombs. You disarm them by pressing the button at the right time, otherwise it explodes. Each trap gives you crafting material. Check weapons sections for more about that. If you accidentally activate a trap then you can expect: small to high health loss or instant death.
+
+The game has RPG elements. Throughout the game you'll find green gel (that is used to upgrade various physical abilities and even weapon effects), ammo, materials, collectibles and matches. There's health regeneration. If your health drops below ~20HP then you'll be unable to sprint, but you're able to recover it back just by standing. Your melee consists of slapping and kicking enemies. Useful for finishing off or pushing away zombie type enemies, but generally not recommended for more serious enemies. Stamina bar enables you to sprint. The default sprint time is around 3 seconds and when stamina is below 30% you slow down to usual speed. If it reaches 0 then you stop completely and catch your breath (completely vulnerable).
+You can upgrade your ammo capacity and weapon efficiency (damage, fire rate, reload times, accuracy, clip size, etc).
+
+Stealth is a nice addition (works only on Haunted). You sneak behind the enemies and instantly kill them. This works in following scenarios: a) the enemy is standing in one place; b) the enemy is patrolling back and forth. You have a lantern which is your own source of light. It really helps to see where are you going, makes you clearly see the traps but also gives away your position to the enemies. Making loud noises (slam open a door) also can catch enemy attention. Knowing that you can use glass bottles to either distract them or stun them by throwing the bottle against their head (after that you're given time to stealth kill them). Stealth killing is a nice way to conserve ammo and if you have the chance to do so - go for it. If you get spotted then you can deal with them the usual way.
+
+Enemy attack patterns are worth a mention. Most simple ones are punches (or swings with the weapons), kicks and dash attacks. Dash attacks of melee zombies are quite dangerous as they go into berserk mode and try to hit at least 3 times. Crossbow/gun enemies usually take time to aim at you and then shoot. Sniper rifle enemies hide behind cover and then take their time to shoot at you. Shooting a zombie in the knee usually makes them fall. All of the enemies are weak against fire. if you have matches then you can burn corpses (REmake style), hay or even downed still alive enemies (hence shooting in the knee). Igniting something will set on fire all nearby enemies. You'll stumble upon plenty of corpses throughout the game, some of them can be used to ignite other enemies. Some of them can become alive depending on your actions (so it may be wise to burn some before you pick up an item or activate a mechanism).
+
+The enemy AI is also mediocre and could've been better. As soon as they spot you they'll start moving or running towards you. Detection sometimes fails and they spot you when you're behind them, crouching. Sometimes they might get stuck, run in circles or simply charge at you and end up running against the wall. I've also seen some weird patrol patterns. Like I mentioned before loud noises alert them (be it doors or you stepping in a trap). To avoid direct confrontation you can either hide in closets or below beds and tables or use the traps against them. Most notable con is the big amount of enemy invulnerability frames (you shoot, but they don't react / take no damage).
+
+In some chapters you'll stumble upon your partner. Shouldn't be too problematic as you can heal your partner by just standing next to 'im and holding a button. No need to share your ammo either.
+
+Weapons.
+Semi-traditional Resident Evil layout. Handgun (revolver), shotgun, crossbow (with different bolts), sniper rifle, magnum, rocket launcher. Most are upgradable, crossbow is worth a special mention. You find different bolt types for it, after that you can craft them from materials gathered from the levels and traps. Bolt types: harpoon, proximity explosives, flashbang, electric shock, freeze and DLC ones. Useful in combination with other weapons.
+
+Due to character limit I'll have to wrap it up aka tl;dr version.
+TEW offers a nice oldschool survivor horror experience, the locations and atmosphere are nice, but it's far from perfect either. Some chapters are more action centered and the game becomes zombie slaying action game (like Resident Evil 4 Chapter 5 island parts). I don't think that arena style battles (especially against enemies with weapons) was a good idea either. There are cheap deaths, especially in escape sequences, but in the end even with all its flaws I would recommend the game as it's entertaining and fun to play.
+
+I couldn't fit in the full review, so ask me questions in the comments.",0.8301244378089905,482,True
+268050,164977558,76561198033002512,"In a time when Resident Evil games were garbage and Dead Space 3 messed up the entire franchise, Tango and its Evil Within were the shining hope of Survival-Horror enthusiast. Rest in Peace Tango we will never forget you.",0.8211382627487183,55,True
+268050,32421323,76561198053843295,"[I][b]A Game doesn't have to be similar to another Game to be Great, but it never hurts to Try[/b][/I]
+
+[h1]Introduction[/h1]
+
+When talking about a game made by a fan-favorite creator of good ol' Resident Evil 4, Shinji Mikami, expectations have arisen. I loved playing RE4 on my Gamecube, and then again on the PC trying to get almost all achievements. Can The Evil Within win my heart as RE4 did so long ago? It did to a degree, but not entirely.
+
+I've just finished Nightmare mode as of writing this, so I have a fair evaluation of the game.
+
+[h1]Story[/h1]
+
+The story revolves around a detective by the name of Sebastian Castellanos who was just called in after just coming off a case. The report was multiple homicides at Beacon Mental Hospital.
+
+After a rather odd noise is heard and nearly driving off the road, the detective and his two companions Joseph and Kidman, walk to the door.
+
+From here, I will not spoil, but the result is a often confusing mess of information that some people will not understand until later. The story gives you bits and pieces no solving it, while not entirely giving it away. Even after the end, I still was scratching my head a little in regards to some of the story. However, I found myself figuring out the main plot rather easily, but just missing some parts at the end. It also didn't completely answer some questions which knocked points off for me.
+
+A person has to pay very close attention to the details and information in the game to properly understand the story in its entirety which I will admire though.
+
+[I][b]Note I'd advise after finishing the game, to take a look at the bonus trophy section. It explains a LOT more then you'd realize.[/b][/I]
+
+[b]Rating 7 1/2[/b]
+
+[h1]Gameplay[/h1]
+
+Here is where a few similarities will come into play, but we'll hold off on that.
+
+The gameplay is 3rd-person shooter, with emphasis on action, and some stealth mixed in. Stealth I would like to point out, is crucial in some areas to save ammo, especially on harder difficulties. Over the course of the game, you're given different weapons, craftables, and more besides.
+
+Difficulty is at a good pace. You have Casual for players that aren't as good and who just want to enjoy the story, you have survival which is basically normal mode, Nightmare which can be hard at times but much more fun then survival. Sadly you cannot access it until you beat Survival. Then we have Akumu.....I'll be honest and say that I tried to do this, but then when I realized that I'd have to face certain areas where I'd often get nicked, I did not want to go through that torture. Akumu is basically one-hit-you-dead. (masochist mode)
+
+One thing that people have often complained about is the spikes in difficulty at parts. I'd like to alleviate those fears and say that while they're difficult, it just requires a different approach. Once I figured out an easy way to stop enemies with a certain craftable, I was much more happy.
+
+The creep factor is nicely prominent in the beginning 3-to-5 (depends on the person) chapter areas, but begins to lose ground as you progress and get used to the enemies, and the shock factor just deteriorates. Each new chapter contains several little hidden nooks and cranny's that treasure hunters will sure to love. (seriously some hiding spots are EXTREMELY hard to find if you're not looking carefully)
+
+New Enemies appear at a decent pace which I like, and some will eventually have new things given to them. It's sad that they threw out one of THE most creepy mobs in the game later on which left me kinda sad because they were so unpredictable at times.
+
+Bosses have a good difficulty to them. Not too easy, but not too hard either
+
+The game, sadly, is rather linear. This took some points off for me.
+
+You'll face various things like bombs, traps, and more. You'll play little minigames of defusing a bomb and it's a risk, but the rewards are extra parts to craft items later.
+
+[b][I]Rating 7[/I][/b] 
+
+[b]RE4 Mechanics are here and the nostalgia is oh, so sweet![/b]
+
+Enemies dodge just like RE4
+We got our loving Sadist (not spoiling but you-know-who that refers to in RE4)
+Enemies will point at you and react to you just like RE4
+Ammo is Scarce like RE4
+
+Only thing that wasn't as prominent: You can move while aiming down sights! You can reload AND run without having to stop and pause in the middle of enemies! BLASPHEMY V
+
+(Just a joke haha)
+
+[h1]A Final Verdict[/h1]
+
+So has this game lived up to RE4 and rekindled my love? Partially. It has several elements that I liked, but others I didn't. 
+
+It's a good game with some flaws that hold it back from being GREAT. Hopefully the upcoming The Evil Within 2 will address some story plot, gameplay, (either get rid of stealth or make it better just choose one dang it!), better level design, and a few other quandaries that I had.
+
+[h1][b]My Final Verdict 7 1/2[/b]
+
+[h1][b]It's a very fun game with some RE4 nostalgia, and replayability. I recommend it.[/b]",0.9162588119506836,144,True
+268050,187336178,76561198206823421,"[b]When The Evil Within was first announced, it was impossible not to be excited—a survival horror game directed by Shinji Mikami, the mastermind behind Resident Evil 4? Sign me up! What we got was a terrifying, mind-bending experience that felt like a spiritual successor to Resident Evil, but with a psychological horror twist that made it stand out.
+That being said, this game does not hold your hand. If you jump in expecting a straightforward horror story, think again. The narrative is cryptic, fragmented, and deliberately confusing. You won’t fully grasp what’s happening on your first playthrough, and even by the end, you’ll still be left with questions. The DLCs, which were released later, provide the missing pieces of the puzzle.
+So, if you love intense horror, a slow-burning story, and classic survival horror mechanics, The Evil Within is a game that will haunt your mind long after the credits roll.[/b]
+
+[h1]A Survival Horror Experience Rooted in Resident Evil[/h1]
+[b]Right from the start, you can feel the Resident Evil DNA in The Evil Within. The over-the-shoulder camera, limited ammo, inventory management, tense enemy encounters, this game feels like a darker, more psychological take on Resident Evil 4.
+But unlike Resident Evil, where the story is usually easy to follow, The Evil Within throws you into a nightmare without context. You play as Detective Sebastian Castellanos, investigating a gruesome crime scene at Beacon Mental Hospital. Within minutes, reality twists into a hellish nightmare, and you are fighting for survival against grotesque monsters, surreal environments, and a villain who seems to control reality itself.
+The game masterfully blends psychological horror with classic survival horror gameplay, forcing you to adapt, conserve resources, and never feel truly safe.[/b]
+
+[h1]A Story That Unfolds in Chaos[/h1]
+[b]Let’s be real: you will not understand the story at first.
+The Evil Within’s narrative is intentionally fragmented. One moment, you’re running through a mental hospital, the next, you’re in a twisted village that feels ripped straight from Resident Evil 4, and suddenly, you’re in a burning cityscape. It feels like a fever dream, and progression only brings more questions rather than answers.
+The game throws hints and clues throughout, but you won’t get the full story even after finishing it. This might frustrate some players, but for those who love unraveling a deep mystery, it’s an engaging experience. The real story explanations come in the DLCs, particularly The Assignment and The Consequence, which shift the perspective and finally connect the dots.[/b]
+
+[h1]Gameplay – A Brutal, Unforgiving Horror Experience[/h1]
+[b]If you love challenging survival horror, this game delivers. Limited ammo, smart resource management, every bullet counts, and enemies hit hard. If you run in guns blazing, you won’t last long. Stealth is a real option, sneaking past enemies and using traps can save your life (and your precious ammo). A tense upgrade system, You collect Green Gel to upgrade Sebastian’s abilities, making choices feel crucial. Unpredictable environments, One moment, you're in a dark, abandoned house, and the next, you're transported to a nightmare world with no explanation.
+This unpredictability keeps you on edge the entire game. You never feel safe, which is exactly what great survival horror should do.[/b]
+
+[h1]Pros:[/h1]
+[list]
+[*]Pure survival horror at its best – If you miss the old-school Resident Evil experience, this is for you.
+[*]Brilliant enemy and level design – The creatures are horrifying, and the shifting environments add to the unease.
+[*]A deeply psychological story – Even if you don’t understand everything at first, it will keep you hooked.
+[*]Challenging and rewarding gameplay – Every fight feels intense, and resource management is crucial.
+[*]DLCs actually matter – They don’t just add extra content; they complete the story.
+[/list]
+[h1]Cons:[/h1]
+[list]
+[*]Story is too cryptic at first – If you don’t like being left in the dark, this might frustrate you.
+[*]Some mechanics feel outdated – Stiff movement and awkward camera angles can be frustrating at times.
+[*]You NEED the DLCs for the full story – The base game alone doesn’t give all the answers.
+[/list]
+[h1]Conclusion:[/h1]
+[b]The Evil Within is not for the faint of heart. It’s challenging, bizarre, and doesn’t explain itself easily, but that’s what makes it special. If you push through the confusion and embrace the horror, you’ll find one of the most unique survival horror experiences of the last decade.
+If you’re a fan of Resident Evil, psychological horror, and games that make you think, this one is a must-play. Just be prepared to feel lost, until the DLCs finally show you the bigger picture.[/b]",0.8036230802536011,44,True
+268050,230454609,76561198021791813,"    First of all, this game has issues on modern hardware. It has a broken frame limiter which reduces the framerate regardless of hardware. To fix it you have to add this ""+r_swapinterval 0"" command to the games's launch options. To do that, open you steam library right click the game and click on the Properties tab, and paste the command (without """") in the Launch Options box. This fixes the frame limiter however the game still has stutter and bad framepacing even if you limit it at 60. To fix this you need to limit the framerate to 60 in MSI Afterburner, using RivaTuner in addition to limiting the ""Scanline Sync"" option to 60 which is located just beneath the framerate limit option in RIvaTuner.
+    You can also add the ""+com_skipIntroVideo 1"" command to skip the annoying intro splash screen that plays everytime you boot the game.
+     This game also has noticeable texture pop in in cutscenes, to fix that you need to add the +fs_cachepath ""C:\TheEvilWithinCache"" (keep the """" at the path this time) command and to create an empty TheEvilWithinCache folder in your C: drive (you can point it toward a different location but this is the simplest and easiest path). The game will then create a 1GB file that saves texture cache after reboots which reduces pop in.
+
+     Now to the review: This game is directed by Shinji Mikami which means that it has excellent combat (good feedback on hit, fair hitboxes, a variety of combat areas and enemies which interact in interesting ways, etc.) This game also has a very well implemented stealth system which allows you to do stealth kills and use various traps in the stages to your advantage to conserve ammo. The developers expect you to do so which means they don't shower you with countless resources. As a result, you never feel extremely overpowered thorought the entire duration of the game which makes the game more of a Survival Horror game rather than an Action game (unlike the Director's previous game of the same genre, the legendary original Resident Evil 4 which leans more towards action). This interesting blend of stealth and action and the variety of combat scenarios keeps the game fresh throughout the campaign.
+     
+    What isn't fresh, however, are the countless unskippable ""press up to go forward"" sequences where you can't do anything but walk, boss chases that play out the same way every time, many insta kill segments that occur if you don't immediately figure out what to while you are being chased around and unskippable slow door opening animations in this game's ""save rooms"". There is also an annoying segment where a boss monster can just spawn randomly and insta kill you if you don't find yourself near a place to hide. 
+     
+    All this and many other tiny unskippable cutscenes lessen the replayability of the game which is unfortunate as the game expects you to replay it multiple times as you can unlock extra difficulties and weapons and a new game+ mode. This uneven pacing is a shame as the actual gameplay of the game is top notch. Despite these issues I still recommend experiencing this game as the uniquely well done balance between stealth and action is unmatched. I just wish there was an arcade mode of some sorts that would let you play through only the combat rooms of the game while skipping all other pace killing segments that decrease replayability.",0.7844305038452148,27,True
+268050,118230348,76561198340643407,G弦上的咏叹调真好听啊，仿佛来到了高级会员制餐厅，实际上是来到了高级脑内模拟世界。三上真司亲自指导的作品，还是一贯的高水准，作为一款线性恐怖游戏，值得与生化危机系列相提并论。,0.7812711596488953,33,True
+268050,230169184,76561198836367256,"The story is weird, the monsters are horrific, the ammo is always running out, and half the game feels like a fever dream. It's clunky in places, but the atmosphere is incredible and some of the creature designs still live rent-free in my head.
+
+I don't know what was happening half the time, but I was having a great time being terrified.",0.7664309740066528,40,True
+268050,16945437,76561198060064077,"The Evil Within:
+If you're looking for a game which is similar to the Residient Evil game series, you found one. The Evil Within, Tango Gamework's first game, and its an horror game :) This game is not for everyone, its full with flashing screens and alot of gore, ALOT of gore. Blood everywhere, nasty images, lots of zombies and so many creepy creatures you wish you wont meet even in your worst nightmares. A WELL MADE HORROR GAME!
+
+Story: Im not gonna tell what this game is about, Im not gonna spoil you guys, all im gonna say its that the story behind this game its not what you thought it is... its very mysterious.. very DARK... a well made story.
+
+Voice Acting: They really put alot of effort on this game voice acting, they made them very good and very suitable to the characters.
+
+Sountracks: The soundtracks of this game are incredible!! The splashing blood sound and the weapon and everything you can think of its on this game, and its well made.
+
+Gameplay: The movment system isn't that smooth, but as long you're a good shooter, you should be just fine. the hitbox its a bit messed up, but after you learn to control it, its ok. The stealth modes and action scences are briliant, having the option to choose how to kill the enemy - with a knife from behind, shot it to death or trick it with a trap, or just sneak away.
+
+Graphics: It might sound sarcastic but this game is actually beautiful, even tho all the gore. But when you're in game you are just get amazed over and over again of the graphics of this game, they're awesome.
+
+DLC'S:
+The Assignment + The Consequence:
+If you want to play one of these DLC´s, you better just get both of them to get fully the story of each one, after all The Consequence is the sequel of The Assignment.
+The idea of those DLC´s, which you play as Juli Kidman and you see the main game from her point of view its just huge. Its alot different of the main game, tho its also a very cool DLC that trust me you want to play!
+
+The Executioner:
+Another side story the developers made, on this DLC you play as The Keeper, which shows his side of The Evil Within story. This DLC story is really sad and if you ask me it really made me start thinking twice before I judge a character on a game, or just any person in real life. This one doesn't have voice acting in it, and its on a first person view, which I find really cool, its also cheap and worth the price.",0.8069126009941101,233,True
+268050,119449998,76561198202022263,"[h1] The Evil Within [/h1] ⭐️⭐️⭐️⭐️⭐️
+
+=== ( 🎯 Difficulty ) ===
+☐ No Difficulty
+☐ Easy
+☐ Standard
+☐ Big Learning Curve
+☑ Hard
+☐ Impossible
+
+=== ( 👪 Audience ) ===
+☐ Everyone
+☐ Kids
+☑ Teens
+☑ Adults
+☑ Mature
+
+=== ( 👀 Graphics ) ===
+☐ What Is This?
+☐ Bad
+☐ Acceptable
+☐ Good
+☑ Great
+☐ Stylistic
+☐ Beautiful
+☐ Masterpiece
+
+=== ( Sound/Music ) ===
+☐ Bad
+☐ Nothing Special
+☐ Good 
+☑ Great
+☐ Beautiful
+☐ I´m Gonna Cry
+
+=== ( 🌏 Story ) ===
+☐ This Game Has No Story
+☐ Nothing Special
+☐ It´s Alright 
+☑ Well Written (Story can be a little confusing at stages)
+☐ Epic Story
+☐ Thinking About It, When I Sleep
+
+=== ( Grinding ) ===
+☐ Nothing To Grind
+☑ Isn't Necessary To Progress
+☐ Average Grind Level
+☐ A Lot Of Grinding
+☐ You‘ll Need A Second Life For Grinding
+
+=== ( 💎 Price ) ===
+☐ Free
+☐ Underpriced
+☑ Perfect Price
+☐ Could Be Cheaper
+☐ Overpriced
+
+=== ( ☣ Requirments ) ===
+☐ A Toaster Could Run This
+☐ Low
+☑ Average
+☐ Above Average
+☐ High End
+☐ NASA Computer
+
+=== ( ⏰ Game time/length ) ===
+☐ Really short ( 0 - 4 hours)
+☐ Short ( 4 - 12 hours)
+☑ Average ( 12 - 24 hours)
+☐ Long ( 24+ hours)
+☐ Multiplayer/Neverending
+
+=== ( 🐞 Bugs ) ===
+☐ Game itself is a bug
+☐ Lot of bugs
+☐ Few Bugs
+☑ Nothing
+
+=== ( Controller Support ) ===
+☑ Yes
+☐ no
+
+=== ( Enjoyment ) ===
+☐ I´d Rather Watch Grass Grow
+☐ Hard To Enjoy
+☐ Repetitive
+☐ It's Okay
+☑ Fun To Be Had For Sure
+☐ The Kind Of Fun You Will Remember
+☐ Life Changing
+
+=== ( Replayability ) ===
+☐ One-Time Experience
+☐ Only For Achievements
+☐ If You Wait A Few Months/Years
+☑ Definitely (Thanks to the new+)
+☐ Infinitely Replayable/Multiplayer
+
+=== ( Worth Playing ) ===
+☐ No
+☐ Wait For A Sale
+☑ Yes
+☐ I Can´t Recommend It Enough
+
+TOP FUN THINGS TO DO:
+⭐️Tricking enemies to fall into traps.
+⭐️Using the crossbow!
+⭐️Running from monsters.
+
+THE UNIQUES:
+💎Finding new ways to die.
+💎Well thought out monsters.
+💎Brutal scenes.
+
+PLAYER GAMING REQUIREMENTS:
+💼Psychological Horror.
+💼Dark.
+💼Survival.
+
+VERDICT:
+Evil Within is so brutally horrifying that I needed to see almost every death, just to scar myself further! Sebastian should be in a stray jacket and thrown into the psych ward (See what I did there?) after seeing the things he saw. The selling point to this game would be how creative they got with the things that lurk in the dark and how deep the story gets, some of you may get confused due to how long it takes to get to the main plot but playing the DLC's help out a TON.
+
+Another big point is of course the gameplay, even if Sebastian can't hit a thing because he's an alcoholic, hiding and throwing bottles to creep past monsters is a ton of fun and probably the best tactic in most cases. Sure, if you've got the ammo, blast your way through but be prepared to miss your shots.
+Total Score = 87/100
+
+GAMEPLAY:
+The game centers on protagonist Sebastian Castellanos as he is pulled through a distorted world full of nightmarish locations and horrid creatures. Played in a third-person perspective, players battle disfigured nightmare-like enemies, including bosses, using guns and melee weapons, and progress through the levels, avoiding traps, using stealth, and finding collectables.
+
+SIMILAR GAME LIKE THIS? / REVIEWER PREVIOUS EXPERIENCE:
+Evil Within franchise, Resident Evil franchise, Dead By Daylight, GTFO
+
+■■■■■■■■□□ 8 / 10
+The game was directed by Resident Evil series creator Shinji Mikami
+
+RECOMMEDED SPECS
+OS: Windows 10
+Processor: i7
+Memory: 4 GB RAM
+Graphics: GeForce GTX 670
+Storage: 50 GB available space
+
+Review to The Evil Within 2: https://steamcommunity.com/profiles/76561198202022263/recommended/601430/",0.8063719868659973,79,True
+268050,78101347,76561198869000180,"Evil Within is really great. This game is like Resident Evil and Silent Hill, which begins with a dark but beautiful story. The atmosphere of the game is great and scary and attracts the player. The atmosphere and atmosphere of the game is such that the player is worried that there are zombies in the corner of the area where he is walking. When I played this game, the zombies in this game reminded me of the resident evil 2 remix. In the game, we have 3 types of enemies, which are normal, medium and boss fight, do not worry at all, it is not dark souls, and next to it, there is a gun upgrade system that you are ready for the next steps. In 2019, a movie was made that is like the story of this game, if you want not to be confused, watch this movie. The name of the movie is coma and it is not quite similar to the story of the game and it is only 75%.
+https://youtu.be/BZJcFQ2L8sI
+The game has about the same gameplay, but I do not think it is worth repeating again unless you have forgotten the game or are interested in it. I think this information was enough and there is nothing special to say.
+An example of the scary atmosphere of this game:
+https://steamcommunity.com/sharedfiles/filedetails/?id=2242816052",0.754069983959198,59,True
+268050,154812171,76561198366246841,"This game is the true successor to Resident Evil 4.................. so if u love re4, you owe it to yourself to experience this crazy, mind-bending horror survival game",0.7396419048309326,61,True
+268050,117277397,76561199209518743,"---{ Graphics }---
+☐ You forget what reality is
+☐ Beautiful
+☑ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{ Gameplay }---
+☐ Very good
+☑ Good
+☐ It's just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ Audio }---
+☐ Eargasm
+☑ Very good
+☐ Good
+☐ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{ Audience }---
+☐ Kids
+☑ Teens
+☑ Adults
+☐ Grandma
+
+---{ PC Requirements }---
+☐ Check if you can run paint
+☑ Potato
+☐ Decent
+☐ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{ Difficulty }---
+☐ Just press 'W'
+☐ Easy
+☐ Easy to learn / Hard to master
+☐ Significant brain usage
+☑ Difficult
+☐ Dark Souls
+
+---{ Grind }---
+☑ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☐ Isn't necessary to progress
+☐ Average grind level
+☐ Too much grind
+☐ You'll need a second life for grinding
+
+---{ Story }---
+☐ No Story
+☐ Some lore
+☐ Average
+☐ Good
+☐ Lovely
+☑ It'll replace your life
+
+---{ Game Time }---
+☐ Long enough for a cup of coffee
+☐ Short
+☑ Average
+☐ Long
+☐ To infinity and beyond
+
+---{ Price }---
+☐ It's free!
+☑ Worth the price
+☐ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{ Bugs }---
+☑ Never heard of
+☐ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{ ? / 10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☐ 7
+☐ 8
+☐ 9
+☑ 10
+
+This is pretty hard ngl",0.7266362905502319,42,True
+268050,231464454,76561199713137441,I replayed the evll within 1 and 2 so many times on Xbox 360 to PS3/4 and now on pc I cannot describe my love for this game 10 out of 10 even in 2026 still holds better than most games now they don't make games like this anymore sadly,0.7217470407485962,18,True
+268050,222821745,76561198115373013,"The Evil Within is a great game, but it's not for everyone.
+The Evil Within has so many disturbing visuals that it will make you feel sick, both mentally and physically.
+So, I will reccomend The Evil within only if you're a fan of horror games and lots of gore.",0.7211456298828125,20,True
+268050,97860105,76561197970621610,"Tweaking required, I'll save you some time:
+Steam launch options: +com_skipIntroVideo 1; +r_swapinterval 0; +m_smooth 1
+In NVIDIA Control Panel, set game's max FPS to 61 (leave at 30 FPS in game options)
+Open %LOCALAPPDATA%, create folder ""TangoGameworks"", inside that folder create another called ""The Evil Within_ng"" (Delete this folder after uninstall or it leaves a 1GB file)
+Set in-game mouse speed to 1 and lower Windows mouse speed.",0.7631151080131531,29,True
+268050,24692281,76561197986018954,"The Evil Within is:
+An Action-Oriented Survival Horror.
+A Horror game with a lot of plot holes or plot mysteries.
+Mostly based on Resident Evil with some homages to other games.
+Centered in Gore Horror rather than Psychological horror.
+Stereotypical Cop Action/Survival Game.
+Plot-driven instead of Character-driven.
+Pretentious.
+Nice but not Awesome.
+A game with obvious puzzles.
+A game that will certainly become a franchise.
+
+The Evil within is not:
+A Stealth Survival Horror game.
+A game with a very coherent plot.
+A game with deep character development
+A masterpiece of the genre.
+An original story,
+A very scary and disturbing game.
+
+To summarize my experience with this game: I should advise that this is not a game for a mature audience. I think it is a game for teenagers and not grown-up adults. Fans of Siren, Silent Hill, Clock Tower and other stealth horror games should probably avoid this one. First Person lovers should also avoid it. The puzzles are, unfortunately, way too obvious and you don´t even need to look for clues to solve them. Ammunition is not a problem. You can run out with certain types, but you will always have some, even on hard difficulties. One of the worst things in this game is that you have no option to choose to have a less blunt and dull character in the first run and you are stuck with the stereotypical American cop (I should get a donut for that). That kind that acts-first and thinks-after with a very obvious backstory. The DLC's are not a big deal, so buy only when it's cheap. The game is enjoyable and I could recommend simply because it might be a fun time for people, but you should check some gameplay on youtube, preferably without commentary, because most YouTubers will praise the game too much almost, looking like they are merchandising it (and they probably are). This game will not make your jaws drop, cry or scream about anything, but it has some enjoyable things and nice graphics. Don't buy the Season Pass, you will pay for new DLC's that will never come at all (Why do they still have them on sale?). The Evil Within 2 came with much delay (Pretty sure that people with the season pass got nothing for their money back...) and also sorry for not buying and reviewing it, but the protagonist of the series it's just not convincing to make a sequence of it... Buy this when it's cheap so you won't regret it if it sucks for you. I hope this helps people making a good purchasing choice.",0.7603376507759094,54,True
+268050,135497276,76561199166703136,"King Work 
+It is a unique masterpiece.
+Really, this game is God in my opinion.
+This is God's game.
+
+I definitely suggest you try this game, especially if you love the horror genre.
+If you dare, play this game on very hard level.
+
+
+In the field of gameplay and design of stages and environment, this title has many examples of Resident Evil and Silent Hill franchises. While the gameplay had the default mechanisms and elements of survival horror titles, it tried to change some of them in its own style. For example, during the game, match packs are provided to you, which you can use to kill enemies who are on the ground but not dead yet, and don't waste your ammunition.
+
+Also during the game you could be transported through mirrors to Safe Haven, which can be referred to as a place in the Stem environment where no one and nothing can harm you. There, a nurse named Tatiana Gutierrez, a former Beacon Infirmary nurse, will help you upgrade Sebastian's weapons and other items. It should be noted that the interaction between Sebastian and Tatiana also reveals interesting points about the game's story.
+
+Although the combat is smooth and wide, it is by no means the main focus of the game, and the creators have also included some useful stealth mechanisms in the gameplay, which allow you to pass through some parts of the game without conflict and save your ammunition. do.
+
+In general, the gameplay of this title was designed and implemented in a very balanced way, allowing the player to progress in his own style.
+10-10
+
+Persian  :
+یک شاهکار بی نظیر است. 
+واقعا این بازی از نظر من خدا است. 
+این گیم خداست. 
+
+حتما حتما پیشنهاد میکنم این بازی رو تجربه کنید مخصوصا اگه عاشق ژانر ترسناک هستید. 
+اگه جرعت دارید درجه خیلی سخت این بازی رو بازی کنید. 
+
+
+این عنوان در زمینه‌ی گیم‌پلی و طراحی مراحل و محیط الگوبرداری‌های زیادی از فرنچایزهای Resident Evil و Silent Hill داشته است. گیم‌پلی بازی درحالی که از مکانیزم‌ها و المان‌های پیش‌‌فرض عناوین وحشت بقا برخوردار بود اما سعی کرده بود برخی از آن‌ها را به سبک خودش دست‌خوش تغییرات کند. به عنوان مثال در طول بازی بسته‌های کبریتی در اختیار شما قرار می‌گیرد که می‌توانید از آن‌ها برای کشتن دشمنانی که برروی زمین افتاده‌اند ولی هنوز نمرده‌اند استفاده کنید و مهمات خود را هدر ندهید.
+
+همچنین در طول بازی شما می‌توانستید از طریق آینه‌ها به Safe Haven منتقل شوید که می‌توان از آن به عنوان مکانی در محیط Stem یاد کرد که هیچ‌کس و هیچ‌چیز نمی‌تواند به شما آسیب برساند. در آنجا پرستاری به نام Tatiana Gutierrez که پرستار سابق تیمارستان Beacon بوده است به شما کمک می‌کند تا اسلحه‌ها و موارد دیگر مربوط به Sebastian را ارتقا دهید. لازم به ذکر است که تعامل بین Sebastian و Tatiana نیز نکات جالبی را درباره‌ی داستان بازی آشکار می‌کند.
+
+مبارزات بازی با اینکه روان و گسترده است اما به هیچ‌عنوان تمرکز اصلی بازی نمی‌باشد و سازندگان برخی از مکانیزم‌های کاربردی مخفی‌کاری را نیز درون گیم‌پلی بازی گنجانده‌اند که به شما این اجازه را می‌دهند که از برخی از بخش‌های بازی بدون درگیری عبور کنید و مهمات خودتان را ذخیره کنید.
+
+به‌ طور کلی گیم‌پلی این عنوان بسیار بالانس طراحی و پیاده‌سازی شده بود و به پلیر این اجازه را می‌داد که به سبک خود در بازی پیشروی کند.
+",0.7098111510276794,20,True
+268050,42457018,76561198074661529,"It’s great when you start playing a game and then remember that there’s also a sequel out ready to move straight onto and try out. I played a bit of The Evil Within back when it came out and I liked it but didn’t finish it. Now that I've returned to complete it, I love this game and I’m excited to try the sequel soon after playing through this one.
+
+The main problem I have with this game is with the performance which I tried to fix with some tweaks. However in the end I just played it in its normal state because the third party tweaks just made things worse for me. 
+
+It’s weird though because the performance does seem to improve later in the game or maybe I just got used to it as I played. Anyway it doesn’t run at a perfectly smooth 60FPS all the time but it’s not so bad as to ruin the experience.
+
+There is a cool Game + feature here too which makes it fun to play through some stages again with all of your upgrades after completing the main campaign. I used this to go back and get some collectables that I had missed with a system that feels well designed and satisfying to use.
+
+There are a few frustrating moments in the game which are mainly due to a shortage of ammo pick ups. However I have to admit that there is always a fair way to try again and find a tactic that works. The checkpoint system is also a bit dopey at times but again it's not bad enough to totally ruin the experience.
+
+This game is extremely creepy with interesting level design and enjoyably cheesy characters. I always enjoy this combination of disturbing horror and ridiculously, camp humour like in the Resident Evil series.  
+
+The Evil Within is fun to play too, the monsters are well designed and the weapons are satisfying to use. A lot of people have said that the story is too confusing but I think that this just adds to the charm of this game. 
+
+It’s a surreal and disturbing horror game that can also be very silly but in a good way. I really enjoyed playing through this one and I definitely recommend that you give it a try.
+
+Sebastian Castellanos is a badass!!",0.7597571015357971,33,True
+268050,117629706,76561198354466742,"An extremely brutal, horrifying & disturbing experience that gives you almost no moments of reprieve. one of the first game that actually scared me and made me scared just by playing it. most people don't understand the story because the story pieces are spread apart, it's the most complex story I've seen in a video game.  the atmosphere always keeps you on the edge with goosebumps, it's very immersive experience. I would simply give this game a 10/10 !!",0.7097503542900085,19,True
+268050,35075378,76561197998547003,"It's a fun game. It's not over the top fantastic, but there's enjoyment to be had here. It's Bethesda's response to Resident Evil(I believe they got a director for Resident Evil.) It'll feel like an American Resident Evil with more intuitive controls.
+
+Pros:
+Combat rewards both stealthy and aggressive play
+Combat gives a satisfying response from enemies
+Enemies are neat
+Atmosphere is really fantastic and consistent
+Agony crossbow
+Detective Side Story adds some character to the game
+
+Eh:
+Main character is kind of generic
+Story is predictable
+
+Cons:
+This isn't really a survival horror. I never felt so low on ammo to feel threatened, and I always had enough health. I died a lot, but enemies were extremely powerful. I wanted to feel afraid, but I never quite reached that point.
+Game feels cheap sometimes.
+Controls are a little weird and response can be odd.
+Buggy. (But it's a Bethesda game.)
+
+Overall, there's a lot to be enjoyed. It's not going to be the best survival horror, because it's really afraid to push what it offers. It is really enjoyable though. I appreciate the more psychological aspect, but it's more of an action/adventure horror game. It never once felt like a survival horror game. It's fun though. Just not fully what I expected.",0.7575029134750366,42,True
+268050,91705409,76561198115146638,"When Shinji Mikami directs survival-horror, well, you just have to take notice. As the creator of the Resident Evil series and director of both its first and fourth entry, Mikami has defined and redefined this genre. For better or for worse. When he left Capcom to start his own company, it was no surprise that his first game would be a survival-horror. This was The Evil Within. After many years of delays, I finally got to play it. Was it for better or for worse?
+
+The game begins inconspicuously enough. You play the role of jaded detective Sebastian Castellanos. Along with your junior partners you are called to investigate suspicious events in the local mental hospital. Because of course it has to be a mental hospital. But shortly after arriving you find yourselves separated and on the run from crazed fanatics. The world itself starts changing and get distorted. Something appears to be altering reality and it doesn't seem to like you very much. Enter... the survival horror.
+
+The game's plot is quite the rollercoaster and arguably its strongest element. It remains compelling throughout and has enough turns and twists that will keep you guessing for some time. Avoid spoilers if you can, it is worth experiencing undiluted. The game's atmosphere is also a highlight, though less consistently great than the plot, it generally delivers. The game is fairly long, particularly for its genre. Aside from the mental hospital, it will take you through old mansions and rickety villages, but also industrial areas and construction sites, old churches and underground labs. 
+
+The world, as well as the brand of the horror, is pretty surreal. This helps justify this blend and enable the game to safely play fast and loose with world structure. When reality bends and shifts, there is really no limit to what kind of settings you can employ. The game takes advantage of that. Admittedly though, not all settings work equally well. Surreal horror in a modern parking lot doesn't sound very convincing. Of course, that is a combat area. Which leads to my next point, the gameplay itself feels rather disjointed. 
+
+The game doesn't seem to be entirely sure what genre it wants to belong in. Horror? Or action? Sebastian at times feels like a powerhouse, other times like a complete wimp. The game is at its finest when it employs its often excellent atmosphere to cow you into submission, pitting you against super powerful pursuers that require you to use your wits and take advantage of your environment to survive. Then there are sequences taken straight out of an action game, with armed mobs attacking the player so they can be dispatched via extensive shootouts. 
+
+One or the other would have made sense. Both doesn't work as well. Add to that a pretty pathetic melee combat system and you are in for many lacklustre combat events that just feel like padding. The worst part though is the effect this has on death. The game is pretty unforgiving when it comes to mistakes. Expect to die a lot. Particularly early on. Only, frequent death doesn't make you more scared, it has the opposite effect, it normalizes it. Instead of being afraid to open the next door, like you should, you YOLO it.
+
+So, what is the verdict? It does appear that Mikami wasn't sure if he wanted to make a Silent Hill game, or a sequel to Resident Evil 4, so he kind of made both. The result is an uneven and flawed game, but at the same time one that manages to remain engaging and interesting throughout. I recommend The Evil Within to all fans of survival horror, as well as people who enjoy surreal horror and good stories in general. I certainly am curious to see where the sequel takes the plot to.",0.706778883934021,19,True
+268050,119968132,76561197971848356,"A civil engineer with a brain tumor lashes out at the world years after the burning passion between him and his sister comes to a shrieking halt. After receiving reports of a mass murder, Jonathan Brandis and his two partners are sent to a hospital to investigate the psychotic weaboo’s endeavors. Can they determine the engineer’s mission and break free from the shackles of unreality before he is able to kill more people in their nightmares, or, at the very least, prevent the invasion of Zion? What will happen to the president’s daughter? Sneak, burn, run, hide, disarm, die, and wonder what the hell is going on for 15 schizophrenic chapters to find out.
+
+[b][u]The Good[/u][/b]:
+[list]
+[*]The game has a strange tone and atmosphere to it that don’t really feel like anything else.
+[*]AKUMU mode. If you so much as get tapped on the shoulder by an enemy, you die. Kim’s DLC has KURAYAMI mode which turns out all the lights so everything is pitch black.
+[*]There are things in the game world that make more sense as you progress in the story. It’s an interesting touch.
+[*]I went for 100% in this game, and it didn’t really feel like a chore doing it (even the no upgrades run). Like a certain other survival horror series, replaying it was fun. It helps that the game doesn’t really feel like it drags anywhere.
+[*]Remember in Bioshock how you would prepare a little killbox for a Big Daddy before you initiated a fight with him? You’d shoot a few trap bolts here, put proximity mines there. There are moments that are definitely reminiscent of that, and I don’t see how killboxing enemies isn’t a positive.
+[*]There are times where you can go stealth, but you don’t have to.
+[*]Body-burning simulator. 
+[*]The DLC actually improves the story and gives more insight into what’s going on.
+[*]Tense and sometimes unnerving soundtrack by Masafumi Takada.
+[/list]
+
+[b][u]The Neutral[/u][/b]:
+[list]
+[*]10 weapons: revolver, shotgun, sniper rifle, agony crossbow (harpoon, flash, freeze, shock, and explosive bolts), magnum, burst handgun, HP Sniper, brass knuckles, machine gun, and RPG.
+[*]15 chapters.
+[*]It’s survival horror, but you don’t manage resources the way you do in other titles in that genre. Don’t expect to shift your inventory around and manage it so you have 800 shotgun shells and nothing else.
+[/list]
+
+[b][u]The Bad[/u][/b]:
+[list]
+[*]I had an issue with the mouse sensitivity resetting every time I booted up the game. Setting the right config file to read only solved the issue.
+[*]There can be FOV issues with the game, but Flawless Widescreen will fix that.
+[*]The targeting system for melee will sometimes cause you to kick corpses instead of a threat that’s right in front of you.
+[*]Only parts of cutscenes are skippable, so you’ll have to put up with a little bit of that on repeat playthroughs.
+[*]People who pre-ordered got access to 2 bolt types (poison and incendiary) and a double-barreled shotgun.
+[/list]
+
+[b][u]Pro Tips[/u][/b]:
+[list]
+[*]If you’re wondering why you can burn bodies, it’s not because they come back to life like crimson heads in Resident Evil.
+[*]Tap fire once with the pistol equipped to run faster in water you’d normally wade through.
+[*]Play the crow minigame to farm gel. It unlocks after you complete the game.
+[*]The last locker has 200k gel.
+[*]You can unlock a few extra weapons: machine gun and RPG (complete the game), burst pistol and high-powered sniper rifle (get all map pieces), and brass knuckles (beat the game on nightmare).
+[*]Aim your weapon to move faster during segments where you’re forced to walk slowly.
+[/list]
+
+If you go into this expecting it to be a [b]Resident Evil[/b] clone, you’re going to be dissatisfied. If you expect it to be vaguely similar to it, and to have a schizophrenic campaign, then good for you, pal. I’d say it’s worth it and to get the DLCs.
+",0.751950204372406,27,True
+268050,162274509,76561198176084229,"The game's screen scaling system is causing my computer screen to crash. and blinking non-stop And still makes me Can't force anything Can't exit the game, black screen again. I'm very disappointed with this game.",0.6978225708007812,38,False
+268050,215178205,76561198311740532,"I love this game and am one of its biggest knob slobbers. It used to run pretty fine on PC. I don't know when it happened but now it's often nigh unplayable to the extent of it flickering and crashing before the main menu.
+Ch. 8 end hallway.
+Additionally, locking poison and incendiary behind pre-order without any way of getting it is pretty lame.",0.6959863901138306,24,False
+268050,23812108,76561198055667395,"I beat this game twice on the PS4, and am going for my third playthrough on PC, and I don't replay bad games. The Evil Within isn't a masterpiece like Resident Evil 4, but it's an extremely solid survival horror game in it's own right. The plot is a tad convoluted, the dialogue is neither here nor there, and the character movement is a bit on the stiff side, but the atmosphere, sound design, weapon variety, character progression and solid gunplay are enough to set The Evil Within apart. In my opinion, this is what a real survival horror game should be. TEW focuses on gameplay and atmosphere first, doesn't rely on jumpscares and isn't afraid to splatter the screen with all sorts of blood and guts, not surprising coming from famed game director Shinji Mikami. If you're a fan of Resident Evil 4, the Dead Space franchise and Mikami's previous work, I'd say The Evil Within is a no brainer.
+
+PC Port (6700k l GTX 970 l 16GB DDR4): I can't get the game to run at a solid 60fps, but that's not at all surprising, seeing as how this is an idTech 5 game. And when I used Nvidia's DSR, the game zoomed in and refused go back to the original aspect ratio. That being said, the PC version looks and runs a LOT better than the PS4 version, which can go as low as 18 fps during certain sequences. You can now remove the Letterbox format if you wish and if by some miracle of god you can get this game running at a locked 60fps, you can also remove the 30fps cap. Overall, it's not a brilliant port by any means, but it gets the job done if you have the hardware to run it.",0.7445096373558044,32,True
+268050,207630193,76561198160990208,"The Evil Within is a horror survival game that is about an investigation of what seems to be mass homocide at Beacon Mental Hospital in Krimson City, but things turn out to be much more deep and sinister than what all of this comes across at the beginning. 
+
+First off, the protagonist of this game, Detective Sebastian Castellanos is a very emotionless, stale and boring person who doesn't seem to get affected by anything, even though he had endure things that would drive a normal person to madness i.e. fighting monsters countless times, waking up inside a nightmare world that he would go on to visit lots of times via a portal and so on. Not even a single time he seem like he was on the brink of completely losing it, which doesn't make any sense whatsoever.
+
+Lots of interiors in this game are very grimy, full of looming shadows, artistically designed buildings and ominous escape routes. All of that combined created a frightening mood of expectation. Sometimes you even confused your own shadow with the one of an enemy, all of which created a massively immersive and compelling experience.
+
+When it comes to the antagonists, bosses and villains you come across, it has to be poined out that they are just so unpredictable, smart and hard-to-trick. They would eventually get weirder the more you progress, but still are inventive creations. 
+Their names are as follows: 
+Ruvik, a brilliant neuroscientist who created the STEM system to achieve his goal of rebuilding the world to bring back his deceased sister.
+The Kepper, a big, masked figure with a safe, with wrapped barbed around it with, on his head, who loves to wield a large hammer and keeps respawning after dying.
+Laura, who is an extremely fast and powerful creature, who can only be hurt and killed with fire.
+The Sadist, a chainsaw-wielding lunatic who serves as a recurring antagonist.
+Valerio Jimenez, a deranged hospital orderly acting as an antagonist aand various sections of the game.
+Shigyo, a grotesque, multi-limbed creature
+
+The weaponry you receive are modest and well-balanced - a pistol, shotgun, sniper rifle, greande and a crossbow, which caters to a variety of special attacks (freeze, electrocute, harpoon, explosive etc.) Managing the usage of your arsenal is crucial, as there's only little available and to be found, very similar to the Resident Evil Games. Sebastian runs out of stamina so quickly, tho. Yes you can actually upgrade that along with other abilities, the stock, your weapons and so on, but at the very beginning his lack of stamina is frustrating as hell. Checkpoints are scarce, so surviving and not dying repeatedly and stupidly is very, very important, which makes for such an exhilarating expierience no matter whether you decide to flee from an enemy or fight it. Making extremely calculated moves is absolutely key.
+
+Playing the stealth route is possible and not a bad decision, but still it somehow feels like that, whether you plan on throwing a bottle at an enemy or sneak up behind it, they somehow still manage to detect you shortly before you could go for it. That playstyle was, for me at least, not the most accessible gameplay style to adopt.
+
+You're not entirely powerless tho, One of EW's most enjoyable mechanics is its very simple upgrade system. ""Green gel"" is the resource you need to use in order to improve your attributes in the nightmare world accessible via a portal in the form of a broken mirror, which partially breaks as soon as you approach it and can be heard with a very distinct music. It is spread across the entire map, which make it worth to explore every possible inch and corner. Cashing in the points you obtain by collecting the green gel allows you to shape your own gameplay style. For instance, if you're more like an aggressive player, it makes sense to value upgrading the damage, accuracy and reload time of your weapons, rather than the ability to run for longer. And if you're a player preferring the stealth playstyle, the other way around makes the most sense.
+
+Conclusion: The Evil Within is a vicious, barbaric, challenging and overall very fun game. Its eerie world and imaginative, creative and unique enemies are genuinely frightening and smart. The lack of resources you got makes it even more challenging than already to defeat them. All of which makes it seem like the odds are against you, whilst they're not as soon as you keep a cool head and don't start panicking.",0.6916113495826721,14,True
+268050,121986206,76561198042795542,"I want to start by saying [i]The Evil Within[/i] isn’t a bad game, [i]per se[/i]. It’s a deeply flawed game, but that doesn’t mean it’s bad. Despite this, I wouldn’t recommend this game.
+
+Reason number one: bugs. Specifically, I encountered a bug where the game randomly generated a save file dated 1969 which then led to all my save data being deleted. ~20 hours and circa 850,000 green gel grinded out, all just gone. I guess it all time traveled to 1969. Fuck you, game.
+
+Even if we ignore this, I stand by my verdict. You see, [i]The Evil Within[/i] is a game with one core design goal – to kill the player character as many times as possible. Now you might be thinking that all survival horror or action games do this, but no, there’s a distinction here. A game like, say, [i]Resident Evil 4[/i], is like your friend who’s also your intense rival at tennis. You meet up and play a match where your friend’s doing his absolute best to kick your ass, but it’s all sportsmanlike and after the match, regardless of the victor, you two congratulate one another on a good game.
+
+[i]The Evil Within[/i], on the other hand, is the guy who will sneak into your stuff prior to the match to sabotage your racquet, slip drugs into your drink, and put itching powder into your clothes. He’ll insist on playing at a time and place in which the sun’s in your eyes, and if he wins, he’ll gloat about how great he is (because clearly he’s great at tennis; he beat you, after all). In both these instances, you’re competing against someone endeavoring to beat you, but they’re vastly different situations.
+
+A great example of this is Chapter 9, where the game randomly spawns an invulnerable enemy who does nothing except get close to you for a one-shot kill. You can run, but he may or may not just teleport to you and kill you. You can hide, but he may or may not psychically know where you are and pull you out to kill you. This guy’s behavior is so random that I haven’t found any consensus on him as of today, eight years after the game’s release. And in case you missed it, he’s [i]invulnerable and one-shots you[/i]. He’s the game saying, “we decided you’re just going to die now, kthxbai.”
+
+Besides the design philosophy, [i]The Evil Within[/i] has stupidly clunky controls. Something as simple as activating a prompt in front of you could take some maneuvering as you watch Sebastian turn right and left and not face forward. The camera will zoom in unnecessarily close when you’re aiming or crouching through a tunnel, so if there’s an enemy near you, have fun not being able to see it. One of the game’s unique mechanics, dropping a match to burn a downed enemy, is frustratingly unreliable. Sometimes the prompt just won’t come up and you’re wide open to the enemy getting up and sucker-punching you. Sometimes it does, you activate it, and Sebastian goes through the entire match-dropping animation (and the game deducts a match from your inventory), but no match comes out of the animation, nobody gets burned, and you’re wide open to the enemy getting up and sucker-punching you. The game’s melee button prioritizes kicking random nearby corpses over doing an actual melee attack on the enemy in front of you trying to kill you. And all this would be annoying at best, except this game has a mega-boner for one-shot kill attacks, so enemies will happily cut your head off/eat you/bash your face in/explode while you’re struggling to move and see properly.
+
+After you slog through this sea of bullshit, the game shows you a death counter and, well, the game must be challenging, right? That number’s high. Isn’t that all that’s needed for a challenging game? If the player dies a lot? That’s the game’s core design goal in a nutshell. This isn’t a game designed to pose challenges to the player to overcome. This is a game that just wants to kill the player repeatedly.
+
+Oh, and despite how many people on the Internet will tell you that the plot is [i]absolutely fantastic[/i] but you just need a big brain to understand it (you know, the big brains that those people have), no, the plot falls apart the instant you start asking basic questions. The game takes place in a Matrix-esque dream world, but the game’s explanation for how the main characters enter it contradicts itself in several ways. The game’s explanation for what this dream world does is inconsistent with what the game actually shows the player. The game’s explanation for why the creator of this dream world made it in the first place makes [i]circa[/i] no sense. 
+
+Again, the game isn’t bad, [i]per se[/i]. The main villain Ruvik manages to garner sympathy and horror at the same time. Laura and the Keeper are memorable bosses. The upgrade mechanics allow different players to customize their playstyles. Juli Kidman kicks ass. I for some reason love Tatiana Gutierrez’s deadpan demeanor. I just don’t recommend the game due to its hostile design goals and backwards gameplay.",0.6897847652435303,109,False
+268050,198708066,76561199310094735,"one of the best Survival Horror games ever and my personal GOTY for 2014, feels exactly like re4 (the DLCs were a bit too difficult though）It's a shame I never got to finished it on PS4 when I was a kid
+[h2]9.5/10[/h2]",0.6883043646812439,23,True
+268050,30580671,76561198001501382,"Awesome game, much better than the latest Resident Evils... Had great times playing it and I am going to repeat the experience in hard mode. If you enjoy horror games this is a must buy.",0.7377070784568787,34,True
+268050,219011525,76561199178104761,"Imma be honest I had this game since 2022 and never finished it because it terrified me so much that I was unable to keep playing it... Recently decided to beat my fears and finish it and... IT WAS THE BEST DECISION EVER! I LOVE THIS GAME SO MUCH, LOWKEY FRUSTRATING AT SOME POINTS BUT STILL HAD SO MUCH FUN!",0.6873413920402527,15,True
+268050,99553732,76561198154863069,"[h1]The Evil Within[/h1]
+
+[h1]""Enter The Mind of a Madman""[/h1]
+
+[h1]Introduction:[/h1]
+This game has been on my backburner for quite a few years. I remember when it first came out and I had shown some interest but it wasn't until at least 2017 that I brought a copy. I'm not going to lie when I say that I regret not playing The Evil Within sooner. Is it a perfect game? No, absolutely not, but I can't remember the last time where I played a game that awarded you the player with careful planning, movement, and overall thinking. It's essentially a survival horror from the old days.
+
+The Evil Within is a 2014 third-person survival horror with a huge emphasis on survival, it's not the scariest game, in fact, there were very few actual moments where I got legitimately scared. The majority of times where I got scared was mainly because I had multiple enemies, no supplies, or was on low health. More of a tense situation feeling that you get instead of a legitimate scare factor.
+
+[h1]The Story:[/h1]
+The Evil Within is set in a fictional US city by the name of Krimson City. You play as Police detective Sebastian Castellanos. You alongside your other cop buddies get a call from Dispatch that at Beacon Mental Hospital there was a huge mass murder. Upon arriving on the crime scene and investigating the CCTV room as well as the dead patients and staff members. Something odd and unexplainable happens. Before you know it you blacked out and you're now dangling from a chain in some eerie basement full of death. You have no idea what is happening, where you are, or what is the status of your mission. For now, all you know that you should do is survive because you will be going on one hell of a wild roller coaster from here on out.
+
+[h1]Pros:[/h1]
+● Great level design  [b]~ Each level is unique and different from one another. On one level you will be on a farmland whilst on another level, you will be in an industrial factory. No level is the same and they all offer different creepy settings full of their own twists and surprises.[/b]
+
+● Very strong atmosphere [b]~ Every level has its own eerie atmosphere to it. Some levels are big and give you this uneasy feeling whilst others are small and will offer you a claustrophobic feeling. Each level in the game will have a different atmosphere that varies from your previous one.[/b]
+
+● Actually difficult [b]~ Even when playing on the normal difficulty I ended up dying quite a few dozen times. Enemies hit hard and they will be ruthless. If enemies won't kill you then the various booby traps will. There will be harder, bigger, and tougher enemies to fight as well, sometimes in combination with packs of smaller enemies. Better keep your head in the game.[/b]
+
+● Good level of gore [b]~ Something that I always appreciated in video games was when the gore/brutality was done well and The Evil Within doesn't shy away from that. A point-blank shot with a shotgun will destroy whatever will be standing in front of you, higher caliber weapons will always pop your enemies' heads like watermelons. It will give you an immersive satisfaction and feeling knowing that you're holding a powerful weapon in your hand but do remember that enemies can kill you just as brutally as you can kill them. Don't underestimate them or you will watch your character die a horrible death.[/b]
+
+● Combat is satisfying [b]~ You have a huge arsenal of weapons that you will stumble upon during your journey. From a simple revolver which will be your Jack of all Trades to your Agony Crossbow that has multiple types of crossbow bolts for you to craft. Each of them has its own usage that can be used in various situations. Upon finishing specific tasks you will also be able to unlock special weapons like an SMG but the SMG is really more of a luxury weapon than it is a conventional weapon. Despite the game being 7 years old, the combat is still really fun and smooth.[/b]
+
+● Lots of combat strategizing [b]~ Since enemies will hit hard and levels will be full of nasty surprises, you will have to strategize yourself quite a lot, simply rushing up front will get you killed quickly. You can and you should set up kill zones, choke points for your enemies. Disarm traps to use against your enemies and establish fallback locations in case an enemy you're fighting doesn't go down initially. Ammo will be scarce so you should plan to finish fights in ways where you will not use up an unnecessary amount of ammunition. It's a lot of fun and whilst playing TEW I felt like an Army Commando with all of this planning and successful executing of said plan.[/b]
+
+● Really fun & unique enemies to encounter [b]~ The Haunted is the name of the enemies you will fight. They come in various sizes with different weapons. Some might be small and will carry a simple one-handed melee weapon whilst others might be bulky and will carry a two-handed melee weapon. Some enemies will also use guns against you. The bosses themselves are also extremely intimidating, they're huge, menacing and one hell of a foe to fight. Sometimes running, sneaking, and hiding is the way to go, believe me when I say there is no shame in running to fight another day.[/b]
+
+● Nice feeling of loneliness [b]~ Your cop buddies are going to be far and few between. When they appear they won't be there to stay for long. You will always be on your toes and most likely alone 90% of the game. It really helps set the atmosphere and immersion more but the story in my opinion suffers as a result of this. More on that below.[/b]
+
+● Steam achievements
+● Steam trading cards
+
+[h1]Cons:[/h1]
+● Subpar PC port
+● No mouse side button support
+● Microsoft Store Exclusive Version
+● Very low character development
+● Convoluted story + Need to play the DLC to understand it
+● The DLC isn't even fun to play through
+● Assault rifle enemies
+● Magnum is pointless
+
+[h1]Cons Summarized:[/h1]
+I hit the character limit so I’m going to be leaving a google document where I will have every con of the game summarized. If you are looking for a short but informative review that gets straight to the point then the cons here should explain everything just by reading the name of it. If you are looking for a more detailed reason for each con that I listed then check out the link below that leads to the Google document.---> [url=https://docs.google.com/document/d/1OayabWfU61N99PyMtTt0dz4a9gbXnFEQ6zNvLmYdPko/edit?usp=sharing]Link[/url]
+
+[h1]Conclusion:[/h1]
+Despite The Evil Within lacking in any good story plot and character development it for sure makes it up in the gameplay department. I found myself enjoying the game purely for the gameplay alone whenever it would be my turn to play the game in the next few upcoming days. The planning, slow thinking, and strategizing when on low supplies really made for a fun experience. But as I had mentioned above, this isn't the kind of game in my opinion that you play to experience a good story or any good character development. The Evil Within goes on sale for very cheap but even at the full price of £7.99, you will find fun in this neat little survival horror.
+
+[h1]Overall rating 7/10[/h1]
+
+[quote][url=https://store.steampowered.com/curator/7871885/]Follow our curator page,[b] OCG-Curations[/b], if you like and want to see more reviews like this one.[/url][/quote]",0.7309508323669434,20,True
+268050,32954872,76561198116100475,"[h1] The Evil Within... A Game I strictly don't wanted to start, because I'm a huge Pu$$y [/h1]
+
+I dont play Horror Games really much, because I don't like that Jumpscare aka. Five Nights at Freddys, nor do I like those insanely Loud noises just to ""scare"" someone. That's not my type of ""horror"". It's more like a pile of poop.
+
+I picked up ""the Evil Within"" on sale through steam and it runs perfectly fine. I heard it was poorly optimized on release for pc but i think they fixed a lot of issues with it. Anyway, I love this game. The graphics, the combat and the atmosphere are top notch in my book. The survival aspect is also extremely well done. I was always low on ammo but never was hopelessly out. It still forced me to take my shots carefully because every single shot counted. I haven't had an experience like this for a while. I also like how each enemy is harder to kill than you would think and boss encounters are a mixture of shooting and lite puzzles.
+
+My biggest and only Problem with the Game is that some areas / Bosses / Events, are really... stuP*D sometimes. Let me give you an example:
+
+At one point in the Game you're in a huge... House. Ruvik (the bad guy ;D), sometimes instantly spawnes somewhere and is chasing you and you have to dodge him as long, as he disapears. Which means, that if he catches you, you are dead, instantly. Not a huge problem so far, but now, here comes the tricky part:
+
+He can teleport. He can instantly teleport behind you and catch you like instant. Thats a HUGE bullsht. Sometimes you have to restart certain events multiple times, because you don't know what you have to do. some bosses are insanely du(m)b, and have attacks that insta kill you as well.
+
+All in all the Game is worth it, because the game scared me ATLEAST 2 Times per half an hour. Love it!
+
+
+*RECOMMENDED*",0.7259488105773926,59,True
+268050,195723271,76561198401997088,"Enjoyed playing the game back in 2014 on console. In 2025 the pc version doesn't run on an rtx 4080S/9900x. It's not a bad game, but it isn't worth the hassle and hoops to jump through to experience it on modern hardware.",0.6740666627883911,30,False
+268050,32775596,76561197995700015,"The Positives: 
+- ENVIRONMENT. Creepy, intense and downright beautiful.
+- SOUND. 10/10 for the Sound department. Much better with a gaming headset as against speakers. 
+- Gameplay Mechanics. Especially the upgrade system. 
+- Content. Long, satisfying campaign with New Game + and replay value. 
+- Enemy types. I like that they added a bunch of interesting enemies rather than having just generic, cannon fodder ones.
+- Port. Had issues at launch but most of them have been resolved including the dreadful letterbox/black bars. I didn't experience any bugs or frame rate drops. 
+
+The Negatives: 
+- Average Story 
+- Uninteresting/dull characters
+- A.I is all over the place. Sometimes it works like a charm otherwise its downright dumb. Breaks immersion.
+- Lack of FOV settings. You can adjust that using third party plugins but should have been in the game.
+
+Verdict: 
+The Evil Within is truly an UNDERRATED game IMHO. Its not GOTY material but its fun enough for me to go back and play it a second time.",0.7232722043991089,18,True
+268050,88735724,76561198033222963,"This is one of my favourite games, I've beaten Akumu with no upgrades even though I died 200 times at the start of chapter 6, I love it that much. But this version is outdated and won't ever be updated so never buy a bethesda game until they fix their ways.",0.7225244641304016,60,False
+268050,12650826,76561198055988662,"I really wanted to like The Evil Within, and for a while I did. Like most people, I got hyped up for the game by seeing TV and online advertisements and hearing about how Shinji Mikami planned take the game back to the Resident Evil 4 days. More or less, the game is basically Resident Evil 4 2.0(I'll let you decide if that's a bad thing). It uses many of the tropes and themes from Resident Evil 4 and other Resident Evil games very fequently. One of the things I noticed is that it uses the 'person crouching and they turn around and they're scary' trope from the first Resident Evil game to the point where it becomes noticable. It's almost like they were trying to recreate that scare that freaked so many gamers out but it just doesn't work because they're already so used to it now and it's already been done. If you played Resident Evil 4, you pretty much played The Evil Within.
+
+The game starts off promising enough, throwing you right into the survival horror action. The game has a pretty strong start but unfortunately starts to go downhill from there. I really wouldn't call The Evil Within a horror game, it's more like a third-person action shooter game with spooky enemies broken up by intense thriller moments. Sneaking and hiding is recommended but enemies always seem to turn around and notice you right when you're about to sneak kill them, and i think I used the hiding mechanic in the game only a handful of times. 99% of the time, going in guns blazing is the best way to get through an area or deal with a group of enemies. Another thing I would like to mention is how diffcult the game gets at points. I'm one for a challenge, but there are parts and sections of the game that just feel unfair. At points, you will run out of ammo while being chased by a group of enemies with no way to kill them(even if you used your ammo liberally), and at others Sebastian will blantaly miss headshots from 2 feet infront of him that seem impossible to miss. It becomes less of a challenge that you can complete with enough skill to something that just seems unfair and frustrating.
+
+PROS:
+
+-Fun gunplay, it feels satisfying to shoot things and cause blood to spray out everywhere.
+
+-Good pacing
+
+-Pretty intense heart pumping moments at certian sections in the game
+
+-Effects and music give off a creepy atmosphere(I especially liked The Keepers effects)
+
+CONS:
+
+-Game becomes so unfair at points that it leads to an artificial difficulty that will leave you frustrated. 
+
+-Scares are predictable, and the scares it tries are overdone
+
+-Graphics are nothing to look at(this has been talked about many times before, but I was running this on a Titan Black and the graphics are extremly sub-par for a hyped up 2014 title)
+
+-Black Bar
+
+-Controls can be clumsy, Sebastian can(and will) take the slow moving ladder down when you tell him to jump off right as a enemy with a chainsaw is about to take off your head and you'll find yourself running into low rising walls that you want to jump over many times.
+
+-The Story. Stories in survival horror games are a big part of the experience for me and The Evil Within fails to deliver. Even if you collect all the notes you're left with so many loose ends and questions. The story is so cryptic and confusing and you never learn the answers for the big questions that it's really not worth following in the long run(the story is so bad that they're releasing a 2 part dlc that Explains things from Kidmans side that is supposed to clear up things and tie up the loose ends. but should you REALLY have to buy a DLC to understand the story?)
+
+-Insanity is a boring overplayed trope in horror games, and this game follows to the T the generic forumla of insanity based horror games.
+
+-The voice acting is extremly bland, actors deliver their dialog with very little emotion and it sounds out of place and laughable whenever a character tries to respond to the horror going on around him
+
+-The game went on for a little longer than it should have. A lot of the ending chapters were 'Get from part A to part B alive!'
+
+Overall, I wouldn't reccomend The Evil Within to a friend unless said friend is a horror games buff, then I would reccommend him to buy it while it's on sale. The Evil Within is a fun game, but at the same time a very flawed one that will leave you unsatisfied with what you got and wanting answers. 
+
+6/10.",0.6725074052810669,387,False
+268050,65865903,76561198382759804,"I love to play this game during Quarantine And I really enjoyed it. Amazing game, if you love Dead Space, Resident Evil and Silent Hill, pick it up.",0.7215587496757507,18,True
+268050,98030849,76561198870705969,The Evil Within game is a brilliant survival horror game . The storyline is fantastic and the zombie's are brilliant even the boss fights are brilliant. This game is beautifully terrifying!,0.6709986329078674,30,True
+268050,44294442,76561198241259700,"A creepy and gory horror game, but one that tells a pretty interesting story along with it. At first I thought it was just a basic horror movie ""hide from the chainsaw guy"" but got much more interesting with the addition of puzzles, action sequences, and disgusting bosses. 
+
+Only issues with this are technical, with kinda janky movement at times, inconsistent optimization and garbage in game v sync. Had to use a console command to keep it from stuttering at 20fps. Other than that, very enjoyable experience.",0.6678622961044312,15,True
+268050,102005364,76561198160039417,"One of the best survival horror games I've played! Everything about this game is great. 
+
+It has a good art style, Re4 inspired 3rd person action gameplay, an interesting story to unravel, plenty of weapon variety, a good upgrade system, fun unique bosses and puzzles, and you're always rewarded for exploring.
+
+My only complaint would be that the beginning of the game where you're in an open town area is kind of overwhelming and takes a while to progress. Other than that the game is pretty much linear with some exploration. 
+
+I definitely recommend you play the DLC's as well. They are all good. Def pick up this game if you're a fan of the re or dead space games!",0.667722761631012,11,True
+268050,35931709,76561197969592572,"Well finally played this game AND finished it... three damn years later...
+
+Oh well, it is done now!
+
+[b]So what is The Evil Within?[/b]
+
+[h1]STORY:[/h1]
+[b]To make it as bluntly as possible, it is a mix-bag of ""The Matrix, Inception, Ghost in The Shell"" EXCEPT with a huge horror setting. Telling you the story in detail would spoil pretty much the game but what I could say, your character (Detective Sebastian Castelanos) get's thrown into somekind of a wireless collective counsciousness experiment. He is ""fighting for his life"" into that strange F-ED up place while trying to make sense about all of it. You get thrown there from the many off-duty investigations your character have done pre-game. Investigations about your missing daughter and wife. And as the game progress, the people you trusted aren't what the seemed and vice versa for the untrustworthy foes![/b]
+
+[h1]GAMEPLAY:[/h1]
+[b]The Evil Within is very reminiscent of Resident Evil 4 and +. Controls are clunky at times and you do feel like Sebastian is moving underwater. For a detective, he can't run for long until you do upgrade his Stamina (VERY RECOMMENDED). The game is relatively easy when you set aside the few cheap deaths you can have at times (when you figure out what to do) and most oftenly, when a pre-rendered cutscene has stopped playing and gives you back control of Sebastian, you have like 2 seconds to do an action or you die. There are some puzzles to uncover for game progress and many collectibles which can add replayability if you do seek to maximize all of Sebastian's abilities. Game length is pretty decent for an horror game, especially if you do play all the DLC (which I do recommend very much).[/b]
+
+[h1]VISUALS:[/h1]
+[b]Visuals are impressive at times while you do see many low resolution textures at places. The monsters are very well designed and almost reminds me of ""THE THING"" movie creatures at times.[/b]
+
+[h1]SOUND:[/h1]
+[b]Sound design is serviceable. Nothing groundbreaking and nothing exceptionally bad. I did turned down the music as it was more counterproductive (and annoying) than anything else. Especially when stealth is mandatory in big portions of this game, you do have to focus your hearing for the foes![/b]
+
+[h1]RECOMMENDATION:[/h1]
+[b]All in all, I truly recommend this game for any horror fans and especially for Resident Evil fans. You will recognize Shinji Mikami's style in The Evil Within![/b]
+
+[h1]THE ASSIGNMENT DLC:[/h1]
+[b]Playing this story dlc as Juli Kidman, a rookie detective investigating the strange cases with Sebastian, you get some more info where she comes from and who she truly works for. You barelly fight in this DLC. This was an annoyance to me as Juli has pre-determined skill and abilities and she can't run more than 3 seconds. Two-hit and she's dead. This DLC orders you to play as stealthily as possible. Gameplay was disappointing for me but the other point of view from Juli was quite interesting and fairly long for a DLC, about 3 hours long.[/b]
+
+[h1]THE CONSEQUENCES DLC:[/h1]
+[b]Picks up right after THE ASSIGNMENT DLC ends. About the same thing as TA, gameplay speaking. The story continues and ties up Sebastian's story right until the very end of TEW main game. You do get to fight a tad more but not enough to my liking. I just dislike the way the devs made Juli so weak and vulnerable compared to the ""Sebastian"" tank! DLC is about 2-3 hours long.[/b]
+
+[h1]THE EXECUTIONNER DLC:[/h1]
+[b]Oh my oh my! This DLC is a glorious blood bath campaign! Story doesn't seemed tied much with TEW main game as you play... a test subject... inserted into that F-ED up counciousness world. And in this DLC, you play as one main villain, The Keeper (the enemy that has a big safe for its head). DLC played as First Person Mode, you battle against other monsters from that world. To my surprise, it is a very fun and 'JUICY' DLC! Lasts about 2 hours top.[/b]
+
+[h1]OVERALL:[/h1]
+[b]I recommend The Evil Within with all the DLC![/b]
+
+[i]... and now, to The Evil Within 2 that just released and which is apparently WAY better than TEW1...[/i]",0.717303454875946,23,True
+268050,207637137,76561198029260973,"Do Not Buy The Steam Version Of This Game!!!
+
+The game was not made to work on certain PCs at least that's what I've been experiencing with it. For some odd reason this game doesn't run well at all on modern hardware and the developers never initiated a patch for it. The black screen of death is very common in this game and user's have reported a whole list of issues in it.
+
+Should have been called ""The Broken Variant""",0.6648709177970886,22,False
+268050,35778364,76561198078736933,"As someone who has 100% completion status on both the main game and all DLC, this game is incredibly good. The story and pacing can be difficult to understand, but this is all made to be intentional as the world the game takes place in is incredibly erratic and ever-changing. The collectibles in this game fill in the blanks and help to flesh out the story quite well, rewarding thorough exploration of each area you go through. It's like Resident Evil 4 but with an amazing story and amazing controls... what you would get if you mixed Silent Hill + Resident Evil and then added good gameplay and a deep lore. Everything has symbolic and deeper meaning than what the surface shows in this game. Resource management is scarce even on Survival difficulty, and managing resources along with upgrades properly will make a big difference in how you progress. Decent stealth mechanics, and a plethora of ways for you and the enemy to interact with each other. There is no shortage of awesome and creative ways to sneak past enemies, silently kill them, or (provided you have the ammo) run in guns blazing. The enemy AI is very fun and challenging on most difficulties, and you'll be sighing with relief every time you clear an area.
+
+
+A word of caution, however. I do not recommend you try out  悪夢(AKUMU) difficulty unless your intention is to Platinum this game or something. By far one of the hardest challenges I've ever done in survival horror, you thought RE5 Professional or Doom 3 Nightmare were hard? No, The Evil Within on  悪夢(AKUMU) takes cheapness to a WHOLE NEW LEVEL. First of all, ONE HIT of ANY kind will kill you. If Sebastian takes ANY damage whatsoever, he will die. It will make you want to scream and smash your controller, I promise you this. An almost robotic amount of self control is needed to get through that difficulty mode.  悪夢(AKUMU) literally stands for ""worst nightmare"" and well it really is. Enemies have massive health and speed increase, huge hit detection, field of vision the size of a football field making stealth nearly impossible, enemies with 100% accuracy and can fire 2 sniper bullets in a row without even reloading... erratic zigzag attack patterns that cannot be predicted as they are based on pure RNG... more bear traps and explosive mines than you can count... there's even a part where you are forced into a cutscene and if there are any Haunted left alive, they will kill you and there is nothing you can do about it as you are forced to be still in a cutscene. This mode was not really well thought out IMO, it's almost as if the devs said ""You guys know what would be THE MOST f***** up thing we could add?""
+
+
+
+Other than that I 100% recommend this game to anyone and everyone interested in the genre.",0.7117530107498169,28,True
+268050,136324313,76561198967888189,"A police car rushes to the psychiatric hospital, completely bloodless detectives exchange a few dialogues that you immediately forget, and voilà, you are already outside the main gate, where the massacre awaits. In the words of the classic, ""there are pieces of meat rolling everywhere.""
+The dudes don't bat an eyebrow, which is a little jarring in contrast to their realistically modeled sweat on realistically modeled faces. And suddenly you're underground, where a mountain of fat is cutting up corpses and in a moment they're chasing you with a chainsaw in a scene where you just press the analog forward and you're the winner.
+
+If you're expecting psychiatric hospitals, scripted escapes and, of course, the necessary cuts of meat, you'll get it pretty much immediately. If you expect a good game, you will wait until around the sixth chapter, where until then the routine and at the same time bizarrely portioned matter begins to get the necessary contours.
+The unfolding story of the clinic's strange patient and the even stranger practices of the staff and management is still a total dud, and unshaven detective Sebastian Castellanos is still about as interesting a character as a hardware store banner, but all the shooting and dodging and burning zombies? This is a treat where you can't doubt the skill of Mikami (the director) and his team.
+
+It's not for nothing that the subgenre to which The Evil Within belongs is called surival... there are few bullets, sometimes too many enemies, and above all, even the most impoverished undead can withstand a lot. What else would you expect from a guy covered in barbed wire, a policewoman pierced with nails or moldy siamese twins? These aren't sharpeners - or rather they are, but you have to honestly sharpen them yourself. [b] 30% [/b]",0.6617099642753601,17,True
+268050,196841203,76561198149706436,"A Decade Later, Still a Masterpiece – The Evil Within Series
+
+I remember playing The Evil Within back when it first launched on PlayStation. Hard to believe that was 11 years ago! Time really flies. I was instantly hooked by the intense gameplay and incredible storytelling. It wasn’t just another horror game—it had depth, atmosphere, and a psychological edge that stuck with me long after I put down the controller.
+
+Recently, I bought both The Evil Within 1 and 2 again, and diving back into Sebastian’s journey has been an absolute thrill. The tension, the twisted world design, and the emotional weight of the story still hold up so well. Tango Gameworks created something truly special. Experiencing the psychological horror all over again feels like reconnecting with a long-lost favorite movie or book, only better because you're right there in the middle of it.
+
+I'm so happy to be playing these games again and I really hope they continue the series. A third game exploring more of Sebastian’s world or even a new character in the same universe would be a dream come true. Fingers crossed we get more from this chilling and brilliant franchise!",0.6601273417472839,13,True
+268050,221369250,76561198186572406,"Incredible atmosphere, incredible art style, pretty hard in some sections, overall an incredible game, a masterpiece, 10/10.",0.6585651636123657,12,True
+268050,93648404,76561198053605311,"[h2]Brutal survival horror, with some of the highest of highs and lowest of lows in the genre.[/h2]
+
+[b]This can be an unforgiving experience requiring a lot of trial-and-error. Here are my spoiler-free tips to numb the pain on your first playthrough:[/b]
+[list]
+[*] If the FOV feels too cramped, install the ""Flawless Widescreen"" app and play around.
+[*] Running away is almost always the best option. The enemies bum-rush at every chance they get. Standing to shoot a mob equals certain death during the earlier chapters.
+[*] Sebastian starts with abysmal stamina. Upgrade it ASAP to 6.0. Get it to 8.0 before Chapter 10, and you'll avoid a ton of resentment. You're welcome.
+[*] There's a risk-reward system with traps. However, disarming them can get too frustrating, as you pay with your life for failure. Ditch them or tinker around after saving your game.
+[*] If you hear the Save room theme, always choose to pay a visit to the mirror world. Stuff changes in there all the time, and you pick up new info from the notice boards as well.
+[*] Use your melee only to break statues and breakable objects like wooden crates. Melee doesn't do jack sh♥t otherwise.
+[*] Pay close attention to the upgrades on the skill tree. Many fruitless categories to sift through. Remember, all enemies are weak to fire, even bosses.
+[*] Stealth kill whenever you can. Conserve ammo for bosses and gauntlet encounters. If you have to engage a mob, shoot their legs, and set them ablaze to kill multiple enemies.
+[/list]
+
+[quote=]
+[h3]Common criticisms:[/h3]
+[b]""Those horizontal black bars...screw them!""[/b]
+Go to Options > Graphics > Hardware Settings > Set ""Letterbox"" to Disabled.
+
+[b]""Optimization sucks. The textures load slowly in front of my very eyes!""[/b]
+None can defend this. It's just id Tech 5 being a b*tch. While MachineGames and id (obviously) used the engine better, Tango-chan couldn't do sh♥t. Dropped frames, texture pop-ins, and other problems on a low-end rig.
+
+Fortunately, with patches, and the raw power of modern hardware, your experience can get close to stellar. Got stable 120 FPS with no noticeable texture pop-ins: thanks to the RTX card, and the fast NVMe SSD at my disposal.
+
+[b]""The story is nonsense.""[/b]
+Disagree. While it has plotholes, I think TEW has a compelling story on Psychological Horror, told rather poorly. Just because you can't understand, don't write it off, and/or jump on the hate bandwagon.
+
+[b]""Sebastian, and the other characters are uninteresting.""[/b]
+Could be better, yes. Sebastian isn't as charismatic as Leon Kennedy, nor is he as tragic as John Marston, but he isn't awful. I can tell since I read Sebastian's personal files hidden in the game's world. The antagonist, on the other hand, gets considerable character development.
+
+The DLCs flesh out Sebastian, Juli, the antagonist, and the overall setting quite a bit also.
+
+[b]""Janky movement and unwieldy controls.""[/b]
+Concur. Tango is no Capcom, that's for sure. Takes a while to get used to.
+[/quote]
+
+[h3]Positives[/h3]
++ Aces the classic Survival Horror checklist
+[list]
+[*] Puzzles: Easy af, but ✔️.
+[*] Sound design: Excellent. ✔️.
+[*] Exploration: Resounding yes. ✔️.
+[*] Atmosphere/Visual Horror: Fantastic. ✔️.
+[*] Lighting: Fortunately a forte of id Tech 5. ✔️.
+[*] Tension and a sense of dread: Constant, from start to finish. ✔️.
+[*] Resource management: Resource drops stingy af, but yeah...definitely a ✔️.
+[*] Inventory management: Not explicit. Combined with resource management - ✔️.
+[*] Immersion: Questionable, as the game's performance can be horrible. It works, so ✔️.
+[/list]
++ Superb enemy variety and design
+[list]
+[*] Common enemies, bosses, mini-bosses - there's a staggering amount.
+[*] Almost God-tier monster designs. Disgusting, unsettling, and terrifying.
+[*] Mikami-san channels his RE4 days. A+ stuff that extends down to the detailed death animations!
+[/list]
++ Satisfying combat, plus boss fights
+[list]
+[*] Standard arsenal, yet the guns feel and sound powerful.
+[*] Neat gunplay with a decent weapon upgrade system akin to RE4.
+[*] The frantic combat is conducive to creativity & strategy. Hint: Matches.
+[*] Precision aiming like RE4. Believe RE7/RE2 Remake totally borrowed it from here.
+[*] Intense boss fights made me sweat. Will remember them for (mostly) good reasons.
+[/list]
++ Old school game design
+[list]
+[*] Asks for a calculated approach, and maximum attention from the player with well-thought out enemy placement, along with an assortment of traps.
+[*] Competent level design with well-hidden secrets. You have to conquer your fears, and examine every route to keep fighting.
+[*] There is no map in the game! Do you know how damn refreshing that is from the exploration standpoint?
+[*] Punishing. ""Survival"", supposedly the game's Normal difficulty is harder than the Hard mode on most modern 3rd person games.
+[/list]
++ Complex plot, lore and presentation
+[list]
+[*] Stylish, well-directed cutscenes.
+[*] There's cheese, and as mentioned prior, the story-telling could be better.
+[*] The story has mystery, plus suspense that nudge you to keep pushing on for a nice payoff.
+[*] The symbolism is strong, and there's hidden meaning to numerous things...right down to the enemy designs.
+[/list]
++ Long replayable campaign
+[list]
+[*] The campaign lasts 15-20 hours. Way more if going for collectables.
+[*] No day one DLC. No microtransactions. No loot boxes, nor tacked on Multiplayer modes.
+[*] Paid DLCs: The Assignment (2-4 hours), The Consequence (2-4 hours), and The Executioner (1-2 hours. Skip if you have to, it's a side story.)
+[*] New Game +, Higher difficulties - including one that's a Game Over on one hit aka Akumu, as well as cool unlockables fuel repeat playthroughs.
+[/list]
+
+[h3]Negatives[/h3]
+- Too many horse-sh♥t 1HKs and cheap deaths that ""reward"" one's curiosity
+[list]
+[*] 1HK aka One-hit kills are amazing tools to put the fear of God into the player. The key is to do them right, and sparingly. Example: Dr. Salvador from RE4.
+[*] Several bosses, and mini-bosses have 1HK, or set you up for stun locks. It should take skill, and not luck to defeat these foes.
+[*] Oh, do you want to disarm a trap? Boom...""Game Over"". Not fast enough on a narrow runway filled with obstacles? ""Game F'n Over"". I could go on...
+[*] Your starting 2-second stamina ran out? Too bad...the punishment is your forced to stand still for several seconds, and await your death.
+[/list]
+- Clunky game mechanics
+[list]
+[*] Stiff animations and sluggish movement on Sebastian.
+[*] Rare, but the collision detection can fail to work. My bullets have gone through enemies!
+[*] Why in the blue Hell does the player have to specifically crouch near blinded enemies to do stealth kills?
+[*] Even the most basic enemies are overtuned to massacre our boy: Sebastian. They move way too quickly and arbitrarily for the normal player to react.
+[/list]
+- PC performance with lackluster graphical options
+[list]
+[*] This is a console port - pure and simple.
+[*] Can't comment on M+KB support, as I didn't bother.
+[*] No high-resolution textures. AA doesn't really work, except for FXAA.
+[*] No remappable buttons. Thankfully, there are button config presets to select from.
+[/list]
+- A modern game after all
+[list]
+[*] Unnecessary crafting system with a rudimentary skill tree. I would've done away with the system, by making Stamina 6.0, and buffing weapon capacity.
+[*] Shallow stealth system with throwable distractions. (FFS...TLOU didn't invent throwable distractions. They have been a thing since 1998's seminal Thief, perhaps even earlier.)
+[*] The DLCs should've been included with the Standard edition. They add a lot of straight-forwardness to the story that the mainstream populace would appreciate.
+[/list]
+
+[h3]Mild annoyances[/h3]
+[list]
+[*] Lack of dedicated quick-turn.
+[*] Hiding in a closet, and under the bed are useless or situational mechanics.
+[*] Can't shoot enemies through obstacles like prison bars, although you get a clear shot.
+[/list]",0.6575713157653809,15,True
+268050,13349362,76561198009826139,"So let me clarify my reasoning for the negative review.  While there were points that I did enjoy this game, I can't recommend it for the following reasons.
+
+1.	The control mechanics were subpar.  I understand the intent behind the mechanics was to instill a feeling of fear and anxiety, the execution of those controls really instilled more of a feeling of frustration.  There were several points in the game where my projectile (be it bullet or crossbow bolt) appeared to hit the mark dead on, but caused no damage.  
+In addition to the shoddy aiming mechanics, the stealth component of the game was extremely hit or miss.  There were points at which an enemy would look at you dead on and not see you, but then other times when you were completely hidden the enemy would become alerted.
+
+Also there were platform components of the game that were extremely frustrating as the fixed camera angle made it almost impossible to avoid the various trip wires and enemies in some areas.
+
+2.	The second and most frustrating component of the game was the inconsistent difficulty.  In some cases you are not meant to defeat the boss but rather evade it.  But in other cases you are meant to defeat the boss.  This inconsistency lead to some very frustrating checkpoints in the game.  Also the boss battles seemed (in some cases) frustratingly difficult compared to the difficulty of the game overall.
+
+3.	Finally the story was just okay.  There were no “HOLY CRAP THAT WAS SCARY” moments nor were there any parts of the game that were particularly tense.  With a pedigree like Shinji Mikami I did expect more.
+
+So if this is on a particularly good sale I would not discourage picking it up, but be aware of the fact you are in for about 8 hours of fairly mediocre game play with about 4 hours of frustration.
+",0.6540858149528503,188,False
+268050,150148303,76561198087462014,"Where this game feels great it undermines itself every time. Multiple sections where you need trial and error to defeat instant death. then intercutting sequences of survival horror with stealth, then action, then explorations. Difficulty in this game is inconsistent and I want to be clear that it is not ""unforgiving."" It is simply unfair in many sections. You cannot marry the concepts of instant death bosses and resource management without being clear which one you're doing.",0.6539933681488037,23,False
+268050,207693474,76561198381096821,unplayable on amd gpus unless you want to play it windowed which ruins the experience,0.6523405909538269,17,False
+268050,215847720,76561198832853383,"Very underrated, ignore the ""It doesn't make sense it's just random scenarios reviews,"" it'll make sense if you play the game for more than the first 3 chapters. This game isn't just a Resident Evil Clone, it is technically a hybrid of RE gameplay and Silent Hill Storytelling with a lot of heavy inspiration from them. Gameplay wise it's very simple and dated, but if you aren't a total Redditor Nerd who only cares about modern gaming without realizing games don't need to be perfect to be fun, you will 100% enjoy yourself. Just remember that the game is in fact old.",0.6479879021644592,14,True
+268050,97334478,76561198108016010,"This is a game I should've played a long time ago. Although the parallels that could be drawn thematically to present day exist in some sense, so it works out.
+
+The Evil Within is like RE 4.5.6 minus the cheese. The direction style is something only modern Capcom games have in common. In RE 5 there was a similar white flashing effect, In RE 6 there is the ambulance/slow mo/starting crash cut-scene and emoting during drama, in RE 4 there are the expressions and camera angles.
+
+Truly bewildering and takes a careful eye to recognize. 
+
+You'll be going on a very diverse and long journey through a gothic/industrial hellscape of a misanthropic and twisted mind's creation. With hints of pre-apocalyptic catastrophies emerging for scale and urgency at times. Particularly relished chapter 11 of Seb's campaign. Like it was made specifically to appeal to me. I now have no more doubts or regrets for getting this over the sequel and RE Remakes. Shinji Mikami is something else...
+
+I fully believe in Ruvik supremacy.",0.6466938257217407,14,True
+268050,207676911,76561198018508800,I havn't put a lot of time into the game yet. But i enjoyed what i played. The beginning was amazing and freaky one of the best intros ive played,0.6460747122764587,11,True
+268050,32242632,76561198085185252,"The sequel is coming out so I thought I would update my review. This game is super divisive. You either love it or hate it from what I gather, but for the life of me i have no idea why. What everyone was expecting was a follow-up to Resident Evil 4 and that is exactly what we got. Yeah this game was little (lot) more linear, but the gameplay was almost beat for beat exactly the same. Limited ammo, lots of fun guns, a level which takes place outside a castle, lots of gross gory slimy enemies, a level that takes place in a village full of gross angry stabby villagers, and lots of other stuff. The only thing that was missing from RE4 in this game was the inventory management and I honestly don't think it would have worked in this. As for the people complaining that this game isn't scary, shut up. Of course it isn't, it's a followup to RE4. RE4 is one of the goofiest games ever. Leon was a goofy sarcastic asshole who would roudhouse and suplex all the slimy zombie guys, all while keeping his hair perfectly permed. Sebastian is not as memorable as Leon, but the story inherets Leon's goofiness and uses it to create some of the most rediculously awesome setpieces in gaming. 
+
+I like this game. I like it a lot.
+
+It's ok if you don't like it, I don't like lots of things.
+
+But is this game a 68 on metacritic? No.
+
+This game is at least a solid 80, I would probably give it more.
+
+I like it more than RE4.
+
+I'm sorry.",0.694136381149292,24,True
+268050,125887677,76561198100188228,"Sebastian Castellanos is a chad, and I mostly bought this game because I wanted to look like a super cool washed-up waistcoat-wearing detective who carries a gas lamp through a mental hospital.  The aesthetic of it was so appealing to me, I couldn't resist.  Little did I know, this sentiment would serve as my main takeaway from the Evil Within.  It's a decent game, sure, but it's better as a decadent recreation of horror tropes and movie homages.  I don't know if the game always hits the mark in terms of actual gameplay, but the atmosphere and presentation are so good, I pressed on anyways.
+
+It's where the game's artistic aspirations clash with its gameplay that things begin to feel a little off.
+
+So this is marketed as a survival horror game.  It starts that way.  Resources are scarce, and some enemy encounters can quickly leave your guns empty and your health low.  This all works rather well, as you press forward through a nonsensical labyrinth of creepy hallways, decrepit houses, stinky sewers, haunted mansions.  I would say that the game fulfills its promises in its first half.  The gameplay isn't particularly special, and the difficulty is artificially inflated, as your aim and reload speed, and carrying capacity are all improved by leveling up stats.  You can also light bodies on fire, which isn't super useful, but again, it just looks really cool to see Sebastian strike a match and drop it on some wriggling zombie. 
+
+Then around two thirds of the way through, the game just becomes an action focused shooting gallery, and it stays that way.  The end of the game was a slog.
+
+The story, while intriguing, is barely carried by a cast of very two-dimensional characters.  They all look great, but I feel like the depth of their character hardly goes any deeper than what you can interpret from the first glance at their designs.  The mad scientist is a mad scientist, the hard-boiled detective has a sad past, and Joseph is a nerd.  It's not like they aren't likable, but I didn't find myself actively rooting for or against anyone's survival.  It makes a lot of the game's ambitious story fall woefully flat.
+
+So, I liked this game, but by the end, I felt as exhausted as Sebastian Castellanos always looks, but nowhere near as cool.  Because he, and everything else in this game, looks so damn cool.  Buy it if you like mindbending visuals, it makes for a fun halloween playthrough.",0.6421757340431213,14,True
+268050,80076013,76561198129298467,"This game rides between meta storytelling and ape-brained action, and that's awesome to me.
+
+It's got a lot of pacing issues and the writing isn't particularly strong, but the peaks are very high and the action is a blast to behold. The monster designs are fantastic as well. I can understand that it won't vibe with everyone, but I found it to be a very enjoyable game. Shinji Mikami, the game's director, is known for his role in ""Resident Evil 4"" in which he turned the game into ""action horror"" instead of the survival horror the franchise established. The Evil Within feels like it flipped that script, feeling right as a ""horror action"" game.
+
+I go into this game deeply in my video, check it out if you're interested!
+
+https://www.youtube.com/watch?v=FAW-PtwjuOQ",0.6911281943321228,17,True
+268050,125534744,76561198875446054,"Another masterpiece from the great master Shinji Mikami
+A very complex and completely new story that is the result of the talent of a dynamic mind
+You can clearly see the innovation of the story in the game
+mikami done great job for  THE EVIL WITHIN and THE EVIL WITHIN 2 and now we are 100% awaiting for THE EVIL WITHIN 3 for final chapter 
+lets talk about strong points of game 
+first thing first this game bring sweet taste of  the immortality  of RESIDENT EVIL 4 
+gun play and shooting system is so simple but very easy and good 
+boss fights are very good 
+the enemies are good too 
+game always surprise you in every  counter 
+upgrade system is good 
+the game allow you to search for useful items and combine them for good use 
+DLC are so needed for back story 
+story line is just so perfect and amazing 
+but there are 2 bad things in game 
+first the graphic is so boring 
+the most important thing is the final boss is very bad 
+im not gone spoil more than this 
+so im gone give 9.5 of 10 to this very good game 
+thanks for reading",0.6381168365478516,31,True
+268050,229629458,76561198290958117,"Doesn't run on modern PC's. After the first start, the screen begins flickering every time I try to start up the game and it gets stuck trying to load. While it's in that state, it's impossible to ALT + TAB out of the game and my monitor's resolution turns to 800x600. Only way to fix things is via the old reliable Task Manager. Apparently there's fixes online like downloading third party software and such and while I'm not opposed to fixing up older games, I shouldn't have to try and fix a game from 2014. I mean damn, this was released for PS4 for Christ's sake's and that was only...
+
+Oh, PS4 was released 13 years ago?
+
+...
+
+Well damn.
+
+Anyways, I'm probably going to refund this.",0.6347060203552246,20,False
+268050,92850863,76561198030451917,"Story was a trip but becomes less scary further into the game with addition of more guns. Cool bosses and fun DLC!
+
+Worth a play-through! 
+
+Also Options < Graphics < Hardware Settings < Letterbox = Disable is the setting you're looking for! You're welcome! XD
+
+https://www.youtube.com/watch?v=S0J02hnOE94&t=969s",0.6340650320053101,10,True
+268050,42785649,76561198068413843,"I haven't even beaten it yet, but this game recieves my thumbs up already. Honestly, this game is really good for a survival horror. The Resident Evil developer Shinji Mikami did well with this one. You play as this washed up yet hard working detective taking a call on this murder crime scene with your two partners. But things get ugly fast and this case unravels into something that you would only dream of in hellish nightmares. Or...is this a nightmare itself? You don't know, but you work your way through with mostly futile attempts of understanding it. 
+
+The gameplay is very RE-like. I have read other reviews on this game for steam, and people are saying the main character takes up most of the screen adn that the camera is limited view. I do agree, I still wonder why only two thirds of the screen is taken up by the game instead of entirely. Also, one reviewer complained about the cutscenes being unskippable. Yet, Just about every cutscene in the game is actually skippable. It's one of those games that the skip option appears even on your first playthrough. Another sort of con is the fact that ammo is quite scarce. I assume it's more abundant in Easy difficulty, but I'm a normal mode player. And these flaws people complain about and that I find somewhat annoying, I think they add to the charm of the game. PLus, I can easily work around the mechanical flaws. My experience isn't wrecked by them. 
+
+If you are a fan of Resident Evil and survival horror games in general, this game is definitely worth getting. It even has stealth to make up for ammo scarcity. I'd say this game is mostly well-balanced. And it's actually creepy. The truly nightmarish atmosphere and enemies leaves you with the feeling that something is behind you about to grab you. 
+
+I may update my review once I pass the entire game.",0.6840595602989197,16,True
+268050,202792570,76561197994804658,"Game is SICK, one of the best games ever imo. I wish they would do a 3rd and keep this series going.",0.6333862543106079,11,True
+268050,143973352,76561198072185569,"[h1] I adore this game, if the hours I have on it don't show that, I'm not sure what will! [/h1]
+
+[b] OVERALL [/b]
+I highly recommend to both horror lovers and non-horror lovers, The Evil Within. The story is awesome, the game play is not complex or buggy, the game runs beautifully, and you can replay the game and still have a blast. [b] Get all the DLC on sale! [/b]
+
+ If you're alright with a read, I go into more detail down below! [b] (with no spoilers!) [/b] I'll cover main game and all DLC's stories, game-play, replay-ability, difficulties, and controversy surrounding the game. 
+
+Thank you for reading, hope you enjoy the game if you get it!
+
+
+
+[b] THE STORY [/b]
+
+Simple in some areas, a bit more complex in others. In true horror game fashion if you want the entire story, including how some of the game's characters feel towards other individuals within the game, then you'll collect all the files and audio tapes within the base game and in the DLCs. The story gets dark, with characters back stories and with the actual story itself. You'll see themes of family tragedies, death, murder, serial killings, abuse of patients in a mental institution, religious cults, abuse towards a minor, life altering incidents, kidnapping, psychological manipulation, torture, and more. I can confidently say if you're a true horror/thriller fan, this game's story is for you.
+
+
+
+[b] DLC STORIES [/b] 
+
+If you want the full story of The Evil Within, you'll need to get the DLC, I'm being upfront honestly. Two of the DLC's center around a different character that works along side the main character of the main game, these DLC's are called 'The Assignment'  and 'The Consequence'. The last DLC is called 'The Executioner' where you play as a character not from the main game itself, but an unseen npc (he's neither in the main game nor the other dlc's, we never see what he looks like.) who becomes an enemy with a personal quest. I would highly recommend getting these DLC's on a sale. 
+
+
+
+[b] GAME-PLAY [/b]
+
+I've played this game on my pc only with my keyboard controls, it's easy to adapt to the new items and weapons you're given. If you're naturally good at shooters on pc then this game will feel like butter with it's fire arms. (Funny side note: The basic crossbow bolts have this amazing rag-doll effect on normal enemies, I highly recommend leveling that weapon up, especially the normal bolts which when all the way maxed out have a cool effect with them!) 
+
+The directional keys can sometimes (rarely when you're used to the walking cycle of your character.) act up, I find it only happens when you press too many keys at once and your character gets confused on where to go.
+
+The sprint meter is a bitch, level that up quick! 
+
+Master stealth, it's a life savor! 
+
+This game runs wonderfully, graphics look great, and puzzles are an occurrence but I don't think they're hard so I hope you enjoy them! :) 
+
+
+
+[b] DLC GAME-PLAY [/b]
+
+In the 'Assignment' and 'The Consequence' you don't do a lot of shooting, it's more stealth based game-play, still has shooting though! It runs well, it's controls are the same as the base game but with a few additional elements to it. The third DLC, 'The Executioner', is fun to play. Big hammer, traps, charge attacks, and a few other weapons make it fun to play. It still runs smooth.
+
+In any game mode (base game and dlc's) I have never had any graphical issues with this game in any form. 
+
+
+
+[b] REPLAY-ABILITY [/b] 
+
+The base game has excellent replay-ability. After beating the game once you're given the option to restart the game from that same file with everything you have unlocked (it gives you a little gold medal in your saved game files, a white medal will appear by your total play time and you'll see how many times you've cleared the game on that file.) After beating the game once you unlock fun guns! For people that love achievement hunting, after beating the game once you unlock 'new game plus' which lets you start a game from any chapter. The last thing unlocked when you beat the game once is the model viewer, which offers fun info about the characters and lets you move the models around for fun. 
+
+
+
+[b] DLC REPLAY-ABILITY [/b]
+
+These have less replay-ability, the only things you can do within the 'The Assignment' and 'The Consequences' is achievement hunting and go into a 'harder difficulty' which doesn't change the enemies whatsoever, it only makes the rooms pitch black, meaning you'd only be able to navigate with the light in your hands. 
+
+'The Executioner' is worse replay-ability wise, the only thing you can do is leveling up and unlocking all the weapons. There are no other difficulties to choose from.
+
+
+
+[b] THE DIFFICULTIES [/b]
+
+
+[b] -Base Game- [/b]
+
+[list]
+   [*]Casual- Easy if you wanna do achievement hunting and thoroughly look into story! 
+   
+   [*]Survival- Very balanced all around, enemies are more aware, ammo becomes kinda sparse, and burning bodies will become second hand nature for you. 
+
+   [*]Nightmare- This is how the game is meant to be played and it is tough as hell. Enemies are difficult to fight and are random with their patterns. They will ambush you if you aren't careful! Bosses make you wanna punch a wall, stealth play is your best friend, and enemy icons for alertness are gone! (For auto-aim users, there is no auto aim here!) On the the plus side you unlock the brass knuckles when you beat this mode (or Akumu) and that's fun! 
+
+  [*]Akumu-  Nightmare + any damage the main character takes kills him INSTANTLY. (NO MATTER WHAT HEALTH UPGRADES YOU GIVE HIM!) Uncommon enemies come kick your ass sooner, if you detonate any kind of explosive/fire you will die right away. 
+[/list]
+
+[b] -DLCS- [/b]
+
+'The Assignment' and 'The Consequence' have an extra difficulty but it does not have make the enemies smarter or harder to fight, instead it covers each area you're in, in darkness, so it's just you and your flashlight! The only real replay-ability is for achievement hunting or finding extra songs for a soundtrack player you unlock when you beat the dlcs for the first time.
+
+'The Executioner' dlc does not have another difficultly. And honestly there is no real replay-ability here. If you want to unlock all the weapons and go beat enemies down that's cool! But other than leveling up the weapons and unlocking them, that's it. There's nothing else here.
+
+  
+
+[b] -CONTROVERSY- [/b]
+
+
+There are three main 'controversies' that have come out with this game. 
+
+1.  About how the team behind the game handled the main villain, specifically about his disability [spoiler] Burns over 90% of his body [/spoiler] , which has effected his life immensely. People believe that the team shed a negative light towards people with the same disability. Personally, I don't see an issue here. His condition, after he receives it, is used as a direct plot device to show how his life changed drastically (which for many people with the same condition, it does!). Within notes and audio tapes you find the villain did not like how he looked, he did not feel it was 'the real him'; and for this character it makes sense when you know about the entire story of the game. I'm also sure the team meant no ill-will towards anyone with a similar disability.
+
+
+2. The character models and honestly it's true and funny. The team didn't create character models for brief flash back scenes, so they reused ones they already had at hand, they didn't even bother trying to make them younger it's hilarious. It may confuse people, but I hope later on you're able to decipher it! 
+
+  
+3. The ending of the base game. This is entirely up for your own personal interpretation; If you want to deep dive for everything and draw your own conclusion from that, awesome! If you're cool with just experiencing the story at face value, that's awesome too! It still has fans talking about the game to this day, and I think that's cool!
+
+
+
+
+[b] THANK YOU FOR READING! HAVE A GREAT DAY/NIGHT! <3 [/b]",0.6320404410362244,11,True
+268050,114144692,76561198968516525,"This game came out in 2014 and i would say that it still delivers What makes it a horror game. Game is good and it is sad that we don’t get aften this type of games. The man, The myth and The legend Shinji Mikami delivers What makes him the god of horror games.",0.6302200555801392,16,True
+268050,236222450,76561198846224750,"I have a major problem starting the game.
+I have multiple monitors with different resolutions and for some reason the game just starts freaking out, changing the resolution of my monitor over and over, freezing and unfreezing it over and over. If i had to describe it i would say the game is having a stroke.
+I tried various fixes and the weird thing is, it worked. But only until i tabbed out of the game while it was loading, because i wanted to start a download on steam while playing. Then it went batshit crazy again and none of the ""fixes"" worked anymore. 
+The thing is i am confident in getting the game to work again by reinstalling the game and fixing it again without tabbing out, but why do i have to do so much just to start a game? 
+I don't know, but in my humble opinion, no game should be this unstable and fragile.
+Even if said game is over 10 years old.
+I am severely disappointed, because i played the game in the past and know the story is good, but no amount of Shakespeare writing can make a game good if i cannot even start it.",0.6295892000198364,12,False
+268050,142412341,76561199018135345,need The Evil Within 3,0.6285945177078247,13,True
+268050,19670732,76561197984369484,"The horror comes from knowing that -- when you get one-shotted because you got stuck on an obstacle you couldn't see due to the camera position or because you were facing 2 degrees off-centre from the switch you needed to pull -- the inconsistent autosave will probably mean having to replay a whole section of killing minions, smashing crates, and watching an unskippable 10-second cutscene of a door opening before you can even get back to the boss who will instantly kill you again if you get too close.  Honestly, the only feeling of dread in this game is wondering how long it's been since the last save as you watch your character's umpteenth gruesome death animation.
+
+I don't mind challenging games.  I like the sparse ammo in this kind of survival horror genre that forces you to place your shots carefully, or look for alternatives.  (I also thought the visuals and general mood -- at least the first time through each section -- were outstanding.)  But the challenge here comes primarily from the picky, sluggish controls and the restrictive camera.  Even just picking an item up off the floor requires precision aim, made worse by the fact that when your character breaks open a container he lunges past it, so that you have to turn around to find any item that may have been inside.
+
+And, speaking of item crates, this game commits the classic game sin of penalising you for trying to role play the character you are given.  Often the game or NPCs tell you to move to a goal urgently, but if you do so instead of examining every dark corner and breaking open every container, you'll miss out on myriad much-needed upgrade items, because almost every single time you go through a big door, it slams behind you and you're forever cut off from that part of the game, with the autosave annoyingly deciding that *now* -- and not just before a boss fight -- is the best time for it to take action.
+
+If you like playing sections of a game over and over (and over) because the game actively fought your commands, this may be the game for you.  Otherwise, steer clear.",0.6265776753425598,39,False
+268050,17193806,76561197993440921,"Quite possibly my favourite survival horror game ever. Sure it's buggy in places and the story has some weird moments, but  it overall holds together really well. It's not Resident Evil, despite the creator of Resident Evil spearheading the production. This is something I wish more people would realise, instead of criticizing it for how non-Resident Evil it is.
+
+I absolutely love the ID Tech 5 engine. The graphics in The Evil Within are among some of the strongest I've ever seen. The whole game is dripping in atmosphere and I felt completely immersed. It's also incredibly violent, and Tango Gameworks have gone to a lot of trouble to provide a AAA experience. They really captured the essence of horror and anyone who thinks otherwise clearly hasn't seen enough oldschool scary movies. 
+
+It's also quite a long game. Took me 12 hours to beat the main story and there's New Game+ and a couple other interesting modes to complete. There's definitely a lot of replay value to unlock all of the hidden secrets/collectibles. 
+
+I'd definitely recommend getting The Evil Within if you're a fan of horror in general. It's a challenging game, but very easy to become immersed in. Most importantly, it's fun and quite creepy. Definitely worth playing.",0.6753844618797302,66,True
+268050,157215428,76561198038713122,"PC port on Steam is awful. High framerates cause weird problems like jittery hair and impossible quick time events. FOV can't be changed, and the default is obnoxiously low. Mouselook doesn't feel right, some sort of acceleration and I couldn't set it low enough without console commands. 
+
+These are kind of things I'd expect from a console game, so I tried playing it on my TV with gamepad like I would a console game. Seems like I can't do that either, as the gamepad aiming has some sort of weird giant square deadzone built in making aiming feel terrible. You can set deadzone size via console commands, but the square problem persists.
+
+I've heard some of these problems are fixed on the gamepass version, but not on Steam. You could give it a try there instead.",0.6234107613563538,11,False
+268050,21452245,76561198046917172,"8/10
+The Evil Within is a great horror game with tons of different horrifying looking enemies you'll face. I was very impressed by some of the creatures and scenes in this game. Ammo is scarce on the higher difficulties, so you must conserve it well. The DLC doesn't disappoint either; it provides you with different stories, weapons, gameplay, and new enemies. Overall, it took me around 29 hours to get through all of it. What I disliked is the collectible green gel and the chair used to upgrade your weapons and abilities. Better abilities are great but all that just seemed unnecessary to me and took up time. Other than that I really enjoyed this game.",0.6218789219856262,12,True
+268050,184598920,76561197994109359,"Evil Within doesn't sit too well with everyone, either its the convoluted story or people playing trying to make sense of the whole thing. I think most fans would agree that you do eventually get it to a degree. I don't really find this game as much of a horror game and more of a fun stress test. A horror game is like Alien Isolation with its AI Director, here its more of how well do you do in cramped situations. Tho, the balance of that is actually very action pact.
+
+Weaponry/Upgrades are a major part of this skeleton as you do have choices of where to put your green slime. There are many different methods of how you approach situations and get creative with how you deal with enemies. Fairly memorable and simple characters help the story progress with its bizarre approach but if someone has consumed medias like [spoiler] The Matrix and has played games like Psychonauts [/spoiler] its not as difficult to understand a lot of the choices where the developers are coming from to the world they are giving you.
+
+Overall this is a very fun, silly, mind bending, stressful experience. Evil Within is for sure playing in its own league.",0.621636688709259,11,True
+268050,12816464,76561198048420529,"Despite the low meta score , this game is difficult and has a complicated story.  Normal players will die a lot even in easiest difficulty.    A lot things seems doesnt make senes at first but player will understand later.
+
+"" It is not hard to make a horror game, the hardest part is make it fun "" ---Shinji",0.6699898838996887,117,True
+268050,94580036,76561198197733751,"Apparently this game is divisive and has quite mixed reviews within the survival horror community, but as far as I'm concerned this game is fantastic and a return to form for the legendary Shinji Mikami, it's a twisted and terrifying adventure that takes us deep into the horrors of the human mind, absolutely worth playing.",0.6196407675743103,6,True
+268050,121435039,76561198085831577,"Honestly, this game is the best survival-horror game out there. Absolute masterpiece. It's got its problems like every game, but even its problems are part of what make this game so great.
+
+DLC:
+They're also pretty good, but I will say, I'm not sure what exactly it was, but the DLCs would occasionally have some stuttering that I never encountered during the main game at all, but would semi-occasionally encounter during all three DLCs (but it did progressively stop appearing less and less to where it only happened once throughout the final DLC).
+
+Notes:
+This game is definitely worth your time, especially due to how low you can usually find this game on sale.",0.6191051602363586,8,True
+268050,219367448,76561199088986075,"The game simply does not work. It crashes when launching and this make it unplayable.
+It’s not my job to fix it or spend two hours on Reddit looking for community-made solutions just to make something I paid for run properly.
+If a product is being sold, it should work out of the box.",0.6187814474105835,7,False
+268050,92546806,76561198329520602,"The Evil within.. Holy Sh*t I cannot tell you how much I loved this horror gem. Literally one of the best bethesda published games ever, What happened to this company? Anyway[spoiler]The Evil within is a Horror Action game where you play as Sebastion Castellanos a Depressed City detective with a sad past, When on the way to a mental hospital a loud piercing noise can be heard as he and others experience head trauma AKA Earrape. As time goes on an entity named ruvik knocks out Seb and puts him in an everlasting nightmare of horrible creatures and traps, Along with his other friends to join in on the suffering. [/spoiler] I won't spoil too much and let others enjoy it when they get to. Now I haven't encountered any game breaking bugs, There are weird physic glitches but nothing too drastic. I recommend to anyone who wants a good story and terrifying setting.",0.6163879632949829,7,True
+268050,22491731,76561198000544100,"The Evil Within is a 3rd person horror shooter, gameplay much in the style of the new Resident Evil games with a mix of Until Dawn's movie esque filmed style. The horror element is short lived as you get very used to it and the scariness tapers off as you pass chapter 7. Graphically the game is very pleasing, and the monster visuals are fun to look at. Story is decent, very confusing at first but it's the mystery that drew me in, and as the game progresses you can pick up collectables that will reveal some background into the characters.
+
+
+Pros:
++ Graphics and visuals are eye catching
++ Interesting Horror story
++ Certain bosses make you shit yourself
++ Immersiveness keeps you locked in for hours at a time
+
+Cons:
+- The horror part of the game lasts about half the game long
+- If you want to feel the horror aspect of the game, it must be played on higher difficulties
+- No real replayability
+
+6.5/10
+Would I recommend?
+If you're a fan of the new RE and like horror games I'd give it a try when it comes on sale. I was a little disappointed in how unsatisfied I was upon completion. The game had a lot of potential to be something totally amazing and fell short, though it did give it a good try. I'd like to see more games like this but with better everythings.",0.6159130334854126,9,True
+268050,127234709,76561199174905759,"""The Evil Within"" is an exceptional survival horror game that plunges players into a nightmarish realm of terror and psychological torment. With its gripping storyline, atmospheric visuals, and intense gameplay, it stands as a true masterpiece of the genre. Brace yourself for an unforgettable journey through the darkest corners of the human psyche.
+
+Unrelenting Atmosphere:
+From the very first moments, ""The Evil Within"" establishes an atmosphere of unrelenting dread and unease. The game's atmospheric visuals and meticulously crafted environments create a sense of impending doom at every turn. The attention to detail is astonishing, as each shadowy corner and dilapidated room exudes a chilling ambiance that keeps players on the edge of their seat. Prepare to be immersed in a world where fear lurks around every corner.
+
+Mind-Bending Narrative:
+The narrative of ""The Evil Within"" is a twisted tapestry of horror and psychological intrigue. As Detective Sebastian Castellanos, players are drawn into a nightmarish dimension filled with unimaginable horrors. The storyline takes unexpected twists and turns, constantly challenging perceptions and leaving players questioning the boundaries of reality. The psychological depths explored within the game's narrative make it a captivating experience that will linger in your thoughts long after the credits roll.
+
+Intense Gameplay:
+""The Evil Within"" delivers a heart-pounding gameplay experience that expertly blends survival horror and action elements. Players must navigate treacherous environments, solve intricate puzzles, and face off against grotesque creatures that embody their worst nightmares. The scarcity of resources and the need for strategic thinking add an extra layer of tension, as every encounter becomes a desperate battle for survival. The gameplay mechanics are polished and refined, ensuring that each moment is filled with exhilarating terror.
+
+Artistic Design and Soundscapes:
+The artistic design of ""The Evil Within"" is a macabre and twisted work of art. From the grotesque creatures to the nightmarish landscapes, every visual element is crafted with meticulous attention to detail. The sound design further enhances the experience, with haunting melodies and eerie ambient sounds that intensify the sense of dread. The combination of visual and auditory elements immerses players in a horrifying world that feels disturbingly real.
+
+Legacy of True Survival Horror:
+""The Evil Within"" is a testament to the survival horror genre, paying homage to its roots while adding its own unique twist. It captures the essence of what makes survival horror games truly captivating and terrifying. With its gripping narrative, atmospheric presentation, and challenging gameplay, ""The Evil Within"" stands as a worthy addition to the pantheon of horror classics.
+
+Conclusion:
+Feels like Resident Evil and Silent Hill had a baby that what The Evil Within feels like, Offers a good challenge give you the creep and keep you on the edge yet toward the end of the game it has a small ""identity crisis"" and from a survival horror is goes into a shoot fest, still fun but not needed I think it could have been a bit shorter and better like that, might be a personal take but that how it feel once you are toward the end is like is going for a bit too long all ready with out any real point since the plot is kind of explained at that point. On the plot side it start mysterious and very intriguing making you having a lot of question but as you progress more of those question are answered.
+
+Overall a fun and solid survival horror experience.",0.6153846383094788,6,True
+268050,216113199,76561198328131302,"peak game, absolutly love it. Its like i discovered Silent Hill all over again.
+
+I love getting a Metallic Pounding >:)
+
+Thank Box <3",0.6152042150497437,9,True
+268050,40726129,76561198058025414,"Having loved psychological horror for a long time, I thought to myself: ""Why haven't I played The Evil Within yet?"" and I literally have no idea.
+
+I'm so glad I did though. Despite the odd negative reviews here I'd probably call it one of my top favourite games, the atmosphere and characters are interesting, the story kept me interested and although a little clunky the game play was a lot of fun too ( no idea why people complain about it being too hard or something, seems good to me )
+
+The DLC definitely helps explain some of the story also and you basically get to play hide 'n' seek with Joseph and pet a cat to save the game, so what's not to like
+
+I honestly adore this game and its charms and personally I prefer it over the sequel, though I still love both.
+
+Here's to hoping for a 3rd !
+
+",0.664588212966919,12,True
+268050,26033374,76561198021731187,"I can only recommend this game.
+
+Lots of guns and enemies to have fun with!
+
+DLC that will fill gaps in the story and one where you can have brutal fun.
+
+Characters are fine but kinda stupid sometimes.
+
+Akumu difficulty! Thats the real fun! I died only 516 times on Akumu. Can you beat me? ;)
+
+Enjoy it!",0.6645470261573792,18,True
+268050,199917912,76561199624778655,"A rarely discussed strength of The Evil Within is its use of psychological architecture—levels shift and transform not by the logic of reality, but by the logic of nightmares. This keeps players in a constant state of unease, never able to trust their surroundings, perfectly mirroring the feeling of being lost inside a fractured mind.",0.6126495599746704,8,True
+268050,59510281,76561197972269990,"I'm going to give this game a soft yes. Not an unqualified one, but overall I think it's a decent game. 
+
+In short: the game starts off strongly, but sadly heads into a pretty heavy mid-game lurch. The chapters toward the end are okay, but suffer from all the accumulation of the rest of the game. There are a number of mechanics that are probably more frustrating than they have to be, but they're not ABSOLUTE dealbreakers. Some design choices are questionable (the game loves non-interactive, lingering camera focuses on enemies entering the play area), but these only really become super apparent toward the end, which tends to double down on arena designs that throw waves of enemies at you. Overall, though, the game is reasonably fun, even if it does have its flaws. 
+
+In short: 
+
+Pro: 
+- Fighting is pretty fun.
+- The early chapters are pretty well-done horror-wise. 
+- The weapons feel satisfying and useful. 
+- Certain sections of the game have a great atmosphere.
+- There's a good amount of potential here you can see gleaming through some areas. 
+
+Con: 
+- The plot is pretty flat and isn't really developed much until about the last third of the game.
+- There's a significant mid-game slump that honestly almost lost me. 
+- The game loves one-hit-kill mechanics that SOMETIMES work, but often feel unnecessary. 
+- As the game goes on, it relies more and more heavily on set-piece arena fights and becomes more of an action game in general. 
+
+Now for more detail. 
+
+I really do think the game starts off strong. The very first section lands you in a basement with a nominally unkillable enemy that forces you to hide and sneak around to avoid him. The game has a surprisingly good stealth mechanic appended to it, and the first three or four chapters really let you play with it.
+
+Unfortunately, the game sort of gives up on this mechanic after those introductory levels. The vast majority of the mid-game maps shrink down into tight corridors, small basements, dungeons, and sewers that end up blending together. Some of these maps are visually effective, but many of them are fairly uninteresting play-wise. There's a very real sense of ""are we there yet?""
+
+Except, of course, you don't know where ""there"" is. The plot doesn't throw you enough actual obstacles or problems to give you a clear reason on why you're doing a lot of what you're doing a lot of the time. You're not solving a given problem, just kind of lurching forward. 
+
+That leads us to the plot, which is... somewhat lacking. Primarily, the game suffers from a lack of pacing. There's not a whole lot of plot or story development until maybe about 2/3 through the game, just dribs and drabs supplied through a few found documents and short snippets of dialogue. The game puts off fleshing things out until quite late. Even when the plot does start to come together, it's nothing to really write home about. It's serviceable, but that's all.
+
+Onto more practical matters--mechanics and game design. The game does a bit better here, and overall it's serviceable and pretty fun. 
+
+The weapons are standard fare. The crossbow is the only unique thing here, and it has specialized ammo you can craft on the fly. 
+
+Alongside your weapons, there's a match system. That match system is a good IDEA, but I'm not sure they completely pulled it off. Essentially, as in the Resident Evil games, downed enemies might be playing possum. You solve this by burning them, which makes sure they're dead. Blowing their head off works just as well, though.
+
+There are some situations (a certain boss-fight or two) where this becomes extremely useful to prevent what amounts to a boss respawn (essentially allowing you to skip out on repeated boss phases), but mostly it's to make sure your enemies are dead. But headshots aren't hard to make, which makes things sort of redundant beyond the hardest difficulties.
+
+In short, I think they could've done more with the match-burning system. I'm not sure what, but it does feel like a missed opportunity. 
+
+Now, to a more frustrating part of the game: one-hit-kills. This game loves, loves, loves one-hit-kills. Sometimes (like in Chapter 1), it works and generates a significant amount of tension. Other times it's frustrating, especially because the game isn't really clear on what sort of enemies do OHKs until they, well, OHK you. One boss might deal normal damage, the other might be a straight OHK, and it's hard to tell which is which until it happens. Even some regular enemies deal OHKs, but they're mostly kept to one chapter.
+
+In most cases, I don't think this really adds to the game. It really only adds to the frustration. In some places it even feels cheap. To be clear, it sometimes DOES work well, I just don't think it works well to the degree that the designers use it. 
+
+This is all the more a shame because there ARE interesting mechanics that the designers have, but mostly abandon. One enemy at the beginning of the game is invisible and forces you to use your environment to detect and engage it. You see a small handful in the beginning, but never again--which is a shame, since they're really fun. 
+
+Most of the combat other than that is fairly banal, and the game responds to your increasing power mostly by just throwing you into what amount to arena fights and herding enemies at you. There's a segment toward the end of the game where you literally wait at shutters that pour out waves of enemies for you to kill. The only other answer the devs appear to have is, again, the OHK mechanic. As I said, the game shifts very strongly from being a horror game (which I think it very much is at the beginning) to being a total action game. That's not bad, necessarily, but it does feel a little strange, especially given how all-in they seemed to be with the horror at the very beginning of the game. 
+
+Thankfully, the combat is pretty decent. It's nothing groundbreaking, but it's solid and satisfying.
+
+Finally, there's something that I'm not sure I can say is a con, STRICTLY SPEAKING, but it still annoyed me: this game really loves locking you into lengthy animations and camera pans. 
+
+Applying a syringe (your standard healing item) is something like a three second-long animation where the character takes his absolute sweetest time, regardless of the situation around him. Normally this isn't a massive problem, but in certain boss fights it can be annoying to have to heal up only to be stuck standing there, totally immobile, for several seconds because our main man thinks everyone's going to chill out while he shoots up. There are a number of other animations that are frustratingly sluggish, too, like walking out of water--which the character does like some lumbering lagoon creature, despite there being a OHK enemy swimming after you. 
+
+The camera also loves doing uninteractive, forced pans. For instance: you kill a small gaggle of zombies and the camera breaks away, pans to a door, and then holds its view for a good ten seconds while another group of enemies barrel through and start charging you. There's nothing you can do until the game decides it wants to give you back control. That, for me, is IMMENSELY frustrating--yes, I see them, I get you're trying to tell me that there are more enemies. Just let me deal with them and move on. 
+
+Despite what I've said above, I actually do like the game. I'll probably be picking up Evil Within 2 when it goes back on sale, and I'm going to do another run-through of this one. It has its problems, and there are features and decisions I disagree with, but overall I've had sufficient fun with it that I'm ready to give it a soft yes. If you're big on survival horror and want a Resident Evil spiritual semi-successor, I say pull the trigger and go for it. You might not get all you're wanting, but you'll probably get enough.",0.6619828939437866,10,True
+268050,229422568,76561198293975032,"I wanted to play this game, but unfortunately I couldn't even get it running properly. Every time I tried to launch it, my laptop became completely unresponsive. I couldn't close the game or even shut down my computer normally.",0.6115362048149109,7,False
+268050,14253533,76561198025301599,"After pulling all my hair out and my head became as soft as baby's butt, i managed to finish the game on AKUMU difficulty and thought i would write a review now that i'm back to normal.
+
+- Atmosphere, though the game came from the creator of Resident Evil creator i think it has more of a Silent Hill atmosphere than RE, which to me is awesome. i think Silent Hill and Fatal Frame are the best horror games in terms of scary, tense and twisted atmosphere. this game comes really close to them with amazing and very imaginative world.
+
+- Sound, the sound effects are awesome in this game, great use of audio all around except the voice acting, i could say only Ruvik was good but maybe he is the best of the worst i don't know.
+
+- Graphics, well this game has really amazing graphics and really great lighting/shadows effects.
+
+- Gameplay, it's a mixed feelings here, the game tries to be a true survival horror by limiting Ammo and health pickups, i'm fine with that indeed and it does add to the overall tense atmosphere, but the cheap deathes from traps you wouldn't see or from a sequence that requires you to figure something very fast or you will die and then restart from your last checkpoint. speaking of check points, the game has an absurd checkpoints system, sometimes you will have to restart a very long and tedious section because of a cheap death or something. while the idea of having a world filled with traps is great in theory, this game didn't implemented it very well sadly. the upgrade system is great and you can upgrade your character to your style of play and it works very well. overall there is lots of fun to be had from this game and i enjoyed it, but it could have been much more if not for some easy-to-avoid mistakes that prevented from being an instant classic.
+
+- Performance, well i have a powerful PC that should run it on max settings at 60+Fps but sadly it doesn't, you will get choppy performance no matter how powerful your rig is. it is still very much playable but the port could have been much better indeed. it is much better than the console version for sure and you can remove the black bars and increase the fps cap to 60 or unlock the fps (though didn't try that option, i played with 60fps).
+
+- Story, while it starts as awesome, then becomes very confusing till the last episode or two when everything will kinda make sense. there will be many unanswered questions though even when you finish the game but thats where the DLCs will come to explain i guess.      
+
+in short, the game has an amazing atmosphere and some great ideas, though suffers from cheap difficulty and some technical problems, in the end i would recommend this game, especially to Silent Hill fans more than Resident Evil's.",0.6593372821807861,14,True
+268050,98848553,76561198064467377,"The Evil Within is one of those fondly looked back upon games that just didn’t do it for me. It attempted to cram together every horror genre out there—psychological, surrealism, action, survival—all of which are done better in other games. Sure, there were a few memorable sequences, but the constant jumping around resulted in a disjointed experience. Add to that the convoluted way of storytelling, and well, I just wish I had loved it as much as most.
+What I did like included certain environments and boss fights. Don’t get me wrong, it looked good, artistically speaking. In the beginning I even enjoyed myself, but it overstayed its welcome and by the end I couldn't help but hate it.",0.6090707182884216,34,False
+268050,85879192,76561198066899805,"The Evil Within is a super polarizing game. There are very interesting environments, but as soon as you get to them, it feels like they take it away and replace it with a super generic horror environment (Ex: sewers). It seems like that is the point of the game, but it would've made it phenomenally better if they allowed some exploration around these environments. 
+
+The next thing the game does well is... the journal entries? Let me explain, you can get various tidbits of lore from journal entries scattered around the world. There is your characters journal which is written really well and I would look forward to finding them. There are also various notes you can find scattered around that are written by other people that give a small bit of information about what happened in the many different environments you find yourself in. These are cool and give insight to the greater mystery in the story. Also they are about the only way to minimally understand the story, so there's that. 
+
+Also I liked some of the character designs I guess. The bosses are cool to look at, at least most of them (Looking at you Keeper, you knock off Pyramid Head ass). But most of the time you are fighting fodder enemies that get annoying upgrades. More on this later. 
+
+That is about all I liked about the game. Honestly, I have seen reviews stating the game is a masterpiece at horror and I do not understand why. Literally the only tension in the game is at the very beginning when you have no weapons and need to stealth around enemies. Around chapter 2 (out of 15 chapters) the game becomes an action shooter that is disguised as a horror game. You get a lot of different weapons and plenty of ammo. The game becomes a shooting gallery. The problem with this is, you don't know when to fight, and when to run. There are a few segments where you need to lead a mini-boss through a level instead of killing it. I specifically remember one part where I was supposed to do that, but didn't. I was able to ""kill"" the thing, and it disappeared. I looked around the area and looted it but when I got to the cutscene trigger the thing just respawned for the sake of the cutscene. I understand that it needed to be there for the scene, but please give me better signs when I am supposed to run away instead of fighting. 
+
+The game controls are garbage. They are a weird combination of tank controls and controls you would expect from a 2015 game. It feels so clunky. There were plenty of times I have been hit by traps I was trying to defuse because my character cannot inch forward. This could just be a me thing, but I hated it. 
+
+Most of the characters are garbage. Your main guy, Detective Sebastian Castellanos, is a turd. He really has no emotion whatsoever. He is a bland protagonist in a story that is crazy. The only reason I like this character is because of his journal entries. Those things give him more emotion than the entire game. He is boring, he is also supported by the most boring sidekick ever: Detective Joseph Oda. He is a bookworm. That's it. That is about all he gets. Then there is Detective Juli Kidman. She would be cool if she actually got some development. She is missing 90% of the game and when she shows up, she just says some cryptic shit and leaves. There are other characters that are just as generic and stupid, but the best ones are Leslie and Ruvik. They actually get some decent character development IN THE STORY and you start to understand why Ruvik is doing the things he is. It gives the villain motivation. 
+
+Difficulty in this game is awful. Oh my god is it bad. The game itself is not hard, you can kill most enemies with a few shots and you most definitely will be. But then it throws in enemies and bosses that have one shot moves. WHY? It cheapens the whole experience to just get hammered immediately when you enter a boss room. It's not hard, and there is no tension, just my burning rage every time I have to retry this damn boss. Fodder enemies get these annoying upgrades to just piss you off. THEY GET GUNS! These guns take a sizable chuck of your health. Not to mention, they get assault rifles, and by god they don't miss. Hope you like getting stunlocked to death. Oh, they also get plate masks that block your bullets from headshotting them, so that's fun. Then there are what I like to call ""gimmick rooms"". These are rooms where they are full of traps, that instant kill you, and you have to maneuver through them. Sounds simple right? Wrong. There is always some sort of thing in the room to mess up your movement, whether it be a roomba-saw (yes, you read that right) or the shitty camera. When you are in enclosed spaces the camera just freaks out. Trying to do something when the camera is giving me a close up of Sebs back is not ideal or fun. 
+
+The story. Where to begin about the story. I didn't hate it. It was interesting once you get to about chapter 6. From there it starts to pick up and get good. But there are just so many dumb moments throughout it that don't really make sense. Well, the whole thing doesn't really make sense to begin with I guess. Just a warning, when you play this you will have no idea whats going on until about 3-4 hours in the game. While the story is interesting, it is hard to get engrossed in it. 
+
+In conclusion, The Evil Within has some interesting ideas, but drops the ball with everything else. I am sure there are things I have forgotten to include, but I think this review is long enough. I swear this game was an experiment to see how much shit we can throw at a person until they just accept it and turn their brain off. Oh the last boss is a turret section. That's just awesome. 
+
+I would not recommend this game.",0.6078385710716248,13,False
+268050,45622992,76561197998118312,"Rating: 8/10
+Genre: Third Person Shooter/Survivor Horror 
+
+The Good: 
++ Great graphics
+
++ The game does a great job of mixing up the environments, enemies, gameplay scenarios throughout the 15 chapters. It does a good job of making sure nothing feels repetitive.  
+
++ Conserving ammo and item management is crucial for survival. Luckily, the game has multiple ways of killing enemies such as using stealth and/or the environment.  
+
++ Bosses are disgusting, grotesque and feel satisfying to beat. 
+
++ The DLC content is excellent, providing, all new gameplay scenarios, environments and enemies.  The 2 DLC’s ‘The Assignment and ‘The Consequence’ provide more backdrop to the story and help explain things a bit better in the main game. 
+
+The Average: 
++/- Certain game mechanics are not explained properly or completely ignored. The game vaguely mentions burning enemies to keep them dead but as far as I could tell, that isn’t true at all.  Another minor gripe, in one of the early chapters, a character says he will distract the enemies while you try to open a gate. So naturally, I thought that after he distracted the enemies I would run up and open the gate only to find out you must kill most enemies in the area to proceed. 
+
++/- The story seems to thrust you into the action with little to no explanation or care. Non-of the characters seem to question what is happening and just accept everything happening around them. However, as things progress, more of the characters motives are revealed and things begin to make more sense.  
+
++/- For those looking for a frightening, scary game, I am not sure you will find it here. As grotesque as the game is, I was never truly scared, I am not sure its because I have played so many of these games before or the game itself but judging from other peoples opinions, it seems to be the game.
+
+The Bad:
+- Sticking to 30 FPS is probably the best option as going higher seems to result in unstable framerates and glitches. 
+
+Conclusion:
+I am very surprised by the low Metacritic score, as this game is a fantastic game and well worth at least a single playthrough.  There were times where I felt like I was playing a modern-day Resident Evil 4.
+",0.6570379734039307,16,True
+268050,32224555,76561198042578933,"It's less scary than it is fun. Which for sure isn't a bad thing. Had some good fun with my playthrough, would recommend for some cheap spoops and some pretty fun gameplay. I'm a sucker for the upgrade mechanics in this game.
+I feel it's necessary to also explain that I've beaten the game on the xbone and attempted a second playthrough on steam. So that's why the hours on my profile don't reflect on my review.
+The game is pretty rough to get into a second time because you know how long the game drags you along the ""opening sequence"" which is fucking tedious for a good hour or so. The game doesn't start until the first chapter is over which isn't very good game design.
+Still a really fun game past that though.",0.6565807461738586,22,True
+268050,149436616,76561198870465891,"Surprised I don't hear more about this game, it was something I just picked up for a few bucks during October. I don't like horror games, at least not games that primarily focus on the horror element, this however was a huge breath of fresh air for me. Gaming was getting a little stale, and I 100% needed this. The story is phenomenal, some people say that story is the weakest part of this game, I disagree. Not every story has to end perfectly with the end of the game, just like there can be multiple books in a series. It gives you enough, especially if you look for lore pieces. The rest of the game was amazing, especially given the game is almost 10 years old. Combat was nice, stealth was fun(when I actually used it), the boss battles were nice(screw you Laura), and the game really made me invested in completing it. It's a great play through, 100% recommend especially if it's on sale. The weakest parts of this game, for me, are the DLC. Very different feel, and not my cup of tea personally but some people loved it. Contained a lot of lore that directly connects to the main story, so it's kinda important(but wasn't that fun for me). Except for the last one, the last DLC is short and sweet.",0.6043707728385925,6,True
+268050,20002067,76561198067743804,"Love it ~ Name dropping Shinji Mikami might not get everyone's attention nor the metacritic score; but this game is beautiful and scary at the same time. You get the clunky helpless controls at times but it has like a resi's title variety of awesome enemies and bosses. 
+
+Need a decent pc to truely enjoy this massive [base game size is 30+gigs] and long storied game
+I'd recommend Nvidia ~ the cards tries to use their own physics at times and it just adds to the atmosphere when Sab's face and arms; looks and moves like he wants to run faster than his legs can take him
+
+Also He is a detective with a badge so you can throw a bottle of wine at someone then beat them senseless; while not being accused of Police brutality",0.6539801955223083,9,True
+268050,189160106,76561198092137267,"I don't like the story or the way it's paced/constructed at all. Usually, that would be a significant aspect of how much I enjoy a story-driven game as a whole. Yet, I found myself enjoying the gameplay and combat so much, that this has been one of my greatest experiences with a survival horror game. Every repeat playthrough was still as fun as the last. Sure, not every part of the game is a banger, but there are some bosses here and some level designs that I greatly enjoyed. Unfortunately, the greatest let-down in this regard is the final boss who is just a sequence of scripted events.
+
+There are many ways in which you can die, including some pretty silly traps. I can see that this would be frustrating for many people who'd call it cheap. However, I respect the game for throwing those things against you very early on. I'm currently in the middle of playing the highest difficulty in which you instantly die in one hit. I've already died a lot, and while it's been frustrating here and then, trying to figure out how to come out of various scenarios unscathed has been fun in its own way.",0.6036584973335266,5,True
+268050,195870327,76561199712993978,"Can not play the game, every time i try and start the game, the windows screen turn black and white. It does this over and over again, and makes you have to turn off the computer so you can do anything on your pc.",0.6028797030448914,7,False
+268050,147534879,76561198041433328,"Lacks a lot of refinement. You have to get very close to traps to disarm them, close enough that the terrible movement system makes you set them off far too often. Enemies can phase through each other to attack/grab you, but you can't move through them. Dying to quicktime events because you bumped into a wall and lost literally 0.25 seconds. So f***ing many one-hit deaths.
+
+Areas that you've played more than once are extremely easy upon return, as the only ""difficulty"" to this game is surrendering to the terrible mechanics. None of this game is original and any ideas with potential are poorly implemented. I pushed myself to keep playing up to chapter 10, but had to quit because the implementation of this game is massively disappointing.",0.6021494269371033,28,False
+268050,118777392,76561199055683891,"Good concept and somewhat well executed horror concepts but gameplay is clunky and Bethesda-esque, feels like an amalgamation of the worst parts of RE4 and RE 7, a shooter survival horror but tries to heavily restrict your access to ammo, health, etc. to try and make the gameplay more tense and ends up making every single enemy infested area feel like a pain to get through.",0.6013782620429993,10,False
+268050,59244135,76561198806959906,"My first ever foray into the world of survival horror and 100% worth breaking the vow I took to never play a horror game. This game is *hard*, even for the survival horror genre, with a focus on ammo conservation and cautious, smart gameplay. If you don't utilize every aspect of the environment and every tool you have at your disposal then you're practically doomed. However, if you plan well and act efficiently then completing the challenges in this game is intensely rewarding. I will say that I enjoyed the first half more than the second, simply because the atmosphere in the first half of the game was more intense and better established. But overall the Evil Within never stops being fun and engaging to play, with just the right balance of challenges, horrors, psychological thrills, and mindfuckery to keep you going.",0.6511602401733398,13,True
+268050,106324600,76561199061533755,"Okay so, after having beat this game and playing some of the DLC, I can safely say, this is the most frustrating game I have ever played in my entire life. Frustrating because on the one hand, it has moments that show that it could be great. Chapter 1 comes to mind as a great introduction to the game. After that though, the game loses pretty much all of what it had going. 
+
+Shooting gallery after shooting gallery. Endless bugs including one in the Executioner DLC that left me clipped through an elevator, trapped, where I got killed by something I couldn't fight against. Another one happening in a boss fight in chapter 5 where I got grabbed after having jumped off a ledge and insta-killed. Speaking of which, this game has a lot of really not fun boss fights. I can't think of any reason to enjoy a boss that kills you in one hit. I love the design of a lot of the enemies though. The Keepers, Laura, Amalgam Alpha, Several of the common enemy types, the Sadist. 
+
+But why, OH GOD WHY, did they think that a burned up bald guy wearing a big hoodie was scary or intimidating? Even in the chapter where he hunts you, not once did he feel threatening. He's much more of a nuisance than anything. And his presence and what he does just sucks too. Being in one area and then being teleported to another because the designers couldn't think of good level transitions is really jarring in a bad way. The one hit kills once again return in that chapter too, artificial difficulty and artificial fear.
+
+And oh boy, oh boy, the boss fights. I don't think I found a single except the first sadist in the barn enjoyable. Laura's 2nd fight has so many issues with it. The fire takes way too long to cut off in the end segment so you end up running around a tiny arena for 5 minutes dodging her. She has a tendency to randomly speed up in a way that makes it nearly impossible to avoid unless already far away, and all of her attacks are one shots. If you get caught, you are dead, and have to return to a checkpoint that was probably forever ago. The Keeper boss fight is just frantically running around turning valves on a timer, you can't actually kill the thing but the game sure makes sure you waste your ammo before you realize that. Amalgam Alpha has an attack that one shots you. I didn't know that it was easy to avoid until I looked it up in a guide later. (Might be my fault) ((Probably my fault)). There's a boss fight in a freezer room with an arena so obnoxious. You get stuck on the meat hanging constantly. The double keeper bossfight was awesome though. Unique arena, plenty of space and ammo and a chance to learn the arena beforehand was really nice. But the final boss is so awful, it's just a turret section. You shoot at designated areas and then the head and it dies.
+
+The story is a giant mess, honestly couldn't tell you much about what happened if I wanted to. Even after looking it up I couldn't make any sense of it, and the character motivation just didn't exist really. I even had a friend who had played the first AND the 2nd and he still couldn't explain what happened.
+
+The performances are incredibly subpar with Yuri Lowenthal providing the best performance as Joseph Oda, a genuinely nice helper to have around. The main character is not likable in the slightest. Just another beat-cop (detective) cliche character. He says random things randomly and all of his backstory is found in little exposition notes at given save points that are boring and pointless to read. Reading after that he was originally supposed to be a blank slate definitely shows. You have a main character named Juli Kidman who has absolutely zero emotion in her voice. Couldn't care less about her or Sebastian basically the entire game. The main villain's voice actor definitely doesn't help in trying to make him sound any more threatening.
+
+The environments in this game seem to be pretty widely praised by people but I just don't get how. The color pallete is just brown and gray and sometimes red. I can get behind the gross environment thing but the game just gets awful to look at. Some very poor design decisions as well with some not just artistically. There's a room near the end of the game in chapter 13 or 14 I believe that has nearly invisible traps, fire, and a bunch of saw roombas, including an area at the end where you are just left to fate as the roombas may or may not swipe you as you do a really long defusing segment.
+
+The A.I is a mess as well. Bosses will have attacks that have no room to maneuver hardly, like the Neun and Zehn boss in Chapter 6 (which is awful and takes forever but that's not something I'll get into) where he attacks over and over and over and over in a tiny cramped little space and you are basically forced to get hit by an attack that doesn't ever seem to end. On the companion A.I side, there were several times (most of the time) where Joseph would just sit there and do nothing as an enemy attacked me. He just seemed to run around without having any sense of direction which was annoying when you are getting swarmed by enemies.
+
+I have to wrap this up at some point but if you want a subpar horror game with a confusing and overall badly told story, bad ai, good enemy design, and higher blood pressure, this game just might be for you! Apologies for the review having no structure as this was typed pretty hastily really late. Bye",0.6003467440605164,21,False
+268050,12559588,76561197982252352,"Please be aware that the Negative recommendation reflects the current price point of the title and not the overall quality of the game. 
+ 
+ 
+The Evil Within did as most well advertised games do.  It rode the hype train all the way to its release.  People boarded, they drank and ate frivolosly as they spoke of their excitement for the title amongst themselves (Myself included) But when the train arrived at a concentration camp and we were herded out to a firing line and systematically shot, we began to complain.  Is it our fault?  Of course it is, but all the blame does not fall upon us alone.  The Evil Within as a whole is not a ""Bad"" game.  Several hours of entertainment can be found within, but for those expecting to be swept up into a AAA horror look elsewhere.  
+ 
+Poor ports seem to be the bread and butter of the porting scene.  This game, although playable, is poorly optimized for its PC consumer base. A ""widescreen"" picture (Two large horizontal black lines at the top/ bottom of the screen) that can not be removed without some small degree of tech savvy file modding) takes away from the overall gameplay.  Frame locked to any degree is a sure fire way to piss everyone in the PC world off, and a windowed mode that doesn't truly allow for ""Windowed mode"" are just a few things on the list of recommended things to be altered, improved, or altogether removed. 
+ 
+Some may argue that issues arise with all games and to that I agree, to an extent.  There are simply too many variables to be able to cover all issues for all the varying degrees of hardware/software out there.  However, things like locked frames, although many say this issue is self fixable, should not be released in a AAA title with a price tag of 60 dollars.  Others will express that the fixes will come in time and to be patient.  To them I give a hearty, fuck you.  Order a pizza dinner for 40 bucks have it show up three hours later and be the completely wrong order to which the proprietor of the establishment, after you are forced to call or suffer through the wrong order, tells you they will remake your order and send it out to you....most likely in another three hours.  Would you not be upset?  The concept is the same. 
+ 
+Is The Evil Within fun?  Mostly 
+Is it playable?  Yes. 
+Did it make good on its promises?  It didn't make any, it's a game. 
+Has it lived up to the ""Hype"" it received?    No. 
+ 
+Recommendation.  Wait for it to go on sale.
+",0.6502365469932556,438,False
+268050,194035636,76561199483775331,"Very good game, sure, but... Imma keep it for later fr wtf is happening bro.",0.599819540977478,10,True
+268050,120569844,76561198182311975,"Ngl, had no idea what is happening in the game. Played it twice, no clue but damn is it fun even when it stresses me out.",0.6988325715065002,17,True

@@ -1,0 +1,967 @@
+appid,recommendationid,author_id,review,weighted_vote_score,votes_up,voted_up
+17300,32141251,76561197993464013,"IMPORTANT: Do NOT buy this game on Steam!
+
+Crysis is a classic title and in my opinion one of the 5 greatest FPS games of all time. The look, the sounds, the feel, the story, the game-play. EVERYTHING is awesome about this game.
+
+Why not buy it on Steam then? No disrespect to Steam as I LOVE Steam! However, this title originally shipped on disc which is where I spent hundreds of hours of my time while in college. The disc version included a 64-bit version of the executable. This Steam version of the game does NOT include the 64-bit version of that executable file. There are ways to modify the game files to get it working however not only is it not recommended for novices it simply isn't desirable having to go through that much trouble for a game that has DRM which limits number of installations.
+
+Instead, do yourself a favor and get the version of this game sold on GOG.com which does NOT limit your number of installations as that version includes NO DRM WHATSOEVER. Also, that version includes the missing 64-bit version of the game.
+
+Why is that 64-bit version of the game so important? This title was one of the first made to support Direct X 10 when Windows Vista was terrorizing the populace. The 32-bit version of the game, especially with mods or maxed out settings, runs terribly due to poor optimization. Even if you use a 4GB patch on the 32-bit executable the game will continue to run like garbage.
+
+On the 64-bit executable you can run the game flawlessly on modern systems and experience one of the greatest FPS titles of our time. This game is incredibly fun. Go to GOG.com and pick it up cheap!
+
+EDIT: I forgot to mention one thing about this game. For some odd reason Crysis will not run properly at 60fps when playing at 1920x1080. If you play on a TV the game will lock to the cinema mode at 24fps which is game breaking. If you play on a normal computer monitor it will still screw up and lock itself to about 50fps.
+There are two ways to get around this...
+A) Lower your resolution to something else. 1680x1050 works fine for me.
+B) Create a custom resolution with your GPU's control panel of 1904x1071 (1920x1080 minus 16x9). This is literally the next step down from 1080p so it is so close that the game looks the same yet it tricks your TV/monitor into running at 60fps.
+Crysis 2 has this same dang problem and so does the original Rome:Total War.",0.9415695071220398,413,True
+17300,101376191,76561198914201154,Crysis 1 was one of the best games ever produced and way ahead of its time. Story is solid This game in 2007 was better than Battlefield from Dice has ever been.,0.8812373876571655,70,True
+17300,99558546,76561198135387409,"[url=https://www.pcgamingwiki.com/wiki/Crysis] This site[/url] will help you get the game running.
+
+Replacing executables for [url=https://github.com/ccomrade/c1-launcher] open source alternative[/url] was enough for me.
+
+This mod, called [url=https://www.moddb.com/mods/crysis-enhanced-edition] Crysis Enhanced Edition[/url], will make the game superior to the remastered version, in my opinion.
+Don't forget to read the installation guide. It's not only replacing files in folders.
+
+Here is [url=https://www.youtube.com/watch?v=Y93ypkVZVpg] a comparison video[/url] between Crysis Remastered and Crysis enhanced Edition.",0.8811566829681396,85,True
+17300,83248184,76561197968786402,"Do not buy Crysis on Steam it is a rip off.
+
+I cannot play the game no longer due to the fact that there is only so many times you can install it before it says your activation code is no longer valid.
+
+Since i cannot get Steam support or Crytek support i must warn everyone who reads this to not buy it even if it is on sale.
+The game is only playable on so many machines before it says you cant play it anymore.",0.8735348582267761,143,False
+17300,39847894,76561198065199569,"I hate giving this game a negative review because I really do like it, but the problems that come with the steam version of this game outweigh the experience. If you have a 64 bit operating system, be aware that you're going to have to implement a patch from a third party website to get the game to work. From what I understand, Steam and EA could never get their shit together and so when you download and install the game you receive files meant for the 32bit version of the game. What you have to then do is download the files for the 64bit version, rename them to the name for the 32bit files and delete the 32bit files. Once I did this, I was able to get passed the dreaded ""Black Screen Crash"" but that was just the beginning. I don't have a super high end PC but according to the minimum specs I should've been able to run it decently on medium settings. So I start the game, and I'm getting a pretty consistent frame rate, but every 10-15 minutes of gameplay the game crashes for absolutely no reason and you have to restart it. This got very annoying, very quickly. So I found another fix, what you can do is go to your steam library, right click Crysis, hit properties, general, set launch parameters and type in ""-dx9"" This runs the game in direct X 9 instead of 10 to further performance. Doing this solved that issue, and I was able to play the game worry free for a couple of hours. Now it's crashing again for a new reason and I don't know why. How steam can sell a game that is essentially broken on the marketplace is beyond me. When I buy a game, I expect to be able to install, and enjoy it with little issue. This game has been one headache after another and it sucks because when the game works I absolutely love it.",0.8663243055343628,146,False
+17300,69514489,76561198017960107,"Does not work well on modern systems. Unlike other stores Steam version never has been updated with 64 bit files (workaround through 64 bit binaries from Crysis Warhead or versions from other stores), crash on AMD CPUs unless using 64 bit binaries that aren't included, crash on startup when software like MSI Afterburner is running unless with specific RivaTuner settings, prompts GameSpy install that's long been shut-down, you may run into key activation limits, etc. This should've been updated just like the GoG or Origin version has been. Buy it somewhere else or wait on the announced remaster (Edit: Nevermind, just get the GoG version and enjoy the original).",0.908481240272522,321,False
+17300,81130109,76561198040034686,"Bruh, I've finally goat a computer that can run crysis, and now they come out with a remaster, those sons of b*tches",0.8751813173294067,88,True
+17300,71512445,76561198110757788," READ: Be aware!!! because the game is old it does require some work around which is STUPID but very simple. you have to have the WARHEAD expansion in order to get it to work. there is youtube video where he explains and shows step by step on how to do it  here is the title of the video   "" Fixing Crysis on Windows 10 - Can it Run Crysis? Yes... It Can""  it took me a bit to find the video but i hope it helps. i'll also make a discussion so in case this get flagged it will be there. 
+
+ runs great. it can still push your system pretty hard. the game is as it was when it was first released and just an over all great game with good play. still fun AF. MAXIMUM ARMOR",0.8593353033065796,94,True
+17300,30618025,76561198312149684,"no stupid collectibles
+no forcing you to read a journal in the middle of a gunfight
+no invisibles borders telling you to ""get back to the action""
+minimal cutscenes only there to tell the story better
+not getting punished because you don't play stealth and go in guns blazing
+ play it however the fack you want to play
+killer soundtrack straght from a blockbuster movie
+graphics still looks good today provided you have good PC duh
+this is a ""timeless"" game
+it's the toyota supra of video games
+it's way ahead of it's time but still kicks ass in any time period
+stood the test of time/10
+",0.8442438244819641,62,True
+17300,76023364,76561198114586751,"[b]Crysis | ★★★★☆[/b]
+
+Many people joke about the ""But Can You Run Crysis?"". Ironically, you literally can't and need a lot of fixing before managing to run it smoothly. Took me about 30 minutes to tweak every dated aspect of the game that didn't carry to an updated version of Windows.
+
+Gladly, after doing those remedies, It rewards you with one of the beautiful scenery that still holds up to the standard graphics today. One thing that captivates me is how the trees and vegetation felt like breathing, making the whole island alive.
+
+The protagonist has a lot of features similar to a Predator which quite the Gameplay revolves around other than being a military shooter. The map also gives you the illusion that it was Open World even though it was relatively linear.
+
+This wasn't really a Spoiler since it tells you in the beginning, but just wanted to point out that the In-game date was just last month (August 7th 2020) which kinda alarming because it was also take place in my local country.",0.8424586057662964,68,True
+17300,29214986,76561198049196395,"This isn't a bad game at all. It's one of the greatest shooters of all time and 10 years later it still holds up. From what I hear this game is also used more of a tool rather than a game as a benchmark for pc gaming rigs. It even gives some modern gpus a run for their money barely passing 60 fps. High end rigs back then could barely run this, let alone at MAX. Truly a testament of it's time. But that's not why I give this game a negative review. Don't let my playtime fool you, I have the original retail copy of this game and wanted a digital copy. It's the only reason I got the Steam version. The steam version of the game is just terrible. It uses 3rd party DRM (SecuROM) that is not equipped to run on modern operating systems like Windows 8 or Windows 10. It doesn't work because it doesn't include the x64 files to work on newer windows OS, unless you own the retail copy. My retail copy works fine on Windows 7 with no problems what so ever. The Steam version works on Windows 7 however if you spend a little bit of time in the menu section or when you pause it, the game freezes. There is no need for 3rd party DRM since Steam is already the DRM. My advice, get this game on GOG instead. DO NOT bother with the Steam or Origin version of the game. The game is a 10/10 but the Steam version is a 3/10.
+
+Buy it here instead:
+https://www.gog.com/game/crysis",0.8387752771377563,162,False
+17300,42557259,76561197970314107,"I’m almost surprised we don’t still talk about Crysis regularly when discussing first-person shooters. Not all games age gracefully but this is one of the few that you could argue has grown better with age, because technology eventually caught up to the insane graphical abilities folded into this thing. It may be more than ten years old but it looks better than plenty of games that have released in the last year, and has more open-ended gameplay to boot. But there is ultimately a reason Crysis doesn’t often come up in conversation despite its strengths, and it’s a pretty big one.
+
+Crysis was ahead of its time in a lot of ways, such as blaming the Koreans for everything. Yes, the dastardly North Koreans found something on a Pacific island that could spell doom for the world, so the U.S. has deployed a small squad of soldiers to the area, armed with top-secret nanosuits. These fibrous contraptions can grant super speed or strength, armor or invisibility, making the wearer the perfect covert engine of war. The mission doesn’t go at all as planned, however, and you’ve got to scramble to find out what’s going on and how you can stop it before your foes make a very, very big mistake.
+
+At its heart this is an open-world shooter, much in the vein of Far Cry before it. The maps for your missions are vast, fully-modeled tracts of island, giving you plenty of cliffs and jungle to forge through if you want routes around checkpoints or towns. Unlike Far Cry though, your nanosuit actually gives you powerful options for approaching your challenges. Armor gives you enough health to take serious hits while gunning down whole squads, speed lets you tear through the jungle or run right up on hapless troops, invisibility allows you to ghost past entire sections of the map, and strength makes you leap high enough to ignore fences and cliffs. Combined with a rapidly-recharging power reserve, you can vary up your tactics on a whim to gun down one outpost of foes and then sneak through an entire town undetected.
+
+Crysis ends up feeling like a more complete experience because of these choices available to the player, on top of the excellent gunplay. Your weapons feel weighty and powerful, from silenced pistols all the way up to guided missile launchers. You’ll be challenged to take down tanks and helicopters and even tougher foes as you progress so don’t expect to stealth through the entire game, but traversing the vast maps definitely gives you plenty of leeway to do as you please. You’ll have vehicles to commandeer as well, ultimately giving the game a similar feel to the later Far Cry games but with a more structured, military edge.
+
+And honestly that might be what holds this one back. Crysis is a military shooter at its core, despite the sci-fi elements and open maps. You’re always going to be following orders to clear checkpoints or raid field bases for intel or secure landing sites. The maps give you the latitude to navigate and plan as you please but only for the purposes of fulfilling your mission, not turning up secrets or completing side activities. For most people this is still probably enough and I’ve enjoyed my time with the game, but whenever I hit a rough fight that I have to try a few times I feel more ready to leave this one behind than I do with most shooters.
+
+Regardless of that though, Crysis is something that needs to be seen to be appreciated. The technological achievements are undeniable, offering realistic characters that move and emote with striking clarity and island vistas that could have come from a postcard. The action is plenty capable of keeping up, and the options afforded by your nanosuit add a remarkable amount of depth to the gameplay. Whatever your feelings on military shooters you owe it to yourself to check this one out, just to see what can be accomplished with the right thinking towards the future. Crysis remains a polished gem even ten years out, perhaps a bit simple in structure but no less beautiful for it.
+
+
+
+Did you enjoy this review? I certainly hope so, and I certainly hope you'll check out more of them at https://goldplatedgames.com/ or on my [url=http://store.steampowered.com/curator/11322459/]curation page[/url]!",0.8336108922958374,69,True
+17300,94312043,76561198235784744,"Don't buy this game you won't be able to play it.
+When you boot the game it ask you for a registration key, after entering your key it ask you to re-enter a valid even though you just entered the one steam gave you.
+And steam won't do shit about it, they just ask you contact the seller and i can't refund it because i got it from a bundle with all the other Crysis games, so now i have a game in my library i cannot play.",0.7821018099784851,82,False
+17300,47640648,76561198010142117,"All the way back in 2009, the first Crysis got a lot of attention for its graphics. On one hand, the game got praise for being visually stunning. On the other hand, it got flak for being a glorified tech demo that could barely run on anyone's machine, kickstarting the meme ""but can it run Crysis?"" 
+
+It's 2018 now, a lot of games look this good, and Crysis runs fine, so all that is ancient history. 
+
+Crysis 2 and 3, released shortly afterwards, got reputations for being generic, pretty, streamlined CoD-ish hallway shooters. 
+
+But the first Crysis is a very different game from its sequels. 
+
+Crysis wasn't mindblowing, but it's an interesting vision of a very freeform, systems and AI-driven, not-quite-open-world-but-very-open FPS game. It's got a lot going for it. It makes you feel like a jungle predator. It gives you more real problem-solving freedom than Far Cry. Challenges come from AI flanking you, laying down covering fire, and flushing you out with grenades, not mobbing you. The suit is super cool and energy management is a good mechanic. The hardest difficulty even makes enemies speak in Korean. If you're looking for an exciting story-driven cinematic shooter, you're probably going to be disappointed. But it's a well-designed jungle adventure that has you playing an invisible supersolder who tosses chickens at Koreans, and that's worth something.
+
+I think the multiplayer is long-since dead and was riddled with hackers before that, as interesting as I heard it was. RIP.",0.8285277485847473,56,True
+17300,96706196,76561198016639928,"I purchased the trilogy, the 3rd game work just fine, however the 1st crysis requires a CD regristration key and the key i was given is a invalid key. Cannot play game. 2nd keep crashing when it start up.
+",0.7622066736221313,34,False
+17300,78554252,76561198873375335,"---{Graphics}---
+☐ You forget what reality is
+☑ Beautiful
+☐ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ Paint.exe
+
+---{Gameplay}---
+☐ Very good
+☑ Good
+☐ It‘s just gameplay
+☐ Mehh
+☐ Starring at walls is better
+☐ Just don‘t
+
+---{Audio}---
+☐ Eargasm
+☐Very good
+☑ Good
+☐ Not too bad
+☐ Bad
+☐ Earrape
+
+---{Audience}---
+☐ Kids
+☐ Teens
+☑ Adults
+☐Human
+☐ Lizards
+
+---{PC Requirements}---
+☐ Check if you can run paint
+☐ Potato
+☑ Decent
+☐ Fast
+☐ Rich boiiiiii
+☐ Ask NASA if they have a spare computer
+
+---{Difficulity}---
+☐ Just press ‚A‘
+☐ Easy
+☑ Significant brain usage
+☐ Easy to learn / Hard to master
+☐ Difficult
+☐ Dark Souls
+
+---{Grind}---
+☑ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☐ Isnt necessary to progress
+☐ Average grind level
+☐ Too much grind
+☐ You‘ll need a second live for grinding
+
+---{Story}---
+☐ Story?
+☑ Text or Audio floating around
+☐ Average
+☐ Good
+☐ Lovely
+☐ It‘ll replace your life
+
+---{Game Time}---
+☐ Long enough for a cup of coffee
+☐ Short
+☑ Average
+☐ Long
+☐ To infinity and beyond
+
+---{Price}---
+☐ It’s free!
+☑ Worth the price
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{Bugs}---
+☐ Never heard of
+☑ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs",0.7556626796722412,33,True
+17300,51458824,76561198301412037,"*If you can't get the Steam version to work (especially on an AMD rig) try the method listed below, it worked for me.*
+
+I remember when this game first came out and no one could run it. Several people I knew went out and got new graphics cards that day. Now 12 years later as a PC gamer I get to run it at Ultra 1080p/60. Sweetness. Looking forward to playing the real version for the first time. Holy smokes was it a pain to get running on Steam though.
+
+What got it working for me:
+
+METHOD 1)
+
+Download Crysis Warhead. You have to have it for the Bin64 folder. 
+
+For Crysis Warhead:
+1) Download Both Crysis & Crysis Warhead
+2) Open the folder where Crysis Warhead is installed
+3) You'll see a Bin32 folder and a Bin64 folder
+4) Delete the Bin32 folder
+5) Rename the Bin64 folder to Bin32
+6) Open the new Bin32 folder
+7) Delete the ""Crysis"" application
+8) Rename the ""Crysis64"" application to just ""Crysis""
+9) Crysis Warhead Now Works!
+
+For Crysis:
+1) Right click and copy that new Bin32 folder you made for Crysis Warhead
+2) Paste it into the Crysis install file (replace the old ""Bin32"" file with the new one from Crysis Warhead.
+3) Crysis Now Works!
+
+You will probably get hung up on a black screen when you start a new game, try the following:
+
+Hit the ~ key to open a command prompt, type con_restricted 0 then hit enter, then type map island and hit enter. at this point the game should start loading. Good luck!
+
+Credit to RuBB3rBunz and Rustafarian for the solutions.",0.8041133284568787,37,True
+17300,92716605,76561198122564901,"It's a good game but man it's unnecessarily frustrating. The gunplay is really not incredible, and the last boss is just a pain in the neck in every way. However, the graphics are unbelievable, especially considering this came out in 2007. Sadly, this does mean performance issues even for modern day machines. My computer couldn't keep a consistent 30fps at times and I have enough firepower in my PC to run Cyberpunk and The Witcher at max settings and a solid 60fps.
+
+The general concept is really cool, and the game is borderline open world with how big the maps are.
+
+Also, because EA sucks and this is an old game, you will have to download a third-party file to get this game to run because of the registration key garbage. Just search ""c1-launcher"" and follow the directions and it will work perfectly.",0.7517164349555969,28,True
+17300,51122669,76561198032083945,"Doesn't work. It wants you to install Game Spy, which kills the game. Game Spy went out of business in 2013 and on my Windows 10 PC, it's impossible to delete it completely off the PC. It always says it's open or running. Though Task Manager doesn't show it running. Steam passes the buck to EA unfortunately. I was trying to report this to EA but the website no longer recognizes my credentials. Mmmmk. Good game if you like being robbed by millionaires.",0.7967547178268433,48,False
+17300,7754599,76561197978465761,"This game is well-known for being beautiful, but to desribe it only as eye candy really sells Crysis short.  There's a lot to enjoy about the gameplay, especially how it breaks up the old ""series of chest-high-walls"" shooter formula.
+
+As a super soldier your suit contains a variety of powers that can be toggled between:  super strength (enhancing melee abilities), super speed, maximum armor, and active camouflage (which makes you truly invisible to enemies who haven't seen you yet).  Active camo is the true selling point, learning to use it (and honestly, abuse it) is what keeps you alive.  Your character is not well suited for going in guns blazing, you'll rely on stealth and run-and-gun tactics against enemies who prefer to hunt you instead of bunkering down behind a chest high wall.  In general, human enemy AI is fantastic and pushes you to quickly learn how to survive a Crysis fire-fight.
+
+Weapons customization is another well-done aspect of Crysis.  The same gun can be customized to a short/medium range spray-and-pray style semi-automatic, or a long-range silenced sniper with a scope and laser sight, all pretty much on-the-fly.  So while the number of unique weapons is actually pretty small (5 or 6 maybe), you can get a lot more mileage out of them through customization.  
+
+While the first stretch of the game fighting human enemies is very fun, the game has an abrupt change when you begin to encounter mostly aliens.  I definitely found this part much less enjoyable, it seems more about showing what you can do with the Cry Engine than keeping the game fun for the player.  My level of interest dropped off pretty sharply, to the extent that I didn't even finish the game.
+That doesn't mean I'm not glad I bought it (I definitely still recommened it), and you may not have the same experience I had.",0.7966771721839905,55,True
+17300,162723241,76561198024928793,"This is the version you want, not Crysis Remastered.
+
+Remastered is based on the console version of Crysis.  They enhanced some things, like texture quality, but broke everything else.  The new lighting engine looks horrible, the dynamic physics are greatly simplified, and an entire level is missing.
+
+Unfortunately, this original version of the game has been ignored and doesn't run well on modern OSes.  Luckily users have fixed this.  Look for ""c1 launcher"" on Github and follow the instructions to get it working.",0.7394091486930847,28,True
+17300,7780572,76561198038863537,"Ohhh yeah look at that grass! These leaves are rendered beautifully. And, my god, look at the water, I can see my perfectly modeled reflection! 
+Can you run Crysis, or can you not run Crysis? That is the question. If you can, you are one in a million. You are part of an elite organization dedicated to the eradication of visible polygon edges. You strive to inform the world of the dangers of trillinear filtering. But you also laugh as you run 5 different instances of Crysis at the same time, while the average gamer struggles to complete a game of minesweeper. As you watch your maximized particle effects without frame tearing you get a sense of superiority that is, well, frankly justified.
+Besides prestige and graphics, Crysis does offer great gameplay. The plot makes you feel, it makes you want more. The freeroam approach to objectives lets you choose your style. And at the end of the game you are just left in amazement at the 10 hour, non-stop orgasm you just had.
+So If you want to inflate your ego or just want a fantastic game pick up a copy of Crysis today... if you think you can handle it.",0.7892638444900513,197,True
+17300,13494285,76561197986360343,"It took me a while to be fond of this game as I played it years ago and while my rig met the minimum requirements (almost reached the recommended ones) it had a hard time running Crysis on it properly. There were numerous glitches, audio issues and frequent CTDs.
+
+But you know what? Putting the technical difficulties aside this is a damn fine game! You play Nomad, a special forces soldier who wears a so-called nanosuit. The story takes place in the future and the objective is to find out what happened on the island previously seized by Koreans. 
+
+While you traverse through the deep jungle and small settlements you notice two things: the game is stunningly beautiful (there was a reason for the high system reqs) and that by hiding-shooting you cannot eliminate your foes. You need to utilise your nanosuit. 
+
+You can bring up a special menu and select from various abilities. Speed makes you faster, Strength allows you to melee your foes or throw bigger objects and Stealth makes you invisible. All drain your energy bar (which will refill automatically, but slowly) and I do not have to mention that Stealth is the most exciting and most useful among all. Oh, yes, there's a 4th power enabling you to take more damage.
+
+Enemy AI is great - they respond to the noises, work in squads and will try to find you even if you are invisible. On greater difficulty settings they speak Korean so you do not understand what commands they give to one another.
+
+Occasionally, the game throws in some scripted cutscenes - these look good and also interesting. By looking at the pictures on the store page one can guess what they'll find (and what the army was really looking into), but let's not spoil it here.
+
+Crysis is a stunningly beautiful game (even today considering it's more than 5 years old) and makes for an interesting, action-packed ride.
+
+WARNING: This review is based on playing the game on a 32-bit operating system. As per the feedbacks on the store page and amongst the discussions people detail further issues when it comes to 64-bit systems. I understand there is a workaround which has been tried and found good, still, this is just to let you know that before the purchase you should look into this.",0.7879855632781982,45,True
+17300,95891935,76561198185439897,"Do not buy on steam, buy somewhere else, if you buy on steam, you must use this https://github.com/ccomrade/c1-launcher to fix the game.",0.7872394919395447,43,False
+17300,23824689,76561198047959410,"Don't buy the Steam version, it doesn't include the x64 files and doesn't run on newer OS's/ systems. Steam really shouldn't be selling this non working and incomplete product, or is it now the norm for Steam games for one to have to spend hours searching the web for fixes and unofficial 3rd party patches which may possibly contain malicous software.
+
+Is that the point of buying games on Steam? I don't think so, bad form Steam.",0.8349946141242981,232,False
+17300,75947201,76561198111956371,"[h1][b]Introduction[/b][/h1]
+When [b]Crysis[/b] released back in 2007, I did not know much about it, as I did not care about new releases at all. However, the strange, advanced looking suit on the box caught my eye, and I had to get it as soon as possible. It turned out that I could not even launch the game, as my graphic card was too weak. [i]“But Can It Run Crysis?”[/i] was a popular joke among the community, but for me, it was a harsh reality. However, once I was able to play it, I immediately fell in love with its visual presentation, gripping campaign, and fascinating multiplayer. The question is if [b]Crysis[/b] can still hold up to this day? It certainly can, but it has its shortcomings.
+[h3][b]Story[/b][/h3]
+An American team of archeologists discovers ancient alien machines on Linghsan Island. However, North Koreans capture them shortly after the discovery, and they cut off the islands from the rest of the world. You play as [b]Nomad[/b], a member of the dispatched [b]Raptor Team[/b], who wears a technologically advanced [b]Nanosuit[/b], which gives him superhuman abilities, such as invisibility or strength. Your task is to evacuate the archeologists and secure any valuable information. Once you get onto the island, you find out that some of these machines are still functional and not that happy with your presence, so they turn small skirmishes between Americans and Koreans into a massive slaughterhouse.
+
+While the game’s plot is serviceable and a bit intriguing from the start, it does not have any interesting characters. The North Korean antagonist is forgettable, and your fellow team members are no better, as there is no depth or proper character development. And that is a shame as the game occasionally forces [b]Nomad[/b] into interaction with them, yet I have not managed to care about them at all. The positive aspect is that the story does not pretend to be smarter than it actually is, and it does not interrupt you from gameplay. Its narrative is simply about a group of American soldiers fighting Koreans and Aliens, and that is enough for this kind of game.
+[h3][b]Gameplay[/b][/h3]
+To my surprise, I still enjoyed the twelve hours long campaign a lot. The game has several levels, and most of them are pretty open, which allows you to choose a path and style that suits you, as the game only shows you your objective on the map. There are occasional side objectives, which can either help you with your mission or give you additional information about the story. You will go through dense jungles, beautiful beaches, rocky mountains, vast plains, and several industrial complexes, so the levels are pretty varied. That variety is one of the reasons I enjoyed replaying the game so much, as each mission is different and offers something new and unique. There is not much time for sightseeing, though, as Koreans have a lot of military camps and patrols in the area, and they also can call for reinforcements.
+
+You can use vehicles to travel through these open locations. Several civilian cars are drivable, as well as Humvees, military trucks, and even tanks. You are not limited only to ground vehicles, as you can use boats and even pilot a VTOL in one mission. All vehicles are easy to control, and using them against your enemies is both advantageous and enjoyable.
+
+As mentioned before, you are wearing an advanced [b]Nanosuit[/b], which makes you more effective in combat. You have four [b]Nanosuit[/b] modes to choose from: an armour, which makes you more resistant to damage; invisibility for stealthy approach; strength for higher jumps, bashing through the walls, and picking up and throwing heavy objects; and speed for your overall movement and weapon handling. Those abilities draw power from your suit’s energy, which recharges after a while. Switching suit’s mods often is essential, and changing your position in a blink of an eye while causing mayhem among Koreans is just entertaining.
+https://steamcommunity.com/sharedfiles/filedetails/?id=2227878313
+Your weapon arsenal is pretty standard for this genre, as there are a few assault rifles, shotgun, submachine gun, as well as few interesting pieces, such as minigun or Gauss rifle. Lethal grenades, rocket launchers, or flashbangs and smoke grenades are present too. What makes [b]Crysis[/b] a bit unique is its weapon customization, where you can add several attachments without pausing the game. That is a feature I wish was more common today. You can find weapon attachments at enemies or their camps.
+
+As there are quite a lot of explosives, you might be asking if the environment is destructible. Well, partially. A lot of enemy towers, bunkers, and civilian shacks are destroyable, and their debris might hurt or kill your enemies. Unfortunately, some buildings might be destroyable only via a scripted event or not at all. However, grabbing poor Korean by the neck and throwing him against obstacles is satisfying enough to make it up for it.
+https://steamcommunity.com/sharedfiles/filedetails/?id=2227912178
+Your enemies consist mostly of Korean soldiers, who will use every abovementioned equipment and vehicles against you. I must say that I still had a lot of fun fighting them, as they are pretty aggressive and try to use the environment to their advantage a bit. Of course, their AI is a bit outdated for today’s standard, so you can sometimes confuse them if you spam explosives in their camp or shoot at them from hundreds of meters, even on the highest difficulty setting.
+
+Another part of the game is fighting against the aliens. That is different than fighting with Koreans, as they have an octopus-like appearance, and their movement is pretty fast and a bit unpredictable. There are several types of aliens, from small ones who can jump several meters away, to bigger ones, which fly around the sky. There are also a few bosses. However, as much as I like that fighting them feels different and requires a different strategy than with Koreans, I do not like that the whole game becomes a lot more linear once aliens become regular enemies. While the first half of the game shows me all the possibilities and says: do whatever you want; the second half of the game strips that off and says: go straight and shoot. And while I still enjoyed missions with aliens, I cannot help but feel a bittersweet taste from playing it.
+https://steamcommunity.com/sharedfiles/filedetails/?id=2227981328
+This game also offers a sandbox editor, where you can create custom maps and scenarios pretty easily. As for the multiplayer, which I loved when the game was released, I have not managed to find populated servers. The best I could find was only with three players at the same time.
+[h3][b]Audiovisuals & Performance[/b][/h3]
+[b]Crysis[/b] still offers pretty visuals, tons of small details, and beautiful sceneries. It is definitely a bit stunning compared to other games that were released back in 2007. The soundtrack can create an immersive atmosphere, but it is not something I would listen to regularly. An interesting addition is that Koreans speak in their native language on the highest difficulty setting.
+
+The game was tested with an [b]i5 8300H, GTX 1060 6GB, and 16GB RAM[/b], running at high settings at [b]60 frames per second[/b], at [b]1920x1080[/b] resolution. There might be a problem with launching the game on [b]Windows 10[/b], so I advise to use this [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1772645468][b]guide[/b][/url]. Fixing this problem takes about two minutes.
+
+[h1][b]Conclusion[/b][/h1]
+Even after all these years, the first [b]Crysis[/b] still manages to provide an enjoyable singleplayer experience with enough variety with each level. While it has its shortcomings, it is definitely a game first-person shooter fans should give a try if they have not yet. 
+
+[url=https://store.steampowered.com/curator/41545671][quote]Follow my curator, [b]Blue Lips and their Quips[/b]!",0.7847092747688293,33,True
+17300,43179496,76561198049097433,"NOTE TO THOSE WHO CAN'T GET PAST THE ENTER REGISTRATION KEY SCREEN: you can't play this through steam, it just doesn't work, you will get stuck at the 'enter registration key' screen. You will need a EA/Origin account, after purchasing this game you need to copy the cd key from Steam and go to EA games support. Log in with your EA account and request support for crysis through live chat. Explain that you purchased this game through Steam and after veifying your details provide the cd key. They will then activate this game for you and it will appear in your EA/Origin account. You will need to download Origin and install on your computer, then you can download Crysis through Origin and play. The bundle I purchased also included Crysis 2 from steam, if you have also purchased the bundle you will need to ask them to do the same for Crysis 2.",0.7826710343360901,57,False
+17300,114009564,76561198116794381,"Honestly I might be one of the few who enjoyed the alien levels more than fighting the North Koreans,being shot from beyond rendering distance is bullshit and overall let's face it the combat could have used some more polish,also FUCK RECKONING AND THE TAC GUN IT'S GLITCHED TO SHIT.
+
+With that out of the way replaying Crysis after 15 years and actually knowing what i was doing,I've gotta admit the game more than holds up and is a spectacle also thoroughly enjoyable.There are a few things that haven't aged well but that is to be expected. Overall it's a solid experience and a staple for FPS games.",0.7302005887031555,24,True
+17300,46125165,76561198080949582,"The year is 2018. Hardware has finally caught up. Crysis was the 'RTX' back in 2007 when it released. It was so resource intensive people paired upto 4 GPUs just to get 30fps at 1080p. Thanks to its intelligent motion blur technology even 12fps would seem playable. Thanks to the 'speed' mode atleast the character moved faster to compensate for slow frame-rates (sounds weird, but trust me it worked).
+
+A 1080Ti can play the vanilla game at 4k, with 4x MSAA with above 60fps, so we finally did it guys!
+
+Though on a more series note, the vanilla game has severly reduced draw distance, to fall into the limit of DX10 draw calls. Once you actually tweak the cfg files, you realize Crysis can never be maxed. Yes. You can easily raise the draw distance to insane values like 200 where small clutter (like broken barks on the ground) are visible from way far away, but doing that you stress a 'single' thread. At some point you easily surpass the limits of DX10 where framerate drops to sub 20fps. But damn it looks pretty.
+
+If Maldo focused on Crysis instead of that Crysis 2, it would probably be the prettiest game for ages to come. Thanks to Blackfire's TODs the game looks stunningly beautiful even by today's graphical standards. The Vanilla game might feel a bit lacking in the lighting department.
+
+The gameplay itself is sandbox. To give you an idea of the scale: strap C4 on a jeep, send it down a hill to watch the enemy panic, and then when they all gather around to investigate, blow them to kingdom come. The aliens are probably the toughest and annoying enemies I've encountered in games. They were dumbed down so much in Crysis 2 & 3 that its criminally unfair.
+
+I wish there were more games like Crysis. I had first read about Crysis in a magazine in 2007 and got hooked to it immediately. If I had known then how the series would end, I would probably have never bothered.
+
+Just play the first game, and then pretend the 2nd never happened. Then play the 3rd to recieve the most underwhelming ending to a series with such potential.",0.7783564329147339,45,True
+17300,74801860,76561197973620408,"I haven't played this in over 10 years.  I was probably struggling to play it on my then PC, so I figured i'd give it a shot all these years later!
+
+Would be nice if it worked.  I get some 8016 error thats related to DRM.  I love how games I paid for years ago I can't play anymore because of stupid DRM.
+
+This is one of the reasons people Pirate.",0.7776628732681274,141,False
+17300,94526154,76561198213755701,"Pile of Bloatware. 
+
+This isnt a game. This is Bloatware. 
+
+Installs a bunch of old dead apps, and then doesnt even launch.
+When uninstalling didnt even remove the bloatware it came with. 
+
+Game didnt launch due to...it being brain dead. It requests a CD Key, which i have, and enter.
+And then it asks for it again..and again, and again, and again.
+
+Yea FUCK this.",0.7228938937187195,54,False
+17300,77902439,76561198392442511,Game does not function on Steam. Third party patch needs to be downloaded and game asks for product key but does not accept it. Buy through GoG to actually play game,0.7199184894561768,31,False
+17300,144298400,76561198018139851,Actually prolly have maybe close to 1500 to 2000 hours.  I love the stealth game play and absolutely amazing graphics.  You can run thru in a race to beat the game or you can explore and enjoy all the game has to offer.  War head is also very good.  I'm 69 years old and I also enjoy watching my grand kids play.,0.7184082269668579,23,True
+17300,11138272,76561198034686389,"+Variety in problem-solving approaches
+
++The iconic Nanosuit
+
++A captivating and well-written story
+
++Realistic and detailed design of the entire island
+
++Stunning visual effects and graphics
+
+There’s really nothing else to say except to give Crytek a big round of applause. Crysis delivers an incredibly immersive and authentic experience that completely pulls you into the adventure from start to finish. It’s the kind of game that keeps you hooked and wanting more.
+
+9.5/10",0.7169166207313538,20,True
+17300,69973214,76561198139484676,"This game has aged VERY well.
+
+Many more people now have a rig that can run the dang thing too.
+
+At first I thought that the system STILL wasn't ""Crysis ready"" (IT IS, trust me).  The graphics were all choppy and I was frankly disappointed.  Alt-tabbed out of the game to attempt to search for a solution and noticed that the monitor said ""1080p 24hz""  THAT explained the chop.
+If you are having trouble with it defaulting to 24fps, play the game in a window.
+(I used ""borderless Gaming"" to get rid of the menu bar.)
+
+After a bit of fine tuning, i was able to settle in and experience Crytek's genius.  I am a sucker for good FPS campaigns, with a bit of freedom, and the crysis games give you a decent amount of options on how you achieve your goals.  15 minutes into the campaign, I had already used 3 vehicles... 
+
+I had an odd impulse regarding the suit.  Military shooters very much put me in the ""COD"" kind of mindset.  I try to play tactically, not expecting any super powers, etc.  With Crysis, they made the campaign, and ENCOURAGED you to go mad with them.  At first, i tried to use them sparingly, but after a short while, I realized, that I should be using them CONSTANTLY.  So i did.
+
+Great game.  Still looks incredible, it truly was ahead of it's time... still exciting.
+
+It could stand a few quality of life updates.  (FOV, greater control options, such as toggle select) and the ability to directly trigger suit abilities, instead of the menu.  I am sure it was designed this way for consoles, but playing it with a mouse and keyboard, it's a shame that each Nano ability doesn't have an individual key.
+
+Highly recommended.  Same goes for the other 2 titles in the series.
+
+Personal Tip:
+
+In the in the final stages of the game, you get access to the ""Gauss Rifle"".  If you've encountered this weapon in other games, and found it useless, Crysis will change that.
+
+Without spoilers, when you're using the gauss rifle on the island, play it with a scope, it's an absolute nightmare as a ranged weapon.  I'm not sure how it Stacks up next to you the rocket launcher, but in a primary slot, it's the most powerful single shot weapon in the game.
+   Gauss Rifle tip: Part 2- when you get to the final level, and I'm not going to describe it because I don't want to spoil it, but I'll just say that it's much more claustrophobic, then the island was.  At this point, I switch the load out on the gauss rifle, to ""Iron Sights"".  You can safely use it at close range, with the same destructive capability as a grenade, but with no danger to yourself.  It's basically functions as a hyper powered shotgun when used at close range, with similar ammo capacity.  Unlike on the island, during the final level, you will be able to find plenty of ammunition for it.  One unfortunate design choice in Crysis 2, is that you don't get to play with the gauss rifle nearly as much, it makes a brief appearance during the last couple levels of the game, and as far as I know, I couldn't find it at all during the final stage, which was highly unfortunate.",0.8158649802207947,48,True
+17300,38394082,76561198278275713,"Crysis 1 can easily stand the test of time.
+It's graphics are still nice to look at. The landscape is amazing and you will find yourself lost for minutes just looking at the environment. 
+
+In it's core Crysis 1 is a sandbox shooter. 
+And yes there is a story but the game isn't about it. 
+Story summary: 
+USA good!
+Aliens bad!
+North Korea worse!
+
+Where Crysis 1 can shine is in the sandbox like levels. Most the time you will start in an open landscape with a primary target and one or more secondary targets. And that's where the fun begins!
+The level are so open and allow you to solve the same mission in almost infinite ways and this is because of two reasons:
+
+1. Your suit. The nano suit you are using has a lot of different powers. It allows you to jump extremely high, run faster then most vehicles, armor up or even cloak (which is overpowered as hell!). By combining those skills you can use completely different strategies on each map.
+One time you will use cloak and play the level as a stealth game. You kill out of the shadows and kill dozens of enemies without ever being seen.
+The next time you armor up and use close range fire arms to go in all guns blazing.
+Or you get a long range sniper rifle kill a few enemies from a high point (by using your jumping skill for the nano suit) use the run ability to get away to the next sniper point and start sniping the next few enemies.
+Or you let them spot you but prepare with a few mines or some C4.
+Or...
+You get it right? ;-)
+
+2. The maps are designed perfectly for those different approaches. There is no linear level design which funnels you into one way with a lot of scripted action. It is all up to you to get the action you want in an open level design.
+
+
+I wish there would be more shooters like Crysis 1 today. 
+It is one of my top 5 shooters of all time!",0.7648999691009521,36,True
+17300,62831829,76561197970738873,"Crysis plays like an old style shooter... before games held your hand and told you how to basically beat the game, there was games like this.
+You have to think, you have to test the waters, probe, withdraw, try a different method.
+You will die, but each die you die, you learn what not to do.
+Not much is made today that plays as well.
+Sure newer games are prettier, but I'll take older graphics with solid gameplay ANY day.
+",0.8133044242858887,41,True
+17300,52106553,76561198006862530,"Great game, but Crysis Warhead is required to get this game to run properly on newer machines.
+
+Once the game is downloaded and installed, delete the bin32 folder from the Crysis directory. Copy the bin64 folder from Crysis Warhead in to the directory and rename it to 'bin32', Then enter the new bin32 folder and delete Crysis.exe and rename 'Crysis64.exe' to 'Crysis.exe'
+
+To change the game to a high resolution ratio:
+Navigate to C:\Users\[USER]\Documents\my games\Crysis and edit the game.cfg file. The two values for setting your resolution are 'r_Height' and 'r_Width'.
+
+When you first start a new game you may get a black screen, there is a fix which should only need to be done once. When you're on the black screen open the console and type 'CON_RESTRICTED 0' and then 'MAP ISLAND' as two separate commands. After the second command the game should load properly and won't require anymore work to get running, once you've reached the first auto save point.",0.7591962814331055,28,True
+17300,8192075,76561197963662647,"A normal game PC nowadays is able to play Crysis like it was meant to be played. I upgraded my (7 year old) PC earlier this year, and therefore Crysis finally became playable for me. Because, let's be honest, a game like this should be played maxed out. So I picked it up at a recent discount on Steam, but was it worth the long wait?
+
+I really enjoyed the game, but from time to time it really got me frustrated as well. I struggled with the checkpoint system of the game a bit, but maybe that's because I'm not used to it. Ultimately, I have a good feeling after finishing it and that is the most important factor for me.
+
+Anno 2013, Crysis still is a stunningly beautifull game, and you no longer need extra-terrestrial hardware to play this game on very high settings. However, the last level is very demanding on the system, and I had to run the game in DirectX 9 mode to be able to stay above 60FPS (just add -dx9 as a startup argument).
+
+So, all in all, do I recommend this game... yes (if you can pick it up a at a discounted price of course).",0.7582659125328064,34,True
+17300,30022259,76561198221853604,"after 10 years i still enjoy playing this game ... it brings back my childhood memories, 
+after 10 years this game is still a masterpiece in graphics 
+after 10 years some computers still struggle to run this game 
+after 10 years this game has still an amazing FPS experience 
+after 10 years i still wish i had a nano suit 
+after 10 years the alien part has still the most amazing winter and snow visuals in any game i have played 
+after 10 years when i hear the suit AI : Cloak engaged , i feel like a 10 year old kid playing with an imaginary gun 
+after 10 years i wish i could rewind back to when i first played this game and enjoyed every bit of it 
+after 10 years i will still give this game 10/10",0.8055099248886108,59,True
+17300,100784512,76561198290843144,"Don't buy this game, it doesn't work saying you have made too many installations (even though it worked for me okay in the past). Hope it gets fixed, but until then it's totally broken.
+
+Quite an irony, there is no computer that will run Crysis, indeed ;)",0.7050470113754272,23,False
+17300,8900899,76561198006560453,"[h1]TL:DR? See Conclusion[/h1]
+
+[h1]NOTE:[/h1] I originally finished the game using my disc based copy of the game bought in 2007. I bought it again on steam because it was included in the Crysis Franchise Pack.
+
+[h1]INTRODUCTION:[/h1]
+One of the rare PC Exclusive titles to break free from the Console's restrictive and dated hardware. Crysis 1 was the benchmark for most PC games back in 2007 until it was finally replaced by Metro 2033 in 2010.
+
+Crysis follows the story of Jake ""Nomad"" Dunn, member of a Delta Ops Nano Team tasked with infiltrating an Island currently occupied by North Korean Forces. Not soon after landing, the Delta team finds out that the KPA is the least of their worries.
+
+[h1]PROS:[/h1]
++ Cutting Edge Graphics: -Considering this game was released in 2007, Crysis can still go toe-to-toe with the 2012 game Far Cry 3. Back then, almost 95% of all PCs in the world could not run Crysis on its maximum settings. Crysis 1 was meant to be a PC only exclusive mostly because the developers really wanted to push both their creative freedom and raw hardware power. This is the game also spawned the internet meme: ""But can it run Crysis?""
+
++ Innovative Gameplay: -This game was the first to introduce the Nano Suit which added a wide variety of new approaches to missions and objectives. A Quick hand and good reflexes are needed to fully utilize the Nano Suit's power.
+
++ Pseudo Open World: -Its not Sandbox, but it's not linear. Each mission objective involves a map of gigantic proportions where you can go and carefully plan out your strategy before going in a mission. Like what I said in my SW: Republic Commando Review, not every game needs to be sandbox. Crysis 1 had a good style by giving enough freedom while keeping the player in a directed flow in the story.
+
+[h1]CONS:[/h1]
+- Terrible Optimization: -Although it was the Graphical Flagship of its time, the devs mainly focused on sheer brute force power of the GPU but made so little optimization. If properly optimized, most mid-range PCs could have ran this game a bit better.
+
+- Unresolved Bugs: -6 years and some of the bugs from the first release still persists. Downloading some of the latest patches actually causes a bug. Not game breaking but terribly annoying.
+
+- Resolution Problem: -You may or may not encounter this problem but the game seems to have a problem doing a full screen with a 1920x1080 resolution. To fix this, you'll need to edit the settings via note pad.
+
+[h1]CONCLUSION:[/h1]
+MUST HAVE. One of the landmark games that dared a primarily Console dominated market to shine a great light once more to the PC.
+
+Additional Note: This is not a fast paced action game like COD or Battlefield. This game actually requires some planning and tactical movements to get the job done, specially in some of the harder difficulties.
+
+--------------------------------------------------------------------------------
+[h1]Like my Reviews? Follow my Curator's Page:[/h1]
+
+http://store.steampowered.com/curator/6861651-Miyumi%27s-Review-Corner/",0.8038305044174194,101,True
+17300,90755609,76561198053511732,"The game is literally unplayable, and I do mean literally. You get an error when you launch it, and your CD key won't validate on steam nor on EA. Complete scam.",0.7028946876525879,28,False
+17300,48611968,76561198322757815,"Crysis is probably the one of the most visually stunning games released in 2000s on PC. Crytek absolutely nailed it with open world level design and environment. It was about two hours into Crysis when I began to realize just how good it might be and Crysis surpassed all of my expectations. Crysis might not be the best story driven first-person shooter according to the critics and gamers yet I really loved the narrative, I always wondered what was going to happen next and where would they take the story. Crysis starts out as an Tactical-Stealth game and feels more like an Sci-Fi shooter on the later half of the game.
+
+Besides graphics the best part is the freedom they give you to complete mission objectives the way you want (a bit like the Hitman games, you'll have multiple ways and options to approach your targets and enemies). 
+
+Crysis is still not perfect though. The enemy AI is bit cranky but gets better on higher difficulty settings. There are a few bugs and glitches here and there like every other game made using a Crytek engine. 
+
+There was also a game breaking bug when my safe file got corrupted during the final level but its okay I guess?  If you experience something like this you will need to manually delete some save files from My Documents> My Games> Crysis> SaveGame or the game will just not load past main menu. There are few bugs here and there which can be easily ignored as none of them are really game breaking. The game crashed a few times on my Windows 10 PC with i5 8400 and GTX 1060 6GB. And like me I'm sure you'll ignore these cons because its a great game.
+
+I really wish we got more games like these. If you made it so far please make sure to play Crysis Warhead because if you like this one you'll love that game. It solves all issues Crysis had.",0.7957180738449097,41,True
+17300,23839516,76561197996629256,Do not buy Steam or Origin version of Crysis. The game keeps crashing and none of the suggestions people made on web worked for me. This is the first time a game I bought via Steam disappointed me. From now on I'll read the reviews more carefully.,0.7449266910552979,85,False
+17300,41807256,76561198407771722,"If you're looking for a reason to buy this game on Steam right now, don't. It might work on 64 bit Windows 10, but it's a gamble. ( At least the Origin version seems to work.) Don't waste your time with the steam version. Everytime I go to open the game on my new PC it crashes. I've even gone as far as to wipe my drive and start fresh with a clean installation of windows 10.
+
+I don't know what exactly has caused the problem, but I have spent hours on forums trying to find a fix. My review is up for discussion if anyone has found a solution.",0.7410340905189514,78,False
+17300,98081895,76561198046825299,"[b] Nobody can run Crysis now. [/b] The registration service no longer works, which you're required to verify with in order to launch the game. Steam doesn't offer support for non-valve games and EA support is completely useless. Illegal to sell a game that you can't even play and even scummier to run a promotion since the registration issue has apparently been around for months, if not longer. Also installs a gamespy bundle of unnecessary anti-cheat software and game launchers for a single player game.",0.6882846355438232,23,False
+17300,12563075,76561198003029572,"After what....six years now?....this is still one of my faves. I still come back and play it periodically. Never get tired of the skulking around you can do, then open up fire on a few baddies for a while....then go back to skulking. This and the expansion pack Crysis Warhead are just a kick. 
+
+Sort of like Call of Duty meets HL2, but with more hi-tech baddies and then some pretty mean aliens both big and small. Exceptionally weaponry at times as well. 
+
+It's engaging on a lot of levels. You get your action on for a while. You get to sneak up on enemies and eliminate them in fun and interesting ways. And it challenges you to find sneaky means of taking them out. Even cooler: there are dozens of ways of attacking, and you can go back when replaying and try various new things and methods.
+
+Even better: it's as complex and slow-moving as you want, or you can force combat into a faster pace. Out-freaking-standing game",0.7379282116889954,75,True
+17300,86949124,76561197981257615,"WARNING: THIS GAME CANNOT BE RUN ON STEAM WITHOUT SKETCHY AUTHORIZATION SOFTWARE
+
+So this game requires a CD key to run, and apparently EA has recently made it impossible to actually load your CD key for some reason due to some licencing changes. So if you buy this game on Steam you will not be able to play it. Thanks EA.",0.7367040514945984,41,False
+17300,8464944,76561197983276232,"Do you miss first person action games like GoldenEye, Thief 2, and the original Ghost Recon? If you miss games that simply put you in an environment, gave you some objectives, and let you figure out how to do them without driving you down a rollercoaster, the original Crysis is arguably the last and most technically advanced game of this type to be developed. The visual achievements of the CryEngine have overshadowed the fact that this game, well most of it at least, is a shining example of objective-based game design released just before everyone took shooters in the complete opposite direction.
+
+The first level, which is shown off in the demo that’s available at crysisdemo.com as of this writing, is a perfect example of this. In a small bay occupied by a few enemy fortifications along the shore and some motorboat patrols, Crysis gives you two main objectives and an optional objective to tackle in any order. You can work your way along the coastline through the forts, take over a boat to zip around the bay, or whatever, through any combination of stealth and assault tactics.
+
+This continues through the next several levels which are sort of a linear chain of small sandboxes: a village you can infiltrate from multiple angles, a group of bases along a river, a harbor, and so-on. The level design in all these areas is quite good, always giving you options and setups for fire fights that never happen the same way twice. This is even true in the game’s more linear sections early on. In the early parts (more on that later), even when Crysis is a corridor it’s still a very wide corridor.
+
+I think the best way to describe the core game mechanics would be to call Crysis a simulation based on the original 1987 Predator movie. Your tools are Schwarzenegger-esque explosions and futuristic super powers. The nanosuit let’s you choose between super armor (the default), increased running speed, and a temporary stealth cloak. You’ll probably use the cloak the most but the other powers offer potential for fun combinations and interesting choices. Super strength let’s you jump higher, and you can combine it with speed for running super jumps. When sniping you can choose between staying hidden with the cloak or using strength for a more stable shooting arm.
+
+Behind the nanosuit the Crysis boasts a varied sandbox of shooter mechanics. Not only is there the ever-present option of stealth, but you can also lift and throw most objects at enemies and control various vehicles. Most buildings in the game are also dynamically destructible through the physics engine, which feels like it has a tangible effect on gameplay. Crysis even let’s you fit most weapons with a modest variety of attachments with a quick tap of the C key like different sights or a silencer.
+
+The reason you might hear a lot of people praise Crysis by saying “the first half” or “the first two thirds” of the game, is because for some reason it turns into a different, much worse game at a specific point later on. The later sections of Crysis are far more linear and introduce gameplay mechanics that while unique, just don’t work that well.  It’s probably best if you stop playing when you start a boss fight with a North Korean general. The most succinct thing I can say is at that point it feels like the level designers ran out of gas.
+
+The good parts of Crysis though will still net you at least around 10 hours of gameplay, and that’s just for one run. I consider Crysis to be a pretty replayable game just because you can approach its missions with multiple strategies, but also because each difficulty mode above normal changes things considerably.
+
+On normal you can pretty much toy with enemies using the nanosuit. On hard you can still play with them a little bit, but you have to be smart about it. Higher difficulties change a few core mechanics, and the deadlier enemies ensure you have to rethink the way you use the cloak and cover. Hard and Delta mode almost turn Crysis into a straight-up stealth game.
+
+Of course what Crysis is most well-known for is the “but can it run Crysis?” joke pertaining to the game’s harsh treatment of processors. Even after six years, Crysis is not an extremely easy game to run. My GTX 760 still only get’s 60 frames per second MOST of the time in 1080p. The consumer experience when you first install the game doesn’t make things easier either.
+
+Being from the early days of DirectX 10, Crysis forces it on you by artificially locking the highest graphics features behind DX10 when they are in fact available on DX9 just by editing the ini file or downloading a custom one. DX10 does little more than drag down performance of the already demanding Crysis.
+
+If you’re wondering if Crysis still holds up visually after six years, I think with vanilla settings it’s beginning to show its age, but still looks significantly better than most console games released in even the last couple years. Really, only the highest-end recent PC games (Crysis 3, Metro, Battlefield 4), and next-gen-console-only launch games like Killzone Shadow Fall beat it. It can still look impressive with custom ini files and texture packs though.
+
+I think it’s kind of a crime Crysis got labled as just “that really pretty PC game nobody can run.” In my opinion it’s one of the most underrated first person shooters of this past console generation (it did come out on consoles eventually after all), if not one of the best. It’s one of the last, if not the last of a breed of shooter that game designers seemingly forgot in the chase after Call of Duty’s popularity.",0.68589848279953,19,True
+17300,70345115,76561197998690715,"Can it run Crysis?
+Yes apparently it can.
+
+i5-8400
+GTX 1060
+8GB RAM.
+
+A great fps from 2007 which holds up really well today 13 years later with some stunning graphics, accurate shooting and pretty ruthless enemy A.I.
+Using the cool nano-suit powers makes you feel like the predator as you turn invisible, flank the enemy and then blow them all away before they even knew you were there. At times the enemy actually seemed to act like they were afraid as they ran to cover and shouted when their team mates were killed.
+The way you interact with the world also feels great as everything reacts to physics including enemy vehicles, objects in the environment and debris from buildings as they explode around you. You can pick up a guy by the throat and throw him off a cliff so it earns extra points for that.
+
+HOWEVER! I made it to the final boss in the game and saved in case i died and the game crashed. This was the only crash i experienced in my nearly 20 hours of playtime.
+Now when i try to load the save the game crashes in the menu.
+So i guess i beat the game.....yeah fuck it, i beat Crysis.
+
+Well worth picking this up especially in a sale and i'm pretty sure most modern computers will run it well despite it having a reputation as a PC melter.",0.7302783727645874,33,True
+17300,193684776,76561198116606421,"Back in 2012, I didn't just play Crysis, I survived it.
+Running at a smooth, luxurious 10 FPS, every movement felt like I was personally dragging my computer through a warzone. Shooting an enemy? Hope you like 5-second input lag, champ. Explosions? Might as well go make a sandwich while the frames catch up.
+
+It wasn’t a video game. It was a slideshow. A POWERPOINT presentation of pain.
+And yet, despite my GPU screaming in agony and my soul aging 10 years every time I turned a corner, I knew... I was playing something special. Something my potato couldn't comprehend.
+
+Fast forward to 2025: Armed with an RTX 4070, I finally booted up Crysis again.
+And cried.
+Cried real tears.
+At 144 FPS, it turns out this game wasn’t just good, it was a masterpiece hiding behind a fog of digital suffering.
+
+Final rating: 10/10
+Not just because Crysis deserves it, but because I deserve it for surviving the Dark Ages of 10 FPS gaming.
+Thank you, technology. Thank you for freeing me.",0.6796011924743652,14,True
+17300,94007299,76561198073600765,"[h1] Crysis Review [/h1]
+
+Simply put, Crysis is an absolute beast of a game. Even now 14 years on from its original release it's going to give your PC a run for its money due to Crytek’s assumption that the future of CPU design was clock speeds and not the amount of cores; spoiler alert, they guessed wrong. However, it is still objectively easier to run these days after years of hardware progression and is probably one of the nicest looking games around. CryEngine 2 had a lot to showcase here with character models and facial animations only rivalled at the time by Source and breathtaking landscapes filled with sandy beaches, crop fields and dense jungles complimented by some impressive volumetric lighting. But enough about graphics, what’s it about and more importantly how does it play?
+
+Upon starting the campaign you are put into the boots of Nomad - a charisma vacuum - I mean a US special forces soldier with access to a high-tech nanosuit that enhances the user's speed, strength, stealth and armour capabilities. Nomad and his squad are on a covert operation to rescue civilians and researchers from a South Pacific island that has been invaded by the North Koreans due to the discovery of ancient, alien technology. It’s a simple premise that starts off with a promising, tension-filled beginning but ends up being handled with as much nuance as a Call of Duty campaign.
+
+The game's missions and set pieces also suffer from late game deterioration as the last third fails to live up to the quality of what came before. This is exemplified by the slow, meandering crawl through the alien’s homebase which goes on for far too long as you make your way through a zero-gravity cave system which is confusing to navigate and veers into frustration as you're hit with wave after wave of enemies. This is in stark contrast to the variety of missions that precede it that see Nomad behind enemy lines sabotaging vital communications equipment, destroying anti-air guns whilst US forces prepare their chaotic offensive and the actual assault on the North Korean troops as you roll on them with a company of tanks.
+
+Now the biggest problem that Crysis faces is the marriage of its mechanics and level design which never quite coalesces, despite so much promise. You are given all the tools you’ll need from the very beginning (there are no skill trees or extra powers here) and dropped into the world to experiment and build up familiarity with Nomad’s powers until you become the super-soldier you dreamed of as a child, bashing Action Men into one another. The level design just doesn’t quite compliment these powers enough though. The maps are like sandboxes with alternate routes, secret paths and an emphasis on verticality which aids your covert sleuthing through the jungle but often falls apart in more open areas and the soldiers' encampments. These sections sometimes fall into generic cover shooting, especially on the higher difficulties, and often made me question why I had the powers to begin with - an issue that the expandalone Crysis: Warhead solved thankfully.
+
+I have heard Crysis described as a glorified tech-demo that exudes style over substance and whilst that may be a little unfair it is understandable given the design of the game. The developers clearly wanted to create a power fantasy that allows the player to creatively use the tools and weapons at their disposal but they didn’t facilitate this enough through level design. Sure, the story may read like a US sanctioned propaganda piece and many facets of its design are inconsistent at best and painfully boring at worst. But all in all, Crysis does stand on its own as a relic of mid 2000’s PC gaming; a good game that couldn’t quite climb that hurdle to greatness but gosh, doesn’t it still look so pretty?",0.676634669303894,13,True
+17300,50121619,76561198399640735,"Can it run crysis???? Yes... :nepnep: 
+
+Once you get past that drm and using a 64 bit patch folder called bin64, renaming it to bin32 with the bin32 folder named bin32.bak, this game can run on 64bit OS. Gameplay was alright, with the level of destruction i could do with the environment and the enemies. This game did crash for me a few times but thats okay. 
+
+For 2007 game, the graphics once on ultra really have aged well that it looks like a game from 2015 or something, all within a few GB file size, and a GB of vram or more. This game was tough to run on ultra and 1080p even on my current setup but it was a good game and a benchmark at the same time. A nice stress test.  Even high and medium looks fairly nice for this game, but low is as potato as one gets. I wouldn't have dreamed to be able to run this game in 2007 at decent framerates or a high resolution as 720p would still have been tough to run.  You want high single core performance for this game , as well as a strong gpu. Even 4k would stress a gtx 1080ti enough.
+
+This game if it had rtx modded onto it, would probably be an unplayable meme. It would be interesting though, ray traced crysis. 
+
+In windows this game runs as you would expect assuming you got it to start at all with the 64 bit .exe. I used dx10 renderer for the full effect but dx9 works too as an option. With a cfg tweak you could do dx9 and ultra if you wanted. 
+However I also attempted to run Crysis for the fun of it in Linux using steam play proton , but the DRM was the annoying issue and dx9 to opengl performance is terrible. However once I enabled dx10 mode, used protontricks possibly , it would run in vulkan via DXVK (direct x to vulkan) at about similar framerates to windows, which is honestly pretty cool for me. Game runs well, but you would have to disable esync if you attempted to run this meme in Linux. 
+
+Also for saving trouble for anyone who still wanted to get Crysis, I would highly recommend the GOG version instead as it has the 64 bit patch executable so that it will start up on first try, and no annoying DRM where it would prevent you from playing after 5 times or some other bs, even with the license key provided on steam. Technically i could run this without steam detecting it after evading the DRM, in wine for linux or Lutris,  or as a standalone exe in Windows, but to save you the trouble, its better to simply get the GOG version. Worth the price and being DRM Free for good. 
+
+Crysis warhead had the same issues as Crysis with drm and 64 bit  but the game itself is good, and  runs a bit better in some ways. 
+You could even mod this game for even better textures and shading as a way to enhance the already great looking game and stress the GPU  to the limits. 
+
+This game could run from windows xp , vista, 7, 8 and 10. Linux it would once i used steam play proton with a few tweaks or lutris with wine and dxvk,
+
+My hours on steam are not accurate as some were missing as i started the game sometimes without steam detecting it.  I have spent probably more than 24 hours on the game. the game doesn't take that long to complete unless i got stuck or just messed around with the game and replayed a few times. 
+
+RIP multiplayer sadly, but if multiplayer came back somehow, that would be something to try.",0.7254581451416016,20,True
+17300,39028387,76561198286203843,Don't buy this version. Either buy the Origin or GOG version. The reason is because this version only contains the 32bit version of the game. If you did buy this version like I did. You can ask EA to give you a copy of the game. They asked for my cd code and they gave me a free version. (You can find your cd code by right clicking the game and clicking View CD Code) There is a 64bit fix but it didn't work for me.,0.7252599596977234,39,False
+17300,109324014,76561198092756319,"[h1]KEY ACTIVATION NO LONGER WORKS, BUT ...[/h1]
+... you can simply use the open source launcher ""c1-launcher"" from [url=https://github.com/ccomrade/c1-launcher]github.com/ccomrade/c1-launcher[/url] to access the game. And it's still amazing after all of these years.
+
+Yes, it sucks, that you can only buy it as a bundle, but Crysis Warhead was pretty good as well, so you probably wanted to get both anyways.",0.7223141193389893,24,True
+17300,24051014,76561198198457731,"While many reviewers are saying not to purchase it because it does not work in 64-bit systems, there is a way that allows it to work (though it is [b]completely ridiculous[/b] that these steps are necessary). This is tested and working in Windows 10 Pro.
+
+What I did was to follow two different suggestions found here:
+[url=https://steamcommunity.com/app/17300/discussions/0/864945401070748061/]Steam Community post[/url]
+
+and here:
+[url=https://www.youtube.com/watch?v=TxGmld42ZMo]Youtube Video[/url]
+
+Step 1:
+Download the Bin64 files from the first link then extract and copy the entire folder into the Crysis program directory.
+Rename the Bin32 folder found in the same directory to Bin32.BAK. Then rename the Bin64 folder you just copied to Bin32.
+
+Step 2:
+From the second link, download the Crysis.exe file found in the video description. In the newly renamed Bin32 folder (the one that was Bin64), rename the Crysis.exe file to Crysis.BAK. Next, copy the Crysis.exe file you downloaded from the Youtube link into the same Bin32 folder.
+
+Step 3:
+While still in the Bin32 folder, right-click on the Crysis.exe file you just copied and select Properties. In the Compatibility tab, check the box next to ""Run this program in compatibility mode for:"" and then select ""Windows Vista (Service Pack 2)"" from the drop down menu. Click Apply then OK. You're finished!
+
+Now the game can be launched from within Steam.",0.716759204864502,22,True
+17300,29227645,76561198068262862,"This is a great game! Got through the whole game in 10h on record.
+
+I will do some pros and cons for the game
+
+PROS
+-Graphics are great for a game from 2007
+-The campaign is a long one but it never gets dull or repetitive
+-I had encountered only 1 bug which isn't game-breaking one, it's a graphical glitch. So that's good
+-Cutscenes are great
+-A couple of weapon customisation choices
+-A lot of vehicles
+-Enemy variety in models, weapons which they use, good AI
+-Small community but it's alive
+-There are 26 servers with a small playerbase, but hey - it's working!
+
+CONS
+-Multiplayer is broken but you can fix it here: http://www.crysis1.com/viewpage.php?page_id=19 , 100% works, tried it myself
+
+I recommend this game. I rate it 8/10 would kick alien butt again!",0.7163684368133545,29,True
+17300,122525280,76561198081641450,"Hey guys I can run it now!
+What do you mean they took it off the Steam store?
+[spoiler]They did! EA are pricks and disabled all Steam keys for a lot of their games, including Crysis. If you absolutely must play this game get it from GOG. There it's DRM free, is the 64-bit version of the game and won't require the installation of Gamespy (which has long since been shut down). All the hype of this game was in regards to its graphics, but gameplay wise it's kind of a piece of shit.[/spoiler]",0.6659955382347107,17,False
+17300,67125944,76561198000207900,"Crysis. A game Developed by Crytek and Published by Electronic Arts.
+
+There was a time that Crysis was the be all and end all of PC crushing games. It was an incredibly resource hungry game, when PC's especially mid tier PC's didn't have a lot of resources to spare. This game was build only for the highest of end PC's and thusly wasn't enjoyed and experienced by a lot back at its release in 2007. Still however, as a PC killer, this game built it's notoriety and became an almost immediate cult classic by its fan base, for upping the quality of FPS games as a whole with improved physix, adaptation and exploration on a grand scale.
+
+Story: 6/10
+Purely based on the content of Crysis alone, not including Warhead which closes the chapter off properly. This game doesn't really provide any meat in terms of story till about 3/4 the way through it. The year is 2020 and you play as ""Nomad"" a special ops soldier garbed in cutting edge nano suit equipment, sent to the Lingshan Island to investigate the capture of a lead scientist who uncovered something in the South China Sea, and ultimately set them free. Upon first stepping foot on the Island you start upon you're beset upon a creature that starts picking off your team one by one. It is your job now not only to free the science team but eradicate whatever has been ripping apart Raptor team. A fairly standard FPS story to be fair, Not a lot of depth in its experience till previously mentioned later in the story. But not a bad experience as a whole just a bit over done and cliche.
+
+Gameplay: 7/10
+I'm trying to give Crysis the credit it is due, A lot of what is done here, isn't great by today's standards by any stretch of the imagination. But for it's time this would have been revolutionary. From the overall physix engine in place, to the specialising equipment and activating suit powers to adapt to the situation, most of that hadn't been experienced till this point.
+Exploration: The islands are huge, This isn't a open world game though. You don't have free access to the entire landscape you are running around on, conveniently placed non-scaleable cliff faces litter the island to ensure you don't go too far off course. There is however a lot of room for exploring still. The game is quite linear in its design but there is quite a lot of space within those linear lines.
+Gunplay: Probably the bread and butter of an FPS. Unfortunately however not the greatest experience here. Weapons feel heavy as they should, shooting things feels like it would hurt, However the ultimate mechanic of actually trying to navigate through the clunky controls is tedious at best. A lot of what we take for granted now, obviously had to be trial and error fixed over time. Perhaps this is where, or maybe it was just an oversight.
+Controls: Stepping into the controls. The controls are clunky and it definitely pulls away from the experience as a whole. You expect a game that requires you to quickly transition between suit upgrades, and weapon modifications to at least be able to do it seamlessly, Instead you are given an experience that attempts to do it swiftly but a lot of the gameplay mechanics get in the way, For instance, aiming down the sights, you would assume iron sighting would be dropped when trying to sprint or activate other suit powers. This is not the case however, you can't do anything while you are actively toggled into aiming and obvious flaw from my perspective but again, at the time this may have been common standard...except that i don't recollect this mechanic in any other FPS game.
+Suit Modifications: Probably what makes Crysis, Crysis. The suit modifications you can activate to control the situation. A great concept, except for the fact your suit apparently runs on AA batteries and has the capability of only activating an increase for an extremely limited time. You do feel like quite a bad ass when you are cloaking around the world and picking off enemies however or even sprinting into combat at unfathomable speeds. It has it's place but overall feels like a gimmick, You can quite happily and easily move throughout the game without activating any powers at all. The selection wheel feels like it should slow down time when accessing it giving you the illusion of instant transition and also the ability to exist in the forms for longer would definitely be an ideal trait here. Being able to run fast for 3 seconds or strength for 2 throws/3 jumps doesn't feel like much of a ""power"" rather a hindrance.
+
+Visuals: 9/10
+Again. Trying to throw Crysis a bone here because its more than 10 years old and at the time was probably the absolute pinnacle of graphical power and presence. Unfortunately i do have to mention that the base game doesn't have any resolutions beyond 1080p. This isn't a huge issue but playing on a standard 2K monitor you are experiencing the game in a rather blurry state, taking away from a lot of what made this game a power house. However playing this game on a mid - high range PC had absolutely no concerns running at all. Smooth as glass and absolutely no graphical concerns at all while exploring the island. Testament to a well design game for sure.
+
+
+Audio: 8/10
+Again, another bone based on its age and what it offered at its time of birth, Crysis definitely has some beautiful audio in place, you don't place it by today's standards with games being significantly larger in both scale and file size. But the audio here is quite well done, from the crunching of leaves under your feet to the splashing over water crashing against the shore, Crytek have definitely put a lot of love into the Crysis series for sure, and it's evident in almost every piece of its atmosphere. There however isn't much in place of ""Soundtrack"" nothing here captivated me musically which was a bit of a shame but as a whole the experience here was great.
+
+Story: 6/10
+Gameplay: 7/10
+Visuals: 8/10
+Audio:  8/10
+
+Pros: 
+- The story is well written although a little cliche at times
+- Graphics are on point, not by current standards but still looks good.
+- Audio is well designed.
+- Suit mechanics are a nice touch, but underdone.
+
+Cons:
+- A lot of gameplay mechanics feel clunky and underworked
+- Game doesn't support higher resolutions
+- Multiplayer is dead (Not suprising though)
+- The soundtrack is ""meh""
+
+Overall: 7/10
+Not the greatest of FPS games, but again by today's standard. Crysis was definitely a graphical and PC powerhouse back at it's time of launch. But by today's standards is incredibly lacking in a lot of ways. It has a relatively well designed story, and is definitely a well crafted game however the clunky controls and cliche story points gets in the way of its overall feel. Even the suit mechanic as cool as it is and offering some points of intensity, becomes boring and gimmicky when you run out of powers seconds in. Still an overall good game, not the best FPS out there probably even for its time. But a good game non the less.
+
+Maximum Review. Activated.",0.7155888676643372,19,True
+17300,187937751,76561198105728809,"[h1]Crysis: A Visual Masterpiece[/h1]
+
+Oh mate, I don't even know where to start! I remember the first time I met both my computer and this game in 2007. My uncle (rest in peace) got me this after I was doing great in my grades compared to others my age. It was a life-changing moment for me. This is the game if a company decides to work on graphics like their life depends on it. I can see people disliking this game in their reviews judging by their times. Look here lads, This game was a Goddess back in 2007-2010. Even at the later dates, only one question gets to be asked during graphic card retails ""But Can It Run Crysis?"" 
+
+[h1]Story:[/h1]
+
+Set on a fictional island(Lingshan Islands) in the South Pacific(Close to China but no...The enemy is Korean), we are taking control of Nomad ""a US Marine equipped with the powerful Nanosuit"". But what is Nanosuit? It's a technologically advanced suit that grants enhanced strength, speed, invisibility, and armour modes.
+
+
+[h1]Game Mechanics:[/h1]
+
+Unlike the other games in its time era. Crysis comes with various game mechanics. 
+
+◘CryNet Nanosuit 1.0: The core mechanic, the Nanosuit, revolutionized FPS gameplay. You were able to seamlessly switch between different modes as in:
+•Strength: Increased damage and the ability to lift heavy objects. (you can't flip tanks and vehicles like our Chief😔)
+•Speed: Enhanced movement speed for quick traversal and evasive manoeuvres.
+•Armor: Increased resistance to damage.
+•Invisibility: Become nearly invisible to enemies.
+
+◘Open Worldish: The game does offer a degree of freedom in how you can approach combat and exploration. You could choose to stealthily infiltrate enemy camps, engage in open combat, or utilize the environment to your advantage.
+
+◘Destructible Environments: Environments were highly interactive, allowing you to destroy foliage, collapse structures, and utilize the environment to your advantage in combat.
+
+
+[h1]Pros and Cons[/h1]
+
+Pros:
+
++Groundbreaking Graphics: Crysis was(still is) a visual masterpiece for its time, pushing the boundaries of graphical fidelity in video games.
++Innovative Gameplay: The Nanosuit provided unique tactical options and encouraged creative players' expression.
++Immersive World: The lush tropical island setting was beautifully realized and provided a sense of scale and exploration.
+
+Cons:
+
+-Demanding System Requirements: Limited accessibility for many players at launch.
+-Story: Not particularly memorable or innovative. [spoiler]You will have to read books and comics in order to fully understand the lore[/spoiler]
+-AI: Enemy AI could be predictable and easily exploited.
+
+[h1]Conslusion[/h1]
+
+Crysis, a 2007 landmark, redefined FPS visuals with its demanding graphics. The innovative Nanosuit gameplay, while showing its age, remains influential. A must-play for FPS fans, though be prepared for outdated mechanics.
+
+9/10
+
+Until next time.
+Take care everyone.",0.6656118631362915,12,True
+17300,50950477,76561198046235546,"""The game can not start
+
+For security reasons, only a limited number of machines can ever be licensed by a single purchase.  This limit has been reached. Please purchase another registration code, reinstall, and then try again.""
+
+EA: fuck you
+Crytek: fuck you",0.7118375897407532,41,False
+17300,100332982,76561198145453996,"CD key doesn't work anymore. Scammers EA!
+
+
+Edit(July-2022): The above line written in bad mood. I bought the Remastered version. I am happy now.",0.7118077874183655,38,False
+17300,87034181,76561198036421897,So thanks to the recent fiasco with EA play you DO NOT have access to the key required in order to start the game on steam. This effectively locks anyone who bought the game on steam out of the game itself. Thanks EA for locking me out of a game I got years ago because you were too incompetent. This is a literal scam on EA's part. I own the game yet I do not have access to it.,0.6611332297325134,13,False
+17300,25113598,76561198306162201,"Still a blockbuster, graphics still awesome, still the A-Bug in the last level ;)
+
+Useful information:
+
+- Frame limit of 24 if you  use vsync. (for nVidia-Users: use a custom resolution in the nVidia-control-panel. This will fix it. There's also a solution for AMD/ATI-users.)
+- Even an overclocked GTX 1080 can't give you smooth 60 FPS on max settings in UHD, which is kind of ridicolus if you think about, that the game is now almost 10 years old
+",0.7057108283042908,21,True
+17300,94949828,76561198971185110,"I purchased the trilogy, the 2nd and 3rd game work just fine, however the 1st crysis requires a CD regristration key and the key i was given is a invalid key. Cannot play game. Wish steam would correct this or remove from store",0.6521170139312744,15,False
+17300,205646551,76561198120135255,"I'm glad I got to buy this before it was lost forever
+with that being said it was a fun experience till the very end
+
+10/10",0.6500183343887329,12,True
+17300,27963643,76561198014806643,"The game may be 9 years old, but the graphics can still compete with many new releases today.
+Sure there may be some assets that are not wuiet up to todays standards of games that are considered looking great today. For instance the palm trees may be a bit edgier than more modern trees that use tesselation. or some rock textures that aren't quiet as crisp as they could be. Everything else when it comes to graphics still holds up very well to new releases.
+
+When it comes to performance the game should runs just fine on maximum graphics, as long as your system has decent hardware. im thinking soething like a gtx660 and some i5 should handle it just fine
+
+Now that we got the ""graphics part"" out of the way.
+
+Let's get to the actual review:
+I played this game 9 years ago when it came out and I loved it. The Physics are some of the best I've seen in any game to date. You can destroy entire huts. Without having them collapse in a predetermined way. but instead theyll actually react physicly correct to how you interacted with them.
+
+There are 10 Levels in the game. That are all pretty big. So there is no pre-determined way to go like in call of duty. Each of the levels are several square kilometers big that you can actually walk on. And there aren't really any areas that feel empty.
+
+The AI is pretty smart for the most part. On the highest difficulty they are pretty hard to beat at times. However they aren't perfect ofcourse either. For instance in the 1st level there is a guy in a toilet. and 8/10 times when he gets alert to you he runs into the wall of the toilet instead of out through the door.
+
+The Story is probably the games weakest feature, which doesn't say it's bad. It's just nothing particularly special either. That beeing said, as a little side note: The story in Crysis 2 is actually quiet an improvement over the one in Crysis 1.
+
+And now the most important gameplay element: The nanosuit. For me this made it for one super cool, cause you are some super hero kind badass (with a slightly more grounded background lore to how the powers work than most comic book super heroes). And also I think it makes for some very fun options gameplay wise. You have great mobility with speed and strength mode. you can choose to fight as a tank with armor mode (although you still die very quick on delta difficulty so its not crazy overpowered) and you can play very stealthy with the cloak mode (which makes you almost but not completly invisible).
+All those abilities use the suit's energy, so they can not be used indefinitly.
+And the best thing is you can switch in between the diffrent suitmodes at any time, so you can adapt your playstyle to the situation at any given time.
+
+Last: The Multiplayer:
+So appereantly the multiplayer doesn't work anymore due to the service it used (gamespy) shutting down. However there may be workarounds to still play online. And the LAN mode still works ofcourse.
+I personally didn't bother much with the multiplayer in crysis 1. Back when I tried it it seemed alright, but I don't think it lived auiet up to the potential of multiplayer fun there could have been with the nanosuit. crysis 2 was an improvement in that regard in my opinion.
+
+So all in all Crysis 1(and I'm mainly referring to the singleplayer here) in my opinion is one of the best shooters ever made. And I'd recommend it to anyone who hasn't played it yet. (9/10) (10/10 if you choose to ignore the slightly weaker story)",0.6976582407951355,21,True
+17300,15822251,76561197965049785,"I guess I got to this one late. Actually the only reason I bought this was because I got a new PC that actually can play games and, with Crysis having once been ""that game for crazy good gaming PC's,"" I decided to check it out for that reason alone.
+
+Even after ~8 years, it's quite a pretty game on max settings. It's also a decent shooter with a giant open world that allows for varied approaches towards completing objectives. But it weakens in the later parts of the game as it becomes more linear and all about fighting off hordes of enemies coming to attack you. Also the ending is kinda abrupt, but I guess they did that so they could cash in on some sequels (and they seem to have done exactly that).
+
+So... is it worth getting? I guess. It's not a bad game at all, though I can't see myself playing through it again. Play it for curiosity's sake, then put it away. :o
+
+Fuck EA.",0.6974349021911621,22,True
+17300,34067018,76561198105085203,"Crysis is an FPS classic which still looks great today. However, the version on Steam does not run on W10 64 bit as it doesn't include the 64 bit, which is available on other stores. Please sort this out Valve!",0.7964693903923035,36,True
+17300,25585473,76561198033177470,Despite being almost ten years old Crysis has aged perfectly and still stands strong as one of the best FPS games released on PC.,0.745561420917511,25,True
+17300,176206480,76561198158955498,"Brilliant FPS that keeps you attached. Insane graphics and gameplay. Story takes a few wild turns, starting off as a typical military super soldier game to a crazy alien fight, run for your life situation.
+
+Nomad isn't much of a protagonist, but he progresses as one of the most important characters in the Crysis universe for being a sort of first contact with the alien epidemic.
+
+As for the game, it's Crytek, and while their stories are the most polished, their games are the most polished. The graphics at the time in 2007 were meant to run on machines and graphics cards that didn't exist yet, so it was obvious that this title, and the developers were ahead of its' time.",0.6454222798347473,9,True
+17300,65413462,76561198275281641,"Crysis back then was called the GPU crisis, a challenge for most PC at that time. Well after all these years, today PC can perfectly handle this game in maximum graphic setting, and graphic still looks nice today.
+
+I have been a fan of this franchise for a long time. Besides the graphic, this game (this franchise) put lots of details in weapon design. Weapons look really sophisticated. For the weapon also there is a weapon modification system allowing you to modify weapons based on your play style. Despite generally modified weapons does not make a great difference, which should have been a great point, it is a very nice thing to have.
+
+There are some drawbacks because of technology limits. The enemy is able to discover you in a far distance, even you just quit invisible mode for one second. Control in shifting different modes is not handy, and some of the modes fail to differentiate themselves, though both of which are solved in Crysis 2. Also, the game seems to lack difficulty control cause in some levels it is really hard. Overall, the game is difficult making I did not feel I am a soldier in a high-tech powerful suit but a normal human being.
+
+That being said, I do recommend to give a try to this GPU crisis for more than a decade ago. It is quite an experience.",0.6946585774421692,19,True
+17300,103979514,76561198374702429,"AVOID THIS GAME AT ALL COST!
+You will not even be able to play it. The CD key generator is broken and you will NOT get a working key. Steam will refuse to refund you, insisting that it works. This title is absolutely borked.",0.6947426199913025,23,False
+17300,12599873,76561198034730539,"Anyone who has heard of Crysis knows it is still heralded to this day as a benchmark for graphics. Based on the Cry Engine 2, even now it is absolutely stunning. 
+
+But more importantly its actually a brilliant game all round. The story is pretty standard, you are a special force operative kitted out with a ""Nano Suit"" which allows you to perform as a super soldier, whilst on mission you discover an Alien species which are plotting to invade the world (or so it seems). Voice acting is pretty good, the facial mapping is OUTSTANDING! 
+
+But the key point that won this game for me was the true freedom it provides you in how you play. The map is very open, leaving it up to the player how you approach each objective. You can switch your suit to max armour and plow straight through the next check point murdering people left right and centre... you could turn on your optic camoflage and sneak through without a soul knowing, you could buff your strength, pick up an explosive barrel, hurl it at the building and watch the Crytek physics bring the roof down upon your foes. It really gives you the freedom to play it in a way that suits you and that is why I would recommend Crysis.",0.6888523697853088,44,True
+17300,41334821,76561198009936886,It took 11 years to develope a single gpu that could handle this game at full spec in 4k@60fps - let that sink in,0.7880825400352478,69,True
+17300,32736313,76561198160980851,10 years on and it's graphically stunning. Behind the high graphic fidelity is a fairly fun stealthy FPS game.,0.7366089224815369,24,True
+17300,77714772,76561198079468674,"News report: DRM messed up another paying customer. A friend with whom I family share tried to run this game, and the DRM prevented him from doing so. I then made an attempt to replay it but was just told that I had activated it on too many devices, so I must purchase a new license. With DRM like this, what's the point of buying it? Bought the Remaster on Epic, not because I wanted to, but because this game's DRM screwed me over. Buy it on sale for $5 or less. Not worth any more for the hassle.",0.6357507705688477,16,False
+17300,39643986,76561198137861342,"A game that came out before it's time. 
+
+On release day, 8800s in SLI couldn't even handle the game which were 550$ graphics cards at the time.
+
+The game was a benchmark for years after and can even struggle to run on modern hardware at times at Ultra graphics.
+
+The gameplay is fun and the cloaking makes it even better. The graphics are still good for today's standards and was unreal on release day 10 years ago in 2007. The camapaign is ok but it's more like a tech demo than anything else. I was sad to see the game go linear when it hit the consoles and I didn't play those. Crysis Warhead was short but the same game basically as this one. 
+
+It's a fun game to playthrough if you haven't for 5$ and the mods are really great for the game. I remember buying a LeadTek 8800GTS 320mb card($300) to play this game in 07 and it struggled tremendously. Worth a buy.",0.6845238208770752,19,True
+17300,135214616,76561197998124687,"[h1] Crysis: Puny Humans Can Barely Run This Game [/h1]
+
+[b]Starscream:[/b] ""As a Decepticon, I am used to the power and capabilities of advanced technology. So when I stepped into the nanosuit in Crysis, it was like wearing the golden armor from the Transformers episode, The Golden Lagoon. I was invincible, unstoppable, and the humans around me were nothing more than mere meat sacks in comparison.""
+
+[b]Gameplay:[/b] ""Crysis offers a truly immersive experience with its stunning graphics and realistic physics. The game is so advanced that puny humans can barely run it on their primitive machines. But for me, as a powerful Decepticon, Crysis was a walk in the park. The nanosuit allowed me to run faster, jump higher, and punch through walls with ease.""
+
+[b]Storyline:[/b] ""The storyline was also engaging, with a thrilling plot that kept me on the edge of my seat. As a Decepticon, I appreciate the power struggles between the humans and the alien invaders, as it reminded me of the constant battles we faced on Cybertron. The game's open-world design allowed me to explore the environment and wreak havoc on the humans, which was quite satisfying.""
+
+[b]Final Verdict:[/b] ""Overall, Crysis is an impressive game that showcases the power of advanced technology. While it may be too advanced for puny humans to handle, it was a perfect match for a powerful Decepticon like myself. I highly recommend this game to any Decepticons looking for a thrilling gaming experience.""",0.6340922117233276,12,True
+17300,64701707,76561197970928460,"It was a great game in WIndows XP. The Steam version no longer works.
+
+EDIT:- You can get it to run on 64 bit Windows, using the excellent solution in the community hub, by adding the relevant affinity command for your system, in my case the AMD fx 8350 (8 cores). This sets the game to use only the last core. Shame the publisher doesn't update the game, it ran perfectly well on my old dual core Athlon x2.
+
+C:\Windows\System32\cmd.exe /C start """" /affinity FE ""F:\Steamlibrary4b\steamapps\common\Crysis\Bin32\Crysis.exe"" %command%",0.6830416321754456,19,False
+17300,129819906,76561198052294236,"Unplayable on Windows 10 with R7 5800X & RX 6900XT. Black screen and crashes on launch.
+
+If this is your first time with the series, I recommend the remastered version.",0.631165087223053,12,False
+17300,152533927,76561198339401910,"Crysis plays like an old style shooter... before games held your hand and told you how to basically beat the game, there was games like this.
+You have to think, you have to test the waters, probe, withdraw, try a different method.
+You will die, but each die you die, you learn what not to do.",0.6309812664985657,14,True
+17300,124103958,76561197960350664,"Simply one of the coolest games ever made!
+Originally released in 2007, but still easily holds up today.
+
+This release DOES offer full 4k support but is still a demanding piece of gaming software.
+While there is a remaster out now of this game, there are pro's and cons with each.
+
+The remaster offer the new control model of the nano suit for easier access to cloaking mode etc.
+But I preferred in a way the manual operation of it this classic sported.
+The remaster removes manual saving and relies on the checkpoint system instead, now this version still has checkpoints but they're further between each other.
+
+Enemy AI is, well... not as smart as they are in the remaster. In the remaster they tend to band together and rush you and they spot you much easier than they do in this original version. Making this version much easier to play, even on Delta difficulty.
+
+A certain noticeable drawback is that aim down sight is set on toggle, you cannot change this here.
+Crouch is set to hold, and you cannot change this either. Prone, is toggle at least.
+In the remaster the functions are intuitive, you click fast on crouch for example, it toggles. If held, it detects that you wish to automatically stand when released. Aim Down Sight, functions the same way.
+
+Footnote, you may need to restart the game to get access to all available resolutions, first time I booted it appeared that I could not change from 4:3 to 9:16, the 9:16 (widescreen) resolutions were hidden.
+
+This is a piece of gaming history right here, if you never played it, never had a computer that could run it until now, I whole heartedly recommend this.
+
+The remaster is improved in a lot of ways, mainly visually and a few of QoL improvements.
+However, it is again, demanding as hell and recoins the term: Can it run Crysis?
+This original version run much better.
+Sadly the multiplayer may be dead by now.
+Game uses GameSpy for online matching which is for all intents and purposes discontinued, so no need to install that. Also game wants to install an old version on Punk Buster which you can also skip.
+
+Don't let my amount of game time in Steam fool you, I've run through this game several times, even on console.",0.6308832168579102,10,True
+17300,45726011,76561198260949926,"Crysis is an alien invasion game set in the year 2020. An archeological team on a remote Pacific island is captured by an invasion force of North Koreans and US Special Forces team is dispatched to investigate and rescue the scientists. Playing as Normad with Nanosuit including Fun Powers Like Cloak, Strength, Speed , Armor Makes this Game More Enjoyable. Graphically So much Enhanced and Detailed. Story is well organized. Perfect FPS Sci-fi Game out there.
+
+Pros :
+
+1. Visually Enhanced.
+2. Fun Combat.
+3. Third Person View in Vehicle Mode.
+4. Good Story.
+5. Satisfying Boss Battles.
+
+Cons:
+
+1. Annoying Bugs/Glitches here and there.
+
+8/10. Happy Gaming!",0.6803897619247437,17,True
+17300,99578160,76561198023928362,The original version is better! Do not buy the Remastered version since the code was based on PS3/Xbox 360 port.,0.6801882386207581,17,True
+17300,178590043,76561198120652983,"There is a reason why '-but does it run Crysis'' was, at some point, a joke. The specifications to run this game at the time were nuts. 
+
+Crysis is one of the most stunningly beautiful games for it's time. 
+
+Still stands up to time. Large 'open' maps [in truth, it is just 'get from point a to point b' deal.] and a variety of missions to do. IMO it is still worth purchasing 17 years later.",0.6275129318237305,8,True
+17300,127487178,76561198043408192,"Wont run without modification on Windows 10/11
+Buy on GOG",0.676264226436615,22,True
+17300,23156706,76561198054477457,"If you're planning on Playing a shooter that is 9 years old this game is amazing in all the shooter aspects.
+And It's not entirely shooting your way in, tactical and stealth gameplay also is a big part of the game.
+
+First of all this game does a very beautiful environment, a really big forest and great foliage density makes the stealth approash really easy and more realistic and the way you interact with any plant is very real.
+
+The graphics for the time of release are the best for any shooter game and for now It's really good easily playable.
+
+It has a nice gameplay, you have a suit with four features on it, you can either have it cloacked or get you more strength or more armor or more speed and you can choose your weapons attachments the way you're planning to do your mission, and there is multiple routes and multiple ways to tackle your objectives it is kinda open world game, you can drive land, sea and air vehicles and the controls are really really good as well as the damage system on the vehicles is very realistic. Another thing to mention is the weapon animation they give it a slight movement when you move or aim so it feels real and there is a nice recoil system so you cant just spray.  
+
+The story is spot on, it is very well told,it is very well executed, it doesnt lack action and shooting at all and it is interesting.
+
+The multiplayer for this game was powered by gamespy and since they stopped it, online is not available for this game but I saw a website that allows you to re play online in some way so you can check that out if youre interested in the online aspect of the game. 
+
+Overall it was was a great experience I loved this game and moving on to the second installment of It.",0.626116931438446,10,True
+17300,20029008,76561197961635953,"Run around a photo realistic jungle, taking out North Korean soldiers and Aliens with a military suit that grants you all kind of super powers. Almost 10 years later and this game is still a good benchmarking tool for PC rigs.
+
+Full video review:
+https://www.youtube.com/watch?v=fZCNpUIvo2I",0.725816547870636,60,True
+17300,75666127,76561198025139526,"[h1] Crysis on Steam has [u][b]DRM that limits the number of times you can install the game[/b][/u].  [/h1]
+
+I'd heard that, instead of removing the DRM, EA just increased the install limit to 50 installs. But I've never installed the game that many times, in fact I'm pretty sure I've only ever installed it way less than 10 times, and yet I can't play it, I'm greeted with a window that says:
+
+[quote]
+The game can not start
+
+For security reasons, only a limited number of machines can ever be licensed by a single purchase. This limit has been reached. Please purchase another registration code, reinstall, and then try again.
+[/quote]
+
+I've heard that the [b]GOG version is DRM-free[/b]. Go [b]buy that instead[/b].",0.6744068264961243,14,False
+17300,12974524,76561198007416237,"Warning, contains mild (Edit: heavy) spoilers.
+
+Never having played the famous Crysis, I thought I'd finally give it a shot and find out what the fuss is all about. Naturally, since I played this in 2014, my perspective on the game will be very different from the one who played it when it came out. But only an hour into the game, I realized why people call it such a revolutionary shooter for its time. I didn't play with any mods, yet I would've never guessed the game I was playing came out in 2007 judging from what it presented to me. This is due to the following reasons:
+
+- The vastness of the world and the graphical fidelity are overwhelmingly impressive for an FPS title this old. You can clearly see that the CryEngine is designed to push the limits on what's possible in terms of looks and scope. I was impressed by how open-world-y the terrain is, yet the missions are unmistakably straightforward... which turns out to be an incredibly fun combination in my opinion. Being dropped on a tropical island where you shoot people in a vast and open area offering multiple ways of approaching your goals is to my mind a great way to design an FPS. The level of detail is stunning to say the least for a 2007 title, I have seen much worse in considerably newer titles.
+
+- The gunplay, gun variety and AI are simply great. Shooting enemies feels fun, feels rewarding and feels challenging since the AI actively tries to hunt you down when you for example sneaked away again using cloak. One of the core mechanics, the exosuit and its accompanying suit powers offer great variety for both people who like to be stealthy or those who love to cause mayhem. I found a mix of these to be the most effective and entertaining. Goddamnit I think I never experienced as much satisfaction as when I blew up a truck with a rocket launcher while crouching in a bush with cloak engaged. The effects are mindblowing, as are the sound assets, just really immersive overall.
+
+- Performance is solid. With CFX 7950/7970 I easily manage 60fps, except for very intense scenes involving lots of explosions and stuff. FoV seems to be exceptionally high, I didn't see a slider for it in the menu, but it's at least 100 by default, which is great. Sadly there's a few bugs involving for example scripted events and cutscenes not triggering correctly when loading from quicksaves amidst a level, nothing game-breaking though. Also, 1920x1080 or higher resolution is not enabled by default, you have to manually adjust it in the config file, which is no big deal though.
+
+- The level design is interesting enough. While most levels feature open tropical island terrain with hilly, foresty areas, there's also a sequence where you are in weightless space, floating around inside a gigantic alien structure; very impressive and intriguing overall. The enemy variety is great too: From your usual infantry of all kind to jeeps, tanks, helicopters, boats to rather pesky flying alien crystalline squids with fast-firing energy weapons to a huge ass alien motherfugger in the process of sinking a motherfuggin aircraft carrier. It should be noted that you can drive jeeps, tanks, boats and helicopters yourself which is super fun if you like to shoot up stuff in the most classy way imaginable.
+
+Negative points? I have one major one, but perhaps it's not really valid since the game clearly doesn't focus on that aspect at all and never pretends to:
+
+The story is mindblowingly clichée and superficial: >Technologically augmented super soldier infiltrates fictional island under the control of evil North Koreans, gathers intel, blows up stuff, uncovers archeological project gone overboard, sleeping alien entity that feeds itself off energy awakens, causes major destruction, gruffy American general wants to drop nuke on island to kill off the monstrosity, super-intelligent scientists who always know it better advise against it, alien gets nuked anyway, becomes massively stronger, protagonist has to beat XXL format version of alien monstrosity using lots of missiles and a super secret prototype weapon which had never been field-tested but works like a charm (why wouldn't it?), escapes a sinking aircraft carrier and goes right back into the fight because he's a badass and a superhuman, dutiful soldier-tough-guy who has no fear and throughout the entire game requires no sleep at all. 
+There, that's the plot in a nutshell for you. Not really intentended in the beginning but hey, these are spontaneous and minimally structured reviews after all so w/e. 
+So there you go, awesome FPS, don't play it for the story, play it for the mechanics and the looks. This is how every modern military shooter should be. You can make a very linear, bland narrative without sacrificing diversity and creativity in terms of gameplay and mechanics. Crysis taught us this. 
+
+No score here, read the damn review if you care for my opinion on it.",0.672670841217041,29,True
+17300,35855538,76561198066900216,"This game requires a patch to run on 64 bit systems, so if you are extremely lazy or absolutely terrible with computers, don't buy it. However, if you are willing to take the minute to download and install the patch, you are in for an incredible game. I'll list off some bullet points.
+
++ Amazing graphics
++ Satisfying combat
++ Intelligent enemy AI
++ Well optimized
++ Detailed, open levels
++ Destructible environments
++ Fun and useful abilities
++ Well thought out difficulty system
++ Nice animation
+
+
+- Needs a patch to run on 64bit systems
+- Alien bullshit",0.6723710298538208,28,True
+17300,78760834,76561198031632522,"You haven´t played Crysis yet and are reading reviews?
+
+Why?
+
+Go buy it.
+Put on that Nanosuit.
+And go enjoy it.
+
+It´s one of the best shooters ever made.
+At least a 9/10.
+
+Now go play it.",0.6719331741333008,23,True
+17300,90595280,76561198134577063,"The negative reviews are because the game doesn't start. You will need to replace the Bin32 folder with another Bin32 folder that you can find in a steam guide, and I also had to set the game application itself to windows 7 compatibility mode. After that, everything was smooth sailing except for fullscreen mode not doing 60hz, but its not a problem because windowed mode runs perfectly using 4k 60hz.",0.8211142420768738,104,True
+17300,47911842,76561198081247401,"Well ladies and gents this is sad
+Crysis, a true classic is an excellent game that needs no further reviewing by someone like me.
+That being said DO NOT BUY THIS ON STEAM
+Steam distributes only the 32bit version (Although the 64bit can be obtained by also purchasing warhead and copying some files over) meaning on windows 10 64bit it wont run.
+If you want to play this beloved FPS, Buy it on GOG. Still cheap, and will actually run without you needing to fiddle with files, as GOG distributes the 32bit AND 64bit version in the same download.",0.7204626798629761,44,False
+17300,165273732,76561198295462810,"[b]Alright, listen up, gamers! Today, we're diving headfirst into the adrenaline-pumping, alien-blasting world of Crysis, the game that's gonna make you feel like a total badass with every nanosuit-powered step you take. Let's break it down and see why Crysis is the bomb dot com.
+
+First off, let's talk about the graphics. They're like a punch to the eyeballs in the best way possible. I'm talking about lush jungles that'll make you feel like you're on vacation, stunning sunsets that'll make you stop and stare, and explosions so epic they'll make Michael Bay jealous. And let me tell ya, when you're playing Crysis on max settings, it's like your computer is flexing its muscles and showing off its raw power.
+
+But the real star of the show is the nanosuit. This bad boy is like a Swiss Army knife on steroids, with abilities that'll make you feel like a superhero. You wanna cloak and sneak past enemies like a ninja? Done. You wanna armor up and charge into battle like a tank? Easy peasy. And let me tell ya, there's nothing quite like the rush of chaining together different abilities and pulling off the perfect stealth takedown like a freakin' boss.
+
+Now, let's talk about the gameplay. It's like a delicate dance of strategy and chaos, with every encounter feeling like a puzzle waiting to be solved. Whether you're sniping enemies from a distance, sneaking through enemy lines like a ghost, or going in guns blazing and causing mayhem, there's always more than one way to skin a cat. And let me tell ya, experimenting with different tactics and seeing what works best is half the fun of Crysis.
+
+But it ain't all sunshine and rainbows, my dudes. Crysis can be about as demanding on your hardware as a bodybuilder on leg day, and the AI can be about as dumb as a box of rocks sometimes. But hey, when you're blasting aliens into next week with an arsenal of high-tech weapons and rocking a nanosuit that would make Iron Man jealous, those issues seem minor in comparison.
+
+So, if you're looking for a game that'll push your PC to its limits and make you feel like the ultimate badass, then Crysis is the game for you. Grab your nanosuit, grab your weapons, and get ready for a wild ride through jungles, beaches, and alien-infested islands. Just don't forget to take a break and appreciate the breathtaking scenery along the way.[/b]",0.7200139760971069,22,True
+17300,42867164,76561198280377926,"A Limerick:
+
+There once was a good friend of mine
+Who tried to play Crysis one time
+As the first level loaded 
+His PC exploded
+And the keyboard's still lodged in his spine",0.7186402082443237,27,True
+17300,90434016,76561198041603555,"Ah, Crysis, sort of a tech demo and sort of a game. This is not the remastered version, but the original, but then, the remastered version is designed to melt MODERN video cards. It's beautiful, and flexible enough to make things... interesting, and probably what really put ""sandbox shooter"" genre on the map. 
+
+The plot is sort of cliche and sort of isn't. In 2020, a US science team sent out a mayday... North Koreans are invading Lingshan Island off the Phillippines. US, not wanting to raise tensions, sent in Raptor Team, an elite group of US Special Forces equipped with the latest generation nano-suits that can enhance speed, strength, armor, or even go stealth, for limited time. But something else is on the island... as the team dives, members are picked off by strange flying creatures. Only 3 landed successfully, Prophet was subsequently lost, another, Psycho, had his own mission (playable as Crysis:Warhead)  Only Nomad (you), is left to complete the mission... What is the North Korean up to? Who/what are those flying creatures? What had humanity gotten itself into this time? 
+
+Obviously you had to explore the island, deal with various types of threats using both conventional and improved weapons. But your suit also has various modes you can exploit. Toss a tank at the enemy soldiers? Definitely possible. Sneak up behind him and knife him? Can be done. Tactical possibilities are endless, given your expanded toolset. 
+
+Obviously, your enemies are tougher too. Lots of NK soldiers around, and later, yes, you'll meet some tougher opponents... and THEN there are the unexpected opponents. And let's just say, things don't go well. 
+
+Graphics were phenomenal for the time, and requires a VERY hefty PC to run at the time. It's too bad that Crytek has gotten out of AAA-title business altogether. And the story line is not bad, even if it went for more scifi cliche tropes in the two sequels. 
+
+Should you play it? Absolutely. Even if it's not the remastered version. 
+",0.6166766881942749,9,True
+17300,132437712,76561197979909911,"Fix for crash on startup:
+https://steamcommunity.com/sharedfiles/filedetails/?id=1772645468
+Still works in 2023
+
+
+
+(In addition to the aforementioned fix, also use the ""Borderless Gaming"" program to fix the perma-window.)",0.7165526151657104,18,True

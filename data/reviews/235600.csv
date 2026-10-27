@@ -1,0 +1,938 @@
+appid,recommendationid,author_id,review,weighted_vote_score,votes_up,voted_up
+235600,217979561,76561198032345224,"another Ubislop abandonware title
+to fix chronic crashing 
+
+community fix by ""Legion""
+
+-offline -offline_mode -nointro
+put that into launch options, game is fixed",0.9351827502250671,293,False
+235600,184422897,76561198449574402,"[h1]Me add offline mode me  STOP CRASHING [/h1]
+
+Go to properties [b]General Tab[/b] then add this to [b]Launch Options[/b]  [code]-offline -offline_mode[/code] It will stop the crashing every 30min.
+
+Don't expect any [b]multiplayer[/b] or [b]co-op[/b] as Ubisoft has already shutdown its blacklist servers back in October 2022 and this is also most probably the reason why the game crash every 20-30min.",0.9321081042289734,155,True
+235600,128115451,76561198050748656,"Game crashing every 23 minutes?
+
+put ""-offline -offline_mode"" in launch options
+
+found it in a steam thread, fixes the issue
+
+
+edit: https://help.steampowered.com/en/faqs/view/7D01-D2DD-D75E-2955",0.9219543933868408,205,True
+235600,162955242,76561198114085948,"Definitely worth to play it on Steam Deck, runs perfectly smooth, but a few tweaks still needed after installation to prevent annoying crashes after 30 minutes of gameplay. Story pretty decent, not even close to Double Agent or even to Pandora Tomorrow but gameplay is still fun though.
+
+To prevent crushes just put those launch option string before you start to play, and also make sure you are running on Proton Experimental:
+
+[i] -offline -offline_mode""-uplay_steam_mode"" [/i]
+
+",0.897578775882721,96,True
+235600,103011663,76561198142031701,"Do not buy the deluxe edition. DLC requires online access, but servers are no longer accessible.",0.9448564052581787,344,False
+235600,235177170,76561198131846170,"If anyone is tempted by nostalgia to buy this game, go to PCGamingWiki and download the Splinter Cell Blacklist Fusion Mod. At its current state on steam, Blacklist is essentially unplayable abandonware.",0.8896272778511047,115,False
+235600,196075766,76561197974652072,If you type -offline in steam launch options the game wont crash after 30 minutes anymore and you can still earn achievements too,0.8870353698730469,81,True
+235600,103012224,76561199074925593,"Theres a fix for the servers (2021) its on the splinter cell blacklist discord, you need to download the older verison of Uplay, NOT Uplay connect. You need to change the Uplay version file from [whatever #] to 10627
+
+Edit: Also don't install any mods if you want to play online cuz it won't work. Also don't worry about not being able to unlock any of the multiplayer stuff cuz of the lack of players, you can actually farm EXP in private matches, just play the terminal capture gamemode with max objectives, no time limit, and fast capture on.",0.8835262060165405,129,True
+235600,93231708,76561198838779647,Its been almost 8 years Ubisoft. We got 7 major assassin's creed entries but not a single splinter cell. Come on we need the next splinter cell game.,0.9296446442604065,181,True
+235600,205365456,76561198913908098,"FIX for the crashing:- Type   -offline -offline_mode    in the launch options on steam, did that and now it only crashes very rarely, before it was every 20 minutes or so. It is a very fun stealth game, pretty linear with some openness. Coop isn't there anymore but the charlie missions which are wave based and the campaign are a good time. The new voice actor I have warmed too a bit but he is more generic. You have lots of gadgets and can play like a ghost or aggressive. Buy the steam version so you can fix it, it shouldn't have to be done but there you go.",0.8795754313468933,108,True
+235600,154979496,76561198008183644,"Annoying Ubisoft launcher makes it impossible to even play this game. Here's a rule: If a game is on Steam, that game should UNDER NO CIRCUMSTANCES have an external launcher. That is all.",0.878655731678009,132,False
+235600,218426013,76561198384351293,"this port has issues with crashing, but luckily you can put ""-offline -offline_mode -nointro"" in launch options and resolve it. i had crashes every 20-30min, but none after i used the above launch options.
+
+as far as the game goes, it's fantastic. still hold up in 2026. you can choose your own approach in each mission, aside from some scripted events. the story is a generic stop the bad guy, save the world plot, but it done well and makes for good locations/set pieces.
+
+definitely check out this game and the whole splinter cell series if you like action-stealth games.",0.8786258697509766,71,True
+235600,12230776,76561198041089372,"OK... given my playtime now, I think it's finally time for my review. No plot spoilers. A proper review would take a look at all aspects, but I don't have much time so I'll be brief.
+
+[h1] The Good - Singleplayer [/h1]
+The game itself is surprisingly good. Of course... it's no Chaos Theory, but regardless, the [i]game is actually fun[/i]. By playing on perfectionist, the game's hardest difficulty, you'll find yourself hiding and waiting a lot; examining the guards' patrol routes (which by the way change every few deaths to keep you on your toes). Also you won't be able to use your vision through walls, giving (albeit briefly) you that similar experience in Chaos Theory when you find yourself constantly wondering what's around the corner.
+
+So what else is there? A diverse array of gadgets, guns and accompanying upgrades for starters. I loved being able to use the money earned from missions to upgrades and improve my loadouts. There was a chain of progression, and I could feel my character becoming a 'stronger' spy, equipped with more stuff as the game continued.
+
+The environments are pretty damn awesome. Exploration is the key to achieving your preferred playstyle. There are neat cinematic scenes and unique parts of the story which require you to play out these almost 'mini-game'-like bits; but they're so well integrated into the story and allows you to take a break from all the running, jumping and stabbing.
+
+[h1] The Good - Multiplayer - Coop/SvM[/h1]
+Now let's switch over to the multiplayer. There's not much to say about coop. It's essentially singleplayer but with a partner. There is a fairly wide variety of missions to choose from. Each of the main characters have varying game modes depending on what you're up for. Nearly all of them can be played solo if you don't have anyone to trust your life with.
+
+Grab a mic, join your friend, and off you go. That's right. A mic. Whilst not completely essential- it will drastically reduce the number of times you die because of silly mistakes. Bouncing information between you and your partner will really help. But... if you're with a random person you might not be able to do that. In which case, you'll just have to grit your teeth and go with the flow.
+
+Spies. Versus. Mercs. It's fun. Believe it or not, it's actually fun. With friends. By yourself... yeah, I'll admit, you can have some pretty decent matches. But seriously, for some laughs and a better chance at winning- play with friends you can talk to. Skype, TeamSpeak- it's all about information exchange. You can better anticipate that ambush if your buddy just saw a spy heading your way. You can let your friends know where the hacker is by utilising the merc cameras whilst your dead.
+
+The SVM loadouts are different to the singleplayer loadouts, so be prepared to start paying up the big bucks again. This time you'll also need SVM tokens, which allow you to purchase weapons and stuff. You only get a few when you start levelling up and then one token each level after that, so spend wisely. There should be enough to unlock everything, but it's the order you choose that matters. I'll be writing or recording an updated SVM tutorial sometime in the future, to help the new players with how everything works. You'll have fun creating custom loadouts with a combination of gadgets, gear and weapons to your liking and playstyle. The torso abilities are pretty cool. Each side (mercs, spies) get three choices of abilities to aid your plight. Used wisely, you can be a valuable asset to your team.
+
+Since Blacklist is 4 vs 4, it's the perfect number. Every player counts, and when your team mates goes down, you best be prepared for what happens next.
+
+On the face of it though, SVM is fun to dive into for a quick match (I say quick match, it's about 25 - 30 minutes per match). You can just join and start playing straight away. It's fast paced and will require some level of awareness and reflex reactions in order for you to survive. Playing smart is a key skill. Anticipating enemies, knowing your way around the map, always paying attention to the little things that might give away the position of a spy. Classic, Blacklist and Team Deathmatch are probably the only active game modes at the moment. The others could do with a reboot, as they're fun to play... when there's enough players.
+
+[h1] The Bad - Singleplayer [/h1]
+I honestly can't really fault the singleplayer. There is one thing though. It can be very easy to speedrun. Grab one of the sniper rifles and just headshoot everyone. Job done. Of course, some armored enemies require a little melee time, but with two or three shots you can drop them just as easily. It can ruin the fun, but it's completely feasible.
+
+Oh, there's also the whole Michael Ironside thing. Yes, Fisher does appear younger. No, it won't stop you from enjoying the game. You'll get used to it. Or perhaps not. It's really up to you.
+
+My negative points reside mostly with the game launcher rather the game itself. Ubisoft only had to go and slap Uplay on its products AGAIN. Why even bother releasing this on Steam if it was going to need Uplay anyway?! For example. I load Uplay (ugh, I know) and click 'Play' on Blacklist. It then says... 'loading Steam. Please wait for your game to load from there'. Like... wut. Then Steam launches Blacklist, then it goes BACK to Uplay and Blacklist opens up. ???
+
+Not only the Uplay interface a pain to reach on a laptop (since it's Shift + F2 and laptop users have to press FN as well...) but it's slow as hell and actually caused me to crash Blacklist once.
+
+Ugh.
+
+[h1] The Bad - SVM [/h1]
+Here we go. I'm leaving coop out of this by the way.
+
+Spies vs. Mercs feels like another company developed it and just slapped it onto the main game. Seriously. The sonar vision is completely different to the sonar vision in singleplayer, the way the stun crossbow works is different, there's no crouch sprint... the list goes on. When I first started playing, I got bugs. I mean... BUGS. One particularly game breaking bug was the fact that every time I went into cover and left it, I'd stand up and start sprinting around. It was hella annoying. Ubisoft put out THREE patches and none of them fixed it. It was only after I'd posted a couple ideas and experiments of the forums that someone else picked it up and fixed it. A fix, from the community ._.
+
+If you're buying Blacklist for the SVM, wait for a deal. SVM, in its current state, is just not worth it. Overrun with hackers and the likes, SVM has become a tense community, filled with paranoid players who don't trust each other. And why should they? With Ubisoft turning their back on the game, with no dedicated servers (Host changed. Migrating match.) and no anti-cheat system, you have no idea who could be hacking, or who's just damn lucky. Tired of the hackers? Want to quit the match? Tough. Ubisoft removed the Quit Match button to 'reduce the number of unfair rage quitters'. Uhm, wut.
+
+Seriously, all the more reason to team up with people you trust and can communicate with. You can still beat hackers, because they're dumb. They can whiz around and kill you with one bullet, but they're idiots who can still be killed with Death From Above and unexpected melees. Even hackers bleed.
+
+[h1] The Conclusion [/h1]
+Conviction was fun, but Blacklist brings more to the table. With new ways to play, and new gadgets to play with, the singeplayer and coop are definitely a must. Just watch out for the SVM, it might not be what you were completely expecting.
+
+[b] Tom Clancy's Splinter Cell Blacklist is a 9 / 10 [/b].",0.9196797013282776,194,True
+235600,32345629,76561198131656968,"Splinter Cell Blacklist feels like the kind of game where the team that worked on it really knew the franchise and really understood what elements of each game people loved and hated.
+
+Conviction, to me, felt more like an action game than a stealth game. Chaos Theory is one of my favourite stealth games.
+
+Blacklist takes all of my favourite elements from the older Splinter Cell games and gives them a facelift and includes some newer elements that Conviction introduced and refines them to be less overpowered but just as satisfying in action situations.The game encourages you to use the classic stealth techniques with the playstyle system but also allows you to fall back on the execute ability that Conviction introduces as a contingency (which makes you feel pretty badass when you pull off a preemptive execution on three or more guys after being spotted and managing to stay undetected).
+
+Favourite Splinter Cell so far.",0.9149273633956909,180,True
+235600,234679609,76561198044242285,"Game is good. Went to play the game again for the first time since it released and I forgot my password to ubisoft connect because why on earth do I need to log into something I havent touched in literally 13 years just to play a game, tried my three usual passwords + number combos and account got suspended from wrong PW input. Eventually just did the password reset through email and even though i reset my password using MY EMAIL, my account stays suspended and it won't let me play the game because i can't log into ubisoft connect. love buying things i cant get access to! so fun!
+
+Edit: Finally got access to my account and logged in. Now when i hit launch on steam, and log in through ubisoft connect, it launces ubisoft connect, then closes but never launches the game no matter how many times i hit play on steam. Wonderful experience! Thanks Ubisoft!",0.8603816032409668,159,False
+235600,224924120,76561198069776488,"1,400+ hours and Ubisoft turned this game into an empty shell.
+
+Spies vs Mercs is dead. Co-op barely exists anymore. Huge parts of the DLC and bonus content are inaccessible on PC because of the server shutdowns. A game built around multiplayer and progression now feels abandoned and incomplete.
+
+The campaign is still good, but buying this today means getting only a fraction of what Blacklist used to be. Ubisoft sold a premium stealth experience, then quietly erased half of it years later.
+
+One of the best stealth games ever made, treated like disposable garbage by its publisher.",0.8590824604034424,107,False
+235600,220541343,76561198122114815,"- Right click your Splinter Cell: Blacklist
+- go to Properties > Launch Options > Add: -offline -offline_mode
+- you're done. Enjoy the game in offline.",0.9055032730102539,91,True
+235600,201903920,76561199244636175,"This game was ahead of its time! Feels nostalgic playing it and I have no complaints AFTER I fixed the crashing every 30 minutes.
+Here’s how you’d do it:
+	1.	In Steam → Right-click Tom Clancy’s Splinter Cell: Blacklist.
+	2.	Select Properties.
+	3.	In Launch Options, type: 
+-offline -offline_mode
+
+Hope this helps!",0.8536751866340637,51,True
+235600,201220071,76561198207734015,"Out of the box, this game simply doesn't run well on contemporary hardware and doesn't allow you to use the original DLC.
+
+!!!UNLESS!!! it is modded to use all your modern CPU cores, unlock the missing DLC, and also customize the difficulty level to your liking:
+https://github.com/ThirteenAG/WidescreenFixesPack/releases/tag/scb
+
+Complete gamechanger. The game is performant now, I can access all the DLC suits and weapons, and it has been a joy getting back into this lost PS3-era chapter of Splinter Cell.
+
+I hear peer-to-peer multiplayer and coop can be done with something called 5th Echelon too, although I haven't tried it out yet.",0.8458331823348999,49,True
+235600,127625803,76561197960434322,"I just can't recommend a legacy Ubisoft title that constantly asks for your password every time you launch it...
+
+[quote=Ubisoft Connect]Re-enter your password
+
+Please re-enter your Ubisoft account password to play this game.[/quote]",0.8456063866615295,82,False
+235600,134569668,76561198094262604,"IF THE GAME CRASHES FOR YOU, I IMPLORE YOU TO PUT THIS INTO YOUR LAUNCH OPTIONS "" -offline -offline_mode "". CRASHES WILL HOPEFULLY STOP AFTER PUTTING THIS COMMAND IN. 
+
+It isn't Conviction, it isn't Chaos Theory, it isn't Double Agent. It isn't anything like its predecessors, completely understand that. But you know what it is? A thrilling stealth experience that encapsulates everything I love about the genre. Going into this game, I was fed with the pessimistic mindset of this game not living up to any of its predecessors. Yes, I agree. It doesn't hold up in certain parts but I vehemently believe that this game is worth your time.
+The stealth system in this game is up-to-standard - It allows you to approach a situation with a plethora of gadgets (including ones that have been present in earlier games), allows you to create darkness to manoeuvre your environment through, allows you to use the environment in a more efficient manner and gives you the freedom to approach your targets.
+Sam Fisher does lose his iconic voice actor, Michael Ironside - but I don't think the new voice actor takes away from the role in any way, shape or form! The characters you're introduced to have a very genuine chemistry and the dialogue reflects that flawlessly. And the story? The story is amazing. It captivated me from start to finish. It may be short, but it is worth it in its entirety.
+
+Unfortunately, I didn't get to experience any of the online co-op missions due to this game being run on dedicated servers and not giving the user the freedom to use peer-to-peer connection, however, I still thoroughly enjoyed the game. 
+
+Hard recommend.",0.8886526823043823,84,True
+235600,135196479,76561197987948716,"Shut down the servers? Fine! but at least do one last update and Create LAN port feature or let us create servers. Every game dev should starting doing it if in future when servers are plan to shutdown we can still play. At least, My friends and I can play Chaos Theory on LAN.",0.8372295498847961,51,True
+235600,158404736,76561199234473057,"Blacklist was by far my favorite Splinter Cell. Neat story, amazing voice acting, legendary level design/gameplay, it really is nearly perfect.
+
+There are 2 reasons why I don't recommend.
+
+1) The whole ""Uplay"" thing is one of those bad ideas that never dies, but by now, you know the drill about always-online DRM.
+
+2) I don't have the quote in front of me, but Ubi whispered in an email: if you don't play on your account for 30 days, ALL OF YOUR GAMES, SAVES, PROGRESS ECT WILL BE PERMANENTLY DELETED. On my main Ubi account, I had about 6 games and many, many hours in all of them. I was most proud of - you guessed it - my SC:BL save files. They're. All. Gone. 
+
+Until Ubi fully revokes yet another of their horrendous ideas, DO NOT BUY A SINGLE THING FROM THEM. NOT ONE CENT.
+
+Edit: this review's lifespan is coming to a close, so I'd like to say thanks for all the love. Never had a review blow up like this before. Thanks all and guard your wallets <3",0.8362429141998291,131,False
+235600,227150789,76561198012547134,After more then 13 years i tried to play Blacklist again and what did i get? Only a game that fights me every chance it gets and doesnt even want to start to begin with and crashes every 20-30 min + the old Blacklist server are all gone so all the old DLCs that i have for Blacklist are worthless since they dont work anymore.... wonderfull. Thanks Ubisoft for such a wonderfull reminder and the world will be a better place once you go out of buisness.,0.8316439390182495,79,False
+235600,188985380,76561198089945178,"The game itself is great, but Ubisoft remains insistent that I re-input my password every time I launch the game. Mind you, I already have ""Remember Me"" toggled on Ubisoft Connect, but for some godforsaken reason, it doesn't actually work. Even when you DO finally get in the game, the servers have been shut down, so you have to use a 3rd party private server tool just to play coop. Ubisoft is the worst game company.",0.8269348740577698,82,False
+235600,120027901,76561198101881828,"I used to consider EA the worst gaming publisher, but after finding out that the single-player DLCs of my games are getting removed, I changed my mind. Ubisoft should have removed the DRM and patched the DLCs into the games, but they will not do it. They prefer to kill their old games than let us keep the DLCs. If this is how it will be, I will never purchase another Ubisoft game again!",0.8242427706718445,72,False
+235600,181367000,76561198045933104,"F*** Ubisoft. They shut down the game servers for Splinter Cell: Blacklist, one among a huge list of other games. No longer have access to all coop & multiplayer content & DLC, some of which I PAID $ FOR. Boycotting
+
+""Get Comfortable With Not Owning Games"" - Ubisoft",0.8240565061569214,79,False
+235600,205434119,76561197961397679,"CAN BE MADE TO WORK
+
+Really excellent Splinter Game, and the best graphic-wise I suppose that is still available. It does have two issues that can both be fixed with some googling:
+- it requires a login to ubisoft connect every start up - download fixed executable from gamecopyworld
+- it quits after 30 mins - run in offline mode with the launch parameters -offline -offline_mode
+
+Now on to my review....
+
+I am a massive Splinter Cell fan - it introduced me to stealth gameplay which I really took to. I loved being able to take my time, plan my attacks and routes, and not be constantly having to run around shooting and defending.
+
+Splinter Cell Blacklist is the 6th game in the series, and to me was a return to form after a few games that didn’t quite hit the mark. It has everything you want in a SC game - loads of gadgets, a variety of locations, lots of stealthy shenanigans, a brooding protagonist etc etc. It looks and plays great. 
+
+A nice touch is the ability to be scored based on your preferred playstyle. If like me you prefer stealth, you can try and max out the stealth scores by not killing anyone or getting detected in a level. But if you prefer to assassinate people you can do that, or even go loud with guns. Each method earns points which in turn let you upgrade your gear and your plane (which serves as your base of operations). The former giving access to better stealth suits and gadgets, the latter providing field upgrades like improved radar etc.
+
+It’s a solid upgrade tree that feels motivational and not out of reach, and I really enjoyed upgrading my Sam Fisher to a true badass.
+
+Because of this combination of tactical variety and open-plan level design, each level is incredibly replayable, which has always been a fun aspect of these games.
+
+All in all, it’s a great addition to the series and I really hope they bring it back as Ubisoft seem to have lost interest, which is a real shame.",0.8235499262809753,47,True
+235600,199393152,76561198119924443,"mfing trash, POS, ubiconnect. 
+It blows my mind that it is more convenient to pirate now days than buy legit. I can't believe it! It's way simpler and easier! 
+How? Why? Who thought slapping yet another dogs..t launcher to a game is a good idea?
+They retroactively attached it even to old titles like this so you have to do extra useless work just register to yet another useless launcher! AND, you have log in every time you want to play too... 
+Why?
+WHY?
+They even removed the ability to play offline I guess, since I can't start the game in ""-offline -offline_mode"".
+It still want's to connect to connect.
+But I DON'T WANT TO CONNECT! I want to play the game! Offline! Alone! Singe fricking player! Without the BS.
+If I want to connect I will play with the wifi button.
+It worked perfectly fine before. They procured ZERO, that's 0, losses by not having a s..t launcher glued to their game in the past 10 or so years. People were happy to play their game. I were happy.
+And now I will have to go and download it another way just so I can say f... you to these stupid, greedy corporate clowns.
+ These modern game studios and publishers are retarded.
+The triple A industry will collapse and these stupid publishers/studios will die out.
+And I can't wait it. 
+Conjurers of their own destruction.
+They squeeze when they should release.
+The world would be better without Ubisoft.
+Which is ironic because they were really cool and loved back when they first announced AC. And a long time after that. But I guess if the hero lives long enough it inevitably becomes the villain.
+
+
+
+",0.8211941719055176,44,False
+235600,197329333,76561199063346314,"great game, finally with achievements
+
+
+you need to put this in the start options, so it won't crash       -offline -offline_mode -nointro",0.8168953657150269,40,True
+235600,204782667,76561199466057193,Im sorry Sam but i will give this game a no for now. its 2025 now the added achievements are great but the gripes of any of us here about the game crashing for 30 mins is upsetting. until now ubislop dont have any love for this franchise even just a fix for this old game hasnt even fix until now. ubisoft when will your passion for making games would come back? dont worry you'll be dead and irrelevant soon im sure of it because of your money whoring and unprofessional doings.,0.8110033273696899,89,False
+235600,194951582,76561198374022324,"Very good game, even better with mods. And add this into LAUNCH OPTIONS othervise the game crashes every 30min. 
+
+The mods im using:
+-Chaos Theory Gameplay Tweak
+-Mud's Mod Improved Weapons and Enemies
+
+-offline -offline_mode -nointro",0.809728741645813,43,True
+235600,191761062,76561198331362149,"This is a great game, super fun, the story is kinda cheesy but it is really good in terms of gameplay and how the world listens to your playstyle, but... DO NOT BUY IT. Ubisoft doesn't give a damn about this game port, and you shouldn't either. Get a console version instead, believe me, the port is a pixel away from being unplayable. Here are two reasons why you shouldn't buy it:
+
+Stability: This game refuses to be played. It closes 30 minutes after you boot it up. I've done everything and I only have 2.5 hours registered. You know why? Because I can't launch it from Steam—it crashes. You can fix it with a YouTube tutorial, but you shouldn't have to. That's not your job. You paid to own a functioning product. You need to do what Ubisoft couldn't and disable the online features, because...
+
+Lost functions: Now that Ubisoft openly says ""We don't give a damn about our products,"" they removed all co-op and competitive features. Remember all the stuff that was only playable online? Like all the Briggs missions, the co-op actions in the Grim missions, and all the Spies vs. Mercs stuff? Well, Ubisoft doesn't—because they shut it all down!
+
+Now, the game is great. It's not perfect, but it has the best gameplay (to date) the series ever had. It's a great combination of stealth and action. It's not as focused on stealth as Chaos Theory or Double Agent (Xbox version), but it's a good one, so...
+
+TL;DR: Play it on console edition.
+And Ubi... I hope you close soon enough.",0.805616021156311,71,False
+235600,202388541,76561197966304132,"Stop Killing Games.
+Another good old game that has tons of features broken because they shut down the servers. It even crashes after 30 minutes unless you run it in offline mode which is not something everyone knows how to do. This kind of nonsense could've easily been patched out in probably less than a day if ubisoft even pretended to care about what they made.",0.8043844699859619,54,False
+235600,196325345,76561198034096318,"*ADD COMMANDS TO LAUNCH OPTION TO PREVENT CRASHES EVERY 30MIN*
+-offline -offline_mode
+
+Fantastic stealth-action experience.
+Slick stealth, fun gadgets, satisfying gameplay, and flexible mission design.
+Pulling off executes makes you feel like John Wick.
+
+The biggest drawback has nothing to do with the game, but with the Ubisoft launcher..
+It serves zero purpose and requires you to log in EVERY SINGLE TIME you launch the game. It gets extremely frustrating, especially on Steam Deck.",0.8031744956970215,43,True
+235600,28488203,76561198095966529,"[table]
+[tr]
+[th]
+Gameplay
+[/th]
+[td]
+The gameplay is centered around stealth. But you can also ignore it and just kill everybody that stands in your way. You have three styles of play: Staying undetected and sneaking by enemies, staying undetected and silently eliminating enemies, or just go into combat. - The game rewards you in all ways. There's also a lot of gadgets with different abilities as well as co-op and multiplayer modes.
+[/td]
+[/tr]
+[tr]
+[th]
+Graphics and Visuals
+[/th]
+[td]
+The graphics look really good, I really don't understand the rumors that say they are outdated. Seems to be a console issue, since it was released for previous-gen consoles just as the current ones were marketed.
+[/td]
+[/tr]
+[tr]
+[th]
+Story
+[/th]
+[td]
+As far as I'm concerned, the story is pretty good and lasts about 10-14 hours, depending on your playstyle. It revolves around a terrorist group launching weekly attacks on America, which they'll stop only if all the US troops return to their homes. The US government forms a counter-terrorist team with Fifth Freedom policies to stop the terrorists.
+Seems to be your everyday Clancy-esque thing.
+[/td]
+[/tr][tr]
+[th]
+Longevity
+[/th]
+[td]
+As you can see, I've clocked more than 100 hours on this majestic game, and I didn't get the chance to play multiplayer. The different styles of play, co-op, side missions and DLC keep you in the game.
+[/td]
+[/tr]
+[tr]
+[th]
+Optimization
+[/th]
+[td]
+It ran fine on our medium-rig PC, only some minor FPS drops.
+[/td]
+[/tr]
+[tr]
+[th]
+Summary
+[/th]
+[td]
+The game is extremely underrated, it may be different from the classic Splinter Cell games, but it is a damn great title on its own and an overwhelming upgrade from Conviction.
+[b]9 splinters out of 10[/b]
+[/td]
+[/tr]",0.8509868383407593,55,True
+235600,195042198,76561198050750548,"Having to instal the garbage ubisoft store and re-enter your password every single time you launch the game is a big turn off for me,
+
+I hate this so much that I will uninstall and never play this again",0.800234854221344,100,False
+235600,231639623,76561198033342007,"[b] IMPORTANT SO IT WON'T CRASH: Go to game's properties on steam library and put this in the launch options so it won't crash:     -offline -offline_mode [/b]
+
+---------------------------------------------------------------------
+For some reason people don't bother to try to find fixes, all they do is put negative reviews for the most lame reasons, regardless if the developers have neglected it after they closed down the servers. There are guides for everything these days.
+
+Great underrated game, with very few issues, and it is very much a very complete game with a lot of content (especially at release before the servers shut down). People only hated it because of Sam Fisher's ""look"" and ""new voice"" which is just nitpicking, for the look yeah he doesn't look like him but the voice isn't that bad, the original actor couldn't perform as he had health problems. Try to get through and stop nitpicking, that's all people do and it is a shame because it is a very well made game.
+
+If you are able to pass the first 2 difficult missions you will understand it is a great stealth game and it has an option for aggressive gameplay too, though it is far less slow than the original games and has less very much almost no night locations it still works on its own. The animations and a lot of gameplay mechanics are ahead of their time for 2013, the acting is great, and even the story is really good, the level designs are all really well made and it has a lot of replayability.
+
+Here is a good gameplay showcase youtube video of ""aggressive stealth"" of what you can expect if you learn this game: https://www.youtube.com/watch?v=pS09JZYs38Y
+
+Stealth games are still slow even if they made this one slightly faster, so unless you don't have the patience or the attention span, this game is NOT for you, other than that I recommend it if you will bother trying to learn how to play it.
+
+If it wasn't for Sam Fisher's look and voice, plus his storyline still not coming to a nice conclusion, aside other tiny issues it might be a perfect game, it is that well made for being from 2013.
+
+Either 8/10 or 9/10.",0.7993629574775696,57,True
+235600,178190299,76561197972644377,"Can't recommend purely on the basis a large majority of the game is now inaccessible due to Ubisoft shutting down the servers.
+
+DLC, in game items, missions and co-op functionality are no longer accessible. You can download a save file online that has everything unlocked, or edit your own save file. This could easily be patched by Ubisoft to allow all players to access these items, or to simply mark the co-op only missions as completed and award the players the items respectively. 
+
+Based on about 1/3 of the game no longer being playable, it gets a negative review.",0.7949218153953552,39,False
+235600,12789482,76561198085194484,"Its a great game but I uninstalled it after the campaign because of shitty Uplay; no one fucking likes you Uplay PISS OFF. If I buy a game on steam I WANT IT ON STEAM, NOT ON YOUR CRAPPY SOFTWARE.",0.7915716171264648,834,True
+235600,167580776,76561198196887665,"Great game but crashed alot. To fix it just go to the game in your steam library, right click and go to properties, then general and type in -offline in the box and the game will quit crashing.",0.8912670016288757,108,True
+235600,7713223,76561197979084213,"Splinter Cell Blacklist combines the best elements of Conviction and its predessors into one fine package. A package that deserved more attention, because even though Splinter Cell is still popular, it didn't manage to sell enough copies.
+
+Anyway, Blacklist lets you play as Sam Fisher (who else ?), but with an all-new voice actor this time. Michael Ironside will be sorely missed, but I have to admit the new voice of Sam did a very decent job. 
+
+The game has plenty of content, including single-player missions, co-op missions, multiplayer and even a metagame. The single-player portion can be completed in roughly 10 hours. I didn't have a chance to try the other modes just yet. The single-player missions can be played with a stealthy approach, as an action hero killing everyone you see or a mix of those two. Since this is Splinter Cell I'm thinking most of us will play this game in stealth mode and use a more action oriented approach if they're ever discovered. 
+
+The graphics look extremely well and the game is a blast to play. It also runs at a solid 60FPS, something I personally adore. 
+
+Blacklist looks like a compilation of all previous games and as a result it's, in my opinion, the best game yet, or the more complete one anyway.
+
+[quote]If you enjoyed this review please consider following me: [url=https://store.steampowered.com/curator/41144728-markdj/]curator page[/url] [/quote]",0.8411820530891418,208,True
+235600,29497025,76561198306726293,"[h1][u] Basic information [/u][/h1]
+[b]Title:[/b] Tom Clancy's Splinter Cell: Blacklist
+[b]Developer(s):[/b] Ubisoft Toronto
+[b]Publisher(s):[/b] Ubisoft
+[b]Genre(s):[/b] Action Adventure, Modern, General, Modern
+[b]Singleplayer:[/b] Yes
+[b]Multiplayer:[/b] Yes
+
+[h1][u] Numerical Impression [/u][/h1]
+[table]
+    [tr]
+        [th]Overall[/th]
+        [th]*/10[/th]
+    [/tr]
+    [tr]
+        [td]AI[/td]
+        [td]7[/td]
+    [/tr]
+    [tr]
+        [td]Atmosphere[/td]
+        [td]9[/td]
+    [/tr]
+    [tr]
+        [td]Gameplay[/td]
+        [td]10[/td]
+    [/tr]
+ [tr]
+        [td]Graphics[/td]
+        [td]8[/td]
+    [/tr]
+ [tr]
+        [td]Characters[/td]
+        [td]7[/td]
+    [/tr]
+ [tr]
+        [td]Optimization[/td]
+        [td]8[/td]
+    [/tr]
+ [tr]
+        [td]Originality[/td]
+        [td]8[/td]
+    [/tr]
+ [tr]
+        [td]Sound[/td]
+        [td]9[/td]
+    [/tr]
+ [tr]
+        [td]Soundtrack[/td]
+        [td]7[/td]
+    [/tr]
+ [tr]
+        [td]Story[/td]
+        [td]9[/td]
+    [/tr]
+  [tr]
+        [th]Ratings[/th]
+        [th]82/100[/th]
+    [/tr]
+[/table]
+
+[h1][u] General Impression [/u][/h1]
+Splinter Cell: Blacklist is a very strong game that is a true sequel to Conviction. It triumphs in a well-thought out and intense story. It incorporates side missions that add to the game rather than negate from the overall experience. It has compelling characters that are likeable and does not omit their past issues. And, I praise Ubisoft for creativity in regards to the Paladin and the SMI being the main interface. I played 16 hours of Blacklist and the majority was spent in single player, which exceeded my expectations, but the multiplayer hurt my overall score of the game. Regardless, I loved this so I highly recommend this game.",0.7896547317504883,57,True
+235600,195498043,76561198105343876,"Held off playing this for a decade in hopes of playing co-op with my brother one of these days with our busy adult lives. Thanks to Ubisoft's built in expiration date I am no longer allowed to.
+
+Not that it matters, it crashes every 30 minutes anyways.
+thanks, Ubisoft.",0.7883042693138123,54,False
+235600,121688110,76561197972415762,"Notice: DLC for this product and online elements and features will become unavailable as of October 1st, 2022. The base game will continue to be playable. To maintain access to DLC after this date, please activate it before October 1st. For more information: https://www.ubisoft.com/help/article/000102396",0.7863198518753052,54,False
+235600,129007102,76561197968840498,"Once one of my favourite games, it's now unplayable. 
+Ubisoft's patches to remove online content have introduced bugs that cause constant crashes. After hours of troubleshooting and editing config files, I have failed to find a fix and I give up.
+I doubt I'll ever pay for a Ubisoft title again. Between the horrible launcher, the intrusive DRM and now butchering paid for titles, I recommend avoiding them all together.",0.7853150963783264,43,False
+235600,176824419,76561198114586751,"Tom Clancy's Splinter Cell: Blacklist | ★★★☆☆
+
+Half of the game's features no longer work, and the pre-recorded cutscenes are completely broken. There are also occasional crashes, especially when using thermal vision at the wrong time. On top of that, the Ubisoft launcher once again lives up to its reputation—forcing you to log in every time you launch the game.
+
+Fortunately, the game isn’t too long, and I enjoyed most of the campaign missions, even though they are quite linear. The core experience makes you feel like the ultimate modern assassin, backed by a high-tech, multi-billion-dollar operation. Unlike many modern games, especially open-world titles, Blacklist still nails the feeling of true stealth. In most open-world games, you can easily predict AI patterns once you notice their roaming area, making stealth feel less immersive.
+
+It would be great if they added achievements, as many optional missions would feel much more rewarding if they offered that extra incentive to complete them.",0.7830697298049927,54,True
+235600,136968687,76561198044447853,"The game is absolutely fantastic, I really miss these type of games these days but unfortunately (maybe because it is old) or maybe because Ubisoft doesn't care but it has a lot of issues. First the Ubisoft Connect asks you to login every single time you try to run the game, like you actually have to type the account and the password, then the game always starts in Windowed Mode and then you have to continue the game where you left it (at a checkpoint for example) and then finally it lets you go into settings and change it to full size. And last but not least, the most annoying issue. It crashes suddenly, it doesn't matter where, it randomly chooses to crash. I just had to redo a whole area of a mission because it crashed and it doesn't allow you to save it whenever you want. It's so sad since the game itself is an absolute blast but yeah Ubisoft being Ubisoft kills the whole enjoyment out of it.",0.7812312245368958,33,False
+235600,192662833,76561198328028442,"It's impossible to play the game because it crashes every 15-20 minutes. Thanks, Ubisoft!",0.7810347080230713,66,False
+235600,189494929,76561198145844551,"if the game doesnt launch, go to your installation folder .../Tom Clancy's Splinter Cell Blacklist\src\SYSTEM and delete the systemdetection.dll.
+
+for higher fps, set afinity on Blacklist_DX11_game in task manager.. the game only uses one core. remember to do this every launch",0.7802983522415161,28,True
+235600,207557541,76561199082040662,"For fix crash game: 
+1. Go to your Steam Library, right click on Blacklist and click ""Properties...""
+2. Under the ""General"" tab, there's a section called ""Launch Options""
+3. Copy and paste the following into it: 
+-offline -offline_mode",0.7771403193473816,28,True
+235600,147370721,76561198387224921,Last ever masterpiece released by ubiosft. RIP splinter cell 2002 - 2013. You will be missed,0.8744048476219177,71,True
+235600,220503134,76561198334973663,"I recommend SC Black List as a game but the thumbs down is for Ubisoft who are absolute scum sucking parasites. 
+
+First SCBL stands as one of the last good stealth games. Its a lot of fun and marks also the last ever SC title. Same mechanics as Conviction but better overall in my opinion. Choas Theory remains the GOAT of course. 
+
+list]
+    [*]You have to make this game work with fixes before you can play it without constant crashes.
+    [*]Ubi will make you log-in to their crappy launcher EVERY TIME.
+    [*]Online Coop no longer works, so forget stealth fun with friends (was shut down in 2022) even though its STILL listed as coop on Steam
+    [*]Because online services no longer exist there are items in game you can never access because they require those online services. You'd think they just would have rolled out a little updates to unlock it all for players but of course they didn't. 
+[/list]
+
+Game: 7/10
+Ubisoft: Scum",0.7711470723152161,39,False
+235600,215156471,76561198820142435,"Don't make my mistake and try and do a side mission before doing the first tutorial mission, nearly made me bounce off the game. Having played and finished all the other Splinter Cells I stuck with it though and have to say i'm invested in the story. New voice actor for Sam is jarring at first but got used to it. Was having similar problems to other people with game crashing every forty minutes or so. The fix below works:
+
+1. Go to your Steam Library, right click on Blacklist and click ""Properties...""
+2. Under the ""General"" tab, there's a section called ""Launch Options""
+3. Copy and paste the following into it:
+
+-offline -offline_mode
+
+*Update 22/01/2026* Absolutely loved this game, just a couple of missions left but it has been so enjoyable. Keeps the stealth elements but pushes forward the action.",0.7699531316757202,26,True
+235600,122683787,76561198355499495,"As far as most stealth games go, this is (in my opinion) the BEST modern stealth game out there currently. It is a shame nobody plays any coop or multiplayer anymore but regardless it is still a VERY fun game",0.769690990447998,42,True
+235600,134011114,76561199429004879,"Besides my game crashing almost every 30 minutes or less sometimes, it's a great game. I loved the Splinter Cell series games back when i was younger.",0.7654559016227722,32,True
+235600,116499063,76561197983607382,"So i finally went to play Splinter Cell Blacklist as i initially was skeptical to buy it at release, then MGSV came out and i was like “i just cant go back to play Splinter Cell with a cover system”. I can safely say that Ubi Toronto took everything that was best from the previous games, without any previous experience with the series, and actually managed to produce the most fluid and best hardcore Splinter Cell experience. This game plays fantastically well, they did everything right with it and they did not even have to compromise the hardcore experience so that casual gamers can enjoy it too.
+Here's a list with what the game has to offer:
+[list]
+    [*]great mission design;
+    [*]more than one seed pattern for enemy movement;
+    [*]hardcore stealth option to not disturb enemies;
+    [*]cover system that is not only snap to cover, but also has fluidity in sprinting over obstacles;
+    [*]customizable weapons and gadgets;
+    [*]the great coop experience from Conviction is back and just as good as ever;
+    [*]missions that can be played either solo or coop, with extra alternative paths that you can use only in coop;
+    [*]the mark & execute system from Conviction returns, which is also disabled on the hardest difficulty, but you can still just mark without executing up to 3 enemies (very helpful especially in coop);
+    [*]remember Spies vs Mercs? Now you can enjoy that again as well.
+[/list]",0.7644047737121582,28,True
+235600,212831423,76561199100944538,Peak game but fuh this shitty Ubisoft launcher,0.761455237865448,25,True
+235600,227865406,76561197969696072,"Ubisoft messed up the ""link to ubisoft account"" crap and I am locked out of the game. Also cannot refund the game. I have conviction and also have serious issues with it like being locked out the dlc I already purchased and used when it first released however many iterations of Call of duty ago. If you get it to work its not bad. I had it on ps3 and enjoyed it but wanted to give er the old mouse and keyboard treatment but ended up wasting money just so I can write this hopeless review of Ill repute. I think I used that correctly",0.7602246403694153,33,False
+235600,157514968,76561198449250524,"(+) Points 
+1. Nice Story.
+2. Awesome Graphics.
+3. Stealth Tactics Action Packed Game-play.
+4. Good Optimization for low specs pc.
+5. Challenging Gameplay ( Not Simimilar type mission )
+
+(-) Points 
+1. Multiplayer And CO-OP is no more , Thanks To Ubisoft.
+
+Verdict : This is a nice Stealthy action packed game. I enjoyed very much. 
+
+Rating : 8.5 / 10 ( Because of no more multiplayer and co-op ).",0.7599294185638428,34,True
+235600,23157248,76561198000861562,"Finally played this game that I've wanted to try for a very long time. Blacklist came out 2013, and I have to say that it still looks brilliant. It was a blast to play since the game is very nice optimized. SLI supported so I played it on ultra at 1440p, 144 fps. This most have been one of the best looking games of 2013, because it's still impressive.
+
+Personally I would really like to play this in first person. There's 2 missions where you can play first person, but the rest is in third person. I looked around for a camera option, but I found that there is none. It's only in the missions that they selected. Too bad about that, because I though that was a lot more fun.
+
+The strong part of this game is in my opinion the story. A terror group called the engineers is threatening USA with attacks if they don't pull back their troups out of other countries. Sam Fisher and his team is trying to find the people behind it, and the cutscenes add a lot to the story. Voice-acting and lip-sync is good and help the story out. What kept me playing to the end was absolutely to see how the story ended, and I liked it.
+
+There's a pretty cool upgrade system. You get points based on what you playstyle is. Combat, panther or ghost. Now I tried to sneak a little, but most of the time I went for combat. Since I chose the combat/panther path I upgraded my gear for that. More powerful weapons, and gear with better armor. If you wanna sneak better you can upgrade to more sneaky gear and gadgets. I really like that I got the choice and wasn't forced to play in any perticular way. Some missions are unfortunately sneak only, but it's limited. Those missions frustrated me a little, but I can look past it.
+
+I didn't feel like the guns had that powerful feeling and the gunplay was a little dull in my opinion. Melee takedowns was cool though. I though the gunplay was much better in the few first person missions. I just wish I could choose to play that way in every mission. But that's really the only downside that I personally felt.
+
+All in all, this is a good AAA-game that you can play in your own way. Blacklist has a nice story, that is pretty lenghty and definitely replayable, with maps that have multiple paths and bonus objectives. I rushed through it and it still took me about 10 hours, but if you want you can spend a lot more time then that. I'm personally done with blacklist after one  playthrough and have no desire to go back, but im still glad I played it. I simply have a lot of other games I wanna play too, but if you are that person that like to play a game many times over, this is probably a game for you. 
+
+There is a lack of stealth games on the market, and this is one of the better ones. It runs super well, sounds good and the gameplay is fun. Sure I have some criticism on it, but it's minor things that most people won't care about. I would recommend it to everyone that like sneak games, third person shooters and games with a good story. I'm happy I played it, even though it wasn't what I expected before going in. I think people should give it a shot, on sale or even at full price. Gunplay was no more then decent in my opinion, but story, stealth, graphics and optimization made up for it.",0.8072597980499268,67,True
+235600,187880297,76561198096895083,"How this game isn't in the conversation of ""best stealth games of all time"" is beyond me. 
+
+It's not perfect, but man is Blacklist good. It captures a MGSV kind of approach to missions letting you range from silent ghost, to stalking panther, to full on assault. The plot is good enough - typical terrorist villain threatening America stuff without being too stereotypical - but it's done with some great writing and acting; the mission briefings alone get you pumped up to go on each mission.
+
+By today's standards the game feels slightly short, but a lot of that feeling comes from just wanting more of the excellent gameplay. You'll get a solid 20 hours out of the game just from completing all the solo missions available to you. Sadly, the multiplayer function is deceased, so the online modes and co-op missions are not available to play. I think the game could have done with 2 more story missions and another bundle of 3 side ops to round things out, but what is there is great regardless.
+
+Splinter Cell die-hards will moan about Sam Fisher being re-casted, but this isn't a Kiefer Sutherland type scenario, the new VA does a solid job for the more HBO styled drama on offer here. Preference may vary on how attached you are to Michael Ironside's voice from the rest of the series, but I think the change doesn't hurt the game - a lateral move in general.
+
+I can't stress enough how well this game finds ways to up the ante for each mission. Again, my only complaint is that I would have actually liked to see a couple more missions in the story for padding, a little breathing room as the narrative constantly ramps up. Again, the side ops help with that, but there aren't enough to prattle though to let you savour the game as much as you may want to. 
+
+Lastly, Sam Fisher is a badass. Flat out. Some of the things he pulls off in this game had me giggling with excitement. His veteran presence in the story is well earned and there is never a doubt that Sam is ""the guy."" Amazing set pieces throughout leaves me howling for a sequel to one day happen. Don't let the ""commercial flop"" gossip fool you, this is a damn good game, one of the best stealth action games out there and over a decade later manages to impress.
+
+P.S. Be sure to add -offline in the launch options. (Right click on game in library, go to properties, launch options, type in ""-offline"" without the quotations. This will stop the game from crashing. I had no issues playing once I added this so you should be good to go.)",0.7544161677360535,42,True
+235600,229191437,76561198406372801,"this game is amazing, not like the other games
+
+please paste this into the launch options if you dont want it to crash every 20 minutes 
+
+-offline -offline_mode",0.7526118159294128,29,True
+235600,199714155,76561199309803066,"crashes constantly, forcing you to restart large sections of the game over and over",0.7502520084381104,26,False
+235600,235657207,76561199179009936,"Wonderful game. Played this when I was growing up. Highly recommend. Game was crashing about 30-60 minutes after booting. I fixed it by following a guide. Wish official servers were still up and running (yes, I know about community servers and mods). Anyways, hope this guide helps other players enjoy the game without crashing so often!
+
+Tutorial - https://youtu.be/NSfWEjeCnqQ?si=7J3Fy4j_H35YGxWe",0.7478188872337341,23,True
+235600,137029291,76561198056085095,"use ""borderless fullscreen"" mode, fixed my crashing completely.",0.8462417125701904,69,True
+235600,110966771,76561198043081412,"Splinter Cell: Blacklist is, at the time of writing, the latest title in the celebrated series. Set a few years after the events of Conviction (not required playing but it does help to fill in some of the backstory), you reprise your role as Sam Fisher: an elite covert operative once again on a mission to save the world.
+
+Blacklist is perhaps best described as a blend of Chaos Theory and Conviction: the improvements of the latter (animation quality, more varied gear, graphical improvements, including the projection of objectives in the game world) combined with the tight and focused gameplay of the former. The return to fairly hardcore stealth (albeit optional - the three distinct playstyles give you some leeway in choosing your approach) is a welcome one after the intricacy of Double Agent and more action-focused Conviction. 
+
+The story is linear in fashion, as it has been in almost every previous game, but there are now additional 4E side missions which can be undertaken separately and independently of the main story: they provide an aside from the campaign and completion offers gear bonuses which can be unlocked and equipped. There are many gear options (weapons, armour, gadgets) which can be customised into a loadout to fit your chosen playstyle. Panther is fantastic (silently lethal) but the game does not really work so well with Assault: you are not really equipped for it and it feels almost like an afterthought included to keep people happy. Ghost (pure stealth) is still the way the game is meant to be played, and feels the best. The levels are generally more open than before and afford a variety of different ways to approach your objectives (keeping in line with the diverse playstyles), and the scoring (even if redundant due to the online functionality being disabled) gives increased incentive to go back and try again. Stitching everything together is the Paladin: a headquarters reminiscent of the Normandy from Mass Effect. Here, you can speak to your teammates, select missions, unlock gear, manage loadouts and so on. While an unexpected addition, it does work in the context of the game.
+
+There are some downsides/annoyances though (none bad enough to prevent a purchase, but worth mentioning):
+[list]
+    [*]Dogs bleak me out, especially if you are playing on Perfectionist and Ghost - one bark and its all over.
+    [*]Having one context sensitive button for all/most actions is not wise: there were numerous occasions where I meant to slide a window open but ended up smashing it, as an example.
+    [*]Sam Fisher was not voiced by Michael Ironside. While not a deal breaker, it was a bit jarring to listen to Sam without the familiar gruff tone from the previous games.
+	[*]The 4E missions set at the embassies (from Charlie) really do not gel with the theme of Splinter Cell as a whole and should have been rethought - but there is still some enjoyment to be had.
+	[*]Multiplayer (as far as I know) does not work without jumping through hoops, rolling back your Ubisoft Connect client etc. which I did not bother with. This is a shame since the Briggs 4E missions are co-op only - the only part of the game I did not complete.
+[/list]
+Overall, this is a wonderfully varied, beautifully told gritty story with varied settings and meaningful gameplay - well worth the time and money.
+
+Highly recommended for stealth and Splinter Cell fans - the best since Chaos Theory.
+
+Played on Windows 10 Pro x64 without any issues.",0.7451290488243103,28,True
+235600,186190105,76561199164100589,"Right click game on library - Click Properties - In the General tab at the bottom there is a Launch Option, type in -offline - Enjoy the last Splinter cell game in the entire franchise 
+
+
+
+This is the fix for every 20-30min crash countdown
+
+
+It still crashes for me but at least it takes about 2-3hrs now",0.7447233200073242,23,True
+235600,118856458,76561198051433993,"Steam > Ubisoft Connect
+
+Ubisoft delisting games, DLC and shutting down servers for games We PAID to play. Thanks.",0.7943086624145508,62,False
+235600,189641598,76561198070227349,"Does not work anymore. Ubisoft is without a doubt the worst game company of them all, even worse than EA, and that's impressive.",0.7424234747886658,26,False
+235600,1564621,76561197994807751,"I do recommend to purchase this game but only when it is on big sale and I will explain why in details.
+
+First of all, I have to be honest - I am SC fan and I was playing the series right from the first title. And yes, I do not care about graphics - more about overall atmosphere. Though I do care about how devs supporting their product.
+
+[b]PROs:[/b]
+
+The game has very good single player and if you play it right it feels like that old SC's that I loved so much - you can do the things silently or even without touching anyone (there are some counter-examples though). I have to mention ""train break-in"" and believe me you won't be happy with this situation if you are fully stealth player. Overall, single player is a good way to entertain yourself for another day or two but that's all. If you are the ""loud guy"" you can also re-play everything as panther or assault. The only question remains is why those awesome night infiltrations have gone? You encounter only several in this installment.
+
+CO-OP. Well, it took the best features of SC Conviction co-op and executed them just perfectly - it is another great game to play with a good friend of yours for some time. The only thing I don't love is that it is way too short (I am also extremely dissapointed with that Briggs'  missions never-ending bug, but let's keep it aside as it might get fixed). It's an outstanding co-op if you play it right - you have all the tools you need but if you fail to deliver you are the only one to blame.
+
+However, the thing I was so excited about is SvM (Spies vs Mercs). This was initially introduced in Pandora Tomorrow and in next installment, Chaos Theory, it keep many gamers entertained for years. Double Agent also presented us with SvM but it was not so popular. With no SvM in Conviction I though that the series is getting worse (like many others on the market, sadly) but SvM got its place back in Blacklist. It is so much fun that you can play it for hours and hours, again and again. It is almost perfectly balanced, and, aside for some bugs, you can equally good play as a merc and spy and there is no loosy side really. You might think that one side is better than the other one at first, but as soon as you start to use your equipment properly and your skill increases - you will see that SvM is balanced nicely. I was in worldwide top 15 at the moment of writing so I do know what I am talking about. What about modes - I was so hooked by SvM Blacklist that I abolished that SvM Classic mode, which many claim not to be classic (and I agree with them). They re-introduced Deathmatch as well, which still looks weird for me, even though my beloved Chaos Theory also had one. For newcomers I recommend to try out SvM Blacklist and SvM Extraction.
+
+Points are - if you are looking for Chaos Theory Redefined - Blacklist is a good choice as it is Chaos Theory ideas blended with some Conviction mechanics. If you are looking for exact copy of Chaos Theory or Pandora Tomorrow - you better look for an unsold copy of CT or PT at your local store - Blacklist has different focus - it is more action-driven than Chaos Theory (single-player and co-op) and  more diverse in terms of SvM. Yet it has many bugs in each of the modes of game so you have to live with it. However, as I have been playing CT for years I glad I now have something else to play.
+
+[b]CONs:[/b] 
+
+Major technical issues - Ubisoft failed everywhere it can. Let's start:
+General. You have reinstalled your game?  Congratulations, your saves, DLCs and friends on the list are now messed up. Everybody complains about it since the release and nothing was done here. You have high-end PC? Well, that's good for you but still you will witness FPS drops, launch failures and whatever the game can possibly present you with. Even on Official Gameplay reveal day the game crashed. ANd again, Ubisoft fails to make it work.
+
+Single-player. There are moments when you are forced to use your weapons or whatever you don't want to as a ghost. Many missions are just not from Splinter Cell world and you have to deal with it. Ending? Well, you have to wait for someone to think of something else. After some patches Sam are likely to bash all doors he can see. Definitely an improvement.
+
+Co-op. Short. And by this I mean extremely short. Random picture distortions, FPS drops in some locations. You can spend 2 hours passing the last Briggs' mission in ghost style just to face the never-ending bug. And what Ubisoft has done about it? They say, start over. That's all. Additionaly, you might be unable to play with your friend - you can play with randoms but not with your beloved friend who also bought this game.
+
+Multiplayer (SvM). Ubisoft completely failed technical part here. You can see half of animation of you killing a person and then you drop dead and that person is near death. You can see Merc's reloading animation yet he completes reloading in the middle of animation and shoots you. Many complaints - nothing was done here. You will kill (and be killed) your enemies while they are already behind cover just because you started shooting early. You can sometimes see spies through cover when they stick to it. Some pieces of spy gear (takedown gloves) has absolutely no real effect - even support cannot say what it does exactly. And there are many, many more issues in SvM. Oh, one more thing..Cheating? It is allowed so you can't really distinct between really good players and cheaters unless their cheating effect is obvious.
+
+Overall, 7.0/10. If not some major issues - the game might be perfect one. Though Ubisoft managed to fail another good title.",0.7907202839851379,52,True
+235600,140579071,76561198353178064,"Used to be cool stealth game with still decent graphics in 2022 .. but Ubisoft dropped all the support for the game altogether along with their servers so CO-OP is with a friend is no longer possible, which is the main reason I even bought the game .. :/
+Should've build in LAN feature in the game if they were just going to drop the game support completely. Kinda feels like stealing my money to remove a feature of the game after I bought it",0.7379715442657471,30,False
+235600,158581698,76561198018249595,"**Warning Time Starts on Uplay Launcher NOT GAME PLAY**
+I bought this game years ago when it first came out. It has been 10 years and Ubisoft still demands you use their launcher to play this game. If I could, I'd request my money back. Also just so you know, my ""recorded"" time might say 168 hours but I played NONE of it. I have zero achievements, don't even know if there are achievements, for this game because I didn't even open it. The only reason I have any time on this game is because the timer counts when you Launch their separate software through steam. I was unable to refund it because I was trying to see if their launcher was absolutely needed and didn't realize it was ticking past 2 hours. So I left it up for days just to rack up a stupid number to amplify the stupidity of how the account for time ""Played"". I never even downloaded the game, the time i accrued is only from their launcher.",0.7355969548225403,32,False
+235600,130494863,76561198122369207,"im a big fan of Splinter Cell Franchise But Ubisoft What the hell  you doing for killing online coop for this good game ???? and always Crash after a 20 or 30min  so o found the possible solution but this is not fix my crashing problem What the hell UBISOFT
+
+
+Game crashing every 23 minutes?
+
+put ""-offline -offline_mode"" in launch options
+
+found it in a steam thread, fixes the issue",0.7814188599586487,33,True
+235600,195698283,76561198028554934,"Ubisoft is terrible. I bought this many years ago on Steam. It is now locked to a long gone Ubisoft account, refusing to launch on Steam. Ubisoft told me they won't help and the game is both lost, and stuck in my steam library. Never to be played again.
+
+Thanks Ubisoft. Terrible company.
+Used to be a great game...",0.7300235629081726,20,False
+235600,190458405,76561199123396900,"~ GAMEPLAY ~
+🔲 Boring
+🔲 Rock Paper Scissors
+🔲 Entertaining
+🔲 Fun
+✅ Godlike
+
+
+~ DIFFICULTY ~
+🔲 My grandma could play it
+🔲 Easy
+✅ Normal
+🔲 Hard
+🔲 A challenge to be reckoned
+
+
+~ GRAPHICS ~
+🔲 MS Paint
+🔲 Bad
+🔲 Meh
+✅ Normal
+🔲 Very Good
+🔲 An original artistic direction
+🔲 Beautiful
+🔲 Masterpiece
+
+
+~ STORY ~
+🔲 This game has no story
+🔲 Some lore
+🔲 It's there for people who want it
+✅ Well written
+🔲 Leading to more in-depth researches/thoughts
+🔲 A model to get inspired by
+
+
+~ LENGTH ~
+🔲 0 (No story)
+🔲 Short
+✅ Average
+🔲 Long
+🔲 To infinity and beyond
+
+
+~ MUSIC ~
+✅ Just filling noises/No music
+🔲 Trivial and uneventful
+🔲 Good and/or fitting the game's artistic dispositions
+🔲 Memorable
+🔲 Transcending whispers of a forgotten world
+
+
+~ INTEREST ~
+🔲 I would rather watch paint dry
+🔲 Hard to enjoy
+🔲 Repetitive and/or uninspired
+🔲 A good moment
+🔲 Sticking out of the pack
+✅ You will remember it long after
+
+
+~ REPLAYABILITY ~
+🔲 A one-time experience
+✅ Only for achievements
+🔲 If you wait a few months/years (or with mods)
+🔲 Definitely
+🔲 Infinitely replayable (or almost)
+
+
+~ BUGS ~
+🔲 Never heard of
+🔲 Minor bugs
+🔲 Can get annoying
+🔲 Impacts the player's experience badly
+🔲 The game itself is a big terrarium for bugs
+✅ Ubisoft
+",0.7295756936073303,21,True
+235600,138179294,76561198881212289,Last ever masterpiece released by ubiosft. RIP splinter cell 2002 - 2013. You will be missed,0.8288100361824036,46,True
+235600,61421265,76561197985409325,"Tom Clancy’s Splinter Cell Blacklist sometimes gets flak by Splinter Cell fans for not being like the Chaos Theory and for not being able to finish the game in pure ghost. However, in truth, there are also action sequences in the older games. While Chaos Theory is still the definitive stealth game of the Splinter Cell franchise, Blacklist allows for both a stealth and assault playstyle - excluding the forced stealth sequences. This gives the player often the freedom to do whatever she or he wants.  
+
+Another thing that sometimes gets criticized is that Sam Fisher's original voice actor Michael Ironside did not resume his role for Blacklist, but the criticism seems unfair - considering he was sick at the time. However, some fans said that Blacklist's Sam Fisher feels very different to former entries.
+
+[b]pros[/b]
+++ gunplay
+++ setting
++ story
++ coop in some missions
++ often freedom to play however you want to
++ graphics
++ performance
++ memorable moments
++ fun
+
+[b]cons[/b]
+-- forced uplay
+-- forced toggle crouch
+- More linear than it needs to be. Thus, stealth is poorer compared to Chaos Theory's
+- final boss fight. interesting concept, poor execution.
+- side characters could need some work
+- coop has connecting problems sometimes
+
+[h1]Verdict[/h1]
+Splinter Cell Blacklist has many things going for it. It has an interesting story in a great setting, strong gunplay and functioning stealth. Blacklist is definitely one of the strongest games of the year 2013.
+
+Genre: third-person stealth / shooter
+Replay value: average - high
+Rating: 8.75/10
+Special endorsement: Yes",0.7781116366386414,39,True
+235600,213960512,76561198079821428,Not Working they are literally selling you not playable product and somehow steam allows it,0.7254329919815063,37,False
+235600,228757164,76561197970894890,"(June 24, 2026) To get Blacklist to start on Windows 11, delete systemdetect.dll  
+
+Steam 2 Controller does not work. If anyone finds a solution please message me the steps.
+
+~ Muah, happy gaming.
+
+===================
+
+Update (6/30/2026):
+Installed on DIY PC running Steam OS (3.9 beta channel). Steam Controller 2 works. Blacklist boots AFTER logging into Ubisoft. Ubisoft box will popup after you click on the game. User must login before game fully opens.",0.7244245409965515,21,True
+235600,153880980,76561197980347768,"Incredible game on my steam deck, the graphics look better than anything I've seen in 2023 and the gameplay is sublime.  One thing though.  On the SD it crashes every 30 minutes as it tries to ""phone home"" to long-dead Ubisoft DRM servers.  The way around this is to go to a certain site (""Steam"" and ""unlocked"" - you'll find it) and get a self-contained folder of the game.  Delete the game folder on your SD and replace it with that one.  Voila - loads 5 times as fast, and never crashes.  This is a 10/10 experience on SD.  JUST GET IT.",0.7198766469955444,22,True
+235600,186192134,76561199433730142,"I enjoy the story, which is incredibly well thought out. HOWEVER, BUYER BEWARE!
+Many many features are missing from the game, such as online service (meaning you can not play this game with friends) and Spies & Mercs is completely unavailable. Ubisoft has not changed the price to reflect these lost functions so be aware that you are buying a game with several of the advertised features not working. 
+In addition, you will never get to see the ending to the story. On the final mission with the final cutscene the came freezes while audio from the cutscene plays. It crashed my computer three times while trying to play the cutscene (I have a powerful gaming rig so it is definitely not my system) so for those reasons I do not recommend purchasing this game at it's current price.",0.7191035151481628,24,False
+235600,154312592,76561199189028640,"Not a very common opinion, but to me this is the best Splinter Cell game.",0.8183051943778992,45,True
+235600,120488922,76561197965459924,"After 7 years, the recent announcement from Ubisoft about shutting down this game (please, have this in consideration and never ever pay for any of their new games, ever, at least, if you want to be able of continuing playing your purchased games after some time), I finally got around to playing and finishing it.
+
+The launcher experience is amazing. First of all, it always asks for a login. Always. See that ""Remember me"" checkbox? IT'S FAKE. IT DOESN'T WORK. EVERYTIME YOU LAUNCH THE GAME, IT WILL ASK FOR YOUR EMAIL AND PASSWORD FOR UBISOFT CONNECT. And it's really irritating when you're planning to play this on a TV using just a controller, or a Steam Deck.
+
+But the final insult is that every 24 hours, just after you just input your email and password... IT WILL ASK AGAIN FOR THE SAME PASSWORD. This kind of DRM is just stupid, idiotic, punishing for the pc players and legit buyers, and IT REALLY MAKES NO SENSE. I just logged into your incapable of remembering me platform, why do I have to input the same password not even a minute after the last time I input it?
+
+After all, if you are able to have lengthy game sessions, the game is cool, it made me miss Sam Fisher (although the plot is so similar to Homeland series), it works well, it doesn't freezes (*coff*farcry3*coff*), the extra missions are kind of a mixed bag... but the launcher. I think I also bought the DLCs back in the day, but I swear to god the launcher made me uninstall the game as soon as I finished the main game.
+
+At least I finished it before it got taken down.
+
+Just remember, everyone. Don't ever give Ubisoft a single coin after this. Their way of handling DRM and old games is just unacceptable.
+
+EDIT: Well, I got around to finish the DLC. It was actually two coop missions, one in a fortress of somekind where you have to kill everyone, and another in a billionaire yatch. The rest of the DLC was equipment that you either use all the time, or is just a little taste of what the ultimate equipment is.
+
+I don't remember what it cost me. But I should be ashamed with myself if it was more than 3€.",0.7166000604629517,26,False
+235600,137038091,76561197970528533,"Attempted to install and run this recently via Steam. At one point it asked me to log in to UPlay which failed over and over claiming I didn't have an internet connection. The fix is to instead go to ubisoft's website and download a new client called ""Ubisoft Connect"". Using this client you can log in and play your Spliter Cell games.",0.7179625630378723,25,True
+235600,182979024,76561198268872053,"---{Graphics}---
+☐ You forget what reality is
+☐ Beautiful
+☑ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ Free Fire
+
+---{Gameplay}---
+☐ Very good
+☑ Good
+☐ It‘s just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{Audio}---
+☐ Eargasm
+☑ Very good
+☐ Good
+☐ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{Audience}---
+☐ Kids
+☑ Teens
+☑ Adults
+☐ All
+
+---{PC Requirements}---
+☐ Check if you can run paint
+☐ Potato
+☑ Decent
+☐ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{Difficulty}---
+☐ Just press 'W'
+☐ Easy
+☑ Significant brain usage
+☐ Easy to learn / Hard to master
+☐ Difficult
+☐ Dark Souls
+
+---{Grind}---
+☑ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☐ Isn't necessary to progress
+☐ Average grind level
+☐ Too much grind
+☐ You‘ll need a second live for grinding
+
+---{Story}---
+☐ No Story
+☑ Some lore
+☐ Average
+☐ Good
+☐ Lovely
+☐ It‘ll replace your life
+
+---{Game Time}---
+☐ Really short ( 0 - 2 hours)
+☑ Short ( 2 - 8 hours)
+☐ Few hours ( 8 - 12 hours)
+☐ Long ( 12+ hours)
+☐ Endless
+
+---{Price}---
+☐ It’s free!
+☐ Worth the price
+☑ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{Bugs}---
+☐ Never heard of
+☑ Minor bugs
+☐ Can get annoying
+☐ Cyberpunk 2077
+☐ The game itself is a big terrarium for bugs
+
+---{74/100}---",0.7132209539413452,41,True
+235600,224877734,76561198976851915,"Splinter Cell Blacklist is a great game. The stealth gameplay in this title is fun to master, and it is certainly very open to both lethal and non-lethal approaches. Story is fine, kinda Marvel-movie esque at times, but the gameplay I what I will commend the most. Dogs are annoying, as well as some of the quirks of each level for 100% stealth routes. I wish it would have went something more akin to Chaos Theory's atmosphere and tone instead of generic action media of the early 2010's, but even that part is something unique to like about this title. Nothing plays like any Splinter Cell game for stealth games (in my experience), and this is a fantastic entry in the Splinter Cell franchise.
+
+With that being said absolutely DO NOT BUY THIS PORT. 
+
+The Steam version of this game constantly crashes after approximately 30 minutes, or alternatively, whilst at a loading screen. Forced offline mode works sort of, but you need to apply every CPU core to smooth the game out after going through that process, which can be a pain in the ass if you want to use fullscreen. Not a functional game on modern hardware to say the least. If you hate the Ubisoft launcher, you will love logging into the service every time you boot the damn game. I still have NOT found a consistent fix yet that worked for me. The fact of the matter is that Ubisoft are still selling an unstable buggy mess and I was tempted by a sale to repurchase this classic, unaware of the issues presented in the reviews.  
+
+I implore you to enjoy this title on an Xbox One-Xbox Series for the smoothest 1080p-4k experience. Hell if you've got an old PS3, Xbox 360, or Wii U system lying around, play it there. Check your local mom and pop used game store, eBay, or other storefront. Used physical copies are pretty fairly priced. Beats constant crashing by a country mile. Cannot confirm if Playstation has this on their streaming service. Yeah it sucks cause mouse and keyboard feel nice, as well as the PC smoothness but just don't even bother with this bullshit. I do hope you will be able to play this game cause it is quite a fun Splinter Cell title. Shame Ubisoft, especially in their current state, won't bother to fix this game. Have a good day, thanks for reading this review, and do not buy ts.",0.7130129933357239,28,False
+235600,137517045,76561198008784747,"Multiplayer servers got taken down and there's no way to play multiplayer now.  One of the most successful gaming companies of all time can't afford a monthly server fee or care enough to patch their game so we can play peer to peer?  Welcome to modern day gaming, Ubisoft leading the lame charge hard.",0.7077124118804932,30,False
+235600,172092408,76561198330683346,"This is probably what the devs and designers at Ubi were having wet dreams over when they had to work on Far Cry 6, The Division 2 or Skull and Bones, and I still dont wanna give this too much credit cause the final boss fight was just a worse version of Uncharted's and you cant even play half this games content no more. PIRATE THIS INSTEAD, so you can appreciate what Ubisoft used to be without giving them any more resources to rip people off in the future",0.7576125860214233,28,True
+235600,143034097,76561198074322553,"They shut down multiplayer, and if you paid for the Deluxe Edition, you don't get any of the other unlockable stuff.
+
+Thanks Ubisoft. I'm not buying anything from you ever again.",0.7052099704742432,21,False
+235600,123346011,76561198242345356,"I love this game. I first played it on the PS3, and it got me into the stealth game genre and convinced me to go back and play the previous Splinter Cell games. Unfortunately we live in a time when companies charge us to access games, not to own them, and this access can be revoked at any time for any reason.
+
+Fuck you, Ubisoft",0.7045609951019287,21,False
+235600,202197754,76561197980787602,"The game is good and works perfectly on the Steam Deck but Uplay asks me to enter a password every time I launch a game. There is no way to bypass this on the Steam Deck (legally). I refuse to buy games from Ubisoft as long as this shitty software exists.
+
+Imagine that you have to download a cracked EXE file to be able to play a game that you legally purchased. When did you finally go bankrupt, Ubisoft?",0.7035250067710876,20,False
+235600,12930154,76561197970328510,"I like the game, but my big complaint is that the rewards structure is kind of fucked up. Why does the game only reward you for sticking to one of the three pure styles? The game is tedious to play 100% ghost, but playing 100% panther makes it really difficult to immerse yourself as a covert military operative. I tried to do a combination of both styles (trying to stay hidden but using weapons when necessary), but the game seemed to punish me for my decision when scores were tallied at the end of each level. I guess you can ignore the scores and the game telling you that you failed to reach the designated goals as a ghost or as a panther, but for me it felt unfair to be punished for trying to play pragmatically in synch with the story.",0.8024802803993225,61,True
+235600,212652563,76561199824350874,"I've played this on the XBOX Series X, and thought it couldn't get any better, until I played it here. Graphically impressive, but crashes within an hour of playing every time. Get the offline-offline link from one of the help suggestions here.",0.700871467590332,17,False
+235600,82091506,76561199058182982,"~ DIFFICULTY ~
+🔲 My 90 year old grandma could play it
+🔲 Easy
+☑️ Normal
+🔲 Hard
+🔲 Dark Souls
+
+~ GRAPHICS ~
+
+🔲 MS Paint
+🔲 Bad
+🔲 Meh
+🔲 Graphics don't matter in this game
+🔲 Good
+☑️ Beautiful
+🔲 Masterpiece
+
+~ MUSIC ~
+
+🔲 Bad
+☑️ Not special
+🔲 Good
+🔲 Beautiful
+
+~ STORY ~
+
+🔲 This game has no story
+🔲 Like playing Temple Runners for the story
+☑️ It's there for the people who want it
+🔲 Well written
+🔲 Epic story
+
+~ PRICE ~
+
+🔲 Free
+🔲 Underpriced
+☑️ Perfect Price
+🔲 Could be cheaper
+🔲 Overpriced
+🔲 Complete waste of money
+
+~ REQUIREMENTS ~
+
+🔲 You can run it on a microwave
+☑️ Average
+🔲 High end
+🔲 NASA computer
+
+~ LENGTH ~
+
+🔲 Very Short (0 - 3 hours)
+☑️ Short (3 - 15 hours)
+🔲 Average (15-50 hours)
+🔲 Long (50-90 hours)
+🔲 Extremely long (90-110 hours)
+🔲 No ending
+
+~ FUN ~
+
+🔲 I'd rather watch paint dry
+🔲 Hard to enjoy
+🔲 Repetitive
+🔲 Actually pretty amusing
+☑️ Ride of your life
+
+~ REPLAYABILITY~
+
+🔲 It's a one-time experience
+🔲 Only for achievements
+🔲 If you wait a few months/years
+☑️ Definitely
+🔲 Infinitely replayable
+
+~ WORTH BUYING ~
+
+🔲 No
+🔲 Wait for sale
+🔲 Yes
+☑️ Just go buy it",0.7505092620849609,50,True
+235600,225750394,76561199810748850,"what absolutely sours my experience, is that you have to sign in every time into Ubisoft connect. Essentially you need an internet connection to play this single player offline game!!!!",0.6995295286178589,16,False
+235600,203179636,76561198013035947,"Ubisoft forces you to enter your login info constantly for this title. They do it to older games to make them more inconvenient to access.
+
+Do not support this terrible company full of terrible people.",0.6990309357643127,35,False
+235600,218645280,76561198108260976,"Would love to recommend, but it's unstable to the point of being unplayable. Took me a good while to get it to even launch, but then had constant CTDs, cursor flickering all over my screen, audio issues, and more.",0.6988463997840881,28,False
+235600,118301165,76561198064711762,"Should have pirated it like others, hopefully this trash company goes bankrupt. Had I donated this money to poor at least I would have had some blessings and had not been wasting my time cursing this crap.",0.748589038848877,132,False
+235600,52447597,76561197967872956,"Great game, once you get it to work. [b]If you are having the 23-minute crashing issue, and cannot connect to anything online, see below:[/b]
+
+I was also one of the people affected by the notorious 23-minute crash issue, which I went on a long adventure to fix. Some of the Things I tried were as follows: 
+[list]
+[*]Manual Port Forwarding
+[*]Manual Firewall Exceptions
+[*]Enabling DMZ
+[*]Directly Connecting to Modem
+[*]Reinstalling UPlay
+[*]Reinstalling Blacklist
+[*]Reinstalling Blacklist on C Drive
+[*]Verifying Integrity
+[*]Setting Windows Compatibility Settings of all available options
+[*]Playing in Offline Mode
+[*]Manually Disabling the Network Connection
+[*]Manually Disabling Antivirus Security Options... etc etc.
+[/list]
+I could go on, but the point being, I tried virtually every practical thing one could try, and absolutely NONE of these worked at all.
+
+Then, on a whim, just before I was about to give up hope, I uninstalled Avast Antivirus, restarted the system, booted up the game, and BAM, suddenly I was able to connect to all online elements of the game, and the crashes are now gone, and blacklist is completely stable.
+
+--------------------
+
+[h1]Crash Reason[/h1]
+Now, main cause for the 23-minute crash is that Blacklist can't connect to the online services. Even in singleplayer, if you are unable to access Shadownet (Esc -> Tab, Followed By ""The Splinter Cell Blacklist Server Is Not Available. Please Try Again Later."" Error Message), then you have a dead giveaway that you are not connected to the online services.
+
+I wish I could tell you that there was just one simple fix for that, but your mileage may, and probably will vary. Blacklist seems to be very, VERY sensitive to various configurations, such as having multiple connections available on your system, as well as just the presence of a VPN, Security Suite, or Antivirus Software.  I have even seen some posts from people talking about success with being issued a new key, but I cannot personally vouch for it.
+
+[b]Simply put, if you want to fix the crashing issue, you need to get the game to connect online.[/b]
+
+--------------------
+
+[h1]Venting[/h1]
+If I can add my two cents here, I do not know if the crashing mechanism is caused from some faulty feature, or by intentional DRM tripping, but either way, it is completely unreasonable to expect a normal customer to have the knowledge and patience to jump through so many hoops just to get the game running without crashing. I have a lot of years of IT experience, went through the usual troubleshooting procedure, and the fix still ended up being one near the bottom of the list, around the proverbial 'last resorts', which was to uninstall Antivirus Software entirely. Also, It would be annoying enough to not be able to connect to online features or to play multiplayer, but you literally need to be connected to play SINGLEPLAYER without crashing.
+
+--------------------
+
+[h1]Bottom Line.[/h1]
+
+Is Blacklist worth playing? Absolutely, it is easily the best since Chaos Theory. (Though Chaos Theory is still my number 1.) It has lots of content to play through, and still looks rather good in 2019 running in DX11 with everything maxed out. Just be prepared to possibly have to troubleshoot a handful of things to play it without crashing.",0.7484928965568542,28,True

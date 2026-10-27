@@ -1,0 +1,1044 @@
+appid,recommendationid,author_id,review,weighted_vote_score,votes_up,voted_up
+1190000,106957422,76561198055604532,"This game is fairly realistic as someone who enjoys working on cars IRL but still simplified enough to be enjoyable for a player who is not as mechanically inclined. If you love cars, made models of cars, or even enjoyed playing with Legos as a kid. You will enjoy yourself playing this game. --9/10 my personal rating of this game.
+
+I work on cars as a hobby/side hustle, so there are things missing in this experience that you have to deal with in reality, that I wish were in this game (but I still think should be optional if a player does not wish for all the extra hassle)...
+
+i.e. --Wiring
+--transmission parts and fluid (magically all one piece)
+--differentials, covers, gears, oil and otherwise (magically all one piece)
+--brake lines, and no process of having to bleed air and bad fluid from brake calipers and brake lines
+--torquing the lug-nuts once you put wheels back on.
+--tie rod alignment (just to clarify, that means specifically the tie rods, more specifically tie rod thread count. Anyone who has changed a tie rod before will know what I am talking about... I am not referring to wheel alignment which is in fact in the current game).
+--parking brake cables, handles or shifter handles
+--no gaskets, no intake manifold gaskets, exhaust manifold gaskets, no head gaskets (metal to metal and somehow everything is magically sealed.
+--no interior panels for doors, no window motors/regulators, locks, handle rods, lock rods.
+--no dash/instrument cluster
+--no heater cores
+--no hoses or lines for EVAP related parts, cooling system, or fuel.
+--no ball joints
+
+and the interior stuff is kinda lackluster... there is more to the interior of a car than seats, benches and steering wheels.
+
+In the future, this game should let us customize the dashes, the shifter, the gauges, the radio/stereo, the carpet/floor material and color. Just a few ideas I had.
+
+If the game had a bit more of these realistic aspects to it, I would give it a rating closer to 10. As it stands, it is an excellent game! I've put several hours into it within these last couple of weeks as of writing this review and I look forward to logging many more hours in this awesome experience, especially if they release more DLC for  all the different brands of vehicles out there! So much Content! Lotsa sexy cars! Lotsa fun!",0.9592193961143494,248,True
+1190000,170108192,76561198356283963,"This is a pretty good game, but its not exactly realistic. Let me start off with im an ASE certified technician, and i know most people playing this game are probably normal people who arent techs, so i can understand why theres much simpler systems. Heres a list of what i think could be improved upon purely to make this more realistic.
+
+1. Heavily simplified. Missing systems like EGR, EVAP, secondary AIR, VCT, IMRC, IAC, PCV, hydraulic lifters, hydraulic lash adjusters, dual bed catalysts, resonators, smog pumps, vacuum pumps, missing lots of vacuum/electrical actuators, automatic transmissions, strut bearings, etc.
+
+2. No true transmission repairs possible. Transmissions are their own beast to simulate, but it would really improve the experience.
+
+3. Inconsistencies. Stuff like naturally aspirated cars having intercoolers, some cars have redundant suspension components that dont do anything.  
+
+4. Limited diagnostics. The main tests that i think would be good to add would be a cylinder leakdown test, wet compression test, cooling system pressure test, propane enrichment test, (dynamic) manifold vacuum gauge, spark tester (cant remember if thats in this game)  
+
+5. Inability to remove parts while other parts are attached. Im mainly talking about not being able to remove the cylinder head while the spark plugs are installed and having to remove inner tie rod ends before removing a rack.. 
+
+6. Every worn part is rusted. This makes it very helpful to spot them, but its not realistic. Most parts that need to be replaced are not necessarily covered in rust. Adding the ability to inspect journals on the crankshaft and camshaft(s) and scoring/glazing on the cylinder walls would really improve realism. 
+
+7. No bearings or seals. I personally think that the crank main bearings, cam main bearings, and connecting rod bearings at least should be in this game. There are lots and lots of bearings, bushings, and seals on cars.
+
+8. Leaks/spills cost money to clean up. If you spill coolant or oil or whatever in a shop you just throw some sand on it and sweep it up. It really isnt that big of a deal unless you spilled like 12 quarts of oil on the ground.
+
+9. No plumbing or wiring modeled. 
+
+10. No sensors or solenoids. Missing MAF/MAP, knock sensors, oil pressure sensors, IAT, CMP, CKP, TPS, VSS, ISS, TSS, wheel speed sensors, SAS, STS
+
+11. Specifying locations on cars is done by mentioning the side of the car and then front or back. For example, you say right front instead of front right, left rear instead of rear left
+
+12. Very simple electrical systems. Electrical systems like the CAN-HI and CAN-LO would be difficult to model but would make for very challenging repairs, as it can cause sensors and actuators to communicate weirdly or not at all. 
+
+13. Only hydraulic power assist steering (HPAS) as far as ive seen. Lots of late model vehicles, especially HEVs and mHEVs, use electric power assist steering (EPAS). Also no variation in steering systems such as parallelogram and recirculating ball, only rack and pinion.
+
+14. This one is really small but the lifts are missing the mechanical lock clunks when raising the lift
+
+15. No gaskets.
+
+16. Blocks are missing oil pickup tube, oil pump, oil galleries, and (removable) freeze plugs. 
+
+17. Crankshafts are missing oil ports.
+
+18. Brake system is missing combination valve or metering, proportioning, and pressure differential valves.
+
+19 Tire machine removes the tire without touching anything. Removing tires is a lot more involved and labor intensive (i hate tire work).
+
+20. Some suspension components are mislabeled. MacPherson struts are called shock absorbers, some coil springs are also considered shock absorbers in this game. Shock absorbers dampen spring oscillations, but are not the spring itself. 
+
+21. Very little variation in suspension systems. Ive only seen MacPherson and SLA-1 used in IFS and SLA-1 in IRS and solid axle in rear suspension. Adding some other spring types like torsion bars or air springs would add a little variation. 
+
+22. Brake caliper is a floating caliper but does not have slide pins.
+
+23. Drum brakes missing all hardware. Self adjust cable/linkage, self adjust screw, park brake strut, park brake cable, return springs, hold down springs, anchors.
+
+24. This would probably make the game very boring for most people, but theres no measuring, indicating, or torquing. 
+
+25. Symptoms dont always match up with the problems. For example, “Car is hard to control” is caused by a sway bar end link. That will usually just cause clunking, especially when turning the wheel in the direction of the bad link.
+
+26. Rusted bolts are too easy to remove. I wish it was this easy to remove stuck bolts, and i much prefer how easy it is to remove them in game. Its just not fully realistic. 
+
+27. Suspension and steering component replacement doesnt require alignment. Replacing tie rod ends or steering gears require an alignment after installation.
+
+28. Not much variation in valvetrain designs. Would be nice to see roller lifters, different followers, lash adjusters, and tapered cams vs straight ground cams.
+
+29. It would be cool to see some splayed crank journals on certain engines.
+
+30. Hydraulic and fluid systems dont need to be bled. This does take a lot of the tedious work out though. 
+
+31. Steering system missing steering shaft, intermediate shaft, couplers. Also missing the entire SRS and anti-theft systems.
+
+32. Rust behaves a little strange. Sometimes, single parts will be rusted in the crankcase or cylinder head. This would mean that water was somehow getting into the engine and only on that one part. If water manages to get inside the engine where it shouldnt be, it will rust several parts, and if bad enough it can and will rust the entirety of the inside of the crankcase. Rust inside the engine is a major indicator of a fault somewhere in the engine, not necessarily related to that specific component. Rust also spreads through other means like galvanic corrosion.
+
+33. Symptoms arent specific enough. If someone told me that their engine shut off while they were driving, i wouldnt just say ok and start disassembling their car, i would get more information (engine speed at which it shut off, were they on a grade, is it during tip-in/cruise/WOT, etc.), then run diagnostic tests (checking the fuel  flow and pressure at different engine speeds, checking the fuel filter for blockage) then begin disassembly and order replacement parts. (symptom-system-component-cause)
+
+34. No priming of the engines oil system before installation into vehicle. say goodbye to your precision machined journals. 
+
+35. Diagnostic tools just magically tell you the condition of parts. It would be much more realistic if you had to go in with a test light and check all the fuse terminals, measure the resistance of wires, checking for short to ground/short to power, etc. but, i can understand why this wasnt implemented.
+
+36. Missing throttle and cruise control (older vehicles with vacuum CC) linkages.
+
+Overall this is a fun game, however its not exactly a simulator.
+",0.9523734450340271,457,True
+1190000,97462117,76561197993914768,"CMS 2021 is decent enough at what it does. It's more of a ""replace this rusty part sim"" than a true mechanic simulator. I've played CMS since 2015 and while it has gotten more in depth since, it's also still very lightweight compared to what mechanic work in real life is.  This game is useful for teaching you WHERE parts are but the procedures for removing them are generally wrong. While cars are just nuts and bolts, there's more to it than just removing and replacing.  For instance, if you ever have to replace a cam, you will NEVER use the old cam caps, (and 99% of the time, a tapping from the valve train doesn't require cam replacement) You wont change just one spark plug, you wont replace a caliper but re-use and old caliper piston, 
+replacing subframe bushings are a lot more involved than just removing a bolt.  As a real life technician, feel free to use CMS as a light learning experience but please do not take this game as 100% true as doing things IRL the way you do in game WILL cause major problems with your car.  
+
+As a game, CMS2021 is absolutely entertaining to play and has several improvements over its previous iteration.  I can thoroughly recommend it to anyone who enjoys games of this type.",0.9329739212989807,307,True
+1190000,200417300,76561198194578461,"Addicting game and a fun way for people to learn basic aspects of automotive mechanics. As someone who has worked on cars for a while, I can see this game is missing A LOT in order for it to be more on the realistic side of things. For someone that just wants to get into working on cars or even someone that is already familiar with mechanics and just wants to pass time, this game is all-around a good choice for both. If you get really interested in the game, you could even go a step further and download mods that make the game a lot more fun. I downloaded mods that sped up processes like buying and fixing parts to speed up doing repairs and grinding achievements.
+
+I would like to mention the things they could expand on to make the game more realistic. Some of these things I can understand why they don't touch up on because it could make the game too overwhelming for someone unfamiliar with working on a car. You can tell they intentionally didn't add things that cram up an engine bay specifically to make the game more fluent and the process of navigating around the vehicles whilst working on them easier. 
+
+Here are some things that the game is lacking for realism:
+
+Wiring - Other than ignition wires, there is basically no wiring anywhere in the engine bay so all lights and interior components are basically ran off of magic.
+
+The process of bleeding brake lines and calipers - You just replace brake parts and there is no procedures for bleeding air or bad fluid from the brake components like you'd need to do in real life.
+
+Torquing - This is self explanatory, but there is no torquing mechanic in this game. In real life, there will always be a torque spec for any fastener on any vehicle, and most are unnecessary, but a lot are absolutely mandatory. Some things that you'd typically always torque are key engine components and lug nuts.
+
+Interior - There is only upholstery and steering wheels inside the interior of vehicles in this game. This is the biggest thing I'd like to have seen them improve on because the interiors feel so empty. They could add interior panels, window motors/regulators, door locks, handle rods, A/C, radios, instrument clusters, dashboards, gauges, parking brake assembly, shifter handles, etc.
+
+Gaskets - Basically all engine components are just sealed with nothing. There is no intake manifold gaskets, head gaskets, exhaust manifold gaskets, water pump gaskets, oil pan gaskets, etc. 
+
+Hoses/Lines - There is no hoses or lines for anything. Sorta like wiring I can understand they don't include these things to make it more visually tolerable for the general public. Fuel and cooling systems are basically transferring fluids via magic so all the fluids you fill up on have no way of getting to their destinations.
+
+Gas - I get this is being picky but like it is the #1 thing anyone would expect to be in a game about cars.
+
+-->  I think they maybe could've added a lot of these things and made them optional for harder difficulties that way inexperienced players wouldn't feel overwhelmed.
+
+I do wanna mention the achievements in this game because it is the only reason I spent a lot more hours than expected playing it. If you wanna get all the achievements in this game, you are in for a GRIND. A few achievements that will take you a long time just to name a few are ""The Mechanic"", ""Trader"", and ""Parking boy"". Also there are several achievements you will get over time just naturally by playing like buying 3000 parts from the main shop, fixing 150 car parts, finishing 100 orders, painting 60 cars, unscrewing 10,000 bolts, and more.
+
+""The Mechanic"" - Reach level 50 - Self explanatory.. it will take a long time to accumulate the amount of XP you'll need to get to level 50. 
+
+""Trader"" - Renovate and sell 50 cars - Without a doubt, the single most time consuming achievement on this game. You need to fix a car completely to 100% condition 50 times. After doing a couple, you will get bored and it'll get really repetitive. I did a few cars everyday and eventually got it done. My trick was going to the junkyard and looking for body frames which are basically cars with no body panels or parts attached so it is just the frame and that's it. Fixing these to 100% takes less time because obviously there is no parts to remove so it saves you a lot of time. After you get quick at doing this, it should take about 20 minutes to 100% renovate and sell 1 car.
+
+""Parking boy"" - Unlock 10 parking alleys - Also self explanatory because parking alleys you just buy with money and as you buy more they become very expensive. So basically all the money you don't spend on repairs will go towards this.
+
+The price of the game I'd say could be a little cheaper, so I'd recommend buying the game when it is on sale. I'd rate the game overall somewhere around 8 out of 10. Only reason the rating isn't higher is because of all the things the game lacks for a more realistic approach. However, it is worth mentioning for a simulator they did a good job keeping it simple for a fun approach and not getting overly complicated.",0.9280393123626709,155,True
+1190000,98484060,76561197997876397,"As a former mechanic (because I hated it), playing this game reminds me of the satisfaction I used to get after a job well done. Then I go back to doing real mechanic stuff and I'm reminded once again that I hate it.
+This game is everything good about being a mechanic with the busted knuckles, the loss of real money, the amount of time it takes, contorting your body to reach curtain places, oil money shots to the face, and the clenched sphincter when the car shifts on jack stands while your under it.
+Compared to being a real mechanic, this game is heaven.",0.9255502223968506,210,True
+1190000,197764455,76561198061611841,"just starting out as a virtual car mechanic, already lost the 10mm socket. 10/10",0.9227827787399292,124,True
+1190000,97442823,76561198314588746,"If you use the name [b] cms2021promo [/b]when creating a game you are loaded with 500,000 credits and at level 36 which is enough to unlock every thing at the toolbox.
+
+Edit: The code has to be the name of the profile and has to be all in lower case",0.9189613461494446,474,True
+1190000,102491926,76561198051060262,Completely took over my life for a week. Only thing missing is my dad not yelling at me to hold the flashlight correctly 9/10,0.916869044303894,164,True
+1190000,212836845,76561198079051912,"Great game! I knew nothing about fixing cars when I started, and now I can navigate what is on my own car and have some idea of how to work on it. 
+
+10/10",0.9036074876785278,92,True
+1190000,214338095,76561199027957421,"*Automotive Mechanic Here* I used this game as a ""helper"" throughout my apprentiship as a 310s Automotive Service Technician now I have completed my apprentiship & I am newly licensed I would say this game did help to get a better undertsanding on how to service automotive vehicles.",0.9006332159042358,109,True
+1190000,98362321,76561199097333895,"Please add multiplayer so I can work on cars with my friends.
+",0.9486784338951111,558,True
+1190000,215106823,76561198048382189,"Pretty cool game. As the titel suggests it is a pure mechanic game, a lot of detail when it comes to car parts. What I miss most is the social perspective - I haven't met a single person in this game. In other words, the game has absolutely no atmosphere. It is completely dead. No family that walks into your shop and wants their car repaired before the holiday, no handyman with his ""gooddamn car broke down just now"", no car enthusiast who recently bought that piece of junk and wants you to build his dreamcar out of it. Why errect a gas station when no people walk in, why a car wash when nobody lives on the planet? I feel that I would have much more motivation when the work I do means something to someone. 
+That is the biggest drawback of this game and I think and it would have profited most from it.",0.8978036642074585,87,True
+1190000,229424651,76561197998867748,"I have worked on vehicles for more than 40 years. I am a certified master tech, for what that is worth here.  I found this game and it was on sale for only a few dollars so I bought it.  I wasn't expecting much.
+All in all, it is a very good game, IMHO.  The details in the engine and vehicles are pretty accurate to the real thing in many ways. The game leaves out the frustration of finding the bolts, finding a way to get to the bolts, the proper tool to get the bolt out, the dirt and rust that falls in your face, ears and eyes. It leaves out the torque specs and other tedious things that would run people off while leaving enough to make it somewhat lifelike and fun.
+This is actually a game I enjoy playing.  I get outdone and tired of working on vehicles in real life at times but I spend a bit of time in the game enjoying tearing engines down and fixing them without all the frustrating realistic parts of fixing cars.
+I could nitpick this game to death with all the stuff they leave out and how simple it makes working on cars look but it is a game, meant to be fun, not necessarily realistic.  I think the devs found a way to make a game that is real enough yet still fun.",0.8977373838424683,91,True
+1190000,131180839,76561198176122459,Went from not knowing a thing about cars to being able to change headlight fluid. 10/10,0.9468926787376404,429,True
+1190000,150187735,76561198061300346,"Legit made me confident enough to perform my first oil change, change my spark plugs, and replace my valve cover gasket. (With YouTube as a guide, of course)
+Car is still running, so that's a good sign?",0.9385007619857788,192,True
+1190000,116018570,76561197990360797,"This game actually helped me learn the fundamentals of car mechanics and destygmatized the concepts by breaking it down to generic processes and parts.  I did a little work on cars as a kid - occasionally turning a wrench or screw driver for my dad but never really grasped the concepts until I played this game.
+
+Now I do much of the basic work on my own vehicles after this game helped break the barrier and build the confidence to look under the hood.  My son is now studying to be a heavy-duty mechanic and this helped him grasp a lot of the same basic concepts as well.",0.8876744508743286,86,True
+1190000,225541213,76561198799152180,"An amazing stress-reliever that stops just short of true realismIf you are looking for a sim game to wind down after a long day, this is perfect. The gameplay loop is very addictive and relaxing. That being said, the mechanics are simplified compared to real-world wrenching. For instance, when doing a timing job, you don't have to worry about top dead center (TDC) or use specialized tools like timing locking rods/pins to hold the engine position. Adding details like piston alignment during assembly would have made it perfect. Highly recommended, but don't expect a 1:1 real life tutorial.",0.8856145739555359,88,True
+1190000,98858879,76561198113710600,buy junk car -> remove all the parts -> repair parts -> buy new parts -> determine the best engine for the car -> build the engine -> wash the car -> fix the chassis -> install the engine -> build the car back up to %100 -> sell the car -> repeat,0.8820030689239502,79,True
+1190000,207972783,76561198077412714,"Teaching you behind your back, a Car Mechanic Simulator 2021 Review:
+
+Another Hit from the Quintessential Car Mechanic Simulator Series. I have been playing the CMS series of games since the first one in 2014. Each entry into the series gets better and better, adding more detail and more customization options. But what it doesn’t tell you is that it is also teaching you behind your back.
+
+I’ll be for real; I’m a nerd with the mechanical fascination type of autism. So, this game series tickles all the right areas of my brain to make me secrete happy chemicals. I really vibe with pulling a rust bucket from the clutches of a junkyard, and blasting music while I strip it down to the frame and rebuild it with custom parts, turning a surefire tetanus risk into a prize-winning 1960’s classic muscle car with high-performance parts running under the hood. 
+
+CMS 2021 is the Culmination of all of the iterative improvements and new mechanics of the games. With a brand-new scrapping and upgrading mechanic, where you can take old parts that are below 100% durability, destroy them to get scrap, and then spend that scrap to upgrade parts for a boost in performance and power. CMS 2021 also did away with RNG based repair system of previous games and instead added a minigame where the repair is based on timing, which is amazing, as RNG often hates my guts.
+
+Over all of the games in the series, I have racked up probably about 500 hours of playtime, just spent fixing cars and rocking out, but what I didn’t know is that this game is not only fun and genuinely pretty to look at, but it was even educating me behind my back. That’s right reader, this game gave me real life mechanic skills. 
+
+I took my car, a real car, into a real-life mechanic, and was told that one of my rear brake pads had broken apart and scored the brake rotor. Not good. No one should drive a car with broken brakes. The mechanic quoted me $1000+ for replacement parts and labour. They don’t even replace only the broken part, because it causes uneven wear which will lead to even more parts failing. However, with $500 left to spend in my bank account, I couldn’t afford the fix. They even made me sign a waiver saying I knew the car was unsafe to drive.
+
+In comes CMS to save the day. I went online, found a car parts site, entered my car info, and it found me the appropriately sized parts for my make and model, for $129, Tax included. 11 days later, with parts in one hand, and tools from my late grandfather’s workshop in the other, I jacked up my real car, in real life, and changed rotors and pads for my rear wheels, using only knowledge bestowed upon me by playing Car Mechanic Simulator. My mother was sitting and watching me the whole time and told me that she couldn’t be prouder of me, for the skills I had acquired from a video game coming in handy in real life, and while I don’t think I’m quite ready to go examining the timing belts and piston rings of my engine, I definitely learned enough to save myself $871 worth of labour.
+
+I think probably the only way they could make this game better in the next iteration, is by letting us do ridiculous engine swaps for the cars. Like I really want to cram a double turbocharged high performance V12 engine into a 1960’s coke body muscle car.
+
+10/10 Fun and secretly educational. A must play if you like looking at pretty muscle cars.
+
+
+",0.8789628744125366,67,True
+1190000,194007566,76561198824023753,"As a person who works on my own cars, have to love the detail and realism of the working on cars. Only a few things missing including the different variations of brake parts. Pads, rotors, and calipers should be various sizes based on style (Car/SUV/TRUCK). But I am overall impressed with the game.",0.8784093856811523,96,True
+1190000,119582270,76561198136511180,"this game is a great game if you're just getting into the CMS sim games. But, it is not so when you've played CMS before.
+
+I am a long time fan of this series and I've been playing the games ever since CMS 2014 and I was having a blast and then 2015 came along and I had even more of a blast even though that game was a bit boring and lacking in content.
+
+the real turning point in this series was CMS 2018, it introduced so much new stuff into the game. New cars, new parts, a repair table, tuning, dyno, more tools, more customization, more skills, the ability to buy used cars and flip them for a profit. It was great fun, and I was really excited for CMS 2021.
+
+I picked it up on release and after 10 hours or so I realized this is exactly like CMS 2018 with a fresh coat of paint, some new cars and a few QOL improvements here and there. We've been waiting 3 years for this? Everything you can do in CMS 2018 you can do here, it's no different, except for some ""new"" mechanics.
+
+And I say ""new"" because these mechanics are in CMS 2018 but were recycled and improved for this game. Overall, this game is really disappointing for old fans of the series, but, it's a great game on it's own for people who have never played CMS before.",0.8771700859069824,90,True
+1190000,231358955,76561198088221885,"In just under 10 hours, I learned the entire assembly of cars, down to the cams, chains/belts, suspension assemblies, and common consumables. This game includes full engine rebuilds, piston replacement and all. I then went outside the game to research these systems in real-world videos. Valve springs, rocker arms, compression ratios, even basic staging with altering hp production. And then bushing demonstrations in action, dampers, hub bearings and other components.
+
+I have 4 cars. These 10 hours have already saved me over £1000 and given me a (superficial) insight of what exactly my mechanic's doing on each car. Which job's labour-cheap, which one is labour-intensive. What engine has a timing belt/chain buried at the back, vs. what engine has a very accessible one. And also why it is so incredibly, incredibly important to keep to the maintenance schedule. Make it essential, just like filling your gas tank.
+
+I truly recommend everyone with a car to play at least 10 hours of this. It is truly an irreplaceable experience even if you're never going to work on your own car. It just gives you peace of mind that you'll command moderate knowledge, enough to keep up in common car discussions (including with your general mechanic), for the rest of your life. 
+
+Excellent, excellent work.",0.8742059469223022,89,True
+1190000,157882527,76561197964526702,"Not accurate enough to be able to start working on cars, but close enough that you'll begin to recognize components of a car in real life. This taught me to become fascinated enough to look into repairs myself, and they look *way* less scary after having ""done"" them in the game because all the parts aren't just metal/plastic black boxes any more. Might have even inspired me enough to go to school to learn automotive repair. I was never really a car guy but this game might have made me into one, time will tell. What I can tell you, I find the game a Zen-like experience and I personally love the soundtrack.",0.8703354001045227,89,True
+1190000,97684334,76561198018083207,"tl;dr: Overall, I would recommend this game for people who are casually interested in the basic mechanical and aesthetic aspects of vehicles. If you already own CMS18, or want a deep, detailed dive into the nuts and bolts of a mechanic's experience, I would not suggest this game.
+
+Reasons I Would recommend:
+- for those who are mildly interested in auto mechanics, or are younger, this is a great introductory game
+- you can learn many vehicle parts and their general location in the vehicle
+- you can experience a simplified start-to-finish process of buying and restoring an old vehicle
+- this is an entry-level game that's good for a casual gaming experience
+- can be played in small increments of time with very little investment
+- you won't get frustrated by this game or rage quit
+- there is decent variability with a wide assortment of vehicles, multiple ways to obtain them, and multiple ways to play
+- tweaking vehicles with tuning parts, and a significantly improved parts quality process adds an additional layer of interest and variety
+
+Reasons I would not recommend this game: If you're interested in the nuts and bolts details of auto mechanics, want a realistic experience, or you already own CMS18 this game may be a disappointment (it was for me).
+- oversimplified processes, minigames, and repairs (most processes are still a single-click with an animation)
+- the game is a more-polished, slightly expanded version of CMS18 (the graphics, user interface, and usability got overhauled, but the gameplay is virtually identical)
+- IMHO the so-called 'Expert Mode' is still too easy with too much hand-holding and virtually no punishment for making mistakes (I should be able to return an incomplete car to an owner and get penalized for it, like I would in real life)
+- if the 'Expert Mode' stays the same, then I want a 'Hardcore Mode' where there aren't any parts silhouettes for assembly, I'm penalized for botched orders, parts are damaged for 'starting an engine without oil', body parts are damaged by crashing while driving, the shopping list is removed, etc.
+- we were promised a 'new damage type: dents', but it turned out to be just cosmetic like rust; I was fully expecting a new process step (such as using a dent puller before repairing the body panel on the workbench) but it was another missed opportunity
+- it is now even easier to get XP and money, which shortens the 'RPG experience'
+- there was a missed opportunity by not expanding vehicle sale options to include auctioning off my newly restored vehicles, or running my own 'salon' (dealership)
+- I'm missing the ability to reset a fully-restored vehicle's mileage to increase it's value (if the vehicle has all 100% parts, shouldn't it effectively have 0km [no wear and tear] on it?)
+- to take this game to the next level for me would require enhancing its processes from single-click experiences to an interactive one; for example, welding could have a minigame for clicking on damaged points of the frame to weld them, and the carwash could require a scrubbing motion minigame to spray/buff the car (if you're adding minigames to some of the processes, why not do it to all of them, and make the games actually relevant to the task like we got with the alignment tools?)
+
+I wish I had a 'mixed review' button, because I'm really torn on this one. I had high expectations after the huge improvement CMS18 was over CMS15, but I ended up being disappointed with nearly-identical gameplay to CMS18 in a shiny new '2021 wrapper'. I'm recommending this game because it is well-developed and will suit many people's interests, but it will not provide the experience more invested players/enthusiasts like myself are looking for. I would love to see a non-casual version of this game that multiplies its depth.
+
+Note: I am aware of other more in-depth games, however, I don't wish to mention them in this review out of respect for this developer and publisher. They made a really good game that is fun, it's just not meeting my personal expectations or desires.",0.8696240186691284,89,True
+1190000,169177466,76561198006862928,I went from zero knowledge of cars to a knowledge that would impress someone with zero knowledge of cars.,0.9674292206764221,368,True
+1190000,219320030,76561198097703596,Working on cars during the day and then coming home to play a game where i do the same thing without the bs is the most fun,0.8563776016235352,55,True
+1190000,209830794,76561198190535599,"I'm a full time mechanic, and at first I wanted to be bothered by the things that made this game feel unrealistic. But the fact is each of those features makes this game that much more relaxing. This isn't really a mechanic simulator, but a shop owner simulator. I spend my downtime at work wishing I was playing my save back home. Something about there being no quick time events makes this game super relaxing to play after work.",0.8528960943222046,57,True
+1190000,112735985,76561198069571526,"It's relaxing and fun, mind numbing. Can totally play it while watching movies/tvs shows or random videos. It helped me learn more about cars and parts, I now have fun taking a peek under my car and naming parts lol
+The only thing I wish for it to have is some kind of guide to tell what parts do what, that would be interesting!",0.9026488661766052,117,True
+1190000,137808069,76561198315914508,"Great game to learn about cars and how they work!! This game gets into the vast majority of repairs that a mechanic actually has do in a real shop. Being a mechanic myself I am extremely impressed with how realistic this game is. There are a few things missing that would make it even more realistic like having to drain transmission fluid, being able to rebuild the diffs and trans axle, along with having to tear down the cylinder heads and diag a bad valve or weak spring. However, i am just nitpicking at this point. In the end it is a great game for cars enthusiast and people just looking to get into the car work and even better the trade of being a car mechanic",0.9020605683326721,110,True
+1190000,225421919,76561198399186381,If u know nothing about cars and want to get into them this game is perfect bc i thought it would be very hard but i just got sucked into this game and i cant wait for 2026 to come out,0.849989652633667,64,True
+1190000,98628190,76561198027141250,"Coming from CMS2018, this game is a solid step forwards for the franchise, although it does make a few annoying missteps and regressions compared to the previous title.
+
+First, lets talk about the improvements. The new garage with the outdoor space is great, although the actual usable area isn't really any larger than what we had before so in practice it means a bit more walking than the previous game, especially getting out to the paint shop. Only real complaints are that the customization doesn't allow for removing the trash and oil stains, there's plenty of RL professional garages with MUCH better cleanliness than the devs think garages have apparently. There's also no choice in outdoor scenery, your garage is always in the middle of the desert.
+
+The vehicle roster is improved from the previous game, with quite a few more knockoffs of iconic cars. No real complaints here, it's a solid step forwards. However, the actual engine/drivetrain/suspension components are largely identical to CMS2018, so there's not nearly as much actually new under the hood.
+
+Car customization is generally improved with some new visual parts and a vastly improved paint shop (UI is still pretty clunky unfortunately) so that nearly everything can be painted now including engine and suspension components. Sadly window tinting is still MIA which is extremely disappointing, and there's still a lot of missing visual and performance variants of parts (including a few that went missing from CMS2018 for a solid regression). Suspension tuning/lifting/lowering is still completely MIA as well. Engine swap options are also still pretty limited overall (I think this is a game engine limitation with how the exhaust/transmission line up).
+
+The junkyard appears to be improved with a larger space and more cars to find on each trip, and the part randomizer seems to be significantly improved with a lot more variety in missing parts, although I have yet to see a car missing an engine entirely.
+
+I like the new mechanics and tools with the carwash, brake lathe, fuse box and fluid reservoirs. Unfortunately the part repair minigame is a major step backwards IMO. This annoying reflex minigame has nothing to do with how parts are actually repaired and actively breaks immersion and adds annoyance for no reason. IMO this should be removed entirely and have a flat repair fee for parts, or a minigame that makes sense (like the rust removal/sandblasting in Tank Mechanic Simulator for example).
+
+There's a few other nice little quality of life improvements as well like the ability to move cars around without wheels (they get put up on bricks) which is super nice, and the buy limit for parts has been increased which is great for those pesky rubber bushings that get used everywhere.
+
+Unfortunately there' still some major usability issues which haven't been resolved, like the atrocious part naming (there's an exhaust pipe B (V8) and exhaust pipe (V8) B which are DIFFERENT incompatible parts for example) and lots of similarly named and difficult to distinguish parts that makes buying the correct part far more annoying than it should be, and the way auctions work is still super annoying with the bidding AI. The part condition UI is also a step backwards, it's more challenging than in CMS2018 to find missing parts and unstar parts that have been highlighted which is another annoying regression.
+
+Overall though this is a nice improvement over CMS2018, and definitely worth your money if you enjoyed that game. Hopefully the devs will continue to improve things over the coming months and not just pump out new DLC while ignoring major issues.",0.8489547967910767,65,True
+1190000,107199642,76561198045415948,"As an automotive technician in training I think this game so far is fantastic. It really does a good job giving the player a glimpse into my trade without all the potential hazards of real life (although it does make my job look easy). I look forward to future updates and DLC. 
+
+I have a few recommendations for future updates:
+
+[b] 1. More complex repairs and parts [/b] I wish things were a little more complex there are many aspects that aren't in the game that I feel should be. For example there are many connectors, wires, hoses etc. that aren't shown in the game and I think they should. 
+
+[b] 2. Transmission repair [/b]  So far I feel this aspect of the game is sort of over looked and has serious potential. I believe in depth transmission repair would go well like repairing valve bodies, clutch packs, torque converters and various gears. Nothing is more satisfying than tearing down a transmission, with this being said I feel they should focus on both the automatic and manual transmissions and making them there own respective entities (not every car has a clutch and fly wheel).
+
+[b] 3. Air-Conditioning and heating [/b] This would be a great addition to the game as It would introduce new tools and shop equipment to the game in order to repair and recharge the MVAC system of a car with various refrigerants.
+
+[b] 4. More in depth electrical repairs [/b] Electrical repairs in the game are nice but could be so much more realistic. There is a whole lot more that goes into electrical work than just pulling fuses, relays and batteries.
+
+[b] 5. Interior repairs and dashboard removal [/b] This one ties in with a few of my previous recommendations. Interior repairs such as the SRS systems and seat belts would be a nice touch. removing the dashboard is essential for many different jobs such as heating and air condition repair, steering and suspension work (steering column) and gps/entertainment systems repair.
+
+Other than these recommendations and the obvious having more licensed car manufacturers I have to say this game is near flawless and I highly recommend if you like cars and simulator games.",0.8463780879974365,56,True
+1190000,122881677,76561198089028713,"I would recommend this CMS '21 to anyone who wants a simulator that lets you learn and play at the same time.  Now I wouldn't say this game is even close to 100% accurate to actual mechanics, as there are no gaskets, wiring and spark chasing, vacuum hoses to run (or find in some pain in the arse cases), tight spaces and torque requirements don't factor into the job and apparently you always know where the 10mm socket is (the most unrealistic part of the game).  The game will give you an entry level insight into part placement and function, and may peak your interest into certain components that may prompt you to research things you otherwise wouldn't know the question to ask.  After you have (or if you have) a thorough basic knowledge of mechanics you'll get to the point you can just shut your brain off and just relax as you take a rusted jalopy from the junkyard and turn it into a highly tuned masterpiece.",0.844963788986206,56,True
+1190000,215238113,76561199865413026,"I buyed a game
+I start Car Mechanic Simulator 2021
+I build engine for 1 hour
+I spray car
+Car won't start
+
+10/10 wonderful game i recommend it.",0.8427367210388184,72,True
+1190000,97545733,76561197988060375,"This was a hard review to make, I didn't want to hurry into conclusions but with over 25hs in-game I think its about time.
+
+Thing I didn't like:
+* It has the exact same issues that all previous variations had, from the annoying part swapping (where the condition of a part even if the part was extracted from the same car is slower than the required is marked as incomplete) to the ridiculous auctions where its (close to) impossible to get a good deal.
+* The scrapping mechanic (which I think is new) is absolutely broken in a bad way. Each part you scrap gives at least 1 scrap and up to 3 scrap if you hit the correct marker. If you want to max a vehicle out with 3 star parts you have to upgrade each part (individually) 3 times. For the sake of argument I tested this out and I ended up needing 25000 scrap, yeap... 25000. This means you would need to scrap PERFECTLY 8300 part before you can completely max out a vehicle in terms of quality of parts.
+* PlayWay added some sort of crates that are given to the player for free, each crate gives 5 cards and the player gets to choose 2 of them. This mechanic is simply bad... just give me a random drop every time I finish a job or something, opening annoying crates with bad animations is terrible.
+* If you are planning to drive a fast car of the speed track to test how fast it actually goes, well... good luck... Without a joystick, whenever you try to accelerate the car will go on max power and will start slipping everywhere which makes virtually any fast car ""un-drivable""
+* The car pool seems quite smaller than CMS2018, maybe I got unlucky so take this point with a grain of salt. Hopefully this is not a tactic to sell stuff on DLCs in the future and holding back just to do so.
+* WHO thought it was a good idea to remove the examine parts and instead replace it with the grouping examination? The old part examination mechanic was simplified into groups of part (engine, suspension, etc) which makes the process a lot more forgiving and easy to do, but in term we lost the possibility of examining easy and visible parts like the suspension caps. Maybe a key to change between grouped and single mode would be a nice to have.
+* Interior customisation is still missing so don't even worry about that one
+* The parking was removed (or I didn't find a way to physically go there), I really liked that feature to take screenshots :(
+
+What I liked:
+* The shop was simplified with a shopping list and part lookup, its far from perfect but its a great addition
+* New mini-games makes grinding more bearable
+* All feature related DLCs from previous versions seem to be there (tuning, garage customisation, etc)
+* Most cars look stunning!
+* The story quests have some interesting back story that can be really cool. Relating the job to the story told by the owners it fun!
+
+========================================
+
+Suggestions to fix the above:
+* I read some people can get annoyed with the minigames but I love them, maybe make them optional, by playing them you can get extra XP or better part condition
+* The part swapping should be an easy fix, if the part originates from the same car it wasn't asked to be replaced then I should be allowed to put it back in anywhere.
+* The scrapping requirements needs to be tuned down, A LOT.
+* Regarding the crates I'm not sure what to say, I don't like anything that looks like gambling, its just a personal thing but I know some others will probably think alike.
+* If you are playing with keyboard, the game should be able to calculate how fast it can press the throttle so the car doesn't slip and goes everywhere (some users aren't lucky enough to have joysticks)
+* Car pool can be improved, Im sure workshop will make sure this is balanced anyways, but I really liked some cars from the DLCs in 2018.
+* Bring back the old examination tool PLEASE, or at least some way to test all parts of the car without having to remove them completely.
+* Interior customisation <3 a man can only dream...
+* Parking FTW! :D
+
+Hopefully this suggestions reach PW, I love these games, Ive played them a lot with this account and in my old account too. Hopefully Im wrong about the DLC stuff mentioned above, that would really hurt tbh...",0.8927338719367981,351,False
+1190000,163929512,76561198891741954,"I don't know that much about cars. Or at least I did not know almost anything about cars. This game literally taught me within a few weeks enough that I no longer look at cars as spaceships, but actually at least understand something.",0.9376879930496216,258,True
+1190000,148058973,76561198357751052,"~ DIFFICULTY ~
+🔲 My grandma could play it
+🔲 Easy
+✅ Normal
+✅ Hard
+🔲 A challenge to be reckoned
+🔲 In the heat of confrontation, (Only PVP games)
+
+
+~ GRAPHICS ~
+🔲 MS Paint
+🔲 Bad
+🔲 Meh
+🔲 Normal
+🔲 Very Good
+🔲 An original artistic direction
+✅ Beautiful
+🔲 Masterpiece
+
+
+~ MUSIC ~
+🔲 Just filling noises/No music
+🔲 Trivial and uneventful
+✅ Good and/or fitting the game's artistic dispositions
+🔲 Memorable
+🔲 Transcending whispers of a forgotten world
+
+
+~ INTEREST ~
+🔲 I would rather watch paint dry
+🔲 Hard to enjoy
+🔲 Repetitive and/or uninspired
+✅ A good moment
+🔲 Sticking out of the pack
+🔲 You will remember it long after
+
+
+~ REPLAYABILITY ~
+🔲 A one-time experience
+🔲 Only for achievements
+🔲 If you wait a few months/years (or with mods)
+🔲 Definitely
+✅ Infinitely replayable (or almost)
+
+
+~ BUGS ~
+🔲 Never heard of
+✅ Minor bugs
+🔲 Can get annoying
+🔲 Impacts the player's experience badly
+🔲 The game itself is a big terrarium for bugs
+
+
+~ REQUIREMENTS ~
+🔲 You can run it on a microwave
+🔲 Low
+✅ Average
+✅ High
+🔲 NASA computer
+
+
+~ PRICE ~
+🔲 Free
+🔲 Underpriced
+✅ Perfect Price
+🔲Could be cheaper
+🔲 Overpriced
+🔲 Complete waste of money
+
+
+~ WORTH BUYING ~
+🔲 No
+🔲 If you have nothing else to play
+✅ Wait for sale
+✅ Yes
+
+
+~ EXPECTATIONS ~
+🔲 It's a completely different game
+🔲 This game is a scam
+🔲 It's missing many features they announced
+✅ Looks very similar to the steam page
+🔲 Better than expected and/or announced
+🔲 Masterpiece, no patch or feature has to be added.
+
+~ FINAL RATING OUT OF 10 ~
+🔲 1
+🔲 2
+🔲 3
+🔲 4
+🔲 5
+🔲 6
+🔲 7
+🔲 8
+✅ 9
+🔲 10",0.8351225852966309,66,True
+1190000,194418599,76561197970637557,"Lots of fun, oddly relaxing to take a junkyard wreck and bring it back to life.  Playing will actually give you some basic knowledge of the inner workings of cars too.  It’s still pretty simplified though, lots of  parts that work across multiple makes, but I think it’s as detailed as could be practical for a mass appeal game.  I love this game for listening to podcasts/youtube as well.",0.8332128524780273,48,True
+1190000,123727047,76561198097548969,Started playing this sim before starting technical school - this really helped me understand lots about the assembly and parts that go into building different components for the vehicle's systems. I was able to learn the names and placements of the these components so I had  some working knowledge for the classroom that helped give me a good starting platform.,0.8319553732872009,58,True
+1190000,151851275,76561198079484396,"DO NOT get this game if you have an encroaching deadline, family event, social obligations, or really anything that would suffer from your absence in the next week or two because the hours (days?) you will spend doing the seemingly menial tasks in this game are going to dissolve in your hands like a meme raccoon trying to wash cotton candy in a puddle. Only get if you have some free time coming up soon. Remember to eat, go to the bathroom, etc. Sleep won't work though. The sheep are replaced with rubber bushings.",0.8287768959999084,57,True
+1190000,100698471,76561199180615098,"Stupidly addictive. If you wish to have a small game for an hour or two, this isn't happening. I looked at the time and it was 6:30pm. I just looked at the time and it's 11:50pm. I don't know what happened, but I loved it. Buy this game if you want to loose time and never know what the hell happened.",0.8273590803146362,59,True
+1190000,223077473,76561199749637158,very fun but time consuming... i forgot to feed my baby because of the game ( dont worry i fed him after i rebuilt an engine ),0.8257905840873718,51,True
+1190000,129975400,76561197995232990,"I thought this game would be stupid, but its actually a nice, zen-type of meditation game that I'm coming to appreciate as I get older and less twitchy.",0.8754048347473145,91,True
+1190000,113871943,76561198061075972,"There's something relaxing about tearing apart and putting together cars that is actually enjoyable. Along with progression and a decent variety of cars in the base game, it an easy recommend if you don't mind the DLC aspects. For those returning from 2018, there are plenty of improvements that are worth the purchase. 
+
+For those new to the series, you basically take orders to repair cars, use tools to find out what is wrong and of course fix them. You use cash to upgrade the shop and use levels to increase your skill. Eventually, you will buy junk cars from barns, junkyards, and auctions and can restore them. You can also fit the cars with performance parts and upgrade the parts using scrap. That is basically it, but it's oddly satisfying to restore a car or fix one.
+
+For those returning, the changes are nice. They split up the upgrade tree to use money or levels. Money is used to physically upgrade the shop, while levels improve speed and what you can do, such as see values of cars and repair body parts. They added more ways to repair stuff (brake lathe), and added fuse boxes and fuses to fix. There are more fluids besides oil and they may require changing. The case system has been overhauled, so instead of getting parts, it's focused on maps, cash, xp, scrap, or another case. The part levels are replaced by a scrap system, which you use it to upgrade parts.  Repairing is more skill-based than chance, wheel balance is a mini-game instead of a 1 minute wait for balance. There's tire alignment and headlight alignment which adds a tiny bit more to the game.
+
+I do have minor gripes, such as separating parts into electronics, which require a few more clicks to get to the part you need. I wish there was more things you can do with the money, though it would turn it into a different game at that point. Finally, the DLC may irk some people, but if you think about licensing on cars for a moment, it's easy to understand why they have to charge for it. Can always look out for a sale, plus they have workshop support, so your dream car might be in there.
+
+Overall, I've had fun with this game and I keep coming back to play it. Defiantly check it out if the videos interest you.",0.8246157169342041,46,True
+1190000,107022294,76561198359860881,"--{Graphics}---
+☐ You forget what reality is
+☑ Beautiful
+☐ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ Paint.exe
+
+---{Gameplay}---
+☐ Addictive
+☑ Very good
+☐ Good
+☐ It‘s just gameplay
+☐ Mehh
+☐ Go watch paint dry
+☐ Just don‘t
+
+---{Audio}---
+☐ Eargasm
+☑Very good
+☐ Good
+☐ Not too bad
+☐ Bad
+☐ Earrape
+
+---{PC Requirements}---
+☐ Check if you can run paint
+☐ Potato
+☑ Decent
+☐ Fast
+☐ Rich boiiiiii
+☐ Ask NASA if they have a spare computer
+
+---{Difficulity}---
+☐ Just press ‚A‘
+☐ Easy
+☑ Significant brain usage
+☐ Easy to learn / Hard to master
+☐ Difficult
+☐ Dark Souls
+
+---{Story}---
+☐There is none
+☑ Story jobs
+☐ Text or Audio floating around
+☐ Average depends an DLC
+☐ Good
+☐ Lovely
+☐ So much lore
+
+---{ Audience }---
+☑ Young kids (5-9)
+☑ Kids (9-12)
+☑ Teens (13-18)
+☑ Adults (18-60)
+☑ Grandma (60-100+)
+
+---{Game Time}---
+☐ Long enough for a cup of tea
+☐ Short
+☐ Average
+☐ Long
+☑ To infinity and beyond
+
+---{ Grind }---
+☐ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☐ Isn't necessary to progress
+☑ Average grind level
+☐ Too much grind
+☐ You'll need a second live for grinding
+
+---{Price}---
+☐ There is no „price“
+☑ Worth the price
+☐ If u have some spare money left
+☐ Not recommended
+☐ Burning your money is better
+
+---{Bugs}---
+☐ Never heard of
+☑ Very minor bugs
+☐ Minor bugs
+☐ Can get annoying
+☐ Assassin‘s Creed: Unity
+☐ Get a nuke full of bug spray
+
+Very fun game! I would recommend that you buy this game! :D",0.8217231035232544,89,True
+1190000,168803795,76561199280804145,"- Spent 30 mins. dismantling the entirety of a V8 engine to replace 3 pistons.
+- Put it back together in another 30 mins.
+- Turns out a 4th piston was 1% short of being able to work with the others.
+- Dismantling began anew, replaced the piston, reassembly complete.
+- Mistook an older piston for one the first 3.
+- ...Dismantling began anew...
+
+10/10, would nearly go bald again due to stress.",0.8713365197181702,85,True
+1190000,118591379,76561199183408300,"I have to say I am pleasantly surprised with the quality of this game. As a professional mechanic for 6 years and a lifetime automotive enthusiast, I can say this game fully satisfies those interests. It takes all the aspects that I loved about being a mechanic and leaves out things I hated, while also adding in all the things I love about cars as a hobby. The cars and parts are detailed and accurate, but also simplified so as not to become totally unmanageable. The visuals are beautiful, and it's so rewarding to see the results of an old rust bucket being fully restored. 
+
+I would say I'm 100% the target audience for a game like this, but I think a lot of people who wouldn't expect to like a game like this would actually find enjoyment out of it, and you don't need any prior automotive experience or education. The process is intuitive and systematic enough that anyone would be able to do the work / play the game. For those with no background knowledge, I think this would be a fun way to become familiar with how cars are put together.
+
+To the team: 
+
+Thank you very much for your efforts putting together such a great game!
+",0.9206480383872986,121,True
+1190000,232481082,76561198043774583,This game doesn't even come close to the sheer frustration of actually working on your car and I think that's why I love it so.,0.8171275854110718,42,True
+1190000,218745753,76561198405213088,"The game is enjoyable, but they should add more sensors, wiring, or electrical harnesses to make it a bit more realistic and interesting. It would also be great if the bodywork repair process were more interactive.",0.8141286373138428,36,True
+1190000,173475473,76561197990045093,"Not realistic enough, you need to be losing your 10mm every 10s and to end up with 3 spare bolts. Maybe that's just for super hard mode haha!
+
+LOVE this game!!!!! It's great!",0.8113651871681213,43,True
+1190000,116278240,76561198272634090,"Took apart a Supra, realized I didn't have the knowledge to put it back together. Then stood back and enjoyed my handy work. All this game needs is a disapproving father to complain that I don't hold the flashlight steady enough. 10/10 try the demo.",0.8612785935401917,63,True
+1190000,97851605,76561197961543607,"It's really hard for me to recommend this game, I really want to, but i can't.
+For me personally, it has a lot of good things about it, but it has a some downsides that is too severe to be enjoyable.
+I'd give it 2,5 stars out of 5.
+
+I'll go over the positives first.
+
+- The graphics is a quite decent improval from the previous game.
+- There's a good amount of cars in the base game and many of them fairly modern cars, 
+with a decent mix between asian, european and american cars, including some popular tuner classics.
+- Multiple car parts is now paintable, including but not limited to, engine blocks, brake calipers, engine covers and many more.
+- The new auction system is wonderful, no more having to go through every single car on auction, to get to the one you want and also lots more cars on auction every time. Simply chose the car(s) you want and start bidding.
+- Fluids (very basic) and minor electronics (no wiring) has been added to the game which is nice, but this will also be taken up in the negative list.
+- The shopping list is now a lot more useful. You can simply open the shop, click an item in the shopping list and it will do the search for you.
+- Some features that was added as DLC in previous games is now part of the core game, such as tuning and garage customization.
+- Wheel and headlight adjustment has been implemented and is a lovely adition to the game.
+
+All in all, there's some great additions and changes to the game compared to previous games.
+But unfortunately, not all of them are positive.
+
+The negatives:
+
+- The minigames:
+
+A few minigames has been added to the game, but instead of being fun, they just feel like a chore.
+- The repair minigame makes repairing, or attempting to repair items take forever. Each individual item need to be repaired with a minigame, which depending on your skill and the state of the item, can result in up to 5 rounds (if you don't fail at all) per item. Which is not fun when you have an entire car you stripped down to parts and need to repair it. 
+- The scrapping minigame, is basically the same exact game as the repairing, except the bonus targets is limited quite a lot.
+I did one car as a fully upgraded 3 star car with every item on it upgraded. The amount of scrap needed goes in 5 figures. And since you only get between 1 and 3 scrap per item, this means that you have to salvage literally thousands of items to fully upgrade a car. This is absolutely ridiculous and whoever had the idea to implement this, should really reconsider their career in the videogame industry.
+- The wheel balancing minigame, this was nice, the first 10 times. After that, you realise how much you miss being able to just slap the wheel in the machine and let it spin while you work on the car. It's just dumb.
+
+Enough with the minigames, on to the other negatives.
+
+- The crates has been revamped. Now we get the same ""loot box"" feel, but with 60% less enjoyability. It will give you 5 cards, and you get to chose 2. 
+- The barn find maps has been limited to almost non-existent. It was part of the charm to be able to go out in these dark musky barns and see what cars you might be able to get.
+- Speed test track, same exact flaw as in CMS 18. If you don't have slick tires on your car, it's gonna be like driving in soap.
+- Where's my damn parkinglot? I wanna go there, not just store my cars in the empty void.
+- Adding paid DLC literally on release day is really just a big middle finger to the customers, this should have been implemented in the game or at least kept it away for the first month or 2. 
+- LOTS of tuning parts missing, again. Developers promised to add them, again. 5 updates so far, not one single tuning item has been added. Based on CMS18 where they also promised to add the items and never did, i would expect never seeing the missing items.
+- Some cars have tire sizes as standard that can't be bought, which is kinda irritating, cause ""unrealistic wheel sizes"" has to be turned on and can easily result in clipping issues.
+- The XP rate seem severely nerfed compared to previous titles.
+- Income from selling flipped cars is a lot lower than previously. 
+- The fluids is a nice addition, but when almost every job that comes in need all fluids replaced and/or topped off, then it becomes a pain. Also, the system is so basic that it may as well have been left out.
+
+In conclusion, the game does have it's positives, but there's just so many negatives.",0.8109766244888306,105,False
+1190000,99852363,76561198392495941,"I think it's a massive upgrade over 2018.
+
+Lots of QoL changes. They added fluids to be drained and changed (besides oil). The shop is much easier to navigate. Shopping lists allow you to click on the item and jump to it immediately, making buying faster and less of a hassle. Graphics are a bit better. I love the new examine mode with things being grouped together instead of clicking each and every individual part. I wouldn't say it's a reskin of the previous game unlike certain franches (*cough* EA *cough*) that charge $60 for the exact same game.",0.8107627630233765,54,True
+1190000,161680973,76561199233098836,This is a great game for car people or people who want to get into cars it teaches you how to work on cars from the simplest things like changing oil to full blown changing your entire engine.,0.810549795627594,38,True
+1190000,134342532,76561198215449587,"I recommend this game to people who are passionate about cars and simulation games.
+
+If you want to have real car models, the DLC are very interesting, as well as the mods available.
+
+If you don't know anything about mechanics like me, it's a very good way to learn by understanding better how a car works, where the parts go, how to diagnose some problems.",0.8104605674743652,46,True
+1190000,102054097,76561198058799912,First off let me start by saying I bought Car Mechanic simulator 2018 about a month ago and I love it.  I bought it and then realized that 2021 was already out.  So I purchased it.  I am not a car guy  at all!  I could not tell you how to do anything other than how to change a tire in reality.  But this game is freaking awesome.  It is fun and educational.  The depth of simulation is by far some of the best I have seen in a long time in a sim game.  I would have liked to of seen the ability to paint the car by hand and the ability to sandblast body parts etc and to manually wash buff and detail the interior but we can hope the dev will implement them in a future release.  On a scale of 1-10 I would give this game a 9.5.  If you are looking for a fun way to pass time and maybe learn a thing or two this game is for you.  I especially love using all the tools at your disposal to diagnose mysterious noises coming from a customers engine.  Hell I now feel like I know how to fix any part on any car now dare I say I am now an Expert?  Why not.  Just today my moms car was making a weird noise and I grabbed my belt kicked the tire and was like I think your rubber bushing is worn out BAHHHHH... No but seriously this game is worth every penny.  So if you are into cars or want to become a car expert in 5 hours like me add this game to your cart!!!  Seriously thinking about opening up my own shop now.,0.8092150092124939,38,True
+1190000,236258826,76561197972319239,"Very educational.
+Took apart my mother's car and put it back together quite easily. The mechanic charged $4,500 to repair the damage I did but I felt very confident doing it.
+
+But seriously, I love this game and it's very relaxing.",0.8086225986480713,45,True
+1190000,112869257,76561199051190238,"This is one hell of an addictive game.  As a mechanic myself there are a few issues but i am just niggling here.  Adding gaskets and grease would make the game much harder.  However, as it is i love it.  Close to reality, plenty to repair and you can pep the cars up.  Earning cash is easy so its 5 stars from me",0.8075478076934814,46,True
+1190000,128894576,76561198798605742,"---{ Graphics }---
+☐ You forget what reality is             Check mark:☑ 
+☐ Beautiful
+☑ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{ Gameplay }---
+☐ Very good
+☑ Good
+☐ It's just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ Audio }---
+☐ Eargasm
+☐ Very good
+☑ Good
+☐ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{ Audience }---
+☐ Kids
+☑  Teens
+☑ Adults
+☐ Grandma
+
+---{ PC Requirements }---
+☐ Check if you can run paint
+☐ Potato
+☑ Decent
+☐ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{ Difficulty }---
+☐ Just press 'W'
+☐ Easy
+☑ Easy but has a small learning curve
+☐ Easy to learn / Hard to master
+☐ Significant brain usage
+☐ Difficult
+☐ Dark Souls
+
+---{ Grind }---
+☐ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☐ Isn't necessary to progress
+☑  Average grind level
+☐ Too much grind
+☐ You'll need a second life for grinding
+
+---{ Story }---
+☐ No Story
+☐ Some lore
+☐ Average
+☑ Good
+☐ Lovely
+☐ It'll replace your life
+
+---{ Game Time }---
+☐ Long enough for a cup of coffee
+☐ Short
+☐ Average
+☑ Long
+☑ To infinity and beyond
+
+---{ Price }---
+☐ It's free!
+☑ Worth the price
+☐ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{ Bugs }---
+☑ Never heard of/not seen any
+☐ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{ ? / 10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☐ 7
+☐ 8
+☑ 9
+☐ 10",0.8071086406707764,100,True
+1190000,154762524,76561199203377909,"Really good game, I find it hilarious how everything goes so smoothly in this game and is quite relaxing to play, but in real life whenever I try and fix even the most basic things in my car, its nothing but getting really mad at the car, swearing and breaking stuff. Its the complete opposite in the game. I would definitely recommend it, especially if you want to learn more about how a car works. Just don't expect things to go so smoothly if you try fixing your own car lol. I would also love to see the developers add a Chevrolet/General motors DLC.",0.8067954778671265,40,True
+1190000,114992813,76561198866319534,"---{ Graphics }---
+☐ You forget what reality is
+☑ Beautiful
+☐ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{ Gameplay }---
+☐ Very good
+☑ Good
+☐ It's just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ Audio }---
+☐ Eargasm
+☐ Very good
+☐ Good
+☐ Not too bad
+☑ Bad
+☐ I'm now deaf
+
+---{ Audience }---
+☐ Kids
+☑ Teens
+☑ Adults
+☐ Grandma
+
+---{ PC Requirements }---
+☐ Check if you can run paint
+☐ Potato
+☑ Decent
+☐ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{ Difficulty }---
+☐ Just press 'W'
+☐ Easy
+☑ Easy to learn / Hard to master
+☐ Significant brain usage
+☐ Difficult
+☐ Dark Souls
+
+---{ Grind }---
+☐ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☐ Isn't necessary to progress
+☑ Average grind level
+☐ Too much grind
+☐ You'll need a second life for grinding
+
+---{ Story }---
+☐ No Story
+☑ Some lore
+☐ Average
+☐ Good
+☐ Lovely
+☐ It'll replace your life
+
+---{ Game Time }---
+☐ Long enough for a cup of coffee
+☐ Short
+☑ Average
+☐ Long
+☐ To infinity and beyond
+
+---{ Price }---
+☐ It's free!
+☑ Worth the price
+☐ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{ Bugs }---
+☑ Never heard of
+☐ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{ ? / 10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☐ 7
+☑ 8
+☐ 9
+☐ 10
+
+",0.8066646456718445,145,True
+1190000,117815642,76561197972219965,"I've enjoyed playing this game, finished all the story missions, and mostly buying junkers. I either just get them running or fully restore them. I get the most satisfaction out of restoring complete junk to or near their former glory. I mostly avoid the the car show room, except for getting achievements. what's the point?
+Now, as for actually restoring the cars, there is some issues.  All the operations involved in a vehicle are absent; electronics, vacuum, air intake, exhaust, fluid delivery are all only represented by various parts.  The actual operation of said part, where and how it's connected,  is only assumed. You're supposed to know this already, I guess. Some parts aren't even connected to their counterpart. There's no hoses, no wiring harness, cables, just the assumption that they work (somehow). I guess the brake master cylinder works via bluetooth, connected to the 4 wheels.  
+
+Some other peeves  about this game are lack of engine animation, your shop is dirty as hell, but thankfully we learned how to clean, finally. Customers? Shop employees? No, no other NPC's in which to interact . I should have my own show room, in place of the current rent a space storage. Most of the engines sound really bad, and there should be more options for driving.
+I give it a 7/10",0.805931806564331,40,True
+1190000,177616593,76561198816088389,"Needs Multiplayer though so your friends can enjoy working on cars with you and more jobs!! Maybe a parts store side of things to. 
+
+Amazing game though 10/10 recommend",0.805531919002533,48,True
+1190000,120393037,76561198052564937,"It's weird to recommend this game because it's much more useful for someone who knows absolutely nothing about cars than for someone who has experience and is a fan of car repair. If you don't even know how to change the coolant, or what an alternator is then I recommend getting this game ASAP. It will teach you all the BASICS about car maintenance and repair. It shows you where all the MAJOR components are for the Engine, Suspension, Drive train etc. but it won't include anything detailed such as wiring, electrical system or hoses. It's the perfect game for a hobbyist who wants to learn more about cars and has plenty of stuff to do to keep you entertained for a long time.
+
+The Bad:
+
+The game doesn't offer enough information about the components or what they do, for a truly learning experience it should have plenty of information of what each component is and how it works. Right now the game is on a limbo where it is too basic in most areas but at the same time the lack of info can make it complicated for a beginner.
+
+The DLC is bad, some of it like the Mazda and Lotus DLC only include 2 cars and that's it. I think the Nissan one is better though. 
+
+Quite a bit of a grind when getting started, making money and XP is really hard at the beginning and it will take some time before you can do cool stuff like car restoration from the Junk yards and barns.
+
+Overall, I recommend this game. It has a lot of stuff to do and it can teach you the basics, but it's still a long way from a proper mechanics game. I wish in the future there is a much complex (Closer to real life) engine bay with all the components even if there are less variety in cars. It also needs an encyclopedia with a parts list, and information on each component for people learning for the first time.",0.803394079208374,46,True
+1190000,97533241,76561198098717872,"So far in the amount of hours I put into this game, I have been enjoying it. There have been quite a few improvements over the previous iterations of car mechanic simulator. I have some pros and cons ill mention.
+
+Pros (and also new features added to the game)
+
+- Ability to basically walk freely around your repair area/gas station outside which is nice. (This feature was not present in CMS18 at all).
+
+- New and added to CMS 21 is new fluids such as windshield wiper fluid, brake fluid, power steering fluid and etc. 
+
+- A new car wash station.
+
+-The ability to repair body parts as I don't think this was an option in CMS18 besides the normal car parts.
+
+-Cars handle much better now with controling them on tracks/roads compared to CMS18.
+
+- Rusted bolts which you have to spray WD-40 to get them to unscrew.
+
+- Added a sandbox mode which is really nice.
+
+Cons (Really only two so far):
+
+- Only 2 bay-lifts in garage. In CMS18 there was an option to get 3 bays to have three seperate cars in your workshop. Not too sure why this was removed and taken out.
+
+-Car wash is not really that interactive and you just click a button and it does it for you which I would rather be given the option to do it myself as IRL with taking the hose/soap and moving it around with my mouse.
+ 
+All in all, I would recommend this game to anyone who likes dealing with cars and repairing them and playing around with anything related to how a car functions and works. You don't have to be a true mechanic to play this game. If you have CMS18, I would still pretty much say its worth getting CMS21 as well. I am sure existing and new mod cars are coming to the new version as well. CMS21 also seems highly more optimized and runs much better compared to CMS18 and its first couple weeks at launch.",0.8029218316078186,47,True
+1190000,197929398,76561198236857490,"Pretty cool.  I feel like if you don't know crap about cars, you'll actually learn some really practical, good basic things about them in terms of parts and repairs.",0.8017181754112244,36,True
+1190000,153555891,76561198248036676,"Your enjoying working on your car whilst listening to music, you reach for the 10mm spanner, its not there, you search the whole garage for the 10mm and its no where. Then you wake up and remember it was all just a bad nightmare.",0.798035204410553,36,True
+1190000,196510961,76561198272461899,"As someone with real world experience, no, it isn't close to reality, but it does a good job of mimicking the time it takes to do certain jobs. Lifting the hoist up and down repeatedly, forgetting a part, missing something when putting it back together... all stuff that happens in the real shop. The fun is in buying salvage cars or auction cars and fixing them up. I love that you can also find cars in barns and junkyards... gotta have some jank if you're a real car enthusiast. It's a satisfying game if you like fixing up cars, and want something to relax with in the evenings.",0.7977908253669739,42,True
+1190000,158094765,76561198018746582,"Few considerations:
+1. If you're looking to increase your car mechanics knowledge this game is for you. Play a good amount of hours, then inspect a car in real life and you're going to easily recognize its components.
+2. This game is great to waste hours and relax. There are different ways you can play this game. Personally i like to grab cars from junkyard and make them new and shiny.
+3. If you grab the Drag Racing DLC you're going to have fun tuning your cars so that they can perform against other cars in drag race.
+4. The only thing that's missing from this game in my opinion is a city environment where you can drive your car and enjoy it as if it was really yours, this makes it almost pointless to own cars in the game. Would be amazing to get in your car, get on the road and drive until the city or whatever (there is some material on the workshop though). That would make great multiplayer content aswell. Nontheless you can use your cars to do laps in the race track, go in the speed track, test track or drag racing (DLC) which can be fun.
+
+Overall if you like to mount and unmount stuff, repair things (or create) to make them shiny new or in good condition, and you want to expand your cars knowledge I highly recommend this game to you.",0.8455700874328613,52,True
+1190000,219595931,76561198966324797,"Bought this game to learn more about cars. Now I know where every rubber bushings goes to.
+",0.794420063495636,33,True
+1190000,124280793,76561197997667747,"As a professional mechanic, this game gets most things right, but the little inaccuracies drive me crazy. However, it is a game, and i get to build a drive hotrods, so i can live with the little things.",0.7928808331489563,52,True
+1190000,167287291,76561199074561008,"- Buy car from junkyard
+- Restore completely
+- Go to start it
+- ""Mising item - Clip B"" 
+- ""Damn.""
+
+10/10 would miss those clips again",0.8920563459396362,101,True
+1190000,212909154,76561198047738039,"I play this game with my 3 year old son. He loves two things, dinos and cars, and boy does he love these cars! He's the only 3 year old I know who critiques others about the right way to take off a tire. Best money I have ever spent",0.791634738445282,34,True
+1190000,131372391,76561198019899179,"Excellent game with incredible detail and very enjoyable gameplay loop. Also very educational. Very smooth and doesn't have the simulator janky framerate curse. 
+
+I am no car nut IRL. Hell, I don't even have a car. I was a damn potato before CMS 2021. Now I know more about cars and car maintenance than my (also non-car nut) car owner colleagues. 
+
+Only negative point I found is that the tyre balancing minigame isn't very exciting and tells me nothing of how the actual thing works, but that's it.",0.840575635433197,60,True
+1190000,170656741,76561199027342129,I tried to run a garage in real life but i failed and lost money and friends. This game lets me carry on living that failure.,0.8403723239898682,55,True
+1190000,182034873,76561199197266378,"hard to call it a ""simulator"" because so many key aspects are missing. like A/C system, emissions, wiring (harnesses) and much more. however, this game is still wonderful and going in the right direction. i hope there will be a future installment, perhaps with online multiplayer.",0.7872568964958191,51,True
+1190000,204802903,76561198955944337,"Great product, really good if you want to get to know cars better. If used from knowing almost zero about cars, to actually have an understanding of how it works.",0.786457359790802,31,True
+1190000,140942583,76561198050393179,"Really is a great game. It's an easy chill sim that you don't need to stress over. Just go at your own pace. My only criticism would be that its a little over-simplified. Understandably so, given that the average person who doesn't know much about cars can still jump in and have a great time. But it was a bit disheartening as someone with an automotive background to see how watered down some parts of it can be. It would be really cool to see more component models added so every car doesn't share the same handful of drivetrains, or that certain cars didn't have blatantly incorrect suspension setups, etc. 
+
+Honestly a hardcore mode or something that really expands on the automotive experience would be really fun. After a while it sort of just turns into a repetetive ""point and click"" as youre doing pretty much the same process across all vehicles.
+
+Would recommend regardless.",0.7828829288482666,30,True
+1190000,148070829,76561198103917090,"You added a perfectly good model of the forklift to the game, but did not give us the opportunity to at least run circles around the garage on it. Developers, do you even have a heart?",0.77998286485672,28,True
+1190000,180903132,76561198126457122,"Cool game if you want to relax. I just mute the game music and play my own, but keep all the other sounds. If you're wondering how accurate the cars are, I wouldn't say it's 1 to 1, but the cars are very similar to real ones. 
+
+Since I've started playing, I've noticed the parts in real cars and thought to myself: ""Huh! I know what that is and I can probably take it out and replace it with a new one.""
+
+Even if the game had nothing else I enjoyed about it (and there are plenty of them), I would still be satisfied with just that.",0.7796019911766052,28,True
+1190000,205776482,76561198052662472,"if you are on the sidelines and want the whole shade tree mechanic experience, this game rocks. lost mobility in my back but this game keeps my love of buying restoring and selling cars alive.",0.7781448364257812,33,True
+1190000,97953123,76561198046921710,"My real life car was recently rear ended and totaled. I know nothing about cars but needed to buy one quick. This game gave me some perspective. I just bought a car I found by myself and my mechanic says I found a very good deal, especially for the crappy market right now with Covid. I imagine simulators like this are paving the way for video games to eventually become a significant part of our education system due to their ability to make learning more engaging.
+
+My main complaint is that it isn't clear to me when it's worth it to repair parts instead of buying new ones, because the order summary isn't detailed enough. It's also really annoying to have to rearrange similar parts like spark plugs and pistons after reassembling an engine simply because I had to take them all out and didn't put them back in the same spots. Actually this is the main reason I think I'm going to stop playing after I finish this van story mission. That and I might just be tired of thinking about cars for the past two weeks.",0.7779102325439453,42,True
+1190000,102261177,76561198085959490,"Much better than CMS2018! Within 20-25 hours, you'll have unlocked most skills, upgrades and earned enough money to restore classic cars from barns/auctions/junkyard. The new parts list system is such a time saver. 
+
+The game became more fun and now has less grind.",0.7757827639579773,31,True
+1190000,121022614,76561197961698234,"This game is pretty fun. It has some quirks but I think it's a matter of balancing the level of detail.
+
+Good things:
+* Getting to take apart and reassemble various cars is the main draw here.
+* You get to see a lot of different components (and different types of components) and learn how they work with the rest of the components.
+* ""Story"" cars have amusing backstories.
+* Generally pretty easy going. Has enough handicaps to allow you to easily repair most cars (as long as you can find all the broken parts).
+* A good variety of cars, from modern to 50+ year old models, and lots of variety in the types/origins - Japanese, American, German/European; muscle, sports, standard passenger cars. Although real-life names aren't used (except in DLC and Workshop content), it's often clear where the inspiration comes from.
+
+Bad things
+* Some stuff is simplified for sure. For example, there is no implementation of things like brake lines. If brakes aren't working, you can just replace the discs, calipers, pads, ABS Pump, and ABS unit (name?). No transmission fluids; just oil, washer fluid, brake fluid, power steering fluid.
+* It seems like some of the translations/objectives are somewhat unclear. For example ,""paint with factory paint."" Does that just mean ONLY the default factory paint assigned when you go to the paint shop? Also, if the driver doesn't want their company/dad to know the car had to be repaired, why would painting it a slightly different color be acceptable?
+* Any parts that are damaged just show up as rusty, and if you inspect them, you learn their ""condition"" percentage. Personally I would like a little more variety in this, as in real life, a new part that was damaged in a recent accident wouldn't just be completely rusted out. Maybe show bent or cracked parts? Idk - I'm not a car repair expert.
+* Why is it that some kinds of parts just can't be repaired? It makes sense for something like Brake pads. But muffler components?
+* Adding a lot of Workshop content makes the ""junkyard"" and ""barn"" unusable. If you download a pack with 30 different varieties of Ford Mustang, every other car/part you find could be some version of a Mustang, when you might be trying to find components from a different particular car model. would like to have an ""activate/deactivate content"" menu.",0.772707998752594,26,True
+1190000,140770432,76561198147000686,"The creators took their time to create a realistic simulation of repairs. I have repaired a lot of vehicles, and this simulator is really close to spot on! I enjoy the graphics, game play, and the ease of use for all of the tools. Grab a wrench and get to unscrewing. These cars won't fix themselves!",0.7724694609642029,31,True
+1190000,178676576,76561198972944335,"This game fixes my soul, I had some rough times and I thought I couldn't make it until I bought this game. It's so peaceful, when I have emotional problems, I fix it with logic and in this game, it's just pure logic, everything has instructions, step-by-step guide, it's perfect. I love the tweaking, the grinding, and the engines roaring. This game is a masterpiece for car enthusiasts, I highly recommend.",0.7637275457382202,26,True
+1190000,131233087,76561199045692662,Amazing game to play. It never gets boring. The game also learned me a lot more about cars. I would really recommend it for people who are searching for a fun and easy game to play. You will learn the basics of a car so fast.,0.7636458277702332,43,True
+1190000,121854005,76561198012513888,"If like me, you always wanted to know a little more about auto repair and have a basic understanding of how things are put together... you may find this to be a real rabbit hole. Between leveling up so you can move/wrench/repair faster... to upgrading your garage to fit more vehicles and tools for specific operations. You start small and work on basic repairs, building to full engine swaps and performance rebuilds. This was a diamond in rough for me. (Plenty of licensed DLC too!)",0.7613057494163513,31,True
+1190000,195236381,76561199140808677,Extremely fun game. No real life application though. I got overly confident from my 100 hours of playing and decided i was going to take my cars engine apart and put it back together. I have been riding a bike for the last 8 months while my car sits in pieces in my garage,0.7601751089096069,29,True
+1190000,192379455,76561198115481792,"Liking the game. Do wish there was a game mechanic/mini game for draining amd filling the gas tank as well as the fuel fill hardware included in the build, it doesn't make a lot of sense to me that you NEED to fill the windshield washer fluid but don't need to even think about gas. Would also like to see more customization/ repair intricacy in the interior. Maybe some sound system customization/upgrade components. It does make me laugh that there is no a/c compressor in the engine builds or that there are zero hoses for vacuum lines, coolant lines or even power steering but the hard components are all there. Oh and you get charged if you forget to drain the brake fluid before removing the master cylinder  (annoyingly called the brake servo here for some reason) but not if you remove the brake calipers. Finally would LOVE to see some Honda DLC especially if they include the 8th gen civic sedan and coupe with both the R18A1 and the SI K20 engines. Would be cool to see a Subaru DLC as well.",0.7569900751113892,28,True
+1190000,189967683,76561199015241164,"This is a really awesome game. It teaches you a pretty solid understanding of car mechanics. I found myself using the knowledge of the game on my car in real life. One thing I wish this game had is a online/offline racing option and better driving physics. I am aware of the drag racing DLC, but I really found the game lacking in the area of dynamic races. I would really like to see different tracks that aren't just straight lines. Another thing I noticed that could use some improvement is the driving physics, I don't really know exactly what is missing but I just feel like the cars don't operate in a realistic way. I would give this game a solid 8/10 and would definitely recommend it despite the few flaws it has here and there.",0.7558184862136841,32,True
+1190000,115653043,76561198139815184,"I knew less than nothing about cars. 
+As far as I was concerned magical pixies sprinkled fairy dust into the engine to make it work. My basic understanding was that you use the key, the engine makes a noise, you move. Simple. 
+
+After a little under 40 hours in this game, I STILL no nothing about how cars work, but I can tell you what parts you need for a Zonda V12 engine.
+
+Recommended.",0.7545989751815796,28,True
+1190000,218307170,76561198194218045,Best simulator game I played so far. I felt like I'm a real mechanic. Now I got so interested in learning automotive engineering because of this game.,0.753466784954071,27,True
+1190000,226681146,76561198007699413,"I was just looking for a new puzzle game where I could move pieces and connect them together in a satisfying way, with relaxed pacing. I knew close to nothing about cars. I had very little interest in cars and even less interest in their mechanical parts. I don’t even drive. I would never have guessed that I’d enjoy this game so much. 
+
+It is definitely not for everyone, but if it’s for you, you’ll love it.",0.7523139119148254,31,True
+1190000,153548917,76561199208319989,"IRL i dont have any yellow glowing parts that i didnt put back on the car or a notification telling me somethings missing so i just start it up and drive off without the parts i didnt realize i didnt put back on the car, 10/10 would recommend putting all the parts back on the car",0.8022419810295105,45,True
+1190000,101406448,76561198087096450,"Absolutely amazing love this game!
+
+This with a few older cars and just have a huge Verity of cars would be epic for sure.
+
+Personally I think a co-op option would be awesome to run a garage with a friend would just be a game that wouldn't be matched 😉",0.8021737933158875,42,True
+1190000,98907585,76561199071315001,"CMS2021 is much cooler and has many options and better graphics lovely, tho the developers of the game should listen to the community.
+
+I would suggest to a CMS game to add rotor engines if it's possilbe like the elctric motors.",0.7517053484916687,29,True
+1190000,182776685,76561199111326029,"---{ Graphics }---
+☐ You forget what reality is
+☑ Beautiful
+☐ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{ Gameplay }---
+☑ Very good
+☐ Good
+☐ It's just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ Audio }---
+☐ Eargasm
+☑ Very good
+☐ Good
+☐ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{ Audience }---
+☑ Kids
+☑ Teens
+☑ Adults
+☑ Grandma
+
+---{ PC Requirements }---
+☐ Check if you can run paint
+☐ Potato
+☑ Decent
+☐ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{ Game Size }---
+☐ Floppy Disk
+☐ Old Fashioned
+☑ Workable
+☐ Big
+☐ Will eat 10% of your 1TB hard drive
+☐ You will want an entire hard drive to hold it
+☐ You will need to invest in a black hole to hold all the data
+
+---{ Difficulty }---
+☐ Just press 'W'
+☑ Easy
+☐ Easy to learn / Hard to master
+☐ Significant brain usage
+☐ Difficult
+☐ Dark Souls
+
+---{ Grind }---
+☐ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☐ Isn't necessary to progress
+☑ Average grind level
+☐ Too much grind
+☐ You'll need a second life for grinding
+
+---{ Story }---
+☑ No Story
+☐ Some lore
+☐ Average
+☐ Good
+☐ Lovely
+☐ It'll replace your life
+
+---{ Game Time }---
+☐ Long enough for a cup of coffee
+☐ Short
+☐ Average
+☐ Long
+☑ To infinity and beyond
+
+---{ Price }---
+☐ It's free!
+☑ Worth the price
+☐ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{ Bugs }---
+☑ Never heard of
+☐ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{ ? / 10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☐ 7
+☐ 8
+☑ 9
+☐ 10",0.7513141632080078,65,True
+1190000,212594463,76561199055672215,"Really freaking fun game. I love working on cars, I love driving cars, I love looking at cars, I love cars. However, I never went to automotive school, so my mechanical knowledge is limited to youtube videos, advice from mechanics I know, and fixing what needed to be fixed on my own cars. The benefit of this game is that I can actually get a better understanding of the fundamentals of how a car is put together and how to take it apart and put it back together. It's addictively fun, while still being educational. 10/10 game.",0.7492409348487854,24,True
+1190000,147725161,76561198001181273,"This game is an excellent simulator, for someone like me who knows nothing about cars. Not sure how accurate it is but I feel I'm learning a lot!
+Some of the story missions are interesting, it would be nice to get a little message of thanks when you finish a story job though. It would be much more immersive and it's nice to be thanked for doing a good job (I get really sucked into being the mechanic)
+
+The only main things I have an issue with are below:
+
+- I'm almost max level and getting parts from the junkyard to salvage is just not worth it.
+I recently decided to go to the junkyard and pick up everything. I repaired what I could and salvaged the rest.
+It took me nearly 2 hours. 
+There needs to be an auto repair or auto salvage at higher levels. It's just not worth anyone spending enormous amounts of time on the mini-game to save a few credits.
+Time is money after all.
+
+- The above leads into the issue with the Warehouse. What's the point of having it if you can't use anything in there without it being in your inventory?
+At the bare minimum, I'd like a little icon when installing a part, to show if you have one in stock in the back room. That way, I'd use it all the time. At the moment I'm lugging around 200+ parts that I repaired just so I know I have them.
+
+- The Dyno doesn't do any explaining on how to use it. I've no idea how to tune a gearbox and I struggle with it. From what I've read elsewhere, other people struggle too. Great for people who know what they're doing. Not at all intuitive for people who don't, which means we just won't use it.
+
+- If you have a race track, you need to fix the driving mechanics because they're incredibly clunky. I get it's not a racing sim and I respect that because the mechanics side is wildly fun, it's just a thought. Also races would be great if that's an area you would delve into in the future.
+
+In summary, this is an excellent game that I can relax and play for hours on end. It just needs a couple of QoL tweaks to be perfect.
+
+8/10
+",0.7486366033554077,26,True

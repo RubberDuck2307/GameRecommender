@@ -1,0 +1,1444 @@
+appid,recommendationid,author_id,review,weighted_vote_score,votes_up,voted_up
+289070,98783323,76561198393909235,"To bypass 2K dumb and greedy launcher which causes crashing or fps problem:
+Library -> Right click on Civilization VI -> Properties -> Advanced Launch Options box -> Insert this line
+
+""C:\Program Files\Steam\SteamApps\common\Sid Meier's Civilization VI\Base\Binaries\Win64Steam\CivilizationVI.exe"" %command%
+
+(Note: the line is Steam folder by default, if you change your Steam folder location, customize the line to your Steam folder location; if you want to play the game with DX12, change CivilizationVI.exe to CivilizationVI_DX12.exe)",0.9835833311080933,1202,True
+289070,119389698,76561198074235567,"I have 2400+ hrs in this game. I have been playing versions Civilization since 1996. The problem isn't the game, it's the publisher. 2K placed a launcher on top of the Steam launcher, so you are forced to sign up to data mining activities. Up till the 2K launcher was in place the game was stable and I never had any issue with mods. Now the game consistently CTD and when it does load, will not load a saved game. 2K ask that players uninstall the game, clean all the related files from their pc and reinstall. Thanks. Proof that you don't care and the uninstall exe isn't optimised to clean the registry and hd properly. All so 2K can data mine you. This is just unacceptable and anti-consumer. Thus I can not recommend the game. Don't be fooled people, they don't care despite their marketing and have already moved onto the next big game to make money from.
+To Sid Mier and Firaxis. Your names are being dragged through the dirt. Is this what you wanted?",0.9526855945587158,1377,False
+289070,197096591,76561198019191060,"If a developer changes the EULA AFTER I have purchased the product, I should either be able to continue playing without agreeing to the EULA (with no updates to the game) or offered a full refund. When purchasing I agreed the the EULA at time of purchase, not the one forced on me later.
+
+Forced arbitration should be illegal, not sure how it isn't.",0.9522978067398071,1661,False
+289070,127028468,76561198354323575,"As a cybersecurity professional , I would classify this game as malware, or at the least adware.
+Why? It opens up a number, at least 10 when I checked, of connections to various points on the internet which have no purpose in running the game. They are only there so the vendor can spam you with advertising, track you, or for other unspecified activities. 
+As such, I can NOT recommend this game. 
+
+To verify, I disconnected my computer from the internet. The game ran fine without the advertising and tracking. 
+Then I connected back to the internet, and launched the game. The game opened at least 10 connections(!).
+Then, while still connected to the internet, I blocked the game's network-connecting executables in the firewall. In such a case, the game behaves differently, apparently it sees there is an active connection so it runs for a while, then when it cannot make it's for-bad-purposes network connections, it terminates and you can't play. 
+This is bad behavior that I would only expect from spyware and malware. I hope the vendor fixes it so the software runs in the manner they declare - it is supposed to not require network connectivity after the initial run as they describe in the System Requirements. 
+Steam should be reigning in this behavior as well.",0.9470992088317871,2247,False
+289070,35599147,76561197972738236,"tl;dr: Just play Civ V instead.
+
+Well, I've been trying to love this game for 642 hours now (as opposed to 3532 hours wasted/enjoyed in Civ V). Some observations about this game as it stands alone, now that the adjustment period from Civ V is out of the way:
+
+ - AI's military tactics are still extremely weak. It does not assemble its units for advantage, attack when it has the advantage, or defend its cities effectively. You'd think a fundamental goal for any game like this would be to have fronts naturally develop, as in a real-life war. Nope. Scattered, random skirmishes that the AI always loses. You can run the map with 1-2 infantry or cavalry units, plus 1 artillery.
+ - Diplomacy mechanics bring nothing to the game. If you so much as defend yourself or retaliate against an aggressor, as one does in war, you're branded a warmonger. Were the Allies warmongers in WWII for conquering Germany? Leaders relentlessly spam you with their disapproval, consuming ridiculous numbers of UI-animation seconds before you can esc/cancel with each one. Despite claims that leaders approve of certain things, it seems to be an either/or, all-or-nothing, hair-trigger mechanism. A leader will love you one turn and denounce you the next, because they expected you to have one more military unit that turn or something. There is no nuance, spectrum, or ""scoring"" to this system, as far as I can tell, contrary to the claim that there are several levels between ""friendly"" and ""denounced."" It's a waste of effort to try to get along with everyone while trying to win a science or cultural victory. Just let them inevitably declare war and fight them off.
+ - Firaxis has figured out how to make leader interactions annoy you further and waste even more of your time. Clearly, you want to be spammed with an inconsequential 30-second message for ""good job"" ""or ""I hate you"" several times each turn - often interrupting your next click - and wait an additional several seconds for it to respond to multiple Esc presses.
+ - The AI engine is SLOW. I've played on an i7-5930k and an i7-6850k, and on both, it takes up to a minute to process AI turns in late game. I think most hours spent playing this game are for the ""please wait"" stage. Why Firaxis cannot take advantage of parallel processing, or cache possible scenarios in advance while you're taking your turn, I do not know. There should at least be an option (or default) where other player moves have faster animations so that you can see what's happening without losing time, without making all the animations bizarrely short like in quick combat.
+ - The lack of automated builders brings more tedium to the game than it does craftsmanship. In late game, I really no longer care about the details of each city; there are no real mistakes to be made, and I do not want to micromanage every single tile of every single city on a standard to huge map. Keeping the charge mechanic on builders, but adding an option to automate (or making it a technology, like a ""self-reliance"" civic) would probably still encourage early game caretaking, while removing late game tedium.
+ - The game in general just feels slow and tedious. This is in no small part due to terrain penalties and weak road bonuses for unit movement. (And the fact you essentially can't deliberately construct roads; military engineer roads are too expensive.) Even in the middle ages, no, it didn't take 20 years for a unit to cross a civilization. It takes a lot of the oomph and fun out of army mobilization when it's far more practical to move single powerful units against the weak AI than to assemble melee and archer units into a tactically appropriate formation. There's simply no reason to bother with a combined arms / blitzkrieg approach in this game.
+ - I like the districts mechanic in principle, but it's not flexible enough. Districts should be removable at a cost, or at the VERY least, there should be more information displayed in early game about the future optimal options for each tile. It's really not fun to try to wing it and guess where it will be best to place an industrial, commercial, or theater district in the future, before you can select those districts to see the adjacency bonuses. (Or for placing future wonders, each of which have strict, arbitrary requirements.) At the very least, there should be some sort of filter (a lens?) to display all adjacency bonuses on a tile.
+ - Tile info popovers are slow and unreliable. Just show the dang info when I mouse over. I'm not afraid. At least make it so that mousing over a resource icon by accident doesn't prevent tile info from displaying until I leave the tile and reenter.
+ - Personally, I think the air unit mechanics in this game feel awkward and unnatural. Why not just emulate real life instead? Carriers in real life can project power farther and to more places at once than allowed by the 2 short-range aircraft, as can air bases. Jet fighters intercept attacks, like in Civ V. They don't sit there and take it. No cruise missiles or ballistic conventional weapons in this game? They do exist in real life... Also, by the time you can build aerodromes and project significant air power, you could far more easily have created 3 times as many land units of greater power. The air game seems to be rather pointless, and is placed too late in the game in terms of military advancement. Air units are too weak for the time they take to acquire. Minor note: you'd also think cheap surveillance or attack drones would be making an appearance by now.
+ - Nuclear weapons are thankfully a little more realistic in this game, since they really ruin whatever land you'd like to conquer, but at the same time, you've got to ask, of what use are they in the game? The AI never has a powerful enough conventional army where you'd need nukes to defend yourself. Since you can conquer all other civs with 3 army units, it's foolish to nuke them first and ruin your takings. Best guess, if you're trying to win a science or cultural victory, you'd like to ruin everyone else's day? If you're in the mood to go for one of those victories, initiating nuclear war doesn't really fit the bill.
+ - In my experience, all games devolve into domination matches. As soon as someone attacks you (inevitable), you will have an army and be branded a warmonger for defending yourself. So you might as well remove the nuisance of neighboring civs who like to attack you. Nature then takes its course. Maybe this is a bit realistic, but it doesn't exactly meet the 4x, varied experience Firaxis is trying to accomplish.
+ - City state and liberation mechanics are flawed. There is no real way to defend an allied city state, or even just to play peacekeeper. You're not notified that they are attacked, and you are not given any casus belli for declaring war. War of liberation (after the fact) also doesn't seem to become available when it should. If you do liberate a city, all your units are immediately expelled from that territory, bizarrely and unnaturally disrupting your advance in a way that just wouldn't happen in real life. Takes the fun out of liberating that neighboring continent that had been conquered by a single civ; liberating France as in WWII is literally impossible.
+ - So tired of hearing ""best not to aid that city state"" from other leaders. What are you talking about? I didn't aid any city state. Which one???
+ - The tech/civic boost mechanic is neat, but it makes games far too uneven. Either I hit all the boosts by the luck of the map and launch a moon landing or accidentally win a culture victory in 1700, or I'm tied up in a war for 500 years (in which I can't go on the offensive to end it or else become a warmonger), miss a lot of the boosts, and discover petroleum in 1960.
+
+I fired up this game this morning on a sick day to pass the time, and found that it's more fun to write this review than to sit through any more hours with the game. That should tell you something.",0.9427722692489624,3567,False
+289070,84735052,76561198108159857,"Great way to time travel, you can start playing on friday, and after one more turn it is suddenly sunday",0.942638635635376,328,True
+289070,93853931,76561198418565157,"Great game; just one problem:
+
+""The information we collect may include personal information such as your first and/or last name, e-mail address, phone number, photo, mailing address, geolocation, or payment information. In addition, we may collect your age, gender, date of birth, zip code, hardware configuration, console ID, software products played, survey data, purchases, IP address and the systems you have played on. We may combine the information with your personal information and across other computers or devices that you may use.""
+
+I (and several other players) find this completely unreasonable, being a breach of user privacy. Will not be buying anything from Firaxis or 2k until this is removed.",0.9410327672958374,1462,False
+289070,42151458,76561198159681280,"Glad someone caught the details on the EULA update from 2k. Everyone should uninstall this game, get a refund if possible, and review bomb this until 2k/firaxis gets the message and is forced to rework their EULA and privacy policy.
+
+ Just to recap:
+""INFORMATION COLLECTION & USAGE
+
+By installing and using the Software, you consent to the information collection and usage terms set forth in this section and Licensor's Privacy Policy, including (where applicable) (i) the transfer of any personal information and other information to Licensor, its affiliates, vendors, and business partners, and to certain other third parties, such as governmental authorities, in the U.S. and other countries located outside Europe or your home country, including countries that may have lower standards of privacy protection; (ii) the public display of your data, such as identification of your user-created content or displaying your scores, ranking, achievements, and other gameplay data on websites and other platforms; (iii) the sharing of your gameplay data with hardware manufacturers, platform hosts, and Licensor's marketing partners; and (iv) other uses and disclosures of your personal information or other information as specified in the above-referenced Privacy Policy, as amended from time to time. If you do not want your information used or shared in this manner, then you should not use the Software.""
+
+and of course:
+
+""The information we collect may include personal information such as your first and/or last name, e-mail address, phone number, photo, mailing address, geolocation, or payment information. In addition, we may collect your age, gender, date of birth, zip code, hardware configuration, console ID, software products played, survey data, purchases, IP address and the systems you have played on. We may combine the information with your personal information and across other computers or devices that you may use.""
+
+You also agree that all this information about you can be sent to countries with ""lower standards of privacy protection""
+
+Absolute scum, selling information from customers who bought the game and adding microtransactions and paywalls to content that should have been in the vanilla version.
+",0.9370567202568054,1211,False
+289070,59696009,76561197993938052,"I'm positive nobody's going to read this, but Civ 6 is a good game. It had a rocky start, but the devs managed to iron out all the kinks and now it's a fine addition to the series. A lot of people prefer Civ 5, but while that was also an amazing game, I prefer to play 6. It doesn't let you cheat the movement system as much, and it keeps things more interesting throughout the game than Civ 5 did. The AIs are more aggressive, which makes them more interesting to play against. Probably the only pitfall to Civ 6 is the Rise and Fall expansion. It's a shame you can't play Gathering Storm (a much better expansion IMO) without it.",0.9305689334869385,374,True
+289070,48722141,76561197974906336,"I have almost 600 hours on this game and I like it. I was very excited for the gathering storm expansion, and I even pre-ordered it, but I won't be playing. Sadly, because of the new EULA which basically turns the game into spyware, I have already played my last game of CIV 6. SORRY FIRAXIS, BUT YOU'RE A DAMN VIDEO GAME COMPANY AND I DON'T TRUST YOU WITH THIS INFORMATION, AND YOU HAVE NO RIGHT, AND NO GOOD REASON TO BE AFTER IT.
+
+New EULA:
+""The information we collect may include personal information such as your first and/or last name, e-mail address, phone number, photo, mailing address, geolocation, or payment information. In addition, we may collect your age, gender, date of birth, zip code, hardware configuration, console ID, software products played, survey data, purchases, IP address and the systems you have played on. We may combine the information with your personal information and across other computers or devices that you may use.""",0.9304482936859131,8173,False
+289070,43015572,76561198091464066,"A fine game, marred by outright abuse of the consumers who have already purchased the game.  Putting RedShell spyware onto a game after it has been purchased, and forcing it upon us via an after-the-fact EULA change is not just onerous, it is downright anti-consumer.
+
+I won't tolerate this and neither should you.  If they already have your money, cease buying anything else from them.  If they don't already have your money, cease any idea of giving it to them.
+
+This needs to stop.",0.9270009994506836,1506,False
+289070,45238651,76561198010019389,"THE UNCERTIANABILITY FACTOR
+
+I have taken some time creating this review, as I have been a big fan of the Civ franchise for at least a decade (since I have discovered Civ 3). However, upon playing this game, I have noticed that no matter how many times I play Civ 6, I cannot get into it. It's like something was missing in which the previous Civ games had that this one does not. Then it hit me; this game was missing the UNCERTIANABILITY FACTOR.
+
+Now when I say the uncertainability factor, I mean the tiny gray area that makes the game truly unqiue. Where you have just enough room for error that the game could be good or bad for you, where you could do something that you could not in other games, and where you were not entirly sure how the game could truly play out. In other words, the mystery factor of the Civilization games that kept you guessing: ""What happens next?""
+
+Now here are a few examples from CIVs 3, 4, & 5 that will help paint a clear picture of what I am talking about: 
+
+In Civ 3, I rememmber where you could attempt to sail across the ocean tiles before researching the appropiate tech. In most cases the ships would sink (unless you had the lighthouse wonder), but in those very few instances you could cross those ocean tiles and get away with it (which gave me a sense of happiness each time it happened). This was not the only instance in where there was some kind of flexibity allowing you to get away with acts that could help you or hurt you, as there were also volcanos. It was very hard to know if you built a city next to one or not, resulting in a destroyed city (with its surrounding areas) anytime through out that particular game; it could also happen multiple times in the same area in the same game too. As I stated before, there was a potential of flexibility that could either make or break your game by taking chances.
+
+In Civ 4, there was the randomized event sequence in which gave the player(s) good bonuses or bad ones. It was very randomized & had a large pool of events making it hard to repeat the same ones over and over again (not to mention that anyone of the events could happen at anytime of the game, begining or end). This meant that every game you played was different resulting in playing the best or worst game you ever played. It is worth noting too that your opponents (players or AI) could receive these events at different times as well. For example, your iron resources could be granted additonal production or subtracted depending on the event. Then there is my favorite, hordes of barbarians could suddenly show up next to one of your (or your opponent's) cities and start rampaging. Regardless of what or when these events happened , this brought about a sense of curiousity of ""what happens next.""
+
+Finally in Civ 5, each resource had a varied amount of resources, resulting in a finite or limited number of strategic units using those same resources. For example, you could find three resources of iron; one having 3 iron, one having 2 iron, and the last one having only 1 iron which resulted in having a potentional of 6 units using iron (unless you went on to find more iron). This made the game very competitive for other players (and AI) to grab these resources as soon as possible. Not to mention too that you could never know how many of those resouces were near you or not. It could be the difference between one civ dominating the classical & medevial age due to having asburd amounts of iron and then crumble in the mordern age due to having very few oil resources. In other words, that the game can change from good to bad, or vis versa, depending on circumstances in the game.
+
+Now I am not saying that these examples, that I have listed, need to be added into the game; but I do beleive that the intent of each one of them represents needs to be addressed. The point is that Civ 6 does not have that uncertainability factor that makes the game a truly unqiue & mystifing expereince as did the last few Civ games had. It has no flexibility, no sense of curiousity of what happens next, and no true game changing sequiences (although the R & F expansion was a good start) that would ultimately define the rest of the game. I want to love this game soooo much....but I can't, not until this missing element is adressed and implemented. I am hopeful that the creators will read this, if it gets enough likes, and understand why Civ 6 is missing a key element that nearly all CIV games have had up until now and take action to solve this. 
+
+Thank you all for reading this.",0.9190484881401062,739,False
+289070,55037643,76561198006447622,"New EULA:
+""The information we collect may include personal information such as your first and/or last name, e-mail address, phone number, photo, mailing address, geolocation, or payment information. In addition, we may collect your age, gender, date of birth, zip code, hardware configuration, console ID, software products played, survey data, purchases, IP address and the systems you have played on. We may combine the information with your personal information and across other computers or devices that you may use.""
+
+Besides the fact that the game play is not very fun they added this EULA a while back. I would not purchase this game as it is not a good installment of the Civ Franchise. I attempted to get a refund because of this EULA and steam would not process it. I would think twice before supporting this game or any other that has EULAs like this to sell off your information. Pretty poor business practice and pretty poor of Steam to stand behind it.",0.9136751294136047,1117,False
+289070,150305339,76561198055552038,"New EULA:
+""The information we collect may include personal information such as your first and/or last name, e-mail address, phone number, photo, mailing address, geolocation, or payment information. In addition, we may collect your age, gender, date of birth, zip code, hardware configuration, console ID, software products played, survey data, purchases, IP address and the systems you have played on. We may combine the information with your personal information and across other computers or devices that you may use.""",0.9112305641174316,352,False
+289070,33528302,76561198052264977,"As a lover of Civ 5, it pains me to say that Civ 6 fundamentally fails as a strategy game. The crucial problem of this game is that the vast majority of decisions made by the player ultimately don't matter, and the decisions that do matter will have the same right answer time and time again. In a nutshell, Civ 6 is shallow and repetitive. It doesn't work.
+
+War is always the right answer. The fastest way to a cultural victory is to steal the hard work of a cultural player. The fastest way to science victory is to take over other Civs for their science output. War is also the best way to spread your religion. So by pursuing the domination victory, you inevitably end up doing what is optimal for all other victory types as well. Hence, war is always the right answer and the game is broken. 
+
+Diplomacy is broken. It's broken to the point of comedy. For example, Frederick gets mad if you get friendly or become Suzerain of city states. Now heres the question: Is it ever within the players advantage to choose to not become friendly with city states so as to avoid angering Frederick? No, of course not. So what ends up happening is that Frederick will hate you every single game. And what's comical is that every character's agenda is similarly broken and ends up having the same effect as Fredericks. It's inevitable that every AI character will hate you just for playing the game properly. Not to mention that war is always the right answer and war mongering penalty is steep, so it's best to just ignore diplomacy entirely- it's so irrelevant that it's not worth the brain space of thinking about it.
+
+The characters are severely unbalanced. Scythia and Sumeria are unstoppable. Germany is also well above the rest of the cast because of its high production output. It's like they never play tested the game. The special abilities of most of the cast don't matter because they are designed for a Civ game when Civ 6 is a game of war. 
+
+The Eureka boosts add to the games repetitiveness. The effect they have is that you end up doing the same actions in the same order over and over again. This reduces the extent to which decisions are made in response to what is going on in the environment. The effect is disastrous in what is already a repetitive game.
+
+The user interface is awful. The game interrupts itself constantly with the same annoying cut scenes. Skipping through them is too slow and they get old fast. Again, it's clear that this game wasn't adequately play tested.
+
+This game is also glitchy. It's gotten better since release, but it's still far from a polished product.
+
+If another player wins the game, it skips immediately to the ""defeat"" cutscene. It jumps to this cutscene so fast that you don't know who won or by what victory type. This can happen seemingly out of nowhere if the AI gets a non-domination victory (usually a religious victory, I have never seen an AI get anything but a religious victory. It is by far the easiest victory type for the AI against the player- just to mention another thing that is broken). It's extremely frustrating to put many hours into a game only to have it end abruptly. In order to figure out how you lost, you have to select the ""just one more turn"" option and then do detective work. It's just awful. There's no way this game was play tested.
+
+Ultimately, Civ 6 is game that comes off as lazy and rushed. I gave it many chances and tried my best to appreciate it, but the flaws are too severe. I typically find myself getting bored by turn 20. The repetitiveness is maddening.",0.9105936288833618,1045,False
+289070,151861972,76561198863716526,"To bypass 2K dumb and greedy launcher which causes crashing or fps problem:
+Library -> Right click on Civilization VI -> Properties -> Advanced Launch Options box -> Insert this line
+
+""C:\Program Files\Steam\SteamApps\common\Sid Meier's Civilization VI\Base\Binaries\Win64Steam\CivilizationVI.exe"" %command%
+
+(Note: the line is Steam folder by default, if you change your Steam folder location, customize the line to your Steam folder location; if you want to play the game with DX12, change CivilizationVI.exe to CivilizationVI_DX12.exe)",0.9101725816726685,143,True
+289070,195359829,76561198802426151,"new EULA update for all 2K and Take-Two games that asks for root level access to your machine in the name of ""anti-cheat"" don't get just ""acquire"" the game",0.9069215655326843,490,False
+289070,30806530,76561198019527434,"This game has some of the worst AI I have ever seen. The game introduced a newish idea, that each civilization, in addition to victory goals, would be driven by their own personal reasons. For example, the vikings like anyone with a strong navy, egypt anyone with a strong army, brazil hates anyone who gets lots of great people, and china hates anyone who builds a lot of wonders. This had potential to make games more complex, as it would allow you to form alliances that catered to your goal, and the goals of the AI.
+
+In practice, the system is horribly done. Let's go through a few turns of meeting the Vikings:
+
+Turn 1: Oh hi! We found the vikings
+
+Turn 2: Oh they won't accept our gifts? That's weird
+
+Turn 4: Vikings: ""Your navy is s***, we denounce you!""
+
+Turn 7: Vikings: ""Your navy is still s***, we declare war""
+
+You then spend about 20 turns at war, taking some cities
+
+Turn 28: All other AI ""Warmonger. Warmonger. We declare war""
+
+How does that make any sense? Gorgo, one of the leaders of Sparta, will actually attack you for being weak, because they hate the weak. And the warmonger system makes 0 sense, as well. If someone declares war on you, and you take one of their cities in return, you are a warmonger. Did they capture some of your cities in a previous war, and you took them back? Warmonger. Another AI asked you to go to war with them to take out a second AI? Well now they both think you are a warmonger. It is absurd.",0.9006975293159485,714,False
+289070,125533967,76561198840750403,"---{ Graphics }---
+☐ You forget what reality is
+☐ Beautiful
+☑ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{ Gameplay }---
+☑ Very good
+☐ Good
+☐ It's just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ Audio }---
+☑ Eargasm
+☐ Very good
+☐ Good
+☐ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{ Audience }---
+☑ Kids
+☑ Teens
+☑ Adults
+☐ Grandma
+
+---{ PC Requirements }---
+☐ Check if you can run paint
+☐ Potato
+☑ Decent
+☐ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{ Difficulty }---
+☐ Just press 'W'
+☐ Easy
+☑ Easy to learn / Hard to master
+☐ Significant brain usage
+☐ Difficult
+☐ Dark Souls
+
+---{ Grind }---
+☐ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☑ Isn't necessary to progress
+☐ Average grind level
+☐ Too much grind
+☐ You'll need a second life for grinding
+
+---{ Story }---
+☐ No Story
+☑ Some lore
+☐ Average
+☐ Good
+☐ Lovely
+☐ It'll replace your life
+
+---{ Game Time }---
+☐ Long enough for a cup of coffee
+☐ Short
+☐ Average
+☐ Long
+☑ To infinity and beyond
+
+---{ Price }---
+☐ It's free!
+☐ Worth the price
+☑ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{ Bugs }---
+☐ Never heard of
+☑ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{ ? / 10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☐ 7
+☑ 8
+☐ 9
+☐ 10
+",0.8957352042198181,259,True
+289070,208448676,76561198170203261,"Fun game, unfortunately published by 2K so it comes bundled with spyware. Actually insane. 2K does this a lot with their older games. They update the ToS to include agreeing to install hyper invasive spyware for old games, and sell the for free, or incredible sales so they can shove it only as many computers as possible. They plainly admit to selling and sharing your date to people in other counties that ""may have lower standards of privacy protection"", monitor what you do outside of the game and whilst it isn't running. This is some of the most invasive spyware you'll find anywhere, its it comes bundles with countless games published by 2K. Its incredibly scummy, and Im shocked its legal for them to do this without offering refunds for people who don't consent to downloading spyware along with the games they previously paid for in full.",0.8891830444335938,390,False
+289070,191661657,76561198053428446,"Civilization VI is a fun game, with enjoyable game play, an art style that has a lot of charm, and a good level of challenge.  I've played every Civ game, right from the first one that came out. However, I can not recommend purchasing or installing games from this company. Their EULA is entirely unacceptable. Like a lot of game companies these days,  they have instituted draconian policies putting the people who purchase and play their games in an untenable position of having no real rights or recourse while having to accept the root kitting and data harvesting of their computers. It's not about better service, it's about greed and control. I'm disappointed that Firaxis went this way. Up until now, I always felt I got fair value for my money with a Civ game. I won't be purchasing Civ VII or any other game from them or 2K  until these policies are changed permanently.",0.8877561688423157,127,False
+289070,199265213,76561198026261767,"EULAs should not be able to change after purchasing, owning, and playing this game for hours OR the player should have the right not to agree or accept the new EULA, not be locked out of playing their game if they don't.",0.8855732083320618,151,False
+289070,125895758,76561199027303872,"Sorry, I do not allow you to publish my personal information. 
+I paid for a computer game, not for publishing ""any personal information"".
+Where can I opt out?
+
+from the License agreement:
+--------------------------------------------------------------------------------------------
+By installing and using the Software, you consent to the information collection and usage terms set forth in this section and Licensor's Privacy Policy, including (where applicable) 
+
+(i) the transfer of any personal information and other information to Licensor, its affiliates, vendors, and business partners, and to certain other third parties, such as governmental authorities, in the U.S. and other countries located outside Europe or your home country, including countries that may have lower standards of privacy protection; 
+(ii) the public display of your data, such as identification of your user-created content or displaying your scores, ranking, achievements, and other gameplay data on websites and other platforms; 
+(iii) the sharing of your gameplay data with hardware manufacturers, platform hosts, and Licensor's marketing partners; and 
+(iv) other uses and disclosures of your personal information or other information as specified in the above-referenced Privacy Policy, as amended from time to time. 
+
+If you do not want your information used or shared in this manner, then you should not use the Software.
+--------------------------------------------------------------------------------------------",0.8835790157318115,444,False
+289070,232560101,76561198169162638,"Having played and enjoyed this game for years I figured it was time for the review. 
+
+With the unfortunate release of the monstrosity know as Civ Seven, I thought it necessary to recognize a proper well-made Civ game. The calamity of Civ Seven has pushed myself and several friends into the loving arms of good old Civ Six. We've been playing this title more and more. Thank the gods it exists. It might be the last good Civ game to ever exist. 
+
+If you've somehow missed this one, and see it on Steam for a decent price, go ahead and pick it up. It's a real gem. If you see Civ Seven on the horizon... Change course.",0.8824527859687805,100,True
+289070,196838903,76561198061630439,"I've played 5576 hours. I'm a professional 9-5 and ex (and forever) artist. This game is just great. Great pacing, great thoughtfulness. Probably saved my life as it helped replace time spent drinkin'!",0.8788595795631409,243,True
+289070,185802817,76561198040012664,Great game and recommended if you are a strategy player. Looking forward to the new game soon!,0.8777291178703308,166,True
+289070,210112503,76561198053145838,"This game consumes all your free time, and the only thing it asks in return is to fry your CPU, because the AI needs to calculate all the thousands of possible moves it can make, so that it can choose the dumbest one. 10/10",0.875332772731781,84,True
+289070,38421130,76561197981780917,"I love this game, but would I buy it full price? No...
+
+I have been playing Civ since the original back in the 90s, and over the years its changed dramatically. Yet even inspite loving this game there are a few things i find really disapointing. But first the stuff I love.........
+
+1: Two Tech Trees
+Yea you read that correct, instead of having the old standard tech tree there is a second one that covers your civic abilities. These in hand effect how you govern or opens up more to how you can govern better to your preferred style. For instance one of my favourite abilities from Civ4 'Serfdom' has reappeared and the way this ability works is pretty great.
+
+2: Still Fight Barbarians
+in previous games when you reach a certain age or a unit reaches a certain experience I have found that those units no longer gain experience when fighting barbarians, thats now changed. you can still level a unit but unfortunatly its at a very slower rate than if your up against a civilization target. Yet still its good that when you come up against mauraders trying to pillage your sea tiles that you can be rewarded.
+
+3: Districts
+At first I wasn't sure if I liked the idea of districts or not but I think the more I play the more I like. The idea behind districts is that your cities are not just on one tile but can spread out over several tiles. This in my opinion can be a blessing or a curse. It can be a blessing if you find the right spot to build a city and there are plenty of boosters for your districts like Mountains or rainforests for science districts. The curse comes more with the lack of space issue. Especially if you land in a location and raise a city only because you find valuable resources, but the city could fail to see its potential due to a lack of district space. The game forces you to make more wiser decisions.
+
+
+Those are the main likes, here are my main dislikes.....
+
+1: All roads lead to Rome?
+Err no they don't, the way you build roads has been redeveloped for some bizare reason and they no longer have the abilities of earlier Civ games. First of all your builders no longer create roads, only traders and a new engineer unit can build roads. If you task a trader to trade with another one of your cities it creates a road on its path. If you use an engineer, the unit only lasts for 2 active turns and then disappears, they seem to be a waste of time imo............ Roads no longer give you any advantage anymore, they don't provide added tile wealth like in previous games, and they don't really offer any movement advance for units, e.g. 3 tiles instead of one, in fact I have seen units avoid roads for some reason.
+
+2: Oh and the same for builders
+Thats right, with no modifications your builders only have three active turns, meaning that you can only get them to develop three tiles. So for example in previous games if you wanted to say redevelop a pasture hill with rainforest to build a mine, it might take e,g, 10 turns to do everything from cut down the rainforest and then build the mine, now it take 2 of your 3 goes, one to cut down the trees one to build mine. The only saving grace is that every action is instant, cutting trees take one turn, building a mine is one turn etc etc. I am not entirely sure why the devs have done this, and especially why they have changed the way roads are built and work. my only conclusion is to reduce map congestion, but that should be left to the player to decide.  I used to love having a transport ship filled with builders who follow and invasion in case I have used nukes or if I need to redevelop the infastructure. Can't really do that now.
+
+3: Boot polish can make it shine
+Well I think in this case there is a distint lack of polish and especially when the game costs £50 - £70 depending on what version you get before any discount is alarming. There are a lot of bugs in this game and things missing that I would expect from previous games from the get go.  One bug is when a Civ tries to contact you but then does nothing, the animation is still playing for the civ leader but no pop ups, Why does this happen? Well I have worked out that parts of the game work to quickly, and when the game is catching up the game crashes. This is not a PC speed issue as it would happen all the time otherwise. Another bug which I have experienced and it seems reading the reviews for the game so have others, other leaders are easy to piss off. For instance if you build a wonder or choose a different form of government, other world leaders seem to go into a nerd rage.
+
+Also why do the devs still insist on not having transport ships and forcing one unit per tile, its so redundant and slow, also where are my paratroopers? I love paras as they offer a great dynamic to combat.
+
+4: A lack of consequence
+One of the things I loved about Civ4 (imo my favourite version I think) was that every important game changing task you did had concequences. For example, you got caught spying big time, it had consequences, you have developed Nukes, it had concequences. Now nothing does. I had caught a civ trying to steal cash and sabotage districts, and in spite the fact they apologised, they did it again several turn later. I declared war which seemed the only way to stop them, but I turned out to be the bad guy for doing this and ruined the end game because everyone hated me and called me a warmounger. Put this down to a bug or intentional, either way it ruined my game.
+
+5: Out pricing the future
+Yep as it seems with all games these days the polish comes in the form of overpriced DLCs. At £25 I think I will wait for the sales before I purchase ""Rise and Fall"". 
+
+
+It seems that I actually hate this game considering that I put more negatives but I don't, I struggle to hate any Civ game even when newer versions remove the stuff I really loved. I just think that when you make a conscious decision to buy the game you do it knowing the negative points. There is still enough love in this game to make it enjoyable but thats where you as the player come into it.",0.9251044988632202,413,True
+289070,118940632,76561198008966733,I recommend AGAINST purchasing this title due to its instability and constant crashing. Recent updates have made the game nearly unplayable.,0.8710854053497314,322,False
+289070,172791058,76561198086958236,"My review of the game was going to be ""Good game, buy it"" or ""I can't stop playing, please send help"" or something cheesy like that. All of that is still true, but I recently had to move away from my gaming computer to a more compact, lightweight laptop without a GPU.
+
+Somehow the developers of this game have optimized the graphics, and provided enough options to select UI and graphical settings, that I don't see the massive slowdowns or bad textures that I expected. My worst fear was having to play the game without animations or having extremely long turn times, but I never actually encountered anything like that.
+
+In fact, the only bad thing about the game is that they removed my favorite feature from Civ 5: Being able to use my gaming laptop as a room-heater in the winter in my dorm.
+
+I've spent about a thousand hours on this game according to Steam, but I think that number should actually be much higher! I'd say every second of that was worth it, but I need to figure out how to stop playing this game and go to bed before the birds start chirping and the sun starts to rise.
+
+Buy it when it's on discount, though, because the full price of this game with all its DLCs will financially destroy you.",0.9174015522003174,166,True
+289070,91176545,76561198105697319,"This review is for all my friends coming from Civilization V and wondering if you're going to get the same experience.
+I will say I do genuinely enjoy this game however, Civ V is still and will always be the better game no matter how many DLC's they release. 
+
+Here is a run through on some similarities and differences:
+
+- City Building: Probably the biggest difference is the way a city and civilization expands, in Civ V you could simply build whatever structure your city needed granting the appropriate yield to science, happiness, gold, production etc.. In Civ VI you are, in a way, limited on what you can build in any one city. Virtually all boosts to research, culture, happiness, production are found through building ""districts"". Districts are only made available at certain population targets throughout your cities maturation, in addition these districts must be built on an appropriate tile therefor if you don't have the required space to build you are unfortunately unable to. Multiple new factors also effect your city such as housing and amenity's, without them your city doesn't function at an optimal level and each can be increase based on different base city center structures and district structures. 
+
+- Research and Technology Tree: This process is virtually the same which is refreshing, nothing new to learn.
+
+- AI Interaction: This is mostly the same, however they've replaced the embassy with trade delegations as ""foot in the door"" technique with other civilizations. This may also just be my experience but it does also seem that AI leaders sour towards you rather quickly compared to Civ V.
+
+- Cultural Policies: This is disappointing. They've completely removed the Cultural Policies tree from the game and replaced it with a system in which you choose individual card boosts from specific categories (Military, Economic, Diplomatic and Wildcard). Now this system can be equally as formidable but it definitely isn't the same, as your civilization grows and you learn new forms of government additional slots will open based on the path you choose. For example the Monarchy government gives you 2 military card slots, 1 economic card slot, 1 diplomatic card slot and 2 wildcard slots. 
+
+- Religion: Again, this is pretty much unchanged similarly to the research and tech tree. Nice not having to learn a ton of new features.
+
+- City States: This is an entirely new system that plays off of the type of government you have in place. Each government type grants envoy points and as you get into higher tiers the more that are granted. City states are mostly used as boosts to your own civilization, as you send envoy's to each you will be given a certain status with each city state as your status increases so does the benefit (boost to production, religion, culture, etc..). To reach the maximum influence level with a city state it generally takes 6 envoys at which point you are declared the suzerain of that city state, however if another civilization has 6 or more envoys there you will have to continue to send envoys until you have more within the city state to achieve the title of suzerain. One additional benefit in becoming the suzerain of a city state is the ability to levy their army for a listed figure (usually 400-500 gold), can help if you're in a pinch.
+
+- World Congress: Sadly, this no longer exists. They attempted to bring it back in their recent DLC's but it truly is a sad attempt at what was in my opinion a truly great feature. Gone are the worlds fairs as we once knew, nuclear proliferation, embargos, etc.. This also plays into the difference in City States as you no longer ally them to gain standing at the world congress. 
+
+These are some of the main similarities and differences I've discerned in my time playing both versions of this wonderful game. I would say if you enjoy Civ V then Civ VI is definitely worth your time, the game runs much smoother and appears much cleaner then the previous version. This however I would recommend you catch on sale as it, in my opinion, is not worthy of the full price cost.",0.8617176413536072,118,True
+289070,47715461,76561198010962379,">be peaceful civilization
+>get attacked by AI
+>attack AI back
+> *You have just activated Warmonger Penalty*
+>Continues to be attacked, fights back so civ doesn't die.
+>*Other nations are angry at you for being a Warmonger
+
+Why has this not been fixed yet?",0.9115904569625854,1481,False
+289070,32558280,76561198026561884,"Edit: While district costs scaling is slightly reduced now for a trade off in more expensive buildings was a nice start, it's not enough. Cities settled after the first two eras are prohibitively expensive in the name of boosting ""tall"" play, but the game still heavily favors infinite city spam ALA never stop expanding.  The focus is on hardcore chopping of bonus resources/forests to brute force these 100+ turn districts on new cities. And if the city doesn't have forests/stone to harvest... just hope your trade routes complete soon so you can barrage the settlement with caravans to boost production. So it's entirely possible to ignore the arbitrary balance aspect here and just brute force past it. 
+
+Combined with the Eureka system and very powerful key techs to research, every game really does feel homogenized as you really don't vary your playstyle much between civs. You beeline the same specific techs to unlock a huge power boost while keeping district scaling low with few variations due to unique units and buildings. This means building the same units and doing the same actions to trigger the same eurekas every game... and spam, spam, spam the settlers and chop, chop, chop the woods. So for the most part, it's ""X victory beeline order, Y victory beeline order, z victory beeline order..."" with tweaks to take account for UU/UB. And again, the same actions and build orders to trigger the same eurekas are near universal across these. 
+
+Edit 2: The DLC civs are almost all OP. Especially in the Frontier Pass, but the trend started earlier.  All semblance of balance is thrown out as the newer civs almost always tend to be obscenely OP.  Like the Babylonians? They get 100% tech completely from a Eureka.  You were already making a priority of these, and it just makes tech progress stupidly fast... especially since you can largely ignore your science yields and rely on brute force Eurekas... especially if you get a science alliance and really leverage spies. They can steal Eurekas... that give you 100% tech progress as Babylon... you straight up steal tech. Babylon can ignore science yields and still be 100 turns ahead of everyone else in research. 
+
+Simply put, I cannot recommend the game right now.  It's getting patches every season, but the game is in need of some serious and fundamental polishing that firaxis typically only adds in ""major"" expansions.  Its no where near as bad as Civ V was at launch, but some things are pretty unbalanced still.  
+
+(I won't touch on the terrible diplomacy as its been beaten to death, ressurected, then beaten right back down into red paste)
+
+My main gripes revolve around research, production, and districts.  For one thing, research happens far too quickly.  This is especially bad since the game is so stingy on giving you means to increase your production.  By the time you reserach, build, and field a unit its practically obsolete.   So how do you solve the production hassle? By building a production district! Yet districts get more and more prohibitively expensive as the game progresses.  It doesn't take long at all for them to start rivavling... and then surpassing... wonders.  Yet these are things we are supposed to be building 2-5 per city! There are 12 districts you can build, so you are supposed to choose wisely and specialize your districts.  This one is near the mountains and will make a great research district! Or perhaps your people will find inspiration within the sacred peaks as you build a temple nearby? Well... the answer is actually neither.
+
+The crux of hte issue is that these districts increase in cost for every technology you research.  So if you jump straight into the early research district? You are just shooting yourself in the foot.  Research is already too quick and districts already too expensive to build without making things worse by trying to get an early science lead.  So instead of giving us very cheap costs to build a city's first district and making each successive district more and more prohibitively expensive (you know, to meet their actual design goal of specialized cities), you get punished for researching.  That mid game city you founded to secure a source of oil? Good luck doing anything with it when it takes 100 turns to build a single district! 
+
+The workaround is actually trade routes.  You get an extra one for every harbor or commerce district you build.  Set up all your trade routes as INTERNAL and you gain a substantial production boost.  This is the second reason why the concept is broken.  Instead of specializing cities and being choosey about your districts, everyone just builds a commercial/harbor district first to get that trade route.  So they can get some desperately needed production to build anything at all in any of their cities.  
+
+So instead of specializing your cities, you are just building the same district over and over and over and over again.  Every game its the same.  Whatever victory condition you are actually going for will just have to be the second or third district built.  Science is too fast, which skyrockets district costs.  Districts that are needed to build virtually anything worthwhile in the game.
+
+Thus, my hope is that they will give a much needed reblance to these systems in a future major expansion.  Then the game will get an ultimate edition that packages all the cash-grab DLC together, with the needed expansion(s), for a reasonable price.  
+
+If you really need a Civ fix until them, just replay V. Try some of the mods!",0.8607375025749207,303,False
+289070,213945918,76561198452678292,"Prob the last decent Civ game ever. Civ7 has 30 DLC in 1 year, this beloved game had 10 DLC in 10 years. So sad to see a beloved franchise die like this",0.859602689743042,104,True
+289070,133093380,76561198842334498,"---{ Graphics }---
+☐ You forget what reality is
+☐ Beautiful
+☑ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{ Gameplay }---
+☑ Very good
+☐ Good
+☐ It's just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ Audio }---
+☐ Eargasm
+☑ Very good
+☐ Good
+☐ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{ Audience }---
+☑ Kids
+☑ Teens
+☑ Adults
+☑ Grandma
+
+---{ PC Requirements }---
+☐ Check if you can run paint
+☐ Potato
+☑ Decent
+☐ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{ Difficulty }---
+☐ Just press 'W'
+☐ Easy
+☐ Easy to learn / Hard to master
+☑ Significant brain usage
+☐ Difficult
+☐ Dark Souls
+
+---{ Grind }---
+☑ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☐ Isn't necessary to progress
+☐ Average grind level
+☐ Too much grind
+☐ You'll need a second life for grinding
+
+---{ Story }---
+☑ No Story
+☐ Some lore
+☐ Average
+☐ Good
+☐ Lovely
+☐ It'll replace your life
+
+---{ Game Time }---
+☐ Long enough for a cup of coffee
+☐ Short
+☐ Average
+☐ Long
+☑ To infinity and beyond
+
+---{ Price }---
+☐ It's free!
+☑ Worth the price
+☐ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{ Bugs }---
+☐ Never heard of
+☑ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{ ? / 10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☐ 7
+☐ 8
+☐ 9
+☑ 10
+
+",0.8592677712440491,366,True
+289070,28130633,76561197968282831,"TLDR - Interesting choices with city building, good graphics.  But AI and diplomacy is broken.
+
+I like the city districts and the strategic possibilities it entails.  But it feels like they spent all their time on that mechanic.
+
+Imagine being invited by a nation to help them fight a war, and then get denounced by the SAME country as a warmonger for your troubles.  Imagine getting suprised attacked by a nation, defending yourself and taking one of that nation's cities in retaliation and being denounced as a warmonger by that nation and everyone else.  Imagine liberating a nation long-dead for millennia, no acknowledgment of thanks, and then being denounced by the same liberated nation as a warmonger.  Welcome to Civ VI, where you are hated no matter what you do.  And no matter what victory condition you start with, you always end up wanting to nuke the &*$@#^& out of the nations around you.  For the first time in all the Civ games I've played I wished there was an option to execute opposing leaders, that's how annoyed I got.  Ah to see the eternally annoying Phillip II lose his head, now THAT would be fun...
+
+Wait there's more!  Imagine being asked for a gift of resources, plus gold, plus gold per turn.  You think to yourself, ""I feel generous today"" and offer at least the resources and the one-time gold, but not the gold per turn.  Well, these entitled pricks will tell you, ""Not good enough!  We want a gift from you the way WE say it.""  It's unreal.  So back to nuking them.  Honestly I cannot understand the thinking that went into the diplomacy, it's the worst I've ever seen.  It doesn't just feel unfinished, it's plain bad.  As usual your opponents get to say snarky comments and threaten and bully you and you get no options to respond.  This has been an issue for me in previous games too, but it's even more exquistely painful in Civ VI.  
+
+And the AI does ridiculous things like FLOOD your country with their missionaries and apostles, blocking your path and there's no option to even say, ""Hey, can you relax with the religion thing?""  I had to declare war multiple times just so I could move around my own empire.  And of course, the flood of hate and denouncing hits you from all sides.  I played king level and at the end of the game city states still had warriors and even some nations.  
+
+This game needed way more playtesting.  I hope like other Civ games it improves with patches, but I'm not pre-ordering a Civ game ever again.",0.9083622097969055,1102,False
+289070,232049722,76561199065487780,I wish more politicians were playing this game instead of doing real world politics,0.8572787642478943,62,True
+289070,228848335,76561197993953759,"Do not buy this game. It is drugs. Naughty drugs. Hard drugs.
+
+It will become your comfort game, your after work wind down game, your ""I don't know what to play game, your evening game that becomes early morning on a work night game, your entire damn weekend with a callin sick on Monday game. It is very addictive.
+
+I can be working away on something and Hey! Suddenly Civ is open. I can be in bed planning my revenge on Montezuma who jumped me before I could even get archers out. I can be working out my strategy for beating Malenia but then suddenly I'm looking at Mansa Musas chubby face on the loading screen and I THOUGHT I UNINSTALLED YOU.
+
+Giving it a thumbs up because it would be wrong not to but please do not buy this game without a thorough assessment of your time and how much of it you are prepared to lose.",0.8560424447059631,63,True
+289070,115614925,76561197970517479,"The new 2K launcher requires that you be online for Civ6 to launch.  This is unacceptable for a single-player game that requires no online functionality.
+
+And yeah, Comcast is currently down so now would be a great time to enjoy some single-player Civ6.
+
+But no, 2K says ""HAHA, F*** y**.""
+",0.855332612991333,108,False
+289070,235755954,76561199247819500,"Downloaded Civilization VI thinking I’d play for an hour.
+
+6 hours later, it’s 3 AM, I’m at war with 4 different countries, my economy is collapsing, and Gandhi is somehow threatening me with nuclear weapons.
+
+The game is basically 10% strategy and 90% saying “just one more turn.”
+
+Every game starts with:
+“I’m going to be peaceful this time.”
+
+20 turns later:
+“Your city looks very nice. It would be a shame if something happened to it.”
+
+Absolutely addictive. Completely destroys your sleep schedule.
+
+10/10. Would conquer the world again.",0.8552969098091125,69,True
+289070,32188711,76561198030741777,"I [i]love[/i] the Civilization series. I've grown up playing the series since Civ II, when I was only eight years old. This series has shaped what I know and  expect out of any strategy game, and will forever serve as a litmus test to other strategy series. I can play any number of games and genres, but I always go back to Civilization when I grow bored of the others. Keeping this in mind, Civ 6 has been a huge disappointment to me and fails to compare to its predecessors in any way. 
+
+Many new features are welcome improvements (though admitedly adapted from other comparable series): the introduction of districts, policies, and changes to various science, espionage, religious, and military aspects. I even warmed up to the art style very quickly in my first playthrough. They carried over enough of the previous games to make it easy for me to pick up and start playing right away. Unfortunately, they left behind the soul of the previous entries. 
+
+Civ, for me, has always been a single-player game first, making interaction with the AI one of the most important features in the game. I like how they made the AI react differently to my playstyle. I like that I can have reasons (casus belli) to declare war, drastically reducing warmonger penalties to the AI. Unfortunately, all of this means nothing since the AI is deperately broken. They will declare wars against you and other civs for absolutley no reason, and then beg you for peace, giving you all of their resource. City states will either be technologically inept in the later game, or wildly advanced beyond any civ close to them. Harder difficulties don't make the AI play any better - they just get more settlers and builders to start. It took them six months just to patch the AI to make it playable, but it still needs improvement.
+
+To make matters worse, Firaxis is taking the Paradox route by nickel and diming fans just to get the ""bonus"" content of new civilizations, which are honestly desperately needed for the enjoyment of replayablility. As of this review, they are charging a minimum of $5 [u]per[/u] new civilization. I felt that Civ 4 and 5's expansions were perfect - these expansions brought multiple new civs, leaders, and game changing content, all for the better. Yes, they were more expensive, but they brought so much that they were [i]so[/i] worth it. Until sweeping changes come from expansions or patches, I do not recommend purchasing the game at full price in its current state.",0.9026697278022766,484,False
+289070,203783400,76561198355478865,"New Eula spy software in the game
+Take-Two and 2K games have updated all their games Terms of Service, turning this game as well as all of their other games into literal spyware.
+
+Important Info in Terms of Service:
+• Mods are a bannable offense
+• Display of Cheats/Exploits is bannable
+• Forced arbitration clause and a waiver of class action and jury trial rights for all users residing in the United States and any other territory other than Australia, Switzerland, The United Kingdom, or The Territories of The European Economic Area
+• You can be banned for using a VPN while connecting to online servers
+• Cannot access game content on a Virtual PC
+
+Collected Data Types:
+• Identifiers / Contact Information: Name, user name, gamertag, postal and email address, phone number, unique IDs, mobile device ID, platform ID, gaming service ID, advertising ID (IDFA, Android ID) and IP address
+• Protected Characteristics: Age and gender
+• Commercial Information: Purchase and usage history and preferences, including gameplay information
+• Billing Information: Payment information (credit / debit card information) and shipping address
+• Internet / Electronic Activity: Web / app browsing and gameplay information related to the Services; information about your online interaction(s) with the Services or our advertising; and details about the games and platforms you use and other information related to installed applications
+• Device and Usage Data: Device type, software and hardware details, language settings, browser type and version, operating system, and information about how users use and interact with the Services (e.g., content viewed, pages visited, clicks, scrolls)
+• Profile Inferences: Inferences made from your information and web activity to help create a personalized profile so we can identify goods and services that may be of interest
+• Audio / Visual Information: Account photos, images, and avatars, audio information via chat features and functionality, and gameplay recordings and video footage (such as when you participate in playtesting)
+• Sensitive Information: Precise location information (if you allow the Services to collect your location), account credentials (user name and password), and contents of communications via chat features and functionality.",0.8517334461212158,123,False
+289070,26165285,76561197981719850,"Quick and dirty summary for people transitioning from CIV5.
+
+Pros:
+1. Early game is more diverse. You have more decisions to make - and everything you do feels ""right""
+2. Mid game is incredibly fun. Now that you aren't constantly battling your happiness meters, you have time to focus on your goals. You have many ways of remaining stable in the mid-game and expanding further. 
+3.  Civic tree is now researched just like the tech tree. Both these trees feel like they have a very real and important impact on your strategy and gameplay, without making you feel like you have to constantly check for optimal routes. This is huge.
+4. The little things. I can't go over them all, but: linking units, how harbors now work, barbarian AI, naval changes, dipomacy, natural wonders, resources (inc. luxury and strategic), unit upgrades, builders/repairs, and religion all feel so much better in CIV 6. They feel very well designed and not cumbersome at all
+
+Cons:
+1. As of now, I think the lategame is worse than in CIV5. It's hard to quantify with my limited playtime but it's not really that much worse. I feel that expansions will offset this.
+
+Overall:
+Early and Midgame are SO much better than CIV5. Lategame is slightly worse than CIV5. I think it's beyond worth it. As a base game, it's almost better than CIV5 withall the expansions, so I'm very excited to see how CIV6 expansions help the game out.",0.901718020439148,600,True
+289070,151991034,76561199551418152,"To bypass the craptastic 2K launcher which causes FPS and crashing issues:
+
+1. Go to ""Library"" on your Steam client
+
+2. Right click on Civilization VI, select properties
+
+3. Select ""Advanced Launch Options box""
+
+4. Insert the following line:
+[i]""C:\Program Files\Steam\SteamApps\common\Sid Meier's Civilization VI\Base\Binaries\Win64Steam\CivilizationVI.exe"" %command%[/i]
+
+[b]Please note that the given line is Steam folder by default, so if Steam is installed in a different drive (e.g. D: instead of C:), edit the line accordingly. Also, if you prefer playing the game with DirectX12, you may change CivilizationVI.exe to CivilizationVI_DX12.exe[/b]",0.9511677622795105,588,True
+289070,26138688,76561198137963079,"+Intro video. 
+The intro is great. Although it is no Baba Yetu, the video combined with the awesome score had me in chills. The last game's intro was really good as well but this one was just spectacular and a great way to introduce players to what will be an extravagant game. 
+
++Main menu. 
+Very good looking and very intuitive. It is much more simple this time around, with few sub-menus that you have to nagivate just to start or continue a game. The options panel has many, many settings. There is also a ""New to Civ VI"" advisor option for returning players. There is now a benchmark to test your system.
+
++Civics and research.
+I thought, coming into this, that I would not like a second tree, but it in fact helps to expand the gameplay especially with the addition of governments and policies. 
+Research now adds more to your game, not just a building and a unit here and there. The game feels like it is tailoring itself for you quicker than it would in Civ V.
+
++Governments, policies and casus belli.
+One thing I thought that I was certain to hate was the removal of social policies and the addition of governments and policies, especially with the card system. However, it has turned out to be very useful especially when you need a specific resource like gold or faith, or if there are many barbarians surrounding you. You can unlock more governments and policies in the civics and research trees. 
+Casus belli, which is a justification for war, is a great addition to this game. There are many different casus belli in the game. Declaring a liberation war can be used if someone has captured one of your or one of your allies' cities. The warmonger penalty for this is nothing, but only for the recapture of that city. There is a holy war, which is war on a civilization whose religion has been spread to one or more of your cities. All warmonger penalties for this are halved. There is also a  reconquest war, protectorate war and a few more.
+
++Districts. 
+I also thought that I would dislike districts and having to manage each one and finding space to build each one, pre-planning cities etc. But it had turned out to be a service and a great addition to the game. There are many more district types than I had initially realised. This all sums up to a very unique game.
+
++Huge maps. Compared to the pre-installed maps in Civ V, these maps are huge and a treat to explore! I recommend setting the amount of civilizations in your game to upwards of 8. It had taken me over 150 turns to find another civ in a game of 8 civs on Continents. I was really starting to question whether there were any other civs or not.
+
++Great people and promotions. Great people are truly great. Each unique great person has a unique ability, except for the great prophet. This mixes the gameplay up a bit and adds variation.
+Promotions now have their own tree. They also heal the unit, not to full health though which is still a very nice feature. 
+
++Trading, envoys, and builders. 
+Trading takes on a new format which I feel is much more customisable. Traders add roads as they travel and have new bonuses.
+Envoys are better ways to handle gifts from city states. You do not have to be an ally (or suzerain) with a city state to receive its bonus, just send an envoy. 
+Builders now have charges like Great Prophets, Missionaries and Inquisitors did in Civ V. This might seem like a bad thing, but they get the job done on the turn that you order them to do it.
+
++Game length. In Civilization VI, the developers have stated that they have tried to lower the game length to just get through everything faster. This is definitely a positive thing. Before this game was released, I started a Standard Speed game from Ancient era in Civilization V. After playing for around 10 hours, I was in the industrial era. After around 10 hours on Standard from the Ancient era in Civilization VI, I have almost completed the Research and Civics trees.This helps to filter out all of the repetitiveness and the waiting around and it does a good job at that.
+
++Graphics. The graphics, which can be considered cartoony, I don't mind. The graphics in Civilization V were definitely more realistic than they are in Civilization VI. This doesn't particularly bother me, I don't mind how the graphics look. If anything, the graphics look quite nice. If it bothers you, then consider everything else in the game before you decide to not buy it.
+
++-AI. The AI in the game is okay. The only reason that the AI isn't a negative for me is because I like that they have agendas and the gossip features and how they react to some things that you do. After watching the AI match and reading peoples' complaints, it looks like the AI has multiple issues, like the placement of districts and expanding their civilization. The AI would also declare war and then make a peace treaty soon after. There were pillaged tiles and sitting units for most of the game. These things don't particularly bother me. I can still play a game fine with these issues but it looks like it really riles people up.
+
++-Few glitches at launch. From launch, the game has very few glitches. However, here are some which I have enoucntered. Mousing over the messages which appear on the right of the screen as they did in the previous game does not always reveal what the message is. You need to fiddle with your mouse a bit for it to finally show. Also, meeting a new city-state has three separate messages and it would be nice if they were incorporated into one to unclutter the screen. The game does have a system of making multiple messages into one. It should do this for these city state messages.
+
+-Amenities, housing and others. Although it can be fun to micromanage these small additions, it feels more like Cities: Skylines than Civilization in this respect. Being able to queue productions was a neat part of Civ V, but it has been removed from Civ VI.",0.9009872674942017,714,True
+289070,110519881,76561197963240893,"Until they fix my constant crashing, I cannot recommend this game. This was an issue they created months ago when they did a patch, and its not just me, go to Reddit and you will find hundreds of players effected the same way and the devs have basically told all of us to get bent, they refuse to help us. 
+
+Before the trolls start I have done it all to fix this game. I have spent over an hour online looking up a fix.. I have spent days with the devs going back and forth till I was told (basically) that I was S.O.L.
+One day I logged on to a game that ran great for over 100 hours, the next day it crashed constantly with no explanations.. 
+
+Now.. prior to the update that ruined everything, this game was great.. I played over 100 hours (before the stupid crashing every 5 minutes) and had a lot of fun, this was just what I needed to scratch that world domination itch without massive complexity. I like to set the difficulty to a hard level, fill it with city states and as many AI as I can get and just go all out war on everything, sometimes I win.. sometime I lose.. but I enjoy this game VERY much.. and I will give it a positive review to reflect that.. as soon as the devs stop picking and eating the toilet paper cling-ons from their a$$ and do their job to fix a game they broke..",0.8492225408554077,191,False
+289070,196731486,76561198080974580,"Take-Two and 2K games (including Gearbox & Rockstar Games) have silently updated all their games' Terms of Service, turning this game as well as all of their other games into software capable of data farming. Additionally, their Privacy Policy mentions sharing data with ad networks and marketing analytics; it is very explicit that they intend to farm data from you and use it for frivolous monetary gain.
+
+***While Take‑Two disclaims using ""spyware"", they explicitly reserve broad permissions to monitor, record, store, and analyze user data: including voice, gameplay, and profiles. That’s not spyware in the ""deliberately malicious"" sense, but it’s still sweeping surveillance capability permitted by legal provisions you agree to.
+[READ BELOW for more about Take-Two's update statement regarding the issue]
+
+Important Info in Terms of Service:
+• Unsanctioned mods can be a bannable offense (depending on their arbitrary definition of bannable mods)
+• Display of Cheats/Exploits is bannable
+• Forced arbitration clause and a waiver of class action and jury trial rights for all users residing in the United States and any other territory other than Australia, Switzerland, The United Kingdom, or The Territories of The European Economic Area
+• You can be banned for using a VPN while connecting to online servers
+• Cannot access game content on a Virtual PC
+
+Collected Data Types:
+• Identifiers / Contact Information: Name, user name, gamertag, postal and email address, phone number, unique IDs, mobile device ID, platform ID, gaming service ID, advertising ID (IDFA, Android ID) and IP address
+• Protected Characteristics: Age and gender
+• Commercial Information: Purchase and usage history and preferences, including gameplay information
+• Billing Information: Payment information (credit / debit card information) and shipping address
+• Internet / Electronic Activity: Web / app browsing and gameplay information related to the Services; information about your online interaction(s) with the Services or our advertising; and details about the games and platforms you use and other information related to installed applications
+• Device and Usage Data: Device type, software and hardware details, language settings, browser type and version, operating system, and information about how users use and interact with the Services (e.g., content viewed, pages visited, clicks, scrolls)
+• Profile Inferences: Inferences made from your information and web activity to help create a personalized profile so we can identify goods and services that may be of interest
+• Audio / Visual Information: Account photos, images, and avatars, audio information via chat features and functionality, and gameplay recordings and video footage (such as when you participate in playtesting)
+• Sensitive Information: Precise location information (if you allow the Services to collect your location), account credentials (user name and password), and contents of communications via chat features and functionality.
+
+*DISCLAIMER*: T-T/2K/Gearbox has put out a statement regarding the misleading statements surrounding the EULA in their games:
+
+""Take-Two generally does not seek to take action against mods that are single-player only, non-commercial, and respect the intellectual property""
+
+(1) Take-Two Does Not Use Spyware
+Take-Two does not use spyware in its games. Take-Two's Privacy Policy applies to all labels, studios, games, and services across all media and platform types such as console, PC, mobile app, and website. The Privacy Policy identifies the data activities that may be collected but this does not mean that every example is collected in each game or service.
+
+***This sounds, to me, an awful lot like: ""we won't spy on you or collect your info, we swear. BUT, we reserve the right to per the agreement, y'know, in case we ever did want to."" Whether they act on the provisions outlined in their EULA or not, the provisions themselves are unethical.",0.9474766850471497,1885,False
+289070,197973128,76561198242325978,"New end of year agreement is amazing. Basically they're saying that they reserve the right to spy on you and get more information that is not at all necessary for playing the game but it's okay you guys, they told us we can opt out of the agreement quite easily. Just delete your 2K account and remove all possession of the game you might have. In case it isn't bad enough that the majority of the loyal fan base felt like they got screwed over with Civ VII they added this cherry on top by trying to rat-fuck you in this EULA. Been a loyal fan of the Civilization series for a long time but now I refuse to play these new Civ games.",0.8450415134429932,126,False
+289070,136284895,76561198185918186,There is no shame in deterrence. Having 37 giant death robots and thermonuclear devices is very different from actually using them.,0.8946062922477722,113,True
+289070,102524261,76561198120376564,"amazing game, awful launcher.  Played over 500 hours and suddenly it tells me I don't own the game.",0.8923448920249939,165,True
+289070,26464822,76561197982025152,"Civ 6 had me hooked and playing late into the night for 80+ hours on ""King"" Difficulty for the past few weeks. So its doing something right at least. However even with all its greatness I have to not recommend it at this time. Civ 6 has a few issues that are infuriating to the point I did not want to play the game anymore even when I felt the ""One more turn"" urge to keep playing.
+
+First the changes that made me love Civ 6;
+
+-Art style: I actually like the style, especially the map fog which I assume everyone likes.
+-Barbarians: Holy jebus they can actually be a challange to deal with. Even late game when you least expect it.
+-Districts/Wonder Placement: Actually make city placement and specialization more thought provoking and fun.
+-Tech/Culture Eureka/Inspiration: Another good feature that can effect your gameplay style of a game.
+-Great Persons: if you want em you gotta go after them vigorously. And they range from ""Oh neat"" to ""HOLY SHIT THATS AWESOME""
+-Various other things but here comes the long rant...
+
+Now the things that made me wonder what I was doing with my life playing Civ 6 (Mostly AI related);
+
+-UI/Infromation: So much detailed information is just GONE from Civ 5. You gotta memorize your luxurious resource trade deals because the game will not tell you how many you had in total or who you traded it to/from. You have no clue how well religion is spreading. You cannot look at Units special abilities. Combat Numbers do not accurately indicate the amount of damage your unit will deal. You have no way to look at deal historys with other civs. the ""Gossips"" tell you everything you don't need to know, from england building a granary to your civ trading with another civ the turn you setup a trade deal.
+
+-AI Agendas/Diplomacy: First off, the Agenda system is not a bad ""Idea"" its just the AI does not execute it correctly in relation to diplomacy and AI Insanity. Bottom line, if you are doing well, they will hate you, leading to all the AI denouncing eachother as well. If you manage to find ONE AI that tolerates you enough to become an Ally, they will do everything in their power to not be your friend/ally behind the scenes. Like declaring war on you for no reason.
+
+-Ai Combat Tactics/Peace terms: Speaking of declaring war, the AI are so bad at tactical combat that the Barbarians can wipe them out given the minor opportunity. They tend to fall behind in higher Tech Units because they don't upgrade their units usually. Also I think they were either programed to be complete panzies or their military command give out their orders in different languages to each unit. Because 90% of the time they will not attack anything in melee unless they can one shot it. If their HP drops to 60% that unit will run away. This leads them to just shuffle outside completly outmatched cities with a single archer able to fend off 10-15 units by himself without them even attacking the city. then the AI goes pants on head retarded and decides all hope is lost and will give you EVERYTHING they own for peace.
+
+-AI General AI Batshit insanity: The AI in Civ 6 are more akin to an Alien then a human player because they act insanely random. I would say they act like Civ 5 Ghandi but at least he was predictable with his madness. ""We have been best friends for thousands of years sharing trade and tech-DECLARES WAR ON YOU"" ""Wanna do a joint war against this Warmongering prick burning down my cities? YOU ARE A WARMONGERER!"" They are such massive hypocrites like the Joint War example. EVERYTHING they ask you to stop doing, They are currently doing to you but x10, Units near borders in particular even if its a single unit 2 tiles away in your own goddamn territory while they have a massive army IN your borders.
+
+-War, War Never Changes, (Except it does for the worse): War in Civ 6 is now a huge pain in the ass because unless you declare war on people within 20 turns of the game, WARMONGERING. even the casus belli's do nothing to change this (Except Liberation wars which never happen because nobody likes you), the ""Severity"" of Warmongering penalties translate to ""How long they will hate my guts"" not ""How much they will hate my guts"" so no matter how justified your war is, everyone will denounce you for declaring war on anyone, even the people who joined the war with you. Because you are a heartless bastard marching your forces to go punch that genocidal civililization in the face, who kick puppies for fun. Next on the agenda of war is ""War Weariness"" this as a good mechanic that falls off the mark due to its execution. Because yes it makes it so you cannot just be at war forever and kill everyone. But it screws over the AI while it forces the player in the late game to keep wars in short increments or have all your cities get pissy. This screws over the defender/AI because War Weariness skyrockets in cities being fought around. probably why the AI caves and throws everything they have at you, I've sieged a city and within 2-3 turns barbarians spawned around it and it turned into a 3-way fight.
+
+-Last but not least, PACING: The games pace is so wrong, without rushing science you will have nukes by the Napoleonic Era. Epic game speed is the old standard speed. You will never stay long enough in one era to enjoy it. Finally once you hit the Atomic Era the game speed kicks into high gear rushing the game into a suddon stop. You will get the coolest tech and units 5 turns before you achieve a Science victory, possible to not even get them with a Culture victory.
+
+I've stopped playing my current game because of these problems which I desperately hope get patched or something as there is a game in here that I love. but I can't play it without feeling like I'm a cat chasing blind deaf and stupid mice to a finish line on the counter. sure there are many ways to get onto the counter and the mice ""could"" reach it. but one jumped off the counter, another pissed in my cat-bowl, the final one thought we were buddies then had a brain aneurysm and tried to bite me but had no teeth and just gnawed on me 
+
+And before you say ""Raise the Difficulty."" thats just tying rope to the mice to pull them towards the goal faster. They are still Blind Deaf and Dumb.",0.8922166228294373,1164,False
+289070,55063591,76561198000485360,"Cool game, but DLC is outrageously priced.
+
+Wait 3 years for a gold edition or something.",0.8393129110336304,347,False
+289070,26241385,76561197971353343,"[h1] RECOMMENDED BUT [/h1]
+
+There are quite a few reviews out of this game allready, not to many with my playtime. I have waited till I got a good view on some of the things that can be adressed and improved upon.
+I will try to use screenshots if I am able but since I am writing this review when I came back from work, please excuse any typo's and other faults you come across.
+
+I loved civ 5 and was looking forward to this game a lot. Let me state that this is BY FAR the best [u] base[/u] release of a civilization itteration. many of you will remember CIV:BE, a game that I personally liked in all honesty.
+
+There are quite a few things different from civ 5, they recommend that you use the tutorial if you are new to the game. ALthough it helps a little it doesn't explain how different mechanics work in the game.
+
+They stated that they have put  a lot of work into the civilopedia. Personally I don't think that it is very helpfull, it gives base information about certain aspects of the game. I[u] highly[/u] recommend reading the darn manual :D It is a good read and a lot more helpfull than a civilopedia thingy.
+
+[u] [b] The game [/b] [/u]
+
+As in all civ games you start with a settler and a warrior, the settler is used to found (start up) cities, now however there is one hell of a big thing to reconsider and that is the availabillity of fresh water.
+You can use map overlays to let you show where the best spot is to found cities, the main rule, the more green, the better. Also different from past games, in order to have a harbor you do not need a coastal city, you can use a district to place one. More of that later.
+
+[u] [b] Research [/b] [/u]
+The research is split into 2 groups, one for your basic research (as you are used to in civ 5) and one civics tree. Although I like the concept it is way to easy to advance in both trees. When you play the game you get them EUREKA moments. It is when you, for example, found a city near the water, that you get a boost (50 percent) of a particular science. This is just to powerfull and the sole reason I researched both trees before (LONG BEFORE) I won the game. This needs to be adressed but for new players this will be helpfull because it makes the game easier.
+
+[u] [b] Artificial unintelligence [/b] [/u]
+
+The AI in this game is better then CIV BE but thats not hard to accomplish, it simply isnt on par at the moment with what you would have expected after the heralds of wow moments of the online reviewers. 
+AN example, I am in the atomic erra, one of the AI forces (let's say spain) declared war on me, rightfully so because I like to fight, a lot but my friends know that. SO he attacks me, with spearmen, crosbows and pikemen. SO no biggie, I have tanks and bombs, planes and helicopters. They lost, the game is so badly optimized for the AI that I was able to declare war on every singly faction and still won. The AI does [b] NOT [/b] upgrade the units they have, that's a shame.
+
+[u] [b] WAR, what is it goood for.... [/b] [/u]
+Here is another important change from civ 5, the community seems devided, I myself, am still not sure what I think of it.
+
+In Civ 5 you had happiness, or you didnt had any because you took to many wars, here you have amenities. They take some time to get used to, in short you manage city per city and not glabally. In every city you have amenities, they can come from luxaries (spice and diamonds and things like that) or constructions and wonders, you must be made aware that the more cities you have, the harder it is to get the cities in a happy state.
+The resources (as I have come to understand it, I may be wrong) is that of every resource you get 4 quantities and no more, so the 5th city will need a different resource to make them happy. It is hard to explain but once you play the game it becomes clearish.
+Now, what I do for dominination victory (you need all capitals for the win) is to raze cities that are NOT important to me, you will NEED to do this when you capture the city because you cant raze a city 5 turns later, thats a huge difference and I like to compare this to civ 4. You can not raze cities that have been capitals.
+
+[h1] Builder formally know as Worker [/h1]
+[b] Edited with the help of Iskandar Udaijin vi Brittania [/b]
+
+[b] The maximum amount of charges if you are not China is actually 6 (pyramids + certain economic policy), and as China the maximum number is 7. [/b]
+
+They kinda work the same as in civ 5 but not completely, if you choose a work for them to do (mining, farming etc) they do it INSTANTLY. They can do it (for most civilizations) 3 times at the start of t he game, this can be improved with research later on, I think a max is 5 charges?
+Once the chargers are used up, the unit dissapears, everytime you use a charge one man will be shown less than a fully charged unit 3 -->2 ---->1 and then nada
+
+[u] [b] Units [/b] [/u]
+
+They have added a lot of new units and still I think they could have done more. With research you can now link up to 3 units of the same type in armies (land units) or armada's (sea units)
+They show this with stars in the shield of the unit. I wish they would have used a different method, one artilliry is one unit and if you link a second artilliry, in my opinion, it should have been visualized as 2 artilleries and then one more for 3 units. Now you get the same representation, one unit but if it is an army, yay, you get 3 stars in its shield. But for the UPT haters this is a nice middleway. I hope modders will add my idea into the game later on.
+
+I am tired and will need to end this, to sum some things up that are very unclear to new players:
+
+[u] [b] Walls [/b] [/u]
+
+Walls can be build once you have made the proper research, when you have completed the research you can build ancient walls, with these walls your cities can bombard enemies in your land. Without these you are a sitting duck and you will loose cities faster then you can say omg.
+Now there is a bug I have found, once you have researched a certain civic, walls become obsolete, it doesn't tell you this. You can see this by going into the city build menu and try to build upgrades for your walls (ancient ---> Medieval--->renaissance) They will be greyed out. 
+http://steamcommunity.com/sharedfiles/filedetails/?id=786518220
+This happens after researching this civic below
+http://steamcommunity.com/sharedfiles/filedetails/?id=787007543
+
+[u] [b] Unit list [/b] [/u]
+
+Many ask where the button is to see what and where your units are, they placed it in a rather weird place.
+At the lower right (after you have clicked a random unit of you on the map, click on the name (for example warrior), a list of your units will pop up.
+
+http://steamcommunity.com/sharedfiles/filedetails/?id=788251651
+
+[u] [b] Renaming cities and units [/b] [/u]
+
+For the moment you can NOT rename cities, this is a weird design on their part, I hope it gets included later on.
+Renaming units is possible when they have reached level 2, when you click on a unit that has earned a promotion (level 2) you will see a feather, click on that and you will be able to rename your unit and get an achievement in the same process for that :D
+
+So bare this in mind. I will add things later but this massive wall of text is getting out of hand, if you have any questions, do not hesitate to ask me.",0.8881853818893433,227,True
+289070,72164551,76561198168764063,"Found out CIV 6 was sending DNS queries to ""metrics.ol.epicgames.com"" every 2m for 9hrs yesterday on my multiplayer game. I value my privacy (DNS blocking with a pi-server) and am now assuming, based on the EULA-type reviews, that this Epic Games EOS service (which a lot of people are calling Spyware) replaced the Red Shell ad-tracking service in 2018. However, now it's probably worse. Cannot rename/delete ""EOSSDK-Win64-Shipping.dll"" (Published by Epic Games, Inc) or else the game crashes on startup. Have blocked their API & metrics domain & will see what happens the next multiplayer.
+
+As far as the game is concerned, it crashes all the time for me on DX12 mode & the June2020 update has only made things worse (check the discussions). The tutorial for ""People new to CIV"" was the worst I've ever experienced. Game is buggy ESPECIALLY in multiplayer. Had multiple de-syncs & lag issues (we're all 60-70ms) in our Multiplayer party, with 2 of us crashing at different points.
+
+Please fix the graphic issues, poor multiplayer experience, & shady metrics collection to make this game better.",0.8876833915710449,1206,False
+289070,35110244,76561198062696569,"[h1]A direct downgrade from Civ V with a predatory DLC policy and inability to reliably use workshop content.[/h1]
+
+[b]The Good[/b]
+
+Civ VI's district system is, in my opinion, a great innovation in city management, as it means that one city can't produce everything for the empire. The fact that wonders now take up a tile slot adds to this, and the result is that turtling isn't as effective a strategy anymore and one city can't house literally 90% of the world's wonders. District management means planning is paramount.
+
+[b]The Bad[/b]
+
+This game launched with few leaders, some of whom were near reskins of existing ones. Firaxis has decided that it's okay to ship the same civ with a different leader, which only changes [i]one[/i] of the unique characteristics of a civ, and call that differentiation. The game is also unbalanced. If you don't have DLC, you will always square off against either Sumeria or Scythia in the late-game, because they are extremely powerful civs. If you [i]do[/i] have DLC, you will face whatever civ is a DLC civ.
+
+Each game feels hardly different than any other because the civ variety is so low. Each game feels like you're fighting the same seven enemies with the same two always coming out on top.
+
+[b]The Ugly[/b]
+
+Civ VI employs a predatory system of DLC release. DLC civs are objectively more powerful than base-civs, making Civ VI essentially pay-to-win. A [b]single civ[/b] will cost you $5 since it comes bundled with a bunch of useless crap like scenario packs that you'll never play. FURTHERMORE, and this deserves its own paragraph:
+
+-----
+
+[h1]Sid Meyer's Civilization VI frequently encounters frustrating crashes with ANY form of Workshop DLC, INCLUDING UI mods. [/h1]
+
+-----
+
+You'll notice that my profile has ~99 hours of gameplay in Civ VI. At least 5 of that is just bug fixing. Here is a list of bugs I have had that is in no way complete, but what I can remember off my head:
+
+* Crashing from launch screen
+* Build/Culture/Bottom-Right button not working at all
+* Units not moving to the space I click on
+* Almost every single patch to this game will require you to not only disable, but UNINSTALL FROM THE FILE FOLDER every single piece of Workshop DLC content you have ever downloaded, and chances are you still won't be able to use DLC content even with a reinstallation.
+* Unit icons not displaying
+
+And lastly, the single most ugly thing about this entire game, worse even than the frequent crashes, predatory DLC policy, and inability to use Workshop content:
+
+[h1]After an entire year and two major updates, this game does not have production queues.[/h1]
+
+Every single time you complete a production, you need to do another. It's incredibly micro-intensive. ""But wait!"" I hear you say, ""I can just get a UI mod from the Workshop to fix that!"" To which I say, no, you can't. Civ VI won't run Workshop content without breaking instantly.
+
+Go buy Civ V.
+
+Edit: To those that are saying Endless Legend started the district system, they didn't-- at least not as it's used here. Endless Legend's districts allow the city to utilize all benefits of extra tiles or adjacencies. There is nothing preventing you from building any building you want in any city in EL. Civ's district system is innovative because it prohibits building certain buildings without the prerequisite district.",0.8845337629318237,887,False
+289070,29272058,76561198059662011,"Civilization 6 is a good game, but not if you compare it to Civilization 5, which is just a much better game. Civ 6 does some things better than Civ 5, like for example the district system, the finished wonder animations, culture, great people, espionage and trade routes. Some things that I liked in Civ 5 are worse in civ 6, like statistics, map, A.I, resources and religion.
+
+One thing that might be insignificant to you is the map showing owned water tiles as if they were land tiles. To me that is just a fun killer since I love looking at the map to see the empire I have created. In this system it just looks like a blob instead of an empire.
+
+The A.I in Civilization 6 is pure garbage. In one game I played I had declared war ONCE in the entire game. One time in 354 turns (1932 A.D) and every single A.I denounced me for being a warmonger when I did it on like turn 100, and renewed their warmonger denouncements continualy through the rest of the game, despite me not starting a single war since then. I think this is why the A.I for some reason counts wars declared against you as you being a warmonger, which is just beyond stupid.
+- The A.I is also incapable of fighting human players. All I did to win every single war was to just sit there and do nothing until the A.I gave up. They send like one or two units into my land and that's it. I play on immortal difficulty.
+- The A.I mocked me by saying my economy was weak and that I would go bankrupt soon...I had the strongest economy in the game.
+- Diplomacy...
+
+I might be overly harsh on this game, but that is only because I have like 2.000 hours on Civ 5, and I'm making a lot of comparisons between Civ 6 and Civ 5. It seems like they're doing the same ""mistake"" they did with Civ 5, where the game was fixed through multiple expensive DLC's.
+
+At Civilization 6's current state, I will say you're better off just buying Civilization 5 if you don't have that.
+
+This is a subjective review, so treat it as such.",0.8842360973358154,544,False
+289070,133078306,76561198980727625,"As I have played well over a thousand hours, I can say this is a very fun and attention grabbing game. With every intention of ""oh just one more turn"", Civ VI will keep you on edge waiting to see what'll happen next. I only have 2 of the dlc's, but even still, there are SO many variables to account for. 
+Are you going to build a technological empire, only to have it lost in fire to your enemies? Are you going to rule the world with your religion of love, or be squandered by the changing cultures and times? Will you find favor in other civilizations and forget every one of your cities aches for amenities and then you have riots because your people are unhappy? And then change production to favor amenities and have your treasury go broke, suddenly requiring you to lose your military to keep your civilization's bank from being your demise? And then have one of your allies dislike you because their like for you having productive/happy/rich/religious people has suddenly gone awry. Causing them to denounce you and go to war with you... and because your friendship with those countries has recently ended, when one goes to war with you, no one aids you. and when you get vengeful and try to wreak havoc on your new enemy, the world yells back ""Warmonger"" and now it's you against the world??? 
+See, the possibilities are endless...okay maybe not endless, but it'd be a really big number of possibilities, and it's only magnified with the dlc's. 
+Anyway. It's a really fun game for sure. And if you spend as much time as I have on this, it is well worth the price!!",0.8340036869049072,61,True
+289070,192913848,76561199455710962,"Paid money to BUY this game some time ago and now I have some random entity demanding I agree to T's and C's I don't agree with.  Apparently it give's them the right to provide my personal details to third parties. 
+No way. Can I have a refund?",0.8332874178886414,158,False
+289070,78003561,76561198165180044,"They still haven't added Austria.... But that's fine, it's not like I'm entirely dependent on Austria for happiness or anything. Good game asides from the absence of Austria. It would be nice if they added Austria, but I don't really care or anything like that, it's just that I thought it might help the game. I don't need Austria. I'm fine.",0.8329169154167175,114,True
+289070,169896954,76561198967056324,"Great game, 1000 hours well spent.
+
+Anyways, use this to bypass the 2k launcher upon startup.
+
+In the launch options set a path direct to the .exe file.
+
+The default pathing plus command should look like this:
+""C:\Program Files (x86)\Steam\steamapps\common\Sid Meier's Civilization VI\Base\Binaries\Win64Steam\CivilizationVI.exe"" %command%
+
+Replace the path between commas to wherever your CivilizationVI.exe is located.",0.8289249539375305,47,True
+289070,36425429,76561197970431391,"There is so much to love about CIV VI. The new multi-hex city development is fantastic, a vast improvement on the old ‘single hex’ city. You now have to plan, and think ahead as to how you will develop your city. The way builders now work, while feeling odd at first, now makes sense. Again, a huge improvement.
+
+But, and I am afraid it is a big but. Diplomacy. Not only is it childish on occasions, as to why a CIV declares war on you, it blatantly lies to you. Then you get the ‘Diplomacy Spam’. Politely refuse to allow a CIV into your capitol, and they will come back almost every three or four turns and keep asking you. Not annoying and doesn’t break immersion? Try creating a custom single player game with the max allowed A.I. CIVs. It’s verging on unplayable. The full screen displomacy uses, adds to this frustration.
+
+Then we have that old chestnut Religion. It’s just not worth the effort to create one. Your cities will get swamped relentlessly, as A.I. CIVs constantly swamp your land in order to convert your cities.
+
+CIV VI has the potential to be the greatest CIV game ever. But right now, it’s a long way off and a missed opportunity.
+
+As I have to either recommend it or not, I cannot in all honesty fully recommend it. In reality, its somewhere in between the two.
+
+
+EDIT
+
+One thing I forgot to mention. The initial civ starting positions. It’s ludicrous. You can have a huge size map but the civs will all be right close in to you. Huge swathes of land will be completely empty. There is no space.
+
+Edit 2
+
+Religion has indeed improved. That has to be said.",0.8777315616607666,648,False
+289070,230784647,76561198006680753,I gave Civ VII a ride all the way to July 2026. 2000 hours of gameplay. Conclusion? Civ VI is a far better game.,0.8276869058609009,55,True
+289070,178520262,76561197987904820,"Good one. Very good one. Almost as good as Civ V.
+
+Unfortunately, like every Civ game, the game becomes boring from middle game: the first hours are critical, the following ones are meaningless: the strong become stronger, the weak die little by little, and there is no more magic on discovering lands or technologies.",0.8272616863250732,65,True
+289070,188056989,76561198211501709,"I have enjoyed this product from the early 90's! I'm 55 now, so I have played literal thousands of hours worth over time, over decades, lol. Always reminds me of playing an advanced version of chess. ""A franchise, a personal fav for decades. Thank you to all involved in the games creation. Albeit being a lifetime fan, I am still learning more about the depth of this game, and actual new ways to play, session after session.
+
+Thank you for one of the best brain exercises ever, lol",0.8263409733772278,61,True
+289070,199002825,76561198293488954,"⭐️⭐️⭐️⭐️⭐️
+I have no idea what I’m doing, but I’m emotionally attached to this settler and that’s what matters.
+
+Welcome to Civilization 6, where you accidentally declare war on Gandhi, forget why you built 7 holy sites, and just wanted to play a chill game but now you’ve been locked in a 300 year grudge match over one tile of bananas.
+
+I don’t know what I’m doing 90% of the time. I’m clicking buttons like they owe me money. I’m building wonders while barbarians are burning my capital. But damn it, I’m LEARNING. Mostly how to read, because this game comes with enough text to make ADHD cry and dissociate into a side quest.
+
+The worst part of this game is honestly the MULTIPLAYER mode. My significant other takes seven geological eras to make her turn.
+By the time it’s my move again, I have Forgotten what I was doing, lost emotional connection with my empire, lost my identity, aged, died and reincarnated as an angry cell who now wants to nuke her just to speed things up.
+
+But do I keep playing? Yes, yes I do. Do I still want to name my religion something dumb like “Spicy Sadness”? Yes, but won't cause toxic. 
+
+This game is so confusing, dramatic, unintentionally funny, and mildly traumatic.. just like me.
+
+9/10 would forget my war plan and build a library instead.",0.8251144886016846,52,True
+289070,179491996,76561199140556395,"Civilization VI is a great game, but it’s hard to shake the feeling that it's been stripped down to its bare bones. The base game lacks the depth and variety of its predecessors, and it relies heavily on DLC to provide a truly engaging experience. Without the expansions, the game feels shallow and repetitive.
+
+",0.8246397972106934,157,False
+289070,117955603,76561198043349365,"Played this game for almost 2000 hours. I've been a loyal civ player for years, but since they forced a launcher upon the game, it keeps crashing after a couple of turns. It's not my system (latest drivers, rtx3080, 32gb ram) and I've done all the trouble shooting there is (including using game developer support. 
+
+in it's current state it's almost unplayable. be warned.",0.8241992592811584,77,False
+289070,32349966,76561198002450835,"I don't really understand the strength of many of the negative reviews. They almost scared me off of this one and I'm glad that they didn't. This is a really good Civ game. Sure, it's not exactly the same as Civ 4 or Civ 5, both very good games in their own right, but it's a lot of fun.
+
+I really appreciate all of the unique ways in which the individual Civs stand out from one another. City states are also actually fun to interact with now, as they don't lose influence over time, and each one has a unique bonus that it provides, be it a unique tile improvement or resource boost or what have you.
+
+The diplomatic screen is a little easier to navigate, allowing you to jump between other Civs without leaving that interface, which saves a lot of time.
+
+The split research and cultural techs make for a fun dichotomy and all of the smaller actions that you can take to speed up research (or gain favor with city states) help to freshen up the gameplay without being overbearing, like the quest system from Beyond Earth.
+
+I like that they got creative with support units, such as healers that can help your units recover faster, or balloons that increase the range of your siege units.
+
+The districts take a little getting used to, but they aren't as restrictive as I had thought that they would be. You just have to put down a series of similar buildings on one particular tile on the map, which adds a bit of extra strategy to maximize bonuses. There's nothing keeping you from putting down many types of districts for the same city.
+
+It's fun and it's got a creative design that keeps the gameplay fresh. Definitely recommended.",0.8740447759628296,414,True
+289070,112929829,76561198133222910,"Up until last April, I would have posted an enthusiastic endorsement of this product, but that was last April. Since then, the game has become a piece of crap. I should qualify this statement: the game, itself, is excellent. What has changed is the constant crashes and freezes that begin to occur for me at around the 350 to 400 turn mark. This has been a problem for many other users according to the forums and Firaxis appears to be doing nothing to address the problem except updating the launcher. The crashes - which tended to occur every ten turns or thirty minutes until I shut down the auto-save and extended the game-time to around forty turns - have pretty much ruined the game experience, especially since it takes sooooo bloody long to re-launch the game and then load the saved game. Instead of a relaxing Sunday morning playing my favourite game like it used to be, it has now become an exercise in frustration management. I realize that Firaxis has no interest in dealing with the crash issues since they have already gotten their money out of me, so all I can do is discourage others from going down the same rabbit hole that I find myself in until they fix the problem. Just to summarize once more: actual game good, constant crashes bad.",0.8238878846168518,112,False
+289070,154363437,76561199134290491,"---{ Graphics }---
+☐ You forget what reality is
+☑ Beautiful
+☐ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+the details are exquisite
+
+---{ Gameplay }---
+☐ Very good
+☑ Good
+☐ It's just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ Audio }---
+☐ Eargasm
+☑ Very good
+☐ Good
+☐ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{ Audience }---
+☑ Kids
+☑ Teens
+☑ Adults
+☑ Grandma
+
+
+---{ PC Requirements }---
+☐ Check if you can run paint
+☐ Potato
+☑ Decent
+☐ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{ Difficulty }---
+☐ Just press 'W'
+☐ Easy
+☐ Easy to learn / Hard to master
+☑ Significant brain usage
+☐ Difficult
+☐ Dark Souls
+
+depending on which difficulty to play it gets progressively harder to master, fairly easy on normal (prince) difficulty
+
+---{ Grind }---
+☐ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☐ Isn't necessary to progress
+☑ Average grind level
+☐ Too much grind
+☐ You'll need a second life for grinding
+
+---{ Story }---
+☑ No Story
+☐ Some lore
+☐ Average
+☐ Good
+☐ Lovely
+☐ It'll replace your life
+
+---{ Game Time }---
+☐ Long enough for a cup of coffee
+☐ Short
+☐ Average
+☐ Long
+☑ To infinity and beyond
+
+singleplayer games not as much, but if you play multiplayer there is no way you can finish the game in one seating, expect at least 15 hours of waiting around for other players to finish their turns. I recommend you all play in the same room so you can smack someone for taking too long.
+
+---{ Price }---
+☐ It's free!
+☐ Worth the price
+☑ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{ Bugs }---
+☑ Never heard of
+☐ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+while playing I found no bugs but I suggest you look at other people's experiences
+
+---{ ? / 10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☐ 7
+☐ 8
+☑ 9
+☐ 10
+
+yes I am ashamed for posting this kind of review",0.8237679600715637,195,True
+289070,198019654,76561198142911230,"Please stay away from this game and avoid purchasing any game products from 2K Corporation and its subsidiaries!
+
+Because this company has updated its privacy policy, it will collect all user privacy data during gameplay through methods such as hard disk scanning and browsing history copying, including bank cards, social media, online shopping platform accounts and passwords, and even chat records in social media!
+
+Important Info in Terms of Service:
+• Mods are a bannable offense
+• Display of Cheats/Exploits is bannable
+• Forced arbitration clause and a waiver of class action and jury trial rights for all users residing in the United States and any other territory other than Australia, Switzerland, The United Kingdom, or The Territories of The European Economic Area
+• You can be banned for using a VPN while connecting to online servers
+• Cannot access game content on a Virtual PC
+
+Collected Data Types:
+• Identifiers / Contact Information: Name, user name, gamertag, postal and email address, phone number, unique IDs, mobile device ID, platform ID, gaming service ID, advertising ID (IDFA, Android ID) and IP address
+• Protected Characteristics: Age and gender
+• Commercial Information: Purchase and usage history and preferences, including gameplay information
+• Billing Information: Payment information (credit / debit card information) and shipping address
+• Internet / Electronic Activity: Web / app browsing and gameplay information related to the Services; information about your online interaction(s) with the Services or our advertising; and details about the games and platforms you use and other information related to installed applications
+• Device and Usage Data: Device type, software and hardware details, language settings, browser type and version, operating system, and information about how users use and interact with the Services (e.g., content viewed, pages visited, clicks, scrolls)
+• Profile Inferences: Inferences made from your information and web activity to help create a personalized profile so we can identify goods and services that may be of interest
+• Audio / Visual Information: Account photos, images, and avatars, audio information via chat features and functionality, and gameplay recordings and video footage (such as when you participate in playtesting)
+• Sensitive Information: Precise location information (if you allow the Services to collect your location), account credentials (user name and password), and contents of communications via chat features and functionality.
+
+",0.8232176303863525,867,False
+289070,179442966,76561197994229251,"[i]Civ 6[/i] is a bit like golf.  You might be playing against different opponents with different skillsets, but you are always playing against the course.  In [i]Civ 6[/i], you are always playing against a new ""course,"" at least if you are playing the popular Continents map.  The different terrain and resource placement means you have to adapt your playstyle every game.  
+
+All of which encourages replayability.  [i]Civ 6[/i] is the game I always come back to. 
+
+I play different kinds of games: [i]Guild Wars 2, Fallout 4, Stranded Alien Dawn, Skyrim, Railway Empire 2, Witcher, Medieval Dynasty.[/i]  If I like a game, I think nothing of sinking hundreds, sometimes thousands of hours into it.  But once I've wrung everything I can from a game, gotten all the achievements, played all the scenarios, I tend to walk away and never look back.
+
+But [i]Civ 6[/i] is different. 
+
+After I have exhausted a given game and as I search for the next big time suck, I boot up [i]Civ 6[/i] yet again, pick a civilization I haven't played yet and lose myself, yet again, in tech trees, city design, and yes, world conquest.  A campaign can take from four to ten days, depending on how much the rest of my life interferes.  It is a glorious time, immersed in nuance, strategy and the occasional gnashing of teeth.
+
+A reluctant shoutout is due here to the Mayhem mode that was introduced in the Brave New World expansion to [i]Civ 5[/i] and operates in the background of all [i]Civ 6[/i].  I am proceeding nicely in the early game with Tokugawa, a civilization that fully blossoms in the late game, when Menelik decides to attack me for some imagined slight.  I had thought we were getting along, trading, respecting each other's borders.  Silly me.  Time for new strategy.  Thank you Mayhem.  The game does not let you get too comfortable.
+
+A feature of the game that is often overlooked but deserves a high five all its own is the history accompanying each civilization, district, and Great Person.  You can, of course, choose to skip each mini-lesson, but take it from somebody who reads EULAs and the sides of cereal boxes, there's a lot of fascinating stuff that somebody went to a lot of effort to include.
+
+[list][*]Finally, some cautions.  I have already alluded to the immersiveness and I am hardly the first to note that grocery shopping or lawn mowing can take a back seat while playing [i]Civ 6[/i].  On balance, that's a good thing.  It is what I celebrate in a great game.  But it is easy to forget to take a walk or reserve time for family and friends.  And, of course, the primary reason for such interludes is to encourage a mental reset, perhaps inspiring a shift in strategy or even just a question as to how something you might have ignored up to that point might help.  You can think of such interludes as playing the game, if you will, just at a lower intensity.
+
+[*]Also, if you are an achievement completionist, give up all hope ye who enter here.  There are an astonishing 320 possible achievements.  I have 41 of them after 500 hours on the PC.  I probably played about that much time on the PlayStation, before I switched to the PC and the comfy chair and big screen in the living room, but those PS achievements are gone forever.  Still, completing all the achievements in this game is for the truly obsessed.  Consider therapy.
+
+[*]Inexplicably, [i]Civ 6[/i] does not take advantage of Steam cloud saves.  Don't be like me and open up your laptop in a hotel one night only to discover that all my saved games are playable solely from my home computer.
+
+[*]Finally, the negative reviews tend to fall into two camps.  Either the game is unplayable because of glitches or [i]Civ 5[/i] was better.  I can't remember any crashes on the PC, but in any event set your Autosaves to ten and you will be covered.  As for the [i]Civ 5[/i] devotees, I'm happy for you that you found a game you love.  But it's also true that change can be hard, for some people more than others.  [i]Civ 6[/i] is a wonderful game regardless of how wonderful [i]Civ 5[/i] was.[/list]
+
+If you have any interest in strategy 4x games, it is hard to imagine that you have not discovered [i]Civ 6[/i] yet, but by all means I encourage you to do so.  And even if you have discovered it, but have been away for awhile, [i]Civ 6[/i] is exceptional in welcoming you back (and you can discover anew that a fighter jet cannot take out a missile cruiser).  It's a fun ride either way.",0.8206340074539185,40,True
+289070,221260120,76561198325964622,Still a great game I am clearly addicted to. And still better than Civ VII :-),0.8204332590103149,50,True
+289070,106710498,76561198337744431,Epic game.  The sheer number of mechanics might be overwhelming if you're new to strategy games but otherwise def worth a buy.  10/10 would build Statue of Liberty in Ottawa again,0.8198696374893188,65,True
+289070,124262424,76561198213891556,"Great Civ game overall.
+
+Two very annoying things we should be able to turn off are: World Congress, and annoying AI chat.",0.8193311095237732,64,True
+289070,29550956,76561198093537078,"After playing this game for a considerable amount of time (many offline hours not counted) here is my opinion.
+
+Pros~
+~The District System is Very Neat and I think it is a Wonderful Addition to civ. It allows much more diversity when planning how to plan your cities.
+~New Policy system is quite unique and fresh. That being said I would love to see the indrodution of having to choose negative policies. (your Government can be all positive ya know)
+~less reliance on building wonders (Civ 5 you pretty much win the game if you could build the wonders before your opponents)
+~City states have been greatly updated since civ 5 (all kinds of unique and cool bonuses)
+~improved multiplayer. (Way better then Civ 5)
+~Great people now have new system which is really cool
+
+ 
+Cons~
+~ AI is terrible. Prob the worst AI I have ever seen. Not only are the AI absolutely terrible at combat but they often impossible to please. ie. most every game i have played result in every nation being Angry at me even when i have never declared war.
+      +note on AI in all the games i played it was clear that some of the AI Leaders have clear Advantages over the other AI leaders. For example Germany was almost Always at the top, and Egypt at the bottom of the score board.
+      + note AI has been receving updates and may improve in the future.
+~ Religion Has not changed at all since Civ 5 . (the Ai also spams missionaries and apostles and blankets your map with them, this can be really irritating)
+~ Personally I did not like the art direction, after Civ 5 i was hoping that the developers would pursue a more realistic aproach to the the next game. The leaders look extreamly goofy in my opinion.
+~ No Dlipomatic victory yet ( There is now a Religion victory)
+~ Diplomacy with AI is Pretty Bad
+~ Alliances with AI are pointless ( if you get attacked you ally will never come to help you)
+
+I could go on but, these are the main points I feel should be brought up. I want to say i was really torn on to give a positive or a negative review. there are lots of things that i liked but there are also things that i wish that could be undone. If you are a Civ fan I can't really say if you will like it or not, it has it's weaknesses and strengths. I would say if its on sale buy it but, at its current price its not worth it. Hopefully the DLC will spice things up in the future.
+
+~Locomotohobo",0.8188958168029785,272,False
+289070,151227673,76561198006678853,"I think I must like it. Seriously though, if you like exploring unique worlds and planning out your empire to see how you can maximize your country's yields, you'll love this game. However, if you like challenging AI, diplomacy, opposing factions that act logically; well then this game isn't for you.  
+
+I like the exploring and planning though.",0.8172042965888977,42,True
+289070,185013631,76561198757586111,"I realized I’ve never reviewed Civ 6. Just look at my playtime; it says everything. The game is truly amazing, and with some mods, the playability and overall experience have been taken to the next level. Before Civ 7 arrives, I want to give Civ 6 a big thumbs up!",0.8169646859169006,55,True
+289070,113253835,76561197985606005,"I'm not sure it was a good idea for Steam to point out that I've played Civ VI for 4086 hours while asking me to recommend it. It's quite possible I'm wasting my life, so turn back now if you don't want to take that risk. However, if you do, this is a wonderful, immersive, complicated game with incredible replay value. No two games are the same, and it feels like real history is happening as the situation in each game unfolds.",0.8162420392036438,63,True
+289070,45838232,76561197990217555,"OK, bear in mind that each Civilization game is a slight reworking of the previous one. Sometimes the reworking benefits the game. Sometimes it doesn't.
+
+Civilization VI is not the best Civilization game of the whole series, in my opinion.
+
+But is it a *bad* game, worthy of all these negative reviews? Certainly not.
+
+Like every other Civilization game, it's a well produced, well executed 4X game by a studio that very much knows what they're doing with this genre. There are some improvements over previous Civilization games. There are some changes in how particular systems or game mechanics work.
+
+In some - but not many - regards, it feels like the game has regressed a little bit. The AI is poor, let's face it. The DLC model is bullshít - having to pay for individual civs is just rude.
+
+Is this the greatest 4X game ever? No. Is this the best Civ game? Probably not. Is it as good as Civ V? I'd say no personally, but at least it's different, unlike Civilization: Beyond Earth, which was just a reskinned Civ V.
+
+But **is it a bad game?** No. It isn't. You really can ignore many of these entitled reviews hating on this game just because they made changes that they don't like. It's a decent, polished 4X game that isn't perfect, but for anyone who enjoys games like this there are plenty of hours of gameplay to be had.
+
+If you own Civ V and loved it, but you're now bored of it, Civ VI is definitely worth a go. If you haven't played Civ V but want to try a Civilization game, go play that instead.",0.8662027716636658,238,True
+289070,35897885,76561197973315693,"I'll preface by admitting that I'm a grumpy old civ4 elitist, but this game just isn't worth buying in its current state.
+
+There are a lot of very cool systems the designers have put up a rough foundation for, but it's still just too empty to really enjoy.  You can really see the potential in this game, but there's still just so many little things missing or buggy that drive you nuts.
+
+And as always, the AI is dumb as rocks.  They keep making the combat engine more and more complicated without adapting the AI to handle it at all.  As a result, you can win wars with maybe 4-5 units.  The AI is just not good enough to handle the system.  All the depth of the combat mechanics just aren't satisfying because of this.  
+
+It's like beating a dog in Chess.  Your great strategy and tactics are simply wasted on an opponent that has no idea what it's doing.
+
+And a full year after release, there are still missing hotkeys for actions you will do *EVERY TURN*.  
+
+The art is gorgeous.  The soundtrack is amazing.  The district system and the armies/fleets system show so much promise.  But the game's just not deep enough, and the AI so poor that it's simply not enjoyable after one or two playthroughs.  
+
+I cranked the difficulty up to diety on my 2nd playthrough, and still got bored and quit 200 turns in because of how far ahead of the AI I was.  I played on Emperor in civ5, and I think Monarch in civ4.  It's not like I've magically gotten better at the game.  The AI is just *that* bad.  It is utterly incapable of threatening you militarily, and does not know how to pursue win conditions at all.
+
+Again, there's a TON of potential.  Really disappointing game as it stands though.  Maybe with a couple of expansions it'll reach its full potential, but until then I cannot recommend this game.
+
+
+UPDATE:  As of June 2020 and playing the game with the expansions, my review remains mostly unchanged.  I've gotten a solid 100 hours in the game now so take that for what it's worth, but my main problem continues to be the AI.  The expansions have added some super cool systems and again the game continues to have a ton of depth to it... but the AI simply cannot play the game.  
+
+They still place their cities seemingly at random, put districts in random places, shuffle their units mindlessly, and make no effort at all to prevent you from winning the game. I recently completed a game on Immortal and two of the AIs were not eliminated, but effectively removed from the game by barbarians.  When I finally scouted their lands, everything in sight was pillaged and they had not a single unit to speak of.  
+
+So many good ideas in this game but ultimately you are still playing Chess against a bunch of dogs.  None of the depth of the game truly feels rewarding when the AI continues to throw warriors and arches at you 150 turns into the game.",0.8652254939079285,245,False
+289070,48131761,76561197970587998,"""The information we collect may include personal information such as your first and/or last name, e-mail address, phone number, photo, mailing address, geolocation, or payment information. In addition, we may collect your age, gender, date of birth, zip code, hardware configuration, console ID, software products played, survey data, purchases, IP address and the systems you have played on. We may combine the information with your personal information and across other computers or devices that you may use.""",0.8645039200782776,887,False
+289070,28465199,76561197986902042,"[b][u]The Short of It:[/u][/b] While Civilization VI isn't a bad game, it is quite fundamentally flawed and comes in no way close to its predecessors, Civ IV and V. If you're new to the series, definitely play those instead, or if not, go for Endless Legend, why not. All three are better experiences than Civ VI.
+
+
+
+[b][u]The Long of It:[/u][/b] The Civilization series should be well-known to all gamers, but not everyone has actually played the games. The groundlayer of the turn-based 4X-genre, Civilization takes a player, and his empire, from the Stone Age to the Information Age, with the player making decisions on where to focus in terms of scientific research, military development, cultural progress, expansion, and many other factors. Every game is different, not just in terms of player-determined settings, but also in terms of map layout, rival civs, etcetera.
+
+
+
+[b][u]The Right of It:[/u][/b] Civ VI improves one thing greatly compared to its predecessors, and that is city development. The Districs system really forces you to think, and to specialize. Gone are the days of a single city building every improvement and Wonder. It's just not possible anymore, and that's a good thing. With the districts-system, Science and Production are no longer the be-all, end-all of games which need to be focused on primarily.
+
+Barbarians are no longer the pointless annoyances they were in the previous games. They're much deadlier now, and every civ needs to stay on its toes. This definitely gives the barbarians-element some much needed relevance.
+
+A few other nice improvements made it to Civ VI, including military/noncombatant escort formations (finally!), expendable builders (which deals with unit clutter), mix-and-match cultural policies, and Eureka!-boosts for techs and civics, earned by fulfilling all kinds of mini-tasks. Now, if they'd just stuck to that, Civ VI would have been a straight-up improvement over VI, but sadly, there's a lot to discuss when I point out...
+
+
+
+[b][u]The Wrong of It:[/u][/b] With all the desire for innovation and change, Civ VI trips over itself in quite a few departments, in same cases making the game frustrating and irritating to play.
+
+The diplomacy system is, for want of a better word, a complete disgrace. Rival Civs will all, without exception, viciously loathe each other, including you, denouncing each other and you as often as they can, even when you've done them absolutely no wrong. One Civ had several diplomacy bonuses from good relations, but still declared me filth because we had a different system of government. Meanwhile, the A.I. leaders will not stop spamming you with pointless messages every turn, and because they, for some reason, need to slowly fade out twice, it's an infuriating habit which costs you a lot of time and has no benefit at all.
+
+You might as well never bother with trade deals either. The AI will never, ever agree to a trade deal, nor suggest one, which doesn't favour them at least 3:1, even if they are pathetically weak. Their deals are nothing short of extortionate, and all they do is waste your time with more pointless interruptions, because you'd never, ever accept any of their deals anyway. As for espionage, well, expect all the A.I. opponents to focus only on you, sabotaging your Industrial Zones relentlessly, causing you to gnash your teeth as you waste yet more turns rebuilding things.
+
+What few friends you have will, guaranteed, suddenly declare war on you for no reason at all, even though they're much weaker than you are and have nothing to gain from the conflict. And then, within ten turns, they'll come begging on their knees for peace. Refuse, and the entire world will hate you even more for being a warmonger. That's right, you will be a warmongering menace to the world even if you never once declare war. Having war declared on you and defending yourself is apparently an atrocity. This kind of system makes a player wonder if this game was even playtested at all.
+
+In fact, it's not just diplomacy, really. The A.I. in general is often downright moronic.
+
+The choice of art style, as well as the writing, are questionable to say the least. While it's true that Civ V was high on realism, and therefore seriousness, Civ VI has taken to the other extreme. The art style is jarringly cartoony, with leaders looking like caricatures and the map nauseatingly green and yellow, the UI is ugly with oversaturated colours, and the educational quotes that came with tech discoveries have been replaced with cringey pseudo-witty pop culture soundbites from comedians and other assorted funny-people. Not even Sean Bean's excellent narration can save the writing from being eye-rollingly lame. All things combined, Civ VI has the look of one of those crappy mobile games.
+
+Lastly, the Civilipedia isn't much help. The game neglects to explain a lot of things and looking them up in the Civilipedia doesn't help one bit. You're supposed to smell that you can only build a single Archaelogist per city that has an archaeology museum, for instance. Often, building options will be grayed out without any explanation as to why. And don't get me started on National Parks. Ugh.
+
+And of course, once more, many civilizations and mechanics are not present, or in a bare-bones way, which means Firaxis has once more held back things which were present in the previous game, only to release them in expensive DLC packs. It's a nasty habit, and every game developer should ask itself some serious questions when it resorts to deliberately holding back game content to be able to release it as DLC later.
+
+
+
+[b][u]The Last of It:[/u][/b] Civ VI has some good ideas, but its positive elements don't come close to making it as good as Civ IV or Civ V. It's certainly not a bad game, but as an entry in the Civilization series, it falls far short of the standards the franchise holds itself to. Seriously, get the previous Civs instead, or if you've played those, give Endless Legend a go.",0.8642954230308533,1407,False
+289070,219660960,76561199559553595,"100/10
+Please Firaxis fix your game! Every war I am delclaring is happening in real life too, otherwise best game ever!!!",0.8134757280349731,41,True
+289070,113350093,76561198072591923,"I love crash simulator, even without mods or friends you can experience the joy of crashing over and over again on repeat.",0.8127131462097168,123,True
+289070,41369351,76561198049561198,"A good game at it's core, probably the most complex-at-release game of the series. However, there are some serious problems regarding the AI - namely the fact that they are either petty, incredibly spontaneous, or both. The unique modifiers for each civ leader disregard capability, so the Dutch with insult and berate you for not being able to trade with them when they're on the other side of the world. They will also declare wars against you without any sort of warning, despite the display showing that they are friendly towards you. Lying civ displays was a thing back in V as well, but here it feels arbitrary and a constant frustration when your neighbors (and everyone else) suddenly declares two, four, or even six separate wars against you without any sort of real discourse. The only time a civ will demand something from you is when they are displeased with you, but know they can't win a war. The whole system makes their ""poker faces"" seem more like a game of Guess Who when the other player keeps changing their character.
+
+Map generation is oversimplified compared to Civ V, which allowed for a variety of different map types. In VI, however, you have less than ten different map types not counting the fairly minor variable modifiers. With how the Eureka and Inspiration systems work, you could easily find yourself trying to play a military civ without have any iron or horses spawning near you, resulting in a far slower tech development than those lucky enough to do so. This also happens with two of the earlier technologies, which require you to find a second continent and find a natural wonder respectively - both of which you could be easily screwed out of by no fault of your own. This leads to maps boiling down to one of a small variety. Good starts, bad starts, and unwinnable starts. Yes, those can happen - if you end up next to a horribly aggressive enemy or get cornered by barbarians, you can basically kiss your starting point goodbye, because the AI will quickly leapfrog ahead of you. 
+
+On that note, Barbarians are horribly annoying in the early game, but are basically required for the Eurekas for most starting military techs. If a barbarian scout locates your city and gets back to a nearby encampment - and with a movement range of 3, that's more likely than not - you're going to find a raiding army of three units heading towards where you settled. Note that this likely happens right out of the gate, resulting in you having to put all of your development building military units so you can actually build and expand without your units being killed or abducted. The worst part, however, are barbarians that encamp near horses. Those barbarians spawn Horsemen and Horse Archers, a barbarian specific unit that is both far more mobile than their grounded counterpart but also much stronger. And you don't get the Eureka for the technology to make spearmen until you kill three barbarians total. This is even worse in slower games, because barbarians spawn much faster than you can make military units to fight them off due to the barbarian spawning not scaling to the slower game speed.
+
+Religion, which was only added later in the life cycle of Civ V, is in the base game, but it is extraordinarily tedious and frustrating. The AI will pursue religion with a crazy furvor, using every single faith point it has in the most efficient way it knows how, making competing against them to get a Religious Victory a trial of tedium. In fact, the easiest way to win a Religious victory is to actually go for a military victory. Cities burned or captured and Inquisitioned are much easier to deal with than trying to work the arcane Religious Combat system or throwing Missionaries and Apostles at any city who doesn't follow you over and over. It wasn't even until Rise & Fall was added did they allow your military units to stop religious units, who would before then just walk right through your lines and provide scouting and intelligence.
+
+Honestly, it's not a bad game. But it is disappointing, poorly balanced, and if you want to just play a fun round you may end up hitting that Restart button more than a few times. Hold off on it for a sale, at the very least.",0.8610760569572449,187,False
+289070,29733035,76561197972427734,"After numerous shorter games, and romperstomping my way through a huge map with 11 AI players, conquest only victory and epic timescale, I really feel that I've played enough to say that the AI in this game is an absolute joke. Really, this game isn't worth your time... Get Civ V instead - it's a far superior game...
+
+My key issues are as follows:
+1) The AI repeatedly declares war, sends nothing to attack you, then begs for peace some turns later prostrating themselves before you with offerings of gold and luxuries.
+
+2) When at war with the AI, they never attack. I remember playing Civ IV, and seeing armies building up on my border before the AI declares war. No behaviour of that sort is to be seen here.
+
+3) The AI is schizophrenic and utterly moronic. They will condemn you for warmongering, while frequently attempting to encourage you to join in their wars. Involving yourself in even a single war during an otherwise peaceful playthrough can lead to unanimous loathing from the AI, with constant denouncements being shouted at you.
+
+4) The AI never uses aircraft...
+
+5) The AI settles cities in any location they can, and leaves them completely undefended. The AI does not choose efficient locations for city building, and thus irritates that player into having to declare war in order to raze the cities and more efficiently use the land.
+
+6) The victory screen statistics are total garbage. There is no map replay.
+
+7) The UI feels a bit awkward, with various essential tools seemingly overlooked. There is, for example, no list of all units. If you want to find your builders, you must do this manually by scrolling over your empire. A further oversight is the lack of a global politics overview. If you want to know who is at war with whom, you must ""speak"" to each leader in turn, and look at their current relationships.
+
+
+Complaints aside, however, I have to say that this game is looks stunning - it is rich in detail and vivid in colour, and the wonder animations are an absolute delight. The sound design is fantastic, and music is memorable and quite beautiful. The new district system is absolute genius - making the process of building and laying out a city a substantially more interesting and nuanced process compared to Civ V. It's a terrible shame that the AI is just such garbage - it ruins the game. I used to play ""comp stomps"" with my friends on a fairly regular basis, but doing so in Civ VI would be a waste of time.
+
+
+Edit:
+
+Some people have suggested that I play the game on harder difficulties, but my understanding is that higher difficulty levels simply add a multiplier to the AI's output (e.g. they get a 2x production multiplier so that they can always outproduce you), and does not affect their behaviour. Since my biggest problem with the game is its broken AI, playing on harder difficulties simply gives them an advantage, but does not make them ""smarter"".
+
+Additionally, I think it's valid to compare the game to Civ V. I played Civ V from its initial 'vanilla' release, and (I realise that I'm referencing personal memories from ~6 years ago) do not recall being as disappointed with the AI after making the jump from the mature game of Civ IV to the then new game of Civ V. Therefore, I stand by my statement that Civ V is a better game. It is not more content that I desire, but a challenging, intelligent AI.
+
+Edit 2:
+
+While I was not impressed with the game at launch, it has improved considerably!",0.8609380125999451,849,False
+289070,94466043,76561198079062942,"this game puts me in a worm hole where it feels like 30 minutes but I shift tab and I have been playing for 10 hours straight, I love this game.",0.8580990433692932,96,True
+289070,26196311,76561198050405475,"This is a difficult decision...
+I thought it was quite fun to play through the first time, but there are some major issues that definitely need to be fixed in order to get me coming back for more.
+
+Pros
+- The visuals are absolutely gorgeous!
+- There's so much attention to detail, it's insane. I love the way cities are organised ingame (especially when compared to the spray paint city tool of Civ 5). Roads actually connect in meaningful ways rather than cutting through everything and creating unwanted super roundabouts. There's a day/night cycle and cities light up when it gets dark. Flocks of birds travel the map and there are fucking chickens wandering around the granaries. With all the details, the world feels much more alive in comparison to the one within Civ 5 and sometimes I just sit there looking at the screen because of it.
+- The animations are superb and smooth!
+- The district system is a welcome addition in my opinion and it adds a lot of depth to the game.
+- City-states are easy to manage and aren't a complete chore like the ones in Civ 5.
+- The Barbarians can fucking annihilate you if you're not careful. They're more of a threat than an annoyance which is actually fun.
+- The new policy and government system is good fun!
+- Being able to organise troops into corps and armies is a very nice addition and helps to simplify combat gameplay.
+- There are some aspects of the AI that have improved from the previous game, but... 
+
+Cons
+- Boy can the AI make some stupid decisions. Sometimes spontaneous war can be enjoyable, but when the civ declaring the war has absolutely nothing to gain from it and won't even bother to show up, it's just annoying.
+- The Agenda System. Great idea, but I feel some of the agendas are stupid and sometimes the penalties are way too high. For example, Ceopatra hates civs that don't have a large army, so if you're not focusing on troop production early on, she'll probably denounce you and declare war on you and every other civilization that doesn't meet her stupid standards. She basically spawns into the game hating a buttload of other civs. The penalties are way to high, and because a lot of the agendas clash in some way, everybody starts hating eachother except Ghandi.
+- Casus Belli. Another awesome idea, but it didn't really make it easier to declare war without gaining warmonger penalties. For example, in one game Ghandi was converting all of my shit to his religion so I decided to declare a holy war on his ass. This Casus Belli gave me a medium warmonger penalty which I thought would be easy to manage, but as soon as I declared the holy war everybody hated me and denounced me and I lost 14 points to each relationship. So for me, the warmongering penalties are way too high and need to be adjusted.
+- Theological combat. Again, another cool idea but there isn't enough depth to it. Since there are only 3 religious units, there's not a lot of strategy involved, especially if you're up against Ghandi's theocracy and his religion focused entirely on theological combat. When he came in with that wave of apostles (knowing that the warmonger penalty for holy war was too high), all I could do was wait until he converted everything and remove all the heresy after. Maybe if there were more units and terrain modifiers this could be fun, but for me it just wasted screen space.
+- It's insanely easy to win a cultural victory. The first time a played I won a cultural victory but I wasn't even aiming for it. I feel like this has something to do with the crazy culture boost from launching a rocket and the fact that you need to focus on culture for a bit in order to get the really juicy policies. It gets the point where in order to get a scientific victory you need to actively neglect your culture and tourism output. This definitely needs a bit of tweaking.
+
+What else can I say? This game was fun to play the first couple of times, but with these issues present I don't really feel like playing it more. I want to have alliances clashing over scarce resources and not everybody hating each other because they want more wonders or because they won't bother to settle on my continent. In my opinion there are a lot of small issues that have a big impact on the game, and I can't really recommend it until they are fixed.",0.8578685522079468,516,False
+289070,35831287,76561198012304029,"I love Civ.  I want so badly to love this game.  I'm sorry.  You've had a full year to fix this game.  The loading time is still unbearable.  The AI is still too stupid to make games playable.  Every interaction with opponents is fraught with basic UI errors.  There are critical mistakes that any player would notice in their first hour, that would take any tester one hour to report, and would take any programmer one hour to fix.  AFTER A YEAR.  This is a lazy game.  This is a cash grab.  Do not buy this game.",0.8577818274497986,767,False
+289070,194177455,76561198027942095,"With over 750hrs of play on this title on my PC alone I now can not play without agreeing to the updated TOS.  The updated TOS remove our legal protections and allow them to collect and share data with their ""business partners"" I have uninstalled and will no longer recommend to others.",0.855437159538269,200,False
+289070,67674470,76561198137077709,"~ DIFFICULTY ~
+🔲 My grandma could play it
+🔲 Easy
+✅ Normal
+🔲 Hard
+🔲 A challenge to be reckoned
+🔲 In the heat of confrontation, treat your opponent with respect
+
+
+~ GRAPHICS ~
+🔲 MS Paint
+🔲 Bad
+🔲 Meh
+🔲 Graphics don't matter for this game
+🔲 Good (nothing special)
+✅ An original artistic direction
+🔲 Beautiful
+🔲 Masterpiece
+
+
+~ STORY ~
+✅ This game has no story
+🔲 Basic element of the contractual requirements
+🔲 It's there for people who want it
+🔲 Well written
+🔲 Leading to more in-depth researches/thoughts
+🔲 A model to get inspired by
+
+
+~ LENGTH ~
+🔲 Long enough for a cup of tea
+🔲 Short
+🔲 Average
+✅ Long
+🔲 To infinity and beyond
+
+
+~ MUSIC ~
+🔲 Just filling noises
+🔲 Trivial and uneventful
+✅ Good and/or fitting the game's artistic dispositions
+🔲 Memorable
+🔲 Transcending whispers of a forgotten world
+
+
+~ INTEREST ~
+🔲 I would rather watch paint dry
+🔲 Hard to enjoy
+🔲 Repetitive and/or uninspired
+🔲 A good moment
+✅ Sticking out of the pack
+🔲 You will remember it long after
+
+
+~ REPLAYABILITY ~
+🔲 A one-time experience
+🔲 Only for achievements
+🔲 If you wait a few months/years (or with mods)
+🔲 Definitely
+✅ Infinitely replayable (or almost)
+
+
+~ BUGS ~
+🔲 Never heard of
+✅ Minor bugs
+🔲 Can get annoying
+🔲 Impacts the player's experience	
+🔲 The game itself is a big terrarium for bugs
+
+
+~ REQUIREMENTS ~
+🔲 You can run it on a microwave
+🔲 Low
+✅ Average
+🔲 High end
+🔲 NASA computer
+
+
+~ PRICE ~
+🔲 Free
+🔲 Underpriced
+🔲 Perfect Price
+✅ Could be cheaper
+🔲 Overpriced
+🔲 Complete waste of money
+
+
+~ WORTH BUYING ~
+🔲 No
+🔲 If you have nothing else to play
+✅ Wait for sale
+🔲 Yes",0.8548611402511597,445,True
+289070,45458843,76561198845412272,"a lot of bad things have been written about this game here. sadly they are all true. garbage ai, bad pacing, less unit types than in previous games and so much other crap.
+
+yeah, they're trying to appeal to a broader audience. you could probably call it a try hard at this point. changing stuff to reinvent the game is one thing. but here it seems like people made the decisions, that never even played the f-ing game. imagine some paid creative dude looking at civ 5 and saying: ""i know what this game needs, more micromanaging!""
+
+so you have to move every single builder manually. genius and so immersive. what do you say, you think it's not entertaining to move 20+ builders every turn when you have a lot of cities? well, f you. you want a building queue? f you again. you want an in game screen that isn't cluttered with mostly useless information, while making you search for the few things you really need to know? f you very much.
+
+the list goes on and on. sure, you can mod the game to an extent, but that shouldn't be necessary for such basic things. it's just bad design all over the place. speaking of bad design, what's with the comic look of the game itself? we're not talking frank miller here, more like some bad disney rip-off. you love it or hate it. personally it gives me eye-cancer.
+
+another thing are in game options for single player. in civ 4 you could easily adjust what you want to see. show my moves normal and full fight animations, but speed that crap up for the ai? no chance of that here. you either skip all or nothing. why? i actually enjoy seeing my units move and fight, but i can't say the same for 8 other ai players plus city states. this pumps the turn time up to a ridiculous degree. if you skip all fight and movement animations, that's faster but sure feels dull for my taste.
+
+dlc policy is a kick in the nuts for the consumer too. the whole ages and influence stuff was just cut out of the main game, to be sold separately later. their mentality is so bad, they're risking going full ea on us at this point. like the whole red shell thing. they spy on you in a full price game, get called out on it and are like ""no, no, we're totally not stealing your data. and even if we are, what's it to you? everybody does it, so the suits said we should do it too. so f you, stupid customer."" they took it out by now, but it leaves a sour taste.
+
+one last thing. multiplayer is terrible when you play with strangers. there is no safeguard system for quitters and people who go full retard in the chat. the host can kick players as he sees fit, but that's it. so sometimes you will be kicked because you play too good, or because the host feels like it.
+
+so basicly in most games you will be with 4 players or less in under 50 turns. the quitters can enter a new game right away without problems. there is no ranking or consequences whatsoever. i hate that, but i can't blame those noobs too much. if you make it that easy to abuse the mechanics of the game, then you shouldn't wonder when people take advantage of it. bad design, again.
+
+in conclusion: if you like civ and you have a few real-life friends who feel the same, get the game, mod the crap out of it and play private with them. that can actually be fun. if all of you can get the game to work that is. there's a 50/50 chance there will be some kind of problem for at least one of you. you can work around that, but it takes time.
+
+buy the game and the dlc on sale. for under ten bucks for all of it you might actually get happy with it. otherwise stay the f away from it.",0.8525756597518921,849,False
+289070,199573225,76561197967603140,"Bought the Game, Now I Need a Crack to Play It.
+
+You Don’t Own Civilization VI. You Just Lease Your Privacy.
+I paid for this game years ago. Back then, it was a fair deal: buy the product, play the product. Simple.
+
+Now? You launch the game and get a fresh ultimatum:
+Consent to surveillance, or you’re locked out.
+This is not a minor update. This is a bait-and-switch:
+They want to harvest your personal information and gameplay data.
+
+They want to sell it to “marketing partners” and “affiliates.”
+They want the right to change the rules again whenever it suits them.
+If you refuse? Tough luck, you’re no longer allowed to use the thing you already bought.
+
+Let’s call this what it is: Extortion, dressed up in corporate legalese.
+They hold your purchase hostage to force you into compliance.
+
+I have no patience left for this industry rot. If I have to choose between letting a publisher treat me like a product or cracking the software I legally own, I’ll pick the crack every time.
+
+To 2K and Take-Two:
+You can keep your EULA. You can keep your “consent.”
+I’m keeping my integrity.
+
+Verdict:
+This isn’t just about Civilization VI.
+It’s about every game you think you own, until they decide you don’t.
+Let it burn.",0.8017483353614807,60,False
+289070,143205767,76561198346345658,"---{ Graphics }---
+☐ You forget what reality is
+☐ Beautiful
+☑ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{ Gameplay }---
+☑ Very good
+☐ Good
+☐ It's just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ Audio }---
+☐ Eargasm
+☐ Very good
+☑ Good
+☐ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{ Audience }---
+☑ Kids
+☑ Teens
+☑ Adults
+☑ Grandma
+
+---{ PC Requirements }---
+☐ Check if you can run paint
+☐ Potato
+☑ Decent
+☐ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{ Difficulty }---
+☐ Just press 'W'
+☐ Easy
+☐ Easy to learn / Hard to master
+☑ Significant brain usage
+☐ Difficult
+☐ Dark Souls
+
+---{ Grind }---
+☐ Nothing to grind
+☑ Only if u care about leaderboards/ranks
+☐ Isn't necessary to progress
+☐ Average grind level
+☐ Too much grind
+☐ You'll need a second life for grinding
+
+---{ Story }---
+☑ No Story
+☐ Some lore
+☐ Average
+☐ Good
+☐ Lovely
+☐ It'll replace your life
+
+---{ Game Time }---
+☐ Long enough for a cup of coffee
+☐ Short
+☐ Average
+☐ Long
+☑ To infinity and beyond
+
+---{ Price }---
+☐ It's free!
+☐ Worth the price
+☐ If it's on sale
+☑ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{ Bugs }---
+☐ Never heard of
+☑ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{ ? / 10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☐ 7
+☑ 8
+☐ 9
+☐ 10
+",0.7999104857444763,56,True
+289070,197146604,76561198030883476,"Didn't play the game for a long time and just checked the EULA before starting the game, warned by some posts. Don't forget to open the link to the privacy statement on the 2K site otherwise you miss the most important part. I find it shocking. I don’t write lots of reviews, almost never state my opinion but I have to.
+
+In my opinion the concern about the privacy is just. I even wonder if agreeing with this by just starting the game is even legal, especially in the EU. Some data that collected, if in the wrong hands, can have massive consequences for an individual in real life. 2K, why do you need a person’s address, payment methods INCLUDING credit card information, not to mention browser history and even the way I click and scroll on a website? Seriously?? Age and gender can also be shared while most times this is considered protected as you even state in your February 2025 privacy statement. Btw.. you missed religious background. Shame on you!
+
+The lust for data seems to have no bounds and any signs of ‘good taste’ seems non-existing, not even remotely. Please restrain yourself a bit instead of brutally invading the privacy of the players and place your players at the top of your priority list. And please spare the marketing sauce trying to ‘justify’ why you do it, this is an insult to you players. Most of them are not stupid and can actually read between the lines. And remember, a studio exists by the grace of the player, not the way around. You needs us, the player. Players do not need a particular studio, plenty of similar games to go around. It’s hard to get new players, it’s easy to lose them… Doing well on the last part, don’t you?
+
+I played Civilization from the first game on till Civ VI with a lot of pleasure. And worst of all, I CAN totally recommend the series. All of them (except Civ VII because I didn’t play it yet and can’t play it with this EULA). Spend thousands of hours on the franchise. And now it ends after almost 35 years… So sad… 2K clearly need moral guidance… 
+
+So… if you don’t care about basic privacy protection, this is your EULA! It should really make you happy knowing that your personal information can (not said that it actually will) end up almost anywhere. However if you do care…",0.7980157136917114,85,False
+289070,76039087,76561198038164235,"UPDATE 10/30:
+Nope, froze again. And crashed my Mac. Again. Normal settings, 70 turns in. Damn you, Aspyr.
+
+UPDATE 10/21: 
+In the past week I've been able to play a game past 200 turns for the first time in months. No crashes or freezes! Also no peep from the devs about any official fixes and the game still clocks in at about 500% CPU during play at normal settings on my 2019 MBP. BUT... there may be some fixes in the works? A guy can hope.
+
+Your mileage may vary. I'm still saying ""don't recommend"" until I hear word about an official fix.
+
+ORIGINAL REVIEW:
+
+DO NOT BUY ON MAC. The game has been unplayable on MacOs since at least May or June. You'll get a few turns (or a few dozen turns) in and then your whole computer will freeze and crash. The developers refuse to acknowledge the issue, let alone fix it. Check the Steam Mac forum if you don't believe me.",0.8448541760444641,262,False
+289070,133428748,76561198056410605,"I absolutely loved Civ 5 and it is one of my favorite games of all time, so I immediately purchased this game back in 2016 with very high hopes it would blow me away and be the next game I sunk 1000+ hours into playing.  Unfortunately, I couldn't quite even get to the 100 hour mark with this game in the 6+ years I've owned it and found myself going back to Civ 5 even to this day.
+
+The game improves a lot in the features from Civ 5, allowing more ways run your civilization with the unit improvements such as allowing attachment of civilian unites to military ones to protect them as well as allowing districts so that a city that was started surrounded by land could still access the ocean if it was at least a few tiles away.  But even with all of these improvements, I couldn't get over a lot of the aesthetic choices they went with this game.  The cartoony and exaggerated expressions from the Civ leaders and units didn't really click with me and kind of made the experience feel more cheap as compared to the more realistic and compelling aesthetic that Civ 5 had.  I also did not like the change of workers expiring after improving a certain amount of tiles whereas 5 kept your workers to continually improve.
+
+The agenda system also does dampen the experience a little for me as well as I often found leaders despising me just because I wouldn't fit what they prefer, such as lacking in culture.  I'm sure others would find this setting interesting as it adds another dynamic in relations, but I found it very annoying as it didn't make a lot of sense to ruin relations just because my empire wasn't progressing in a way that the AI thought suitable.
+
+It may be a fit unfair with how much I do compare this game to Civ 5, but it is hard not to given this was the next step taken in the series.  Given how I hold Civ 5 in such high regard and how much of a let down this game was in comparison, I honestly cannot recommend it to others.  If you did not like Civ 5, this game might be a good change of pace to get into.  But if you are similar to me and love Civ 5, I would recommend awaiting to see if Civ 7 will be the next step that takes the series to a higher level, as Civ 6 failed to do so in my opinion.",0.7925329804420471,124,False
+289070,182476635,76561198033372248,"Good thing Luigi was around to resolve 25% of the UI bugs, the user experience of civilization 6 could have ended up being measurably worse without him",0.8923985362052917,155,True
+289070,104748777,76561198018175592,"Islamic state of Germany has attacked and nuked the Buddhist Russians, prompting me, the Judaist England, to attack the Orthodox state of Egypt's tanks with my crossbowmen. 10/10, would ""f*ck it, why not"" again.",0.8417880535125732,123,True

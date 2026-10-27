@@ -1,0 +1,1516 @@
+appid,recommendationid,author_id,review,weighted_vote_score,votes_up,voted_up
+621060,41530446,76561198060471365,"I was afraid to touch my computer, at all. My friend built it for me. The cables were a mess, my GPU wasn't screwed in properly, and the thermal paste wasn't switched in almost 2 years. I played this game for a few hours, and my actual computer was in the game! It took away a lot of the fear I had of messing something up, and I was able to take apart my computer, and clean/fix everything and put it back together. I wouldn't have done that if it wasn't for this game really showing me how easy it actually is.",0.9684847593307495,864,True
+621060,91200606,76561198006360325,"Super unrealistic. I was able to order a high end GPU and have it delivered next day at a reasonable price.
+",0.9623620510101318,1159,True
+621060,100846777,76561197997671579,This game is one of the greatest works of fantasy of all time. It takes place in a realm and era in which GPUs existed,0.9567763209342957,557,True
+621060,51468283,76561198009823375,"My wife and I owned and operated a custom PC shop for 15 years. Our builds were all customized according to what customers intended to do with them. So I came into this game with a lot of knowledge and expectations. My own system(s) are connected to HDTVs. They're my entertainment centers with all TV, movies, guitar recording, games - everything I do at home goes through my computer(s). 
+
+So let's start with what this game does well. It's very good at showing basic parts and where they go, the screws and how components are placed is pretty accurate. Someone wanting to learn the basics could learn a lot from the game. It's a very stable game. Has crashed on me a few times when first starting the game and the first few steps around the shop - otherwise has not crashed on me. My outdated GTX 950, i5 4690, and 24GB of RAM (not a typo) runs it very well at highest settings, although a bit mind boggling that I can hear my GPU fan scream at times I wouldn't expect it - like checking emails. Overclocking is fairly accurate although there are only major changes for CPU clock and bus speeds. It's been a while since I overclocked many components in real life but I remember having much finer adjustments than the game provides. However if you're patient, you can underclock the multiplier pretty drastically and overclock the base to get finer increments - just remember to adjust your RAM accordingly.
+
+What it doesn't do very well is provide additional PC parts such as USB hubs, TV Tuners, additional PCI cards and such. It also allows RAM to be placed in any slot instead of in correct channels, although it does seem to benefit from more than 1 RAM stick. I've never built a system in real life or in the game without at least 2 sticks of RAM for the dual channel benefit.  And in real life, you can mix RAM sticks to some extent, you're just bound by the lesser timings. The game doesn't show timings at all and doesn't allow mixing sticks - not even the same brand and speed with different sizes. In real life, you have access to every PC part from day 1. I understand the game had to find ways to progress as you go along, but it drives me crazy that I can't access a powerful PSU to use GTX 980s in SLI when they become available. It's not until many levels later that PSUs stop being the main constraint, and more so than customer budgets. I understand it was probably done for support by companies, but I can count on 1 hand the number of times a customer asked for a PC to play a certain game at certain settings, and I've never been asked to benchmark my PCs. Not once. We stress tested them, which is completely different. I assume this was done to get 3D Mark to allow their name to be used. And 3D Mark is extremely GPU dependent - fine for gamers but the rest of the world benefits more from better CPUs and more RAM. Too bad the game doesn't include Sisoft Sandra or other benchmarking tools for programs other than games and Adobe Photoshop.
+
+What it does terribly is fix known issues. (EG: the Cooler Master Masterbox won't allow the PCI lock to be attached with a GPU installed, nor with the correct PCI slots installed once they've been removed). Crazy! Water cooling is severely limited, 1 reservoir (until you reach level 30), so 1 loop. And only 1 way to install reservoirs makes it very unrealistic. And way too often a radiator in one area prevents another in the same area even when they're miles apart (such as top or front only allowing 1 x 120mm radiator when there's actually room for 2 or 3). And water cooling is often less efficient than air - in real life that's rarely true. The game temps are better from many radiators instead of bigger ones (EG: 2 separate 120mm radiators cools much better than a single 3x120mm radiator). That's just wrong.
+
+My biggest complaint comes from parts binning and when they become available. It's true that no 2 components will perform identically. But I've never seen 2 high end GPUs perform 10-13 degress C differently - they wouldn't pass QA inspection with that poor performance. The cheaper the GPU in real life, the more likely you are to get a bad one. But high end components must meet much stricter requirements - the game seems completely opposite.
+
+So would I recommend this game? Must admit that once I reached level 30 and achieved 26,000 3D Marks, I was sad to see that there was nothing more to do in the game. So yes, I obviously enjoyed it and would recommend it to anyone who is interested in building and fixing PCs. It's far from a perfect simulation but it also does many things very well. I found it a very enjoyable experience overall. :)",0.9508466124534607,274,True
+621060,70280137,76561198194524515,"A marketing tool cleverly masked behind an addictive zen-ish PC building simulator.
+
+You spend each day fulfilling orders coming in, ranging from cleaning dusts and viruses to building PC of sufficient specs to run specific softwares (which are real-life softwares... imagine the sponsored marketing dollars) within certain budgets and deadline. And gosh, I hate it when customers requested that I use cables of specific colours.
+
+It's almost educational enough to give you a GENERAL understanding on pc parts compatibility and how overclocking works. In real life, there are more considerations that are missing/insufficiently represented in the game. Eg. Lower tolerances on overclocking settings to fry your components, different chassis and MOBO combination affecting gfx card choices and layouts due to form factors and layout, differentiating SATA/IDE/M.2 slots, fan size/speed/location affecting airflow and efficiency of cooling effects, etc.
+
+Was trying to build a non-gaming work PC in real life recently and I found myself inadvertently biased to choose parts intended for a monster gaming rig.
+
+Summary: Addictive, Zen, Educational, Subliminal Marketing. You are warned.",0.9501157402992249,286,True
+621060,140800245,76561198059520771,"This game WILL teach you how to build a PC.  Most of the reviews are from peeps trying to flex their geek muscles.  If, like me, you are completely new and overwhelmed by the concepts involved in building custom PCs, this game WILL teach you.
+
+The career mode is tedious AF, which is good in terms of the repetition and learning, but starts to wear out after you get the basic picture.",0.9324565529823303,162,True
+621060,81029650,76561198040630477,"As a person who professionally work in IT stuff and comp support stuff, I approve this game 100%
+It's not 100% accurate, but it can give you general ideas how to build and troubleshoot your PC.
+
+Pro:
+- Decent accuracy
+- Decent gameplay
+- Funny story (the clients can be stupid and moron, but it's fun lol)
+- Decent graphics
+
+Cons:
+- some minor but annoying bugs
+- prices should be fixed, coz some of the parts have become cheaper
+
+Final Score 4.5 / 5",0.9282430410385132,189,True
+621060,83457007,76561198025907340,"Yes I would recommend this game.  I got this game to to play around in the sandbox mode.  The sandbox mode was fun for about an hour or two.  Then I started the career mode... holy cow, there is an actual game here.  An educational game; that is fun!  My son, who is 13 years old, also has a PC.   I told him to download it, and he had to stop playing TF2 until it was finished.  This game forces you to run a small business, paying bills, ordering supplies, meeting deadlines, taking pride in your work, while at the same time teaches a basic understanding of what makes a PC work (or not).  The career mode is actually a small business simulator.  Genius!  I started my son on the career mode and he loves it, I couldn't get him to turn it off.  He is learning real life budget management skills, deadlines, self determination... they don't teach this stuff in school.   10/10 for young teenagers!  I ordered him a 4 core processor to replaces his old 2 core.  I'm going to watch him do it himself now.  Thank you.",0.9188873171806335,132,True
+621060,54659794,76561198064747486,"Do you recommend this game?..... Yes I do.
+ 
+I never built a PC before and I believe quite strongly that at least half of my confidence in doing one for real came from this game, sure it isn't 100% compared to the real thing but it certainly helped me to learn the basics of how one is put together and where the core components go..... In mid-December 2018, I did my very own build and using it to write this review, so far so good and she hasn't caught fire yet.",0.9471881985664368,262,True
+621060,125221662,76561198238327058,"As a computer engineer i must say, this game is super unrealistic. USB cables always fit at the first attempt and i was able to order a high-end GPU and have it delivered next day at a reasonable price.",0.8928419947624207,121,True
+621060,83097024,76561198023820129,"If you like clicking buttons to build PCs, this is the game for you. It looks nice, the PCs can get very pretty, there are zillions of different models, there's enough going on that you'll probably need to take notes to remember which customer gets which CPU and which GPU, you will have to wrap your head around the arcane methods of determining which combination of hardware will deliver an adequate 3DMark score with no freaking help from the game!
+
+As a former PC Builder for hire, there are a few things that kind of irk me. Too many customers are ""hey, while you're repairing my rig, I'd really love the white cables"" without paying you any additional labor. Too many requests for ""just upgrade the CPU"" without a specific goal, just a budget. The 3DMark process takes forever (yes, yes, motivation to open up another workstation, but early on, boy it sucks). No easy access to your inventory to see what you might have in stock. These are just little niggling things that occasionally crop up to irritate. If you're remotely interested in the concept of this game, you'll like it.
+
+",0.8850099444389343,97,True
+621060,117352815,76561198044932645,"I went from 'ew wtf is that game' to over 100 hours played (I also can't seem to stop playing it). And I have also learned a lot of things about building a PC and picking out parts. 
+
+10/10 Very educational.",0.9330986738204956,225,True
+621060,72708289,76561198047686787,"To those who are here planing to build their own PC
+I've been building PC's for myself and for family/friends for the last 15+ years (Primarily for Gaming) and to be able to build PC's non stop like this is very satisfying. Something I've wanted to do for a long time ago. I recently built a few PC's (mine and 2 for friends) in 2020 and was excited to finally try out this simulator so I could keep the fun going.
+
+From my experience from 26 Hours, I haven't reached a point where it becomes just like in real life and maybe it never will. I don't play a lot of simulators and although you couldn't do ""EXACTLY"" that same thing on PC Building Simulator to build a PC for yourself, It is very very close. If you are thinking about buying this game to help get a hands on feel before building your own Computer I highly recommend it. They are very accurate even if its not exact. Remember, its not 1 for 1 ratio and you will need to learn from real guides. You're best off to search forums to ask questions and there are a lot of good guides on YouTube. One place I go to is the forums on Tomshardware.com and use PCPartPicker.com to virtually build the PC first and to get a price before buying anything.
+
+As for continued gameplay, I haven't fully unlocked everything in this game. Apparently it will soon start giving jobs for overclocking but that hasn't happened for me yet. I certainly wouldn't trust a game to learn how to overclock my own PC. 
+
+I simply can't put this game down. I'm having so much fun putting together PC's.
+Maybe I should try to do this for a living lol.
+
+Whether you've built your own PC's in the past or not. If you're considering this game wondering how accurate it is, I think for the hands on part its very accurate.  Prepare yourself for some problem solving. The game isn't going to hand you the answers.
+
+If you strive for a perfect 5 star review from your customers, re read the entire email before finishing. Make sure to do everything they want or hint towards. If you have trouble with the 3D Mark jobs I built a small formula I use in a notepad for each 3D Mark job I have running to keep track and properly calculate.
+
+For eg. (VC is Video Card)
+""Customer Name"" - ""PC's score"" 3DMark, Current VC  ""VideoCard Score"", Increase by """", upgrade with ""New Part""
+
+M.Mercury - 3379 3DMark, Current VC 2560, Increase by 174, upgrade with ""MSI Radeon R9 390X""
+
+
+When I get a 3DMark job I duplicate the above formula and start filling it in. I click on ""PC Stats"" in the email to get the PC's current 3DMark Score (Didn't notice this at first and always ran my own taking much longer)
+
+so with this example 
+
+M.Mercury wants a new 3DMark of 3553
+
+M.Mercury - 3379 3DMark, Current VC 2560, Increase by 174, upgrade with ""MSI Radeon R9 390X""
+
+
+3379 was accomplished with his current VC that has a 2560 3DMark rating
+The new 3DMark ""3553"" Minus the current 3DMark ""3379"" (3553 - 3379 = 174)
+I need to upgrade either my CPU or Video Card by 174 to reach 3553
+Current VC 2560 + 174 = 2734.  
+
+Buy the ""Part Ranking"" software from the store to find the current Video Card 3DMark Rank
+Our final number is 2734. Buy any Video Card with a ranking of 2734 or higher that you found from the Part Ranking software and then add the item you purchased at the end of the formula. I do this because if I do several jobs (which I often do) there is a risk I might use a video card that was meant for a 3DMark job which will cause them to fail. Using this formula I can easily do 4+ 3DMark type jobs with out worry. I'm also able to figure out exactly what to buy the same day I accepted the job so the PC arrives along with its upgrade. No need to run 3DMark Software on the PC to figure out what i'd need to buy.
+This may not be perfectly accurate and I could be missing some stuff but so far its working great for me. 
+
+I'm excited to continue and discover more things PCBS can offer.
+I hope this review can be of help to some people :D
+
+
+P.S
+A fun little tip
+Some customers are repeats and if you were to add say.. a custom wallpaper... each time they come back you will see that same wallpaper. I always do my own custom wallpapers on each PC I build from scratch.
+Its kinda fun to boot up your next job and its one of your builds with a custom wallpaper lol",0.9215098023414612,274,True
+621060,167316954,76561198123119443,"Since the devs are sold out to Epic, PCBS is no longer receiving updates anymore. Accidentally soft-locking yourself and buggy achievements are still happening as of this writing this review. Parts list are frozen in time and they are focusing on PCBS2 which is a permanent exclusive on EGS. 
+
+God forbid something goes wrong with your game progress because they're now refusing to support PCBS. Shame",0.9210324883460999,172,False
+621060,41632364,76561198131752337,"Fun game. Would like to see
+
+- Custom water cooling
+- Cable management
+- Physical stores you can visit (For example, MicroCenter)
+- More things to do on the OS and your own computer
+- More websites to order parts from and sales
+- Upgrading/expanding your business (Moving from the small room into a bigger shop where npcs can drop off computers)
+
+Overall this game has a lot going for it and I look forward to seeing what the devs will bring to us.
+",0.9188111424446106,180,True
+621060,198095674,76561198963723931,"I like the game.
+It's good to know how to build a PC but please update the game with the current hardware available in the markets.
+So we can build a PC with current items.",0.867505669593811,72,True
+621060,41231572,76561198013719192,"As an IT Administrator I would Like to say that this game is AMAZING. Everyone interested in learning the basics on building PC's must download this!!! I wish that some of the fixes required CMD or Powershell commands, but I guess that would turn some people off.",0.8671811819076538,131,True
+621060,154257938,76561199233107142,I am in school for IT Support and Cyber Security afterwards. The components and parts for the computers in this game are super accurate and realistic. I seriously recommend this if you are learning how to build computers.,0.865412175655365,79,True
+621060,50446333,76561198011948575,"This game showed me the ropes of building a PC. $1000 real dollars, some very important lessons learned, and several days of my life later, I've actually built my own PC in real life. This game inspired me, taught me, introfuced me to a real life benchmark program, and now allows my fantasies to run wild with dream PC possibilities. If you're a Techy kind of person and like to play simulator games. Get this game!!! 10/10",0.9145259261131287,198,True
+621060,76299665,76561198320183427,"--{Graphics}---
+☐ You forget what reality is
+☐ Beautiful
+☑ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ Paint.exe
+
+---{Gameplay}---
+☐ Very good
+☑ Good
+☐ It‘s just gameplay
+☐ Mehh
+☐ Starring at walls is better
+☐ Just don‘t
+
+---{Audio}---
+☐ Eargasm
+☐ Very good
+☑ Good
+☐ Not too bad
+☐ Bad
+☐ Earrape
+
+---{Audience}---
+☐ Kids
+☑ Teens
+☑ Adults
+☑ Human
+☐ Lizards
+
+---{PC Requirements}---
+☐ Check if you can run paint
+☐ Potato
+☑ Decent
+☐ Fast
+☐ Rich boiiiiii
+☐ Ask NASA if they have a spare computer
+
+---{Difficulity}---
+☐ Just press ‚A‘
+☐ Easy
+☑ Significant brain usage
+☐ Easy to learn / Hard to master
+☐ Difficult
+☐ Dark Souls
+
+---{Grind}---
+☑ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☐ Isnt necessary to progress
+☐ Average grind level
+☐ Too much grind
+☐ You‘ll need a second live for grinding
+
+---{Story}---
+☑ Story?
+☐ Text or Audio floating around
+☐ Average
+☐ Good
+☐ Lovely
+☐ It‘ll replace your life
+
+---{Game Time}---
+☐ Long enough for a cup of coffee
+☐ Short
+☐ Average
+☐ Long
+☑ To infinity and beyond
+
+---{Price}---
+☐ It’s free!
+☑ Worth the price
+☐ Wait for sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{Bugs}---
+☐ Never heard of
+☑ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+
+P.S.: This is my personal opinion, yours may be different.",0.9047240018844604,126,True
+621060,54441145,76561198397710490,"I'm a qualified PC Technician about three times over and I love this game. It's always nice to take a refresher on building tricky PC systems from time to time. 
+If you're not in the know how and want to start building your own systems then I think this is the way to start. Everything has high detail and is pin point accurate. 
+10/10!",0.9031065106391907,219,True
+621060,65497529,76561197974136869,"This game is so much more fun than I thought it would be. The devs thought of everything! It's exactly what it sounds like-- you run a shop; people bring you PC's to fix. Sometimes they tell you exactly what they want (""please upgrade my graphics card""), and sometimes they don't (""I don't know what needs upgraded, but I want a 3D-Mark score of 3500""). You even have to use popular apps like 3D Mark, or for instance, use a version of ""Can I Run It"" when a customer wants to hit minimum or recommended specs in a certain game... very cool! 
+
+You diagnose PC's; you order parts (including choosing the shipping speed depending on how much you want to spend vs how quickly you want it); you deal with customers who leave you reviews depending on how you do; you collect payment; you upgrade your shop; you manage your money (you even have to pay the shop's rent and utility bills); you can even try to save money by installing used parts in people's PC's (as in: parts you took out of other customer's PC's when upgrading them)-- but watch out, not all customers are cool with used parts!
+
+I really appreciate that the devs clearly went the extra mile. For example, I'm lazy and like to play games with an Xbox One controller sitting on my couch. But what are the chances that they would integrate perfect Xbox One controller support into an obviously KB&M-centric game like this? Well, they did! I couldn't believe it. I literally installed a *MAJOR* AAA 1st person title from Ubisoft just last night, and I couldn't even play it with an Xbox One controller without doing a bunch of outside config. But PC Building Simulator has native controller support? That should tell you all you need to know about whoever made this game. I get the impression it was probably a smaller team, and IMO, they earned my money. 
+
+Great game at a really fair price. Grab it!",0.9024670720100403,122,True
+621060,94393770,76561197995497197,I can build the computer of my dream and then build the computer of my dreams inside the computer of my dreams,0.895026445388794,157,True
+621060,82013230,76561198120229498,"Great game for building PC's you cant afford.
+
+P.S. Still waiting for water cooled 3090",0.8905877470970154,140,True
+621060,73813965,76561198169477203,"Building computers in a computer is an interesting kind of recursion.
+
+After a few hours of playing I just want to say one thing that the clients in this game are like my friends, they also have no explanation about computer breakdowns. There is only one difference: they give it to me personally, not under the door.
+",0.8860594034194946,117,True
+621060,41188539,76561198043544128,">Receives email from the attorney of ""Prince Duarte"", who is stuck in custody needing a new HDD, reward is $0, but $4000 is promised. Knowing this was a typical scam, i went on with it anyway.
+>Accept and replace HDD, sent it back.
+>Receive new email from attorney, requesting a custom built PC with a 3DMark of 3000+. Still no reward.
+>Aaccept and build PC, spending over $1000 on it.
+>Receive email from Prince Duarte himself, thanking me for my efforts, who offers $4000 for me to help him play League of Legends.
+10/10 Game.",0.8857814073562622,182,True
+621060,70295284,76561198362068870,"This game is one of my fav since 1989:) Maybe because i love  PC building.
+Whenever i get bored after some fixes and  exit the game , i resumed playing after  some time.
+ But ofcourse there are some features which i want to see in this amazing game.
+
+1- A note pad , similar like in car mechanics 2018.. so you can copy paste the model 
+
+2- I would like  to see the original part list of the customer, even after i disassemble any part.  
+
+Thank you for this amazing game !!",0.8788571953773499,106,True
+621060,41144022,76561198013687376,"The game is between great and excellent but it is not perfect...
+
+Pros:
+- Career mode
+- Free play
+- Looks great and feels realistic
+
+Cons:
+- Glitches (add hard drives without taking side panel off)
+- Game has closed out on its own once within 2 hours of game time
+- I'm level 3 right now and have yet to feel challenged by this game
+
+Suggestions for Dev:
+- Add level of difficulty and complexity (reboot loops, no display when plugged in video card, software crashes, bad ports on motherboard, etc.)
+- After certain level, stop providing help or hints
+- Surprise us. If something is unplugged like a cooler, hardware can be damaged if overheated like CPU or GPU
+- This is optional. Add multiplayer where friends can host a shop or join a shop (difficulty increases as more join)
+
+My rating: 8/10
+
+Conclusion: This game is worth buying and is designed for anyone to play it. If you are new, there is a tutorial available.",0.8761054873466492,140,True
+621060,124873444,76561198168602881,I bought this game because my housemates were building a PC and I wanted to learn a bit more about what they were doing and what all the components did. This game definitely helped me to achieve that goal :P,0.8195542693138123,48,True
+621060,89971135,76561198304567121,"Fun af, totally enjoyable.
+Would 100% recommend to pc enthusiasts.
+Kinda sad to think I'm building pc's that are far better than my own xd, but non the less, its great.
+Can teach noobs how to build properly, ✔
+Fun to BSOD the hell out of a pc although it hurts my heart. ✔
+
+11/10.",0.8187559247016907,64,True
+621060,41092255,76561198315815754,"Very well made game I love the amount of detail it goes into. It is very worth the money. It really feels like your running a PC store. The PC building itself is just amazing. The fact you can take out and put in every part in the PC is just great. The game has some bugs which is to be expected but you should snag this game before they up the price. This game will get way better with time.
+
+My suggestions:
+
+- Hire AI employees to do tasks for you, Pay them hourly wages and don't make it too OP but you only have two hands so it can speed production.
+
+- Go out of the office and do things, Instead of the shop being on the PC maybe you can actually go to the shop outside of the office and see everything on shelves.
+
+- Buy a better offices and maybe grow into a building. Maybe add furniture customization and decorating.
+
+- Maybe an actual animation of them dropping off the PC, knock on door or something and they drop it off and leave. (Speech bubble ontop of head of what they want done.) Instead of them saying it in the email.
+
+- MUST ADD, a custom folder in the game files where you can put your own custom mp3 files or .waw. The default music is super annoying and there is only 4 choices.
+
+Thank you, Buy this game totally worth it!
+
+10/10",0.8640569448471069,155,True
+621060,130775147,76561198381755148,"PC Building Simulator 1 offers a unique and immersive experience for both seasoned PC builders and newcomers to the world of computer hardware. Developed by The Irregular Corporation, this simulation game provides an authentic and detailed simulation of assembling and maintaining a custom PC.
+
+Graphics and Interface:
+The game boasts crisp, detailed graphics that make each component and tool easily distinguishable. The interface is intuitive, with well-designed menus and tooltips that guide players through the building process seamlessly.
+
+Gameplay:
+PC Building Simulator excels in its gameplay mechanics. Players start with a modest workshop and gradually expand their business by completing orders from virtual customers. The process of selecting components, installing them in the case, and troubleshooting any issues feels remarkably true-to-life. The simulator also includes a variety of real-world components from popular manufacturers, allowing players to experiment with different configurations and designs.
+
+Learning Experience:
+One of the most commendable aspects of PC Building Simulator is its educational value. For those unfamiliar with PC hardware, the game serves as an excellent introduction, teaching players about the function and compatibility of various components. With the included tutorial and extensive in-game resources, players can learn valuable skills that translate to real-world PC building.
+
+Customization and Expansion:
+The game offers extensive customization options, allowing players to personalize their workshop with decorations and equipment upgrades. Additionally, regular updates and DLCs introduce new components and features, ensuring that the experience remains fresh and engaging over time.
+
+Community and Modding Support:
+PC Building Simulator benefits from an active community of players and modders who contribute to the game's longevity. From user-created components to workshop designs, the modding scene adds a wealth of content and creativity to the game, further enhancing its replayability.
+
+Final Thoughts:
+Overall, PC Building Simulator is a superbly crafted simulation game that caters to both enthusiasts and newcomers alike. Its attention to detail, educational value, and engaging gameplay make it a must-have title for anyone interested in PC hardware or simulation games. Whether you're looking to hone your PC building skills or simply enjoy a relaxing virtual workshop experience, PC Building Simulator delivers on all fronts.
+
+We need PCBS 2 realase on steam, the community need that like a workshop content and artwork
+Will buy PCBS 2 on EGS because if this game free, i hope PCBS 2 relase on steam 
+
+Recomended to play 4/5",0.813338577747345,50,True
+621060,49603126,76561198393572497,"PC Building Simulator was on its way to become one of the top simulator games. But instead of a final touch that would make everything come together, the devs decided to dumb it down and ruin their previous work with nonsensical decisions that instantly sent their game to the biggest category on steam, a ""Could have been"". Yes, PCBS could've been great, but it's not.
+
+- Possibly the best example of this are the ""Diagnose & Fix"" jobs, where your virtual customers ask you to, you know, diagnose and fix whatever is wrong with their machine. Not only they literally tell you whats wrong (I guess its my mobo!), you are given a budget worth exactly the broken part, to a dollar. This turns these jobs into a puzzle grind, where you just check the sum and buy the part, there is zero investigation involved. But even if you deliberately ignore these hints, there is no variety: Does the pc start? If it does, its the gpu or hdd. If not, its the mobo or psu. Just mindless clicking.
+
+- The rating system is an abomination that only highlights how little freedom you have in this game. Did you replace customers Mtech with an Mtech plus? Oh god, rating goes down. Did you exceed the budget by 15$? Rating down. You didnt change cables for colored ones for free? Rating. Down. It really feels like a puzzle where you're not allowed to do anything else than what the game specifically tells you to. It doesn't feel like a game, it feels like a job, a chore. Even if you're a good boy and get your rating to 5 stars, the only reward is more of the same jobs that have a 100$ more for labor.
+
+- 3DMark. Installing OS takes 5 seconds and so does virus scanning. So why in the fuck does 3dmark take a MINUTE and a HALF? It cant be that bad, youre thinking, but no. Every other job requires you to run it (even hdd replacement jobs) and it also happens to be the only way to boost the value of your pc's you sell on pcbay. No matter how you plan your work, no matter how fast or slow you are at multitasking, you WILL have to wait for the same animation to finish over and over.
+A good game shouldnt make you alt tab every two minutes. It feels like cheap filler to stretch the gameplay.
+
+- There are many beatiful cases, some of them which have exclusive art. But what does that matter if in 95% of jobs the budget forces me to buy the cheapest one for 40$? I'm sure this had to take quite a lot of effort, so why is this part ignored is beyond me. At least some kind of visual rating + jobs that work with it would've been nice.
+
+- Optimization is still very poor and the end-of-the-day bug, present for months, is still there.
+
+All in all, it's a shame. It's obvious lots and lots of love was put into PCBS initially, the core of the game is great, writing (of story emails) is absolutely awesome, but all of these huge gameplay flaws simply make it a No, not recommended.
+",0.8122829794883728,237,False
+621060,127261211,76561199086911501,"i love that i can build computers but the only problem is that the computer is better than my actual computer and i come to the realization that reality is often disappointing so i cried myself to sleep that day 
+awsome game!",0.8120684027671814,44,True
+621060,88155759,76561198995403635,"---{Graphics}---
+☐ You forget what reality is
+☐ Beautiful
+☐ Good
+☑ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ Paint.exe
+
+---{Gameplay}---
+☐ Very good
+☑ Good
+☑ It‘s just gameplay
+☐ Mehh
+☐ Staring at walls is better
+☐ Just don‘t
+
+---{Audio}---
+☐ Eargasm
+☐ Very good
+☐ Good
+☑ Not too bad
+☐ Bad
+☐ Earrape
+
+---{Audience}---
+☐ Kids
+☑ Teens
+☑ Adults
+☐ Human
+☐ Lizards
+
+---{PC Requirements}---
+☐ Check if you can run paint
+☐ Potato
+☑ Decent
+☐ Fast
+☐ Rich boiiiiii
+☐ Ask NASA if they have a spare computer
+
+---{Difficulty}---
+☐ Just press ‚A‘
+☐ Easy
+☑ Significant brain usage
+☐ Easy to learn / Hard to master
+☐ Difficult
+☐ Dark Souls
+
+---{Grind}---
+☐ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☐ Isn't necessary to progress
+☑ Average grind level
+☐ Too much grind
+☐ You‘ll need a second live for grinding
+
+---{Story}---
+☐ Story?
+☑ Text or Audio floating around
+☐ Average
+☐ Good
+☐ Lovely
+☐ It‘ll replace your life
+
+---{Game Time}---
+☐ Long enough for a cup of coffee
+☐ Short
+☑ Average
+☐ Long
+☐ To infinity and beyond
+
+---{Price}---
+☐ It’s free!
+☑ Worth the price
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{Bugs}---
+☑ Never heard of
+☐ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+--{DLCs}--
+☐ No DLC’s
+☐ Overpriced DLCs
+☑ A couple ok DLCs
+☐ Good DLCs
+☐ Amazing DLCs
+
+--{Mods}--
+☐ No Mods
+☐ A couple simple mods
+☐ A few mods here and there
+☑ Quite a bit of mods
+☐ A lot of mods
+☐ Skrim 
+
+--{Achievements}--
+☐ There isn’t any
+☐ Unmissable story achievements
+☐ Simple achievements
+☑ Good amount of achievements
+☐ Takes time to complete them all
+☐ There are millions
+
+--{Extra notes}--
+Fun game with mods!
+",0.8096107840538025,72,True
+621060,49076684,76561198105061854,"So when I first played this game, I played it in my laptop. You can't imagine what I felt when I built my first computer in the game, I felt powerful, like I had the power to do it IRL. So I started saving to build my actual computer and that's what I did, it turned out perfect! Now I help my friends build their computers and everything. This was a life-changing experience and I'm really happy to have come across this game. I hope I inspire some laptop users out there to try it and see what it feels like.
+The career mode is also really cool and the game in general is really realistic so I must give it a 10/10 Perfect.",0.857261061668396,83,True
+621060,127616345,76561199344681694,I bought this game because I want to learn how to build a PC through this game and want to learn about what all the PC components did.. This game really helped me.. :D,0.8555291891098022,57,True
+621060,91118118,76561198044344381,"Good, but I wouldn't call it realistic until it has a simulated scalping DLC",0.8515750765800476,75,True
+621060,196552654,76561199473261960,"★ ★ ★ ★ ★ – I had no idea what I was doing... and I loved it
+
+I bought this game knowing nothing about computers. Like, I thought RAM was just something that made my PC go fast. But now? I can actually recognize parts, build a system, and even troubleshoot stuff (in-game... baby steps 😅).
+
+PC Building Simulator makes learning feel easy and fun. The tutorials are clear, the tasks ease you in, and Free Build mode lets you mess around without pressure. Plus, everything uses real brands—so if you're thinking of building a PC in real life, this is actually a great place to start.
+
+It’s chill, it’s satisfying, and I never thought I'd enjoy plugging in virtual power cables this much. 10/10 would accidentally forget thermal paste again.",0.797286331653595,30,True
+621060,43003895,76561197997948601,"As someone who's done this exact thing for nearly 9 years for a living, I recommend it. It's definitely not a replacement for hands-on experience, it's far too simplified and the only people who could learn something from it are (in my opinion) those who have never seen the inside of a real PC. But it's kinda relaxing and just... nice.
+
+The music is repetitive, the 3DMark lottery is infuriating at times, the game doesn't punish you for constantly reusing scavenged parts (no warranty mechanic, probably a plus) and the tasks are often very unrealistic, but fit the simplicity of the game. 
+
+I'd say the tasks being super repetitive is kind of a part of the simulation, the real thing is like that too. What's definitely not like the real thing - in my experience - are all those fancy cases, cooling, cards etc., but again, doing a hundred HP/Dell/Whatever office prebuilts in a row would probably put people off! I could also probably count the number of customers who even knew about benchmark scores on my fingers. Hell, if most people asked me to beat certain scores all the time I might have quit a lot sooner than I did.",0.8458142876625061,66,True
+621060,187375658,76561198031532765,"I love this game. I wanted to learn how to build a custom computer from basic components. A friend recommended this game and I'm really glad they did. While the game is far simpler than building a computer in real life, it does a great job of teaching what the fundamental parts are, how they fit together, and the basic approach to finding compatible combinations. It even goes into (very over-simplified) methods of tuning and over-clocking your CPU, RAM, and GPU.  And it does it all in a surprisingly fun way, and with components that actually have real-life counterparts.
+
+Fair warning: Any computer you assemble in the game is not guaranteed to work as well (or have the same compatibility) as the real-world analog, so this does not stand in for a part picker. But it was quite amusing to be able to assemble my real-world rig inside the game with the same corresponding parts.
+
+Even once you pass all the story jobs, the game is still enjoyable, as the equipment keeps evolving. The developers regularly add new components as they come to market in the real world, so you can keep building bigger and better desktop rocket ships.
+
+Tips for new players:
+* You'll definitely want to invest in any and all screwdriver upgrades as soon as possible. That part of the game gets a little tedious pretty quickly.
+
+* Be prepared for occasional frustration, when a time-constrained job comes in that requires parts you haven't unlocked yet (that only happened to me in the early game).
+
+* Twice I made the mistake of accepting a customer repair/upgrade job on the same day it was due. Since the customer's rig doesn't show up until the next morning, it was an automatic failure. Seems like a bug, tbh, but easily avoidable if you're paying attention.",0.7946656942367554,35,True
+621060,74674637,76561198288555344,"This game teaches the basics and is quite spot on when it comes to building a PC. It would be nice to see some standardized builds, meaning you put the motherboard together before you install the assembly into the case. It would be nice to have this functionality with it being a simulator. Ram slot configuration is not up to par as you can install them in any slot you want and they are somehow seemingly recognized by the BIOS. Overclocking is by no means close to what real world scenarios prove, as I would never be able to increase voltage in components that the game allows vs real world attempts for stability. As an IT professional in-game, I would also like to see some more advanced projects added on a software side vs only the hardware side. Add things that real life IT personnel have to deal with, and it doesn't have to be complicated. I spent an entire day working with an IT guy over the phone once trying to solve an issue with a motherboard and a NVMe M.2. It happens. But it doesn't have to be that complicated lol. Server side PC's, dual CPU setups, Xeon CPU's. Why not add Quadro Cards for clients looking to do some decent workstation loads? I do believe the Dev's can go a lot further in actually making this better as a simulator, which in turn, will allow a more immersive gameplay to the people that enjoy the game.",0.8432127833366394,71,True
+621060,106693540,76561198877114407,"---{ Graphics }---
+☐ You forget what reality is
+☐ Beautiful
+☐ Good
+☑ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{ Gameplay }---
+☐ Very good
+☑ Good
+☐ It's just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ Audio }---
+☐ Eargasm
+☐ Very good
+☑ Good
+☐ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{ Audience }---
+☑ Kids
+☑ Teens
+☑ Adults
+☐ Grandma
+
+---{ PC Requirements }---
+☐ Check if you can run paint
+☑ Potato
+☐ Decent
+☐ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{ Difficulty }---
+☐ Just press 'W'
+☐ Easy
+☑ Easy to learn / Hard to master
+☐ Significant brain usage
+☐ Difficult
+☐ Dark Souls
+
+---{ Grind }---
+☐ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☐ Isn't necessary to progress
+☑ Average grind level
+☐ Too much grind
+☐ You'll need a second live for grinding
+
+---{ Story }---
+☐ No Story
+☑ Some lore
+☐ Average
+☐ Good
+☐ Lovely
+☐ It'll replace your life
+
+---{ Game Time }---
+☐ Long enough for a cup of coffee
+☐ Short
+☐ Average
+☐ Long
+☑ To infinity and beyond
+
+---{ Price }---
+☐ It's free!
+☐ Worth the price
+☑ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{ Bugs }---
+☐ Never heard of
+☑ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{ ? / 10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☐ 7
+☑ 8
+☐ 9
+☐ 10
+
+
+
+",0.7929081916809082,85,True
+621060,70480862,76561198118634571,"This game is great, and I love it. Coming from someone who barely knew anything about computers, it was easy to begin and I quickly learned the basics of building and repairing PCs. You will not get bored with this game quickly, I can say that.",0.8416182994842529,55,True
+621060,68693050,76561198146747845,"If you are a modest builder like myself, its really informative and actually entertaining. Everytime I play it I learn something new, which translates into something I can then do in real life.",0.8410481810569763,77,True
+621060,106117903,76561198851030672,"If you like building PC: Yes
+
+If you want to be ready for building your own PC: Yes
+
+If you want to learn how to build a PC: NO. You don't even learn a shit. Go watch tutorials on youtube like [url=https://youtu.be/PXaLc9AYIcg]this[/url]",0.8392602801322937,98,True
+621060,116122912,76561198364028788,"---{ Graphics }---
+☐ You forget what reality is
+☐ Beautiful
+☐ Good
+☑ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{ Gameplay }---
+☐ Very good
+☑ Good
+☐ It's just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ Audio }---
+☐ Eargasm
+☑ Very good
+☐ Good
+☐ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{ Audience }---
+☑ Kids
+☑ Teens
+☑ Adults
+☑ Grandma
+
+---{ PC Requirements }---
+☐ Check if you can run paint
+☐ Potato
+☑ Decent
+☐ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{ Difficulty }---
+☐ Just press 'W'
+☑ Easy
+☐ Easy to learn / Hard to master
+☐ Significant brain usage
+☐ Difficult
+☐ Dark Souls
+
+---{ Grind }---
+☐ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☐ Isn't necessary to progress
+☑ Average grind level
+☐ Too much grind
+☐ You'll need a second life for grinding
+
+---{ Story }---
+☐ No Story
+☐ Some lore
+☐ Average
+☑ Good
+☐ Lovely
+☐ It'll replace your life
+
+---{ Game Time }---
+☐ Long enough for a cup of coffee
+☐ Short
+☐ Average
+☑ Long
+☐ To infinity and beyond
+
+---{ Price }---
+☐ It's free!
+☑ Worth the price
+☐ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{ Bugs }---
+☑ Never heard of
+☐ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{ ? / 10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☐ 7
+☐ 8
+☑ 9
+☐ 10",0.7867417931556702,73,True
+621060,49905015,76561198094493314,"An amazing tool and game. While, steam isn't showing my proper time i had hell of fun on it. One of the best parts was my friend was building a computer. He was new to the experience and i helped him select all of the parts. And from across the country i was able to work with him because this game is so realistic that it had his exact case that i could work on in parallel. He could follow my instructions and i could highlight where they were on the case speeding along to process. Hell, even if you don't want to play it. It makes a great guide for users building a new computer  and works IT support system.
+
+10/10 great product.",0.8358278870582581,59,True
+621060,93431654,76561198117322731,"If you're looking for actual computer [b]parts repair,[/b] this isn't for you, BUT if you're looking forward to know how to [b]build a pc,[/b] this is perfect in my opinion!",0.8347717523574829,74,True
+621060,116302786,76561197985552848,"This game is for two types of people:
+- Those who like the idea of running their own little PC repair shop
+- Those who are on the perpetual treadmill of chasing the dopamine hit of upgrading their PC with the latest components
+
+This game will simulate both for you.",0.8326426148414612,61,True
+621060,45146008,76561198062796843,"This is such an epic game thanks to it's motivated and dedicated developers & community.
+Game has developed even further this summer with Asus family partnership and much more stuff like intel i9 cpus-..
+
+What this game does:
+
+• Let's you get familiar with most updated PC parts
+• Teaches you how to build a PC in real life
+• Asus ROG family is now partnered (They read my e-mails ♥ )
+• Custom Water Cooling
+• And soon new career mode!
+
+I appreciate the active discord group where you can directly report bugs you encounter in- game and even talk about real life stuff, share your build photos irl and more. 
+What more could you ask for?Hmmm.. Oh-.. I know what!New monitors and maybe more gamer equipment ;)
+
+I highly suggest getting this game if you are into PCs.
+
+10/10
+-IGN",0.8318630456924438,78,True
+621060,176976158,76561199207999728,"---{ Graphics }---
+☐ You forget what reality is
+☐ Beautiful
+☑ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{ Gameplay }---
+☐ Very good
+☑ Good
+☐ It's just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ Audio }---
+☐ Eargasm
+☐ Very good
+☐ Good
+☑ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{ Audience }---
+☐ Kids
+☑ Teens
+☑ Adults
+☐ Grandma
+
+---{ PC Requirements }---
+☐ Check if you can run paint
+☐ Potato
+☑ Decent
+☐ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{ Game Size }---
+☐ Floppy Disk
+☐ Old Fashioned
+☑ Workable
+☐ Big
+☐ Will eat 10% of your 1TB hard drive
+☐ You will want an entire hard drive to hold it
+☐ You will need to invest in a black hole to hold all the data
+
+---{ Difficulty }---
+☐ Just press 'W'
+☑ Easy
+☐ Easy to learn / Hard to master
+☐ Significant brain usage
+☐ Difficult
+☐ Dark Souls
+
+---{ Grind }---
+☐ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☑ Isn't necessary to progress
+☐ Average grind level
+☐ Too much grind
+☐ You'll need a second life for grinding
+
+---{ Story }---
+☑ No Story
+☐ Some lore
+☐ Average
+☐ Good
+☐ Lovely
+☐ It'll replace your life
+
+---{ Game Time }---
+☐ Long enough for a cup of coffee
+☐ Short
+☑ Average
+☐ Long
+☐ To infinity and beyond
+
+---{ Price }---
+☐ It's free!
+☐ Worth the price
+☑ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{ Bugs }---
+☑ Never heard of
+☐ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{ ? / 10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☑ 6
+☐ 7
+☐ 8
+☐ 9
+☐ 10",0.7813704609870911,58,True
+621060,41109826,76561198137301042,"Amazing simulator! Well made. Incredibly indepth! Not many bugs but there are a few. Nothing too game breaking though. But you must remember it is in early access so expect to see bugs.
+
+I built a $10,000 Gaming PC Ingame..... Then bought and built it IRL. 
+
+There are a few game modes:
+
+Free build: Everything is free and unlocked. You can build until your heart contents.
+
+Career: You repair computers from clients, Level up and unlock new parts, Manage a shop and business. Really good and enjoyable. It puts you in a realistic enviroment that you would see in the real world.
+
+How to build a pc: Tutorial of how to build a pc requiring you to install each part. It also provides information about each component.
+
+The parts are realistic and function.
+
+You can do benchmarks on the actual computers in the game with 3dmark.
+
+Though i would really like a option to turn helpful tips off and on in both career mode and free build. 
+
+It would also be very cool if you could add more monitors so its not just at 2k for the benchmarks! 
+
+
+Overall id give it a good 9/10.",0.8306043744087219,50,True
+621060,77062381,76561198141140862,"i played this game at 25 fps to learn how to build a pc that can run it at 100...
+
+(don't forget to plug it in)",0.8286790251731873,55,True
+621060,48700904,76561198054350862,"Honestly, this is the first simulator game I picked up out of curiosity given that it's something i'm interested in. 
+
+For what it's worth it does (at the very least) teach you the rudementary basics, but doesn't go into advanced techniques, and definitely doesn't really go into/account for other nifty tricks that you can do whilst building computers, but it's hell of enjoyable, and the free-build mode at least gives you a little bit of visual splendor. It's definitely a fun game to pass time with and get more familiar/comfortable around the process that goes into building computers.
+
+If I had one major complaint, it's how automated a lot of the processes are. A complete newbie isn't going to know that Item A goes into slot A, etc etc, so having them have to manually plug it in versus it doing it for you would kind of help give them a better sense of direction, and instill a more realistic knowledge into them.
+
+Maybe make it an option in the future that cable management is something they have to do, because as it stands some of these PC's can look really janky, and that's just not visually pleasing or efficient in the least.
+
+While not directly stated, I appreciate how the game is willing to go into details about part compatibility from time to time. One of the biggest threats to new PC enthusiast is buying a bunch of parts and not realizing that they're incompatible with eachother. I'm glad the game takes a bit of time to address this issue, and it does teach them a small bit regarding compatibility.
+
+The Overclocking in this game is a bit wierd, not used to what i'm working with but it does (at least) get the job done for the purpose of explaining what it does, and what sort-of-kinda it's used for. I lament the poor bastard who turns their clock rates up too damned high and winds up BSOD'ing their PC due to them taking this game's systems at face value.  They should talk about some of the negative consequences of overclock, because this game instills the idea that overclocking = free performance boosts at no real consequence other than possibly BSOD'ing because you put in the wrong values. 
+
+Another minor complaint in the music-choice. It gets grating after awhile, so muting the music and putting on some chillhop made it 1,000x more bearable. 
+
+It gets a solid 7.5/10, and I would recommend it to people who are brand-new to give them a general idea while maybe taking some time to explain the finer-points with a real-life example. No two PC's are 100% alike, afterall.",0.8774670958518982,89,True
+621060,47997774,76561198020125851,"[h1]Nice Intro to PC Building[/h1]
+https://youtu.be/nuxiIuZvEEg
+
++ As a learning tool this game is great for a beginner as it gives you a good idea of where everything should go, and the basics of installing each part.
++ Its quite fun to take multiple orders from various clients, purchase the parts they need, and then go through each one fixing each problem. (Some take a bit longer than others)
++ Large variety of parts, cases, and different build designs.
++ Relaxing soundtrack
+
+~ Its quite amusing that you are actually able to steal client's parts replace them with cheaper parts, and then sell the stolen parts for a profit. I'm not sure if this is an oversight, but I don't believe PC repair shops do this, haha
+
+
+- It does get extremely repetitive after a short while, the game lacks a sense of reward once you earn enough to pay for rent.
+- Skips over some of the more tedius parts of PC building...   cable management, installing the OS, installing drivers, etc.
+- I dislike that it shows you exactly where everything needs to be plugged in, and then automates it to where you don't have to really do anything.  It tries a bit too hard to hold the player's hand, when I feel like it would be more fun if nothing was shown and you had to do some real troubleshooting.
+
+
+Side Note: I'm still wondering what's the recommended amount of dedotated wam i should have to server?",0.7752397656440735,47,True
+621060,66506119,76561198168935789,"Customer sent an email says he wants to play a sailing simulator game so bad but has no idea how computer works so he let me decide which part should be upgraded. I boot up his computer and see his wallpaper is a screenshot of that game. This reminds me when I was little I wanted to play a skiing game but could`nt so I did the same thing, put a ski photo as my wallpaper. ah that melancholy",0.8245949745178223,61,True
+621060,48745557,76561198284002760,"---{Gameplay}--- 
+☐ Try not to get addicted
+☑ Very good
+☐ Good
+☐ Nothing special
+☐ Ehh
+☐ Bad
+☐ Just dont
+
+---{Graphics}---
+☐ Masterpiece
+☐ Beautiful
+☑ Good
+☐ Decent
+☐ Will do
+☐ Bad
+☐ Awful
+☐ Paint.exe
+
+---{Audio}--- 
+☐ Eargasm
+☐ Very good
+☐ Good
+☑ Decent
+☐ Not too bad
+☐ Bad
+☐ Earrape
+
+---{Audience}--- 
+☐ Kids
+☑ Teens
+☑ Adults
+☐ Everyone
+
+---{PC Requirements}--- 
+☐ Check if you can run paint
+☐ Potato
+☑ Decent
+☐ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{Story}--- 
+☑ Doesn't have 
+☐ Something isnt nothing I guess
+☐ Not greatly told
+☐ Average
+☐ Good
+☐ Lovely
+☐ Will make you cry or smile alot
+
+---{Difficulity}--- 
+☐ Just press a bunch of buttons
+☐ Easy
+☑ Significant brain usage 
+☐ Easy to learn / Hard to master
+☐ Not so easy
+☐ Difficult
+☐ Dark Souls
+
+---{Grind}--- 
+☑ Nothing
+☐ Only if you care about leaderboards/ranks
+☐ Isnt necessary to progress
+☐ A bit grindy sometimes
+☐ Average grind level
+☐ A bit grindy
+☐ Insanity
+
+---{Game Time}--- 
+☐ Long enough for a cup of tea
+☐ Short
+☐ Average
+☐ Long
+☐ Depends on you
+☑ Endless
+
+---{Price}--- 
+☐ Just buy it
+☑ Worth the price
+☐ Wait for sale
+☐ Maybe if you have some spare money left
+☐ Not recommended
+☐ Dont throw money into a rubbish bin
+
+---{Bugs}--- 
+☐ Never had any
+☑ Minor bugs
+☐ Few bugs 
+☐ Can get annoying
+☐ Ruining the game
+☐ The game itself is a big terrarium for bugs",0.8243990540504456,285,True
+621060,70403889,76561197993595134,"Just bought this game for a bit of fun. Planned to spend about 10-20 minutes initially taking a look. Just finished my first session, - whaa? Where did that 6 hours go ?  lol.
+
+I've been a computer engineer for around 30 years now. I build my own gaming rigs, and this game is great fun. I would recommend this game without a doubt. Its polished, has some nice parts - not fully up to the minute, but it has my RoG Crosshair VI, My Ryzen 7 , and my Cooler Master C700P Tower :)  The game itself is fun, you basically inherit a PC repair business from your uncle who seems like he would have been better suited to running a bar, than a PC shop. But you pick it up and work various jobs that come in by email, to turn the business around. 
+
+I like this game a lot. Its technical enough and pretty accurate for people to learn a lot about building a PC, yet not so complex that when you boot the system it doesn't run, and the job that you thought would take 30 minutes ends up taking 2 hours (as in real life, lol ). so no recovery media, registry checks, driver updates, chipset drivers etc... but all the fun bits of building and repairing PC's
+
+Great job guys, I like it a lot, and give it a big thumbs up!
+
+
+** Just  to add. - the game also has a ""Free Build""  option as well as the game mode. This allows you to pick from all the parts in the game and build the PC you want. A good way to get your head around planning your next PC build ...  **",0.8239753246307373,57,True
+621060,218842108,76561197974455673,"Enjoyed the game, just tired of experiencing console level crap on PC, it's like going back to the days when you had multiple shops with their own exclusive version of games and pre-orders for console, when I got a PC I thought I was finally past having to wait for stuff to be where I want it and then a long came Epic, I'm actually not buying PC builder 2 now or any other game that comes out exclusively to another seller, it's tiresome not to mention insulting to the original supporters of the game, just like that animal crossing clone where the Dev's decided to give an entire future update exclusively to Apple to make some extra money denying it their steam customers who got them where they were, Epic bringing exclusivity to the PC market can do one, maybe if we start punishing Devs with our wallet who think they can make a better cash grab they'll get the message.",0.7714014053344727,40,False
+621060,141427693,76561198078656242,No longer receiving any content updates in favour of the sequel which is a permanent EGS exclusive,0.8212835788726807,171,False
+621060,65591372,76561198061538510,"I bought this game because of a tweet I saw this afternoon. I currently work fixing PCs and would love to make amazing builds.
+This game nails a lot of the steps on making a build, I dare to say it's almost identical as doing it in real life. There are a lot of missing components and peripherals to use but overall it's so complete. You can even screw and unscrew parts out of a case or tighten the motherboard's support screws.
+Overall I love the game and all of the features it provides, the ability to work as a repairman is also very on-point. There are some flaws that I've experienced while playing the game however, but they're not so important to point out. Congratulations on this masterpiece.",0.7709603309631348,34,True
+621060,124239553,76561198034427441,"Sold out to Epic and now PCBS2 is EGS locked forever. Exclusivity has no place in gaming, regardless of which platform you play on, publisher, or developer. I cannot support a Dev that is actively feeding into the EGS exclusivity. I hope that Epic payout was worth the loss in sales.
+
+Edit 11/06/2023: PCBS2 is still an EGS exclusive and I still refuse to support exclusivity of any kind. L developers. L publisher. L game.",0.770792543888092,64,False
+621060,123305765,76561198816518410,this game is quite fun and you learn a lot you need to know when building a pc. one thing that i personally would love would be VR support,0.8192914724349976,51,True
+621060,201116994,76561199060727277,"the engine for this is cool but the game is practically abandoned. parts barely go up to 2020, and its missing features like optical drives, and pretty much anything newer than the 30 series cards. i want to be able to use it to visualize stuff on pcpartpicker, but it just doesnt have enough parts for it to work well.
+
+it also runs like absolute crap somehow",0.7683488130569458,53,False
+621060,213667520,76561198353741005,"The issue that stands is all of the specs available to buy in-game were mainly popular around 2019 (i.e. when the game came out) and so whilst it's refreshing to see the RX500 and GTX1000 series again, it's also difficult to stay engaged when none of the specs you can use are all that relevant anymore. The variety of tasks available is also pretty damn minimal on the base version of the game and I already feel like I've seen it all at 7.4 hours.
+
+In technicality the game can essentially teach you how to build, upgrade and troubleshoot a PC. Obviously it's not done EXACTLY as it is done in real life, but it's mostly true to detail and can be used as a sort of ""training"" if you wish. But all in all the game itself is pretty excellent, it puts you in the shoes of someone in charge of a PC workshop and you have your own desktop with emails etc. where you can accept work. As with a lot of simulators you can eventually start paying to speed up certain processes, for instance, only having to click instead of manually having to remove cables/screws, and you can upgrade your workshop etc.
+
+The sequel to this is out now. I haven't read up on it but I'm taking a big guess that purchasing the second one instead would be the move.",0.7663810849189758,73,False
+621060,93095715,76561198873853142,"Overall, a great game and a fairly good learning tool for beginners. The more advanced users however, not so much. Personally, I would prefer the option of dealing my wire management myself instead of having the cables automatically run for me. This just takes away from the enthusiast builders aspect and OCD users. Not game breaking by any means but just inconvenient and takes away from the overall appeal of any machine you build as the automatic wire management usually just comes out looking like crap.",0.7655792236328125,38,True
+621060,41135609,76561198088179478,"> customer had a broken AMD 1500X cpu 
+> he wanted it replaced because it was broken
+> i replaced his 1500X cpu [spoiler]with an AMD 1200 cpu[/spoiler]
+> he was satisfied [spoiler]because he didn't notice[/spoiler]
+> i got my $225 [spoiler]and sold the 1500X[/spoiler]
+> good game 10/10 would help [spoiler]but really rip off customers[/spoiler] again
+
+
+[spoiler]also my pc doesn't meet the minimum requirements for this pc building simulator game 11/10[/spoiler]",0.86328125,249,True
+621060,41581718,76561198008893174,"As a PC Building Enthusiast I really love this gave I give it a 🌟🌟🌟🌟🌟for authenticity and entertaining, further more it can teach your on how to go around in fitting in the components, and the compatibility.
+
+How ever having all that said it will be great to have a adventure mode where you go door to door visitting homes and work establishments to fix computer issues, I believe this would make a great addition, also add the aspect of becoming a computer building teacher, a new mode where where you can instruct and teach others to build computers, overall amazing game fun but would love to see more from its potential gameplay...
+
+A highly recommended game for pc building enthusiasts!
+
+Good luck with future updates!",0.808958113193512,55,True
+621060,142853173,76561199074037886,"Apparently this simulator has a sequel which is not on Steam. I wish I had known that before buying or that it was made clear. This simulator only features up to 30 series GPUs and the rest of the components follow suit. It seems scummy to not make this obvious on the product page. On top of this, there is even more paid DLC! You aren't even buying everything upfront.
+
+I would not recommend this, as it seems clear they will just put out a new simulator for each generation of PCs instead of updating their existing simulator, or even allowing the old simulator to be updated for a small price which would make more sense. Even with the updated version out, this one remains the same price. Not cool.",0.7551308870315552,30,False
+621060,56865078,76561198158899960,"====[ ❤ Audience: ]===
+☐ Kids
+☐ Everyone
+☑ Casual players
+☑ Pro players
+☐ Tryhard players
+
+===[ ☼ Graphics (compared to other VR-Games): ]===
+☐ Potato
+☐ Really bad
+☐ Bad
+☐ OK
+☑ Good
+☐ Beautiful
+☐ Masterpiece
+
+===[ ☣ Requirments: ]===
+☐ 90' PC
+☑ Minimum
+☐ Medium
+☐ Fast
+☐ High end
+☐ NASA computer
+
+===[ $ Price/quality: ]===
+☑ Full price
+☐ Wait for sale
+☐ Average
+☐ Refund it if you can
+☐ Don't do it
+
+===[ ☼ Difficulty: ]===
+☐ You just need 2 arms
+☑ Ez
+☐ Easy to learn / Hard to master
+☐ Hard (first few hours)
+☐ Dark Souls
+
+===[ ۞ Game time/length ]===
+☐ Really short ( 0 - 2 hours)
+☐ Short ( 2 - 8 hours)
+☐ Few hours ( 8 - 12 hours)
+☐ Long ( 12+ hours)
+☑ Endless
+
+===[ ♬ Story] ===
+☑ It doesn't have
+☐ Still better than Twilight
+☐ Average
+☐ Good
+☐ Fantastic
+
+===[ § Bugs ]===
+☐ Game itself is one big BUG
+☐ Bugs destroying the game
+☐ Lot of bugs
+☐ Few Bugs
+☑ You can use them for speedrun
+☐ Nothing
+
+===[ ✦ Others: ]===
+Multiplayer: NO
+Singleplayer: YES
+
+===[ ♠ Fun-Factor: ]===
+☐ Not from this World
+☑ Good
+☐ Average
+☐ Bad
+☐ Unplayable
+
+===[ $ Buy or Not?: $ ]===
+☑ Yes
+☐ No
+☐ If you really really like",0.85188889503479,175,True
+621060,227985851,76561199378151286,this game is fun and good but i want to buy the second one but its only on epic and i hate epic,0.749821126461029,159,False
+621060,178072123,76561198125460456,"I'm a real-life computer repairman.
+
+I used this game for benchmarking at work.
+
+I can play computer repairman while being a computer repairman at the computer repair shop.
+
+nice",0.7494637370109558,25,True
+621060,107899960,76561198068108182,"You play as the owner of a PC repair shop. You perform tasks such as building a PC from scratch, upgrading a PC, replacing broken PC parts, changing the colour of cables inside a PC, running a virus scan, and cleaning dust from a PC. Satisfy your customers to earn money, improve your shop's rating, and level up.
+
++ Relative Accurate Simulation
++ Humorous E-mails
+
+- Grindy
+- Unrealistic Customers
+- No PCPartPicker Equivalent
+- Budget Doesn't Matter
+
+The only strength of PC Building Simulator is that it's a relative accurate simulation. Various potential PC problems are accounted for in the simulation, although the way they manifest may not be fully accurate. However, there isn't much praise to give in terms of actual game play. Despite the fact that most of your customers aren't experienced enough to upgrade a computer themselves, they are somehow experienced enough to accurately diagnose the exact component that is broken in their computer. They seem to automatically know if you gave them used parts rather than new parts, or if you tried to downgrade their PC. This leads to most repair jobs simply being a matter of buying the parts that they said was broken, and maybe changing their cables, doing a virus scan, or cleaning out dust on top of it. What's even stranger is that you will sometimes receive requests to upgrade a customer's PC not to run a specific app or play a specific game, but to hit a specific number on a benchmark. Nevertheless, most of the time these customers have a large enough budget that you can simply upgrade to the best PC parts available, rather than try to squeeze out the most performance with the least amount of money spent. Finally, while you do have to be more budget conscious when building a new PC from scratch, the lack of a PCPartPicker equivalent makes this task rather tedious as your only tool is a notepad and mental math.
+
+Conclusion: Maybe it's fun if you've never built a PC before and want to see how everything is put together, but there is no satisfaction to correctly troubleshooting problems, picking out PC parts, staying within budget, or doing a clean build. Doesn't scratch the PC Building itch for me.
+
+2.5/5.0",0.7487245202064514,115,False
+621060,54772917,76561198848613577,"---{Graphics}---
+☐ You forget what reality is
+☐ Beautiful
+☑ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ Paint.exe
+
+---{Gameplay}---
+☐ Very good
+☑ Good
+☐ It‘s just gameplay
+☐ Mehh
+☐ Starring at walls is better
+☐ Just don‘t
+
+---{Audio}---
+☐ Eargasm
+☐ Very good
+☑ Good
+☐ Not too bad
+☐ Bad
+☐ Earrape
+
+---{Audience}---
+☐ Kids
+☐ Teens
+☐ Adults
+☑ Human
+
+---{PC Requirements}---
+☐ Check if you can run paint
+☐ Potato
+☐ Decent
+☑ High Tech
+☐ Rich boiiiiii
+☐ Ask NASA if they have a spare computer
+
+---{Difficulity}---
+☐ Just press ‚A‘
+☑ Easy to learn / Hard to master
+☐ Significant brain usage
+☐ Difficult
+☐ Dark Souls
+
+---{Grind}---
+☐ Nothing to grind
+☑ Isnt necessary to progress
+☐ Only if u care about leaderboards/ranks
+☐ Average grind level
+☐ Too much grind
+☐ You‘ll need a second live for grinding
+
+---{Story}---
+☐ Story?
+☑ Text or Audio floating around
+☐ Average
+☐ Good
+☐ Lovley
+☐ It‘ll replace your life
+
+---{Game Time}---
+☐ Long enough for a cup of coffee
+☐ Short
+☐ Average
+☐ Long
+☑ To infinity and beyond
+
+---{Price}---
+☐ It’s free!
+☐ Worth the price 
+☑ Wait discounts
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{Bugs}---
+☐ Never heard of
+☑ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+----------",0.8483365178108215,221,True
+621060,115745126,76561198097098842,"1. This game is riddled with bugs, many of them have existed for years.
+
+2. There has been a steady flow of ""Support DLC"" (that I now regret buying) and parts being added while bugs that have existed for years, persist.
+
+3.  A second game is coming out while this game is in the state that is.  That second game is launching as an Epic Games Store exclusive, just as this one did before it.  Hmmm.
+
+PERSONAL BLUNT OPINION:
+""I paid for THIS game, supported THIS game.  I will not BUY IT again, because you put a ""2"" after the title of an update.  You have lost my trust as a developer, and I am sorry to say that I regret supporting you.""",0.7475437521934509,117,False
+621060,48873154,76561198121018313,"Realistic to building a real computer, but I wouldn't say you can go out and build a rig after playing this game. It doesn't go into enough detail (What type of cables you need, how to check the CPU pins go in correctly, ect), most of it is done for you, with you simply holding a button. I wouldn't use this for educational purposes, but for general messing about, yeah, i would say this is good for that.",0.8469361662864685,54,True
+621060,54417600,76561198053985874,Being a frustrated PC Builder + Technician with no money to do so this game is satisfying my cravings to build new PCs and fix them... Now if I can only get paid $200 in real life to remove viruses from a PC.,0.8460513353347778,86,True
+621060,123511640,76561198254848632,"170 hrs, First game I bought for my PC. its a comfort game for me and honestly taught me everything i know about building PC's. NEVER forget thermal paste. it will teach you about compatibility. dual GPU's. custom water-cooling. and give you a good base on everything to start building them in real life. ""hands on experience"" without forking out the 1000 of dollars on parts and Over Clocking without frying a real CPU. Diagnose real problems and build PC's for a single or Multiple purposes 
+10/10 in my opinion i continue to come back to this game time and time again. i cant wait for whats in store for the second game",0.7455241084098816,23,True
+621060,101769822,76561198150926580,"I've been trying to learn how to build a PC for years, but it's an expensive hobby, and without an IT background the material is dry. This game taught me a bunch about PC building in a way that was easy to understand, digest, and play with. It's a great learning tool and I'm highly satisfied with it.",0.7454612255096436,21,True
+621060,139758978,76561198278758477,"This is not just a great game with a clever and cheeky personality, but a wonderful educational tool that can turn just about any computer noob into a unqualified but competent computer technician.",0.7453317642211914,28,True
+621060,80074149,76561198113539128,"Definitely one of the most fun and relaxing simulators and well worth it´s money
+on sale or full price. 10/10",0.7448580861091614,51,True
+621060,79221433,76561198214741633,"definitely a very fun game while not extremely realistic, I once had my CPU reach 1,254 degrees celcius",0.7937582731246948,59,True
+621060,48634243,76561198058995288,"That game is brilliant(even thou I just started playing)!
+There are few small things that makes this game standing out. Things I haven't seen in ages.
+Like your in game PC has same desktop background as your real PC. How cool is that?!
+I know, it is not big thing but it's awesome.
+Same with transition from tutorial to main menu. Simply brilliant.
+
+Then you start game. First thing you go to you PC. On in-game PC you can see folders and stuff from you real PC!
+You can listen on your in-game PC music that's on your real one. AWESOME!
+
+
+But... there are few thing that makes this game annoying, especially at the beggining. For example: I had PC that needed RAM upgrade. I bought RAM, open PC, try to install part. You can't. It wasn't even on available part list. What happaned? You need to 'open' RAM ports...
+
+One thing I am missing is looking at parts in close up. You just can't.",0.7931732535362244,66,True
+621060,44380662,76561198199175651,"Unlike most gamers, I bought a pre-built computer from Alienware, so I had no Idea how to replace components, or even build a computer! But with this game, along with a few real life computers I dissasembled, I learned a lot about building computers. Would reccomend.
+
+EDIT: Also recently, the game also helped me figure out how to update my RAM on my PC.
+
+EDIT 2: After seeing a single comment on my review, I decided to create a PC with the same specs as my current Alienware PC. And turns out building it would have been $500 cheaper. Moral of the story? Never buy a PC from Alienware.",0.7931281328201294,34,True
+621060,95089714,76561198922026077,"A client sent me an email saying his computer had once again broken...........while i was working on his pc.
+
+12/10 for realism.",0.841765284538269,59,True
+621060,95575733,76561198375147042,"- DIFFICULTY -
+
+🔲 My 90 year old grandma could play it
+🔲 Easy
+☑️ Normal
+🔲 Hard
+🔲 ""Dark Souls""
+
+- GRAPHICS -
+
+🔲 ""MS Paint""
+🔲 Bad
+🔲 Meh
+🔲 Graphics don't matter in this game
+☑️ Good
+🔲 Beautiful
+🔲 Masterpiece
+
+- MUSIC -
+
+🔲 Bad
+🔲 Not special
+☑️ Good
+🔲 Beautiful
+
+- STORY -
+
+🔲 This game has no story
+🔲 Like playing ""Temple Runners"" for the story
+☑️ It's there for the people who want it
+🔲 Well written
+🔲 Epic story
+
+- PRICE -
+
+🔲 Free
+🔲 Underpriced
+☑️ Perfect price
+🔲 Could be cheaper
+🔲 Overpriced
+🔲 Complete waste of money
+
+- REQUIREMENTS -
+
+🔲 You can run it on a microwave
+☑️ Average
+🔲 High end
+🔲 ""NASA"" computer
+
+- LENGTH -
+
+🔲 Very short (0 - 3 hours)
+🔲 Short (3 - 15 hours)
+🔲 Average (15 - 50 hours)
+🔲 Long (50 - 90 hours)
+🔲 Extremely long (90 - 110 hours)
+☑️ No ending
+
+- FUN -
+
+🔲 I'd rather watch paint dry
+🔲 Hard to enjoy
+🔲 Repetitive
+☑️ Actually pretty amusing
+🔲 Ride of your life
+
+- REPLAYABILITY -
+
+🔲 It's a one - time experience
+🔲 Only for achievements
+🔲 If you wait a few months / years
+☑️ Definitely
+🔲 Infinitely replayable
+
+- WORTH BUYING -
+
+🔲 No
+🔲 Wait for sale
+☑️ Yes",0.7889150977134705,40,True
+621060,179216717,76561198333851625,"PC Building Simulator is like that time you watched a YouTube video of someone assembling a computer and thought, ""I could totally do that."" Then you tried, and your computer exploded metaphorically, of course. But with this game, it’s more like a safe, virtual explosion where your dignity remains intact, and you only need to reset the software every 45 seconds.
+
+Let’s talk game play: The premise is simple you’re running a PC repair shop and your job is to build, upgrade, and troubleshoot computers. Think of it as House Flipper, but with a lot more dust and wires that seem to have a vendetta against you. You’ll start by installing a graphics card the wrong way, probably fry a few components, and then realise you’ve just spent 30 minutes trying to figure out why the power button isn’t working (pro tip: it's not plugged in).
+
+The “Realistic” mode is an absolute thrill, where you get to deal with customer orders that are just vague enough to make you question your life choices. Is it really the power supply that’s busted, or are they just saying that because they’re secretly running Bitcoin mining software and don't want you to know? The suspense! The drama!
+
+And let’s not forget about the impeccable customer service. There's nothing more satisfying than receiving an order for a computer that “just needs a little tweaking,” only to realise you’ve been sent on a wild goose chase to install a 10TB hard drive and “optimise the airflow,” all while trying to figure out how the heck to clean a case without accidentally damaging everything in sight. Pro tip: Just vacuum everything with your laptop running, it’s fine.
+
+But honestly, the highlight is the actual building process. You get to play around with different components, click on things, and watch as they either magically fit together like a perfect Lego set or fail miserably like your last Tinder date. The real kicker is when you successfully boot up the computer and it actually works. It's the most satisfying thing in the world, even though you might not understand why.
+
+And then there’s the “Free Build” mode, where you can go wild and build your dream rig without the pressure of customer expectations. That’s when the true chaos starts. You’ll throw in the latest GPU, slap on 16 sticks of RAM, throw in a few RGB lights just to spite your bank account, and then try to figure out why your PC sounds like a jet engine taking off. But hey, at least it looks cool, right?
+
+In conclusion, if you’ve ever thought about building a PC but feared the chaos of real-world mistakes (or the guilt of actually spending money), PC Building Simulator is the perfect way to prepare. It’s a hilarious, oddly therapeutic way to embrace your inner geek while quietly avoiding the inevitable disaster that is “replacing the thermal paste.
+
+10/10, would accidentally install a 10,000 RPM fan again.",0.7362934350967407,22,True
+621060,62935580,76561198021489014,"I knew absolutely nothing about computers before i played this, and after 3 hours of playing, i now know where some parts go and what they do.
+
+This game is both a really fun gaming experience and an interesting learning experience put together in one awesome package. This game is awesome, GET IT NOW!!",0.7856804728507996,32,True
+621060,222020874,76561197995923305,"Although this game is fine and all that, the fact Epic bought the rights to the sequel means that this franchise is in basically dead now.  Unless you are an Epic fanboy, avoid at all costs.    And I don't mean they got a launch exclusive, they own the rights forever, so it will never be on Steam.  What a shame, was a good series.",0.7346853017807007,68,False
+621060,41132288,76561198074471236,"Great game we have ever wanted!
+Now I want
+.VR support 
+.Liquid Cooling
+.sli support more than 4
+.Building minig rig
+.server pc like xeon or epyc. multiple socket
+.EX-atx and mini-itx
+.",0.8333719372749329,124,True
+621060,94451817,76561198868120324,VERY FUN!! Very good building simulation except graphics arent amazing and cables such as 24 pin and graphics cards dont look very nice and dont always route Very nicely.,0.7331891059875488,23,True
+621060,78785096,76561198816012065,"Overall this game is very fun. It's easy to  play and pass the time while playing. There are a few bugs that I have noticed that make some moments a little frustrating, but all together, I enjoy this game loads. While I wouldn't just play this game and then think that I know everything about building computers, it does give a person a brief understanding of how to build one.
+
+Pros:
+The Esports DLC is loads of fun.
+The small story lines with each different client makes the game more enjoyable.
+Plenty of room to  grow with the game with future DLC and stories.
+
+Cons:
+Can be laggy
+Amount of money needed just to change the name of the shop is a bit ridiculous.
+Don't use this to learn how to build computers.",0.7324934005737305,27,True
+621060,193535385,76561198348110100,"Awesome game, but don't make the same mistake as me and just buy PCBS 2 on Epic Games for newer generation parts like am5, intel ultra, ddr5, 40 series GPUs, etc...",0.7319979071617126,27,True
+621060,41103266,76561198200006317,"==[ Graphics: ]==
+☐ Potato
+☐ Really bad
+☐ Bad
+☐ OK
+☐ Good
+☑ Beautiful
+☐ Masterpiece
+
+==[ Price/quality: ]==
+☑ Full price
+☐ Wait for sale
+☐ Average
+☐ Refund it if you can
+☐ Don't do it
+☐ Free
+
+===[ Requirments: ]===
+☐ 90' PC
+☐ Minimum
+☑ Medium
+☑ Fast
+☐ High end
+☐ NASA computer
+
+==[ Difficulty: ]==
+☐ You just need 2 arms
+☑ Ez
+☑) Easy to learn / Hard to master
+☐ Hard (first few hours)
+☐ Dark Souls
+
+
+==[ Game time/length ]==
+☐ Really short ( 0 - 2 hours)
+☐ Short ( 2 - 8 hours)
+☐ Few hours ( 8 - 12 hours)
+☐ Long ( 12+ hours)
+☑ Endless
+
+==[ Bugs ]==
+☐ Game itself is one big BUG
+☐ Bugs destroying the game
+☐ Lot of bugs
+☐ Few Bugs
+☐ You can use them for speedrun
+☑ Nothing
+
+==[ Others: ]==
+Multiplayer: NO
+Singleplayer: YES
+
+BUY THE FANTASTIC GAME !!!",0.7319111824035645,268,True
+621060,73536286,76561198016823425,"This is something else.
+I really didn't expect myself to like it being a free lance computer tech. But it really is something. It may not be perfect in every aspect but its really damn good. The only downside is the silly DLCs which you do NOT need. The only reasonable one is the ""Overclocked"" package which is just the Deluxe version of the game but even then you only get a few special cases.
+
+This game would be perfect for anyone who is interested in building there own PC but dont want to risk damaging anything or wasting because they don't know ANYTHING or even where to start.
+
+The visuals are great for the type of game it is, and the game play is superb.
+
+An easy 8/10 and any one interested in PC building should buy this if they're not able too (or just dont want too) spend the absurd amounts of money on building new rigs.",0.7808403372764587,39,True
+621060,94205437,76561198059408632,I dont know why people are calling this a Videogame. This here is a time machine which transports you to 3 A.M. every time you start playing it XD.,0.7802640199661255,57,True
+621060,72102133,76561198120981967,"I enjoy this game but today, I booted it up and I immediately got hit with a loud, targeted ad for an emergency clinic that had opened up down the road for me. Please remove the targeted ads, I get enough of them and I do not want them in my game.",0.7802560329437256,39,True
+621060,161529146,76561199261983086,"
+---{ Graphics }---
+☐ You forget what reality is
+☑ Beautiful
+☐ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{ Gameplay }---
+☑ Very good
+☐ Good
+☐ It's just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ Audio }---
+☐ Eargasm
+☐ Very good
+☐ Good
+☑ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{ Audience }---
+☑ Kids
+☑ Teens
+☑ Adults
+☑ Grandma
+
+---{ PC Requirements }---
+☐ Check if you can run paint
+☐ Potato
+☐ Decent
+☑ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{ Game Size }---
+☐ Floppy Disk
+☐ Old Fashioned
+☐ Workable
+☑ Big
+☐ Will eat 10% of your 1TB hard drive
+☐ You will want an entire hard drive to hold it
+☐ You will need to invest in a black hole to hold all the data
+
+---{ Difficulty }---
+☐ Just press 'W'
+☑ Easy
+☐ Easy to learn / Hard to master
+☐ Significant brain usage
+☐ Difficult
+☐ Dark Souls
+
+---{ Grind }---
+☑ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☐ Isn't necessary to progress
+☐ Average grind level
+☐ Too much grind
+☐ You'll need a second life for grinding
+
+---{ Story }---
+☐ No Story
+☑ Some lore
+☐ Average
+☐ Good
+☐ Lovely
+☐ It'll replace your life
+
+---{ Game Time }---
+☐ Long enough for a cup of coffee
+☐ Short
+☐ Average
+☑ Long
+☐ To infinity and beyond
+
+---{ Price }---
+☐ It's free!
+☑ Worth the price
+☐ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{ Bugs }---
+☑ Never heard of
+☐ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{ ? / 10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☐ 7
+☐ 8
+☑ 9
+☐ 10
+
+---{ Author }---
+☑ https://vojtastruhar.github.io/steam-review-template 
+",0.7278040647506714,31,True
+621060,62097802,76561198176980270,"Weirdly love this, had next to no knowledge of PCs before i started playing. Now im really comfortable stripping a rig apart ans servicing",0.8267446160316467,55,True

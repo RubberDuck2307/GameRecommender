@@ -1,0 +1,602 @@
+appid,recommendationid,author_id,review,weighted_vote_score,votes_up,voted_up
+9480,158263695,76561198296477360,"After the flippy video, and the behind the scenes of whatever the **** is happening between saints row's parent company(s). 
+
+I hope the fan base can come together to demand that Official patch, which Idolninja would've wanted to get out there so this game can goddamn live officially again, and not on the backbone of hard workers (not the company) that actually love the community and this franchise.
+
+In its current state, the game requires the GOTR, Gentlemen Of The Row, mod to function pretty flawlessly. It's a small little detour, but this game deserves that tinsy bit of effort because of its official neglect.
+
+
+Saint's Row 2 is the last and best actual entry in the series, this game is amazing, and deserves a proper port. Even though the series has quite literally been sabotaged, and I doubt can recover, I hope this game gets the patch it deserves. 
+By this point in time, the story might be cliche and done to death, but it still keeps some moments, and has actual comedic beats unlike the newer entries. If I could boot up this game, co op with friends and pimp slap them into oblivion, or lead them into a false sense of security with moongravity and invincibility and drive face first into a fucking petrol station, I would do so gladly.
+
+Edit: Juiced patch is the patch you want now. RIP idolninja );",0.9349420666694641,165,True
+9480,219165401,76561198068003589,"Never forget they went back on their word to a man dying of cancer to finish the Saints Row 2 PC fix. The same man who spent his very last days working on said fix purely out of love for Saints Row 2 and its fans. 
+
+R.I.P. IdolNinja",0.9461925029754639,209,False
+9480,12228386,76561198056280571," I purchased this game as part of the Saints Row Ultimate Franchise Pack, which was on sale at the time for about $18.  I can honestly say this game has left me completely satisfied with my purchase, and despite having bought the bundle at the beginning of the summer, and played every day, it was at least a month before I even opened Saints Row 3 for the first time, because I was having so much fun playing Saints Row 2, and there is simply that much to do.  With 233.8 hours on record as of my review, I still am only at about 95-97% completion on my first and only playthrough, because it was simply too much fun screwing around.  Even after finishing the story missions, of which there are more than enough to make the game worth buying all by itself, there was still so much to do. 
+
+ The controls took a bit of getting used to, but only at first.  After a short while, any oddities control-wise felt completely natural, which is far from always the case when talking about ported titles.  The only thing I could recommend a controller for would be the driving/piloting.  While driving ground vehicles, the WASD keys don't quite give you the best experience, but they work perfectly fine for it.  The main complaint I had about the game in general were the flight controls, which were awkward at first, but even after getting used to the layout, which wasn't that strange, it still lacked the ability to make small adjustments without losing control, unless you practice a lot. (I practiced a lot though, and mostly was able to work around it.) I got so accustomed to the keybindings in this game that I actually changed most of my SR3 keybindings to match (where they were different at least) because I found I honestly missed many of the default keybindings where they had been changed.  Still, using a console controller for the air vehicles is probably your best option, if nothing else.  
+
+The graphics are far from amazing by current standards, but considering the time the game was made, they're perfectly solid, and the water still looks more real than watch dogs (you actually have a wake in a boat! HOW ADVANCED!! Sorry had to. considering I got this game in a huge bundle for only 18 dollars, I am not only satisfied, I would gladly have paid $18 dollars for this game alone, if I evaluated the value of the game solely on the amount of fun I had playing it.  All in all, I fully recommend this game and hope others enjoy it as much as I have.",0.9436119794845581,272,True
+9480,153362377,76561198353267246,"This is the best Saints Row game ever made, next to SR1. but the issue here lies in how atrocious this PC port is, It outdoes GTA IV in terms of being unplayable. Even if you use SR2 powertools, GoTR, and the patched exe, you'll still have miserable time playing the game. I'd also love to give a big **** you to Volition and Deep Silver for abandoning IdolNinja's SR2 PC patch, the man worked very hard on it up until two weeks before his passing, and y'all to just decided to focus your efforts on a godawful reboot instead of honoring your promise to him. It's no wonder y'all went under.",0.8907131552696228,142,False
+9480,125428891,76561198223427176,"Please, for the sake of everything IdolNinja has worked for, release the PC patch someday",0.9189956188201904,148,True
+9480,168733695,76561198037459135,"It's absolutely disgusting how this game has been treated, but also what they did to the man who was actively attempting to fix it. For those unaware; There was a man that was actively working on fixing the game, who was dying of cancer, and his only wish was to fix the game. They promised him that they would finish the project after his death, but rather than do what they promised, as soon as he passed, they canceled the project. 
+Absolute fucking scum bags. DO NOT support this shit ball company.",0.8671494722366333,80,False
+9480,185214108,76561198038270579,"[h1]This is a GEM of a game![/h1]
+The open world has a lot to do and explore. Personally I felt that the later iterations lost a little bit of that artistic soul that made the open world feet more alive and dynamic.
+
+With that said, the PC Port for Saints Row is poorly optimized.
+You will have to manually download and install a few essential fixes to make the game playable again.
+[Which, I'll list them out below]
+
+[h3]01. STEAMLESS (An extremely essential DRM Removal tool)[/h3]
+https://github.com/atom0s/Steamless/releases
+[list]
+[*] Download The Latest Version of Steamless from the link above.
+[*] Launch the Steamless executable.
+[*] Locate your SR2_pc.exe.
+[found where Saints Row 2 is installed]
+[*] Select the ""Unpack File"" option to remove Steam DRM.
+[*] Rename the newly created ""SR2_pc.exe.unpacked"" file to simply ""SR2_pc.exe"" to replace your original executable.
+[/list]
+
+[h3]02. Large Address Awareness Patch (4GB Patch)[/h3]
+https://ntcore.com/4gb-patch/
+[list]
+[*] Download the 4GB Patch from the above link.
+[*] Extract and Launch the 4gb patch executable.
+[*] Locate your SR2_pc.exe to apply the patch.
+[found where Saints Row 2 is installed]
+[*] Select the ""Okay"" option when it's done.
+[/list]
+
+[h3]03. DXVK Patch[/h3]
+https://github.com/doitsujin/dxvk/releases
+[list]
+[*] Download the Latest Version of DXVK from the above link.
+[*] Extract/open the latest version of the dxvk.tar.gc file
+[*] Within you'll find a folder named ""x32""
+[*] Copy ""d3d9.dll"" and ""dxgi.dll""
+[*] Paste both files where SR2_pc.exe is located.
+[found where Saints Row 2 is installed]
+[/list]
+
+[h3]04. Saints Row 2 Juiced[/h3]
+https://www.saintsrowmods.com/forum/threads/saints-row-2-juiced-patch.21627/
+[list]
+[*] Download the latest version of this patch.
+[*] Extract all the files and folders of the patch to where SR2_pc.exe is located.
+[*] Open the ""reloaded.ini"" configuration file using a text editor.
+[*] Carefully read through and Manually enable essential fixes one by one.
+[*] Avoid enabling anything that has ""Experimental"" flag
+[*] Save and Close.
+[/list]
+
+[h3]05. Gentlemen of the Row Mod[/h3]
+https://www.saintsrowmods.com/forum/threads/gentlemen-of-the-row.24/
+[list]
+[*] Download Gentlemen of the Row v1.9.2 from the above link.
+[*] The Installation instructions are provided within, it is fairly simple and easy to follow.
+[/list]
+
+[h3]06. RADMIN VPN (Use this to play coop with friends!)[/h3]
+https://www.radmin-vpn.com
+[b](The Juiced patch does provide another way to play CO-OP and Multiplayer using Openspy, but you may need to port-forward and possibly change your firewall settings etc to get it to work - I personally prefer Radmin VPN since it's free and easy to setup and it offers you a safe virtual local area network without much hassle)[/b]
+[list]
+[*] You and your friends must Download and Install Radmin VPN. (it's completely free).
+[*] You must 'Create A Network' within Radmin VPN for you and yours friends.
+[*] Share the Name and Password of your Network to your friend/friends.
+[*] You and your friends then needs to connect to that Network.
+[*] Start Saints Row 2, then you can Start/Host/Load a CO-OP > LAN PLAY from the main menu.
+[*] Your friend can then Find Your Game and Request to Join you under the COOP LAN menu.
+[*] You both need to Make sure that you have installed all the fixes and mods mentioned above.
+[*] You both Need to have absolutely identical Installations of the ""Gentlemen of the Row Mod"".
+[/list]
+
+[b]And with that, you can enjoy this game with your friends or by self to your hearts content![/b]",0.8554027080535889,57,True
+9480,18449718,76561198159223293,"[h1] Story [/h1]
+As with every Saints Row game, it's not hard to predict the progression of our story, which is pretty standard. Basically, what you do is eliminate everyone in high positions one by one until you become the owner of the city, and along the way, you take out the lower-level guys and mid-level thugs, etc. :D Only a couple of parts of the game's story surprised me, upset me, or made me happy. : D If we skip over the writing of the story, the execution seems good. For example, in a boss battle where you expect to win, the ending can be different, and what the main character does in the credits at the end satisfies you. So, we have a simple, standard but well-executed story :)  The side quests are so fun and varied that the game doesn't bore you. If you want to do a little bit of each side quest alongside the main story to have a good gaming experience, then this game is perfect for you. But if you're thinking, “I'm going to do everything and finish all the side quests,” then it might get boring because the final levels of the side quests are quite challenging :) So, I wouldn't push too hard to complete everything 100%. Instead, I'd recommend enjoying each side quest at a 2-3 level pace, relaxing and having fun alongside the main story quests :)
+
+
+[h1] Gameplay [/h1]
+We present one of the classic GTA-style games :D Our game features the classic gameplay of an action-based third-person shooter open world game. However, what sets it apart from the GTA series is its fluid and fun gameplay. In fact, what sets our game apart from similar titles in terms of gameplay, story, and many other aspects is its fun structure. In terms of playtime, it's possible to finish our game in about 30-35 hours total, of course, if you don't grind for 100% completion :D So, for those who want a long playtime, the game offers us a medium-to-long playtime; it's neither too short nor too long and boring :)
+
+
+[h1] Graphics [/h1]
+The graphics are generally quite adequate, the drawings aren't bad; the only problem is the irregularity of the textures, like passing through walls :D Or not being able to knock over huge lamps and trees :D These are inevitable in old games, especially old open world games, but they could have been solved with a couple of updates if someone had bothered. Also, considering the year it was released, the car models and modifications are quite satisfying. I'd say it's a good game even now, and I think it can still hold its own against many new games :D Especially finding lots of cool cars, modifying them, and putting them in my driveway has always been a source of joy for me in open-world games like GTA. Driving them, taking their photos, or simply keeping them in the garage because I love them too much to part with them :D As someone who loves these things, the game's car design and modification features have personally satisfied me.
+
+
+[h1] Final Thoughts [/h1]
+Overall, our game is quite enjoyable. If you don't necessarily need an experience like GTA 5, which is among the best open-world games today, and you're not just someone who's obsessed with playing GTA 5, this is a very nice open-world game that can satisfy you quite well. It has a structure that GTA San Andreas fans will easily love :D Considering past standards, it's a game that stands out between GTA and Sleeping Dogs, especially with its enjoyable gameplay that breaks away from the seriousness between the two, and is occasionally hilarious :D If it goes on sale, don't miss it—it's a game that more than deserves its sale price. But whether it's worth buying at its regular price is up for debate ;) 
+
+
+[h1] Ratings [/h1]
+[*]Graphics = 7
+[*]Gameplay = 8
+[*]Story = 7
+[*]Variety of main and side missions = 8
+[*]Engaging = 8
+
+[*]Overall Rating = 7.6",0.8452786207199097,62,True
+9480,150096565,76561198849876452,"PSA: Don't get this game through steam. Buy a used key, don't support these devs, they refuse to respect idolNinja's dying wish to bring the GOTR patch officially through Steam. 
+
+With that out of the way; Out of the box, the experience of this game is very poor, very buggy, and is missing some key content, however this game is still loads of fun. I installed Gentleman of the Row mod to fix whatever technical issues I had with the game.
+With the GOTR mod installed (honestly, even without) this is probably the best singleplayer open world experience of all time, and I will stand by that this game is better than GTA from a singleplayer point. I currently am playing this on Steamdeck, and I have only had minor crashes, which I think were caused by constantly reloading the same save. This game is my favorite open world crime game of all time. I have been playing it since I was a kid on the Xbox 360 back in the day, and this game still goes hard.",0.8427850008010864,91,True
+9480,186347533,76561198039984325,"This port is horrific, and there's no way to play any of the DLCs on PC.
+
+There was supposed to be a patch made by former community manager IdolNinja, who sadly passed away from cancer. Despite many promises to him personally that the patch would be completed, it was never completed, Volition closed down, and now, the game is just as unstable and broken as in 2009. 
+
+Gearbox should be ashamed for continuing to sell this, for all of the problems the ports of the later games have, they are actually playable. This game genuinely crashes so often it stretches the meaning of ""playable"", and just to make it stable, you need multiple separate fan patches.
+
+One of which is made by IdolNinja too, from before he was even hired by Volition. The fact that they didn't even bother to integrate his bugfix mod into the game's download is an actual insult to his memory. Somehow, this version of the game manages to be a ""fuck you"" to the legacy of someone who was by all accounts a decent guy.
+
+Do not buy this. the 360 version in Xenia is a better experience. The KBM controls in this version suck anyways, it's not exactly a downgrade to play compared to this port. And you can actually play the DLC mission packs.
+
+Gearbox is actively pissing on the legacy of a developer who died of illness working on the final patch for this game.",0.8381046056747437,64,False
+9480,226454019,76561198071466083,Juiced Patch and the DLC make the PC port finally the best way to play the game. RIP IdolNinja,0.8353333473205566,48,True
+9480,214313437,76561198041536018,"PLAY WITH THE ""JUICED"" MOD FOR ABSOLUTE BEST EXPERIENCE
+You can find the mod down below, it genuinely fixes everything!
+
+Juiced Mod: https://github.com/kobraworksmodding/Saints-Row-2-Juiced-Patch/releases
+
+Review -
+I grew up with this game back in 2009 on my Xbox 360 and have countless memories. I bought this game nearly a decade ago and was discouraged from playing it ever again due to the condition the game was left in. The game is unoptimized to all hell and basic functions didn't work properly. The list of problems are nearly endless, but I heard whispers that a new mod had entered the scene that aimed to recapture that magic it held on the 7th gen consoles. Giving it some thought and after not playing the game for nearly 15 years, I figured it was time to try it out and dive back into the streets of Stilwater. Firing it up and seeing how smoothly everything worked with the Juiced Mod brought a smile to my face that not many games can and I can't thank the modders enough for what they've done here. They made Idol Ninja's efforts truly worth it in the end. It felt like I went back in time and got to experience the game all over again for what felt like the first time. I know it's primarily supposed to be a reveiw on the game, but in all honesty, I really do just want to praise the mod developers. You guys knocked it out of the damn park. Thank you for allowing me to relive a piece of my childhood in a way I never thought would be possible. (The game is really fun still so if you've never tried it, I'd say this is the definitive way now)",0.8196350336074829,38,True
+9480,194520042,76561198117387818,"Without patches the game runs terribly, the Steam version is even worse because the .exe file hasn't been updated like the GoG version. That being said with patches the game runs a lot better and is playable at 60+fps. Download the Juiced patch, Gentleman's of the Row patch, and make sure to get the GoG .exe file and you'll have an absolute blast! The videos linked below have the files and the patches needed!
+
+https://www.youtube.com/watch?v=IoCWxAdc5gc
+https://www.youtube.com/watch?v=0c7vg0y8IVw",0.8124528527259827,36,True
+9480,77915930,76561198091269457,"DO NOT BUY THIS GAME >RIGHT NOW.< 
+
+Understand, I'm recommending this game, but only AFTER the SR2 patch comes out.
+
+For those out of the loop: This port was originally created by an outsourced studio. To say it was mangled would be an understatement. Volition could not fix the port, however, because they didn't have the source code for SR2 anymore. Back in October of 2019, a copy of the source code was found, and a single Volition developer took it upon themselves to fix the absolutely trash spaghetti code that was dumped onto PC. IIRC there was one other person from outside the company helping him.
+
+When this patch comes out, assuming that it fully fixes the port, THEN buy this game. I originally played this on XBox360, and it is one of the most fun crime city sandbox games out there. The original Saints row was criticized for being a GTA clone, which it was. SR3 cranked the wacky factor up to 11, and SR4 ripped the knob off.
+
+SR2 is the perfect blend between SR1 seriousness and SR3 shenanigans. It is just goofy enough when it wants to be but has extremely poingnant moments sprinkled in between to create a whole different experience.from older GTA games that SR1 was so heavily borrowing from.
+
+So again, do NOT buy it as of October of 2020. Check online to see if the patch has been released, and only after its release should you buy SR2.",0.8617235422134399,78,True
+9480,127809459,76561198101849510,"First of all this is quite possibly one of the best games I have ever played, however if you want to play it I would suggest getting your hands on the console version.
+
+PC port is plagued with issues, mostly the weird framerate and crashes, which are so random there's no way to prevent yourself from crashing.
+Worst part is, the devs found the source code but have not given any ETA on when it will be finished aside from ""still in the works"", sad since the guy who was working on it died of cancer. 
+
+RIP IdolNinja, if only you knew what the fate of this game and what the whole franchise became.",0.8061826229095459,48,False
+9480,230316822,76561199810957372,"very poorly designed PC port, but Juiced and Clean Gentlemen Of The Row more than make up for it. Don't buy this game unless you're willing to find and install those packs/fixes. 
+
+R.I.P IdolNinja",0.8034928441047668,36,True
+9480,162186657,76561198040971414,"First, let me say, I ADORE this game. Without a doubt it is the absolute peak of the Saints Row series. But, the fact this junk port is for sale should be considered a crime. Without mods there is absolutely 0 chance of having a positive experience. Even with mods you will face frequent crashes. You are much better digging out an xbox or using an emulator to play.
+It breaks my heart to leave a negative review on such an incredible game, but the sale of this game is nothing short of fraudulent.",0.796276330947876,40,False
+9480,204000853,76561199202615880,"[h1]A classic isn't given the love and care it deserves.[/h1]
+
+[i]Saints Row 2[/i] is a classic, however with the unceremonious release it was given, you wouldn't really know that. It's fun, but I could never really recommend a game that you have to patch yourself to work. Luckily, those things are relatively easy to do -- which shows how lazy it is that the developers didn't, and won't, do it themselves. For the price you can get this for on sale, it isn't bad, but even if it was just $1, it's not really excusable.",0.7833563685417175,53,False
+9480,102313327,76561198963821377,"It's the worst PC port in gaming history, but if you have the patience to fix it you'll enjoy a masterpiece.",0.8328661322593689,65,True
+9480,201225366,76561199790120622,"GET THE JUICED PATCH!!!
+
+This was the closes GTA competitor that the gaming industry ever had. With it's fan and goofy missions, atmospheric open world and character customization this game was ahead of it's time. Too bad they botched the PC port. Thankfully the fans have took the time to fix this gem.
+
+RIP Mike Watson",0.7815865874290466,33,True
+9480,193430309,76561198008820973,"Install the patches from the Late Dev Mike Watson (Rest In Peace), and this runs much better than the original PC port.
+
+Having never played it back in the day, i have to say... This is a solid game, even by today's standard its fun.
+
+Installation guide for all required patches. I have several hours of gameplay, no CTD, no performance issues.
+https://steamcommunity.com/sharedfiles/filedetails/?id=2652709959",0.7772781848907471,27,True
+9480,231762102,76561198154180877,"For my 100th review, I had to review a very special game. Saints Row 2 is one of my favorite games of all time, and I have played a lot of games.
+
+Before I talk about the game itself, keep in mind that this is one of the worst PC ports you can come across. But don’t worry, there is a community made mod called Juiced Patch that fixes almost everything. It makes the game play the way it should on PC and adds several quality of life features, such as uncapped FPS, faster loading times, removing the orange filter, and much more.
+
+The community also restored the console exclusive DLC, and it is fully playable on PC.
+
+I highly recommend installing Juiced Patch + the DLC. If you have modded games before, you already know what to do. If you’re new to modding, don’t worry, it’s very easy. Just download the files and drag them into the game folder. Follow any YouTube guide, and it should only take about five minutes. The patch also brings back the co-op mode.
+
+Thanks to the patch, I was finally able to 100% the game, including all of the collectibles, without a single bug or crash. It feels great to be able to revisit one of my favorite games on PC whenever I want.
+
+That said, I truly believe Saints Row 2 is the best crime game ever made.
+
+Stilwater is an amazing city. Looking at the map, you might think it’s just an average sized open world, but it isn’t. The city feels alive and is packed with interior locations that you can explore, many of which are not even marked on the map. It’s an incredibly fun world to mess around in, especially in co-op, where you and a friend can create endless chaos.
+
+The story is also excellent. It has the perfect balance between serious moments and over the top fun, which is what made Saints Row so unique. Sadly, Saints Row: The Third leaned too heavily into the goofy side, and the series gradually lost some of that original balance. And let’s not even talk about the reboot.
+
+A lot of people label Saints Row 1 and 2 as GTA clones, but that comparison is often oversimplified. They share a genre, but Saints Row have its own identity rather than just copying GTA.
+
+I also don’t think it makes sense to dismiss games just because they compete in the same space. Having multiple strong games in a genre is a good thing, it pushes all of them to improve. You can enjoy both GTA and Saints Row without needing to pick a side.
+
+More competition = better games.
+
+If you want to play a classic crime game, give Saints Row 2 a chance and see for yourself why so many people still love it. And if you’re already a fan and want to experience it again on PC, Juiced Patch has you covered.",0.7770859599113464,27,True
+9480,198790463,76561198256376216,"Even with a bad pc port that might never receive the official patch it deserves, Saints Row 2 is still an amazing game and is worth playing if you consider yourself a fan of crime open world games.
+
+ I would highly recommend installing JUICED patch along with a radio fix mod in order to make your game as stable as possible and have the radio stations not being compressed to hell. It's still a bit buggy but it makes the port so much better. RIP Mike Watson,",0.7767471075057983,37,True
+9480,8801622,76561197970398622,"I’m glad I decided to play this game! The only reason I started playing it was because I finished Saints Row 4 and loved it, which made me want more. As it turns out Saints Row 2 feels like it hardly belongs in the same franchise as the fourth game. Volition have truly reinvented the franchise as they’ve gone from title to title, only keeping the characters and setting as they go. This explains why the people who loved the second game and wanted more of that tend to complain loudly about the third and fourth games. They’re just not the same. Personally I think reinventing and iterating are both equally valid approaches for a series to take. I like the variety, and you certainly can’t accuse them of retreading the same ground like I’ve seen some do with Rockstar and the GTA series.
+
+Saints Row 2 came out in 2008, and it feels like a game of its time. It might not seem like 2008 is that far back, but when you play games of that time they all feel old now, as does Saints Row 2. At that time I remember games journalists were talking about emergent gameplay instead of story, and it shows in Saints Row 2’s design. Compared to any major game released in 2013 this feels like complete chaos. Instead of the world acting like a virtual movie set with carefully staged combat, the game instead relies on world simulation systems and AI to act on its own. This approach makes it nearly impossible for a developer to tell a story during missions, because the minute to minute gameplay is completely unpredictable. Instead the designer only choreographs the action with commands like: Go there, kill that, chase that car, etc. 
+
+Even during missions the world simulation present in the free exploration mode is in full effect. So when you take over areas of the map you’ll have friendly thugs spawn there. If a mission happens to take place there, or a car chase goes through neighborhoods controlled by your gang, groups of friendly thugs will spawn and rain bullets on your pursuers. If during a mission an enemy shoots a civilian standing near you, police will arrive on the scene and start fighting the enemy gangsters with you. The last time I saw this kind of three way combat break out spontaneously was in the Stalker games. I wish we had more games like this, especially on the next-gen consoles where the extra memory and power could allow much more elaborate world simulation. That would in some way fulfill “the point” of next-gen hardware. Making something you couldn’t do on 360/ps3, just like this game is something that couldn’t exist on PS2.
+
+Anyway, I had a great time blowing through this game. It’s messy, ugly, glitch, but it all comes together to create something special. One thing I was pleasantly surprised by was the quality of the cutscenes. In Saints Row 4 they were generally very high quality, but in a couple scenes I found the sound to be a bit crap. In Saints Row 2 the sound during cutscenes is phenomenal. It’s raw, violent and has about as much impact as you could hope to have. It fits perfectly with the story itself which in the “Brotherhood” missions turns into an ugly conflict where neither side appear noble or heroic in any way. It’s dark, gruesome and I was even shocked at one scene where the game made it abundantly clear that the player isn’t a hero anyone should aspire to be. So I finally get where the hype about Saints Row 2 has come from. If you know you’re a fan of slightly janky games with outstanding qualities you’ll probably like this. Those wanting a slick, modern, controlled experience should avoid it like the plague.",0.8239020109176636,177,True
+9480,20178875,76561198020796334,"Let's just clear one thing right off the bat. The PC port of Saints Row 2 is just horrendous. But it doesn't mean Saints Row 2 would be a bad game.
+
+Saints Row 2 is in my opinion the best Saints Row game in the series and is well worth the full price since the story missions will last easily for 18 hours on your first playthrough and getting 100% will take probably up to 30 hours. There's a lot to do and lot to play with but I personally thought the story missions were the strong point of the game. The missions were fun and varied quite a lot. Boss fights were fun yet a little too easy. But that isn't really a big downside since the other missions are so strong.
+
+I recommend Saints Row 2 to everyone if you are willing to look past it's problems (which can be fixed with mods, by the way) and give it a shot. You will not regret buying this game.",0.8120927214622498,81,True
+9480,119174751,76561198074970350,"Still love the game after all these years, but heed the warning: this is quite possibly one of the WORST PC ports in the history of PC ports.
+
+Without spending time fixing the game on your own with mods and settings, you'll be lucky if you get 15 minutes of gameplay in on the vanilla version before the game randomly crashes to the desktop. Supposedly a fix was announced for this back in 2019. I'll believe it when I see it. In the meantime, save your money and don't encourage developers to continue earning money from broken, non-functional games.",0.762054443359375,44,False
+9480,166238875,76561199359604237,"crashing row 2
+Update after alomst 5 years since i buy this game i found a fix for the crashes and game problem it`s called juiced patch now i can play the game without crashing",0.7580537796020508,32,False
+9480,140169318,76561198067922772,"i haven't owned Saints Row 2 on Steam (more on that in a bit) in literal years, but i can still write a review so...
+
+as a major fan of saints row the third (it was my first saints row game), i still adored saints row 2. the story, characters and even gameplay is fun. however...
+
+the base PC port (this Steam version) is absolute dogshit and that isn't an exaggeration. framerate issues, crashing, and jank cutscenes constantly interrupt any fun to be had. IF YOU WANT SAINTS ROW 2, GET IT FROM GOG. THAT VERSION IS PRE-PATCHED. 
+
+if you want it on steam, be prepared to mod it just for it to function at least somewhat properly. the fact it hasn't been fixed yet (it was announced around 3 years ago that Volition was fixing this port after recovering the source code) is a crime
+
+TL;DR: steam version is jank as hell without mods, try and get the GOG version for a more stable version",0.7571492791175842,34,True
+9480,101638884,76561198831858465,"kinda unplayable until the patch comes out, if it ever does. not developing a remaster was the worst decision volition has made business-wise",0.7559447884559631,34,True
+9480,145812157,76561198096549057,"You can go to hell, Deep Silver. It is downright insulting how badly you treated the Reboot and how you ♥♥♥♥ all over IdolNinja's legacy. You're as bad as Shogo Akuji.
+
+That said, Saints Row 2 is a bonafide masterpiece.",0.7513093948364258,29,True
+9480,121235435,76561199081537407,"This game came out the SAME DAY as Dead space and outsold it, add the first game in to sales and the series had worldwide sales in excess of six million, making it one of the best-selling video game franchises, that happened back in 2008, but skip to 8/25/2022 and they release a """"reboot"""" that is so awful and buggy it makes day 1 Cyberpunk look like its made of chrome. 
+
+Do yourself a favor, DO NOT play the new game, go and play Saints row 1 and 2, amazing games, 3 and 4 are as well but not as good as them
+
+Edit: RIP Volition, goodbye to your shitty ass unwanted dumpster fire """"reboot"""" and thank god you didn't touch SR2 and shit on your own legacy further, its for the best.",0.74648517370224,58,True
+9480,229195221,76561198247601510,Amazing game but a awful port. Juiced patch+ Dlc mod (and maybe dxvk) fixes this game to where it should've been.,0.7403036952018738,23,True
+9480,157259843,76561198139422881,"The greatest sandbox crime game ever created. We will never get a game this good again.
+
+Protip: Play the GOG version with the GOTR patch. It fixes all the crashing and most of the glitches.",0.7386335730552673,21,True
+9480,218117783,76561199796417354,"With the Juiced MOD - This game is GOOD AS NEW... if you had fond memories of playing this as a kid, oh boy it's better than you even remembered it. Love this game, love how well it can run in the modern day.",0.7378325462341309,24,True
+9480,198942007,76561199112925683,"Unplayable without 'SR2 Juiced' mod. That is the actual ""patch"" for the Steam version of the game. Gentleman of the Row mod is NOT a 'patch fix' for SR2, which I thought it was. Save yourself some heartache and get the Juiced mod FIRST.",0.7342298030853271,23,False
+9480,223274191,76561198199676395,"for people complaining about the pc port, get juiced patch. it fixes 99% of the issues with it and adds some enhancements too",0.7326850295066833,26,True
+9480,215121076,76561198166583603,"Note: Download the Juiced Patch if you want to even open the game let alone see the main menu. Link found here: https://kobraworks.com/juicedpatch.html (Download, open the zipped folder, open the single folder and drag all the contents into the game's files).
+
+After waking up from a coma caused by a traumatic blast from a bombing, a notorious gangster breaks out of prison and seeks to reclaim the city they once handed to their old gang. But with that gang mostly disbanded, it's time for our protagonist to take reforming the gang on their own shoulders alongside an old friend and take the fight to the new players in town.
+
+Saints Row 2 is a sequel to the great but widely unavailable original Saints Row, elevating the first game in many ways aside from now being widely available on more than one platform. It follows in Saints Row's footsteps by maintaining the predacessor's grounded nature and street gangster roots where the games that follow after took much... Wilder and (in my opinion) weaker directions.
+
+Set five years after the events of Saints Row, we join the player character waking up from a coma in Stilwater's prison where we're introduced near immediately to character customisation. In some departures from the original, where the player character was a male silent protagonist, SR2 gives us six voices to choose from and the choice of playing as a female. All six voice actors for the protagonist do a good job of capturing the feel of the setting and how the character should be. And the player character... Can be absolutely psychotic. The sheer brutality on display with how the protagonist eliminates those close to the leader of the gangs (or the leader themselves) is eye opening when you hold them up to how the main character acts in Saints Row 3 and 4 where they become a shadow of their former selves as the franchise got sillier when trying to not act as a GTA clone.
+
+Joining us in the escape from prison is Carlos, a fellow inmate who later becomes a member of the Saints who also does a little expositing as to what's changed in Stilwater since the events of the first game. Some of the original Saints went straight, the leader's vanished and one of your closest friends is now chief of police. Not only that, but three new gangs are controlling parts of Stilwater. The Ronin, who control their territory through vices like gambling and prositution. The Sons of Samedi, who control the flow of drugs that keep the students of Stilwater University happy with their their patented Loa Dust. And The Brotherhood, who don't really have deep rooted rackets like the other two but instead enforce themselves through intimdation and violence to take what they want.
+
+But to even take on these gangs, you're gonna need some help. Aside from Carlos, players will reunite with Johnny Gat and meet some new people to head up with gathering intel and figuring out the best ways to make these gangs hurt. However, taking on these gangs is going to require an ounce of Respect. Doing actions and stunts to earn Respect will give access to story missions. Respect is also earned through the various activities the player can do not only for the Respect and monetary gain, but at levels 3 and 6 of a particular activity, you'll gain rewards. From store discounts, new weapons, health and stamina upgrades to infinite weapon ammo for a particular type.
+
+Progressing through the story will even unlock things tied to the gang that you're taking on. From unarmed fighting styles, taunts and gestures, to the entire roster of vehicles that a particular gang uses with their decals.
+
+Stilwater remains the same in terms of map layout from the original Saints Row. Taking back territory is as simple as completing story missions against each of the gangs and taking on their Strongholds, tough but short assaults against a notable location within Stilwater to wrestle control for your gang to move freely around it and provide a source of income for you to get at safehouses dotted around the map. That money can be put to use in buying up various businesses within your controlled territory for further income boosts, vehicles from dealerships if you can't find a particular vehicle you want for your collection, clothes that you have a good deal of choice when it comes to appearance and weapons to give yourself some slightly better firepower against your enemies.
+
+For those who've played the later titles, don't expect the same mechanics when it comes to gameplay. With a camera that's centered on the character, a near lack of recoil when it comes to firing weapons, it almost feels closer to the 3D trilogy of GTA games. There's also no leveling up or skills to buy with cash or Respect, no weapon upgrades from gun stores and (a way more obvious thing to point out) nothing zany or gimmicky when it comes to weapons. As I said before, this is a much more street level and grounded game when compared to what comes after. The Reboot tries to balance the street level stuff with some ridiculous quirks in gameplay, but I just cling to SR2's gameplay more than the games that followed.
+
+My only real criticism with SR2 (aside from it being a HORRIBLE PC port), is the difficulty of certain activities when you get to the higher tiers. Like the much infamous Tow Truck diversion which I just cheesed by getting gang members off the streets to jump into the cars I needed to tow and follow me to the drop off point. This avoided ALL of the pursuers one would get when picking up one of the cars and having to drive it all the way to the drop off point while under constant attack. Not to mention how awful driving is when towing a vehicle.
+
+Otherwise, Saints Row 2 is easily the best of the series. Having played all but the original I feel like it's easy for me to put it on such a pedestal. I highly recommend picking up Saints Row 2 and experiencing it for yourself. If you follow my note at the top of this review and install the Juiced Patch, I guarantee you'll have a great time with this game.",0.7308346033096313,19,True
+9480,34723954,76561198162446505,"You can smoke a blunt, hold somebody hostage, eat a cheeseburger, f*ck a hooker, shoot up rival gangs, vandalize the f*ck out of the city, flip off police officers, impale people with a kantana, rob people, steal cars, boats, helicopters, and even jets, and then you can come home, log onto steam, and play this game.
+
+10/10",0.7804877161979675,35,True
+9480,114023026,76561198018170309,"Disclaimer: The game is great! I really enjoyed playing it!
+
+The story takes place five years after the explosion on the yacht of Richard Hughes. The protagonist suffered serious injuries which lead to a coma in a maximum security prison. In this moment you get the chance to design your character as a Saints Row tradition. After that, the bandages are taken off and your player awakens. Meeting another inmate named ""Carlos"", you both escape the prison just to realize that the 3rd Saints Street Gang became forgotten and other gangs are running the city of Stillwater. Your task is to bring the gang back together and rise to the top of the city again. The game might remind you of ""GTA: San Andreas"".
+The graphic design has a ""comic"" touch to it but I liked it. The city is quite big and there are many areas to explore and also fun mini games to play. The balance between story missions and challenges just felt right to me. The music tracks are on point and you have the chance to develop a huge business empire. A huge contrast to the game might be the humor which is a lot darker compared to the other Saints Row games, but overall the game is pretty fun and I really enjoyed playing it!
+
+BUT: From a technical standpoint, this port is disastrous! It crashed so many times that I do not recommend buying it now! As many other reviews have shown, I am not the only one with those problems. The fact that this disastrous port is still available on Steam is a scandal! The developers need to fix this port!",0.7299708724021912,31,False
+9480,12614033,76561198064385321,"I gave an old man the middle finger, he threw his walker at me, pulled a knife out, and stabbed me until the police came and shot me.
+11/10.",0.8281475305557251,712,True
+9480,4270411,76561198034821974,"By Far my favourite co-op story based game of all time. Had some great memories on this gem and recommend it too everyone that wants a great story and a fun co-op time.
+P.s: You can still play online but watching this video of how to get it working! [url]https://www.youtube.com/watch?v=fKlD33muDb8[/url] Credit all goes to Mrsaintsgodzilla21!
+10/10",0.727359414100647,17,True
+9480,149599227,76561198090899777,"This game port is a tragedy from surface to bottom, I can't believe how Volition made such a incredible game and still mess up real hard this PC port, FU**ING UNPROFESSIONAL. The amount of patience to play this piece o shite is incredible. They've tied the modders hand because even IdolNinja (RIP), a Saints row developer, couldn't fix it. The difficulty of this game comes from never knowing when is going to crash. I had to replay the same mission at least 3 times because it kept crashing. The ONLY fixes you'll find are for making the experience less torturing, and still this game's performance is rough. The interesting part is that Volition had promised to release a patch to fix this game and now Volition closed it's doors because of Saints Row Reboot, well done!",0.7257365584373474,36,False
+9480,80963641,76561198971252951,"Saints Row 2 - гарантирует тонны годного стёба, бочки чернейшего юмора и мегаджоули драйва. И всё это под отличный саундтрек. Кроме весьма неплохого сюжета, тут есть невероятное количество всевозможных занятий на любой вкус и настроение. А что до сравнений с GTA IV, то всё общее у них заканчивается на определении игрового жанра. Если история Нико Белика — это вполне серьезная криминальная драма, то события в Стилуотете — черноюморный боевик. Сравнивать эти игры — абсолютно глупо. Куда больше общего у Saints Row 2 с San Andreas’ом, и что архиважно, тут нет этих чертовых миссий с самолетами!
+
+В общем, игра получилась на отлично, а если бы не слабоватая графика и высокие системные требования, то была бы и вовсе шедевром.
+
+Моя оценка: 9/10",0.7250000238418579,19,True
+9480,170062809,76561198200608307,"Not the greatest port... but its fixed just look up SR2 Juiced, *THEN* GOTR.... This game is the BEST SR ever made and they should have extended the story from here rather than erasing the progression.. Idol Ninja (community manager I think and a SR modder before hand) fixed the game and posted it online. and pushed to get this game patched with a new appID and it would have been free to current owners. He passed away a week or so before the Reveal of the NEW SR... actually fucking dispicable no matter where you cut it. People are SPED but its good all you need it s GOTR custom patcher made by Idol Ninja ( R.I.P ) He was gonna be responsible to putting this big patch as a actual update to the game if he didn't get ill and pass over... THIS GAME NOT BEING PATCHED AS PROMISED IS A CONSTANT REMINDER OF VOLITIONS NEGLIGENCE OF THE REAL FANDOM AND WHAT WE ALWAYS WANTED OUT OF THIS FORGOTTEN MISERABLE FRANCHISE.",0.7242923974990845,27,True
+9480,227381059,76561198041931371,"GET THE JUICED PATCH!!!
+
+The game is an unplayable broken mess, but the juiced patch turns it into the definitive way to play the game.
+
+Also, with the juiced patch, you can even get the DLC from the console versions that never made it to PC.",0.7213616371154785,21,True
+9480,102043650,76561198344739652,"I wouldn't recommend this game on Steam if you are:
+-impatient
+-uninterested on installing mods to fix the game
+-not used to frame drops (e.x from 70 to 35 in 0.5 second)
+-you own a console
+----
+the problem with the game is that you will crash constantly every 20 to 30mins. the only seem to be a solution to that is you play on borderless window and install a mod called 'gentlemen of the row'. the mod  will slightly fix the crash and frame issues, however, you must save at least every 2 to 4 missions to avoid losing game progress, and highly advised that you restart the game after completing a mission or an activity. properties-purchased, chop-shop & hitman missions progress are not saved by the auto-save.
+
+if you own a console, please don't buy the game on steam. unlike console, you don't have to deal with crashes every 20-30mins and not forced to install mods to improve the game performance.
+
+honestly this game is such a legendary comparing this to other saints row games (3 and 4) and so the 'up-coming' reboot. it's just a shame i couldnt really enjoy this game with these cons plus a terrible pc port. atleast I have patience enough to restart my progress every crash.",0.7188007831573486,38,False
+9480,51740527,76561198382759804,"I absolutely adore this game, and it will forever be a classic to me. There is just something really special about the atmosphere of the game. The music especially, made you feel like you're in a carefree world. I loved the 80s radio station. 
+This game is a master piece! there are tons of activities in this game, the world feels alive and you can actually spend hours just roaming knowing and seeing the city or just looking for the massive amount of easter eggs, i loved every aspect of this game",0.7687898874282837,44,True
+9480,209827103,76561199299879146,"Without a single doubt in my mind, this is one of the greatest open world games ever put together. Saints Row 2 is just such a genuine experience, with lots of main missions and objectives to do as well as plenty of side activities and ""diversions"" too. All three gangs feel distinct and unique, each with its own set of characters that have enough depth to give them meaning to the story events. One of my favorite things to do in this game is to just walk around and look at the details in the environment, the more mundane and boring areas especially. The break room in a warehouse facility, the back of a coffee shop or the server room of an aerospace museum, etc. This game has those everywhere and a surprising number of accessible interiors for the time. The driving is also pretty solid for the time, in my opinion SR2 has the best feeling vehicle mechanics of the entire franchise. The base game's PC port is notoriously unfinished and unstable, but the Juiced Patch for this game fixes pretty much everything. I went a full 40 hours into my current playthrough of the game, and I experienced not a single crash or stability issue. I didn't tweak any of the settings either, simple plug-and-play.
+
+Blood in, blood out. 😺",0.7172473669052124,21,True
+9480,145602044,76561198091910523,"Be aware that yes, this game IS very solid indeed. This ""review"" is more of a eulogy for both a once-respected Video Game developer and a Community Member within said company, who had passed away 3 years ago.
+
+
+
+Mike Watson worked tirelessly, in spite of his condition. What ended up (for the time being) a patch mod for the game, with him hoping that Volition devs would eventually integrate the code into the game itself without the need of the mod.
+Mike Watson died at the company he was hired in, while Volition danced above his grave with a garbage truck of a game, and concurrently not integrating said patch mod.
+The hard work of Mike ""IdolNinja"" Watson would all end up for nothing once [url=https://www.polygon.com/23853963/saints-row-volition-closure-layoffs]Volition was deemed ""a lost cause"" by the Embracer group and was subsequently shut down.[/url] Meaning any attempts of integrating ""Gentlemen of the Row"" into the game itself also lost.
+Volition's cracks were already showing back at ""Agents of Mayhem"", further exacerbated by ""Gat out of Hell"", then finally reaching fever pitch with both the announcement of the reboot of Saints Row and Mike Watson's death would be a critical blow.
+When there's no more room in hell, that's because this company had shown up down in the 7th circle of hell.
+
+Mike Watson died for nothing.",0.7170280814170837,23,False
+9480,13644343,76561198061168819,"Some thoughts:
+I played Saints Row 3 on the Xbox 360 and thought it was the best Saints Row ever (I did not play the others). Although it is a good game, Saints Row 2 is the better game. Why? It takes itself less seriously than GTA but it still has meaningfulness that Saints Row 3 and 4 lack. The gangs are realistic and the campaings are good, whereas the latter games are just crazy. They are fun, but that is pretty much it. Shaundi and Pierce look better in Saints Row 3, but in Saints Row 2 they are likable and are useful and fun to invite around the city. The driving sucks, but the customization is good. Plus, the cheats are better than Saints Row 3! I suggest getting it.... I expected less than Saints Row 3 and got more instead.",0.7660375833511353,81,True
+9480,205662647,76561198418314130,"Saw a review mentioning the ""Juiced"" patch. It is an absolute must if you want to be able to play the game for any meaningful amount of time without it crashing. Search for the patch, its easy to find, download, open the readme's and follow the directions. You have to do this to play this game. Thank you very much to the Juiced Devs for making this classic game playable, you guys are awesome.",0.7150174975395203,20,True
+9480,201429868,76561198044085346,"Very Important Note for anyone buying this game for the first time, and or if you've been a fan returning back to it many years later - Download 'Saints Row 2 Juiced' Mod. It makes the game completely playable on the PC. I've been waiting for a near perfect fix ever since and now its manifested. 
+
+Totally brings me back memories playing this on the Play Station 3.",0.7141422629356384,21,True
+9480,96320857,76561198330081823,It's a really good game. I played it on the PS3 back in 2011 and still looks acceptable in this PC port. Totally worth it. There are some patches to download in some pages so you will fix a couple glitches and you won't suffer from crazy frame drops during the gameplay. Buy it before another unexpected remaster or possible delisted game in the future. Thanks for reading my opinion and have a nice day.,0.7123723030090332,18,True
+9480,20710291,76561198157781854,"Make no mistake, this is a horrible port of Saints Row 2. It may be the worst port of any game ever released. However, thanks to the hard work of modders (one of who now works for Volition), it's playable at a semi-constant 60 frames-per-second. The game itself is amazing, and in many (not all) aspects the high point of the Saints Row franchise. Recommended if you don't mind going through the trouble of modding it to get it in playable condition.",0.8118402361869812,52,True
+9480,224219679,76561199194402819,"It's a very good game but you gotta use community patches to make it work right, Thanks to the JUICED community and to the late IdolNinja for allowing this marvelous game to be played almost 20 years after release",0.7108964323997498,23,True
+9480,55655013,76561198061857771,"The devs found the source code, now they're revisiting it to make it run well!
+
+11 years, that's some commitment.",0.8051265478134155,64,True
+9480,142912833,76561197996719958,"This game is good, but the port is awful.
+
+It's a crapshoot even with custom DX9 DLLs and the Gentlemen of the Row patch. I've had better experience on Linux (Mint 21) using the native build, but occasional crashes, the texture alpha issue, and some other issues taint the experience for me.
+
+If/when the official patch to fix these issues releases then ignore this.",0.704739511013031,22,False
+9480,195210885,76561198154402655,"Its a shame the long awaited ""pc patch"" will never see the light of day but with a couple of mods that fixes the performance and bugs you can have a pretty good time playing this version. Too bad about the DLCs but oh well. Buy it on sale! (i'm giving this a negative review because as a download and play solution you can't really enjoy this game you'll need community fixes.)",0.7043913006782532,21,False
+9480,210635052,76561199867667505,"great game, terrible port. just get it for xbox tbh. constant crashes no matter whats changed in settings or pcu stuff, you will eventually have constant crashes and lose progress. not worth it. esp for regular price.",0.7033137679100037,21,False
+9480,70793068,76561198887160647,Game is epic but the port is horrible. Install Gentlemen Of The Row mod first because it fixes the game up and adds a ton of stuff.,0.7982454895973206,35,True
+9480,208835180,76561199172526201,first game i ever had for xbox 360 it was a birthday present from my dad before he died when i was 6 and it holds a  special place in my heart thank you dad and thank you volition for the great memories,0.6966211199760437,16,True
+9480,159856284,76561198154253862,"A great game with the worst porting ever,the game doesnt work on modern pc what a sad ending",0.7449402213096619,29,False
+9480,112036552,76561198097707084,"back in the day i never thought there will be a game good enough like GTA 
+
+but after playing Saints Row and this part also i become a fan of the series 
+
+it was xbox 360 days but i did play this on here again because its worth it
+
+i wish they bring the first game here or remaster it
+",0.6942994594573975,14,True
+9480,37914077,76561198108843030,"Hardcore Saints Row Fan's Review,
+
+Amazing Story - ✓
+Flawless Gameplay - ✓
+Best Damn Sountrack Ever - ✓
+Being a total badass - ✓
+OHSHIT moments - ✓✓
+Good Vehicle Controls - X
+
+20/10. Best Saints Row game in the franchise.",0.737313449382782,37,True
+9480,115180018,76561198405716483,"I can't describe the amount of fun I had playing this game, still stands as such an amazing sandbox title, with insane replayability and a gripping and fun story.
+
+That said, this port is awful, expect lots of crashes, save corruption, hilarious bugs in cutscenes like guns floating, literal game-breaking stuff.
+My suggestions! 
+
+Install gentlemen of the row by IdolNinja - this fixes 90% of the bugs and crashes the game has, plus adds a ton of content from console versions, some unreleased things, and stuff to make the game better and more enjoyable!
+
+lock the game into 60fps - cutscenes will likely be weird, (floating objects) but this fixes gameplay.
+
+force the game into borderless window - just look on youtube, find an install for a borderless window forcer, this fixes SO many crashes.
+
+When entering vehicles, you can stand on top of the car to skip animation, these crashes will sometimes be unavoidable, but will decrease it a lot.
+
+Save, a lot. 
+Never rely on your autosave, not only save manually, but create new saves in case of corruption, do this once you feel you've made significant enough progress that you do not want to do again.
+
+save whenever entering wardrobe - looking through outfits is like a 50/50 crash, just save.
+
+and that's all my suggestions, there are of course more and I suggest you to look at them, if you can buy this game on console, also do that, because it has the DLC story missions not on PC!
+Overall, this may be my favourite saints row game, and I love them all, 1, 2, 3, 4, even AOM was alright, but saints row 2 is seriously special and does everything right.
+
+actual 10/10. (excluding the pc port)
+",0.6830389499664307,15,True
+9480,223301601,76561199155353641,"Juiced Patch FTW, took me less than 2 minutes to set up and I've never seen Stillwater look so good even on my bucket of a gaming PC.",0.682391881942749,18,True
+9480,92614553,76561198244068584,"I love this game very much and I think it is the best Saints Row out of the franchise. However, I cannot recommend it because of the well known problem with the PC port. I managed to optimize it and play it at a good frame rate with Gentlemen of the Row mod and a few tweaks, but I would have to save every 40-60 minutes or it would randomly crash at the end of the mission or in the middle of the cutscenes. 
+Does it really take that much to fix this game? I see the devs put a lot of effort in remastering the now overpriced SR3, but cannot fix the problem with this one? I doubt it isn't possible to stick to their promise. It's a shame because the game truly is amazing.",0.6817111372947693,20,False
+9480,226046393,76561199003788007,I stopped throwing boxes full of lyme infected lone star ticks into midwest fields to beat this game. Gloinky experience. 10/10,0.6774999499320984,17,True
+9480,138236093,76561198263434105,"I can't recommend a game that is sold in this horrible, buggy state on the store.",0.675996720790863,17,False
+9480,171991479,76561197986360343,"Usually, people tend to put either episode 2 or 3 in the number 1 spot when it comes to the [i]Saints Row[/i] series. Personally, I prefer [i]The Third[/i] but whichever episode you played most one thing is for sure: it all started with [i]Saints Row 2[/i] on PC. The first part has always been Xbox exclusive. I wish this one got a Remastered version! There is a compilation of its cutscenes on YouTube and the videos still look great.
+
+Why play it now? I had a quick glance at the latest (and last) part and it was too bright for me. Not sure why they ditched a lot of things and decided to take the reboot route. What about [i]Gat out of Hell[/i]? Meh... it was always a bit of a mystery for me so I never played it. For me [i]Saints Row[/i] is part 3 and 4 (yes, the idea of a Matrix-like version fascinated me).
+
+Now, this one picks up the story where it was left off. The gang is still in Stilwater - Steelport was only introduced later as the main setting. I can imagine people fell in love with part 2 immediately: it already had realistic physics (the graphics were not as next-gen as in GTA IV that was released in the same year but this was definitely ahead San Andreas in terms of technology). 
+
+We saw full character customisation for the first time and picking different gender and race meant different voice actors (altogether 6 of them if I'm not mistaken). If you started with [i]The Third[/i] then you never got mad at Volition for getting rid of Gat who appears to be the first person you recruit as you get ouf of prison. Then you continue with Shaundi and Pierce later on. One hour in you already have lots of missions and activities you can choose from and 2 cribs. 
+
+While Part 2 is still not as serious as any GTA (essentially a trademark of the series) it isn't as crazy as [i]The Third[/i] became later on. If you don't mind the dated graphics and that the FPS value varies between 40 and 60 on the highest settings (for no apparent reason) then pick this one up. Ditch the reboot!",0.7241222858428955,26,True
+9480,205767610,76561198830433369,"holy bugged. I can't even start the game because it crashes right when you click new game. I've played this game on console and it's really fun, so if you can get it to work, then more power to you.",0.6736383438110352,13,False
+9480,211802238,76561198279917731,buy it on gog for 1$ where the game actually runs without the need of mods <3,0.6726317405700684,18,False
+9480,30809546,76561198262825296,"MY FAVOUTITE GAME EVER!!! 
+Warning very crap pc port on older hardware to make it work get GENTLEMEN OF THE ROW
+
+Pros:
+good story
+funny humour
+memorable characters
+lots of fun stuff to do in free roam
+
+Cons:
+Bad port on older hardware
+Tag spraying is a little weird with the mouse
+
+Edit: update coming out to fix all the technical issues with it and all DLC added for free so S++",0.7220468521118164,40,True
+9480,188912511,76561198167595527,"This was a great game, but now all it does is crash.  Just waiting for the game to be fixed now.",0.6715068221092224,11,False
+9480,80126364,76561199015081576,"Saints Row 2... oh boy. This game is something special, both in a good and bad way. In a good way, it's Saints Row 2; a fairly huge open world crime sandbox that lets you be almost any character your mind can imagine. On top of this you can drive almost any vehicle you wish and run around the city getting into some of the most crazy and action packed shenanigans any game could ever offer.
+
+What made me put a thumbs down though? It's an absolute crapfest of a PC port. I didn't do my research, so I wasn't aware that the PC port was bad until after I purchased it. Thank the Saints I got it on sale. Even with the right mods that allegedly ""fix"" the game, it is still a hassle to get working for more than an hour. Nearly every corner of this port is infested with the mediocrity. The audio is plagued with issues, the vehicle controls are either too clunky or too jerky, (the gunplay is alright), the game's framerate will tank after about an hour of gameplay, and perhaps the worst part; it crashes. Alot. One of the easiest ways to crash it is to go into an outfit or clothing menu. This is hell on earth for me, as I constantly want to change my character's outfit whenever I play a game like this.
+
+My sypnosis? It's still an OK game, but I would not get it on PC unless it is on sale. I still managed to beat the game, but the bugs left me tired of the game, and wanting to beat it as quickly as possible.",0.6704688668251038,34,False
+9480,230418618,76561197960287524,"My thoughts: Everyone should leave a negative review on this game in protest. 
+The Steam version is shipped with broken content, filled with crashes, major FPS drops regardless of your hardware, and other really odd bugs.
+
+Using a patch (either Gentlemen of the Row or Juiced) you can fix this, but it's even still not recommended to use the steam executable, which is broken. I had to buy the game on GoG (luckily it's on sale right now), grab the executable from there, replace the steam executable, install a patch, and now the game seems to work smoothly with more FPS.
+
+The sad thing is, this is not the only game on steam that ships in a broken state. There's several others, generally really crappy PC ports or really old games, that require patches before they'll even boot. I can't in good faith stand by these practices, so instead of reviewing the actual game (which I really enjoy), I'll leave my negative review for visibility.",0.6697248816490173,17,False
+9480,195778733,76561198133723205,"Currently going strong on steam deck 
+proto expirimental setting and GOTR mod 
+no crashes so far clean game play 
+It feeling like back in the days on the xbox 360 
+Idolninja R.I.P. my legend",0.6669302582740784,13,True
+9480,36678807,76561198043915242,"This is the best game in the series in my opinion; however, it's mired by an atrocious porting job. You'll probably spend more time trying to fix the game than actually playing the game unfortunately.",0.6664169430732727,45,False
+9480,233378319,76561199863314086,It's a masterpiece and an era locked game which is beautifully done and a cornerstone in my childhood memories. (Works well with SR2 Juiced),0.6659179925918579,12,True
+9480,198077614,76561197971918189,Just finished this game. It has to be the best Saints Row game in the series. Do yourself a favor and install the Gentlemen of the Row patch. It adds extra content and stability.,0.6658630967140198,14,True
+9480,218880445,76561198103075418,"You need to use the juiced patch, or the PC port is unplayable.
+
+I enjoyed my time replaying this game for the first time in years. 
+
+Has the early 2000s edge.
+It's the last ""believable"" gang-based Saints Row game, before it got too stupid and over the top. 
+
+The main story and cutscenes are mostly realistic and directed well; the only over-the-top things in the game are the side activities.
+
+Credits rolled after 12h30m with 66% game completion
+
+7/10
+",0.6633634567260742,14,True
+9480,86495341,76561197977450814,"The game is great, it is everything you would like from Saints Row The Third but with a better plot.
+
+However in its current state even with the Gentlemen of the Row patch, the game keeps crashing randomly. The most notable is when I attempt to enter some vehicles the game will instantly crash to desktop causing me to lose all my progress.",0.6620751023292542,14,False
+9480,163955443,76561198095665054,"Just blew up a courtroom as a half naked lady with a male voice and a mohawk, I had RPG 7 M4 and a machete.
+
+10/10 would break the law again, Splendid game!",0.7092689275741577,19,True
+9480,24115107,76561198051789349,"Saints Row 2 is much more serious than later games of the saga (e.g. no dubstep guns, zombie islands and other hilarious things). However, it doesn't mean it's less fun to play. Furthermore, I enjoyed playing the main campagin much more. So, here are my favourite things about Sants Row 2:
+1. The city is constantly living - every person on the streets feels unique, with his own reactions to your actions, you can find people talking about the latest events happened in the game, there are skateboarders, street musicians, homeless people and much more. The town itself is not just a bunch of buldings put up together - every district is unique, a lot of places are playable (you can even visit the office of Volition, the developer of SR :) ).
+2. The story makes sense. If you played SR: The Third/ SR 4, you know what I'm talking about ^_^
+3. Humor - unlike in the later games, SR 2 doesn't need a crazy situation to occur in order to be funny.
+4. Customization. It just works, it's fun to play with, and it gives your character some sort of unique style and, well, character :)
+ As for the conclution I should say that the game is very atmospheric, yet doesn't have any strict and ""correct"" playtrough, and altogether feels free and unobtrusive.",0.7066192626953125,23,True
+9480,156526453,76561198379683856,being able to purchase a game that refuses to launch is crazy,0.7553670406341553,47,False
+9480,133635496,76561198289648208,There needs to be a patch that will never come. I love this game to death but not on PC. It crashes at launch and during missions. I played this game on NVIDIA graphics cards and AMD. AMD works best less crashes compared to NVIDIA. Now that I am fully NVIDIA the game is practically unplayable.,0.6546801328659058,20,False
+9480,122010159,76561197996618273,"I have just finished the game and is a great game to go back into the old days. Game is great but have 2 issue. The game random closes out so make sure to be patience and always save game after each mission just to be safe. and the second is that it will lower any other device playback audio. Like for example Discord or your browser, it will lower any other application audio. Other than that game is great and fun.
+
+Highly recommend it.",0.6538099050521851,12,True
+9480,71180292,76561198157405693,"🌦️---{Graphics}---🌦️
+☐ You forget what reality is
+☐ Beautiful
+☐ Good
+☑ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ Paint.exe
+
+☯---[Story]---☯
+☐ It doesn't have
+☐ Bad
+☐ Average
+☐ Good
+☑ Fantastic
+☐ Make your own story
+☐ Its multiplayer what did you expect
+
+⚔️---{Gameplay}---⚔️
+☐ Very good
+☐ Good
+☑ It‘s just gameplay
+☐ Mehh
+☐ Staring at walls is better
+☐ Just don‘t
+
+🎵---{Audio}---🎵
+☑ Eargasm
+☐ Very good
+☐ Good
+☐ Not too bad
+☐ Bad
+☐ Earrape
+
+❤️---{Audience}---❤️
+☐ Kids
+☐ Teens
+☐ Adults
+☑ Humans
+
+🖥️---{PC Requirements}---🖥️
+☐ Check if you can run paint
+☑ Potato
+☐ Decent
+☐ Fast
+☐ Rich boiiiiii
+☐ Ask NASA if they have a spare computer
+
+☠️---{Difficulty}---☠️
+☑ Just press ‚A‘
+☐ Easy
+☐ Significant brain usage
+☐ Easy to learn / Hard to master
+☐ Difficult
+☐ Dark Souls
+
+⚙️---{Grind}---⚙️
+☐ Nothing to grind
+☐ Only if u care about leaderboards/ranks/cosmetics 
+☑ Isnt necessary to progress
+☐ Average grind level
+☐ Too much grind
+☐ You‘ll need a second life for grinding
+
+۞---{Game Time}---۞
+☐ Long enough for a cup of coffee
+☐ Short
+☐ Average
+☑ Long
+☐ To infinity and beyond
+
+💲---{Price}---💲
+☐ It’s free!
+☐ Worth the price
+☐ If u have some spare money left
+☑ Wait for that SALE drop
+☐ Not recommended
+☐ You could also just burn your money
+
+🐛---{Bugs}---🐛
+☐ Never heard of
+☐ Minor bugs
+☐ Can get annoying
+☑ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+☐ Fallout 76
+
+🥂---{Overall}---🥂
+☐ It's so bad 😢
+☐ Ehh 🥱
+☐ Oh yeah 🙂
+☑ Not too shabby 😎
+☐ Yes baby Jesus 🥳
+",0.7533032298088074,49,True
+9480,117097537,76561198003545650,"When you hear ""gangsta bitch"" you remember alll the good times. 
+
+Why is customisation so much better in this old ass game?",0.7009979486465454,17,True
+9480,173579192,76561198096292650,crashes randomly even with gentlemen of the row :( it mostly performs alright but im constantly losing progress . play it on 360/ps3,0.6509255766868591,14,False
+9480,153348425,76561197993032945,"It's not a good port.  i'm using Gentlemen of the Row mod to keep it mostly stable.  Controls response is sluggish at times.  But the story is fun and over the top.  I don't even remember what I paid for it, maybe a couple of dollars.  I wouldn't spend any more on that.",0.6498531103134155,18,False
+9480,123414982,76561198363746198,"One of the best open-world games every made, but fucking christ-almighty what a horrid PC port! 
+
+If you plan on picking this up please look into the fixes of this port by the community: 
+https://steamcommunity.com/sharedfiles/filedetails/?id=2652709959
+",0.6498265862464905,13,True
+9480,59921040,76561198097567485,"Two members from Volition found the original source code for this game a while back, thus I thought it a good time to leave a review. Currently, this game does not work well on Win10; however, when this game does work, its stupid fun in all of the best ways. The humor, story, gun-play, and amount of customization this game offers is on point and still my favorite in the SR series. Which is why I cannot wait until a patch comes out for this version of the game that makes this playable again, and is still totally worth the purchase to this day, especially on-sale.",0.6993378400802612,17,True
+9480,117193292,76561197960271143,"I've tried everything. Vista compatibility mode, GOTR mod, powertools, nvidia framerate limiter, disabling thread optimization, running windowed, enable/disable vsynch but nothing stops the crashes when you get into cars and worse when cut scenes start and end. I literally cannot advance in this game because I can't finish the missions. It's old, they'll never fix it and a million people have complained before me but it's pretty poor that a company can sell a game (even if they farmed out the PC port) that is literally unplayable. I wish I didn't like it so much. Oh well.",0.6487724184989929,14,False
+9480,50225301,76561198013723081,"Hello Friends. This is the original saints row game on steam that i have played. I actually never played the original one, so this is the first one i played. This is the game that introduces you to many of the saints row characters that you have come and known. I haven't played the game recently, but i have played it in the past. It seems many people are complaining it does not work very good on windows 10. I myself have not tested it myself, but it might have to do with the same thing i did for Saints row 4, by limiting how many processors run for the game. This game is more like a GTA game than the others in the series. I actually did not like it as much as the later ones that are more silly and funny. I want to laugh and forget my worries of the day so i like funny and silly games like the later ones. Still, if you want to play a game that is similiar to GTA, play this one. Otherwise, you can buy this game to find out what the saints are referencing in the later games in the series.
+
+Recommended for being a saints row game, even thought it is more GTA style like playing.",0.648491621017456,22,True
+9480,19104987,76561198202263164,"This game has to be one of my favorites of all time. 
+Character creation is amazing, so many customization options. I made Nigel Thornberry.
+The story is actually really good and immersive and invokes genuine feelings, you really hate the antagonists. 
+The game is just the right amount of crazy, the third and fourth games went off the deep end and while they were still entertaining, the story wasn't really as serious as it was in this game.
+The difficulty was alright, it wasn't irrationally hard but it didn't seem overly easy.
+It was genuinely fun to play and the characters were well developed.
+I highly recommend the game, it's definitely worth the money and time. My only negative thing is the multiplayer, it's very difficult to connect with friends, but possible. I do truly love this game despite that, and it's definitely worth the dollars.",0.6968441009521484,20,True
+9480,79755352,76561198068581349,"+ Great story
++ lot of customization 
++ lot of activities
+
+- bad port, there's so many graphical issues alongside with game crashes so often, so you'll need to save your game frequently.
+- To progress the story mission, you'll need ""Respects"" point
+",0.6465495824813843,12,True
+9480,191153350,76561198327600250,"After not having played it for years, I wondered if this game was truly good, or if it was just nostalgia. After playing it the past couple of weeks, I can in fact confirm that this IS one of the best games ever made. Unfortunately, this port is as bad as everybody says it is. I had to download two separate mods to help this god-awful port and still it ran like complete shit and crashed often. Despite all that I still had an incredible amount of fun, but I doubt most people would be able to enjoy this game with these constant frustrations.",0.6455502510070801,15,False
+9480,165002034,76561198200593901,"Wouldn't recommend, it crashes after almost every mission. sometimes you'll get lucky and get past it, and can save. I have to give it a bad review based on the fact it's unplayable unless you mod it.",0.6438330411911011,16,False
+9480,203766830,76561198882921669,"came here to leave a thumbs down because of the constant crashing, but the ""juiced"" patch pretty much fixed everything.
+
+finally can re-experience this masterpiece from my childhood. it's so sad to see such a fall from grace for the Saints Row name. at least you can experience one of the best games in the series without constant crashing with a great visual overhaul.
+
+I highly recommend also installing:
+- Gentlemen of the Row by IdolNinja
+- High Quality Radio Mod by N69
+- Saints Row 2 High Quality Texture Pack by Masamaru",0.6433727145195007,11,True
