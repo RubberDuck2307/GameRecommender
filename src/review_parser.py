@@ -47,7 +47,7 @@ class ReviewParser:
             if alternatives else None
         )
 
-    def split_sentences(self, review: str) -> list[str]:
+    def split_to_sentences(self, review: str) -> list[str]:
         """Split review text at sentence punctuation or line breaks."""
         if not isinstance(review, str):
             raise TypeError("review must be a string")
@@ -123,7 +123,7 @@ class ReviewParser:
         Example: "The combat is fun, but the story is not good."
         returns [["combat", "fun"], ["story", "not", "good"]].
         """
-        sentences = self.split_sentences(review)
+        sentences = self.split_to_sentences(review)
         # parts = self.split_conflicting_parts(sentences)
         tokens = self.tokenize(sentences)
         return [part for part in self.remove_stop_words(tokens) if part]

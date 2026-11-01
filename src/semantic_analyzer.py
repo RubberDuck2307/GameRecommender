@@ -3,6 +3,8 @@
 from dataclasses import dataclass
 from typing import Iterable, Mapping
 
+from .aspects import ASPECTS, GAMEPLAY_ASPECTS
+
 
 @dataclass
 class SentenceAnalysis:
@@ -14,41 +16,16 @@ class SentenceAnalysis:
 
 
 class SemanticAnalyzer:
-    """Match whole tokens against configurable aspect and sentiment lexicons.
+    """Match tokens and adjacent bigrams against aspect and sentiment lexicons.
 
     Matches identify keywords, not an overall sentiment score. Negation and
     sarcasm are not interpreted: "not great" still matches positive "great".
     The parser's tokens cannot recover the original unprocessed sentence text.
     """
 
-    ASPECTS = {
-        "gameplay": [
-            "gameplay", "combat", "movement", "parkour", "controls", "control",
-            "mechanics", "fighting", "stealth", "difficulty", "balance",
-        ],
-        "story": [
-            "story", "plot", "narrative", "writing", "dialogue", "characters",
-            "character", "quests", "quest", "ending", "lore",
-        ],
-        "graphics": [
-            "graphics", "visuals", "textures", "lighting", "animation",
-            "animations", "art", "scenery",
-        ],
-        "audio": [
-            "audio", "sound", "sounds", "music", "soundtrack", "voice", "acting",
-        ],
-        "performance": [
-            "performance", "optimization", "fps", "framerate", "stuttering",
-            "lag", "bugs", "bug", "crashes", "crash", "loading",
-        ],
-        "world": [
-            "world", "exploration", "map", "environment", "atmosphere", "immersion",
-        ],
-        "value": ["price", "cost", "value", "content", "replayability", "replay"],
-        "multiplayer": [
-            "multiplayer", "coop", "cooperative", "pvp", "servers", "matchmaking",
-        ],
-    }
+    ASPECTS = ASPECTS
+    GAMEPLAY_ASPECTS = GAMEPLAY_ASPECTS
+
     POSITIVE_WORDS = [
         "great", "good", "excellent", "amazing", "fantastic", "fun", "enjoyable",
         "smooth", "responsive", "beautiful", "immersive", "engaging", "compelling",
@@ -67,17 +44,17 @@ class SemanticAnalyzer:
         "interesting", "rewarding", "fluid", "relaxing", "entertaining",
         "exciting", "creative", "cool", "memorable", "fresh", "funny",
         "balanced", "solid", "nice", "intuitive", "enjoy", "fair",
-        "hilarious", "innovative", "challenging", "realistic" , "awesome", "incredible"
+        "hilarious", "innovative", "challenging", "realistic", "awesome", "incredible"
     ]
     LEARNT_EXTENDED = [
         "bland", "dull", "confusing", "grindy", "flawed"
     ]
 
     def __init__(
-        self,
-        aspects: Mapping[str, Iterable[str]] | None = None,
-        positive_words: Iterable[str] | None = None,
-        negative_words: Iterable[str] | None = None,
+            self,
+            aspects: Mapping[str, Iterable[str]] | None = None,
+            positive_words: Iterable[str] | None = None,
+            negative_words: Iterable[str] | None = None,
     ):
         self.aspects = {
             aspect: {word.lower() for word in words}
@@ -100,13 +77,15 @@ class SemanticAnalyzer:
         """
         results = []
         for sentence in review:
-            words = list(dict.fromkeys(token.lower() for token in sentence))
+            tokens = [token.lower() for token in sentence]
+            words = list(dict.fromkeys(tokens))
             word_set = set(words)
+            aspect_terms = word_set | {a + " " + b for a, b in zip(tokens, tokens[1:])}
             analysis = SentenceAnalysis(
                 sentence=list(sentence),
                 potential_aspects=[
                     aspect for aspect, keywords in self.aspects.items()
-                    if word_set.intersection(keywords)
+                    if aspect_terms.intersection(keywords)
                 ],
                 semantic_keywords={
                     "positive": [word for word in words if word in self.positive_words],
